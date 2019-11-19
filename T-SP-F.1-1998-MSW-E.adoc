@@ -1,0 +1,591 @@
+= Five-letter Code Groups for the use of the International Public Telegram Service
+:bureau: T
+:docnumber:
+:series: FIVE LETTER CODE GROUPS* *FOR THE USE OF THE INTERNATIONAL PUBLIC TELEGRAM SERVICE
+:series1: (According to ITU-T Recommendation F.1 (03/98))
+:published-date: 1998-06-01
+:status: published
+:doctype: recommendation
+:keywords:
+:imagesdir: images
+:docfile: T-SP-F.1-1998-MSW-E.adoc
+:mn-document-class: uit
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+:stem:
+
+
+
+== Note from the TSB
+
+[class=steps]
+. By TSB Circular 104 of 23 March 1998, the TSB announced the approval of revised ITU-T Recommendation F.1, in accordance with Resolution 1, Section 8 of the WTSC-96 (Geneva 1996). Consequently, the TSB has prepared a new List of additional five-letter code groups for the use of the international public telegram service in conformity with ITU-T Recommendation F.1 (03/98), C98.
+
+. This List, published as an Annex to ITU Operational Bulletin No. 669 of 1 June 1998, is based on the contributions (white documents) submitted to the former ITU-T Study Group 1. The List only incorporates five-letter code groups most commonly used in the operation of the international public telegram services which have been reviewed during the meetings of the former ITU-T Study Group 1 and then approved by the ITU-T Study Group 2 meeting held in Geneva, 3-13 March 1998.
+
+. For practical convenience, this List contains two parts:
+
+* In *Part I* (Decoding), all codes, irrespective of their function, are given in alphabetical order in the left-hand column. The significance of each code to which crossreferences are given is found in the right-hand column.
+
+* In *Part II* (Coding), the codes are classified according to the fields of operation in which they are used.
+
+. For information, the List is also available on the ITU home page (http://www.itu.int/itudoc/itu-t/ob-lists), and can be consulted by subscribers by remote access.
+
+
+
+== Part I - DECODING SECTION
+
+Five-letter code groups in alphabetical order:
+
+APHAD:: We are debiting you.
+ASSUM:: Cannot give better address.
+ATFIX:: Give full address.
+ATHAS:: State name and address of sender.
+ATJAW:: Give name of addressee.
+AYGUM:: Please have address confirmed by sender.
+AYHAW:: Read name of addressee \\______\____.
+AYJET:: Read telegraph office of destination as \\______\____.
+AZBIN:: Sender's contact address is \\______\____.
+AZFOP:: \\______\____ blank, diverted.
+AZGUN:: Cancel \\______\____ for abstract and accounting purposes.
+AZJEW:: Cancel, error of service.
+AZKEG:: Cancel our number \\______\____.
+AZRED:: Cancel, misrouted.
+BABBA:: Cancel at sender's request.
+BABSO:: Telegram (or service telegram/advice) number \\______\____ cancelled.
+BACYS:: Blank numbers \\______\____.
+BADPO:: Shall we cancel?
+BINZA:: Recognized Operating Agency (ROA) does not admit this class of traffic.
+CEPAD:: In our number \\______\____ number of words \___\_______ correct.
+CESAP:: Wrong number of words \\______\____ actuals received.
+CODUN:: Read number of words in \\______\____ as \___\_______.
+ENRAM:: Propose diverting \\______\____ traffic via you. Advise if you can clear without delay. +
+EVLOW:: Your \\______\____ apparently miscirculated to us, message held awaiting your instructions.
+GYLIL:: Complaint of delay. Give time received and delivered (reforwarded) and explain any delay.
+HAGAS:: Confirm time of acceptance \\______\____, complaint of delay.
+HAPIG:: Delay due to \\______\____.
+HETIN:: Explain delay.
+HOMAT:: No delay.
+JAJAR:: Can you now deliver?
+JAMEG:: \\______\____ claimed registered address good, messages previously sent to same address duly delivered.
+JARAG:: \\______\____ claims misdelivered. Give particulars of delivery.
+JEHAT:: Deliver to \\______\____.
+JIDEW:: Delivered to and accepted by \\______\_____.
+JIFAG:: Delivered to registered address \\______\____.
+JIHAW:: Delivery office closed.
+JIJAY:: Duly delivered.
+JOHAY:: Give particulars of receipt and delivery.
+JOKID:: State date and time of delivery.
+JUFAR:: \\______\____ is a reply to your \___\_______. Can you now deliver?
+JUJEW:: Message has been called for.
+JUKIT:: Message received at \\______\____ and delivered at \___\_______.
+JYBAG:: Now delivered, called for.
+JYDOT:: Now delivered to and accepted by \\______\____. (_complete address_)
+JYGUS:: Now cleared to ship. Cancel advice of non-delivery.
+JYSUM:: Re-tender and advise.
+MAHPO:: Why was it not delivered?
+MAJPA:: Forward by mail.
+MANAG:: Forwarding by mail.
+MATIS:: \\______\____ still on hand as communication not established since receipt. Message(s) will be retained for further trial unless otherwise instructed.
+MATMU:: Instruct us how to dispose of \\______\____.
+MEGLA:: \\______\____ was forwarded to \___\_____\__ at \___\_______.
+MEROW:: \\______\____ are identical.
+METAB:: Duplicate delivered.
+MIHOB:: Message number \\______\____ appears to have been received also under number \___\_______. Shall we cancel latter copy?
+MIHYT:: Message number \\______\____ is not duplicate of message number \___\_______.
+MIJEM:: Uncertain if following message (service advice) has been sent to you before. If previously received under another number cancel this copy and report.
+MIJNU:: We have two different messages under number \\______\____. Give new number.
+MIRZU:: Can you explain?
+MOBAY:: Can you trace?
+MODAB:: Case now closed.
+MOPOH:: Following received from \\______\____.
+MOPYD:: What is the name of the coast station?
+MORUG:: What is the name of the ship station?
+MOYES:: Give telegraph office of origin.
+MYBEG:: Enquire and advise us.
+MYJUG:: Please report present status of enquiry, we are being pressed for a reply.
+NACBA:: We are enquiring, will reply as soon as possible.
+NACNE:: We are enable to trace.
+NAFAC:: Addressee claims incorrect.
+NEDIB:: Place of destination incomplete, there are several. Advise.
+NEDYF:: Error(s) made here and will be dealt with.
+NEFAT:: Error of service.
+NEMYD:: Place of destination unknown, we forwarded to \\______\____. Correct if necessary.
+NIBYP:: Mutilated. Please repeat.
+NISER:: Omitted.
+NODHE:: Sender's error.
+OLMAD:: Address insufficient, we try delivery to \\______\____. Correct if necessary.
+OLWAY:: Address unregistered, we try delivery to \\______\____. Correct if necessary.
+OMKEW:: Complaint of non-delivery. Give full particulars of delivery and say if addressee acknowledges receipt.
+ONKEY:: Message unacknowledged after \\______\____ transmissions. Please advise.
+OPBUN:: \\______\____ sender received advice by another route that message undelivered. Please investigate and reply quickly.
+OPKID:: Treat as non-delivery.
+OPSOP:: Undelivered, addressee cannot be found
+OPWIG:: Undelivered, refused by addressee.
+ORDAD:: Undelivered, addressee not on board.
+ORMAT:: Undelivered, house closed; notice mailed.
+ORWON:: Undelivered, owing to \\______\____.
+OSHAT:: Undelivered, returned by postal service, unclaimed.
+OSJOG:: Undelivered, returned by postal service, unknown.
+OSMAW:: Undelivered, several firms of that name.
+OSSUP:: Undelivered, several streets of that name, district required.
+OTTAB:: Undelivered, unable to contact telephone number.
+PAJAV:: Addressee acknowledges receipt.
+PALAM:: Get addressee's acknowledgement of receipt.
+PALIL:: Good delivery receipt held for \\______\____.
+PAMNO:: \\______\____ is registered for \___\_______.
+PASCA:: Transmitted twice; cancel second transmission.
+PATAB:: Supply unpacked address for \\______\____.
+PEZES:: We are refunding.
+PEZIH:: Refund is authorized.
+PEZJU:: Refund is not authorized.
+PEZVE:: Telegram service not at fault.
+PEZYV:: Refund of charges are in order for any special service relating to the radiotelegram that have not been carried out.
+PIDUD:: Sender applies for refund of message charges. Please authorize.
+PITUG:: Sender's confirmation.
+POFIH:: Correct if necessary.
+POHCO:: Correction made by sender.
+POHEG:: Correct on our copy.
+POHOC:: Do not understand your service advice. Repeat references.
+POMDU:: Delete CTF (Correction to follow) in service instructions.
+POMZO:: \\______\____ forwarded "subject to correction" for \___\_______.
+PONEB:: Forward (or deliver) correction.
+POSAG:: Consult sender.
+POSRA:: Herewith copy \\______\____.
+PUCUD:: Indistinctly written.
+PUFOB:: Is this message still "subject to correction"?
+PYBIN:: Office of addressees closed.
+PYSAT:: Delivered subsequently. Cancel advice of non-delivery.
+RACYB:: Still undelivered.
+RAFIS:: Undelivered, not called for.
+RAFSO:: Second application.
+RAFUJ:: Undelivered, addressee absent.
+RAHOT:: Undelivered, addressee left, forwarded by post to \\______\____.
+RAJAJ:: Undelivered, addressee unknown.
+RAJEV:: Undelivered, addressee left for \\______\____.
+RAJFU:: Undelivered, addressee left without leaving address.
+RAMUZ:: Subject to correction.
+RATEB:: Third application.
+REGAD:: Undelivered, several persons of the same name.
+REJAB:: Undelivered, ship out of range.
+REKEG:: Undelivered, address insufficient.
+RICOD:: Undelivered, address no longer registered.
+RIJAG:: Undelivered, address not registered.
+RISOB:: Undelivered, no house at that number.
+ROCOG:: Undelivered, place, street, road, etc. unknown.
+ROFAB:: Undelivered, not claimed on board.
+ROFER:: Undelivered, ship already left.
+ROFJO:: Undelivered, ship did not communicate.
+ROFUN:: Your BQ makes no correction.
+ROKEW:: Your service advice corrected and forwarded.
+ROSOP:: Undelivered. Several ships of the same name. Please supply nationality and/or call sign.
+RUCMU:: Undelivered, telephone number given in address does not correspond with the name of addressee.
+RUCOS:: Undelivered, hotel, house, firm, etc. no longer exists.
+TOPMO:: Acknowledge this notification.
+TUHRU:: Say if in agreement.
+TUNHO:: We are in agreement.
+TUNVU:: We are not in agreement.
+UDFOG:: Please have it attended to immediately.
+UGJAW:: Complaint has been made.
+UHYON:: Missing \\______\____. Please supply copy quickly.
+UJDUD:: \\______\____ missing. Please supply copy quickly preceded by reference of this service advice.
+UKTAB:: Have you any record of such a message having been filed (received)?
+UPBAG:: For your information.
+USLEG:: Case under investigation, will reply as soon as possible.
+USTIN:: Please investigate and reply as soon as possible.
+UTCOD:: Use the code.
+VEBET:: Please do needful.
+VUSOB:: Read telegraph office of origin \\______\____.
+WAJEJ:: Please give prefix number or channel sequence number under which the transit telegram referred to was sent forward to its destination or next transit point.
+WAJGU:: Give reference.
+WALAG:: Reference is correct.
+WALEM:: Reference is wrong.
+WALOS:: Referring to our \\______\____.
+WALPU:: Referring to your \\______\____.
+WEJYV:: Reference incorrect. Give number, date, time of handing in, and say by which channel/route sent.
+WOBAJ:: Please obtain sender's name and address from the addressee.
+WOBMO:: Sender cannot be found.
+XEROJ:: Your service advice not understood.
+YALRU:: Telex subscriber \\______\____ no longer in service.
+
+
+== Part II - CODING SECTION
+
+Five-letter code groups, alphabetically classified according to the fields of operation of the international public telegram service in which the codes are used.
+
+*ACCOUNTS*
+
+APHAD:: We are debiting you.
+
+
+*ACKNOWLEDGEMENT OF RECEIPT*
+
+PAJAV:: Addressee acknowledges receipt.
+PALAM:: Get addressee's acknowledgement of receipt.
+PALIL:: Good delivery receipt held for \\______\____.
+
+
+*ADDRESSES* +
+_(Addresses, Addressee, Destination, etc.)_
+
+Address(es) +
+--
+ASSUM:: Cannot give better address.
+ATFIX:: Give full address.
+ATHAS:: State name and address of sender.
+AYGUM:: Please have address confirmed by sender.
+AZBIN:: Sender's contact address is \\______\____
+--
+
+Addressee +
+--
+ATJAW:: Give name of addressee.
+AYHAW:: Read name of addressee \\______\____.
+--
+
+Destination +
+--
+AYJET:: Read telegraph office of destination as \\______\____.
+--
+
+
+*CANCELLATIONS* +
+_(Blank, Cancellations)_
+
+Blank +
+--
+AZFOP:: \\______\____ blank, diverted.
+BACYS:: Blank numbers \\______\____.
+--
+
+
+Cancellations +
+--
+AZGUN:: Cancel \\______\____ for abstract and accounting purposes.
+AZJEW:: Cancel, error of service.
+AZKEG:: Cancel our number \\______\____.
+AZRED:: Cancel, misrouted.
+BABBA:: Cancel at sender's request.
+BABSO:: Telegram (or service telegram/advice) number \\______\____ cancelled.
+BADPO:: Shall we cancel?
+--
+
+
+*CIRCULATION*
+
+ENRAM:: Propose diverting \\______\____ traffic via you. Advice if you can clear without delay.
+EVLOW:: Your apparently miscirculated to us, message held awaiting your instructions.
+
+
+*DELAY*
+
+GYLIL:: Complaint of delay. Give time received and delivered (reforwarded) and explain any delay.
+HAGAS:: Confirm time of acceptance \\______\____, complaint of delay.
+HAPIG:: Delay due to \\______\____.
+HETIN:: Explain delay.
+HOMAT:: No delay.
+
+
+
+*DELIVERY*
+
+Non-delivery +
+--
+JIHAW:: Delivery office closed.
+JUFAR:: \\______\____ is a reply to your \___\_______. Can you now deliver?
+OLMAD:: Address insufficient, we try delivery to \\______\____. Correct if necessary.
+OLWAY:: Address unregistered, we try delivery to \\______\____. Correct if necessary.
+ONKEY:: Message unacknowledged after \\______\____ transmissions. Please advise.
+OPBUN:: \\______\____ sender received advice by another route that message undelivered. Please investigate and reply quickly.
+--
+
+Complaints +
+--
+OMKEW:: Complaint of non-delivery. Give full particulars of delivery and say if addressee acknowledges receipt.
+--
+
+Effected delivery +
+--
+JIDEW:: Delivered to and accepted by \\______\____.
+JIFAG:: Delivered to registered address \\______\____.
+JIJAY:: Duly delivered.
+JUJEW:: Message has been called for.
+JUKIT:: Message received at \\______\____ and delivered at \___\_______.
+JYBAG:: Now delivered, called for.
+JYDOT:: Now delivered to and accepted by \\______\____. (_complete address_)
+JYGUS:: Now cleared to ship. Cancel advice of non-delivery.
+PYSAT:: Delivered subsequently. Cancel advice of non-delivery.
+--
+
+Instructions of delivery +
+--
+JAJAR:: Can you now deliver?
+JAMEG:: \\______\____ claimed registered address good, messages previously sent to same address duly delivered.
+JEHAT:: Deliver to \\______\____.
+JYSUM:: Re-tender and advise.
+--
+
+Misdelivery +
+--
+JARAG:: \\______\____ claims misdelivered. Give particulars of delivery.
+--
+
+Particulars of delivery +
+--
+JOHAY:: Give particulars of receipt and delivery.
+JOKID:: State date and time of delivery.
+MAHPO:: Why was it not delivered?
+--
+
+Undelivered messages +
+--
+OPKID:: Treat as non-delivery.
+OPSOP:: Undelivered, addressee cannot be found.
+OPWIG:: Undelivered, refused by addressee.
+ORDAD:: Undelivered, addressee not on board.
+ORMAT:: Undelivered, house closed; notice mailed.
+ORWON:: Undelivered, owing to \\______\____.
+OSHAT:: Undelivered, returned by postal service, unclaimed.
+OSJOG:: Undelivered, returned by postal service, unknown.
+OSMAW:: Undelivered, several firms of that name.
+OSSUP:: Undelivered, several streets of that name, district required.
+OTTAB:: Undelivered, unable to contact telephone number.
+RACYB:: Still undelivered.
+RAFIS:: Undelivered, not called for.
+RAFUJ:: Undelivered, addressee absent.
+RAHOT:: Undelivered, addressee left, forwarded by post to \\______\____.
+RAJAJ:: Undelivered, addressee unknown.
+RAJEV:: Undelivered, addressee left for \\______\____.
+RAJFU:: Undelivered, addressee left without leaving address.
+REGAD:: Undelivered, several persons of the same name.
+REJAB:: Undelivered, ship out of range.
+REKEG:: Undelivered, address insufficient.
+RICOD:: Undelivered, address no longer registered.
+RIJAG:: Undelivered, address not registered.
+RISOB:: Undelivered, no house of that number.
+ROCOG:: Undelivered, place, street, road, etc. unknown.
+ROFAB:: Undelivered, not claimed on board.
+ROFER:: Undelivered, ship already left.
+ROFJO:: Undelivered, ship did not communicate.
+ROSOP:: Undelivered. Several ships of the same name. Please supply Nationality and/or Call sign.
+RUCMU:: Undelivered, telephone number given in address does not correspond with the name of addressee.
+RUCOS:: Undelivered, hotel, house, firm, etc. no longer exists.
+--
+
+
+*DISPOSAL* +
+_(Forwarding, etc.)_
+
+Information of forwarding +
+--
+MANAG:: Forwarding by mail.
+MATIS:: \\______\____ still on hand as communication not established since receipt. Message(s) will be retained for further trial unless otherwise instructed.
+MATMU:: Instruct us how to dispose of \\______\____.
+MEGLA:: \\______\____ was forwarded to \___\_____\__ at \___\_______.
+--
+
+Instructions of forwarding +
+--
+MAJPA:: Forward by mail.
+--
+
+
+*DUPLICATIONS* +
+(Cancellation of)
+
+Duplications +
+--
+MEROW:: \\______\____ are identical.
+METAB:: Duplicate delivered.
+MIHYT:: Message number \\______\____ is not duplicate of message number \___\_______.
+MIJNU:: We have two different messages under number \\______\____. Give new number.
+--
+
+
+Cancellation of duplications +
+--
+MIHOB:: Message number \\______\____ appears to have been received also under number \___\_______. Shall we cancel latter copy?
+MIJEM:: Uncertain if following message (service advice)has been sent to you before. If previously received under another number cancel this copy and report.
+PASCA:: Transmitted twice; cancel second transmission.
+--
+
+*ENQUIRIES*
+
+Questions +
+--
+MIRZU:: Can you explain?
+MOBAY:: Can you trace?
+MOPYD:: What is the name of the coast station?
+MORUG:: What is the name of the ship station?
+--
+
+Enquiries +
+--
+MOYES:: Give telegraph office of origin.
+MYBEG:: Enquire and advise us.
+MYJUG:: Please report present status of enquiry, we are being pressed for a reply.
+--
+
+Replies +
+--
+MODAB:: Case now closed.
+MOPOH:: Following received from \\______\____.
+NACBA:: We are enquiring, will reply as soon as possible.
+NACNE:: We are enable to trace.
+--
+
+
+*ERRORS, MUTILATIONS, OMISSIONS*
+
+Errors +
+--
+NAFAC:: Addressee claims incorrect.
+NEDYF:: Error(s) made here and will be dealt with.
+NEFAT:: Error of service.
+NEMYD:: Place of destination unknown; we forwarded to \\______\____. Correct if necessary.
+NODHE:: Sender's error.
+--
+
+Mutilations +
+--
+NIBYP:: Mutilated. Please repeat.
+--
+
+Omissions +
+--
+NEDIB:: Place of destination incomplete; there are several. Advise.
+NISER:: Omitted.
+--
+
+*REFUNDS*
+
+PEZES:: We are refunding.
+PEZIH:: Refund is authorized.
+PEZJU:: Refund is not authorized.
+PEZVE:: Telegram service not at fault.
+PEZYV:: Refund of charges are in order for any special service relating to the radiotelegram that have not been carried out.
+PIDUD:: Sender applies for refund of message charges. Please authorize.
+
+
+*REGISTERED ADDRESSES*
+
+PAMNO:: \\______\____ is registered for \___\_______.
+PATAB:: Supply unpacked address for \\______\____.
+
+
+*REPETITIONS AND CORRECTIONS*
+
+Confirmations +
+--
+PITUG:: Sender's confirmation.
+--
+
+Copies +
+--
+POSRA:: Herewith copy \\______\____.
+--
+
+Corrections +
+--
+POFIH:: Correct if necessary.
+POHCO:: Correction made by sender.
+POHEG:: Correct on our copy.
+POMDU:: Delete CTF (Correction to follow) in service instructions.
+POMZO:: \\______\____ forwarded "subject to correction" for \___\_______.
+PONEB:: Forward (or deliver) correction.
+PUFOB:: Is this message still "subject to correction"?
+RAMUZ:: Subject to correction.
+ROFUN:: Your BQ makes no correction.
+ROKEW:: Your service advice corrected and forwarded.
+--
+
+Reference to sender, etc. +
+--
+POSAG:: Consult sender.
+PUCUD:: Indistinctly written.
+PYBIN:: Office of addressees closed.
+--
+
+Repetitions +
+--
+POHOC:: Do not understand your service advice. Repeat references.
+--
+
+Reminder (non-reply) +
+--
+RAFSO:: Second application.
+RATEB:: Third application.
+--
+
+*RESTRICTIONS*
+
+BINZA:: Recognized Operating Agency (ROA) does not admit this class of traffic.
+
+
+*TELEX*
+
+YALRU:: Telex subscriber \\______\____ no longer in service.
+
+
+*WORD COUNTS*
+
+CEPAD:: In our number \\______\____ number of words \___\_______ correct.
+CESAP:: Wrong number of words \\______\____ actuals received.
+CODUN:: Read number of words in \\______\____ as \___\_______.
+
+
+*MISCELLANEOUS*
+
+Agreement +
+--
+TUHRU:: Say if in agreement.
+TUNHO:: We are in agreement.
+TUNVU:: We are not in agreement.
+--
+
+Attention +
+--
+UDFOG:: Please have it attended to immediately.
+--
+
+Complaints / Enquiries +
+--
+UGJAW:: Complaint has been made.
+USLEG:: Case under investigation, will reply as soon as possible.
+USTIN:: Please investigate and reply as soon as possible.
+--
+
+Copy/Copies +
+--
+UHYON:: Missing \\______\____. Please supply copy quickly.
+UJDUD:: \\______\____ missing. Please supply copy quickly preceded by reference of this service advice.
+--
+
+Information +
+--
+UPBAG:: For your information.
+--
+
+References +
+--
+WAJGU:: Give reference.
+WALAG:: Reference is correct.
+WALEM:: Reference is wrong.
+WALOS:: Referring to our \\______\____.
+WALPU:: Referring to your \\______\____.
+WEJYV:: Reference incorrect. Give number, date, time of handing in, and say by which channel/route sent.
+--
+
+Various +
+--
+TOPMO:: Acknowledge this notification.
+UKTAB:: Have you any record of such a message having been filed (received)?
+UTCOD:: Use the code.
+VEBET:: Please do needful.
+VUSOB:: Read telegraph office of origin \\______\____.
+WAJEJ:: Please give prefix number or channel sequence number under which the transit telegram referred to was sent forward to its destination or next transit point.
+WOBAJ:: Please obtain sender's name and address from the addressee.
+WOBMO:: Sender cannot be found.
+XEROJ:: Your service advice not understood.
+--

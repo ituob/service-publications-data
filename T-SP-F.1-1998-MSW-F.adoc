@@ -1,0 +1,596 @@
+= Groupes d'expressions de codes à cinq lettres à l'usage du service public international des télégrammes
+:bureau: T
+:docnumber:
+:series: GROUPES D'EXPRESSIONS DE CODES À CINQ LETTRES À L'USAGE DU SERVICE PUBLIC INTERNATIONAL DES TÉLÉGRAMMES
+:series1: (Selon la Recommandation UIT-T F.1 (03/98)
+:published-date: 1998-06-01
+:status: published
+:doctype: recommendation
+:keywords:
+:imagesdir: images
+:docfile: T-SP-F.1-1998-MSW-F.adoc
+:mn-document-class: uit
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+:stem:
+
+
+
+== Note du TSB
+
+[class=steps]
+. Par sa circulaire TSB 104 du 23 mars 1998, le TSB a annoncé que la Recommandation UIT-T F.1 révisée avait été approuvée, conformément à la Résolution 1, section 8, de la CMNT-96 (Genève,&nbsp;1996). En conséquence, le TSB a établi une nouvelle liste de groupes d'expressions de codes supplémentaires à cinq lettres à utiliser dans le service public international des télégrammes, conformément à la Recommandation UIT-T&nbsp;F.1 (03/98), C98.
+
+. Cette liste, publiée en tant qu'Annexe du Bulletin d'exploitation de l'UIT N°&nbsp;669 du 1er&nbsp;juin&nbsp;1998, est fondée sur les contributions (documents blancs) soumises à l'ancienne Commission d'études&nbsp;1 de l'UIT-T. La liste n'inclut que les groupes d'expressions de codes à cinq lettres les plus couramment utilisés dans l'exploitation des services publics internationaux des télégrammes et qui ont été passés en revue pendant les réunions de l'ancienne Commission d'études&nbsp;1 de l'UIT-T, puis approuvés par la Commission d'études 2 de l'UIT-T à sa réunion tenue à Genève du 3 au&nbsp;13&nbsp;mars&nbsp;1998.
+
+. A des fins pratiques, la liste se compose de deux parties:
+
+* dans la *Partie I* (décodage), toutes les expressions de codes, quelle que soit leur fonction, sont énumérées par ordre alphabétique dans la colonne de gauche. La signification de chaque expression de code faisant l'objet de renvois est indiquée dans la colonne de droite.
+
+* dans la *Partie II* (codage), les expressions de codes sont classées selon les domaines de l'exploitation dans lesquels ils sont utilisées.
+
+. A titre d'information, la liste est également disponible sur la page d'accueil de l'UIT (http://www.itu.int/itudoc/itu-t/ob-lists), et peut être consultée à distance par les abonnés en ligne.
+
+<<<
+
+== Partie I - SECTION DE DÉCODAGE
+
+Groupes d'expressions de codes à cinq lettres par ordre alphabétique:
+
+APHAD:: Nous vous débitons.
+ASSUM:: Ne pouvons donner meilleure adresse.
+ATFIX:: Donnez adresse complète.
+ATHAS:: Communiquez nom et adresse de l'expéditeur.
+ATJAW:: Donnez le nom du destinataire.
+AYGUM:: Prière faire confirmer adresse par l'expéditeur.
+AYHAW:: Lire nom du destinataire \\______\____.
+AYJET:: Lire bureau télégraphique de destination \\______\____.
+AZBIN:: Expéditeur peut être touché à l'adresse \\______\____.
+AZFOP:: \\______\____ manque, dévié.
+AZGUN:: Annulez \\______\____ pour la comptabilité.
+AZJEW:: Annulez, erreur de service.
+AZKEG:: Annulez notre numéro \\______\____.
+AZRED:: Annulez, erreur d'acheminement.
+BABBA:: Annulez sur demande de l'expéditeur.
+BABSO:: Télégramme (ou télégramme de service/avis de service) numéro \\______\____ annulé.
+BACYS:: Manquent les numéros \\______\____.
+BADPO:: Devons-nous annuler?
+BINZA:: Exploitation reconnue (ER) n'admet pas cette catégorie de trafic.
+CEPAD:: Dans notre numéro \\______\____ nombre des mots \___\_______ correct.
+CESAP:: Nombre des mots inexact \\______\____ en fait reçu \___\_______.
+CODUN:: En notre \\______\____ lire le nombre des mots \___\_______.
+ENRAM:: Proposons de dévier \\______\____ trafic sur vous; faites savoir si pouvez acheminer sans délai. +
+EVLOW:: Votre \\______\____ semble avoir été dirigé sur nous par erreur, message en instance en attendant vos instructions.
+GYLIL:: Plainte pour retard. Donnez heure de réception et de remise (ou de retransmission) et expliquez tout retard.
+HAGAS:: Confirmez heure de dépôt \\______\____, plainte pour retard.
+HAPIG:: Retard dû à \\______\____.
+HETIN:: Expliquez retard.
+HOMAT:: Pas de retard.
+JAJAR:: Le télégramme peut-il maintenant être remis?
+JAMEG:: \\______\____ déclare adresse enregistrée bonne, messages précédemment expédiés même adresse dûment remis.
+JARAG:: \\______\____ déclare mal remis. Donnez détails sur remise.
+JEHAT:: Remettez à \\______\____.
+JIDEW:: Remis à et accepté par \\______\_____.
+JIFAG:: Remis à l'adresse enregistrée \\______\____.
+JIHAW:: Bureau de distribution fermé.
+JIJAY:: Dûment remis.
+JOHAY:: Donnez détails de réception et de remise.
+JOKID:: Communiquez date et heure de remise.
+JUFAR:: \\______\____ est une réponse à votre \___\_______. Pouvez-vous remettre maintenant?
+JUJEW:: Message a été réclamé.
+JUKIT:: Message reçu à \\______\____ et remis à \___\_______.
+JYBAG:: Maintenant remis, réclamé.
+JYDOT:: Maintenant remis et accepté par \\______\____. (_adresse complète_)
+JYGUS:: Maintenant transmis au navire. Annulez l'avis de non-remise.
+JYSUM:: Présentez de nouveau et avisez.
+MAHPO:: Pourquoi n'a-t-il pas été remis?
+MAJPA:: Faites suivre par poste.
+MANAG:: Faisons suivre par poste.
+MATIS:: \\______\____ toujours en mains aucun contact n'a été établi depuis réception. Message(s) sera(seront) conservé(s) pour nouvel essai à moins d'instructions différentes.
+MATMU:: Dites-nous que faire de \\______\____?
+MEGLA:: \\______\____ a été acheminé sur \___\_____\__ à \___\_______.
+MEROW:: \\______\____ sont identiques.
+METAB:: Duplicata remis.
+MIHOB:: Message numéro \\______\____ semble avoir été également reçu sous numéro \___\_______. Devons-nous annuler cette dernière réception?
+MIHYT:: Message numéro \\______\____ n'est pas duplicata du message numéro \___\_______.
+MIJEM:: Ne sommes pas certains que ce message (cet avis de service) vous a déjà été transmis. Si vous l'avez reçu précédemment sous un autre numéro, annulez cette copie. Donnez réponse.
+MIJNU:: Nous avons deux messages différents sous le numéro \\______\____. Donnez nouveau numéro.
+MIRZU:: Pouvez-vous expliquer?
+MOBAY:: Pouvez-vous retrouver?
+MODAB:: Affaire terminée.
+MOPOH:: Reçu ce qui suit de \\______\____.
+MOPYD:: Quel est le nom de la station côtière?
+MORUG:: Quel est le nom de la station de navire?
+MOYES:: Indiquez bureau télégraphique d'origine.
+MYBEG:: Informez-vous (ou enquêtez) et avisez-nous.
+MYJUG:: Où en est l'enquête? On nous presse de répondre.
+NACBA:: Enquêtons, répondrons aussitôt que possible.
+NACNE:: Ne pouvons retrouver.
+NAFAC:: Destinataire prétend incorrect.
+NEDIB:: Lieu de destination incomplet, il y en a plusieurs. Renseignez.
+NEDYF:: Erreur(s) faite(s) ici. Mesures seront prises.
+NEFAT:: Erreur de service.
+NEMYD:: Lieu de destination inconnu; nous dirigeons sur \\______\____. Rectifiez si utile.
+NIBYP:: Mutilé. Prière répéter.
+NISER:: Omis.
+NODHE:: Erreur de l'expéditeur.
+OLMAD:: Adresse insuffisante, nous essayons de remettre à \\______\____. Corrigez si nécessaire.
+OLWAY:: Adresse non enregistrée, nous essayons de remettre à \\______\____. Corrigez si nécessaire.
+OMKEW:: Réclamation pour non-remise. Donnez tous détails sur remise et dites si le destinataire accuse réception.
+ONKEY:: Pas reçu accusé de réception après \\______\____ transmissions. Prière renseigner.
+OPBUN:: \\______\____ expéditeurs ont reçu avis par autre voie que message non-remis. Prière enquêter et répondre rapidement.
+OPKID:: Traitez comme une «non-remise».
+OPSOP:: Non remis, destinataire introuvable.
+OPWIG:: Non remis, refusé par le destinataire.
+ORDAD:: Non remis, destinataire pas à bord.
+ORMAT:: Non remis, maison fermée; avis envoyé par poste.
+ORWON:: Non remis à cause de \\______\____.
+OSHAT:: Non remis, renvoyé par service postal, non réclamé.
+OSJOG:: Non remis, renvoyé par service postal, inconnu.
+OSMAW:: Non remis, plusieurs firmes de ce nom.
+OSSUP:: Non remis, plusieurs rues de ce nom; indiquez arrondissement (ou quartier, district, etc.).
+OTTAB:: Non remis, impossible atteindre numéro de téléphone.
+PAJAV:: Destinataire accuse réception.
+PALAM:: Demandez accusé de réception au destinataire.
+PALIL:: Avons accusé de réception pour \\______\____.
+PAMNO:: \\______\____ est enregistré pour \___\_______.
+PASCA:: Transmis deux fois; annulez deuxième transmission.
+PATAB:: Fournissez adresse développée de \\______\____.
+PEZES:: Nous remboursons.
+PEZIH:: Remboursement autorisé.
+PEZJU:: Remboursement non autorisé.
+PEZVE:: Service télégraphique pas en faute.
+PEZYV:: Remboursement des taxes est en règle en ce qui concerne les services spéciaux non rendus relatifs aux radiotélégrammes.
+PIDUD:: Expéditeur demande remboursement des taxes du message. Prière autoriser.
+PITUG:: Confirmation donnée par l'expéditeur.
+POFIH:: Rectifiez si nécessaire.
+POHCO:: Correction faite par l'expéditeur.
+POHEG:: Correct sur notre copie.
+POHOC:: Ne comprenons pas votre avis de service. Répétez les références.
+POMDU:: Biffer CTF (Rectification suivra) dans les mentions de service.
+POMZO:: \\______\____ est transmis «sujet à correction» pour \___\_______.
+PONEB:: Faites suivre (ou remettez) correction.
+POSAG:: Consultez l'expéditeur.
+POSRA:: Voici copie \\______\____.
+PUCUD:: Écriture douteuse.
+PUFOB:: Ce message est-il toujours «sujet à correction»?
+PYBIN:: Bureau des destinataires fermé.
+PYSAT:: Remis postérieurement. Annulez avis de non-remise.
+RACYB:: Toujours non remis.
+RAFIS:: Non remis, pas réclamé.
+RAFSO:: Deuxième demande.
+RAFUJ:: Non remis, destinataire absent.
+RAHOT:: Non remis, destinataire parti, réexpédié par poste à \\______\____.
+RAJAJ:: Non remis, destinataire inconnu.
+RAJEV:: Non remis, destinataire parti pour \\______\____.
+RAJFU:: Non remis, destinataire parti sans laisser d'adresse.
+RAMUZ:: Sujet à correction.
+RATEB:: Troisième demande.
+REGAD:: Non remis, plusieurs personnes de ce nom.
+REJAB:: Non remis, navire hors d'atteinte.
+REKEG:: Non remis, adresse insuffisante.
+RICOD:: Non remis, adresse n'est plus enregistrée.
+RIJAG:: Non remis, adresse pas enregistrée.
+RISOB:: Non remis, numéro de maison n'existe pas.
+ROCOG:: Non remis, place, rue, avenue, etc., inconnue.
+ROFAB:: Non remis, non réclamé à bord.
+ROFER:: Non remis, navire déjà parti.
+ROFJO:: Non remis, navire ne s'est pas annoncé.
+ROFUN:: Votre BQ ne fait pas de correction.
+ROKEW:: Votre avis de service corrigé et retransmis.
+ROSOP:: Non remis. Plusieurs bateaux de même nom. Prière fournir nationalité et/ou indicatif d'appel.
+RUCMU:: Non remis, numéro de téléphone indiqué dans l'adresse ne correspond pas au nom du destinataire.
+RUCOS:: Non remis, hôtel, maison, firme, etc., n'existe plus.
+TOPMO:: Accusez réception de cette notification.
+TUHRU:: Prière dire si d'accord.
+TUNHO:: Nous sommes d'accord.
+TUNVU:: Nous ne sommes pas d'accord.
+UDFOG:: Prière faire nécessaire immédiatement.
+UGJAW:: Réclamation a été déposée.
+UHYON:: Manque \\______\____. Prière donner rapidement copie.
+UJDUD:: Manque \\______\____. Prière donner rapidement copie, précédée par référence de cet avis de service.
+UKTAB:: Pouvez-vous voir si un tel message a été déposé (reçu)?
+UPBAG:: Pour votre information.
+USLEG:: Affaire sous enquête, répondrons dès que possible.
+USTIN:: Prière enquêter et répondre aussitôt que possible.
+UTCOD:: Utilisez le code, s.v.p.!
+VEBET:: Prière faire le nécessaire.
+VUSOB:: Lisez bureau télégraphique d'origine \\______\____.
+WAJEJ:: Prière indiquer le préfixe ou le numéro de série sur voie attribué pour ce télégramme en transit, lors de son acheminement au point de transit suivant ou à son point de destination.
+WAJGU:: Donnez référence.
+WALAG:: Référence est correcte.
+WALEM:: Référence est fausse.
+WALOS:: Se référant à notre \\______\____.
+WALPU:: Se référant à votre \\______\____.
+WEJYV:: Référence fausse. Donnez numéro, date, heure de dépôt et dites par quel canal/voie transmis.
+WOBAJ:: Prière obtenir du destinataire nom et adresse de l'expéditeur.
+WOBMO:: Expéditeur introuvable.
+XEROJ:: Votre avis de service non compris.
+YALRU:: Abonné télex \\______\____ n'est plus en service.
+
+<<<
+
+== Partie II - SECTION DE CODAGE
+
+Groupes d'expressions de codes à cinq lettres, classés alphabétiquement selon les domaines de l'exploitation du service public international des télégrammes dans lesquels ils sont utilisés.
+
+
+*ACCUSÉS DE RÉCEPTION*
+
+PAJAV:: Destinataire accuse réception.
+PALAM:: Demandez accusé de réception au destinataire.
+PALIL:: Avons accusé de réception pour \\______\____.
+
+
+*ACHEMINEMENT* +
+_(Retransmission, etc.)_
+
+Information de retransmission +
+--
+MANAG:: Faisons suivre par poste.
+MATIS:: \\______\____ toujours en mains aucun contact n'a été établi depuis réception. Message(s) sera(seront) conservé(s) pour nouvel essai à moins d'instructions différentes.
+MATMU:: Dites-nous que faire de \\______\____?
+MEGLA:: \\______\____ a été acheminé sur \___\_____\__ à \___\_______.
+--
+
+Instructions de retransmission +
+--
+MAJPA Faites suivre par poste.
+--
+
+*ADRESSES* +
+_(Adresses, destinataire, destination, etc.)_
+
+Adresse(s) +
+--
+ASSUM:: Ne pouvons donner meilleure adresse.
+ATFIX:: Donnez adresse complète.
+ATHAS:: Communiquez nom et adresse de l'expéditeur.
+AYGUM:: Prière faire confirmer adresse par l'expéditeur.
+AZBIN:: Expéditeur peut être touché à l'adresse \\______\____.
+--
+
+Destinataire +
+--
+ATJAW:: Donnez le nom du destinataire.
+AYHAW:: Lire nom du destinataire \\______\____.
+--
+
+Destination +
+--
+AYJET:: Lire bureau télégraphique de destination \\______\____.
+--
+
+
+*ADRESSES ENREGISTREES*
+
+PAMNO:: \\______\____ est enregistré pour \___\_______.
+PATAB:: Fournissez adresse développée de \\______\____.
+
+
+*ANNULATIONS* +
+_(Manque, Annulations)_
+
+Manque +
+--
+AZFOP:: \\______\____ manque, dévié.
+BACYS:: Manquent les numéros \\______\____.
+--
+
+Annulations +
+--
+AZGUN:: Annulez \\______\____ pour la comptabilité.
+AZJEW:: Annulez, erreur de service.
+AZKEG:: Annulez notre numéro \\______\____.
+AZRED:: Annulez, erreur d'acheminement.
+BABBA:: Annulez sur demande de l'expéditeur.
+BABSO:: Télégramme (ou télégramme de service/avis de service) numéro \\______\____ annulé.
+BADPO:: Devons-nous annuler?
+--
+
+
+*CIRCULATION*
+
+ENRAM:: Proposons de dévier \\______\____ trafic sur vous; faites savoir si pouvez acheminer sans délai.
+EVLOW:: Votre \\______\____ semble avoir été dirigé sur nous par erreur, message en instance en attendant vos instructions.
+
+
+
+*COMPTABILITE*
+
+APHAD:: Nous vous débitons.
+
+
+
+*COMPTE DES MOTS*
+
+CEPAD:: Dans notre numéro \\______\____ nombre des mots \___\_______ correct.
+CESAP:: Nombre des mots inexact \\______\____ en fait reçu \___\_______.
+CODUN:: En notre \\______\____ lire le nombre des mots \___\_______.
+
+
+*DUPLICATA* +
+_(Annulation de)_
+
+Duplicata +
+--
+MEROW:: \\______\____ sont identiques.
+METAB:: Duplicata remis.
+MIHYT:: Message numéro \\______\____ n'est pas duplicata du message numéro \___\_______.
+MIJNU:: Nous avons deux messages différents sous le numéro \\______\____. Donnez nouveau numéro.
+--
+
+Annulation de duplicata +
+--
+MIHOB:: Message numéro \\______\____ semble avoir été également reçu sous numéro \___\_______. Devons-nous annuler cette dernière réception?
+MIJEM:: Ne sommes pas certains que ce message (cet avis de service) vous a déjà été transmis. Si vous l'avez reçu précédemment sous un autre numéro, annulez cette copie. Donnez réponse.
+PASCA:: Transmis deux fois; annulez deuxième transmission.
+--
+
+
+*ENQUÊTES*
+
+Questions +
+--
+MIRZU:: Pouvez-vous expliquer?
+MOBAY:: Pouvez-vous retrouver?
+MOPYD:: Quel est le nom de la station côtière?
+MORUG:: Quel est le nom de la station de navire?
+--
+
+Enquêtes +
+--
+MOYES:: Indiquez bureau télégraphique d'origine.
+MYBEG:: Informez-vous (ou enquêtez) et avisez-nous.
+MYJUG:: Où en est l'enquête? On nous presse de répondre.
+--
+
+Réponses +
+--
+MODAB:: Affaire terminée.
+MOPOH:: Reçu ce qui suit de \\______\____.
+NACBA:: Enquêtons, répondrons aussitôt que possible.
+NACNE:: Ne pouvons retrouver.
+--
+
+
+
+*ERREURS, ALTÉRATIONS, OMISSIONS*
+
+Erreurs +
+--
+NAFAC:: Destinataire prétend incorrect.
+NEDYF:: Erreur(s) faite(s) ici. Mesures seront prises.
+NEFAT:: Erreur de service.
+NEMYD:: Lieu de destination inconnu; nous dirigeons sur \\______\____. Rectifiez si utile.
+NODHE:: Erreur de l'expéditeur.
+--
+
+Altérations +
+--
+NIBYP:: Mutilé. Prière répéter.
+--
+
+Omissions +
+--
+NEDIB:: Lieu de destination incomplet, il y en a plusieurs. Renseignez.
+NISER:: Omis.
+--
+
+
+
+*REMBOURSEMENTS*
+
+PEZES:: Nous remboursons.
+PEZIH:: Remboursement autorisé.
+PEZJU:: Remboursement non autorisé.
+PEZVE:: Service télégraphique pas en faute.
+PEZYV:: Remboursement des taxes est en règle en ce qui concerne les services spéciaux non rendus relatifs aux radiotélégrammes.
+PIDUD:: Expéditeur demande remboursement des taxes du message. Prière autoriser.
+
+
+*REMISE*
+
+Non-remise +
+--
+JIHAW:: Bureau de distribution fermé.
+JUFAR:: \\______\____ est une réponse à votre \___\_______. Pouvez-vous remettre maintenant?
+OLMAD:: Adresse insuffisante, nous essayons de remettre à \\______\____. Corrigez si nécessaire.
+OLWAY:: Adresse non enregistrée, nous essayons de remettre à \\______\____. Corrigez si nécessaire.
+ONKEY:: Pas reçu accusé de réception après \\______\____ transmissions. Prière renseigner.
+OPBUN:: \\______\____ expéditeurs ont reçu avis par autre voie que message non-remis. Prière enquêter et répondre rapidement.
+--
+
+Réclamations +
+--
+OMKEW:: Réclamation pour non-remise. Donnez tous détails sur remise et dites si le destinataire accuse réception.
+--
+
+Remis effectuée +
+--
+JIDEW:: Remis à et accepté par \\______\_____.
+JIFAG:: Remis à l'adresse enregistrée \\______\____.
+JIJAY:: Dûment remis.
+JUJEW:: Message a été réclamé.
+JUKIT:: Message reçu à \\______\____ et remis à \___\_______.
+JYBAG:: Maintenant remis, réclamé.
+JYDOT:: Maintenant remis et accepté par \\______\____. (_adresse complète_)
+JYGUS:: Maintenant transmis au navire. Annulez l'avis de non-remise.
+PYSAT:: Remis postérieurement. Annulez avis de non-remise.
+--
+
+Instructions de remise +
+--
+JAJAR:: Le télégramme peut-il maintenant être remis?
+JAMEG:: \\______\____ déclare adresse enregistrée bonne, messages précédemment expédiés même adresse dûment remis.
+JEHAT:: Remettez à \\______\____.
+JYSUM:: Présentez de nouveau et avisez.
+--
+
+Erreurs de remise +
+--
+JARAG:: \\______\____ déclare mal remis. Donnez détails sur remise.
+--
+
+Détails de remise +
+--
+JOHAY:: Donnez détails de réception et de remise.
+JOKID:: Communiquez date et heure de remise.
+MAHPO:: Pourquoi n'a-t-il pas été remis?
+--
+
+Messagede non-remise +
+--
+OPKID:: Traitez comme une «non-remise».
+OPSOP:: Non remis, destinataire introuvable.
+OPWIG:: Non remis, refusé par le destinataire.
+ORDAD:: Non remis, destinataire pas à bord.
+ORMAT:: Non remis, maison fermée; avis envoyé par poste.
+ORWON:: Non remis à cause de \\______\____.
+OSHAT:: Non remis, renvoyé par service postal, non réclamé.
+OSJOG:: Non remis, renvoyé par service postal, inconnu.
+OSMAW:: Non remis, plusieurs firmes de ce nom.
+OSSUP:: Non remis, plusieurs rues de ce nom; indiquez arrondissement (ou quartier, district, etc.).
+OTTAB:: Non remis, impossible atteindre numéro de téléphone.
+RACYB:: Toujours non remis.
+RAFIS:: Non remis, pas réclamé.
+RAFUJ:: Non remis, destinataire absent.
+RAHOT:: Non remis, destinataire parti, réexpédié par poste à \\______\____.
+RAJAJ:: Non remis, destinataire inconnu.
+RAJEV:: Non remis, destinataire parti pour \\______\____.
+RAJFU:: Non remis, destinataire parti sans laisser d'adresse.
+REGAD:: Non remis, plusieurs personnes de ce nom.
+REJAB:: Non remis, navire hors d'atteinte.
+REKEG:: Non remis, adresse insuffisante.
+RICOD:: Non remis, adresse n'est plus enregistrée.
+RIJAG:: Non remis, adresse pas enregistrée.
+RISOB:: Non remis, numéro de maison n'existe pas.
+ROCOG:: Non remis, place, rue, avenue, etc., inconnue.
+ROFAB:: Non remis, non réclamé à bord.
+ROFER:: Non remis, navire déjà parti.
+ROFJO:: Non remis, navire ne s'est pas annoncé.
+ROSOP: Non remis. Plusieurs bateaux de même nom. Prière fournir nationalité et/ou indicatif d'appel.
+RUCMU:: Non remis, numéro de téléphone indiqué dans l'adresse ne correspond pas au nom du destinataire.
+RUCOS:: Non remis, hôtel, maison, firme, etc., n'existe plus.
+
+
+*RÉPÉTITIONS ET CORRECTIONS*
+
+Confirmation +
+--
+PITUG:: Confirmation donnée par l'expéditeur.
+--
+
+Copies +
+--
+POSRA:: Voici copie \\______\____.
+--
+
+Corrections +
+--
+POFIH:: Rectifiez si nécessaire.
+POHCO:: Correction faite par l'expéditeur.
+POHEG:: Correct sur notre copie.
+POMDU:: Biffer CTF (Rectification suivra) dans les mentions de service.
+POMZO:: \\______\____ est transmis «sujet à correction» pour \___\_______.
+PONEB:: Faites suivre (ou remettez) correction.
+PUFOB:: Ce message est-il toujours «sujet à correction»?
+RAMUZ:: Sujet à correction.
+ROFUN:: Votre BQ ne fait pas de correction.
+ROKEW:: Votre avis de service corrigé et retransmis.
+--
+
+Référence à l'expéditeur, etc. +
+--
+POSAG:: Consultez l'expéditeur.
+PUCUD:: Écriture douteuse.
+PYBIN:: Bureau des destinataires fermé.
+--
+
+Répétitions +
+--
+POHOC:: Ne comprenons pas votre avis de service. Répétez les références.
+--
+
+Rappel (non-réponse) +
+--
+RAFSO:: Deuxième demande.
+RATEB:: Troisième demande.
+--
+
+*RESTRICTIONS*
+
+BINZA:: Exploitation reconnue (ER) n'admet pas cette catégorie de trafic.
+
+
+*RETARD*
+
+GYLIL:: Plainte pour retard. Donnez heure de réception et de remise (ou de retransmission) et expliquez tout retard.
+HAGAS:: Confirmez heure de dépôt \\______\____, plainte pour retard.
+HAPIG:: Retard dû à \\______\____.
+HETIN:: Expliquez retard.
+HOMAT:: Pas de retard.
+
+
+*TÉLEX*
+
+YALRU:: Abonné télex \\______\____ n'est plus en service.
+
+
+*DIVERS*
+
+Accord +
+--
+TUHRU:: Prière dire si d'accord.
+TUNHO:: Nous sommes d'accord.
+TUNVU:: Nous ne sommes pas d'accord.
+--
+
+Attention +
+--
+UDFOG:: Prière faire nécessaire immédiatement.
+--
+
+Réclamations/enquêtes +
+--
+UGJAW:: Réclamation a été déposée.
+USLEG:: Affaire sous enquête, répondrons dès que possible.
+USTIN:: Prière enquêter et répondre aussitôt que possible.
+--
+
+Copie/Copies +
+--
+UHYON:: Manque \\______\____. Prière donner rapidement copie.
+UJDUD:: Manque \\______\____. Prière donner rapidement copie, précédée par référence de cet avis de service.
+--
+
+Renseignements +
+--
+UPBAG:: Pour votre information.
+--
+
+Référence +
+--
+WAJGU:: Donnez référence.
+WALAG:: Référence est correcte.
+WALEM:: Référence est fausse.
+WALOS:: Se référant à notre \\______\____.
+WALPU:: Se référant à votre \\______\____.
+WEJYV:: Référence fausse. Donnez numéro, date, heure de dépôt et dites par quel canal/voie transmis.
+--
+
+Divers +
+--
+TOPMO:: Accusez réception de cette notification.
+UKTAB:: Pouvez-vous voir si un tel message a été déposé (reçu)?
+UTCOD:: Utilisez le code, s.v.p.!
+VEBET:: Prière faire le nécessaire.
+VUSOB:: Lisez bureau télégraphique d'origine \\______\____.
+WAJEJ:: Prière indiquer le préfixe ou le numéro de série sur voie attribué pour ce télégramme en transit, lors de son acheminement au point de transit suivant ou à son point de destination.
+WOBAJ:: Prière obtenir du destinataire nom et adresse de l'expéditeur.
+WOBMO:: Expéditeur introuvable.
+XEROJ:: Votre avis de service non compris.
+--
+
+

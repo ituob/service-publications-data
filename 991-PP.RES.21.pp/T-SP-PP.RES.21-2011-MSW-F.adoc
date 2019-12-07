@@ -1,0 +1,107 @@
+= Systèmes de rappel (Call-Back) et procédures d'appel alternatives (Résolution 21 Révision PP-2006)
+:bureau: T
+:docnumber: 991-1.XI.2011
+:title: SYSTÈMES DE RAPPEL (CALL-BACK) ET PROCÉDURES D'APPEL ALTERNATIVES
+:published-date: 2011-11-01
+:status: draft
+:doctype: service-publication
+:docfile: document.adoc
+:language: fr
+:mn-document-class: itu
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+
+
+== Note du TSB
+
+. Pour que la Liste puisse être tenue à jour, les Administrations sont priées d'aviser le TSB de toute modification concernant les systèmes de rappel (Call-Back) dans leur pays, en utilisant l'adresse indiquée ci-dessous.
+
+. Veuillez adresser vos commentaires concernant cette Liste au Directeur du TSB:
++
+--
+Union internationale des télécommunications +
+Directeur du TSB +
+Place des Nations +
+CH-1211 GENÈVE 20 +
+Suisse +
+Tél: +41 22 730 5211 +
+Fax: +41 22 730 5853 +
+E-mail: tsbtson@itu.int
+--
+
+. Les appellations employées dans cette Liste et la présentation des données qui y figurent n'impliquent, de la part de l'UIT, aucune prise de position quant au statut juridique des pays ou zones géographiques ou de leurs autorités.
+
+== Systèmes de rappel (Call-Back) et procédures d'appel alternatives (Rés. 21 Rév. PP-2006)
+
+=== Note du TSB
+Pays/zones géographiques pour lesquels les "Systèmes de rappel (Call Back) et certaines procédures d'appel alternatives non conformes à la réglementation en vigueur" sont interdits sur leur territoire.
+
+[%unnumbered,cols="4*"]
+|===
+
+|1 |Afghanistan |59 |Koweït
+|2 |Albanie |60 |Lesotho
+|3 |Algérie |61 |Lettonie
+|4 |Arabie saoudite |62 |L'ex-République yougoslave de Macédoine
+|5 |Arménie |63 |Liban
+|6 |Azerbaïdjan |64 |Macao (Chine)
+|7 |Bahamas |65 |Madagascar
+|8 |Bahreïn  |66 |Malaisie
+|9 |Bélarus |67 |Malawi
+|10 |Belize |68 |Mali
+|11 |Bénin |69 |Maroc
+|12 |Bonaire, Saint Eustatius et Saba |70 |Maurice
+|13 |Bhoutan |71 |Mauritanie
+|14 |Bosnie-Herzégovine |72 |Mexique
+|15 |Brésil |73 |Moldova
+|16 |Brunéi Darussalam |74 |Monaco 
+|17 |Bulgarie |75 |Mozambique
+|18 |Burkina Faso |76 |Nicaragua
+|19 |Burundi |77 |Niger
+|20 |Cambodge |78 |Nigéria
+|21 |Cameroun |79 |Nouvelle-Calédonie
+|22 |Centrafricaine (Rép.) |80 |Oman
+|23 |Chine |81 |Ouganda
+|24 |Chypre |82 |Pakistan
+|25 |Colombie |83 |Panama
+|26 |Comores |84 |Papouasie-Nouvelle-Guinée
+|27 |Cook (Îles) |85 |Paraguay
+|28 |Costa Rica |86 |Pérou
+|29 |Côte d'Ivoire |87 |Philippines
+|30 |Cuba  |88 |Pologne
+|31 |Curaçao |89 |Qatar
+|32 |Djibouti |90 |Rép. dém. du Congo
+|33 |Dominique |91 |République arabe syrienne
+|34 |Egypte |92 |Roumanie
+|35 |Emirats arabes unis |93 |Saint-Marin
+|36 |Equateur |94 |Samoa
+|37 |Erythrée |95 |Seychelles
+|38 |Ethiopie  |96 |Sint Maarten
+|39 |Fidji |97 |Slovaquie
+|40 |Gabon |98 |Soudan
+|41 |Gambie |99 |Sri Lanka
+|42 |Ghana |100 |Sudafricaine (Rép.)
+|43 |Guinée |101 |Suriname
+|44 |Guyana |102 |Tanzanie
+|45 |Haïti |103 |Tchad
+|46 |Honduras |104 |Thaïlande 
+|47 |Hongrie |105 |Tonga
+|48 |Inde |106 |Trinidad-et-Tobago
+|49 |Indonésie |107 |Tunisie
+|50 |Iran (République islamique d') |108 |Turquie 
+|51 |Irlande |109 |Tuvalu
+|52 |Israël |110 |Ukraine
+|53 |Jamaïque |111 |Venezuela
+|54 |Jordanie |112 |Viet Nam
+|55 |Kazakhstan |113 |Wallis et Futuna
+|56 |Kenya |114 |Yémen
+|57 |Kirghizistan |115 |Zambie
+|58 |Kiribati |116 |Zimbabwe
+
+|===
+
+Tous les pays/zones géographiques interdisant la pratique du système de rappel devraient aviser dûment l’UIT par 
+e-mail à l'adresse suivante: link:mailto:tsbtson@itu.int[tsbtson@itu.int]
+
+

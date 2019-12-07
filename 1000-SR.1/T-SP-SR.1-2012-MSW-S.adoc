@@ -1,0 +1,522 @@
+= RESTRICCIONES DE SERVICIO (Lista recapitulativa de las restricciones de servicio en vigor relativas a la explotación de las telecomunicaciones)
+:bureau: T
+:docnumber: 1000-15.III.2012
+:title: RESTRICCIONES DE SERVICIO
+:published-date: 2012-03-15
+:doctype: service-publication
+:docfile: document.adoc
+:language: es
+:status: draft
+:mn-document-class: itu
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+
+
+== LISTA RECAPITULATIVA DE LAS RESTRICCIONES DE SERVICIO
+
+=== Nota de la TSB
+
+. En cumplimiento de las disposiciones del Capítulo VI de la Constitución de la Unión Internacional de Telecomunicaciones (Ginebra,1992) y del artículo 7 del Reglamento de las Telecomunicaciones Internacionales (Melbourne,1988), las Administraciones/EER deben comunican a la UIT las restricciones de servicio, sean temporales o permanentes, que afecten a los diversos servicios internacionales de telecomunicación ofrecidos al público, la suspensión del servicio parcial o totalmente y el ulterior restablecimiento de la normalidad, bien en su totalidad o solamente para ciertas relaciones y para determinadas clases de correspondencia de salida, llegada o tránsito. La TSB de la UIT transmitirá inmediatamente esta información a todas las demás Administraciones/EER por el medio de comunicación más adecuado.
+
+. Desde hace muchos años, en los Boletines de Explotación de la UIT se publicada información sobre las restricciones de servicio, que luego han aparecido en un "Cuadro recapitulativo de las restricciones de servicio", que aparecía como anexo al Boletín de Explotación de la UIT.
+
+. La presente Lista recapitulativa de las restricciones de servicio sustituye al "Cuadro recapitulativo de las restricciones de servicio" publicado en el anexo al Boletín de Explotación de la UIT N.° 691 de 1 de mayo de 1999 y contiene todas las comunicaciones subsiguientes publicadas en el Boletín de Explotación de la UIT hasta el N.° 1000 de 15 de marzo de 2012. 
+
+. Se ha procurado que la información contenida en la presente Lista sea exacta. Se ruega a las Administraciones/EER que comprueben la información publicada en la misma y comuniquen a la TSB los eventuales cambios que deban introducirse con miras a su actualización (Fax +41 22 730 5853; E-mail: tsbtson@itu.int).
+
+. Asimismo, la información que contiene este Anexo al Boletín de Explotación de la UIT N.° 1000 está disponible en el sitio web de la UIT:
+http://www.itu.int/itu-t/bulletin/annex.html
+
+. Las denominaciones utilizadas y la presentación del material en esta Lista no entrañan por parte de la UIT, ninguna opinión acerca del estatuto jurídico de un país o zona geográfica o de las autoridades de los mismos.
+
+
+[%unnumbered,cols="1",options="header"]
+|===
+^.^|País/zona geográfica
+
+a|*_Andorre_* +
+*_Andorra_* +
+*_Andorra_* +
+El servicio télex está suprimido 
+
+a|*_Antigua-et-Barbuda_* +
+*_Antigua and Barbuda_* +
+*_Antigua y Barbuda_* +
+El servicio de telegramas está suprimido +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles, teléfonos públicos y audiotex
+
+a|*_Argentine_* +
+*_Argentina_* +
+*_Argentina_* +
+El Correo Oficial de La Republica Argentina S.A., Buenos Aires, anuncia que a partir del 1 de febrero de 2011 dejará de admitir telegramas con la indicación de servicio TLXx (ENTREGA POR TELEX).  +
+Esta restricción alcanza tanto a los telegramas impuestos como los destinados a la República Argentina. +
+Se continuará aceptando los servicios especiales URGENT (transmisión y entrega urgentes) TFx (entrega por teléfono), FAXx (entrega por facsímil). 
+
+a|*_Aruba_* +
+*_Aruba_* +
+*_Aruba_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
+
+a|*_Australie_* +
+*_Australia_* +
+*_Australia_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
+
+a|*_Autriche_* +
+*_Austria_* +
+*_Austria_* +
+El servicio télex está suprimido
+
+a|*_Bangladesh_* +
+*_Bangladesh_* +
+*_Bangladesh_* +
+El servicio télex está suprimido
+
+a|*_Barbade_* +
+*_Barbados_* +
+*_Barbados_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
+
+a|*_Belgique_* +
+*_Belgium_* +
+*_Bélgica_* +
+No se aceptan llamadas de cobro revertido entre un operador extranjero y el operador Belgacom. La recepción de llamadas de cobro revertido se efectúa a través del servicio directo con Bélgica
+
+a|*_Belize_* +
+*_Belize_* +
+*_Belice_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles o de teléfonos públicos
+
+a|*_Bosnie-Herzégovine_* +
+*_Bosnia and Herzegovina_* +
+*_Bosnia y Herzegovina_* +
+El servicio télex está suprimido
+
+a|*_Bulgarie_* +
+*_Bulgaria_* +
+*_Bulgaria_* +
+Sólo se admiten llamadas telefónicas de cobro revertido y con tarjetas de crédito con los países cuyas administraciones hayan confirmado por escrito su acuerdo a la Administración búlgara +
+El servicio de telegramas está suprimido +
+El servicio télex está suprimido
+
+a|*_Cayman (Iles)_* +
+*_Cayman (Islands)_* +
+*_Caimán (Islas)_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
+
+a|*_Colombie_* +
+*_Colombia_* +
+*_Colombia_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
+
+a|*_Cook (Iles)_* +
+*_Cook Islands_* +
+*_Cook (Islas)_* +
+El servicio télex está suprimido
+
+a|*_Curaçao, Sint Maarten, Bonaire, Saint Eustatius et Saba_* +
+*_Curaçao, Sint Maarten, Bonaire, Sint Eustatius and Saba_* +
+*_Curaçao, Sint Maarten, Bonaire, San Eustatius y Saba_* +
+No se aceptan llamadas de cobro revertido entrantes ni salientes +
+El servicio de telegramas está suprimido +
+El servicio télex está suprimido
+
+a|*_Chypre_* +
+*_Cyprus_* +
+*_Chipre_* +
+CYTA no encamina ni acepta tráfico telefónico procedente de operadores de tránsito. Se invita a los operadores de telecomunicaciones  que utilicen un método de concentración para el encaminamiento de su tráfico a la CYTA +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
+
+a|*_Tchèque (Rép.)_* +
+*_Czech Rep._* +
+*_Checa (Rep.)_* +
+El servicio télex está suprimido
+
+a|*_Danemark_* +
+*_Denmark_* +
+*_Dinamarca_* +
+El servicio de telegramas está suprimido
+
+a|*_Dominique_* +
+*_Dominica_* +
+*_Dominica_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
+
+a|*_Féroé (Iles)_* +
+*_Faroe (Island)_* +
+*_Faroe (Islas)_* +
+El servicio télex está suprimido +
+El servicio de telegramas está suprimido
+
+a|*_Fidji_* +
+*_Fiji_* +
+*_Fiji_* +
+El servicio télex está suprimido +
+El servicio de telegramas está suprimido +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
+
+a|*_Finlande_* +
+*_Finland_* +
+*_Finlandia_* +
+Sonera anuncia la clausura del servicio de petición de llamadas (llamadas telefónicas personales que requieren el envío de un mensajero)
+
+a|*_France_* +
+*_France_* +
+*_Francia_* +
+France Telecom ha suspendido el servicio internacional de llamadas de cobro revertido 
+
+a|*_Gibraltar_* +
+*_Gibraltar_* +
+*_Gibraltar_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles +
+El servicio de telegramas está suprimido
+
+a|*_Groenland_* +
+*_Greenland_* +
+*_Groenlandia_* +
+El servicio de telegramas está suprimido +
+No se admiten llamadas telefónicas que requieran el envío de un mensajero
+
+a|*_Guyana_* +
+*_Guyana_* +
+*_Guyana_* +
+El servicio télex está suprimido +
+El servicio de telegramas está suprimido +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
+
+a|*_Haïti_* +
+*_Haiti_* +
+*_Haiti_* +
+El servicio télex está suprimido
+
+a|*_Honduras_* +
+*_Honduras_* +
+*_Honduras_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
+
+a|*_Hong Kong, Chine_* +
+*_Hong Kong, China_* +
+*_Hong Kong, China_* +
+El servicio de telegramas y el servicio CT2 están suprimidos
+
+a|*_Hongrie_* +
+*_Hungary_* +
+*_Hungría_* +
+El servicio télex está suprimido +
+El servicio de telegramas está suprimido +
+No se aceptan llamadas de cobro revertido entrantes ni salientes
+
+a|*_Islande_* +
+*_Iceland_* +
+*_Islandia_* +
+El servicio télex está suprimido +
+No se aceptan llamadas de cobro revertido entrantes ni salientes
+
+a|*_Indonésie_* +
+*_Indonesia_* +
+*_Indonesia_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles +
+El servicio de telegramas está suprimido +
+PT Indosat no encamina ni acepta tráfico telefónico procedente de operadores de tránsito. Se invita a los operadores de telecomunicaciones que utilicen un método  de concentración para el encaminamiento de su tráfico a PT Indosat
+
+a|*_Irlande_* +
+*_Ireland_* +
+*_Irlanda_* +
+No se admiten llamadas telefónicas que requieran el envío de un mensajero
+
+a|*_Japon_* +
+*_Japan_* +
+*_Japón_* +
+No se admiten llamadas telefónicas que requieran el envío de un mensajero
+
+a|*_Kenya_* +
+*_Kenya_* +
+*_Kenya_* +
+El servicio internacional de entrega de telegramas por mensajero a direcciones físicas está suprimido
+
+a|*_Koweït_* +
+*_Kuwait_* +
+*_Kuwait_* +
+No se admiten los telegramas con destino u origen en Israel, o en tránsito desde o hacia Israel
+
+a|*_Liban_* +
+*_Lebanon_* +
+*_Líbano_* +
+No se admiten los telegramas con destino u origen en Israel, o en tránsito desde o hacia Israel
+
+a|*_Luxembourg_* +
+*_Luxembourg_* +
+*_Luxemburgo_* +
+El servicio télex está suprimido +
+El servicio de telegramas está suprimido +
+EPT anuncia la cancelación del servicio por operadora 
+
+a|*_Madagascar_* +
+*_Madagascar_* +
+*_Madagascar_* +
+El servicio de telegramas está suprimido
+
+a|*_Malaisie_* +
+*_Malaysia_* +
+*_Malasia_* +
+El servicio télex está suprimido
+
+a|*_Malawi_* +
+*_Malawi_* +
+*_Malawi_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
+
+a|*_Maldives_* +
+*_Maldives_* +
+*_Maldivas_* +
+No se aceptan llamadas de cobro revertido entrantes ni salientes
+
+a|*_Malte_* +
+*_Malta_* +
+*_Malta_* +
+El servicio de telegramas está suprimido +
+El servicio télex está suprimido
+
+a|*_Maurice_* +
+*_Mauritius_* +
+*_Mauricio_* +
+No se aceptan con destino u origen en Mauricio telegramas-carta (LT) ni telegramas-carta de Estado (LTF) 
+
+a|*_Maroc_* +
+*_Morocco_* +
+*_Marruecos_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles o de teléfonos públicos
+
+a|*_Mozambique_* +
+*_Mozambique_* +
+*_Mozambique_* +
+El servicio télex está suprimido
+
+a|*_Namibie_* +
+*_Namibia_* +
+*_Namibia_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
+
+a|*_Pays-Bas_* +
+*_Netherlands_* +
+*_Países Bajos_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
+
+a|*_Nouvelle-Calédonie_* +
+*_New Caledonia_* +
+*_Nueva Caledonia_* +
+El servicio télex está suprimido +
+El servicio de telegramas está suprimido +
+No se aceptan llamadas de cobro revertido entrantes ni salientes
+
+a|*_Nouvelle-Zélande_* +
+*_New Zealand_* +
+*_Nueva Zelandia_* +
+El servicio de telegramas está suprimido
+
+a|*_Nigéria_* +
+*_Nigeria_* +
+*_Nigeria_* +
+Debido a la actual congestión en el puerto de Lagos, las autoridades portuarias rechazarán todo mensaje de barco que no contenga los siguientes datos: a) nombre del barco; b) distintivo de llamada; c) nombre del agente; d) eslora total; e) calado; f) tonelaje; g) naturaleza del cargamento; h) último puerto de escala; i) fecha y hora local de llegada del barco a la barra exterior
+
+a|*_Norvège_* +
+*_Norway_* +
+*_Noruega_* +
+Telenor no acepta llamadas de cobro revertido efectuadas desde Noruega, pero seguirá aceptando llamadas de cobro revertido recibidas en el país
+
+a|*_Pakistan_* +
+*_Pakistan_* +
+*_Pakistán_* +
+El servicio de telecomunicaciones con Israel está suspendido  +
+El servicio télex está suprimido +
+El servicio de telegramas está suprimido
+
+a|*_Panama_* +
+*_Panama_* +
+*_Panamá_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
+
+a|*_Papouasie-Nouvelle-Guinée_* +
+*_Papua New Guinea_* +
+*_Papua Nueva Guinea_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles +
+El servicio télex está suprimido
+
+a|*_Pérou_* +
+*_Peru_* +
+*_Perú_* +
+No se aceptan llamadas de cobro revertido entrantes ni salientes
+
+a|*_Pologne_* +
+*_Poland_* +
+*_Polonía_* +
+El servicio de telegramas está suprimido +
+El servicio télex está suprimido
+
+a|*_Russie (Fédération de)_* +
+*_Russian Federation_* +
+*_Rusia (Federación de)_* +
+Rostelecom anuncia que, en el marco del tráfico telegráfico (de terminación y de origen) con Rusia, no se aceptan telegramas-carta (LT), telegramas-carta de Estado (LTF) ni telegramas con servicio especial “URGENT” (transmisión y entrega urgentes)
+
+a|*_Sainte-Hélène, Ascension et Tristan da Cunha_* +
+*_Saint Helena, Ascension and Tristan da Cunha_* +
+*_Santa Elena, Ascensión y Tristan da Cunha_* +
+El servicio télex está suprimido +
+El servicio de telegramas está suprimido
+
+a|*_Sainte-Lucie_* +
+*_Saint Lucia_* +
+*_Santa Lucía_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
+
+a|*_Saint-Vincent-et-les-Grenadines_* +
+*_Saint Vincent and the Grenadines_* +
+*_San Vicente y las Granadinas_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
+
+a|*_Samoa_* +
+*_Samoa_* +
+*_Samoa_* +
+El servicio télex está suprimido
+
+a|*_Saint-Marin_* +
+*_San Marino_* +
+*_San Marino_* +
+Intelcom San Marino no encamina ni acepta tráfico telefónico procedente de operadores de tránsito. Se invita a los operadores de telecomunicaciones que utilicen un método  de concentración para el encaminamiento de su tráfico a Intelcom San Marino
+
+a|*_Sao Tomé-et-Principe_* +
+*_Sao Tome and Principe_* +
+*_Santo Tomé y Príncipe_* +
+El servicio télex está suprimido
+
+a|*_Arabie saoudite_* +
+*_Saudi Arabia_* +
+*_Arabia Saudita_* +
+No se aceptan llamadas de cobro revertido entrantes ni salientes
+
+a|*_Serbie_* +
+*_Serbia_* +
+*_Serbia_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles +
+El servicio télex está suprimido +
+No se admiten llamadas semiautomáticas (de entrada y de salida) del servicio telefónico con asistencia de operadora
+
+a|*_Seychelles_* +
+*_Seychelles_* +
+*_Seychelles_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
+
+a|*_Singapour_* +
+*_Singapore_* +
+*_Singapur_* +
+El servicio de telegramas está suprimido +
+Singapore Telecommunications Ltd (“SingTel”), Singapur, anuncia que las llamadas internacionales entrantes con asistencia de operadora y las llamadas de cobro revertido enviadas a Singapore Telecommunications Ltd (“SingTel”)  no se transmitirán a los abonados de MobileOne (Asia) Pte Ltd. ni de  StarHub Mobile Pte Ltd a menos que los abonados a estas dos (2) empresas de telefonía móvil estén inscritos en SingTel para la recepción de esas llamadas. Singapore Telecom Mobile Pte Ltd (“SingTel Mobile”) seguirá aceptando esas llamadas con terminación en sus abonados.
+
+a|*_Slovaquie_* +
+*_Slovakia_* +
+*_Eslovaquia_* +
+No se aceptan llamadas de cobro revertido entrantes ni salientes +
+El servicio télex está suprimido +
+El servicio de telegramas está suprimido.
+
+a|*_Slovénie_* +
+*_Slovenia_* +
+*_Eslovenia_* +
+No se aceptan con destino u origen en Eslovenia telegramas con el servicio especial TLXx (entrega de télex)
+
+a|*_Sudafricaine (Rép.)_* +
+*_South Africa_* +
+*_Sudafricana (Rep.)_* +
+Telkom SA Ltd., Pretoria, anuncia que no se admiten con destino u origen en la República Sudafricana los telegramas-carta (LT), los telegramas-carta de Estado (LTF) ni los telegramas con servicio especial URGENT (transmisión y entrega urgentes) y LX (formulario de lujo)
+
+a|*_Sri Lanka_* +
+*_Sri Lanka_* +
+*_Sri Lanka_* +
+No se autorizan llamadas efectuadas a teléfonos públicos
+
+a|*_Soudan_* +
+*_Sudan_* +
+*_Sudán_* +
+El servicio de telecomunicaciones con Israel está suspendido
+
+a|*_Suriname_* +
+*_Suriname_* +
+*_Suriname_* +
+El servicio de telegramas está suprimido +
+El servicio télex está suprimido
+
+a|*_Swaziland_* +
+*_Swaziland_* +
+*_Swazilandia_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles ni de telefonía virtual
+
+a|*_Suède_* +
+*_Sweden_* +
+*_Suecia_* +
+TeliaSonera no aceptará llamadas de cobro revertido por el método de ticket único con destino a Suecia, ni proporcionará el servicio país directo desde y hacia ese país
+
+a|*_République arabe syrienne_* +
+*_Syrian Arab Republic_* +
+*_República Árabe Siria_* +
+El servicio de telecomunicaciones con Israel está suspendido
+
+a|*_Thaïlande_* +
+*_Thailand_* +
+*_Tailandia_* +
+El servicio de telegramas está suprimido
+
+a|*_Tonga_* +
+*_Tonga_* +
+*_Tonga_* +
+El servicio de telegramas está suprimido +
+El servicio télex está suprimido
+
+a|*_Trinité-et-Tobago_* +
+*_Trinidad and Tobago_* +
+*_Trinidad y Tabago_* +
+El servicio de telegramas está suprimido +
+El servicio télex está suprimido +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles ni de telefonía virtual
+
+a|*_Turquie_* +
+*_Turkey_* +
+*_Turquía_* +
+Se restringe el empleo de la radiotelegrafía y de la radiotelefonía por ondas hectométricas y decamétricas en los barcos extranjeros anclados en puertos turcos
+
+a|*_Turques et Caïques (Iles)_* +
+*_Turks and Caicos Islands_* +
+*_Turquesas y Caicos (Islas)_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
+
+a|*_Emirats arabes unis_* +
+*_United Arab Emirates_* +
+*_Emiratos Árabes Unidos_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles +
+El servicio de telecomunicaciones con Israel está suspendido
+
+a|*_Uruguay_* +
+*_Uruguay_* +
+*_Uruguay_* +
+No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
+
+a|*_Vanuatu_* +
+*_Vanuatu_* +
+*_Vanuatu_* +
+No se aceptan llamadas de cobro revertido entrantes ni salientes +
+El servicio télex está suprimido +
+El servicio de telegramas está suprimido
+
+a|*_Vatican_* +
+*_Vatican_* +
+*_Vaticano_* +
+El servicio télex está suprimido
+
+a|*_Yémen_* +
+*_Yemen_* +
+*_Yemen_* +
+El servicio de telecomunicaciones con Israel está suspendido +
+El servicio télex está suprimido 
+
+|===
+

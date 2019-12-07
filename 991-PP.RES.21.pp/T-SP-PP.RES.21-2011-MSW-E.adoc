@@ -1,0 +1,106 @@
+= Call-Back and alternative calling procedures (Resolution 21 Revision PP-2006)
+:bureau: T
+:docnumber: 991-1.XI.2011
+:title: CALL-BACK AND ALTERNATIVE CALLING PROCEDURES
+:published-date: 2011-11-01
+:status: draft
+:doctype: service-publication
+:docfile: document.adoc
+:language: en
+:mn-document-class: itu
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+
+
+== Note from TSB
+
+. In order to keep the list up to date, administrations are, therefore, requested to notify TSB of any modifications concerning Call-Back in their country at the address below.
+
+. Please address any comments or any modifications concerning this List to the Director of TSB:
++
+--
+Director of TSB +
+International Telecommunication Union +
+Place des Nations +
+CH-1211 GENEVA 20 +
+Switzerland +
+Tel: +41 22 730 5211 +
+Fax: +41 22 730 5853 +
+E-mail: tsbtson@itu.int
+--
+
+. The designations employed and the presentation of material in this List do not imply the expression of any opinion whatsoever on the part of ITU concerning the legal status of any country or geographical area, or of its authorities.
+
+
+== Call-Back and alternative calling procedures (Res. 21 Rev. PP-2006)
+
+=== Note from TSB
+Countries/geographical areas for which "Call-Back and certain alternative calling procedures not in accordance with the relevant regulations" are prohibited in their territory.
+
+[%unnumbered,cols="4*"]
+|===
+
+|1 |Afghanistan |59 |Latvia
+|2 |Albania |60 |Lebanon
+|3 |Algeria |61 |Lesotho
+|4 |Armenia |62 |Macao (China)
+|5 |Azerbaijan |63 |Madagascar
+|6 |Bahamas |64 |Malawi
+|7 |Bahrain |65 |Malaysia
+|8 |Belarus |66 |Mali
+|9 |Belize |67 |Mauritania
+|10 |Benin |68 |Mauritius
+|11 |Bhutan |69 |Mexico
+|12 |Bonaire, Saint Eustatius and Saba |70 |Moldova
+|13 |Bosnia and Herzegovina |71 |Monaco
+|14 |Brazil |72 |Morocco
+|15 |Brunei Darussalam |73 |Mozambique
+|16 |Burkina Faso |74 |New Caledonia
+|17 |Burundi |75 |Nicaragua
+|18 |Cambodia |76 |Niger
+|19 |Cameroon |77 |Nigeria
+|20 |Central African Rep. |78 |Oman
+|21 |Chad |79 |Pakistan
+|22 |China |80 |Panama
+|23 |Colombia |81 |Papua New Guinea
+|24 |Comoros |82 |Paraguay
+|25 |Cook Islands |83 |Peru
+|26 |Costa Rica |84 |Philippines
+|27 |Côte d'Ivoire |85 |Poland
+|28 |Cuba |86 |Qatar
+|29 |Curaçao |87 |Romania
+|30 |Cyprus |88 |Samoa
+|31 |Dem. Rep. of the Congo |89 |San Marino
+|32 |Djibouti |90 |Saudi Arabia
+|33 |Dominica |91 |Seychelles
+|34 |Ecuador |92 |Sint Maarten (Dutch part)
+|35 |Egypt |93 |Slovakia
+|36 |Eritrea |94 |South Africa
+|37 |Ethiopia |95 |Sri Lanka
+|38 |Fiji |96 |Sudan
+|39 |Gabon |97 |Suriname
+|40 |Gambia |98 |Syrian Arab Republic
+|41 |Ghana |99 |Tanzania
+|42 |Guinea |100 |Thailand
+|43 |Guyana |101 |The Former Yugoslav Republic of Macedonia
+|44 |Haiti |102 |Tonga
+|45 |Honduras |103 |Trinidad and Tobago
+|46 |Hungary |104 |Tunisia
+|47 |India |105 |Turkey
+|48 |Indonesia |106 |Tuvalu
+|49 |Iran (Islamic Republic of) |107 |Uganda
+|50 |Ireland |108 |Ukraine
+|51 |Israel |109 |United Arab Emirates
+|52 |Jamaica |110 |Vanuatu
+|53 |Jordan |111 |Venezuela
+|54 |Kazakhstan |112 |Viet Nam 
+|55 |Kenya |113 |Wallis and Futuna
+|56 |Kiribati |114 |Yemen
+|57 |Kuwait |115 |Zambia
+|58 |Kyrgyzstan |116 |Zimbabwe
+
+|===
+
+
+All the countries/geographical areas which prohibit the practice of "Call-Back" should inform ITU accordingly by sending e-mail to the following address: link:mailto:tsbtson@itu.int[tsbtson@itu.int]

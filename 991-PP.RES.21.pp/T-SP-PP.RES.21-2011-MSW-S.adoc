@@ -1,0 +1,164 @@
+= Comunicaciones por intermediario (Call-Back) y procedimientos alternativos de llamada (Resolución 21 Revisión PP-2006)
+:bureau: T
+:docnumber: 991-1.XI.2011
+:title: COMUNICACIONES POR INTERMEDIARO (CALL-BACK) Y PROCEDIMIENTOS ALTERNATIVOS DE LLAMADA
+:published-date: 2011-11-01
+:status: draft
+:doctype: service-publication
+:docfile: document.adoc
+:language: es
+:mn-document-class: itu
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+
+
+== Nota de la TSB
+
+. Para mantener la Lista al día, se solicita a las administraciones que notifiquen a la TSB, a la dirección indicada más abajo, cualquier modificación en su país relativa a las comunicaciones por intermediario (Call-Back).
+
+. Sírvase comunicar sus comentarios o modificaciones con respecto a esta Lista al Director de la TSB:
++
+--
+Unión Internacional de Telecomunicaciones +
+Director de la TSB +
+Place des Nations +
+CH-1211 GINEBRA 20 +
+Suiza +
+Tel: +41 22 730 5211 +
+Fax: +41 22 730 5853 +
+E-mail: tsbtson@itu.int
+--
+
+. Las denominaciones empleadas en esta Lista y la forma en que aparecen presentados los datos que contiene no implican, de parte de la UIT, juicio alguno sobre la condición jurídica de países o zonas geográficas, o de sus autoridades.
+
+
+== Comunicaciones por intermediario (Call-Back) y procedimientos alternativos de llamada (Res. 21 Rev. PP-2006)
+
+=== Nota de la TSB
+Países/zonas geográficas para los cuales una información sobre las "Comunicaciones por intermediario (Call Back) y ciertos procedimientos alternativos de llamada no conformes con la reglamentación vigente":
+
+[%unnumbered,cols="4*"]
+|===
+
+|1 |Afganistán
+|2 |Albania
+|3 |Arabia Saudita
+|4 |Argelia
+|5 |Armenia
+|6 |Azerbaiyán
+|7 |Bahamas
+|8 |Bahrein 
+|9 |Belarús
+|10 |Belice
+|11 |Benin
+|12 |Bonaire, San Eustatius y Saba
+|13 |Bosnia y Herzegovina
+|14 |Brasil
+|15 |Brunei Darussalam
+|16 |Burkina Faso
+|17 |Burundi 
+|18 |Bután
+|19 |Camboya
+|20 |Camerún
+|21 |Centroafricana
+|22 |Chad
+|23 |China
+|24 |Chipre
+|25 |Colombia
+|26 |Comoras
+|27 |Cook (Islas)
+|28 |Costa Rica
+|29 |Côte d'Ivoire
+|30 |Cuba 
+|31 |Curaçao
+|32 |Djibouti
+|33 |Dominica
+|34 |Ecuador
+|35 |Egipto
+|36 |Emiratos Árabes Unidos
+|37 |Eritrea
+|38 |Eslovaquia
+|39 |Etiopía 
+|40 |Fiji
+|41 |Filipinas
+|42 |Gabón
+|43 |Gambia
+|44 |Ghana
+|45 |Guinea
+|46 |Guyana
+|47 |Haití
+|48 |Honduras
+|49 |Hungría
+|50 |India
+|51 |Indonesia
+|52 |Irán (República Islámica del)
+|53 |Irlanda
+|54 |Israel
+|55 |Jamaica
+|56 |Jordania
+|57 |Kazajstán
+|58 |Kenya
+|59 |Kirguistán
+|60 |Kiribati
+|61 |Kuwait
+|62 |La ex República Yugoslava de Macedonia
+|63 |Lesotho
+|64 |Letonia
+|65 |Líbano 
+|66 |Lituania
+|67 |Macao (China)
+|68 |Madagascar
+|69 |Malasia
+|70 |Malawi
+|71 |Malí
+|72 |Marruecos
+|73 |Mauricio
+|74 |Mauritania
+|75 |México
+|76 |Moldova
+|77 |Mónaco
+|78 |Mozambique
+|79 |Nicaragua
+|80 |Níger
+|81 |Nigeria
+|82 |Nueva Caledonia
+|83 |Omán
+|84 |Pakistán
+|85 |Panamá
+|86 |Papua Nueva Guinea
+|87 |Paraguay
+|88 |Perú
+|89 |Polonia
+|90 |Qatar
+|91 |Rep. Dem. del Congo
+|92 |República Árabe Siria
+|93 |Rumania
+|94 |Samoa
+|95 |San Marino
+|96 |Seychelles
+|97 |Sint Maarten
+|98 |Sri Lanka
+|99 |Sudafricana (Rep.)
+|100 |Sudán
+|101 |Suriname
+|102 |Tailandia
+|103 |Tanzanía
+|104 |Tonga
+|105 |Trinidad y Tabago
+|106 |Túnez
+|107 |Turquía 
+|108 |Tuvalu
+|109 |Ucrania
+|110 |Uganda
+|111 |Venezuela
+|112 |Viet Nam
+|113 |Wallis y Futuna
+|114 |Yemen
+|115 |Zambia
+|116 |Zimbabwe
+
+|===
+
+Se solicita a todos los países/zonas geográficas que prohíben las comunicaciones por intermediario (Call-Back) de notificarlo debidamente a la UIT a la siguiente dirección de correo electrónico: link:mailto:tsbtson@itu.int[tsbtson@itu.int]
+

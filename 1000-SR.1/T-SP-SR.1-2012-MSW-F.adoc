@@ -1,0 +1,521 @@
+= RESTRICTIONS DE SERVICE (Liste récapitulative des restrictions de service en vigueur relatives à l’exploitation des télécommunications)
+:bureau: T
+:docnumber: 1000-15.III.2012
+:title: RESTRICTIONS DE SERVICE
+:published-date: 2012-03-15
+:doctype: service-publication
+:docfile: document.adoc
+:language: fr
+:status: draft
+:mn-document-class: itu
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+
+
+== LISTE RECAPITULATIVE DES RESTRICTIONS DE SERVICE
+
+=== Note du TSB
+
+. Conformément aux dispositions du Chapitre VI de la Constitution de l'Union internationale des télécommunications (Genève, 1992) et aux dispositions de l'article 7 du Règlement des télécommunications internationales (Melbourne, 1988), les administrations/ER doivent notifier à l’UIT les restrictions de service, temporaires ou permanentes, qu’elles appliquent aux différents services internationaux de télécommunication offerts au public, la suspension des services et le retour subséquent aux conditions normales, soit d’une manière général, soit seulement pour certaines relations ou pour certaines classes de correspondances de départ, d’arrivée ou de transit. Le TSB de l’UIT communique immédiatement cette information à toutes les autres administrations/ER en utilisant les moyens de communication les plus appropriés.
+
+. Depuis de nombreuses années, les renseignements concernant les restrictions de service ont été publiés au fur et à mesure dans les Bulletins d'exploitation de l'UIT, puis rassemblés dans un «Tableau récapitulatif des restrictions de service», publié en annexe au Bulletin d'exploitation de l'UIT.
+
+. La présente Liste récapitulative des restrictions de service remplace le «Tableau récapitulatif des restrictions de service» publié en annexe au Bulletin d'exploitation de l'UIT N° 691 du 1er mai 1999 et contient toutes les communications publiées par la suite dans le Bulletin d'exploitation de l'UIT, et ce jusqu'au N° 1000 du 15 mars 2012.
+
+. Tout a été mis en oeuvre pour que les informations contenues dans la présente Liste soient exactes. Les administrations/ER sont priées de vérifier l'information et d'informer le TSB de toute modification à apporter pour la mettre à jour (Fax: +41 22 730 5853; E-mail: tsbtson@itu.int).
+
+. En outre, les renseignements contenus dans cette Annexe au Bulletin d’exploitation de l’UIT N° 1000 peuvent également être consultés sur le site web de l'UIT à l'adresse suivante: 
+http://www.itu.int/itu-t/bulletin/annex.html
+
+. Les appellations employées et la présentation des renseignements fournis dans la présente Liste n'impliquent de la part de l'UIT aucune prise de position quelle qu'elle soit quant au statut juridique d'un pays ou d'une zone géographique ou de leurs autorités.
+
+
+[%unnumbered,cols="1",options="header"]
+|===
+^.^|Pays/zone géographique
+
+a|*_Andorre_* +
+*_Andorra_* +
+*_Andorra_* +
+Le service télex n'est plus assuré.
+
+a|*_Antigua-et-Barbuda_* +
+*_Antigua and Barbuda_* +
+*_Antigua y Barbuda_* +
+Le service des télégrammes n'est plus assuré. +
+Les communications payables à l'arrivée à destination de numéros mobiles, de publiphones ou de numéros audiotex ne sont pas acceptées. 
+
+a|*_Argentine_* +
+*_Argentina_* +
+*_Argentina_* +
+Le Correo Oficial de La República Argentina S.A., Buenos Aires, annonce qu'il n'acceptera plus les télégrammes portant l'indication de service TLXx (REMISE PAR TELEX) à compter du 1er février 2011. +
+Cette restriction s'applique aux télégrammes en provenance et à destination de la République argentine. +
+Les télégrammes portant les indications de service spécial URGENT (transmission et remise urgentes), TFx (remise par téléphone) et FAXx (remise par télécopie) continueront d'être acceptés. 
+
+a|*_Aruba_* +
+*_Aruba_* +
+*_Aruba_* +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées 
+
+a|*_Australie_* +
+*_Australia_* +
+*_Australia_* +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
+
+a|*_Autriche_* +
+*_Austria_* +
+*_Austria_* +
+Le service télex n'est plus assuré.
+
+a|*_Bangladesh_* +
+*_Bangladesh_* +
+*_Bangladesh_* +
+Le service télex n'est plus assuré.
+
+a|*_Barbade_* +
+*_Barbados_* +
+*_Barbados_* +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
+
+a|*_Belgique_* +
+*_Belgium_* +
+*_Bélgica_* +
+Aucune communication payable à l'arrivée n'est acceptée entre un opérateur étranger et l'opérateur Belgacom. Il est possible d'utiliser le service Belgium Direct pour établir des communications entrantes payables à l'arrivée.
+
+a|*_Belize_* +
+*_Belize_* +
+*_Belice_* +
+Les communications payables à l'arrivée à destination de numéros mobiles ou de publiphones ne sont pas acceptées.
+
+a|*_Bosnie-Herzégovine_* +
+*_Bosnia and Herzegovina_* +
+*_Bosnia y Herzegovina_* +
+Le service télex n'est plus assuré.
+
+a|*_Bulgarie_* +
+*_Bulgaria_* +
+*_Bulgaria_* +
+Les communications téléphoniques payables à l’arrivée et avec cartes de crédit sont acceptées en Bulgarie qu’avec les pays dont les administrations ont confirmé par écrit leur accord à l’Administration bulgare. +
+Le service des télégrammes n'est plus assuré. +
+Le service télex n'est plus assuré.
+
+a|*_Cayman (Iles)_* +
+*_Cayman (Islands)_* +
+*_Caimán (Islas)_* +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées
+
+a|*_Colombie_* +
+*_Colombia_* +
+*_Colombia_* +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
+
+a|*_Cook (Iles)_* +
+*_Cook Islands_* +
+*_Cook (Islas)_* +
+Le service télex n'est plus assuré.
+
+a|*_Curaçao, Sint Maarten, Bonaire, Saint Eustatius et Saba_* +
+*_Curaçao, Sint Maarten, Bonaire, Sint Eustatius and Saba_* +
+*_Curaçao, Sint Maarten, Bonaire, San Eustatius y Saba_* +
+Les communications entrantes et sortantes payables à l'arrivée ne sont pas acceptées.  +
+Le service des télégrammes n'est plus assuré. +
+Le service télex n'est plus assuré.
+
+a|*_Chypre_* +
+*_Cyprus_* +
+*_Chipre_* +
+La CYTA n'achemine plus et n'accepte plus de trafic téléphonique via des opérateurs de transit. Les opérateurs de télécommunication concernés sont priés de bien vouloir adopter la méthode de concentration (hubbing) pour le routage de leur trafic à destination de la CYTA. +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
+
+a|*_Tchèque (Rép.)_* +
+*_Czech Rep._* +
+*_Checa (Rep.)_* +
+Le service télex n'est plus assuré.
+
+a|*_Danemark_* +
+*_Denmark_* +
+*_Dinamarca_* +
+Le service des télégrammes n'est plus assuré.
+
+a|*_Dominique_* +
+*_Dominica_* +
+*_Dominica_* +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
+
+a|*_Féroé (Iles)_* +
+*_Faroe (Island)_* +
+*_Faroe (Islas)_* +
+Le service télex n'est plus assuré. +
+Le service des télégrammes n'est plus assuré.
+
+a|*_Fidji_* +
+*_Fiji_* +
+*_Fiji_* +
+Le service télex n'est plus assuré. +
+Le service des télégrammes n'est plus assuré. +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
+
+a|*_Finlande_* +
+*_Finland_* +
+*_Finlandia_* +
+Sonera annonce la fermeture du service de réservation de communications (réservation de communications téléphoniques personnelles nécessitant l'envoi d'un messager).
+
+a|*_France_* +
+*_France_* +
+*_Francia_* +
+France Telecom a arrêté le service international de communications payables à l'arrivée.
+
+a|*_Gibraltar_* +
+*_Gibraltar_* +
+*_Gibraltar_* +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées. +
+Le service des télégrammes n'est plus assuré.
+
+a|*_Groenland_* +
+*_Greenland_* +
+*_Groenlandia_* +
+Le service des télégrammes n'est plus assuré. +
+Les appels téléphoniques nécessitant l'envoi d'un messager ne sont plus admis.
+
+a|*_Guyana_* +
+*_Guyana_* +
+*_Guyana_* +
+Le service télex n'est plus assuré. +
+Le service des télégrammes n'est plus assuré. +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
+
+a|*_Haïti_* +
+*_Haiti_* +
+*_Haiti_* +
+Le service télex n'est plus assuré.
+
+a|*_Honduras_* +
+*_Honduras_* +
+*_Honduras_* +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
+
+a|*_Hong Kong, Chine_* +
+*_Hong Kong, China_* +
+*_Hong Kong, China_* +
+Le service des télégrammes et le service CT2 ne sont plus assurés.
+
+a|*_Hongrie_* +
+*_Hungary_* +
+*_Hungría_* +
+Le service télex n'est plus assuré. +
+Le service des télégrammes n'est plus assuré. +
+Les communications entrantes et sortantes payables à l'arrivée ne sont pas acceptées. 
+
+a|*_Islande_* +
+*_Iceland_* +
+*_Islandia_* +
+Le service télex n'est plus assuré. +
+Les communications entrantes et sortantes payables à l'arrivée ne sont pas acceptées.
+
+a|*_Indonésie_* +
+*_Indonesia_* +
+*_Indonesia_* +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées. +
+Le service des télégrammes n'est plus assuré. +
+PT Indosat n'achemine plus et n'accepte plus de trafic téléphonique via des opérateurs de transit. Les opérateurs de télécommunication concernés sont priés de bien vouloir adopter la méthode de concentration (hubbing) pour le routage de leur trafic à destination de PT Indosat.
+
+a|*_Irlande_* +
+*_Ireland_* +
+*_Irlanda_* +
+Les appels téléphoniques nécessitant l'envoi d'un messager ne sont plus admis.
+
+a|*_Japon_* +
+*_Japan_* +
+*_Japón_* +
+Les appels téléphoniques nécessitant l'envoi d'un messager ne sont plus admis.
+
+a|*_Kenya_* +
+*_Kenya_* +
+*_Kenya_* +
+Les services de remise de télégramme international par messager à des adresses physiques ne sont pas acceptés.
+
+a|*_Koweït_* +
+*_Kuwait_* +
+*_Kuwait_* +
+Les télégrammes en provenance ou à destination d'Israël ne sont pas acceptés ni à l'arrivée ni au départ, ni en transit. 
+
+a|*_Liban_* +
+*_Lebanon_* +
+*_Líbano_* +
+Les télégrammes en provenance ou à destination d'Israël ne sont pas acceptées ni à l'arrivée ni au départ, ni en transit.
+
+a|*_Luxembourg_* +
+*_Luxembourg_* +
+*_Luxemburgo_* +
+Le service télex n'est plus assuré. +
+Le service des télégrammes n'est plus assuré. +
+L'EPT annonce la cessation du service opérateur.
+
+a|*_Madagascar_* +
+*_Madagascar_* +
+*_Madagascar_* +
+Le service des télégrammes n'est plus assuré.
+
+a|*_Malaisie_* +
+*_Malaysia_* +
+*_Malasia_* +
+Le service télex n'est plus assuré.
+
+a|*_Malawi_* +
+*_Malawi_* +
+*_Malawi_* +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
+
+a|*_Maldives_* +
+*_Maldives_* +
+*_Maldivas_* +
+Les communications entrantes et sortantes payables à l'arrivée ne sont pas acceptées.
+
+a|*_Malte_* +
+*_Malta_* +
+*_Malta_* +
+Le service des télégrammes n'est plus assuré. +
+Le service télex n'est plus assuré.
+
+a|*_Maurice_* +
+*_Mauritius_* +
+*_Mauricio_* +
+Les télégrammes-lettres (LT) et les télégrammes-lettres d’Etat (LTF) ne sont plus admis à destination et en provenance de Maurice.
+
+a|*_Maroc_* +
+*_Morocco_* +
+*_Marruecos_* +
+Les communications payables à l'arrivée à destination de numéros mobiles et de publiphones ne sont pas acceptées.
+
+a|*_Mozambique_* +
+*_Mozambique_* +
+*_Mozambique_* +
+Le service télex n'est plus assuré.
+
+a|*_Namibie_* +
+*_Namibia_* +
+*_Namibia_* +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
+
+a|*_Pays-Bas_* +
+*_Netherlands_* +
+*_Países Bajos_* +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
+
+a|*_Nouvelle-Calédonie_* +
+*_New Caledonia_* +
+*_Nueva Caledonia_* +
+Le service télex n'est plus assuré. +
+Le service des télégrammes n'est plus assuré. +
+Les communications entrantes et sortantes payables à l'arrivée ne sont pas acceptées.
+
+a|*_Nouvelle-Zélande_* +
+*_New Zealand_* +
+*_Nueva Zelandia_* +
+Le service des télégrammes n'est plus assuré.
+
+a|*_Nigéria_* +
+*_Nigeria_* +
+*_Nigeria_* +
+En raison de l’encombrement du port de Lagos, l’autorité portuaire refusera les messages provenant de quelque navire que ce soit si les indications suivantes ne figurent pas: a) nom du navire; b) indicatif d’appel; c) nom de l’agent; d) longueur hors tout; e) tirant d’eau; f) tonnage chargé; g) nature de la cargaison; h) dernier port d’escale; i) date et heure locale d’arrivée du navire à l’extérieur de la barre. 
+
+a|*_Norvège_* +
+*_Norway_* +
+*_Noruega_* +
+Telenor n'acceptera plus de communications payables à l'arrivée en provenance de la Norvège. Toutefois, les communications payables à l'arrivée à destination de la Norvège continueront d'être acceptées.
+
+a|*_Pakistan_* +
+*_Pakistan_* +
+*_Pakistán_* +
+Le service de télécommunication avec Israël est suspendu.  +
+Le service télex n'est plus assuré. +
+Le service des télégrammes n'est plus assuré.
+
+a|*_Panama_* +
+*_Panama_* +
+*_Panamá_* +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
+
+a|*_Papouasie-Nouvelle-Guinée_* +
+*_Papua New Guinea_* +
+*_Papua Nueva Guinea_* +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées. +
+Le service télex n'est plus assuré.
+
+a|*_Pérou_* +
+*_Peru_* +
+*_Perú_* +
+Les communications entrantes et sortantes payables à l'arrivée ne sont pas acceptées.
+
+a|*_Pologne_* +
+*_Poland_* +
+*_Polonía_* +
+Le service des télégrammes n'est plus assuré. +
+Le service télex n'est plus assuré.
+
+a|*_Russie (Fédération de)_* +
+*_Russian Federation_* +
+*_Rusia (Federación de)_* +
+Rostelecom annonce que les télégrammes-lettres (LT), les télégrammes-lettres d’Etat (LTF) et les télégrammes avec le service spécial «URGENT» (transmission et remise urgentes) ne sont pas acceptés dans le cadre du trafic télégraphique avec la Russie (d’arrivée et de départ).
+
+a|*_Sainte-Hélène, Ascension et Tristan da Cunha_* +
+*_Saint Helena, Ascension and Tristan da Cunha_* +
+*_Santa Elena, Ascensión y Tristan da Cunha_* +
+Le service télex n'est plus assuré. +
+Le service des télégrammes n'est plus assuré.
+
+a|*_Sainte-Lucie_* +
+*_Saint Lucia_* +
+*_Santa Lucía_* +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
+
+a|*_Saint-Vincent-et-les-Grenadines_* +
+*_Saint Vincent and the Grenadines_* +
+*_San Vicente y las Granadinas_* +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
+
+a|*_Samoa_* +
+*_Samoa_* +
+*_Samoa_* +
+Le service télex n'est plus assuré. 
+
+a|*_Saint-Marin_* +
+*_San Marino_* +
+*_San Marino_* +
+Intelcom San Marino n'achemine plus et n'accepte plus de trafic téléphonique via des opérateurs de transit. Les opérateurs de télécommunication concernés sont priés de bien vouloir adopter la méthode de concentration (hubbing) pour le routage de leur trafic à destination de Intelcom San Marino. 
+
+a|*_Sao Tomé-et-Principe_* +
+*_Sao Tome and Principe_* +
+*_Santo Tomé y Príncipe_* +
+Le service télex n'est plus assuré.
+
+a|*_Arabie saoudite_* +
+*_Saudi Arabia_* +
+*_Arabia Saudita_* +
+Les communications entrantes et sortantes payables à l'arrivée ne sont pas acceptées.
+
+a|*_Serbie_* +
+*_Serbia_* +
+*_Serbia_* +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées. +
+Le service télex n'est plus assuré. +
+Le service d’appel avec assistance d’une opératrice pour les appels semi-automatiques (entrants et sortants) n'est pas admis. 
+
+a|*_Seychelles_* +
+*_Seychelles_* +
+*_Seychelles_* +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
+
+a|*_Singapour_* +
+*_Singapore_* +
+*_Singapur_* +
+Le service des télégrammes n'est plus assuré. +
+Singapore Telecommunications Ltd («SingTel»), Singapour, annonce que les appels internationaux entrants avec assistance d’une opératrice et les communications payables à l’arrivée à destination de Singapore Telecommunications Ltd («SingTel») ne seront pas acheminés vers les abonnés de MobileOne (Asia) Pte Ltd et StarHub Mobile Pte Ltd à moins que les abonnés de ces deux (2) compagnies de téléphonie mobile se soient enregistrés auprès de SingTel pour recevoir ces appels. Singapore Telecom Mobile Pte Ltd («SingTel Mobile») continuera à accepter ces appels à destination de ses abonnés.
+
+a|*_Slovaquie_* +
+*_Slovakia_* +
+*_Eslovaquia_* +
+Les communications entrantes et sortantes payables à l'arrivée ne sont pas acceptées. +
+Le service télex n'est plus assuré. +
+Le service des télégrammes n'est plus assuré.
+
+a|*_Slovénie_* +
+*_Slovenia_* +
+*_Eslovenia_* +
+Les télégrammes avec le service spécial TLXx (remise par télex) ne sont plus admis à destination et en provenance de la Slovénie. 
+
+a|*_Sudafricaine (Rép.)_* +
+*_South Africa_* +
+*_Sudafricana (Rep.)_* +
+Telkom SA Ltd., Pretoria, annonce que les télégrammes-lettres (LT), les télégrammes-lettres d'Etat (LTF) et les télégrammes avec le service spécial URGENT (transmission et remise urgentes) et LX (formule de luxe) ne sont pas acceptés à destination et en provenance de la République sudafricaine.
+
+a|*_Sri Lanka_* +
+*_Sri Lanka_* +
+*_Sri Lanka_* +
+Aucun appel entrant à destination de publiphones n'est admis au Sri Lanka.
+
+a|*_Soudan_* +
+*_Sudan_* +
+*_Sudán_* +
+Le service de télécommunication avec Israël est suspendu.
+
+a|*_Suriname_* +
+*_Suriname_* +
+*_Suriname_* +
+Le service des télégrammes n'est plus assuré. +
+Le service télex n'est plus assuré.
+
+a|*_Swaziland_* +
+*_Swaziland_* +
+*_Swazilandia_* +
+Les communications payables à l'arrivée à destination de numéros mobiles et d'abonnés de la téléphonie virtuelle ne sont pas acceptées.
+
+a|*_Suède_* +
+*_Sweden_* +
+*_Suecia_* +
+TeliaSonera n'accepte plus de communications payables à l'arrivée de type "à ticket unique" (Single Ticket Method) à destination de la Suède, et n'assure plus le service "pays d'origine direct" (Home Country Direct) en provenance et à destination de la Suède.
+
+a|*_République arabe syrienne_* +
+*_Syrian Arab Republic_* +
+*_República Árabe Siria_* +
+Le service de télécommunication avec Israël est suspendu.
+
+a|*_Thaïlande_* +
+*_Thailand_* +
+*_Tailandia_* +
+Le service des télégrammes n'est plus assuré.
+
+a|*_Tonga_* +
+*_Tonga_* +
+*_Tonga_* +
+Le service des télégrammes n'est plus assuré. +
+Le service télex n'est plus assuré.
+
+a|*_Trinité-et-Tobago_* +
+*_Trinidad and Tobago_* +
+*_Trinidad y Tabago_* +
+Le service des télégrammes n'est plus assuré. +
+Le service télex n'est plus assuré. +
+Les communications payables à l'arrivée à destination de numéros mobiles et d'abonnés de la téléphonie virtuelle ne sont pas acceptées.
+
+a|*_Turquie_* +
+*_Turkey_* +
+*_Turquía_* +
+L’usage de la radiotélégraphie et de la radiotéléphonie à ondes hectométriques et décamétriques sur les navires étrangers se trouvant dans des ports turcs est soumis à des restrictions.
+
+a|*_Turques et Caïques (Iles)_* +
+*_Turks and Caicos Islands_* +
+*_Turquesas y Caicos (Islas)_* +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées. 
+
+a|*_Emirats arabes unis_* +
+*_United Arab Emirates_* +
+*_Emiratos Árabes Unidos_* +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées.  +
+Le service de télécommunication avec Israël est suspendu.
+
+a|*_Uruguay_* +
+*_Uruguay_* +
+*_Uruguay_* +
+Les communications payables à l'arrivée à destination de numéros mobiles ne sont pas acceptées. 
+
+a|*_Vanuatu_* +
+*_Vanuatu_* +
+*_Vanuatu_* +
+Les communications entrantes et sortantes payables à l'arrivée ne sont pas acceptées. +
+Le service télex n'est plus assuré. +
+ Le service des télégrammes n'est plus assuré.
+
+a|*_Vatican_* +
+*_Vatican_* +
+*_Vaticano_* +
+Le service télex n'est plus assuré.
+
+a|*_Yémen_* +
+*_Yemen_* +
+*_Yemen_* +
+Le service de télécommunication avec Israël est suspendu. +
+Le service télex n'est plus assuré.
+
+|===

@@ -1,0 +1,519 @@
+= SERVICE RESTRICTIONS (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+:bureau: T
+:docnumber: 1000-15.III.2012
+:title: SERVICE RESTRICTIONS
+:published-date: 2012-03-15
+:doctype: service-publication
+:docfile: document.adoc
+:language: en
+:status: draft
+:mn-document-class: itu
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+
+
+== RECAPITULATORY LIST OF SERVICE RESTRICTIONS
+
+=== Note from the TSB
+
+. In pursuance of the provisions of Chapter VI of the Constitution of the International Telecommunication Union (Geneva, 1992) and the provisions of Article 7 of  the International Telecommunication Regulations (Melbourne, 1988), Administrations/ROAs should notify the ITU of their service restrictions, either temporarily or permanently, relating to the various international telecommunications services offered to the pubic, the suspension of services and the subsequent return to normal conditions, either generally or only for certain relations and/or for certain kinds of correspondence, outgoing, incoming or in transit. The TSB of the ITU shall immediately bring such information to the attention of all other Administrations/ROAs, using the more appropriate means of communication.
+
+. For many years, information concerning the Service Restrictions has been individually published in the ITU Operational Bulletins and then collected in a "Recapitulatory Table of Service Restrictions" which was published as Annex to the ITU Operational Bulletin.
+
+. This present Recapitulatory List of Service Restrictions replaces the "Recapitulatory Table of Service Restrictions" published in the Annex to the ITU Operational Bulletin No. 691 of 1 May 1999 and contains all subsequent communications published in the ITU Operational Bulletins up to No. 1000 of 15 March 2012.
+
+. Every effort has been made to ensure that the information contained in the present List is accurate. Administrations/ROAs are requested to check the information published therein and to inform the TSB of any changes that should be made for its updating (Fax: +41 22 730 5853; E-mail: tsbtson@itu.int).
+
+. Furthermore, the information contained in this Annex to the ITU Operational Bulletin No. 1000 is also available on the ITU web site: http://www.itu.int/itu-t/bulletin/annex.html
+
+. The designations employed and the presentation of material in this List do not imply the expression of any opinion whatsoever on the part of the ITU concerning the legal status of any country or geographical area, or of its authorities.
+
+
+[%unnumbered,cols="1",options="header"]
+|===
+^.^|Country/geographical area
+
+a|*_Andorre_* +
+*_Andorra_* +
+*_Andorra_* +
+The telex service is no longer provided.
+
+a|*_Antigua-et-Barbuda_* +
+*_Antigua and Barbuda_* +
+*_Antigua y Barbuda_* +
+The telegram service is no longer provided +
+Collect calls to mobile, payphone and audiotex numbers are not accepted
+
+a|*_Argentine_* +
+*_Argentina_* +
+*_Argentina_* +
+The Correo Oficial de La Republica Argentina S.A., Buenos Aires, announces that as from 1 February 2011, the telegrams indicated as TLXx (TELEX DELIVERY) will not be accepted anymore. This restriction will reach incoming and outgoing telegrams from the Argentine (Republic). +
+The special services such as URGENT (urgent transmission and delivery) TFx (telephone delivery), FAXx (facsimile delivery) will be available.
+
+a|*_Aruba_* +
+*_Aruba_* +
+*_Aruba_* +
+Collect calls to mobile numbers are not accepted
+
+a|*_Australie_* +
+*_Australia_* +
+*_Australia_* +
+Collect calls to mobile numbers are not accepted
+
+a|*_Autriche_* +
+*_Austria_* +
+*_Austria_* +
+The telex service is no longer provided.
+
+a|*_Bangladesh_* +
+*_Bangladesh_* +
+*_Bangladesh_* +
+The telex service is no longer provided.
+
+a|*_Barbade_* +
+*_Barbados_* +
+*_Barbados_* +
+Collect calls to mobile numbers are not accepted
+
+a|*_Belgique_* +
+*_Belgium_* +
+*_Bélgica_* +
+No collect calls are accepted between a foreign operator and Belgacom operator. Incoming collect calls are available through Belgium Direct Service.
+
+a|*_Belize_* +
+*_Belize_* +
+*_Belice_* +
+Collect calls to mobile numbers or payphones  are not accepted
+
+a|*_Bosnie-Herzégovine_* +
+*_Bosnia and Herzegovina_* +
+*_Bosnia y Herzegovina_* +
+The telex service is no longer provided.
+
+a|*_Bulgarie_* +
+*_Bulgaria_* +
+*_Bulgaria_* +
+Collect telephone calls and credit card telephone calls are accepted in Bulgaria only with those countries whose administrations have confirmed their agreement to the Bulgarian Administration in writing. +
+The telegram service is no longer provided +
+The telex service is no longer provided.
+
+a|*_Cayman (Iles)_* +
+*_Cayman (Islands)_* +
+*_Caimán (Islas)_* +
+Collect calls to mobile numbers are not accepted
+
+a|*_Colombie_* +
+*_Colombia_* +
+*_Colombia_* +
+Collect calls to mobile numbers are not accepted
+
+a|*_Cook (Iles)_* +
+*_Cook Islands_* +
+*_Cook (Islas)_* +
+The telex service is no longer provided.
+
+a|*_Curaçao, Sint Maarten, Bonaire, Saint Eustatius et Saba_* +
+*_Curaçao, Sint Maarten, Bonaire, Sint Eustatius and Saba_* +
+*_Curaçao, Sint Maarten, Bonaire, San Eustatius y Saba_* +
+Collect calls for both outgoing and incoming  are not accepted +
+The telegram service is no longer provided +
+The telex service is no longer provided.
+
+a|*_Chypre_* +
+*_Cyprus_* +
+*_Chipre_* +
+CYTA no longer route nor accept telephone traffic via transit carriers. Telecom operators are requested to switch to the hubbing method for routing traffic to CYTA. +
+Collect calls to mobile numbers are not accepted
+
+a|*_Tchèque (Rép.)_* +
+*_Czech Rep._* +
+*_Checa (Rep.)_* +
+The telex service is no longer provided.
+
+a|*_Danemark_* +
+*_Denmark_* +
+*_Dinamarca_* +
+The telegram service is no longer provided.
+
+a|*_Dominique_* +
+*_Dominica_* +
+*_Dominica_* +
+Collect calls to mobile numbers are not accepted
+
+a|*_Féroé (Iles)_* +
+*_Faroe (Island)_* +
+*_Faroe (Islas)_* +
+The telex service is no longer provided. +
+The telegram service is no longer provided
+
+a|*_Fidji_* +
+*_Fiji_* +
+*_Fiji_* +
+The telex service is no longer provided. +
+The telegram service is no longer provided +
+Collect calls to mobile numbers are not accepted
+
+a|*_Finlande_* +
+*_Finland_* +
+*_Finlandia_* +
+Sonera announces the closure of the Booked Call Service (booked personal telephone calls requiring the dispatch of a messenger).
+
+a|*_France_* +
+*_France_* +
+*_Francia_* +
+France Telecom has discontinued the international collect call service.
+
+a|*_Gibraltar_* +
+*_Gibraltar_* +
+*_Gibraltar_* +
+Collect calls to mobile numbers are not accepted +
+The telegram service is no longer provided
+
+a|*_Groenland_* +
+*_Greenland_* +
+*_Groenlandia_* +
+The telegram service is no longer provided +
+Telephone calls requiring the dispatch of a messenger are no longer admitted.
+
+a|*_Guyana_* +
+*_Guyana_* +
+*_Guyana_* +
+The telex service is no longer provided. +
+The telegram service is no longer provided +
+Collect calls to mobile numbers are not accepted
+
+a|*_Haïti_* +
+*_Haiti_* +
+*_Haiti_* +
+The telex service is no longer provided.
+
+a|*_Honduras_* +
+*_Honduras_* +
+*_Honduras_* +
+Collect calls to mobile numbers are not accepted
+
+a|*_Hong Kong, Chine_* +
+*_Hong Kong, China_* +
+*_Hong Kong, China_* +
+The telegram service and CT2 service are no longer provided
+
+a|*_Hongrie_* +
+*_Hungary_* +
+*_Hungría_* +
+The telex service is no longer provided. +
+The telegram service is no longer provided +
+Collect calls for both outgoing and incoming  are not accepted
+
+a|*_Islande_* +
+*_Iceland_* +
+*_Islandia_* +
+The telex service is no longer provided. +
+Collect calls for both outgoing and incoming  are not accepted
+
+a|*_Indonésie_* +
+*_Indonesia_* +
+*_Indonesia_* +
+Collect calls to mobile numbers are not accepted +
+The telegram service is no longer provided +
+PT Indosat no longer route nor accept telephone traffic via transit carriers. Telecom operators are requested to switch to the hubbing method for routing traffic to PT Indosat
+
+a|*_Irlande_* +
+*_Ireland_* +
+*_Irlanda_* +
+Telephone calls requiring the dispatch of a messenger are no longer admitted.
+
+a|*_Japon_* +
+*_Japan_* +
+*_Japón_* +
+Telephone calls requiring the dispatch of a messenger are no longer admitted.
+
+a|*_Kenya_* +
+*_Kenya_* +
+*_Kenya_* +
+The international telegram messenger delivery services to physical addresses are not accepted.
+
+a|*_Koweït_* +
+*_Kuwait_* +
+*_Kuwait_* +
+Incoming, outgoing and transit telegrams from or to Israel are not accepted.
+
+a|*_Liban_* +
+*_Lebanon_* +
+*_Líbano_* +
+Incoming, outgoing and transit telegrams from or to Israel are not accepted.
+
+a|*_Luxembourg_* +
+*_Luxembourg_* +
+*_Luxemburgo_* +
+The telex service is no longer provided. +
+The telegram service is no longer provided +
+EPT announces cancellation of the operator service.
+
+a|*_Madagascar_* +
+*_Madagascar_* +
+*_Madagascar_* +
+The telegram service is no longer provided
+
+a|*_Malaisie_* +
+*_Malaysia_* +
+*_Malasia_* +
+The telex service is no longer provided.
+
+a|*_Malawi_* +
+*_Malawi_* +
+*_Malawi_* +
+Collect calls to mobile numbers are not accepted
+
+a|*_Maldives_* +
+*_Maldives_* +
+*_Maldivas_* +
+Collect calls for both outgoing and incoming  are not accepted
+
+a|*_Malte_* +
+*_Malta_* +
+*_Malta_* +
+The telegram service is no longer provided +
+The telex service is no longer provided.
+
+a|*_Maurice_* +
+*_Mauritius_* +
+*_Mauricio_* +
+Letter telegrams (LT) and government letter telegrams (LTF) are no longer admitted to and from Mauritius.
+
+a|*_Maroc_* +
+*_Morocco_* +
+*_Marruecos_* +
+Collect calls to mobile numbers and payphones are not accepted
+
+a|*_Mozambique_* +
+*_Mozambique_* +
+*_Mozambique_* +
+The telex service is no longer provided.
+
+a|*_Namibie_* +
+*_Namibia_* +
+*_Namibia_* +
+Collect calls to mobile numbers  are not accepted
+
+a|*_Pays-Bas_* +
+*_Netherlands_* +
+*_Países Bajos_* +
+Collect calls to mobile numbers  are not accepted
+
+a|*_Nouvelle-Calédonie_* +
+*_New Caledonia_* +
+*_Nueva Caledonia_* +
+The telex service is no longer provided. +
+The telegram service is no longer provided +
+Collect calls for both outgoing and incoming  are not accepted
+
+a|*_Nouvelle-Zélande_* +
+*_New Zealand_* +
+*_Nueva Zelandia_* +
+The telegram service is no longer provided
+
+a|*_Nigéria_* +
+*_Nigeria_* +
+*_Nigeria_* +
+Due to present congestion in Lagos Port, the harbour authority will reject messages from any ship without the following particulars: a) ship's name; b) call sign; c) agent's name; d) overall length; e) draught; f) tonnage loaded; g) nature of cargo; h) last port of call; i) date and local time of ship arrival outside bar.
+
+a|*_Norvège_* +
+*_Norway_* +
+*_Noruega_* +
+Telenor will no longer provide collect calls from Norway. Collect calls to Norway will however continue to be accepted.
+
+a|*_Pakistan_* +
+*_Pakistan_* +
+*_Pakistán_* +
+The telecommunication service with Israel is suspended. +
+The telex service is no longer provided. +
+The telegram service is no longer provided.
+
+a|*_Panama_* +
+*_Panama_* +
+*_Panamá_* +
+Collect calls to mobile numbers  are not accepted
+
+a|*_Papouasie-Nouvelle-Guinée_* +
+*_Papua New Guinea_* +
+*_Papua Nueva Guinea_* +
+Collect calls to mobile numbers  are not accepted +
+The telex service is no longer provided.
+
+a|*_Pérou_* +
+*_Peru_* +
+*_Perú_* +
+Collect calls for both outgoing and incoming  are not accepted
+
+a|*_Pologne_* +
+*_Poland_* +
+*_Polonía_* +
+The telegram service is no longer provided +
+The telex service is no longer provided.
+
+a|*_Russie (Fédération de)_* +
+*_Russian Federation_* +
+*_Rusia (Federación de)_* +
+Rostelecom announces that letter telegrams (LT), government letter telegrams (LTF) and telegrams with special service "URGENT" (Urgent transmission and delivery) are not accepted within the framework of telegraph traffic (terminating and originating) with Russia.
+
+a|*_Sainte-Hélène, Ascension et Tristan da Cunha_* +
+*_Saint Helena, Ascension and Tristan da Cunha_* +
+*_Santa Elena, Ascensión y Tristan da Cunha_* +
+The telex service is no longer provided. +
+The telegram service is no longer provided
+
+a|*_Sainte-Lucie_* +
+*_Saint Lucia_* +
+*_Santa Lucía_* +
+Collect calls to mobile numbers  are not accepted
+
+a|*_Saint-Vincent-et-les-Grenadines_* +
+*_Saint Vincent and the Grenadines_* +
+*_San Vicente y las Granadinas_* +
+Collect calls to mobile numbers  are not accepted
+
+a|*_Samoa_* +
+*_Samoa_* +
+*_Samoa_* +
+The telex service is no longer provided.
+
+a|*_Saint-Marin_* +
+*_San Marino_* +
+*_San Marino_* +
+Intelcom San Marino no longer route nor accept telephone traffic via transit carriers. Telecom operators are requested to switch to the hubbing method for routing traffic to Intelcom San Marino.
+
+a|*_Sao Tomé-et-Principe_* +
+*_Sao Tome and Principe_* +
+*_Santo Tomé y Príncipe_* +
+The telex service is no longer provided.
+
+a|*_Arabie saoudite_* +
+*_Saudi Arabia_* +
+*_Arabia Saudita_* +
+Collect calls for both outgoing and incoming  are not accepted
+
+a|*_Serbie_* +
+*_Serbia_* +
+*_Serbia_* +
+Collect calls to mobile numbers  are not accepted +
+The telex service is no longer provided. +
+The Operator-Assisted Call Service for semi-automatic calls (inbound and outbound) is not admitted.
+
+a|*_Seychelles_* +
+*_Seychelles_* +
+*_Seychelles_* +
+Collect calls to mobile numbers  are not accepted
+
+a|*_Singapour_* +
+*_Singapore_* +
+*_Singapur_* +
+The telegram service is no longer provided +
+Singapore Telecommunications Ltd ("SingTel"), Singapore, announces that incoming international operator-assisted calls and collect calls sent to Singapore Telecommunications Ltd ("SingTel") will not be terminated to subscribers of MobileOne (Asia) Pte Ltd and StarHub Mobile Pte Ltd unless the subscribers of these two (2) mobile companies have specifically registered with SingTel to receive such calls. Singapore Telecom Mobile Pte Ltd ("SingTel Mobile") will continue to accept such calls for termination to their subscribers.
+
+a|*_Slovaquie_* +
+*_Slovakia_* +
+*_Eslovaquia_* +
+Collect calls for both outgoing and incoming  are not accepted +
+The telex service is no longer provided. +
+The telegram service is no longer provided.
+
+a|*_Slovénie_* +
+*_Slovenia_* +
+*_Eslovenia_* +
+Telegrams with the special service TLXx (Telex delivery) are no longer admitted to and from Slovenia
+
+a|*_Sudafricaine (Rép.)_* +
+*_South Africa_* +
+*_Sudafricana (Rep.)_* +
+Telkom SA Ltd., Pretoria, announces that Letter telegrams (LT), Government letter telegrams (LTF) and telegrams with the special service URGENT (Urgent transmission and delivery) and LX (De luxe form) are not accepted to and from South Africa.
+
+a|*_Sri Lanka_* +
+*_Sri Lanka_* +
+*_Sri Lanka_* +
+No incoming calls are allowed for payphones in Sri Lanka
+
+a|*_Soudan_* +
+*_Sudan_* +
+*_Sudán_* +
+The telecommunication service with Israel is suspended.
+
+a|*_Suriname_* +
+*_Suriname_* +
+*_Suriname_* +
+The telegram service is no longer provided +
+The telex service is no longer provided.
+
+a|*_Swaziland_* +
+*_Swaziland_* +
+*_Swazilandia_* +
+Collect calls to mobile numbers and virtual telephony  are not accepted
+
+a|*_Suède_* +
+*_Sweden_* +
+*_Suecia_* +
+TeliaSonera no longer accept single ticket method collect calls to Sweden, nor provide Home Country Direct from and to Sweden.
+
+a|*_République arabe syrienne_* +
+*_Syrian Arab Republic_* +
+*_República Árabe Siria_* +
+The telecommunication service with Israel is suspended.
+
+a|*_Thaïlande_* +
+*_Thailand_* +
+*_Tailandia_* +
+The telegram service is no longer provided
+
+a|*_Tonga_* +
+*_Tonga_* +
+*_Tonga_* +
+The telegram service is no longer provided +
+The telex service is no longer provided.
+
+a|*_Trinité-et-Tobago_* +
+*_Trinidad and Tobago_* +
+*_Trinidad y Tabago_* +
+The telegram service is no longer provided +
+The telex service is no longer provided. +
+Collect calls to mobile numbers and virtual telephony  are not accepted
+
+a|*_Turquie_* +
+*_Turkey_* +
+*_Turquía_* +
+The use of MF and HF radiotelegraphy and radiotelephony on foreign ships in Turkish ports is restricted.
+
+a|*_Turques et Caïques (Iles)_* +
+*_Turks and Caicos Islands_* +
+*_Turquesas y Caicos (Islas)_* +
+Collect calls to mobile numbers  are not accepted
+
+a|*_Emirats arabes unis_* +
+*_United Arab Emirates_* +
+*_Emiratos Árabes Unidos_* +
+Collect calls to mobile numbers  are not accepted +
+The telecommunication service with Israel is suspended
+
+a|*_Uruguay_* +
+*_Uruguay_* +
+*_Uruguay_* +
+Collect calls to mobile numbers  are not accepted
+
+a|*_Vanuatu_* +
+*_Vanuatu_* +
+*_Vanuatu_* +
+The telex service is no longer provided. +
+Collect calls for both outgoing and incoming  are not accepted +
+The telegram service is no longer provided.
+
+a|*_Vatican_* +
+*_Vatican_* +
+*_Vaticano_* +
+The telex service is no longer provided.
+
+a|*_Yémen_* +
+*_Yemen_* +
+*_Yemen_* +
+The telecommunication service with Israel is suspended +
+The telex service is no longer provided.
+
+|===

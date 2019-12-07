@@ -1,0 +1,705 @@
+= List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC)
+:bureau: T
+:docnumber: 978-15.IV.2011
+:title: LIST OF TELEX DESTINATION CODES (TDC) AND TELEX NETWORK IDENTIFICATION CODES (TNIC)
+:complements: F.69 (06/1994), F.68 (11/1988)
+:published-date: 2011-04-15
+:status: draft
+:doctype: service-publication
+:docfile: document.adoc
+:mn-document-class: itu
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+
+
+== Notes from TSB
+
+. By TSB Circular 80 of 3 June 1994, TSB announced the approval of ITU T Recommendation F.69 (06/1994), in accordance with Resolution No. 1, Section 8, of the WTSC (Helsinki, 1993). Consequently, TSB prepared a list of Telex Destination Codes (TDC) and the corresponding Telex Network Identification Codes (TNIC), which are allocated in accordance with ITU-T Recommendation F.68 (11/1988). This list, based on Annex A to ITU-T Recommen¬dation  F.69 as published in the Blue Book (Volume II – Fascicle II.4 – pages 142 to 145), incorporates the changes of codes or designations of names of countries/geographical areas.
+
+. The new list, annexed to ITU Operational Bulletin No. 978 of 15 April 2011, replaces the previous one. In addition, the two-letter telegram network codes, referring to paragraph 7.3 of ITU T Recommendation F.32 (10/1995), corresponding to one-letter telex network identification codes and countries or geographical areas for which information regarding cessation of telex service has been published in ITU Operational Bulletin (No.), are appended to this list.
+
+. In the interests of keeping the list up to date, administrations/ROAs are requested to check the accuracy of the information it contains and to inform TSB of any changes which should be made for its updating (Fax: *+41 22 730 5853*, or E-mail: *tsbtson@itu.int*). Changes will be published in the following ITU Operational Bulletin as Amendments to the list.
+
+. Furthermore, the information contained in this Annex to ITU Operational Bulletin No. 978 is also available on the ITU web page link:http://www.itu.int/itu-t/bulletin/annex.html[www.itu.int/itu-t/bulletin/annex.html].
+
+. The designations employed and the presentation of material in this list do not imply the expression of any opinion whatsoever on the part of ITU concerning the legal status of any country or geographical area, or of its authorities.
+
+
+== List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC)
+
+[%unnumbered,cols="^,^,1",options="header"]
+|===
+|TCD |TNIC ^.^|Allocated to
+|1 |2 ^.^|3
+
+|100-149 | |Temporarily reserved for special administrative services
+|150-159 | |Temporarily reserved for special administrative services
+|160 |X |Maritime Mobile HF and MF Radiotelex
+|161 |X |Maritime Mobile HF and MF Radiotelex
+|162 |X |Maritime Mobile HF and MF Radiotelex
+|163 |X |Maritime Mobile HF and MF Radiotelex
+|164 |X |Maritime Mobile HF and MF Radiotelex
+|165 |X |Maritime Mobile HF and MF Radiotelex
+|166 |X |Maritime Mobile HF and MF Radiotelex
+|167 |X |Maritime Mobile HF and MF Radiotelex
+|168 |X |Maritime Mobile HF and MF Radiotelex
+|169 |X |Maritime Mobile HF and MF Radiotelex
+|170-179 | |Temporarily reserved for special administrative services
+|180-199 | |Temporarily reserved for special administrative services
+|200 |UA |Alaska (United States of America)
+|201 |DR |Dominican Republic (CDT)
+|202 |DI |Dominican Republic (AACR)
+|203{blank}footnote:[Reserved] |HN |Haiti (Republic of) 
+|204 |QN |Saint Pierre and Miquelon (Collectivité territoriale de la République française)
+|205 |PT |Puerto Rico (MCI/WUI)
+|206 |PD |Puerto Rico (AACR)
+|207 | | 
+|208 |VN |United States Virgin Islands
+|209 | |Puerto Rico (PRCA)
+|21 |CA |Canada
+|22 |ME |Mexico
+|23{blank}footnote:[Block allocated to United States of America] | |United States of America
+|230 |UD |United States of America (AT&T)
+|231 |UT |United States of America (TRT/FTC)
+|232 |UR |United States of America (MCI/WUI)
+|233 |UB |United States of America (GRAPHNET)
+|234 |UI |United States of America (AT&T)
+|235 | |United States of America (AT&T EasyLink Services Network)
+|236 |UW |United States of America (MCI/WUI)
+|237 |UC |United States of America (CCI)
+
+|===
+
+[%unnumbered,cols="^,^,1",options="header"]
+|===
+|TCD |TNIC ^.^|Allocated to
+|1 |2 ^.^|3
+
+|238 |UF |United States of America (TRT/FTC)
+|239 |UE |United States of America (TELENET)
+|240 | |Puerto Rico (TRT/FTC)
+|241 |DA |Dominican Republic (MIRADOR)
+|242 | |
+|243 | |
+|244 | |
+|245 | |
+|246 |UJ |United States of America (MMR)
+|247 | |United States of America
+|248 | |United States of America
+|249 | |United States of America
+|25 |UQ |United States of America (AT&T)
+|26{blank}footnote:[Prevously allocated to Canada (see ITU Operational Bulletin No. 581 of 1.X.1994).] | |
+|270 | |
+|271 | |
+|272 | |
+|273 | |
+|274 | |
+|275 | |
+|276 | |
+|277 | |
+|278 | |
+|279 | |
+|28 |CU |Cuba
+|290 |BA |Bermuda
+|291 |JA |Jamaica
+|292 |VB |British Virgin Islands
+|293 |CP |Cayman Islands
+|294{blank}footnote:[Reserved.] |WG |Trinidad and Tobago
+|295{blank}footnote:[Reserved.] |GY |Guyana
+|296 |TQ |Turks and Caicos Islands
+|297 |BS |Bahamas (Commonwealth of the)
+|298 |MR |Martinique (French Department of)
+|299 |GL |Guadeloupe (French Department of)
+|300 |FG |Guiana (French Department of)
+|301 | |
+|302 | |
+|303 |AW |Aruba
+
+|===
+
+[%unnumbered,cols="^,^,1",options="header"]
+|===
+|TCD |TNIC ^.^|Allocated to
+|1 |2 ^.^|3
+
+|304{blank}footnote:[Reserved.] |SN |Suriname (Republic of)
+|305 |PY |Paraguay (Republic of)
+|306 |FK |Falkland Islands (Malvinas)
+|307 | |
+|308 |ED |Ecuador
+|309 |BV |Bolivia (Republic of) (ENTEL)
+|31 |VE |Venezuela (Bolivarian Republic of) (CANTV)
+|32 |UY |Uruguay (Eastern Republic of)
+|33 |AR |Argentine Republic
+|34{blank}footnote:[Block allocated to Chile.] | |Chile
+|340 | |
+|341 | |
+|342 |CL |Chile (TELEX CHILE)
+|343 |CK |Chile (VTR)
+|344 |CZ |Chile (VTR/CM)
+|345 |CB |Chile (ENTEL-CHILE)
+|346 |CT |Chile (TEXCOM)
+|347 | |
+|348 | |
+|349 | |
+|35 |CO |Colombia (Republic of)
+|36 |PE |Peru
+|37 | |Central America (integrated code)
+|371 |BZ |Belize
+|372 |GU |Guatemala (Republic of)
+|373 |SR |El Salvador (Republic of)
+|374 |HO |Honduras (Republic of)
+|375 |NU |Nicaragua
+|376 |CR |Costa Rica
+|377 | |
+|378 |PP |Panama (Republic of) (Advanced Communication Network, S.A.)
+|379 |PG |Panama (Republic of) (INTEL)
+|38 |BR |Brazil (Federative Republic of)
+|390{blank}footnote:[Reserved] |NA |Curaçao (former Netherlands Antilles)
+|391 |LA |Anguilla
+|392 |WB |Barbados
+|393 |AK |Antigua and Barbuda
+|394 |DO |Dominica (Commonwealth of)
+|395 |GA |Grenada
+
+|===
+
+
+[%unnumbered,cols="^,^,1",options="header"]
+|===
+|TCD |TNIC ^.^|Allocated to
+|1 |2 ^.^|3
+
+|396 |MK |Montserrat
+|397 |KC |Saint Kitts and Nevis
+|398 |LC |Saint Lucia
+|399 |VQ |Saint Vincent and the Grenadines
+|400 |GC |Montenegro (Republic of)
+|401 | |
+|402{blank}footnote:[Reserved] |LU |Luxembourg
+|403 |MT |Malta (GTC)
+|404 |P |Portugal
+|405 |GK |Gibraltar
+|406{blank}footnote:[Reserved] |MW |Malta (Go plc.)
+|407 |M |Morocco (Kingdom of)
+|408 |DZ |Algeria (People's Democratic Republic of)
+|409 |TN |Tunisia
+|41 |D |Germany (Federal Republic of)
+|42 |F |France
+|42 |MC |Monaco (Principality of)
+|43 |I |Italy
+|44 |NL |Netherlands (Kingdom of the)
+|45 |CH |Switzerland (Confederation of)
+|45 |FL |Liechtenstein (Principality of)
+|46 |B |Belgium
+|47{blank}footnote:[Reserved] |A |Austria
+|480 | |
+|481 | |
+|482 | |
+|483 | |
+|484 | |
+|485 | |
+|486 | |
+|487 | |
+|488 | |
+|489 | |
+|490 |BN |Bahrain (Kingdom of)
+|491 |IK |Iraq (Republic of)
+|492 |SY |Syrian Arab Republic
+|493 |JO |Jordan (Hashemite Kingdom of)
+|494 |LE |Lebanon
+|495 |SJ |Saudi Arabia (Kingdom of)
+|496 |KT |Kuwait (State of)
+|497 |DH |Qatar (State of)
+
+|===
+
+
+[%unnumbered,cols="^,^,1",options="header"]
+|===
+|TCD |TNIC ^.^|Allocated to
+|1 |2 ^.^|3
+
+|498 |ON |Oman (Sultanate of)
+|499 | |
+|500 |EI |Ireland
+|501{blank}footnote:[Reserved] |IS |Iceland
+|502{blank}footnote:[Reserved] |FA |Faroe Islands (Denmark)
+|503 |GD |Greenland (Denmark)
+|504{blank}footnote:[Reserved] |VA |Vatican City State
+|505 |SO |San Marino (Republic of)
+|506 | |
+|507 | |
+|508 | |
+|509 | |
+|51 |G |United Kingdom of Great Britain and Northern Ireland
+|52 |E |Spain
+|530 | |
+|531 | |
+|532 | |
+|533 | |
+|534 | |
+|535 | |
+|536 | |
+|537 |EE |Estonia (Republic of)
+|538 |LV |Latvia (Republic of)
+|539 |LT |Lithuania (Republic of)
+|54 |S |Sweden
+|55{blank}footnote:[Reserved] |DK |Denmark
+|56 |N |Norway
+|57 |FI |Finland
+|580 |X |Maritime Mobile-Satellite Service (available)
+|581 |X |Atlantic-east satellite region, INMARSAT
+|582 |X |Pacific satellite region, INMARSAT
+|583 |X |Indian Ocean satellite region, INMARSAT
+|584 |X |Atlantic-west satellite region, INMARSAT
+|585 |X |Maritime Mobile-Satellite Service (available)
+|586 |X |Maritime Mobile-Satellite Service (available)
+|587 |X |Maritime Mobile-Satellite Service (available)
+|588 |X |Maritime Mobile-Satellite Service (available)
+|589 |X |Maritime Mobile-Satellite Service (available)
+|590{blank}footnote:[Reserved] |AD |Andorra (Principality of)
+|591 | |
+|592 | |
+
+|===
+
+
+[%unnumbered,cols="^,^,1",options="header"]
+|===
+|TCD |TNIC ^.^|Allocated to
+|1 |2 ^.^|3
+
+|593 | |
+|594 | |
+|595 | |
+|596 | |
+|597 |MB | The Former Yugoslav Republic of Macedonia
+|598 |SI |Slovenia (Republic of)
+|599 |RH |Croatia (Republic of)
+|600i) |BH |Bosnia and Herzegovina
+|601 |GR |Greece
+|602 | |
+|603 | |
+|604 |AB |Albania (Republic of)
+|605 |CY |Cyprus (Republic of) 
+|606 |IL |Israel (State of)
+|607 |TR |Turkey
+|608 | |
+|609 | |
+|61{blank}footnote:[Reserved] |H |Hungary (Republic of)
+|62{blank}footnote:[Reserved] |YU |Serbia (Republic of)
+|63{blank}footnote:[Reserved] |PL |Poland (Republic of)
+|64 |RU |Russian Federation
+| |SU{blank}footnote:[Previously allocated to ex-USSR (see ITU Operational Bulletin No. 584 of 15.XI.1994).] |
+|65 |R |Romania
+|660 | |
+|661 | |
+|662 | |
+|663{blank}footnote:[Reserved] |C |Czech Republic
+|664 | |
+|665 | |
+|666{blank}footnote:[Reserved] |SK |Slovak Republic
+|667 | |
+|668 | |
+|669 | |
+|67{blank}footnote:[Reserved] |BG |Bulgaria (Republic of)
+|680 |UX |Ukraine
+|681 |BY |Belarus (Republic of)
+|682 |MD |Moldova (Republic of)
+|683 |GI |Georgia
+|684 |AM |Armenia (Republic of)
+
+|===
+
+
+[%unnumbered,cols="^,^,1",options="header"]
+|===
+|TCD |TNIC ^.^|Allocated to
+|1 |2 ^.^|3
+
+|685 | |
+|686 | |
+|687 | |
+|688 | |
+|689 | |
+|69{blank}footnote:[Previously allocated to the former German Democratic Republic (see ITU Operational Bulletin No.571of 1.V.1994)] | |
+|700 |GM |Guam (United States of America) (MCI/WUI)
+|701{blank}footnote:[Reserved] |FJ |Fiji (Republic of)
+|702 |FP |French Polynesia (French Overseas Territory)
+|703{blank}footnote:[Reserved] |NE |Papua New Guinea
+|704 |HR |Hawaii (United States of America) (MCI/WUI)
+|705 | |Hawaii (United States of America) (MCI/WUI)
+|706{blank}footnote:[Reserved] |NM |New Caledonia (French Overseas Territory)
+|707 |WF |Wallis and Futuna (French Overseas Territory)
+|708 |HW |Hawaii (United States of America) (MCI/WUI)
+|709 | |Hawaii (United States of America) (WUH)
+|71 |AA |Australia
+|72 |J |Japan
+|73 |IA |Indonesia (Republic of)
+|74 |NZ |New Zealand
+|75{blank}footnote:[Block allocated to the Republic of the Philippines] | |Philippines (Republic of the)
+|750 | |
+|751 |PS |Philippines (Republic of the) (CAPWIRE)
+|752 |PH |Philippines (Republic of the) (PHILCOM)
+|753 | |
+|754 |PM |Philippines (Republic of the) (GMCR)
+|755 | |
+|756 |PN |Philippines (Republic of the) (ETPI)
+|757 |PI |Philippines (Republic of the) (RCPI)
+|758 |PU |Philippines (Republic of the) (PTT)
+|759 | |
+|760 |MN |Northern Mariana Islands (Commonwealth of the)
+|761 |KI |Kiribati (Republic of)
+|762 | |Tokelau
+|763 |PW |Palau (Republic of)
+|764 |FM |Micronesia (Federated States of)
+|765 |MS |Marshall Islands (Republic of the)
+|766 | |Australian External Territories
+|767 | |
+
+|===
+
+[%unnumbered,cols="^,^,1",options="header"]
+|===
+|TCD |TNIC ^.^|Allocated to
+|1 |2 ^.^|3
+
+|768 | |
+
+|769{blank}footnote:[Reserved] | |
+|770 |SB |American Samoa
+|771{blank}footnote:[Reserved] |NH |Vanuatu (Republic of)
+|772{blank}footnote:[Reserved] |RG |Cook Islands
+|773 | |Hawaii (United States of America) (DATATEL)
+|774 |TV |Tuvalu
+|775 |ZV |Nauru (Republic of)
+|776 |NF |Niue
+|777{blank}footnote:[Reserved] |TS |Tonga (Kingdom of)
+|778 |HQ |Solomon Islands
+|779{blank}footnote:[Reserved] |SX |Samoa (Independent State of)
+|780{blank}footnote:[Reserved] |BJ |Bangladesh (People's Republic of)
+|781{blank}footnote:[The remaining combinations in the series 78 will not be allocated until the stock of spare 3-digit codes for the region is exhausted.] | |
+|782{blank}footnote:[The remaining combinations in the series 78 will not be allocated until the stock of spare 3-digit codes for the region is exhausted.] | |
+|783{blank}footnote:[The remaining combinations in the series 78 will not be allocated until the stock of spare 3-digit codes for the region is exhausted.] | |
+|784 |AI |Azerbaijani Republic
+|785 |KZ |Kazakhstan (Republic of)
+|786 |UZ |Uzbekistan (Republic of)
+|787 |TJ |Tajikistan (Republic of)
+|788 |KH |Kyrgyz Republic
+|789 |TM |Turkmenistan
+|79 |AF |Afghanistan
+|800 |MH |Mongolia
+|801 |K |Korea (Republic of)
+|802 |HX |Hong Kong, China
+|803 |CE |Sri Lanka (Democratic Socialist Republic of)
+|804 |LS |Lao People's Democratic Republic
+|805 |VT |Viet Nam (Socialist Republic of)
+|806{blank}footnote:[Previously allocated to the former People’s Democratic Republic of Yemen (see ITU Operational Bulletin No 579 of 1.IX.1994).] | |
+|807 |KA |Cambodia (Kingdom of)
+|808 |OM |Macao, China
+|809 |BU |Brunei Darussalam
+|81 |IN |India (Republic of)
+|82{blank}footnote:[Reserved] |PK |Pakistan (Islamic Republic of)
+|83 |BM |Myanmar (Union of)
+
+|===
+
+
+[%unnumbered,cols="^,^,1",options="header"]
+|===
+|TCD |TNIC ^.^|Allocated to
+|1 |2 ^.^|3
+
+|84 |MA |Malaysia
+|85 |CN |China (People's Republic of)
+|86 |TH |Thailand
+|87 |RS |Singapore (Republic of)
+|88 |IR |Iran (Islamic Republic of)
+|890 |BT |Bhutan (Kingdom of)
+|891 |NP |Nepal
+|892 | |
+|893 |EM |United Arab Emirates (ETISALAT)
+|894 | |
+|895{blank}footnote:[Reserved] |YE |Yemen (Republic of)
+|896 |MF |Maldives (Republic of)
+|897 | |
+|898 | |
+|899 |KP |Democratic People's Republic of Korea
+|900 |SM |Somali Democratic Republic
+|901 |LY |Socialist People's Libyan Arab Jamahiriya
+|902 |ZA |Zambia (Republic of)
+|903 |UU |Burundi (Republic of)
+|904 |MI |Malawi
+|905 |NG |Nigeria (Federal Republic of)
+|906 |SG |Senegal (Republic of)
+|907 |ZW |Zimbabwe (Republic of)
+|908 |WK |Namibia (Republic of)
+|909 |RW |Rwanda (Republic of)
+|91 |UN |Egypt (Arab Republic of)
+|920{blank}footnote:[Officially allocated but has not yet been in service.] |ER |Eritrea
+|921 | |
+|922 | |
+|923 | |
+|924 | |
+|925 | |
+|926 | |
+|927 | |
+|928 | |
+|929 | |
+|930 | |
+|931 | |
+
+|===
+
+
+[%unnumbered,cols="^,^,1",options="header"]
+|===
+|TCD |TNIC ^.^|Allocated to
+|1 |2 ^.^|3
+
+|932 | |
+|933 | |
+|934 | |
+|935 | |
+|936 | |
+|937 | |
+|938 |DG |Diego Garcia
+|939{blank}footnote:[Previously allocated to Former Ascension] |AV |
+|94 |GH |Ghana
+|95 |SA |South Africa (Republic of)
+|960 |HL |Saint Helena, Ascension and Tristan da Cunha
+|961 |RE |French Departments and Territories in the Indian Ocean
+|962 |BD |Botswana (Republic of)
+|963 |LO |Lesotho (Kingdom of)
+|964 |WD |Swaziland (Kingdom of)
+|965 |SZ |Seychelles (Republic of)
+|966 |IW |Mauritius (Republic of)
+|967{blank}footnote:[Reserved] |ST |Sao Tome and Principe (Democratic Republic of)
+|968 | |
+|969 |BI |Guinea-Bissau (Republic of)
+|970 |KN |Cameroon (Republic of)
+|971 |RC |Central African Republic
+|972 |BC |Benin (Republic of)
+|973 |GO |Gabonese Republic
+|974 |MQ |Mauritania (Islamic Republic of)
+|975 |NI |Niger (Republic of the)
+|976 |KD |Chad (Republic of)
+|977 |TG |Togolese Republic
+|978 |BF |Burkina Faso
+|979 |DJ |Djibouti (Republic of)
+|980 |ET |Ethiopia (Federal Democratic Republic of)
+|981 |KG |Congo (Republic of the)
+|982 |CG |Democratic Republic of the Congo
+|983 |CI |Côte d'Ivoire (Republic of)
+|984 |SD |Sudan (Republic of the)
+|985 |MJ |Mali (Republic of)
+|986 |MG |Madagascar (Republic of)
+|987 |KE |Kenya (Republic of)
+|988 |UG |Uganda (Republic of)
+
+|===
+
+
+[%unnumbered,cols="^,^,1",options="header"]
+|===
+|TCD |TNIC ^.^|Allocated to
+|1 |2 ^.^|3
+
+|989 |TZ |Tanzania (United Republic of) (mainland)
+|990 |TA |Zanzibar (Tanzania)
+|991 |AN |Angola (Republic of)
+|992{blank}footnote:[Reserved] |MO |Mozambique (Republic of)
+|993 |CV |Cape Verde (Republic of)
+|994 |KO |Comoros (Union of the)
+|995 |GE |Guinea (Republic of)
+|996 |GV |Gambia (Republic of the)
+|997 |LI |Liberia (Republic of)
+|998 |SL |Sierra Leone
+|999 |EG |Equatorial Guinea (Republic of)
+
+|===
+
+
+*Notes:*
+
+. Integrated numbering plan.
+
+. Within this national code, the Telecommunication Administration of the People's Republic of  China has notified that the code 855 has been allocated to the province of Taiwan, China (Reference: Notification No. 1157 of 10 December 1980).
+
+. The Australian Administration announces that as part of integrated code 766, the telex code for:
+--
+- Norfolk Island is 766 3 (NV).
+- Christmas Island is 766 7 (IO).
+--
+
+
+[appendix]
+== Two-letter telegram network codes corresponding to one-letter Telex Network Identification Codes (TNIC)
+
+[%unnumbered,cols="^,^,1",options="header"]
+|===
+|TNIC |Two-letter telegram network codes ^.^|Country
+
+|A |AU |Austria
+|B |BE |Belgium
+|C |CS |Czech Republic
+|D |DP |Germany (Federal Republic of)
+|E |ES |Spain
+|F |FR |France
+|G |GB |United Kingdom of Great Britain and Northern Ireland
+|H |HU |Hungary (Republic of)
+|I |IG, IT, IU |Italy
+|J |JP |Japan
+|K |KR |Korea (Republic of)
+|M |MP |Morocco (Kingdom of)
+|N |NO |Norway
+|P |PC, PJ, PO |Portugal
+|R |RM |Romania
+|S |SW |Sweden
+
+|===
+
+
+[appendix]
+== Countries or geographical areas for which information regarding cessation of telex service has been published in the ITU Operational Bulletin (No.)
+
+[%unnumbered,cols="^,1,^,1"]
+|===
+
+|_OB No._ ^|Country/Geographical area |_OB No._ ^|Country/Geographical area
+
+|681 |Cook Islands |873 |Trinidad and Tobago
+|692 |Tonga |888 |Mauritius (via Swiss Telex)
+|693 |Fiji |889 |Croatia (Gentex via Swiss Telex)
+|702 |Samoa |895 |Germany (via Swiss Telex)
+|724 |Vanuatu |900 |Serbia
+|734 |Iceland |905 |United Kingdom (via Swiss Telex)
+|735 |Sao Tome and Principe |906 |Yemen
+|749 |Austria |911 |Cyprus (via Network Telex (UK))
+|754 |Papua New Guinea |911 |Czech
+|758 |Vatican |918 |Hong Kong, China (via EasyLink)
+|770 |Guyana |919 |Malta (Go plc)
+|770 |Haiti |920 |Maldives (via Swiss Telex)
+|772 |Mozambique |921 |Italy (via Swiss Telex)
+|773 |Poland |923 |Luxembourg
+|775 |Andorra |924 |Philippines (ETPI) (via Swiss Telex)
+|775 |New Caledonia |931 |Singapore, new operator AimsOne Pte Ltd (via Swiss Telex)
+|776 |Bosnia and Herzegovina |931 |Spain (via Easy Link)
+|799 |Hungary |940 |Bulgaria
+|806 |Curaçao (former Netherlands Antilles)|941 |France (via transit)
+|806 |Faroe Islands (Denmark)|959 |Bahrain (via Swiss Telex)
+|835 |Denmark |959 |Lithuania (via Telegraf OU (Estonia))
+|852 |Pakistan | |
+|853 |Slovakia | |
+|859 |Suriname | |
+|859 |Bangladesh | |
+
+|===
+
+
+== ABBREVIATIONS
+
+AACR:: All America Cables and Radio, Inc.
+
+AT&T:: American Telephone and Telegraph Company – EasyLink Services
+
+CANTV:: Compañía Anónima Nacional Teléfonos de Venezuela (Gerencia Internacional)
+
+CAPWIRE:: Capitol Wireless, Inc.
+
+CCI:: Consortium Communications International, Inc.
+
+CDT:: Compañía Dominicana de Télex, C. por A.
+
+ENTEL:: Empresa Nacional de Telecomunicaciones
+
+ENTEL-CHILE:: Empresa Nacional de Telecomunicaciones S.A.
+
+ETISALAT:: The Emirates Telecommunications Corporation Ltd
+
+ETPI:: Eastern Telecommunications Philippines, Inc.
+
+GMCR:: Globe-Mackay Cable and Radio Corporation
+
+GRAPHNET:: GRAPHNET, Inc.
+
+GTC:: Government Telecommunications Centre (Malta)
+
+INTEL:: Instituto Nacional de Telecomunicaciones
+
+MCI/WUI:: MCI International/WUI, Inc.
+
+MIRADOR:: Red Agencia Mirador
+
+MMR:: Mobile Marine Radio, Inc.
+
+PHILCOM:: Philippine Global Communications, Inc.
+
+PRCA:: Puerto Rico Communication Authority
+
+PTT:: Philippine Telegraph and Telephone Corp.
+
+RCPI:: Radio Communications of the Philippines, Inc.
+
+TELENET:: Telenet Communications Corporation
+
+TELEX CHILE:: Télex Chile Comunicaciones Telegráficas S.A.
+
+TELEYEMEN:: Yemen International Telecommunications Company (LLC)
+
+TEXCOM:: Sistemas y Equipos de Telecomunicaciones LTDA
+
+TRT/FTC:: TRT/FTC Communication, Inc.
+
+VTR:: VTR Telecomunicaciones S.A.
+
+VTR/CM:: VTR Comunicaciones Mundiales S.A.
+
+WUH:: Western Union of Hawaii, Inc.
+
+
+== AMENDMENTS
+
+[%unnumbered,cols="^,^,^"]
+|===
+
+|Amendment No. |Operational Bulletin No. |Country or geographical area
+
+|1 | |
+|2 | |
+|3 | |
+|4 | |
+|5 | |
+|6 | |
+|7 | |
+|8 | |
+|9 | |
+|10 | |
+|11 | |
+|12 | |
+|13 | |
+|14 | |
+|15 | |
+|16 | |
+|17 | |
+|18 | |
+|19 | |
+|20 | |
+|21 | |
+|22 | |
+|23 | |
+|24 | |
+|25 | |
+|26 | |
+|27 | |
+|28 | |
+|29 | |
+|30 | |
+
+|===
+
+
+
+

@@ -1,0 +1,2133 @@
+= DIFFÉRENTES TONALITÉS RENCONTRÉES DANS LES RÉSEAUX NATIONAUX (SELON LA RECOMMANDATION UIT-T E.180 (03/1998))
+:bureau: T
+:language: fr
+:docnumber: 
+:published-date: 2010-05-01
+:status: published
+:doctype: recommendation-annex
+:annextitle-fr: Annexe au Bulletin d’exploitation de l’UIT
+:annexid: No. 955
+:keywords: 
+:imagesdir: images
+:docfile: T-SP-E.180-2010-MSW-F.adoc
+:mn-document-class: ituob
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+:stem:
+
+
+[preface]
+== Note du TSB
+
+[class=steps]
+. La Liste des différentes tonalités rencontrées dans les réseaux nationaux vient d'être mise à jour au moyen des amendements publiées dans le Bulletin d'exploitation de l'UIT.
+
+. Les administrations voudront bien faire rappeler les avantages d'une normalisation poussée des tonalités audibles, qui permet aux abonnés et opérateurs de reconnaître rapidement toute tonalité quelle que soit son origine.
+
+. Pour nous permettre de disposer d'informations récentes et de tenir à jour la Liste, les administrations sont invitées à soumettre à l'UIT/TSB au moyen du formulaire de notification ci‑joint une brève description technique de toute nouvelle tonalité ou à nous signaler tout changement de tonalité lors de la mise en service.
+
+. Pour votre information, la Liste sera mise à jour au moyen de séries numérotées d'amendements publiés dans le Bulletin d'exploitation de l'UIT. Les informations contenues dans cette annexe sera également accessible dans la page web du site de l'UIT, à l'adresse http://www.itu.int/itu-t/bulletin/annex.html[www.itu.int/itu-t/bulletin/annex.html] .
+
+. Veuillez informer le Directeur du TSB de toute observation ou de toute modification relative à la Liste en question à l'adresse suivante:
++
+Union internationale des télécommunications
++
+Directeur du TSB
++
+Place des Nations
++
+CH-1211 GENÈVE 20
++
+Suisse
++
+Tél: +41 22 730 5211
++
+Fax: +41 22 730 5853
++
+E-mail : tsbtson@itu.int
+
+. Les désignations employées et la présentation des renseignements fournis dans la présente Liste n'impliquent de la part de l'UIT aucune prise de position quelle qu'elle soit quant au statut juridique d'un pays ou d'une zone géographique ou encore des autorités dont elle relève.
+
+== {blank}
+
+[%unnumbered]
+|===
+h| _PAYS/TONALITÉ_ h| _FRÉQUENCE en Hz_ h| _CADENCE en secondes_
+
+h| Albanie (République d')  | |
+
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.2 on 0.2 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité d'appel en attente - | 425 | 0.2 on 0.2 off 0.2 on 1.4 off
+
+h| Algérie (République algérienne démocratique et populaire)  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité de retour d'appel - | 425 | 1.5 on 3.5 off
+
+h| Allemagne (République fédérale d')  | |
+| Tonalité d'occupation - | 425 | 0.48 on 0.48 off
+| Tonalité d'encombrement - | 425 | 0.24 on 0.24 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - | 425+400 | continu
+| Tonalité d'identification de publiphone - | 1633/1336 | 5x(0.2 on 0.2 off 0.2 on 2.0 off)
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 900/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'avertissement - intervention | 425 | 0.24 on 0.24 off 0.24 on 1.28 off
+| d'opératrice | | 
+| Tonalité d'appel en attente - (2) | 425 | 0.2 on 0.2 off 0.2 on 5.0 off
+
+h| Andorre (Principauté d')  | |
+| Tonalité d'occupation - | 425 | 0.2 on 0.2 off
+| Tonalité d'encombrement - | 425 | 2x(0.2 on 0.2 off) 0.2 on 0.2 off
+| Tonalité de numérotation - | 425 | continu
+| Deuxième tonalité de numérotation - | 425 | continu
+| Tonalité de paiement - | 1600 | 0.05 on 0.05 off 0.05 on 0.05 off 1.5 off
+| Tonalité de retour d'appel - | 425 | 1.5 on 3.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.333 on 1.0 off
+| Tonalité d'appel en attente - | 425 | 0.175 on 0.175 off 0.175 on 3.5 off
+
+h| Angola (République d')  | |
+| Tonalité d'occupation - | 400 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 400 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 400 | continu
+| Tonalité d'abonné inaccessible - | 400 | 0.2 on 0.2 off
+| Tonalité de retour d'appel - | 25 | 1.0 on 5.0 off
+| Tonalité d'attente - | 400 | 1.0 on 5.0 off
+
+h| Anguilla  | |
+| Tonalité d'occupation - | 480+620 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 480+620 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 350+440 | continu
+| Tonalité d'invitation à répéter l'appel - | 350+440 | 3x(0.1 on 0.1 off) + continu
+| Tonalité d'abonné inaccessible - | 480+620 | 0.25 on 0.25 off
+| Tonalité d'identification de publiphone - | 1600/1143 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tonalité de retour d'appel - | 440+480 | 2.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'avertissement - intervention | 450 | 0.2 on 0.2 off 0.65 on 0.2 off
+| d'opératrice | | 
+| Tonalité d'attente - | 440 | 1x(0.5 on 10.0 off 0.5 on)
+
+h| Antigua-et-Barbuda  | |
+| Tonalité d'occupation - | 480+620 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 480+620 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 350+440 | continu
+| Tonalité de paiement - | 622 | 0.136 on 0.136 off
+| Tonalité de retour d'appel - | 440+480 | 2.0 on 4.0 off
+| Tonalité spéciale d'information - | … | annonce
+| Tonalité d'appel en attente - | 480 | 1x(0.6 on 10.0 off)
+
+h| Arabie saoudite (Royaume d')  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de conférence - | 425 | 0.5 on 2.0 off 0.5 on 15.0 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité d'identification de publiphone - | 1600/1200 | 0.2 on 0.2 off 0.2 on 4.0 off
+| Tonalité de retour d'appel - | 425 | 1.2 on 4.6 off
+| Tonalité d'appel en attente - | 425 | 0.15 on 0.2 off 0.15 on 10.0 off
+
+h| Argentine (République)  | |
+| Tonalité d'occupation - | 425 | 0.3 on 0.2 off
+| Tonalité d'encombrement - | 425 | 0.3 on 0.4 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de fin de service triangulaire - | 950/1400/1800 | 1x(3x0.33 on)
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité de service activité - | 425 | 1.0 on 0.25 off
+| Tonalité d'avertissement - intervention | 1400 | 5x0.1 on 1.9 off
+| d'opératrice | | 
+| Tonalité d'attente - | 425 | 0.4 on 0.2 off 0.4 on 4.0 off
+| Tonalité d'appel en attente - | 425 | 0.3 on 10.0 off
+
+h| Aruba  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité de confirmation - | 425 | continu
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de refus - | 425 | 0.06 on 0.06 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'appel en attente - | 425 | 0.2 on 0.2 off 0.2 on 4.4 off
+
+h| Ascension  | |
+| Tonalité d'occupation - | 400 | 0.384 on 0.384 off
+| Tonalité d'encombrement - | 400 | continu
+| Tonalité de numérotation - | 350+450 | continu
+| Tonalité d'abonné inaccessible - | 400 | continu
+| Tonalité de retour d'appel - | 400+450 | 0.384 on 0.192 off 0.384 on 2.016 off
+| Tonalité d'appel en attente - | 1400 | 1x(0.384 on)
+
+h| Australie  | |
+| Tonalité d'occupation - | 425//400 | 0.375 on 0.375 off
+| Tonalité d'encombrement - | 425//400 | 0.375 on 0.375 off
+| Tonalité de conférence - | 425//525//1400 | 1.0 on 15.0 off 0.36 on 15.0 off
+| Tonalité de numérotation - | 425x25//400+425+450//400+425//425 | continu
+| Tonalité de service complémentaire - | 425 | continu
+| Tonalité d'intrusion - | 425//525 | continu
+| Tonalité d'abonné inaccessible - | 425//400 | 2.5 on 0.5 off
+| Tonalité de retour d'appel - | 400x425//400+425+450//400+450 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité d'appel en attente - | 425 | 0.2 on 0.2 off 0.2 on 4.4 off
+
+h| Autriche  | |
+| Tonalité d'occupation - I | 420 | 0.4 on 0.4 off
+| Tonalité d'occupation - II (5) | 450 | 0.3 on 0.3 off
+| Tonalité d'encombrement - I | 420 | 0.2 on 0.2 off
+| Tonalité d'encombrement - II (5) | 450 | 0.3 on 0.3 off
+| Tonalité de numérotation - | 420//450 | continu
+| Tonalité d'invitation à répéter l'appel - | 420 | continu
+| Tonalité de numérotation spéciale - | 380+420 | continu
+| Tonalité d'indication negative - | 380+420 | 0.4 on 0.4 off
+| Tonalité d'abonné inaccessible - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité de paiement - | 852 | 1.5 on
+| Tonalité d'indication positive - | 380+420 | 1.0 on 5.0 off
+| Tonalité d'identification de publiphone - | 1633/1336 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tonalité de retour d'appel - | 420//450 | 1.0 on 5.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'avertissement - intervention | 420//450 | 0.15 on 0.15 off 0.15 on 1.95 off 
+| d'opératrice | | 
+| Tonalité d'attente - | 420 | 0.04 on 1.95 off
+
+h| Bahamas (Commonwealth des)  | |
+| Tonalité d'occupation - | 480//620/120 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 480//620/120 | 0.25 on 0.2 off
+| Tonalité de retour d'appel - | 480//620 | 2.0 on 4.0 off
+
+h| Bahreïn (Royaume de)  | |
+| Tonalité d'acceptation - | 425 | 0.06 on 0.06 off
+| Tonalité d'occupation - | 425 | 0.375 on 0.375 off
+| Tonalité d'encombrement - | 425 | 0.40 on 0.35 off 0.225 on 0.525 off
+| Tonalité de numérotation - | 330x440 | continu
+| Tonalité d'abonné inaccessible - | 425 | continu
+| Tonalité de paiement - | 816/1209 | O.125 on 1.5 off
+| Tonalité de retour d'appel - | 425 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité d'acheminement - | 425 | 0.06 on 0.06 off
+| Tonalité d'appel en attente - | 425 | 0.2 on 0.6 off 0.2 on 5.0 off
+
+h| Bangladesh (République populaire du)  | |
+| Tonalité d'occupation - | 450 | 0.2 on 0.3 off 0.7 on 0.8 off
+| Tonalité d'encombrement - | 450 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 450 | continu
+| Tonalité de numérotation spéciale - | 450 | 0.4 on 0.4 off
+| Tonalité d'hurlement - | 3000 | continu
+| Tonalité de paiement - | 800/1900 | continu
+| Tonalité de retour d'appel - | 450 | 1.0 on 4.0 off
+| Tonalité d'avertissement - intervention | 450 | 0.20 on 0.02 off 0.20 on 1.40 off
+| d'opératrice | | 
+| Tonalité d'appel en attente - | 450 | 3.0 on 10.0 off
+
+h| Barbade  | |
+| Tonalité d'occupation - | 480+620 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 480+620 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 350+440 | continu
+| Tonalité de retour d'appel - | 440+480 | 2.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on
+| Tonalité d'appel en attente - | 440 | 2x(0.3 on 10.0 off)
+
+h| Bélarus (République du)  | |
+| Tonalité d'occupation - | 425 | 0.4 on 0.4 off
+| Tonalité de retour d'appel - | 425 | 0.8 on 3.2 off
+
+h| Belgique  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.167 on 0.167 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - | 425 | 1.0 on 0.25 off
+| Tonalité de garde - | 1400 | 0.4 on 15.0 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 3.0 off
+| Tonalité spéciale d'information - | 900/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'appel en attente - | 1400 | 0.175 on 0.175 off 0.175 on 3.50 off
+
+h| Bénin (République du)  | |
+| Tonalité d'occupation - | 440//425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | … | annonce
+| Tonalité de numérotation - | 440//425 | continu
+| Tonalité de numérotation spéciale - | 330+440 | continu
+| Tonalité de paiement - | … | annonce
+| Tonalité de retour d'appel - | 440//425 | 1.7 on 3.3 off
+| Tonalité d'acheminement - | 440//425 | 0.05 on 0.05 off
+| Tonalité spéciale d'information - | … | annonce
+| Tonalité d'appel en attente - | 440 | continu
+
+h| Bermudes  | |
+| Tonalité d'occupation - | 480+620 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 480+620 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 350+440 | continu
+| Tonalité de retour d'appel - | 440+480 | 2.0 on 4.0 off
+| Tonalité spéciale d'information - | 913/1428/1776 | 0.27 on 0.38 on 0.38 on
+| Tonalité d'appel en attente - (6) | 440 | 
+
+h| Bhoutan (Royaume du)  | |
+| Tonalité d'occupation - | 400 | 0.6 on 0.6 off
+| Tonalité de numérotation - | 400+25 | continu
+| Tonalité d'abonné inaccessible - | 400 | continu
+| Tonalité de proposition, interurbain - | 450 | 0.2 on 0.2 off 0.2 on 0.6 off
+| Tonalité de retour d'appel - | 400+25 | 0.4 on 0.2 off 0.4 on 2.6 off
+| Tonalité d'attente - | 400 | 0.5 on 0.25 off
+
+h| Bosnie-Herzégovine  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité de confirmation - | 425 | continu
+| Tonalité d'encombrement - | 425 | 0.2 on 0.2 off
+| Tonalité de numérotation - | 425 | 0.2 on 0.3 off 0.7 on 0.8 off
+| Deuxième tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - | 425 | 0.4 on 0.04 off
+| Tonalité de proposition, interurbain - | 425 | 0.2 on 0.3 off 0.7 on 0.8 off
+| Tonalité de paiement - | 425 | 0.5 on 15.0 off
+| Tonalité d'identification de publiphone - | 1100+1750 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'appel en attente - | 425 | 0.3 on 10.0 off
+
+h| Botswana (République du)  | |
+| Tonalité d'acceptation - | 425 | 0.06 on 0.06 off
+| Tonalité d'occupation - | 425 | 0.38 on 0.38 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 350+450 | continu
+| Tonalité de numérotation spéciale - | 350+450 | 0.40 on 0.04 off
+| Tonalité de garde - | 425 | 5.0 on 5.0 off
+| Tonalité d'intrusion - | 425 | 0.16 on 2.0 off
+| Tonalité de neutralisation de ligne - | 425 | 5.0 on 1.0 off
+| Tonalité de refus - | 425 | 5.0 on 1.0 off
+| Tonalité de retour d'appel - | 425 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité d'attente - | 425 | 1.0 on 1.0 off
+| Tonalité d'appel en attente - | 425 | 0.2 on 0.6 off 0.2 on
+
+h| Brésil (République fédérative du)  | |
+| Tonalité d'occupation - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation - pabx | 425 | 0.975 on 0.05 off
+| Tonalité de commande d'attribution de | 750 | 0.02 on 1.0 off
+| priorité - | | 
+| Tonalité de reconnaissance de fonction - | 425 | 0.1 on 0.1 off 0.1 on 2.0 off
+| Tonalité d'abonné inaccessible - | 425 | 0.75 on 0.25 off 0.25 on 0.25 off
+| Tonalité de paiement - | 300 | 0.75 on
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité d'attente - | 425 | 0.05 on 1.0 off
+
+h| Brunéi Darussalam  | |
+| Tonalité d'occupation - | 400 | 0.375 on 0.375 off
+| Tonalité de confirmation - | 400x24 | 0.1 on 0.1 off 0.3 on 0.3 off
+| Tonalité d'encombrement - | 400 | 0.375 on 0.375 off
+| Tonalité de numérotation - | 400x50 | continu
+| Tonalité de numérotation spéciale - | 400x24 | 0.1 on 0.1 off
+| Tonalité de garde - | 400x24 | 0.5 on 2.5 off
+| Tonalité d'abonné inaccessible - | 400 | continu
+| Tonalité de retour d'appel - | 400+450 | 0.4 on 0.2 off 0.4 on 0.2 off
+| Tonalité d'avertissement – fin de la période | 400 | 0.624 on 4.376 off
+| Tonalité d'avertissement - intervention | 400 | 0.25 on 2.0 off
+| d'opératrice | | 
+| Tonalité d'avertissement – tonalité pip | 900 | 0.25 on 0.25 off
+| Tonalité d'attente - | 400 | 0.3 on 0.25 off
+| Tonalité d'appel en attente - | 400x24 | 0.5 on 0.25 off
+
+h| Bulgarie (République de)  | |
+| Tonalité d'occupation - I | 425 | 0.5 on 0.5 off
+| Tonalité d'occupation - II | 425 | 0.2 on 0.5 off
+| Tonalité d'occupation - III | 425 | 0.25 on 0.25 off
+| Tonalité d'occupation - IV | 425 | 0.3 on 0.3 off
+| Tonalité d'encombrement - I | 425 | 0.25 on 0.25 off
+| Tonalité d'encombrement - II | 425 | 0.22 on 0.22 off
+| Tonalité d'encombrement - III | 425 | 0.5 on 0.5 off
+| Tonalité de numérotation - I | 425 | continu
+| Tonalité de numérotation - II | 425 | 0.25 on 0.75 off 0.75 on 1.0 off
+| Tonalité de numérotation - III | 425 | 0.25 on 0.3 off 0.7 on 0.8 off
+| Tonalité de numérotation - IV | 425 | 0.25 on 0.25 off 0.25 on 1.0 off
+| Tonalité de numérotation spéciale - | 425 | 1.5 on 0.1 off
+| Tonalité de garde - I | 950/950/1400 | 0.65 on 0.32 off 0.32 on 0.32 off 1.30 on 2.60 off
+| Tonalité de garde - II | 425/950/950/1400 | 1.50 on 5.12 off 1.50 on 5.12 off 1.50 on 5.12 off
+| Tonalité d'intrusion - I | 425 | 0.24 on 0.24 off 0.24 on 1.20 off
+| Tonalité d'intrusion - II | 425 | 2.0 on 0.5 off 2.0 on 0.5 off
+| Tonalité d'intrusion - III | 425 | 0.25 on 0.25 off 0.25 on 1.5 off
+| Tonalité d'identification de publiphone - | 1100+1750/750+1450 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tonalité de retour d'appel - I | 425 | 1.0 on 4.0 off
+| Tonalité de retour d'appel - II | 425 | 1.0 on 9.0 off
+| Tonalité de retour d'appel - III | 425 | 1.5 on 3.5 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'avertissement - I | 1400 | 0.35 on 0.50 off
+| Tonalité d'avertissement - II | 425/1400 | 0.5 on 0.5 off
+| Tonalité d'appel en attente - I | 425 | 0.15 on 0.15 off 0.15 on 4.0 off
+| Tonalité d'appel en attente - II | 425 | 2x(0.3 on)
+| Tonalité d'appel en attente - III | 425 | 0.2 on 0.6 off
+
+h| Burkina Faso  | |
+| Tonalité d'acceptation - | 425 | 1.0 on 4.0 off
+| Tonalité d'occupation - | 425//440//620 | 0.5 on 0.5 off
+| Tonalité de confirmation - | 350 | 0128 on 0.128 off 0.384 on
+| Tonalité d'encombrement - | 425//620 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425//440 | continu
+| Tonalité de retour d'appel - I | 425 | 1.0 on 4.0 off
+| Tonalité de retour d'appel - II | 440 | 1.7 on 3.3 off
+| Tonalité de retour d'appel - III | 480 | 2.0 on 4.0 off
+| Tonalité d'acheminement - | 425 | 0.05 on 0.05 off
+| Tonalité spéciale d'information - | 900/1380/1860 | 0.35 on 0.30 on 0.35 on 1.0 off
+
+h| Burundi (République du) | | 
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de retour d'appel - | 425 | 1.7 on 3.3 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+
+h| Cambodge (Royaume du) | | 
+| Tonalité d'occupation - | 425 | 0.375 on 0.375 off
+| Tonalité d'encombrement - | 425 | 0.375 on 0.375 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité d'abonné inaccessible - | 425 | 0.25 on 0.25 off
+| Tonalité de retour d'appel - | 425 | 0.4 on 0.2 off 0.4 on 2.0 off
+
+h| Cameroun (République du)  | |
+| Tonalité d'occupation - | 440 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 440 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 440 | continu
+| Deuxième tonalité de numérotation - | 330+440 | continu
+| Tonalité de paiement - | 12000 | continu
+| Tonalité de retour d'appel - | 440 | 1.7 on 3.3 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'appel en attente - | 440 | 0.2 on 0.6 off 0.2 on
+
+h| Canada  | |
+| Tonalité d'occupation - | 480+620 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 480+620 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 350+440 | continu
+| Tonalité de retour d'appel - | 440+480 | 2.0 on 4.0 off
+| Tonalité d'appel en attente - | 440 | 2x(0.3 on 10.0 off)
+
+h| Cayman (Iles)  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité d'abonné inaccessible - | 425 | 0.25 on 0.25 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+
+h| Centrafricaine (République)  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 425 | continu
+| Deuxième tonalité de numérotation - | 425+330 | continu
+| Tonalité d'abonné inaccessible - | 425 | 0.5 on 0.5 off
+| Tonalité de paiement - | 12000 | 0.15 on 0.15 off
+| Tonalité de retour d'appel - | 425 | 1.7 on 3.3 off
+| Tonalité d'acheminement - | 425 | 0.05 on 0.05 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 2x0.30 off
+
+h| Chili  | |
+| Tonalité d'occupation - | 400 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 400 | 0.2 on 0.2 off
+| Tonalité de numérotation - | 400 | continu
+| Deuxième tonalité de numérotation - | 330+440 | continu
+| Tonalité d'identification - | 800/1200 | 0.6 on 2.0 off 0.6 on 2.0 off
+| Tonalité d'identification de publiphone - | 1100+1750/750+1450 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tonalité de retour d'appel - | 400 | 1.0 on 3.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.333 on 1.0 off
+| Tonalité d'avertissement - fin de la période | 800 | 2.0 on
+| Tonalité d'avertissement - intervention | 1400 | 0.5 on 15.0 off
+| d'opératrice | | 
+| Tonalité d'attente - | 900+1300 | 0.5 on 0.5 off
+
+h| Chine (République populaire de)  | |
+| Tonalité d'occupation - | 450 | 0.35 on 0.35 off
+| Tonalité d'encombrement - | 450 | 0.7 on 0.7 off
+| Tonalité de numérotation - | 450 | continu
+| Deuxième tonalité de numérotation - | 450 | continu
+| Tonalité d'intrusion - | 450 | 0.2 on 0.2 off 0.2 on 0.6 off
+| Tonalité d'abonné inaccessible - | 450 | 3x(0.1 on 0.1 off) 0.4 on 0.4 off
+| Tonalité de retour d'appel - | 450 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - I | 450 | 0.4 on 0.04 off
+| Tonalité spéciale d'information - II | 950 | 0.4 on 10.0 off
+| Tonalité d'attente - | 450 | 0.4 on 4.0 off
+
+h| Chypre (République de)  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 350+450 | continu
+| Tonalité d'abonné inaccessible - | 425 | 2.5 on 0.5 off
+| Tonalité de paiement - | 1638/1206/943 | 3x(0.068 on 0.068 off)
+| Tonalité de retour d'appel - | 425 | 1.5 on 3.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'avertissement - intervention | 1400 | 0.5 on 14.0 off
+| d'opératrice | | 
+| Tonalité d'appel en attente - | 425 | 0.1 on 0.1 off 0.1 on 5.0 off
+
+h| Colombie (République de)  | |
+| Tonalité d'occupation - | 425 | 0.25 on 0.25 off
+| Tonalité d'encombrement - | 425 | 0.10 on 0.25 off 0.35 on 0.25 off 0.65 on 0.25 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité d'abonné inaccessible - | 425 | 0.65 on 0.25 off 0.20 on 0.60 off
+| Tonalité de paiement - | 50/12000/16000 | 0.15 on
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.5 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.333 on 1.0 off
+
+h| Comores (Union des)  | |
+| Tonalité d'occupation - | 440 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 440 | continu
+| Deuxième tonalité de numérotation - | 330+440 | continu
+| Tonalité de retour d'appel - | 440 | 1.71 on 0.05 off
+| Tonalité d'acheminement - | 440 | 0.05 on 0.05 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+
+h| Cook (Iles)  | |
+| Tonalité d'occupation - | 400 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 400 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 400 | continu
+| Tonalité de retour d'appel - | 400+450 | 0.4 on 0.2 off
+| Tonalité d'appel en attente - | 400+450 | 0.5 on
+
+h| Corée (République de)  | |
+| Tonalité d'occupation - | 480+620 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 480+620 | 0.3 on 0.2 off
+| Tonalité de numérotation - | 350+440 | continu
+| Tonalité d'invitation à répéter l'appel - I | 400//450 | 1.0 on 4.0 off
+| Tonalité d'invitation à répéter l'appel - II | 400//450 | 1.0 on 2.0 off
+| Tonalité d'interception - | 350+440 | 0.125 on 0.25 off 0.125 on 1.5 off
+| Tonalité d'abonné inaccessible - | 450 | 0.2 on 0.1 off 0.2 on 1.5 off
+| Tonalité de retour d'appel - | 440+480 | 1.0 on 2.0 off
+| Tonalité d'avertissement - intervention | 392/494/587 | 2x(0.5 on 0.5 on 1.5 on)
+| d'opératrice | | 
+| Tonalité d'attente - | 350+440 | 0.25 on 0.25 off 0.25 on 3.25 off
+
+h| Costa Rica  | |
+| Tonalité d'occupation - | 450 | 0.33 on 0.33 off
+| Tonalité d'encombrement - | 450 | 0.33 on 0.33 off
+| Tonalité de numérotation - | 450 | continu
+| Tonalité de retour d'appel - | 450 | 1.2 on 4.9 off
+| Tonalité d'avertissement - intervention | 425 | 0.17 on 0.17 off 0.5 on 0.17 off
+| d'opératrice | | 
+| Tonalité d'appel en attente - | 450 | 0.15 on 0.15 off 0.15 on 8.0 off
+
+h| Côte d'Ivoire (République de)  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | … | annonce
+| Tonalité de numérotation - | 425 | continu
+| Deuxième tonalité de numérotation - | 440+330 | continu
+| Tonalité de neutralisation de ligne - | 425 | 0.4 on 0.04 off
+| Tonalité de paiement - | 12000 a| +
+| Tonalité de retour d'appel - | 425 | 1.7 on 3.3 off
+| Tonalité spéciale d'information - | … | annonce
+| Tonalité d'appel en attente - (6) | 425 a| +
+
+h| Croatie (République de)  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425 | 0.2 on 0.3 off 0.7 on 0.8 off
+| Tonalité d'identification de publiphone - | 1206/850 | 4x(0.2 on 0.2 off 0.2 on 0.2 off)
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.333 on 1.0 off
+| Tonalité d'appel en attente - | 425 | 0.3 on 8.0 off
+
+h| Cuba | |
+| Tonalité d'acceptation - | 425 | continu
+| Tonalité d'occupation - | 600x120//620+480//425//400 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 600x120//425//400 | 0.25 on 0.25 off
+| Tonalité de numérotation - I | 600x120//425 | continu
+| Tonalité de numérotation - II | 425 | 0.75 on 0.75 off 0.25 on 0.25 off
+| Tonalité d'indication negative - | 425 | 0.5 on 0.5 off
+| Tonalité de retour d'appel - I | 425 | 1.0 on 4.0 off
+| Tonalité de retour d'appel - II | 440+480//440+620//480+620 | 2.0 on 4.0 off
+| Tonalité de retour d'appel - III | 420x40 | 1.0 on 2.0 off
+| Tonalité de retour d'appel - IV | 400+450 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité spéciale d'information - I | 950/1400/1800 | (3x0.33 on 2x0.33 off) 1.0 off
+| Tonalité spéciale d'information - II | 400 | 4x(0.075 on 0.10 off) 0.30 off
+| Tonalité d'avertissement - I, intervention | 425 | 0.1 on 4.9 off
+| d'opératrice | | 
+| Tonalité d'avertissement - II, intervention | 425 | 0.5 on 0.2 off
+| d'opératrice | | 
+| Tonalité d'appel en attente - I | 425 | 0.2 on 0.6 off 0.2 on
+| Tonalité d'appel en attente - II | 400 | 0.5 on 0.5 off
+
+h| Danemark  | |
+| Tonalité d'occupation - I | 425 | 0.25 on 0.25 off
+| Tonalité d'occupation - II (1) | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - I | 425 | 0.25 on 0.25 off
+| Tonalité d'encombrement - II (1) | 425 | 0.2 on 0.2 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.00 off
+| Tonalité d'appel en attente - I | 425 | 0.2 on 0.2 off 0.2 on 3.6 off 0.2 on 0.2 off 0.2 on
+| Tonalité d'appel en attente - II (1) | 425 | 0.2 on 0.6 off 0.2 on 3.0 off 0.2 on 0.6 off 0.2 on
+
+h| Diego Garcia  | |
+| Tonalité d'occupation - | 480/620 | Interrompu à 60 i\mn
+| Tonalité de numérotation - | 350/440 | continu
+| Tonalité d'abonné inaccessible - | 480/620 | Interrompu à 120 i\mn
+| Tonalité de retour d'appel - | 440/480 | 1.0 on 3.0 off
+
+h| Djibouti (République de)  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de retour d'appel - | 425 | 1.5 on 3.5 off
+| Tonalité d'acheminement - | 425 | 0.05 on 0.05 off
+
+h| Dominicaine (République)  | |
+| Tonalité d'occupation - I | 400 | 0.8 on 0.8 off
+| Tonalité d'occupation - II | 400 | 0.375 on 0.375 off
+| Tonalité d'encombrement - I | 400 | 0.8 on 0.8 off
+| Tonalité d'encombrement - II | 400 | 0.375 on 0.375 off
+| Tonalité de numérotation - I | 50 | continu
+| Tonalité de numérotation - II | 33 | 0.0166 on 0.0166 off
+| Tonalité d'abonné inaccessible - | 400 | continu
+| Tonalité de retour d'appel - | 400//450 | 0.4 on 0.2 off 0.4 on 2.2 off
+
+h| Dominique (Commonwealth de la)  | |
+| Tonalité d'occupation - | 480+620 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 480+620 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 350+440 | continu
+| Tonalité de retour d'appel - | 440+480 | 2.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'appel en attente - | 440 | 1x(0.5 on 10.0 off 0.5 on)
+
+h| Egypte (République arabe d')  | |
+| Tonalité d'occupation - | 425x50 | 1.0 on 4.0 off
+| Tonalité d'encombrement - | 450 | 0.5 on 0.5 off
+| Tonalité d'intrusion - | 450 | 0.5 on 0.5 off
+| Tonalité d'identification de publiphone - | 1100+1750/750+1450 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tonalité de retour d'appel - | 425x50 | 2.0 on 1.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 0.33 on 0.33 off 0.33 on 0.33 off 0.33 on 0.33 off
+
+h| El Salvador (République d')  | |
+| Tonalité d'occupation - | 425 | 0.32 on 0.32 off
+| Tonalité d'encombrement - | 425 | 0.32 on 0.32 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - | 425 | 0.40 on 0.04 off
+| Tonalité d'intrusion - | 425 | 0.20 on 0.20 off 0.50 on 0.20 off
+| Tonalité de neutralisation de ligne - | 425 | 0.167 on 0.167 off 0.500 on 0.167 off
+| Tonalité de retour d'appel - | 425 | 1.2 on 4.6 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.00 off
+| Tonalité d'avertissement - | 1400 | 0.20 on 0.60 off
+| Tonalité d'appel en attente - | 425 | 0.35 on 15.0 off
+
+h| Emirats arabes unis  | |
+| Tonalité d'occupation - | 400//425 | 0.375 on 0.375 off
+| Tonalité d'encombrement - | 400//425 | 0.4 on 0.35 off 0.225 on 0.525 off
+| Tonalité de numérotation - | 350+440 | continu
+| Tonalité d'abonné inaccessible - | 400//425 | continu
+| Tonalité de retour d'appel - | 400+450//425 | 0.4 on 0.2 off 0.4 on 2.0 off
+
+h| Equateur  | |
+| Tonalité d'occupation - | 425 | 0.33 on 0.33 off
+| Tonalité d'encombrement - | 425 | 0.33 on 0.33 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de retour d'appel - | 425 | 1.2 on 4.65 off
+| Tonalité d'appel en attente - | 425 | 0.2 on 0.6 off
+
+h| Espagne  | |
+| Tonalité d'occupation - I | 425 | 0.2 on 0.2 off
+| Tonalité d'occupation - II | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - I | 425 | 2x(0.2 on 0.2 off) 0.2 on 0.6 off
+| Tonalité d'encombrement - II | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - I | 425 | 1.0 on 0.1 off
+| Tonalité de numérotation spéciale - II | 425 | 0.5 on 0.05 off
+| Tonalité d'abonné inaccessible - I | 425 | 0.2 on 0.2 off 0.2 on 0.6 off
+| Tonalité d'abonné inaccessible - II | 425 | 0.5 on 2.5 off
+| Tonalité d'identification de publiphone - I | 1600 | 0.05 on 0.05 off 0.05 on 1.5 off
+| Tonalité d'identification de publiphone - II | 1600 | 0.05 on 0.05 off 0.05 on 0.05 off 0.05 on 1.5 off
+| Tonalité de retour d'appel - I | 425 | 1.5 on 3.0 off
+| Tonalité de retour d'appel - II | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'avertissement - intervention | 1400 | 0.4 on 5.0 off
+| d'opératrice | | 
+| Tonalité d'appel en attente - | 425 | 0.175 on 0.175 off 0.175 on 3.5 off
+
+h| Estonie (République d')  | |
+| Tonalité d'occupation - | 425 | 0.3 on 0.3 off
+| Tonalité d'encombrement - | 425 | 0.2 on 0.2 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de paiement - | 16000 | 1.15 on 0.35 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'appel en attente - | 950/1400/1800 | 3x0.33 on 0.3 off
+
+h| Etats-Unis d'Amérique  | |
+| Tonalité d'occupation - | 600x120//600x133//600x140//600x160//480+620 | 0.5 on 0.5 off
+| Tonalité de confirmation - | 350+440 | 3x(0.1 on 0.1 off)
+| Tonalité de numérotation - | 600x120//600x133//600x140//600x160//350+440 | continu
+| Tonalité d'invitation à répéter l'appel - | 350+440 | 3x(0.1 on 0.1 off) + continu
+| Tonalité d'intrusion - | 600x120//600x133//600x140//600x160//480+620 | 0.5 on 0.5 off
+| Tonalité d'abonné inaccessible - | 200//400 | 0.5 on 6.0 off
+| Tonalité permanente - | 480//400//500 | continu
+| Tonalité d'enregistrement - | 440 | 0.5 on 5.0 off
+| Tonalité de retour d'appel - | 420x40//500x40//440+480 | 2.0 on 4.0 off
+| Tonalité de renumérotation - | 600x120//600x133//600x140//600x160//480+620 | 0.3 on 0.2 off
+| Tonalité d'avertissement - message (4) | 1400 | 0.5 on
+| Tonalité d'appel en attente - | 440 | 2x(0.3 on 10.0 off)
+
+h| Ethiopie (République fédérale démocratique d')  | |
+| Tonalité d'acceptation - | 425 | continu
+| Tonalité d'occupation - | 425 | 0.4 on 0.4 off
+| Tonalité d'encombrement - | 425 | 0.4 on 0.4 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - | 425 | 0.4 on 0.04 off
+| Tonalité d'intrusion - | 425 | 0.5 on 0.2 off
+| Tonalité de neutralisation de ligne - | 425 | 0.4 on 0.4 off
+| Tonalité de refus - | 425 | 0.4 on 0.4 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'avertissement - | 1400 | 0.5 on 11.5 off
+| Tonalité d'appel en attente - | 425 | 0.2 on 0.6 off
+
+h| Falkland (Iles) (Malvinas) | |
+| Tonalité d'occupation - | 400 | 0.375 on 0.375 off
+| Tonalité d'encombrement - | 400 | 0.4 on 0.35 off 0.255 on 0.525 off
+| Tonalité de numérotation - | 350+450 | continu
+| Tonalité d'abonné inaccessible - | 400 | continu
+| Tonalité de retour d'appel - | 400+450 | 0.4 on 0.2 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'avertissement - intervention | 1000 | 0.1 on 0.1 off
+| d'opératrice | | 
+
+h| Féroé (Iles)  | |
+| Tonalité d'occupation - | 425 | 0.25 on 0.25 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité d'abonné inaccessible - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+
+h| Fidji (République de)  | |
+| Tonalité d'acceptation - | 425 | continu
+| Tonalité d'occupation - | 425 | 0.75 on 0.75 off
+| Tonalité d'encombrement - | 425 | 037 on 0.37 off 0.37 on 0.37 off
+| Tonalité de numérotation - | 400+450 | continu
+| Deuxième tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - | 400+450 | 0.40 on 0.04 off
+| Tonalité de neutralisation de ligne - | 425 | 0.2 on 0.6 off 0.2 on 4.0 off
+| Tonalité d'abonné inaccessible - | 400 | 2.5 on 0.5 off
+| Tonalité de proposition, interurbain - | 425 | 0.17 on 0.17 off 0.50 on 0.17 off
+| Tonalité de refus - | 425 | 0.24 on 0.76 off
+| Tonalité de retour d'appel - | 425x25 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité spéciale de retour d'appel - | 425x25 | 1.0 on 5.0 off 1.0 on 5.0 off
+| Tonalité spéciale d'information - | 925/1400/1800 | 3x0.38 on 1.00 off
+| Tonalité d'avertissement - | 1400 | 0.5 on 12.0 off
+
+h| Finlande  | |
+| Tonalité d'occupation - | 425 | 0.3 on 0.3 off
+| Tonalité d'encombrement - | 425 | 0.2 on 0.2 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - | 425 | 0.65 on 0.025 off
+| Tonalité de file d'attente - | 950/950/1400 | 0.65 on 0.325 off 0.325 on 1.3 on 2.6 off
+| Tonalité de retour d'appel - (11) | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.333 on 1.0 off
+| Tonalité d'avertissement - intervention | 425 | 0.2 on 0.3 off 0.2 on 1.3 off
+| d'opératrice | | 
+| Tonalité d'appel en attente - | 425 | 0.15 on 0.15 off 0.15 on 8.0 off
+
+h| France  | |
+| Tonalité d'occupation - | 440 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 440 | continu
+| Tonalité de retour d'appel - | 440 | 1.5 on 3.5 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x(0.3 on 0.03 off) 1.0 off
+| Tonalité d'appel en attente - | 440 | 0.3 on 10.0 off
+
+h| France de l'Océan indien  | |
+| Tonalité d'occupation - | 440 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 440 | continu
+| Tonalité de retour d'appel - | 440 | 1.5 on 3.5 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x(0.3 on 0.03 off) 1.0 off
+| Tonalité d'appel en attente - | 440 | 0.3 on 10.0 off
+
+h| Gabonaise (République)  | |
+| Tonalité d'occupation - | 440 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 440 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 440 | continu
+| Tonalité de retour d'appel - | 440 | 1.7 on 3.3 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 0.30 on 0.33 off
+| Tonalité d'appel en attente - | 1800 | 0.5 on 2.5 off
+
+h| Gambie (République de)  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 1400 | 0.330 on 0.030 off
+| Tonalité d'appel en attente - | 950 | 0.330 on 0.030 off
+
+h| Géorgie  | |
+| Tonalité d'occupation - | 425 | 1.0 on 3.0 off
+| Tonalité d'encombrement - | 425 | 1.0 on 1.0 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de retour d'appel - | 25 | 1.0 on 4.0 off
+| Tonalité d'appel en attente - | 425 | 0.125 on
+
+h| Ghana  | |
+| Tonalité d'occupation - | 400 | 0.25 on 0.25 off
+| Tonalité d'encombrement - | 400 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 400 | continu
+| Tonalité de garde - | 400 | 0.5 on 0.5 off 0.5 on 0.25 off
+| Tonalité d'abonné inaccessible - | 400 | 0.075 on 0.1 off 0.075 on 0.1 off 0.075 on 0.4 off
+| Tonalité de retour d'appel - | 400 | 1.0 on 4.0 off
+| Tonalité d'attente - | 400 | 0.5 on 0.3 on 0.2 off 0.3 on 0.2 off 3.0 off
+
+h| Gibraltar  | |
+| Tonalité d'occupation - | 400 | 0.375 on 0.375 off
+| Tonalité d'encombrement - | 400 | 0.4 on 0.35 off 0.225 on 0.525 off
+| Tonalité de numérotation - | 350+400 | continu
+| Tonalité d'abonné inaccessible - | 400 | continu
+| Tonalité de retour d'appel - | 400+450 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité d'attente - | 400 | 0.1 on 3.0 off
+
+h| Grèce  | |
+| Tonalité d'occupation - | 425 | 0.3 on 0.3 off
+| Tonalité d'encombrement - | 425 | 0.15 on 0.15 off
+| Tonalité de numérotation - | 425 | 0.2 on 0.3 off 0.7 on 0.8 off
+| Tonalité de numérotation spéciale - | 400/425//425/450 | 0.2 on 0.3 off 0.7 on 0.8 off
+| Tonalité de garde - | 900 | 0.5 on 0.5 off
+| Tonalité d'intrusion - | 425 | 0.15 on 0.25 off 0.15 on 1.45 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1450/1800 | 3x0.33 on 1.0 off
+| Tonalité d'appel en attente - | 425 | 0.3 on 10.0 off 0.3 on 10.0 off
+
+h| Grenade  | |
+| Tonalité d'occupation - | 460+620 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | … | annonce
+| Tonalité de retour d'appel - | 440+480 | 2.0 on 4.0 off
+
+h| Groenland (Danemark)  | |
+| Tonalité d'occupation - | 445//425 | 0.25 on 0.25 off
+| Tonalité d'encombrement - | 445//425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 445//425 | continu
+| Deuxième tonalité de numérotation - | 445//425 | continu
+| Tonalité d'abonné inaccessible - I | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'abonné inaccessible - II | 425 | 0.25 on 0.25 off
+| Tonalité de paiement - | 950/1400/1800 | 3x0.22 on 1.0 off
+| Tonalité de retour d'appel - | 445//425 | 1.0 on 4.0 off
+
+h| Guadeloupe (Département français de la)  | |
+| Tonalité d'occupation - | 440 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 440 | continu
+| Tonalité de retour d'appel - | 440 | 1.5 on 3.5 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x(0.3 on 0.03 off) 1.0 off
+| Tonalité d'appel en attente - | 440 | 0.3 on 10.0 off
+
+h| Guinée (République de)  | |
+| Tonalité d'occupation - | 450 | 0.2 on 0.2 off
+| Tonalité de retour d'appel - | 450 | 0.4 on 0.2 off
+
+h| Guyana  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 360/400 | 1.3 on 0.3 off 0.2 on 0.5 off
+| Tonalité de retour d'appel - | 425 | 1.75 on 3.25 off
+| Tonalité d'attente - | 480 | 0.5 on 18.0 off
+
+h| Guyane française (Département français de la)  | |
+| Tonalité d'occupation - | 440 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 440 | continu
+| Tonalité de retour d'appel - | 440 | 1.5 on 3.5 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x(0.3 on 0.03 off) 1.0 off
+| Tonalité d'appel en attente - | 440 | 0.3 on 10.0 off
+
+h| Honduras (République du)  | |
+| Tonalité d'occupation - | 440 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 440 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 440 | continu
+| Tonalité de retour d'appel - | 440 | 1.0 on 4.0 off
+| Tonalité d'appel en attente - | 440 | 0.5 on 0.5 off 2.0 on 4.0 off
+
+h| Hong Kong, Chine  | |
+| Tonalité d'occupation - | 480+620 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 480+620 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 350+440 | continu
+| Tonalité d'abonné inaccessible - | 480+620 | continu
+| Tonalité de retour d'appel - | 440+480 | 0.4 on 0.2 off 0.4 on 3.0 off
+
+h| Hongrie (République de)  | |
+| Tonalité d'occupation - | 425 | 0.3 on 0.3 off
+| Tonalité d'encombrement - | 425 | 0.3 on 0.3 off
+| Tonalité de numérotation - | 425 | continu
+| Deuxième tonalité de numérotation - | 425+450 | continu
+| Tonalité de numérotation spéciale - | 350+375+400 | continu
+| Tonalité d'indication negative - | 300+425 | 0.2 on 0.2 off 0.2 on 0.2 off 0.2 on 0.2 off + annonce
+| Tonalité de proposition, interurbain - | 425 | 0.3 on 0.3 off 0.3 on 1.5 off
+| Tonalité de paiement - | 600//1100 | (3 or 5)(0.15 on 0.15 off)
+| Tonalité d'indication positive - | 300+425 | 1.0 on 0.2 off + annonce
+| Tonalité d'identification de publiphone - | 1100+1750//750+1450 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tonalité de retour d'appel - | 425 | 1.25 on 3.75 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'avertissement - | 425 | 0.3 on 0.3 off 0.3 on 1.5 off
+| Tonalité d'appel en attente - | 425 | 0.04 on 1.96 off
+
+h| Iles anglo-normandes: Guernesey  | |
+| Tonalité d'occupation - | 400 | 0.375 on 0.375 off
+| Tonalité d'encombrement - | 400 | 0.40 on 0.35 off 0.25 on 0.52 off
+| Tonalité de numérotation - | 350+450 | continu
+| Tonalité de numérotation spéciale - | 350+450 | 0.75 on 0.75 off
+| Tonalité de paiement - | 400 | 0.125 on 0.125 off
+| Tonalité de retour d'appel - | 400+450 | 0.4 on 0.2 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'appel en attente - | 400 | 8x(0.1 on 4.9 off)
+
+h| Iles anglo-normandes: Jersey  | |
+| Tonalité d'occupation - | 400 | 0.375 on 0.375 off
+| Tonalité d'encombrement - | 400 | 0.4 on 0.35 off 0.225 on 0.525 off
+| Tonalité de numérotation - | 350+450 | continu
+| Tonalité d'abonné inaccessible - | 400 | continu
+| Tonalité de paiement - | 400 | 0.125 on 0.125 off
+| Tonalité de retour d'appel - | 400+450 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité d'attente - | 400 | 0.1 on 2.5 off 0.1 on
+
+h| Inde (République de l')  | |
+| Tonalité d'acceptation - | 400 | 1.0 on 4.0 off
+| Tonalité d'occupation - | 400 | 0.75 on 0.75 off
+| Tonalité d'encombrement - | 400 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 400x25 | continu
+| Tonalité de numérotation spéciale - | 400 | 2.8 on 0.2 off
+| Tonalité de garde - | 400 | 0.25 on 0.25 off 0.25 on 3.25 off
+| Tonalité d'intrusion - | 400 | 0.15 on 4.85 off
+| Tonalité de refus - | 400 | 0.25 on 0.25 off
+| Tonalité de retour d'appel - I (appels local ) | 400x25 | 0.4 on 0.2 off 0.4 on 2..0 off
+| Tonalité de retour d'appel - II (appels NSD/ISD ) | 400x25 | 1.0 on 2.0 off
+| Tonalité d'acheminement - | 400 | 0.1 on 0.9 off
+| Tonalité d'appel en attente - | 400 | 0.2 on 0.1 off 0.2 on 7.5 off
+
+h| Indonésie (République d')  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité d'identification de publiphone - | 1200/800 | 0.2 on 0.2 off 0.2 on 0.2 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x(0.33 on 0.03 off) 1.0 off
+| Tonalité d'appel en attente - | 425 | 0.15 on 0.15 off 0.15 on 10.0 off
+
+h| Iran (République islamique d')  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de proposition, interurbain - | 425 | 0.2 on 0.2 off 0.2 on 1.4 off
+| Tonalité de préemption - | 1400 | 3x(0.1 on) 0.1 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité de renumérotation - | 425 | 0.25 on 0.25 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité numéro d'essai - | 800 | continu
+| Tonalité d'appel en attente - | 425 | 0.2 on 0.2 off 0.2 on 10.0 off
+
+h| Iraq (République d')  | |
+| Tonalité d'occupation - | 400 | 1.0 on 1.0 off
+| Tonalité d'invitation à répéter l'appel - | 133 | 0.4 on 0.2 off 0.4 on 1.5 off
+| Tonalité de retour d'appel - | 400 | continu
+
+h| Irlande  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 400//425//450 | continu
+| Tonalité de paiement - | 12000 | 0.12 on
+| Tonalité de retour d'appel - | 400+450//425 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité d'acheminement - | 425 | 0.06 on 0.06 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'appel en attente - | 425 | 0.18 on 0.20 off 0.20 on 4.50 off
+
+h| Islande  | |
+| Tonalité d'occupation - | 425 | 0.25 on 0.25 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - (7) | 425 | 0.4 on 0.04 off
+| Tonalité d'abonné inaccessible - | … | annonce
+| Tonalité d'identification de publiphone - | 1633/1209 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité d'avertissement - | 425 | 0.4 on 15.0 off
+| Tonalité d'attente - | 425 | 4x(0.2 on 0.2 off 0.2 on 3.6 off 0.2 on 0.2 off 0.2 on)
+
+h| Israël (Etat d')  | |
+| Tonalité d'occupation - | 400 | 0.5 on 0.5 off
+| Tonalité de confirmation - I | 400 | 1x(0.17 on 0.14 off 0.34 on)
+| Tonalité de confirmation - II | 400 | 0.04 on 0.04 off
+| Tonalité de numérotation - | 400 | continu
+| Deuxième tonalité de numérotation - | 400 | 3x(0.1 on 0.1 off) + continu
+| Tonalité d'invitation à répéter l'appel - | 400 | 3x(0.1 on 0.1 off) + continu
+| Tonalité de numérotation spéciale - | 400 | 1.0 on 0.25 off
+| Tonalité de garde - | 400 | 0.05 on 2.0 off
+| Tonalité d'abonné inaccessible - | 1000/1400/1800 | 3x0.333 on 1.0 off +annonce
+| Tonalité de paiement - | 16000 | 0.18 on
+| Tonalité d'identification de publiphone - | 1209/852 | 5x(0.2 on 0.2 off 0.2 on 2.0 off)
+| Tonalité de retour d'appel - | 400 | 1.0 on 3.0 off
+| Tonalité de recherche - mobile | 1004 | 0.01 on 1.0 off
+| Tonalité spéciale d'information - | 1000/1400/1800 | 3x0.333 on 1.0 off + annonce
+| Tonalité d'attente - message | 400 | 10x(0.16 on 0.16 off) + continu
+| Tonalité d'appel en attente - | 400 | 1x(0.5 on 10.0 off 0.5 on)
+| Tonalité de demandeur en attente - | 400 | 2x(0.1 on 0.1 off) 0.6 on 3.0 off
+
+h| Italie  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.2 on 0.2 off
+| Tonalité de numérotation - | 425 | 0.2 on 0.2 off 0.6 on 1.0 off
+| Tonalité de numérotation spéciale - | 425 | continu
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | | annonce
+| Tonalité d'appel en attente - (4) | 425 | 0.40 on 0.10 off 0.25 on 0.10 off 0.15 on
+
+h| Jamaïque  | |
+| Tonalité d'occupation - | 480+620 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 480+620 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 350+440 | continu
+| Tonalité de retour d'appel - | 440+480 | 2.0 on 4.0 off
+| Tonalité d'appel en attente - | 440 | 0.25 on 0.25 off
+
+h| Japon  | |
+| Tonalité d'occupation - (3) | 400 | 0.5 on 0.5 off
+| Tonalité de numérotation - I | 400 | continu
+| Tonalité de numérotation - II, pabx | 400 | 0.25 on 0.25 off
+| Tonalité de numérotation - III | 400 | 0.125 on 0.125 off 0.125 on 0.125 off 0.125 on 0.125 off 0.125 on 0.125 off 0.75 on 0.25 off
+| Deuxième tonalité de numérotation - (3) | 400 | 0.125~0.15 on 0.1~0.125 off
+| Tonalité de paiement - | 250 | 0.5 on
+| Tonalité d'indication positive - I | 400 | 0.125 on 0.125 off 0.125 on 0.625 off
+| Tonalité d'indication positive - II | 400 | 0.125 on 0.125 off 0.625 on 0.125 off
+| Tonalité de retour d'appel - I | 400x(15~20) | 1.0 on 2.0 off
+| Tonalité de retour d'appel - II, pabx | 400x20 | 1.0 on 2.0 off
+| Tonalité d'appel en attente - I | 400x16/400 | 0.5 on 0.0~4.0 off 0.05 on 0.45 off 0.05 on 3.45 off
+| Tonalité d'appel en attente - II | 400x16/400 | 0.1 on 0.1 off 0.1 on 3.0 off
+| Tonalité d'appel en attente - III | 400x16/400 | 0.064 on 0.436 off 0.064 on 3.436 off
+| Tonalité d'appel en attente - IV | 400x16/400 | 0.25 on 0.25 off 0.25 on 3.25 off
+| Tonalité d'appel en attente - V | 400x16/400 | 0.5 on 0.5 off 0.5 on 2.5 off
+| Tonalité d'appel en attente - VI | 400x16/400 | 0.5 on 0.0~4.0 off 0.05 on 0.45 off 0.05 on 0.45 off 0.05 on 0.45 off 0.05 on 2.45 off
+
+h| Jordanie (Royaume hachémite de)  | |
+| Tonalité d'occupation - | 420x40 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 420x40 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 420x40 | continu
+| Tonalité de garde - | 420x40 | 0.5 on 8.0 off
+| Tonalité d'hurlement - | 950 | continu
+| Tonalité d'intrusion - | 420x40 | 0.2 on 0.2 off 0.2 on 1.3 off
+| Tonalité d'abonné inaccessible - | 420x40 | 0.12 on 0.12 off
+| Tonalité de retour d'appel - | 420x40 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | (950/1400/1800)x40 | 1.0 on 1.0 off
+| Tonalité d'appel en attente - | 420x40 | 0.15 on 0.15 off
+
+h| Kenya (République du)  | |
+| Tonalité d'occupation - | 425 | 0.2 on 0.6 off 0.2 on 0.6 off
+| Tonalité d'encombrement - | 425 | 0.2 on 0.6 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de paiement - I | 941 | 0.2 on 0.2 off
+| Tonalité de paiement - II | 800/1600 | 0.08 on 0.08 off
+| Tonalité d'identification de publiphone - | 1633 | 0.08 on 1.5 off
+| Tonalité de retour d'appel - | 425 | 0.67 on 3.0 off 1.5 on 5.0 off
+| Tonalité spéciale d'information - | 900/1400/1800 | 3x0.75 on 1.25 off
+| Tonalité d'avertissement - intervention | 425 | 0.2 on 0.2 off
+| d'opératrice | | 
+| Tonalité d'appel en attente - | 425 | continu
+
+h| Kiribati (République de)  | |
+| Tonalité d'occupation - | 425 | 0.375 on 0.375 off
+| Tonalité d'encombrement - | 425 | 0.375 on 0.375 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité d'abonné inaccessible - | 425 | 2.5 on 0.5 off
+| Tonalité de retour d'appel - | 425 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité d'appel en attente - | 425 | 0.1 on 0.2 off 0.1 on 4.7 off
+
+h| Koweït (Etat du)  | |
+| Tonalité d'acceptation - | 425 | continu
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425 | continu
+| Deuxième tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - | 425 | 0.40 on 0.04 off
+| Tonalité de neutralisation de ligne - | 425 | 0.32 on 0.32 off
+| Tonalité de refus - | 425 | 0.1 on 0.4 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité d'acheminement - | 425 | 0.1 on 0.1 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.00 off
+| Tonalité d'avertissement - | 425 | 0.34 on 5.0 off
+| Tonalité d'appel en attente - | 425 | 1.0 on 4.0 off
+
+h| Lao (République démocratique populaire)  | |
+| Tonalité d'occupation - | 425 | 1.0 on 1.0 off
+| Tonalité de confirmation - | 950 | continu
+| Tonalité d'encombrement - | 425 | 0.375 on 0.375 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - | 425 | 0.4 on 0.04 off
+| Tonalité d'abonné inaccessible - | 425 | 2.5 on 0.5 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité d'attente - | 425 | 0.4 on 0.4 off
+
+h| Lesotho (Royaume du)  | |
+| Tonalité d'occupation - I | 425 | 1.0 on 1.0 off
+| Tonalité d'occupation - II | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - I | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - II | 425 | 0.2 on 0.2 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de paiement - | 16000 | 0.7 on 3.0 off
+| Tonalité de retour d'appel - | 400/425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - I | 425 | 0.16 on 2.0 off
+| Tonalité spéciale d'information - II | 900/1400/1800 | 3x0.3 on 1.0 off
+| Tonalité d'appel en attente - I | 425 | 1.0 on 3.0 off
+| Tonalité d'appel en attente - II | 425 | 0.15 on 0.15 off
+
+h| Lettonie (République de)  | |
+| Tonalité d'occupation - | 425 | 0.3 on 0.3 off
+| Tonalité de confirmation - | 425 | 0.4 on 0.4 off
+| Tonalité d'encombrement - | 425 | 0.15 on 0.15 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1600 | 3x0.33 on 1.0 off
+| Tonalité d'appel en attente - | 425 | 0.2 on 5.0 off
+
+h| L'ex-République yougoslave de Macédoine  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité de confirmation - | 425 | continu
+| Tonalité d'encombrement - | 425 | 0.2 on 0.2 off
+| Tonalité de numérotation - | 425 | 0.2 on 0.3 off 0.7 on 0.8 off
+| Tonalité de numérotation spéciale - | 425 | 0.4 on 0.04 off
+| Tonalité d'intrusion - | 425 | 0.2 on 0.3 off 0.7 on 0.8 off
+| Tonalité de paiement - | 425 | 0.5 on 10.0~15.0 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité d'acheminement - | 425 | 0.4 on 1.5 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'appel en attente - | 425 | 0.3 on 8.0~10.0 off
+
+h| Liban  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.24 on 0.24 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 425 | 0.2 on 0.2 off
+| Tonalité d'appel en attente - | 425 | 0.2 on 0.6 off
+
+h| Libéria (République du)  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité d'abonné inaccessible - | 425 | 0.6 on 0.2 off 3x(0.2 on 0.2 off)
+| Tonalité de retour d'appel - | 425//450 | 1.0 on 4.0 off
+
+h| Liechtenstein (Principauté de)  | |
+| Tonalité d'occupation - I | 425 | 0.3 on 0.3 off
+| Tonalité d'occupation - II | 420 | 0.4 on 0.4 off
+| Tonalité d'occupation - III | 400 | 0.36 on 0.36 off
+| Tonalité d'occupation - IV | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425//420 | 0.2 on 0.2 off
+| Tonalité de numérotation - | 420 | continu
+| Tonalité d'invitation à répéter l'appel - | 420 | continu
+| Tonalité de numérotation spéciale - | 380+420 | continu
+| Tonalité d'indication negative - | 380+420 | 0.4 on 0.4 off
+| Tonalité d'abonné inaccessible - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité de paiement - I | 1336/1633 | 0.2 on 0.2 off 0.2 on 0.2 off
+| Tonalité de paiement - II | 800 | 0.2 on 0.2 off
+| Tonalité de paiement - III | 1200 | 0.2 on 2.0 off
+| Tonalité d'indication positive - | 380+420 | 1.0 on 5.0 off
+| Tonalité de retour d'appel - I | 425 | continu
+| Tonalité de retour d'appel - II | 420 | 1.0 on 5.0 off
+| Tonalité de retour d'appel - III | 400//425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'avertissement - | 420 | 0.15 on 0.15 off 0.15 on 1.95 off
+| Tonalité d'appel en attente - I | 425 | 0.15 on 8.0 off
+| Tonalité d'appel en attente - II | 420 | 0.04 on 1.95 off
+| Tonalité d'appel en attente - III | 425 | 0.2 on 0.2 off 0.2 on 4.0 off
+
+h| Lituanie (République de)  | |
+| Tonalité d'occupation - | 425 | 0.35 on 0.35 off
+| Tonalité d'encombrement - | 425 | 0.2 on 0.2 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'appel en attente - I | 425 | 0.15 on 0.15 off 0.15 on 4.0 off
+| Tonalité d'appel en attente - II | 425 | 0.2 on 5.0 off
+
+h| Luxembourg  | |
+| Tonalité d'occupation - | 425//2125 | 0.48 on 0.48 off
+| Tonalité d'encombrement - | 425//2125 | 0.24 on 0.24 off
+| Tonalité de numérotation - | 425//2125 | continu
+| Tonalité de numérotation spéciale - | 400//425 | continu
+| Tonalité de retour d'appel - | 425//2125 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité numéro d'essai - | 1000 | continu
+| Tonalité d'appel en attente - | 425 | continu
+
+h| Macao, Chine  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - | 425 | 1.8 on 0.2 off
+| Tonalité d'identification de publiphone - | 1100+1750/750+1450 | 0.2 on 0.2 off 0.2 on 0.2 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.333 on 1.0 off
+| Tonalité d'appel en attente - | 425 | 0.2 on 0.6 off
+
+h| Madagascar (République de)  | |
+| Tonalité d'occupation - | 440//425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | … | annonce
+| Tonalité de numérotation - | 440//425 | continu
+| Tonalité de numérotation spéciale - | 330+440 | continu
+| Tonalité de service complémentaire - | 950 | continu
+| Tonalité de paiement - | … | annonce
+| Tonalité de retour d'appel - | 440//425 | 1.7 on 3.3 off
+| Tonalité d'acheminement - | 440//425 | 0.05 on 0.05 off
+| Tonalité spéciale d'information - | 440 | 0.40 on 0.04 off
+| Tonalité d'appel en attente - | 440 | 0.1 on 1.9 off
+
+h| Malaisie  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - I | 425 | 0.50 on 0.25 off
+| Tonalité d'encombrement - II | 425 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de retour d'appel - I | 425 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité de retour d'appel - II | 425 | 1.0 on 3.0 off 1.0 on 5.0 off
+
+h| Malawi  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité d'intrusion - (4) | 1400 | 0.35 on 0.5 off
+| Tonalité d'identification de publiphone - | 1100+1750/750+1450 | 2x(0.2 on 0.2 off)
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.3 on 1.0 off
+
+h| Maldives (République des)  | |
+| Tonalité d'occupation - | 400 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 400 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 400/50 | continu
+| Tonalité de retour d'appel - | 400 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité d'appel en attente - | 400 | 0.2 on 0.6 off 0.2 on 4.0 off
+
+h| Mali (République du)  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | … | annonce
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de paiement - | … | annonce
+| Tonalité de retour d'appel - | 425 | 1.5 on 3.0 off
+| Tonalité d'acheminement - | 425 | 0.05 on 0.05 off
+| Tonalité spéciale d'information - | 900/1400/1800 | 0.35 on 0.30 on 0.35 on 1.0 off
+| Tonalité d'appel en attente - | 425 | 0.3 on 10.0 off
+
+h| Malte  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 425 | 0.2 on 0.2 off 0.6 on 1.0 off
+| Tonalité de numérotation spéciale - | 425 | 0.4 on 0.04 off
+| Tonalité d'interception - | 950/1400/1800 | 3x0.24 on 1.0 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | … | annonce
+| Tonalité d'appel en attente - | 1400 | 0.34 on 1.5 off
+
+h| Maroc (Royaume du)  | |
+| Tonalité d'occupation - I | 425 | 0.5 on 0.5 off
+| Tonalité d'occupation - II | 425 | 0.4 on 0.4 off
+| Tonalité d'encombrement - I | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - II | 425 | 0.4 on 0.4 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de retour d'appel - I | 425 | 1.7 on 3.3 off
+| Tonalité de retour d'appel - II | 425 | 1.0 on 4.0 off
+| Tonalité de retour d'appel - III | 425 | 2.0 on 2.0 off
+
+h| Martinique (Département français de la)  | |
+| Tonalité d'occupation - | 440 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 440 | continu
+| Tonalité de retour d'appel - | 440 | 1.5 on 3.5 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x(0.3 on 0.03 off) 1.0 off
+| Tonalité d'appel en attente - | 440 | 0.3 on 10.0 off
+
+h| Maurice (République de)  | |
+| Tonalité d'occupation - | 425 | 0.75 on 0.75 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - | 425 | 0.4 on 0.04 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité d'acheminement - | 425 | 0.05 on 0.05 off
+| Tonalité d'appel en attente - | 425 | 1.0 on 3.0 off
+
+h| Mauritanie (République islamique de)  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de retour d'appel - | 425 | 1.5 on 3.5 off
+| Tonalité d'acheminement - | 425 | 0.05 on 0.05 off
+
+h| Mayotte  | |
+| Tonalité d'occupation - | 440 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 440 | continu
+| Tonalité de retour d'appel - | 440 | 1.5 on 3.5 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x(0.3 on 0.03 off) 1.0 off
+| Tonalité d'appel en attente - | 440 | 0.3 on 10.0 off
+
+h| Mexique  | |
+| Tonalité d'occupation - | 425 | 0.25 on 0.25 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité d'avertissement - intervention | 425 | 0.5 on 0.17 off 0.17 on 0.17 off
+| d'opératrice | | 
+
+h| Moldova (République de)  | |
+| Tonalité d'occupation - | 425 | 0.35 on 0.35 off
+| Tonalité d'encombrement - | 425 | 0.2 on 0.2 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de paiement - | 1400 | 3x1.0 on 1.0 off
+| Tonalité de retour d'appel - I | 425 | 0.8 on 3.2 off
+| Tonalité de retour d'appel - II | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.00 off
+| Tonalité d'appel en attente - | 425 | 0.2 on 5.0 off
+
+h| Monaco (Principauté de)  | |
+| Tonalité d'occupation - | 440 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | … | annonce
+| Tonalité de numérotation - | 440 | continu
+| Tonalité de retour d'appel - | 440 | 1.7 on 3.3 off
+| Tonalité d'appel en attente - | 440 | 0.3 on 10.0 off
+
+h| Montserrat  | |
+| Tonalité d'occupation - | 480+620 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 480+620 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 350+440 | continu
+| Tonalité d'invitation à répéter l'appel - | 350+440 | 3x(0.1 on 0.1 off) + continu
+| Tonalité d'abonné inaccessible - | 480+620 | 0.25 on 0.25 off
+| Tonalité d'identification de publiphone - | 1600/1143 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tonalité de retour d'appel - | 440+480 | 2.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'avertissement - intervention | 450 | 0.2 on 0.2 off 0.65 on 0.2 off
+| d'opératrice | | 
+| Tonalité d'attente - | 440 | 1x(0.5 on 10.0 off 0.5 on)
+
+h| Mozambique (République du)  | |
+| Tonalité d'occupation - | 400 | 0.5 on O.5 off
+| Tonalité d'abonné inaccessible - | 400 | 0.2 on 0.2 off
+| Tonalité de retour d'appel - | 400 | 1.0 on 5.0 off
+
+h| Myanmar (Union de)  | |
+| Tonalité d'occupation - | 450 | 0.25 on 0.25 off
+| Tonalité d'encombrement - | 480 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 400+450 | continu
+| Tonalité de retour d'appel - | 400 | 2.0 on 4.0 off
+| Tonalité d'appel en attente - | 400 | 0.3 on 10.0 off
+
+h| Namibie (République de)  | |
+| Tonalité d'occupation - | 400 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 400 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 400x33 | continu
+| Tonalité de retour d'appel - | 400x33 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'appel en attente - | 400x33 | continu
+
+h| Nauru (République de)  | |
+| Tonalité d'occupation - | 400 | 0.5 on 0.5 off
+| Tonalité d'occupation - pabx | 425 | 0.375 on 0.375 off
+| Tonalité d'encombrement - pabx | 425 | 0.375 on 0.375 off
+| Tonalité de numérotation - | 400 | continu
+| Tonalité de numérotation - pabx | 33 | continu
+| Tonalité d'invitation à répéter l'appel - pabx | 33 | continu
+| Tonalité d'abonné inaccessible - | 400 | 0.75 on 0.25 off 0.25 on 0.25 off
+| Tonalité de retour d'appel - | 400 | 1.0 on 4.0 off
+| Tonalité de retour d'appel - pabx | 425x25 | 0.4 on 0.2 off 0.4 on 2.0 off
+
+h| Népal (République fédérale démocratique du)  | |
+| Tonalité d'occupation - | 425 | 0.25 on 0.25 off
+| Tonalité d'encombrement - | 425 | 0.175 on 0.175 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité d'abonné inaccessible - | 425 | 0.25 on 0.5 off
+| Tonalité de retour d'appel - | 425 | 1.1 on 3.1 off
+
+h| Niger (République du)  | |
+| Tonalité d'occupation - | 440 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 440 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 440 | continu
+| Deuxième tonalité de numérotation - | 330//440 | continu
+| Tonalité de retour d'appel - | 440 | 1.7 on 3.3 off
+| Tonalité d'acheminement - | 440 | 0.05 on 0.05 off
+
+h| Nigéria (République fédérale du)  | |
+| Tonalité d'occupation - | 400 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 400 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 400//450 | continu
+| Tonalité d'invitation à répéter l'appel - | 400//425 | continu
+| Tonalité de numérotation spéciale - | 425 | 0.5 on 0.5 off
+| Tonalité de garde - | 950/950/1400 | 0.65 on 0.325 off 0.325 on 1.3 on 2.6 off
+| Tonalité d'abonné inaccessible - | 450 | 0.5 on 0.5 off
+| Tonalité de retour d'appel - | 400//450 | 2.0 on 4.0 off
+| Tonalité spéciale d'information - | 400//33 | 0.2 on 1.5 off
+| Tonalité d'avertissement - intervention | 400 | 0.15 on 0.25 off 0.15 on 1.45 off
+| d'opératrice | | 
+| Tonalité d'appel en attente - | 400 | 0.2 on 0.2 off
+
+h| Norvège  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité de confirmation - (10) | 470/425 | continu
+| Tonalité d'encombrement - | 425 | 0.2 on 0.2 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - (10) | 470/425 | continu
+| Tonalité d'intrusion - | 1400 | 1x(2.0 on)
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'avertissement - I | 1400 | 0.4 on 15.0 off
+| Tonalité d'avertissement - II | 1400 | 1x(0.4 on )
+| Tonalité d'appel en attente - | 425 | 0.2 on 0.6 off 0.2 on 10.0 off
+
+h| Nouvelle-Calédonie (Territoire français d'outre-mer)  | |
+| Tonalité d'occupation - | 440 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 950/1400/1800 | 2x[3x0.33 on + annonce]
+| Tonalité de numérotation - | 440//330+440 | continu
+| Tonalité de retour d'appel - | 440 | 1.7 on 3.3 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 2x[3x0.33 on + annonce]
+| Tonalité d'appel en attente - | 440 | 4x(0.5 on 0.5 off 0.5 on)
+
+h| Nouvelle-Zélande  | |
+| Tonalité d'occupation - | 400 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 400 | 0.25 on 0.25 off
+| Tonalité de numérotation - I (3) | 400 | continu
+| Tonalité de numérotation - II (message en attente) | 400 | 12x(0.1 on 0.1 off) + continu
+| Tonalité d'invitation à répéter l'appel - | 400 | 3x(0.1 on 0.1 off) + continu
+| Tonalité de garde - | 400+450 | 0.5 on 0.5 off 0.5 on 2.5 off
+| Tonalité d'abonné inaccessible - | 400 | 3x(0.75 on 0.1 off) 0.75 on 0.4 off
+| Tonalité de paiement - | 1209/852 | 0.2 on 0.2 off
+| Tonalité de retour d'appel - I | 400+450 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité de retour d'appel - II (message en attente) | 400+450 | 0.4 on 0.2 off 0.4 on 0.2 off 0.4 on 1.2 off
+| Tonalité d'appel en attente - I | 400 | 3x(0.2 on 3.0 off) 0.2 on
+| Tonalité d'appel en attente - II | 400 | 3x(0.1 on 0.1 off 0.1 on 3.0 off)
+| Tonalité d'appel en attente - III | 400 | 3x(0.1 on 0.1 off 0.1 on 0.1 off 0.1 on 3.0 off)
+
+h| Oman (Sultanat d')  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité d'intrusion - | 425 | 0.5 on 0.17 off 0.17 on 0.17 off
+| Tonalité de retour d'appel - | 425 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'appel en attente - | 425 | 0.3 on 1.0 off
+
+h| Ouganda (République de l')  | |
+| Tonalité d'occupation - I | 425 | 0.5 on 0.5 off
+| Tonalité d'occupation - II | 400 | 0.4 on 0.2 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - | 900/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'hurlement - | 1400 | continu
+| Tonalité d'abonné inaccessible - | 900/1400/1800 | 3x0.33 on 1.00 off
+| Tonalité de proposition, interurbain - | 425 | 0.1 on 4.9 off
+| Tonalité de retour d'appel - I | 425 | 1.0 on 4.0 off
+| Tonalité de retour d'appel - II | 425//440 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité de retour d'appel - III | 450 | 0.4 on 0.2 off
+| Tonalité d'acheminement - | 425//440 | 0.5 on 0.5 off
+| Tonalité d'appel en attente - I | 425 | 0.15 on 0.15 off 0.15 on 8.0 off
+| Tonalité d'appel en attente - II | 450//440 | 0.5 on 0.5 off + continu
+
+h| Pakistan (République islamique du)  | |
+| Tonalité d'occupation - | 400 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 400 | 0.25 on 0.25 off
+| Tonalité de retour d'appel - | 400 | 1.0 on 2.0 off
+
+h| Panama (République du)  | |
+| Tonalité d'occupation - | 425 | 0.32 on 0.32 off
+| Tonalité d'encombrement - | 425 | 0.32 on 0.32 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité d'abonné inaccessible - | 425 | 0.18 on 0.18 off 0.5 on 0.18 off
+| Tonalité de retour d'appel - | 425 | 1.2 on 4.65 off
+| Tonalité spéciale d'information - | 425 | 0.4 on 0.4 off
+| Tonalité d'avertissement - intervention | 425 | 0.18 on 0.18 off 0.5 on 0.18 off
+| d'opératrice | | 
+| Tonalité d'appel en attente - | 425 | 0.18 on 0.18 off 0.18 on
+
+h| Papouasie-Nouvelle-Guinée  | |
+| Tonalité d'occupation - | 425//400 | 0.375 on 0.375 off
+| Tonalité d'encombrement - | 425//400 | 0.375 on 0.375 off
+| Tonalité de numérotation - | 425//400x25//350+440 | continu
+| Tonalité de numérotation spéciale - | 425 | 0.4 on 0.04 off
+| Tonalité d'abonné inaccessible - | 425//400 | 2.5 on 0.5 off
+| Tonalité d'identification de publiphone - I | 1209/852 | 4x(0.2 on 0.2 off 0.2 on 2.0 off)
+| Tonalité d'identification de publiphone - II | 1336/941 | 2x(0.2 on 0.2 off 0.2 on 2.0 off)
+| Tonalité d'identification de publiphone - III | 900 | 2x(0.075 on 0.15 off 0.075 on 2.7 off)
+| Tonalité de retour d'appel - | 425//400x25//400x16 2/3//400+450//410x20 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.01 off
+| Tonalité d'avertissement - intervention | 1400 | 0.5 on 11.5 off
+| d'opératrice | | 
+| Tonalité d'attente - | 425 | 0.04 on 10.0 off 0.04 on 20.0 off 0.04 on 20.0 off
+
+h| Paraguay (République du)  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité d'intrusion - | 425 | 0.15 on 0.25 off 0.15 on 1.45 off
+| Tonalité d'abonné inaccessible - | 425 | 2.0 on 0.25 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.333 on 1.0 off
+| Tonalité d'appel en attente - | 425 | 0.3 on 10.0 off
+| Tonalité de demandeur en attente - | 950/950/1400 | 0.65 on 0.325 off 0.325 on 1.3 off 2.6 on
+
+h| Pays-Bas (Royaume des)  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - | 425 | 0.5 on 0.05 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.333 on 1.0 off
+| Tonalité d'attente - | 425 | 0.5 on 9.5 off
+
+h| Pérou  | |
+| Tonalité d'acceptation - | … | annonce
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.2 on 0.2 off 0.2 on 0.2 off 0.2 on 0.6 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - | 425 | 1.0 on 0.1 off
+| Tonalité d'hurlement - | 1500+3200 | 0.5 on
+| Tonalité d'abonné inaccessible - | … | annonce
+| Tonalité de refus - | … | annonce
+| Tonalité de retour d'appel - | 425 | 0.15 on 0.30 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'appel en attente - | 425 | 0.175 on 0.175 off 0.175 on 3.5 off
+
+h| Philippines (République des)  | |
+| Tonalité d'occupation - | 480+620 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 480+620 | 0.25 on 0.25 off
+| Tonalité de conférence - | 440 | 0.2 on 15.0 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - | 400+25 | continu
+| Tonalité de garde - | 950/950/1400 | 0.65 on 0.325 off 0.325 on 1.3 on 2.0 off
+| Tonalité d'hurlement - | 1400+1800 | 0.2 on 0.3 off
+| Tonalité d'abonné inaccessible - | 600x120 | 0.25 on 0.25 off
+| Tonalité de retour d'appel - | 425+480 | 1.0 on 4.0 off
+| Tonalité d'appel en attente - | 440 | 0.3 on 10.0 off
+
+h| Pologne (République de)  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 425 | continu
+| Deuxième tonalité de numérotation - | 425+350 | continu
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité d'acheminement - | 425 | 0.05 on 0.05 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'attente - | 425 | 0.15 on 0.15 off 0.15 on 4.0 off
+
+h| Polynésie française (Territoire français d'outre-mer)  | |
+| Tonalité d'acceptation - | 440 | 1.7 on 3.3 off
+| Tonalité d'occupation - | 440 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 440 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 440 | continu
+| Deuxième tonalité de numérotation - | 440+330 | continu
+| Tonalité d'hurlement - | 3000 | continu
+| Tonalité de paiement - | 440 | continu
+| Tonalité de retour d'appel - | 440 | 1.7 on 3.3 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'appel en attente - | 440 | 1.7 on 3.3 off
+
+h| Portugal  | |
+| Tonalité d'acceptation - I | 425 | 1.0 on 0.2 off
+| Tonalité d'acceptation - II | 425 | 1.0 on 1.0 off 1.0 on 5.0 off
+| Tonalité d'occupation - I | 425 | 0.5 on 0.5 off
+| Tonalité d'occupation - II (mobile) | 400 | 0.36 on 0.36 off
+| Tonalité d'encombrement - | 425 | 0.2 on 0.2 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - (mobile) | 425 | 1.0 on 0.2 off
+| Tonalité de garde - | 425 | 1.5 on 5.12 off
+| Tonalité d'intrusion - | 425 | 3x(0.2 on 1.4 off)
+| Tonalité de refus - I | 450/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité de refus - II | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité de retour d'appel - I | 425 | 1.0 on 5.0 off
+| Tonalité de retour d'appel - II (mobile à deux participants) | 440 | 1.0 on 4.0 off
+| Tonalité de retour d'appel - III (mobile à trois participants) | 425 | 1.5 on 3.5 off
+| Tonalité de retour d'appel - IV | 425 | 1.0 on 1.0 off 1.0 on 5.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'appel en attente - I | 425 | 0.2 on 0.2 off 0.2 on 5.0 off
+| Tonalité d'appel en attente - II | 425 | 0.2 on 0.6 off 0.2 on 3.0 off
+| Tonalité d'appel en attente - III | 425 | 0.2 on 0.2 off 0.2 on 10.0 off
+| Tonalité d'appel en attente - IV | 425 | 0.2 on 0.6 off 0.2 on 0.6 off
+| Tonalité d'appel en attente - V | 425 | 0.2 on 1.0 off 0.2 on 3.0 off
+| Tonalité d'appel en attente - VI | 425 | 1.0 on 1.0 off 1.0 on 5.0 off
+
+h| Puerto Rico  | |
+| Tonalité d'identification de publiphone - | 1100+1750/750+1450 | 0.2 on 0.2 off 0.2 on 2.0 off
+
+h| Qatar (Etat du)  | |
+| Tonalité d'acceptation - | 400+450 | 0.38 on 0.25 off 0.38 on 2.00 off
+| Tonalité d'occupation - I | 400+450 | 0.8 on 0.8 off
+| Tonalité d'occupation - II | 400 | 0.375 on 0.375 off
+| Tonalité d'occupation - III | 400 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 400 | 0.40 on 0.35 off 0.22 on 0.52 off
+| Tonalité de numérotation - | 350+440 | continu
+| Tonalité de neutralisation de ligne - | 400 | 0.32 on 0.32 off
+| Tonalité d'abonné inaccessible - | 400 | continu
+| Tonalité de refus - | 400 | continu
+| Tonalité de retour d'appel - I | 400+450 | 0.38 on 0.25 off 0.38 on 2.0 off
+| Tonalité de retour d'appel - II | 400+450 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité spéciale d'information - | 330+440 | 1.0 on 1.0 off
+| Tonalité d'appel en attente - | 400 | 0.3 on 10.0 off
+
+h| République arabe syrienne  | |
+| Tonalité d'occupation - | 450 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 450 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 450 | continu
+| Tonalité de retour d'appel - | 400//450 | 1.0 on 0.5 off
+| Tonalité spéciale d'information - | 950/1400/1800 | (3x0.33 on 2x0.03 off) 1.0 off
+| Tonalité d'appel en attente - | 450 | 0.1 on 0.2 off 0.1 on 9.5 off
+
+h| République démocratique du Congo  | |
+| Tonalité d'occupation - | 450 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 450 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 450 | continu
+| Tonalité de retour d'appel - | 450 | 2.0 on 4.0 off
+
+h| République kirghize  | |
+| Tonalité d'occupation - | 425 | 0.4 on 0.4 off
+| Tonalité d'encombrement - | 425 | 0.2 on 0.2 off
+| Tonalité de numérotation - | 425 | continu
+| Deuxième tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - | 425 | 1.0 on 0.2 off
+| Tonalité d'hurlement - | 1000 | continu
+| Tonalité d'indication negative - | 425 | 1x(0.2 on 0.2 off 0.2 on 0.2 off 0.2 on)
+| Tonalité d'abonné inaccessible - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'indication positive - | 425 | 1x(0.2 on)
+| Tonalité de retour d'appel - | 425 | 0.8 on 3.2 off
+| Tonalité d'acheminement - | 50 | 0.1 on 1.5 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'avertissement – message vocal | 425 | 1x(0.2 on 0.6 off 0.2 on 0.6 off 0.2 on)
+| Tonalité d'appel en attente - | 425 | 1x(0.2 on 0.6 off 0.2 on 3.0 off 0.2 on 0.6 off 0.2 on)
+| Tonalité de demandeur en attente - | 425 | 0.2 on 5.0 off
+
+h| République slovaque  | |
+| Tonalité d'occupation - | 425 | 0.33 on 0.33 off
+| Tonalité d'encombrement - | 425 | 0.165 on 0.165 off
+| Tonalité de conférence - | 425 | 0.66 on
+| Tonalité de numérotation - I | 425 | 0.33 on 0.33 off 0.66 on 0.66 off
+| Tonalité de numérotation - II (pabx) | 425 | continu
+| Tonalité de numérotation spéciale - | 425 | 3x(0.165 on 0.165 off) 0.660 on 0.660 off
+| Tonalité de proposition, interurbain - | 425 | 0.33 on 0.33 off 0.33 on 1.50 off
+| Tonalité de paiement - I (cartes) | 622 | 0.125 on 0.125 off
+| Tonalité de paiement - II (monnaies) | 941 | 0.2 on 0.2 off 0.2 on 3.6 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | (3x0.33 on 2x0.03 off) 1.00 off
+| Tonalité d'appel en attente - | 425 | 0.33 on 9.0 off
+| Tonalité de demandeur en attente - | 425 | 1.00 on 0.17 off 0.33 on 3.50 off
+
+h| République tchèque  | |
+| Tonalité d'occupation - | 425 | 0.33 on 0.33 off
+| Tonalité d'encombrement - | 425 | 0.165 on 0.165 off
+| Tonalité de numérotation - | 425 | 0.33 on 0.33 off 0.66 on 0.66 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | (3x0.33 on 2x0.03 off) 1.0 off
+| Tonalité d'appel en attente - | 425 | 0.33 on 9.0 off
+| Tonalité de demandeur en attente - | 425 | 1.00 on 0.17 off 0.33 on 3.50 off
+
+h| Roumanie  | |
+| Tonalité d'occupation - I (analogue) | 450 | 0.15 on 0.18 off
+| Tonalité d'occupation - II (numérique) | 450 | 0.17 on 0.17 off
+| Tonalité de numérotation - | 450 | continu
+| Tonalité d'abonné inaccessible - I | 450 | 6x(0.11 on 0.092 off) 0.362 on 0.11 off
+| (analogue) | | 
+| Tonalité d'abonné inaccessible - II (numérique) | 450 | 3x(0.092 on 0.11 off) 0.362 on 0.11 off
+| Tonalité de retour d'appel - I | 450x25 | 1.85 on 4.15 off
+| Tonalité de retour d'appel - II | 450 | 1.5 on 4.5 off
+
+h| Royaume-Uni de Grande-Bretagne et d'Irlande du Nord  | |
+| Tonalité d'occupation - | 400 | 0.375 on 0.375 off
+| Tonalité d'encombrement - | 400 | 0.4 on 0.35 off 0.225 on 0.525 off
+| Tonalité de numérotation - | 50//350+440 | continu
+| Tonalité d'abonné inaccessible - | 400 | continu
+| Tonalité de paiement - | 400 | 0.125 on 0.125 off
+| Tonalité d'identification de publiphone - | 1200/800 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tonalité de retour d'appel - | 400+450//400x25//400x16 2/3 | 0.4 on 0.2 off 0.4 on 2.0 off
+
+h| Russie (Fédération de)  | |
+| Tonalité d'occupation - | 425 | 0.4 on 0.4 off
+| Tonalité de retour d'appel - | 425 | 0.8 on 3.2 off
+| Tonalité d'attente - | 950/1400/1800 | 3x0.333 on 1.0 off
+
+h| Rwanda (République du)  | |
+| Tonalité d'occupation - | 440 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | | annonce
+| Tonalité de numérotation - | 440 | continu
+| Deuxième tonalité de numérotation - | 340 | continu
+| Tonalité de paiement - | 12000 | 0.125 on
+| Tonalité de retour d'appel - | 440 | 1.7 on 3.3 off
+| Tonalité d'acheminement - | 440 | 0.05 on 0.05 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+
+h| Sainte-Hélène  | |
+| Tonalité d'occupation - | 400 | 0.375 on 0.375 off
+| Tonalité d'encombrement - | 400 | 0.4 on 0.35 off
+| Tonalité de numérotation - | 350+400 | continu
+| Tonalité d'abonné inaccessible - | 400 | continu
+| Tonalité de paiement - | 400 | 0.125 on 0.125 off
+| Tonalité de retour d'appel - | 400+450 | 0.4 on 0.2 off
+
+h| Sainte-Lucie  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - | 425+330 | continu
+| Tonalité de paiement - | 622 | 0.136 on 0.136 off
+| Tonalité de retour d'appel - | 425 | 0.375 on 0.25 off 0.375 on 2.0 off
+| Tonalité d'acheminement - | 425 | 0.05 on 0.05 off
+| Tonalité d'avertissement - | 425 | 0.1 on 4.9 off
+| Tonalité d'appel en attente - | 425 | 0.2 on 0.2 off 0.2 on 4.0 off
+
+h| Saint-Kitts-et-Nevis  | |
+| Tonalité d'occupation - | 480+620 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 480+620 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 350+440 | continu
+| Tonalité d'invitation à répéter l'appel - | 350+440 | 3x(0.1 on 0.1 off) + continu
+| Tonalité d'abonné inaccessible - | 480+620 | 0.25 on 0.25 off
+| Tonalité d'identification de publiphone - | 1600/1143 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tonalité de retour d'appel - | 440+480 | 2.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'avertissement - intervention | 450 | 0.2 on 0.2 off 0.65 on 0.2 off
+| d'opératrice | | 
+| Tonalité d'attente - | 440 | 1x(0.5 on 10.0 off 0.5 on)
+
+h| Saint-Marin (République de)  | |
+| Tonalité d'occupation - | 425 | 0.2 on 0.2 off
+| Tonalité de numérotation - | 425 | 0.6 on 1.0 off 0.2 on 0.2 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+
+h| Saint-Pierre-et-Miquelon (Collectivité territoriale de la République française)  | |
+| Tonalité d'occupation - | 440 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 440 | continu
+| Tonalité de retour d'appel - | 440 | 1.5 on 3.5 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x(0.3 on 0.03 off) 1.0 off
+| Tonalité d'appel en attente - | 440 | 0.3 on 10.0 off
+
+h| Saint-Vincent-et-Grenadines  | |
+| Tonalité d'occupation - | 400 | 0.375 on 0.375 off
+| Tonalité d'encombrement - | 400 | 0.40 on 0.35 off 0.225 on 0.525 off
+| Tonalité de numérotation - I | 350+450 | continu
+| Tonalité de numérotation - II | 350+450 | 0.75 on 0.75 off
+| Tonalité de paiement - | 400 | 0.125 on 0.125 off
+| Tonalité de retour d'appel - | 400+450 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x(0.33 on 1.0 off)
+| Tonalité d'appel en attente - (9) | 400 | 0.1 on
+
+h| Salomon (Iles)  | |
+| Tonalité d'occupation - | 400 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 400 | 0.1 on 0.1 off
+| Tonalité de numérotation - | 400 | continu
+| Tonalité d'abonné inaccessible - | 400 | 0.075 on 0.1 off
+| Tonalité de paiement - | 852 | 0.2 on 2.0 off
+| Tonalité de retour d'appel - | 400+450 | 0.4 on 0.2 off
+| Tonalité d'attente - | 400+450/400 | 0.5 on 0.5 off
+
+h| Samoa (Etat indépendant du)  | |
+| Tonalité d'occupation - | 425x25 | 0.375 on 0.375 off
+| Tonalité d'encombrement - | 425x25 | 0.375 on 0.375 off
+| Tonalité de numérotation - | 425x25 | continu
+| Tonalité de neutralisation de ligne - | 425x25 | 0.5 on 0.5 off
+| Tonalité de retour d'appel - | 425x25 | 0.4 on 0.2 off
+
+h| Sao Tomé-et-Principe (République démocratique de)  | |
+| Tonalité d'occupation - | 400 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 400 | 0.2 on 0.2 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de paiement - | 12000 | continu
+| Tonalité de retour d'appel - | 400 | 1.0 on 5.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'appel en attente - | 425 | 0.2 on 1.0 off
+
+h| Sénégal (République du)  | |
+| Tonalité d'occupation - | 440 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 440 | continu
+| Tonalité de retour d'appel - | 400 | 1.7 on 3.3 off
+| Tonalité spéciale d'information - | 900/1380/1860 | 0.35 on 0.30 on 0.35 on
+
+h| Serbie (République de)  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'occupation - II | 425 | 0.2 on 0.4 off
+| Tonalité de numérotation - | 425 | 0.7 on 0.8 off 0.2 on 0.3 off
+| Tonalité de retour d'appel - I | 450x25 | 1.0 on 9.0 off
+| Tonalité de retour d'appel - II | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.333 on 1.0 off
+
+h| Seychelles (République des)  | |
+| Tonalité d'occupation - | 425 | 0.375 on 0.375 off
+| Tonalité d'encombrement - | 425 | 0.4 on 0.2 off 0.225 on 0.525 off
+| Tonalité de numérotation - | 440+350 | continu
+| Tonalité de numérotation spéciale - | 425 | 1.0 on 0.1 off
+| Tonalité de service complémentaire - | 425 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité d'hurlement - | 3000 | continu
+| Tonalité d'abonné inaccessible - | 425 | continu
+| Tonalité de retour d'appel - | 425 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité d'acheminement - | 425 | 0.5 on 0.5 off
+
+h| Sierra Leone  | |
+| Tonalité d'occupation - | 425//450 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.2 on 0.2 off
+| Tonalité de numérotation - | 425//450 | continu
+| Tonalité d'abonné inaccessible - | 950//450/150 | 0.33 on 0.03 off
+| Tonalité de retour d'appel - | 425//450 | 1.0 on 4.0 off
+| Tonalité d'attente - | 425 | 1x(1.0 on)
+
+h| Singapour (République de)  | |
+| Tonalité d'acceptation - | 425 | 0.125 on 0.125 off
+| Tonalité d'occupation - | 425 | 0.75 on 0.75 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425 | continu
+| Deuxième tonalité de numérotation - | 425 | 4x(0.2 on 0.2 off 0.6 on 0.2 off) + continu
+| Tonalité de garde - | 425x24//425 | 0.5 on 0.5 off // 0.5 on 2.5 off
+| Tonalité d'intrusion - | 425 | 0.25 on 2.0 off
+| Tonalité d'abonné inaccessible - | 425 | 2.5 on 0.5 off
+| Tonalité de retour d'appel - | 425x24 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité d'avertissement - | 425 | 0.624 on 4.376 off
+| Tonalité d'appel en attente - | 425 | 0.3 on 0.2 off 0.3 on 3.2 off
+
+h| Slovénie (République de)  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.2 on 0.2 off
+| Tonalité de numérotation - | 425 | 0.2 on 0.3 off 0.7 on 0.8 off
+| Tonalité de paiement - | 425 | 0.5 on 15.0 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.00 off
+| Tonalité d'appel en attente - | 425 | 0.3 on 10.0 off
+
+h| Soudan (République du)  | |
+| Tonalité d'occupation - | 425 | 1.0 on 1.0 off
+| Tonalité d'encombrement - | 425 | 0.375 on 0.375 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'appel en attente - | 425 | 0.15 on 0.15 off 0.15 on 4.0 off
+
+h| Sri Lanka (République socialiste démocratique de)  | |
+| Tonalité d'occupation - | 425 | 0.75 on 0.75 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de garde - | 425 | 0.5 on 2.5 off
+| Tonalité d'intrusion - | 425 | 0.5 on 0.75 off
+| Tonalité d'abonné inaccessible - | 425+330 | continu
+| Tonalité de retour d'appel - | 425 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité d'acheminement - | 425 | 0.05 on 0.05 off
+| Tonalité spéciale d'information - | 950/1400/1800 | (3x0.33 on 2x 0.03 off)
+| Tonalité d'avertissement - | 425 | 0.5 on 4.5 off
+| Tonalité d'appel en attente - | 425 | 0.5 on 2.5 off
+
+h| Sudafricaine (République)  | |
+| Tonalité d'occupation - | 400 | 0.5 on 0.5 off
+| Tonalité de file d'attente - | 950/950/1400 | 0.65 on 0.325 off 0.325 on 1.3 on 2.6 off
+| Tonalité d'encombrement - | 400 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 400x33 | continu
+| Tonalité de numérotation spéciale - | 400x33 | 0.25 on 0.25 off + continu
+| Tonalité de reconnaissance de fonction - | 700/1100 | 0.25 on 0.25 off 0.25 on 0.25 off
+| Tonalité d'intrusion - | 400 | 0.15 on 0.25 off 0.15 on 1.45 off
+| Tonalité de notification - | 900 | 0.2 on 0.2 off 0.2 on 0.2 off
+| Tonalité d'abonné inaccessible - | 400 | 2.5 on 0.5 off
+| Tonalité de retour d'appel - | 400x33 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'appel en attente - | 400x33 | 0.4 on 4.0 off
+
+h| Suède  | |
+| Tonalité d'occupation - I | 425 | 0.25 on 0.25 off
+| Tonalité d'occupation - II (1) | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - I | 425 | 0.25 on 0.75 off
+| Tonalité d'encombrement - II (1) | 425 | 0.2 on 0.2 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - | 425 | 0.32 on 0.02 off
+| Tonalité de paiement - | 941 | 2x(0.2 on 0.2 off 0.2 on 3.6 off)
+| Tonalité d'identification de publiphone - | 1477/941 | 11x(0.2 on 0.2 off 0.2 on 2.0 off)
+| Tonalité de retour d'appel - I | 425 | 1.0 on 5.0 off
+| Tonalité de retour d'appel - II (1) | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off + annonce
+| Tonalité d'avertissement – appel prioritaire en attente | 425 | 2.0 on 5.0 off + continu
+| Tonalité d'avertissement - intervention | 1400 | 0.1 on 1.5 off
+| d'opératrice | | 
+| Tonalité d'avertissement – conférence à trois participants | 1400 | 0.35 on 15.0 off
+| Tonalité d'appel en attente - I | 425 | 1x(0.2 on 0.5 off 0.2 on)
+| Tonalité d'appel en attente - II (1) | 425 | 0.2 on 0.6 off 0.2 on 3.0 off 0.2 on 0.6 off 0.2 on
+
+h| Suisse (Confédération)  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.2 on 0.2 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - I | 425+340 | 1.1 on 1.1 off
+| Tonalité de numérotation spéciale - II | 425 | 0.5 on 0.05 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.333 on 1.0 off
+| Tonalité d'appel en attente - | 425 | 0.2 on 0.2 off 0.2 on 4.0 off
+
+h| Suriname (République du)  | |
+| Tonalité d'occupation - | 425 | 0.25 on 0.25 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de retour d'appel - | 425 | 1.0 on 1.0 off
+
+h| Swaziland (Royaume du)  | |
+| Tonalité d'occupation - I | 400 | 0.5 on 0.5 off
+| Tonalité d'occupation - II | 400 | 0.4 on 0.4 off
+| Tonalité de numérotation - | 50 | continu
+| Tonalité d'abonné inaccessible - | 400 | 4.8 on 0.2 off
+| Tonalité de paiement - | 900 | 0.25 on 0.25 off
+| Tonalité d'identification de publiphone - I | 1430/943 | 2.0 on 2.0 off
+| Tonalité d'identification de publiphone - II | 1100+1750/750+1450 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tonalité de retour d'appel - | 400 | 0.4 on 0.2 off 0.4 on 4.0 off
+
+h| Tadjikistan (République du)  | |
+| Tonalité d'occupation - | 425 | 0.4 on 0.4 off
+| Tonalité d'encombrement - | 425 | 0.4 on 0.4 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de retour d'appel - | 25 | 0.8 on 3.2 off
+
+h| Tanzanie (République-Unie de)  | |
+| Tonalité d'acceptation - | 425 | continu
+| Tonalité d'occupation - I | 425 | 1.0 on 1.0 off
+| Tonalité d'occupation - II | 400 | 0.5 on 0.5 off
+| Tonalité d'encombrement - I | 425 | 0.375 on 0.375 off
+| Tonalité d'encombrement - II | 400 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425//400 | continu
+| Tonalité d'intrusion - | 425 | 0.05 on 0.20 off
+| Tonalité de paiement - | 1100+1750//750+1450 | 0.2 on 0.2 off
+| Tonalité de refus - | 425 | 1.0 on 1.0 off
+| Tonalité de retour d'appel - I | 425 | 1.0 on 4.0 off
+| Tonalité de retour d'appel - II | 400 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tonalité spéciale d'information - I | 950/1400/1800 | 0.375 on 0.03 off 0.375 on 0.03 off 0.375 on
+| Tonalité spéciale d'information - II | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité numéro d'essai - | 2010 | continu
+| Tonalité d'appel en attente - I | 425 | 0.05 on 0.20 off
+| Tonalité d'appel en attente - II | 400 | 0.4 on 0.2 off
+
+h| Tchad (République du)  | |
+| Tonalité d'occupation - | 440 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 440 | continu
+| Deuxième tonalité de numérotation - | 330+400 | continu
+| Tonalité de retour d'appel - | 440 | 1.7 on 3.3 off
+| Tonalité spéciale d'information - | 950/1400/1800 | (3x0.33 on 2x0.03 off) 1.0 off
+
+h| Thaïlande  | |
+| Tonalité d'occupation - | 400 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 400 | 0.3 on 0.3 off
+| Tonalité de numérotation - | 400x50 | continu
+| Tonalité de numérotation spéciale - | 400x50 | 0.4 on 0.1 off 0.4 on 0.1 off + continu
+| Tonalité d'abonné inaccessible - | 400 | 0.1 on 0.1 off 0.1 on 0.1 off 0.1 on 0.1 off 0.3 on
+| Tonalité de proposition, interurbain - | 400 | 0.17 on 0.17 off 0.15 on 0.17 off
+| Tonalité de retour d'appel - | 400 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | … | annonce
+| Tonalité d'appel en attente - | 400 | 1.0 on 10.0 off 1.0 on
+
+h| Tokélau  | |
+| Tonalité d'occupation - | 400 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 400 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 400 | continu
+| Tonalité de retour d'appel - | 400+450 | 0.4 on 0.2 off
+| Tonalité spéciale d'information - | 400 | 3x(0.075 on 0.1 off)
+
+h| Trinité-et-Tobago  | |
+| Tonalité d'occupation - | 480+620 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 350+440 | continu
+| Tonalité de retour d'appel - | 440+480 | 2.0 on 4.0 off
+| Tonalité de renumérotation - I | 480+620 | 0.3 on 0.2 off
+| Tonalité de renumérotation - II (8) | 480+620 | 0.2 on 0.3 off
+| Tonalité d'attente - | 440 | 0.3 on 10.0 off
+
+h| Tunisie  | |
+| Tonalité d'occupation - | 425 | 0.25 on 0.25 off
+| Tonalité d'encombrement - | 425 | 0.167 on 0.167 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de paiement - | 12000 | 0.125 on
+| Tonalité de retour d'appel - | 425 | 1.20 on 4.65 off
+| Tonalité spéciale d'information - | 900/1400/1800 | (3x0.33 on 2x0.03 off) 1.0 off
+| Tonalité d'appel en attente - | 425 | 0.2 on 0.6 off
+
+h| Turkménistan  | |
+| Tonalité d'occupation - | 425 | 0.4 on 0.4 off
+| Tonalité d'encombrement - | 425 | 0.4 on 0.4 off
+| Tonalité de numérotation - | 425 | continu
+| Deuxième tonalité de numérotation - | 425 | continu
+| Tonalité d'abonné inaccessible - | 425 | 0.8 on 4.0 off
+| Tonalité de retour d'appel - | 25 | 0.4 on 4.0 off
+| Tonalité d'acheminement - | 25 | 0.4 on 0.4 off
+
+h| Turks et Caicos (Iles)  | |
+| Tonalité d'occupation - | 480+620 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 480+620 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 350+440 | continu
+| Tonalité d'invitation à répéter l'appel - | 350+440 | 3x(0.1 on 0.1 off) + continu
+| Tonalité d'abonné inaccessible - | 480+620 | 0.25 on 0.25 off
+| Tonalité d'identification de publiphone - | 1600/1143 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tonalité de retour d'appel - | 440+480 | 2.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'avertissement - intervention | 450 | 0.2 on 0.2 off 0.65 on 0.2 off
+| d'opératrice | | 
+| Tonalité d'attente - | 440 | 1x(0.5 on 10.0 off 0.5 on)
+
+h| Turquie  | |
+| Tonalité d'occupation - | 450 | 0.5 on 0.5 off
+| Tonalité de confirmation - | 450 | 0.04 on 0.04 off
+| Tonalité d'encombrement - | 450 | 3x(0.2 on 0.2 off) 0.6 on 0.2 off
+| Tonalité de numérotation - | 450 | continu
+| Tonalité de numérotation spéciale - | 450 | 1.0 on 0.25 off
+| Tonalité d'hurlement - | 1400/2060/2460/2600 | 0.1 on 0.1 off
+| Tonalité d'abonné inaccessible - | 450 | 0.2 on 0.2 off
+| Tonalité de retour d'appel - | 450 | 2.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.3 on 1.0 off
+| Tonalité d'avertissement - intervention | 450 | 0.2 on 0.2 off 0.6 on 0.2 off
+| d'opératrice | | 
+| Tonalité d'attente - I | 350+450 | 0.5 on 0.5 off
+| Tonalité d'attente - II | 450 | 0.5 on 2.5 off
+| Tonalité d'appel en attente - | 450 | 0.2 on 0.6 off 0.2 on 8.0 off
+
+h| Tuvalu  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 2.5 on (chaque 10.0 sec.)
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de retour d'appel - | 425 | 1.0 on 0.5 off 1.0 on 10.0 off
+| Tonalité d'appel en attente - | 425 | 0.3 on (chaque 10.0 sec.)
+
+h| Uruguay (République orientale de l')  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - I | 425 | continu
+| Tonalité de numérotation - II | 450 | 0.7 on 0.8 off 0.2 on 0.3 off
+| Tonalité d'indication negative - | 425 | 0.5 on 0.5 off
+| Tonalité d'indication positive - | 425 | 2x(0.1 on 0.2 off) 0.1 on 1.3 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.333 on 1.0 off
+| Tonalité d'avertissement - intervention | 425 | 0.15 on 0.25 off 0.15 on 1.45 off
+| d'opératrice | | 
+| Tonalité d'attente - | 425 | 0.2 on 0.2 off 0.2 on 4.4 off
+
+h| Vanuatu (République de)  | |
+| Tonalité d'acceptation - | 950 | continu
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de numérotation spéciale - | 425 | 0.4 on 0.04 off
+| Tonalité d'hurlement - | 3000 | continu
+| Tonalité de proposition, interurbain - | 425 | 0.3 on 10.0 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité d'acheminement - | 425 | 0.05 on 0.05 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 2x0.03 off 1.0 off
+| Tonalité d'appel en attente - | 425 | 0.3 on 10.0 off
+
+h| Venezuela (République bolivarienne du)  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité de confirmation - | 425 | 0.1 on 0.1 off 0.3 on 0.1 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité d'hurlement - | 1440 | 0.5 on 0.5 off
+| Tonalité de paiement - | 800 | 1.0 on 15.0 off
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1440/1800 | 3x0.33 on 1.0 off
+| Tonalité d'appel en attente - | 400/450 | 0.3 on 6.0 off
+| Tonalité de demandeur en attente - | 425 | 1.0 on 4.0 off
+
+h| Vierges britanniques (Iles)  | |
+| Tonalité d'occupation - | 480+620 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 480+620 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 350+440 | continu
+| Tonalité d'invitation à répéter l'appel - | 350+440 | 3x(0.1 on 0.1 off) + continu
+| Tonalité d'abonné inaccessible - | 480+620 | 0.25 on 0.25 off
+| Tonalité d'identification de publiphone - | 1600/1143 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tonalité de retour d'appel - | 440+480 | 2.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'avertissement - intervention | 450 | 0.2 on 0.2 off 0.65 on 0.2 off
+| d'opératrice | | 
+| Tonalité d'appel en attente - | 440 | 1x(0.5 on 10.0 off 0.5 on)
+
+h| Wallis-et-Futuna (Territoire français d'outre-mer)  | |
+| Tonalité d'occupation - | 440 | 0.5 on 0.5 off
+| Tonalité de numérotation - | 440//330 | continu
+| Tonalité de paiement - | 12000 | 0.1 on
+| Tonalité de retour d'appel - | 440 | 1.5 on 3.5 off
+| Tonalité d'acheminement - | 440 | 0.05 on 0.05 off
+| Tonalité spéciale d'information - | 950/1400/1800 | (3x0.3 on 2x0.03 off) 1.0 off
+
+h| Yémen (République du)  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 102 | continu
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+
+h| Zambie (République de)  | |
+| Tonalité d'occupation - | 425 | 0.5 on 0.5 off
+| Tonalité d'encombrement - | 425 | 0.25 on 0.25 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de paiement - | 800 | 2.0 on
+| Tonalité d'identification de publiphone - | 1600 | 0.1 on
+| Tonalité de retour d'appel - | 425 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.333 on 1.0 off
+| Tonalité d'appel en attente - | 425 | 0.1 on 4.9 off
+
+h| Zimbabwe (République du)  | |
+| Tonalité d'occupation - | 400 | 0.375 on 0.375 off
+| Tonalité d'encombrement - | 425 | 0.167 on 0.167 off
+| Tonalité de numérotation - | 425 | continu
+| Tonalité de paiement - | 1500+1000 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tonalité de retour d'appel - | 450 | 1.0 on 4.0 off
+| Tonalité spéciale d'information - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tonalité d'appel en attente - | 523//659 | 1.5 on 1.5 off
+
+|===
+
+
+1 Pour PLMN/GSM.
+
+2 Cette tonalité est utilisée avec le service supplémentaire «appel en attente»; la durée est de 30 secondes.
+
+3 Cette tonalité est également utilisée dans les autocommutateurs privés (PABX).
+
+4 Cette tonalité survient chaque 15 secondes.
+
+5 Centraux analogiques.
+
+6 Deux émissions, dix secondes d'intervalle.
+
+7 Tonalité spéciale de numérotation, est utilisée pendant le transfert d'appel.
+
+8 Interurbain.
+
+9 0,1 seconde indication d'appel en attente superposé sur la parole chaque 2 à 5 secondes.
+
+10 Changement de fréquence chaque 0,4 secondes.
+
+11 Dans un service donné, de la musique peut-être passée parallèlement à la tonalité de retour d'appel.
+
+
+_À retourner à UIT/TSB Fax N_^_o_^ _+41 22 730 5853 / E-mail : tsbtson@itu.int_
+
+
+== Formulaire de notification pour les tonalités rencontrées dans les réseaux nationaux
+
+Pays/Organisation:
+
+Contact, Nom:
+
+Tél: 
+
+Fax: 
+
+Email:
+
+
+[%unnumbered]
+|===
+| _Tonalité_ | _Fréquence (Hz)_ | _Cadence (en secondes)_ 
+| Tonalité de numérotation | | 
+| Tonalité de retour d'appel | | 
+| Tonalité d'occupation | | 
+| Tonalité d'encombrement | | 
+| Tonalité spéciale d'information | | 
+| Tonalité d'appel en attente | | 
+| Tonalité de paiement | | 
+
+|===
+
+
+[%unnumbered]
+|===
+| _Autres tonalités nouvelles ou modifiées_ 
+
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+|===
+
+
+_Tonalité de numérotation_:: Tonalité signifiant que le commutateur est prêt à recevoir l'information d'appel et invitant l'usager à commencer à envoyer cette information.
+
+_Tonalité de retour d'appel_:: Tonalité transmise au demandeur pour l'informer qu'une connexion a été établie et qu'un signal d'appel est en cours d'application au numéro de téléphone ou au point de service distant.
+
+_Tonalité d'occupation_:: Tonalité transmise au demandeur pour l'informer que le numéro de téléphone distant est occupé.
+
+_Tonalité d'encombrement_:: Tonalité transmise au demandeur pour l'informer que les faisceaux de circuits ou les équipements de commutation nécessaires à l'établissement de la communication demandée ou à l'utilisation d'un service déterminé sont temporairement occupés.
+
+_Tonalité spéciale d'information_:: Tonalité transmise au demandeur pour l'informer que le numéro demandé ne peut être atteint pour des raisons autres que l'occupation ou l'encombrement.
+
+La tonalité peut aussi être utilisée conjointement avec des annonces enregistrées avisant le demandeur que ce qu'il va entendre est un enregistrement. Elle doit toujours précéder l'annonce de l'échec de l'aboutissement d'un appel.
+
+_Tonalité d'appel en attente_:: Tonalité transmise à l'utilisateur du service supplémentaire d'appel en instance qui est engagé dans une conversation, pour l'avertir que quelqu'un tente d'atteindre son numéro.
+
+_Tonalité de paiement_:: Tonalité transmise à l'utilisateur d'un publiphone pour l'avertir qu'il doit procéder à un paiement.
+
+
+== Explication des symboles
+
+Fréquence en Hz: 
+
+f~1~×f~2~:: f~1~ est modulée par f~2~ 
+
+f~1~f~2~:: juxtaposition de deux fréquences f~1~ et f~2~ sans modulation
+
+f~1~/f~2~:: f~1~ est suivie de f~2~
+
+f~1~//f~2~ dans certains centraux on utilise la fréquence f~1~, dans d'autres la fréquence f~2~,
+
+Cadence en secondes: ON - OFF (ÉMISSION – SILENCE)

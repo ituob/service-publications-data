@@ -1,0 +1,2103 @@
+= DIFERENTES TONOS UTILIZADOS EN LAS REDES NACIONALES (SEGÚN LA RECOMENDACIÓN UIT-T E.180 (03/1998))
+:bureau: T
+:language: es
+:docnumber: 
+:published-date: 2010-05-01
+:status: published
+:doctype: recommendation-annex
+:annextitle-es: Anexo al Boletín de Explotación de la UIT
+:annexid: No. 955
+:keywords: 
+:imagesdir: images
+:docfile: T-SP-E.180-2010-MSW-S.adoc
+:mn-document-class: ituob
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+:stem:
+
+
+[preface]
+== Nota de la TSB
+
+[class=steps]
+. La Lista de los diferentes tonos utilizados en las redes nacionales ha sido actualizada con las enmiendas publicadas en el Boletín de Explotación de la UIT.
+
+. Se recuerda a las Administraciones las ventajas de la utilización en la medida de lo posible de tonos audibles normalizados, de modo que los abonados y operadores puedan reconocer rápidamente los tonos transmitidos, sea cual sea su origen.
+
+. A fin de disponer de información actualizada y mantener la lista al día, se ruega encarecidamente a las Administraciones que, siempre que introduzcan tonos de red nuevos o modificados, presenten a la UIT/TSB una descripción técnica de los tonos por medio del formulario de Notificación adjunto.
+
+. Para su información, esta Lista se actualizará por series de enmiendas numeradas publicadas en el Boletín de Explotación de la UIT. Por otra parte, las informaciones que figuran en este anexo están disponibles en la página web de la UIT http://www.itu.int/itu-t/bulletin/annex.html[www.itu.int/itu-t/bulletin/annex.html] .
+
+. Le rogamos envíe los comentarios o modificaciones relativos a esta lista al Director de la TSB:
++
+
+Unión Internacional de Telecomunicaciones
++
+Director de la TSB
++
+Place des Nations
++
+CH-1211 GINEBRA 20
++
+Suiza
++
+Tel: +41 22 730 5211
++
+Fax: +41 22 730 5853
++
+E-mail: tsbtson@itu.int
+
+. Las denominaciones empleadas en esta Lista y la forma en que aparecen presentados los datos que contiene no implican, de parte de la UIT, juicio alguno sobre la condición jurídica de países o zonas geográficas, o de sus autoridades.
+
+
+== {blank}
+
+[%unnumbered]
+|===
+h| _PAÍS/TONO_ h| _FRECUENCIA en Hz_ h| _CADENCIA en segundos_
+
+h| Albania (República de) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.2 on 0.2 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.2 on 0.2 off 0.2 on 1.4 off
+
+h| Alemania (República Federal de) | |
+| Tono de ocupado - | 425 | 0.48 on 0.48 off
+| Tono de congestión - | 425 | 0.24 on 0.24 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - | 425+400 | continuo
+| Tono de identificación de teléfono de previo pago - | 1633/1336 | 5x(0.2 on 0.2 off 0.2 on 2.0 off)
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 900/1400/1800 | 3x0.33 on 1.0 off
+| Tono de aviso - intervención de la operadora | 425 | 0.24 on 0.24 off 0.24 on 1.28 off
+| Tono de indicación de llamada en espera - (2) | 425 | 0.2 on 0.2 off 0.2 on 5.0 off
+
+h| Andorra (Principado de)  | |
+| Tono de ocupado - | 425 | 0.2 on 0.2 off
+| Tono de congestión - | 425 | 2x(0.2 on 0.2 off) 0.2 on 0.2 off
+| Tono de invitación a marcar - | 425 | continuo
+| Segundo tono de invitación a marcar - | 425 | continuo
+| Tono de pago - | 1600 | 0.05 on 0.05 off 0.05 on 0.05 off 1.5 off
+| Tono de llamada - | 425 | 1.5 on 3.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.333 on 1.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.175 on 0.175 off 0.175 on 3.5 off
+
+h| Angola (República de) | |
+| Tono de ocupado - | 400 | 0.5 on 0.5 off
+| Tono de congestión - | 400 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 400 | continuo
+| Tono de abonado inaccesible - | 400 | 0.2 on 0.2 off
+| Tono de llamada - | 25 | 1.0 on 5.0 off
+| Tono de espera - | 400 | 1.0 on 5.0 off
+
+h| Anguilla  | |
+| Tono de ocupado - | 480+620 | 0.5 on 0.5 off
+| Tono de congestión - | 480+620 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 350+440 | continuo
+| Tono de repetición de invitación a marcar - | 350+440 | 3x(0.1 on 0.1 off) + continuo
+| Tono de abonado inaccesible - | 480+620 | 0.25 on 0.25 off
+| Tono de identificación de teléfono de previo pago - | 1600/1143 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tono de llamada - | 440+480 | 2.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de aviso - intervención de la operadora | 450 | 0.2 on 0.2 off 0.65 on 0.2 off
+| Tono de espera - | 440 | 1x(0.5 on 10.0 off 0.5 on)
+
+h| Antigua y Barbuda  | |
+| Tono de ocupado - | 480+620 | 0.5 on 0.5 off
+| Tono de congestión - | 480+620 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 350+440 | continuo
+| Tono de pago - | 622 | 0.136 on 0.136 off
+| Tono de llamada - | 440+480 | 2.0 on 4.0 off
+| Tono especial de información - | … | anuncio
+| Tono de indicación de llamada en espera - | 480 | 1x(0.6 on 10.0 off)
+
+h| Arabia Saudita (Reino de)  | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de conferencia - | 425 | 0.5 on 2.0 off 0.5 on 15.0 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de identificación de teléfono de previo pago - | 1600/1200 | 0.2 on 0.2 off 0.2 on 4.0 off
+| Tono de llamada - | 425 | 1.2 on 4.6 off
+| Tono de indicación de llamada en espera - | 425 | 0.15 on 0.2 off 0.15 on 10.0 off
+
+h| Argelia (República Argelina Democrática y Popular)  | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de llamada - | 425 | 1.5 on 3.5 off
+
+h| Argentina (República) | |
+| Tono de ocupado - | 425 | 0.3 on 0.2 off
+| Tono de congestión - | 425 | 0.3 on 0.4 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de fin de servicio de tripartito - | 950/1400/1800 | 1x(3x0.33 on)
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono de servicio activado - | 425 | 1.0 on 0.25 off
+| Tono de aviso - intervención de la operadora | 1400 | 5x0.1 on 1.9 off
+| Tono de espera - | 425 | 0.4 on 0.2 off 0.4 on 4.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.3 on 10.0 off
+
+h| Aruba | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de confirmación - | 425 | continuo
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de rechazo - | 425 | 0.06 on 0.06 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.2 on 0.2 off 0.2 on 4.4 off
+
+h| Ascensión | |
+| Tono de ocupado - | 400 | 0.384 on 0.384 off
+| Tono de congestión - | 400 | continuo
+| Tono de invitación a marcar - | 350+450 | continuo
+| Tono de abonado inaccesible - | 400 | continuo
+| Tono de llamada - | 400+450 | 0.384 on 0.192 off 0.384 on 2.016 off
+| Tono de indicación de llamada en espera - | 1400 | 1x(0.384 on)
+
+h| Australia  | |
+| Tono de ocupado - | 425//400 | 0.375 on 0.375 off
+| Tono de congestión - | 425//400 | 0.375 on 0.375 off
+| Tono de conferencia - | 425//525//1400 | 1.0 on 15.0 off 0.36 on 15.0 off
+| Tono de invitación a marcar - | 425x25//400+425+450//400+425//425 | continuo
+| Tono de facilidades - | 425 | continuo
+| Tono de intervención - | 425//525 | continuo
+| Tono de abonado inaccesible - | 425//400 | 2.5 on 0.5 off
+| Tono de llamada - | 400x425//400+425+450//400+450 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.2 on 0.2 off 0.2 on 4.4 off
+
+h| Austria | |
+| Tono de ocupado - I | 420 | 0.4 on 0.4 off
+| Tono de ocupado - II (5) | 450 | 0.3 on 0.3 off
+| Tono de congestión - I | 420 | 0.2 on 0.2 off
+| Tono de congestión - II (5) | 450 | 0.3 on 0.3 off
+| Tono de invitación a marcar - | 420//450 | continuo
+| Tono de repetición de invitación a marcar - | 420 | continuo
+| Tono especial de invitación a marcar - | 380+420 | continuo
+| Tono de indicación negativo - | 380+420 | 0.4 on 0.4 off
+| Tono de abonado inaccesible - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de pago - | 852 | 1.5 on
+| Tono de indicación positivo - | 380+420 | 1.0 on 5.0 off
+| Tono de identificación de teléfono de previo pago - | 1633/1336 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tono de llamada - | 420//450 | 1.0 on 5.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de aviso - intervención de la operadora | 420//450 | 0.15 on 0.15 off 0.15 on 1.95 off
+| Tono de espera - | 420 | 0.04 on 1.95 off
+
+h| Bahamas (Commonwealth de las)  | |
+| Tono de ocupado - | 480//620/120 | 0.5 on 0.5 off
+| Tono de congestión - | 480//620/120 | 0.25 on 0.2 off
+| Tono de llamada - | 480//620 | 2.0 on 4.0 off
+
+h| Bahrein (Reino de) | |
+| Tono de aceptación - | 425 | 0.06 on 0.06 off
+| Tono de ocupado - | 425 | 0.375 on 0.375 off
+| Tono de congestión - | 425 | 0.40 on 0.35 off 0.225 on 0.525 off
+| Tono de invitación a marcar - | 330x440 | continuo
+| Tono de abonado inaccesible - | 425 | continuo
+| Tono de pago - | 816/1209 | O.125 on 1.5 off
+| Tono de llamada - | 425 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono de encaminamiento - | 425 | 0.06 on 0.06 off
+| Tono de indicación de llamada en espera - | 425 | 0.2 on 0.6 off 0.2 on 5.0 off
+
+h| Bangladesh (República Popular de) | |
+| Tono de ocupado - | 450 | 0.2 on 0.3 off 0.7 on 0.8 off
+| Tono de congestión - | 450 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 450 | continuo
+| Tono especial de invitación a marcar - | 450 | 0.4 on 0.4 off
+| Tono aullador - | 3000 | continuo
+| Tono de pago - | 800/1900 | continuo
+| Tono de llamada - | 450 | 1.0 on 4.0 off
+| Tono de aviso - intervención de la operadora | 450 | 0.20 on 0.02 off 0.20 on 1.40 off
+| Tono de indicación de llamada en espera - | 450 | 3.0 on 10.0 off
+
+h| Barbados | |
+| Tono de ocupado - | 480+620 | 0.5 on 0.5 off
+| Tono de congestión - | 480+620 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 350+440 | continuo
+| Tono de llamada - | 440+480 | 2.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on
+| Tono de indicación de llamada en espera - | 440 | 2x(0.3 on 10.0 off)
+
+h| Belarús (República de)  | |
+| Tono de ocupado - | 425 | 0.4 on 0.4 off
+| Tono de llamada - | 425 | 0.8 on 3.2 off
+
+h| Bélgica | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.167 on 0.167 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - | 425 | 1.0 on 0.25 off
+| Tono de retención - | 1400 | 0.4 on 15.0 off
+| Tono de llamada - | 425 | 1.0 on 3.0 off
+| Tono especial de información - | 900/1400/1800 | 3x0.33 on 1.0 off
+| Tono de indicación de llamada en espera - | 1400 | 0.175 on 0.175 off 0.175 on 3.50 off
+
+h| Benin (República de)  | |
+| Tono de ocupado - | 440//425 | 0.5 on 0.5 off
+| Tono de congestión - | … | anuncio
+| Tono de invitación a marcar - | 440//425 | continuo
+| Tono especial de invitación a marcar - | 330+440 | continuo
+| Tono de pago - | … | anuncio
+| Tono de llamada - | 440//425 | 1.7 on 3.3 off
+| Tono de encaminamiento - | 440//425 | 0.05 on 0.05 off
+| Tono especial de información - | … | anuncio
+| Tono de indicación de llamada en espera - | 440 | continuo
+
+h| Bermudas | |
+| Tono de ocupado - | 480+620 | 0.5 on 0.5 off
+| Tono de congestión - | 480+620 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 350+440 | continuo
+| Tono de llamada - | 440+480 | 2.0 on 4.0 off
+| Tono especial de información - | 913/1428/1776 | 0.27 on 0.38 on 0.38 on
+| Tono de indicación de llamada en espera - (6) | 440 | 
+
+h| Bhután (Reino de) | |
+| Tono de ocupado - | 400 | 0.6 on 0.6 off
+| Tono de invitación a marcar - | 400+25 | continuo
+| Tono de abonado inaccesible - | 400 | continuo
+| Tono de oferta, interurbano - | 450 | 0.2 on 0.2 off 0.2 on 0.6 off
+| Tono de llamada - | 400+25 | 0.4 on 0.2 off 0.4 on 2.6 off
+| Tono de espera - | 400 | 0.5 on 0.25 off
+
+h| Bosnia y Herzegovina | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de confirmación - | 425 | continuo
+| Tono de congestión - | 425 | 0.2 on 0.2 off
+| Tono de invitación a marcar - | 425 | 0.2 on 0.3 off 0.7 on 0.8 off
+| Segundo tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - | 425 | 0.4 on 0.04 off
+| Tono de oferta, interurbano - | 425 | 0.2 on 0.3 off 0.7 on 0.8 off
+| Tono de pago - | 425 | 0.5 on 15.0 off
+| Tono de identificación de teléfono de previo pago - | 1100+1750 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.3 on 10.0 off
+
+h| Botswana (República de) | |
+| Tono de aceptación - | 425 | 0.06 on 0.06 off
+| Tono de ocupado - | 425 | 0.38 on 0.38 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 350+450 | continuo
+| Tono especial de invitación a marcar - | 350+450 | 0.40 on 0.04 off
+| Tono de retención - | 425 | 5.0 on 5.0 off
+| Tono de intervención - | 425 | 0.16 on 2.0 off
+| Tono de desbloqueo de la línea - | 425 | 5.0 on 1.0 off
+| Tono de rechazo - | 425 | 5.0 on 1.0 off
+| Tono de llamada - | 425 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono de espera - | 425 | 1.0 on 1.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.2 on 0.6 off 0.2 on
+
+h| Brasil (República Federativa del) | |
+| Tono de ocupado - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de invitación a marcar - pabx | 425 | 0.975 on 0.05 off
+| Tono de orden de atribución de prioridad - | 750 | 0.02 on 1.0 off
+| Tono de identificación de función - | 425 | 0.1 on 0.1 off 0.1 on 2.0 off
+| Tono de abonado inaccesible - | 425 | 0.75 on 0.25 off 0.25 on 0.25 off
+| Tono de pago - | 300 | 0.75 on
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono de espera - | 425 | 0.05 on 1.0 off
+
+h| Brunei Darussalam | |
+| Tono de ocupado - | 400 | 0.375 on 0.375 off
+| Tono de confirmación - | 400x24 | 0.1 on 0.1 off 0.3 on 0.3 off
+| Tono de congestión - | 400 | 0.375 on 0.375 off
+| Tono de invitación a marcar - | 400x50 | continuo
+| Tono especial de invitación a marcar - | 400x24 | 0.1 on 0.1 off
+| Tono de retención - | 400x24 | 0.5 on 2.5 off
+| Tono de abonado inaccesible - | 400 | continuo
+| Tono de llamada - | 400+450 | 0.4 on 0.2 off 0.4 on 0.2 off
+| Tono de aviso – fin de periodo | 400 | 0.624 on 4.376 off
+| Tono de aviso - intervención de la operadora | 400 | 0.25 on 2.0 off
+| Tono de aviso – tono pip | 900 | 0.25 on 0.25 off
+| Tono de espera - | 400 | 0.3 on 0.25 off
+| Tono de indicación de llamada en espera - | 400x24 | 0.5 on 0.25 off
+
+h| Bulgaria (República de) | |
+| Tono de ocupado - I | 425 | 0.5 on 0.5 off
+| Tono de ocupado - II | 425 | 0.2 on 0.5 off
+| Tono de ocupado - III | 425 | 0.25 on 0.25 off
+| Tono de ocupado - IV | 425 | 0.3 on 0.3 off
+| Tono de congestión - I | 425 | 0.25 on 0.25 off
+| Tono de congestión - II | 425 | 0.22 on 0.22 off
+| Tono de congestión - III | 425 | 0.5 on 0.5 off
+| Tono de invitación a marcar - I | 425 | continuo
+| Tono de invitación a marcar - II | 425 | 0.25 on 0.75 off 0.75 on 1.0 off
+| Tono de invitación a marcar - III | 425 | 0.25 on 0.3 off 0.7 on 0.8 off
+| Tono de invitación a marcar - IV | 425 | 0.25 on 0.25 off 0.25 on 1.0 off
+| Tono especial de invitación a marcar - | 425 | 1.5 on 0.1 off
+| Tono de retención - I | 950/950/1400 | 0.65 on 0.32 off 0.32 on 0.32 off 1.30 on 2.60 off
+| Tono de retención - II | 425/950/950/1400 | 1.50 on 5.12 off 1.50 on 5.12 off 1.50 on 5.12 off
+| Tono de intervención - I | 425 | 0.24 on 0.24 off 0.24 on 1.20 off
+| Tono de intervención - II | 425 | 2.0 on 0.5 off 2.0 on 0.5 off
+| Tono de intervención - III | 425 | 0.25 on 0.25 off 0.25 on 1.5 off
+| Tono de identificación de teléfono de previo pago - | 1100+1750/750+1450 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tono de llamada - I | 425 | 1.0 on 4.0 off
+| Tono de llamada - II | 425 | 1.0 on 9.0 off
+| Tono de llamada - III | 425 | 1.5 on 3.5 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de aviso - I | 1400 | 0.35 on 0.50 off
+| Tono de aviso - II | 425/1400 | 0.5 on 0.5 off
+| Tono de indicación de llamada en espera - I | 425 | 0.15 on 0.15 off 0.15 on 4.0 off
+| Tono de indicación de llamada en espera - II | 425 | 2x(0.3 on)
+| Tono de indicación de llamada en espera - III | 425 | 0.2 on 0.6 off
+
+h| Burkina Faso | |
+| Tono de aceptación - | 425 | 1.0 on 4.0 off
+| Tono de ocupado - | 425//440//620 | 0.5 on 0.5 off
+| Tono de confirmación - | 350 | 0128 on 0.128 off 0.384 on
+| Tono de congestión - | 425//620 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425//440 | continuo
+| Tono de llamada - I | 425 | 1.0 on 4.0 off
+| Tono de llamada - II | 440 | 1.7 on 3.3 off
+| Tono de llamada - III | 480 | 2.0 on 4.0 off
+| Tono de encaminamiento - | 425 | 0.05 on 0.05 off
+| Tono especial de información - | 900/1380/1860 | 0.35 on 0.30 on 0.35 on 1.0 off
+
+h| Burundi (República de) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de llamada - | 425 | 1.7 on 3.3 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+
+h| Caimanes (Islas) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de abonado inaccesible - | 425 | 0.25 on 0.25 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+
+h| Camboya (Reino de)  | |
+| Tono de ocupado - | 425 | 0.375 on 0.375 off
+| Tono de congestión - | 425 | 0.375 on 0.375 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de abonado inaccesible - | 425 | 0.25 on 0.25 off
+| Tono de llamada - | 425 | 0.4 on 0.2 off 0.4 on 2.0 off
+
+h| Camerún (República de) | |
+| Tono de ocupado - | 440 | 0.5 on 0.5 off
+| Tono de congestión - | 440 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 440 | continuo
+| Segundo tono de invitación a marcar - | 330+440 | continuo
+| Tono de pago - | 12000 | continuo
+| Tono de llamada - | 440 | 1.7 on 3.3 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de indicación de llamada en espera - | 440 | 0.2 on 0.6 off 0.2 on
+
+h| Canadá | |
+| Tono de ocupado - | 480+620 | 0.5 on 0.5 off
+| Tono de congestión - | 480+620 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 350+440 | continuo
+| Tono de llamada - | 440+480 | 2.0 on 4.0 off
+| Tono de indicación de llamada en espera - | 440 | 2x(0.3 on 10.0 off)
+
+h| Centroafricana (República) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 425 | continuo
+| Segundo tono de invitación a marcar - | 425+330 | continuo
+| Tono de abonado inaccesible - | 425 | 0.5 on 0.5 off
+| Tono de pago - | 12000 | 0.15 on 0.15 off
+| Tono de llamada - | 425 | 1.7 on 3.3 off
+| Tono de encaminamiento - | 425 | 0.05 on 0.05 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 2x0.30 off
+
+h| Chad (República del) | |
+| Tono de ocupado - | 440 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 440 | continuo
+| Segundo tono de invitación a marcar - | 330+400 | continuo
+| Tono de llamada - | 440 | 1.7 on 3.3 off
+| Tono especial de información - | 950/1400/1800 | (3x0.33 on 2x0.03 off) 1.0 off
+
+h| Chile | |
+| Tono de ocupado - | 400 | 0.5 on 0.5 off
+| Tono de congestión - | 400 | 0.2 on 0.2 off
+| Tono de invitación a marcar - | 400 | continuo
+| Segundo tono de invitación a marcar - | 330+440 | continuo
+| Tono de identificación - | 800/1200 | 0.6 on 2.0 off 0.6 on 2.0 off
+| Tono de identificación de teléfono de previo pago - | 1100+1750/750+1450 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tono de llamada - | 400 | 1.0 on 3.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.333 on 1.0 off
+| Tono de aviso – fin de periodo | 800 | 2.0 on
+| Tono de aviso - intervención de la operadora | 1400 | 0.5 on 15.0 off
+| Tono de espera - | 900+1300 | 0.5 on 0.5 off
+
+h| China (República Popular de) | |
+| Tono de ocupado - | 450 | 0.35 on 0.35 off
+| Tono de congestión - | 450 | 0.7 on 0.7 off
+| Tono de invitación a marcar - | 450 | continuo
+| Segundo tono de invitación a marcar - | 450 | continuo
+| Tono de intervención - | 450 | 0.2 on 0.2 off 0.2 on 0.6 off
+| Tono de abonado inaccesible - | 450 | 3x(0.1 on 0.1 off) 0.4 on 0.4 off
+| Tono de llamada - | 450 | 1.0 on 4.0 off
+| Tono especial de información - I | 450 | 0.4 on 0.04 off
+| Tono especial de información - II | 950 | 0.4 on 10.0 off
+| Tono de espera - | 450 | 0.4 on 4.0 off
+
+h| Chipre (República de) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 350+450 | continuo
+| Tono de abonado inaccesible - | 425 | 2.5 on 0.5 off
+| Tono de pago - | 1638/1206/943 | 3x(0.068 on 0.068 off)
+| Tono de llamada - | 425 | 1.5 on 3.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de aviso - intervención de la operadora | 1400 | 0.5 on 14.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.1 on 0.1 off 0.1 on 5.0 off
+
+h| Colombia (República de) | |
+| Tono de ocupado - | 425 | 0.25 on 0.25 off
+| Tono de congestión - | 425 | 0.10 on 0.25 off 0.35 on 0.25 off 0.65 on 0.25 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de abonado inaccesible - | 425 | 0.65 on 0.25 off 0.20 on 0.60 off
+| Tono de pago - | 50/12000/16000 | 0.15 on
+| Tono de llamada - | 425 | 1.0 on 4.5 off
+| Tono especial de información - | 950/1400/1800 | 3x0.333 on 1.0 off
+
+h| Comoras (Unión de las) | |
+| Tono de ocupado - | 440 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 440 | continuo
+| Segundo tono de invitación a marcar - | 330+440 | continuo
+| Tono de llamada - | 440 | 1.71 on 0.05 off
+| Tono de encaminamiento - | 440 | 0.05 on 0.05 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+
+h| Cook (Islas) | |
+| Tono de ocupado - | 400 | 0.5 on 0.5 off
+| Tono de congestión - | 400 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 400 | continuo
+| Tono de llamada - | 400+450 | 0.4 on 0.2 off
+| Tono de indicación de llamada en espera - | 400+450 | 0.5 on
+
+h| Corea (República de) | |
+| Tono de ocupado - | 480+620 | 0.5 on 0.5 off
+| Tono de congestión - | 480+620 | 0.3 on 0.2 off
+| Tono de invitación a marcar - | 350+440 | continuo
+| Tono de repetición de invitación a marcar - I | 400//450 | 1.0 on 4.0 off
+| Tono de repetición de invitación a marcar - II | 400//450 | 1.0 on 2.0 off
+| Tono de intercepción - | 350+440 | 0.125 on 0.25 off 0.125 on 1.5 off
+| Tono de abonado inaccesible - | 450 | 0.2 on 0.1 off 0.2 on 1.5 off
+| Tono de llamada - | 440+480 | 1.0 on 2.0 off
+| Tono de aviso - intervención de la operadora | 392/494/587 | 2x(0.5 on 0.5 on 1.5 on)
+| Tono de espera - | 350+440 | 0.25 on 0.25 off 0.25 on 3.25 off
+
+h| Costa Rica | |
+| Tono de ocupado - | 450 | 0.33 on 0.33 off
+| Tono de congestión - | 450 | 0.33 on 0.33 off
+| Tono de invitación a marcar - | 450 | continuo
+| Tono de llamada - | 450 | 1.2 on 4.9 off
+| Tono de aviso - intervención de la operadora | 425 | 0.17 on 0.17 off 0.5 on 0.17 off
+| Tono de indicación de llamada en espera - | 450 | 0.15 on 0.15 off 0.15 on 8.0 off
+
+h| Côte d'Ivoire (República de) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | … | anuncio
+| Tono de invitación a marcar - | 425 | continuo
+| Segundo tono de invitación a marcar - | 440+330 | continuo
+| Tono de desbloqeo de la línea - | 425 | 0.4 on 0.04 off
+| Tono de pago - | 12000 a| +
+| Tono de llamada - | 425 | 1.7 on 3.3 off
+| Tono especial de información - | … | anuncio
+| Tono de indicación de llamada en espera - (6) | 425 | 
+
+h| Croacia (República de) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425 | 0.2 on 0.3 off 0.7 on 0.8 off
+| Tono de identificación de teléfono de previo pago - | 1206/850 | 4x(0.2 on 0.2 off 0.2 on 0.2 off)
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.333 on 1.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.3 on 8.0 off
+
+h| Cuba | |
+| Tono de aceptación - | 425 | continuo
+| Tono de ocupado - | 600x120//620+480//425//400 | 0.5 on 0.5 off
+| Tono de congestión - | 600x120//425//400 | 0.25 on 0.25 off
+| Tono de invitación a marcar - I | 600x120//425 | continuo
+| Tono de invitación a marcar - II | 425 | 0.75 on 0.75 off 0.25 on 0.25 off
+| Tono de indicación negativo - | 425 | 0.5 on 0.5 off
+| Tono de llamada - I | 425 | 1.0 on 4.0 off
+| Tono de llamada - II | 440+480//440+620//480+620 | 2.0 on 4.0 off
+| Tono de llamada - III | 420x40 | 1.0 on 2.0 off
+| Tono de llamada - IV | 400+450 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono especial de información - I | 950/1400/1800 | (3x0.33 on 2x0.33 off) 1.0 off
+| Tono especial de información - II | 400 | 4x(0.075 on 0.10 off) 0.30 off
+| Tono de aviso - I, intervención de la operadora | 425 | 0.1 on 4.9 off
+| Tono de aviso - II, intervención de la operadora | 425 | 0.5 on 0.2 off
+| Tono de indicación de llamada en espera - I | 425 | 0.2 on 0.6 off 0.2 on
+| Tono de indicación de llamada en espera - II | 400 | 0.5 on 0.5 off
+
+h| Departamentos y territorios franceses del Océano Indico | |
+| Tono de ocupado - | 440 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 440 | continuo
+| Tono de llamada - | 440 | 1.5 on 3.5 off
+| Tono especial de información - | 950/1400/1800 | 3x(0.3 on 0.03 off) 1.0 off
+| Tono de indicación de llamada en espera - | 440 | 0.3 on 10.0 off
+
+h| Diego García | |
+| Tono de ocupado - | 480/620 | Interrumpido a razón de 60 ipm
+| Tono de invitación a marcar - | 350/440 | continuo
+| Tono de abonado inaccesible - | 480/620 | Interrumpido a razón de 120 ipm
+| Tono de llamada - | 440/480 | 1.0 on 3.0 off
+
+h| Dinamarca | |
+| Tono de ocupado - I | 425 | 0.25 on 0.25 off
+| Tono de ocupado - II (1) | 425 | 0.5 on 0.5 off
+| Tono de congestión - I | 425 | 0.25 on 0.25 off
+| Tono de congestión - II (1) | 425 | 0.2 on 0.2 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.00 off
+| Tono de indicación de llamada en espera - I | 425 | 0.2 on 0.2 off 0.2 on 3.6 off 0.2 on 0.2 off 0.2 on
+| Tono de indicación de llamada en espera - II (1) | 425 | 0.2 on 0.6 off 0.2 on 3.0 off 0.2 on 0.6 off 0.2 on
+
+h| Djibouti (República de) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de llamada - | 425 | 1.5 on 3.5 off
+| Tono de encaminamiento - | 425 | 0.05 on 0.05 off
+
+h| Dominica (Commonwealth de) | |
+| Tono de ocupado - | 480+620 | 0.5 on 0.5 off
+| Tono de congestión - | 480+620 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 350+440 | continuo
+| Tono de llamada - | 440+480 | 2.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de indicación de llamada en espera - | 440 | 1x(0.5 on 10.0 off 0.5 on)
+
+h| Dominicana (República)  | |
+| Tono de ocupado - I | 400 | 0.8 on 0.8 off
+| Tono de ocupado - II | 400 | 0.375 on 0.375 off
+| Tono de congestión - I | 400 | 0.8 on 0.8 off
+| Tono de congestión - II | 400 | 0.375 on 0.375 off
+| Tono de invitación a marcar - I | 50 | continuo
+| Tono de invitación a marcar - II | 33 | 0.0166 on 0.0166 off
+| Tono de abonado inaccesible - | 400 | continuo
+| Tono de llamada - | 400//450 | 0.4 on 0.2 off 0.4 on 2.2 off
+
+h| Ecuador | |
+| Tono de ocupado - | 425 | 0.33 on 0.33 off
+| Tono de congestión - | 425 | 0.33 on 0.33 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de llamada - | 425 | 1.2 on 4.65 off
+| Tono de indicación de llamada en espera - | 425 | 0.2 on 0.6 off
+
+h| Egipto (República Arabe de) | |
+| Tono de ocupado - | 425x50 | 1.0 on 4.0 off
+| Tono de congestión - | 450 | 0.5 on 0.5 off
+| Tono de intervención - | 450 | 0.5 on 0.5 off
+| Tono de identificación de teléfono de previo pago - | 1100+1750/750+1450 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tono de llamada - | 425x50 | 2.0 on 1.0 off
+| Tono especial de información - | 950/1400/1800 | 0.33 on 0.33 off 0.33 on 0.33 off 0.33 on 0.33 off
+
+h| El Salvador (República de) | |
+| Tono de ocupado - | 425 | 0.32 on 0.32 off
+| Tono de congestión - | 425 | 0.32 on 0.32 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - | 425 | 0.40 on 0.04 off
+| Tono de intervención - | 425 | 0.20 on 0.20 off 0.50 on 0.20 off
+| Tono de desbloqueo de la línea - | 425 | 0.167 on 0.167 off 0.500 on 0.167 off
+| Tono de llamada - | 425 | 1.2 on 4.6 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.00 off
+| Tono de aviso - | 1400 | 0.20 on 0.60 off
+| Tono de indicación de llamada en espera - | 425 | 0.35 on 15.0 off
+
+h| Emiratos Árabes Unidos | |
+| Tono de ocupado - | 400//425 | 0.375 on 0.375 off
+| Tono de congestión - | 400//425 | 0.4 on 0.35 off 0.225 on 0.525 off
+| Tono de invitación a marcar - | 350+440 | continuo
+| Tono de abonado inaccesible - | 400//425 | continuo
+| Tono de llamada - | 400+450//425 | 0.4 on 0.2 off 0.4 on 2.0 off
+
+h| Eslovenia (República de) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.2 on 0.2 off
+| Tono de invitación a marcar - | 425 | 0.2 on 0.3 off 0.7 on 0.8 off
+| Tono de pago - | 425 | 0.5 on 15.0 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.00 off
+| Tono de indicación de llamada en espera - | 425 | 0.3 on 10.0 off
+
+h| España | |
+| Tono de ocupado - I | 425 | 0.2 on 0.2 off
+| Tono de ocupado - II | 425 | 0.5 on 0.5 off
+| Tono de congestión - I | 425 | 2x(0.2 on 0.2 off) 0.2 on 0.6 off
+| Tono de congestión - II | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - I | 425 | 1.0 on 0.1 off
+| Tono especial de invitación a marcar - II | 425 | 0.5 on 0.05 off
+| Tono de abonado inaccesible - I | 425 | 0.2 on 0.2 off 0.2 on 0.6 off
+| Tono de abonado inaccesible - II | 425 | 0.5 on 2.5 off
+| Tono de identificación de teléfono de previo pago - I | 1600 | 0.05 on 0.05 off 0.05 on 1.5 off
+| Tono de identificación de teléfono de previo pago - II | 1600 | 0.05 on 0.05 off 0.05 on 0.05 off 0.05 on 1.5 off
+| Tono de llamada - I | 425 | 1.5 on 3.0 off
+| Tono de llamada - II | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de aviso - intervención de la operadora | 1400 | 0.4 on 5.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.175 on 0.175 off 0.175 on 3.5 off
+
+h| Estados Unidos de América | |
+| Tono de ocupado - | 600x120//600x133//600x140//600x160//480+620 | 0.5 on 0.5 off
+| Tono de confirmación - | 350+440 | 3x(0.1 on 0.1 off)
+| Tono de invitación a marcar - | 600x120//600x133//600x140//600x160//350+440 | continuo
+| Tono de repetición de invitación a marcar - | 350+440 | 3x(0.1 on 0.1 off) + continuo
+| Tono de intervención - | 600x120//600x133//600x140//600x160//480+620 | 0.5 on 0.5 off
+| Tono de abonado inaccesible - | 200//400 | 0.5 on 6.0 off
+| Tono de señal permanente - | 480//400//500 | continuo
+| Tono de grabación - | 440 | 0.5 on 5.0 off
+| Tono de llamada - | 420x40//500x40//440+480 | 2.0 on 4.0 off
+| Tono de re-llamada - | 600x120//600x133//600x140//600x160//480+620 | 0.3 on 0.2 off
+| Tono de aviso - mensaje (4) | 1400 | 0.5 on
+| Tono de indicación de llamada en espera - | 440 | 2x(0.3 on 10.0 off)
+
+h| Estonia (República de) | |
+| Tono de ocupado - | 425 | 0.3 on 0.3 off
+| Tono de congestión - | 425 | 0.2 on 0.2 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de pago - | 16000 | 1.15 on 0.35 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de indicación de llamada en espera - | 950/1400/1800 | 3x0.33 on 0.3 off
+
+h| Etiopía (República Democrática Federal de) | |
+| Tono de aceptación - | 425 | continuo
+| Tono de ocupado - | 425 | 0.4 on 0.4 off
+| Tono de congestión - | 425 | 0.4 on 0.4 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - | 425 | 0.4 on 0.04 off
+| Tono de intervención - | 425 | 0.5 on 0.2 off
+| Tono de desbloqueo de la línea - | 425 | 0.4 on 0.4 off
+| Tono de rechazo - | 425 | 0.4 on 0.4 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de aviso - | 1400 | 0.5 on 11.5 off
+| Tono de indicación de llamada en espera - | 425 | 0.2 on 0.6 off
+
+h| Feroe (Islas) | |
+| Tono de ocupado - | 425 | 0.25 on 0.25 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de abonado inaccesible - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+
+h| Fiji (República de) | |
+| Tono de aceptación - | 425 | continuo
+| Tono de ocupado - | 425 | 0.75 on 0.75 off
+| Tono de congestión - | 425 | 037 on 0.37 off 0.37 on 0.37 off
+| Tono de invitación a marcar - | 400+450 | continuo
+| Segundo tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - | 400+450 | 0.40 on 0.04 off
+| Tono de desbloqueo de la línea - | 425 | 0.2 on 0.6 off 0.2 on 4.0 off
+| Tono de abonado inaccesible - | 400 | 2.5 on 0.5 off
+| Tono de oferta, interurbano - | 425 | 0.17 on 0.17 off 0.50 on 0.17 off
+| Tono de rechazo - | 425 | 0.24 on 0.76 off
+| Tono de llamada - | 425x25 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono especial de llamada - | 425x25 | 1.0 on 5.0 off 1.0 on 5.0 off
+| Tono especial de información - | 925/1400/1800 | 3x0.38 on 1.00 off
+| Tono de aviso - | 1400 | 0.5 on 12.0 off
+
+h| Filipinas (República de) | |
+| Tono de ocupado - | 480+620 | 0.5 on 0.5 off
+| Tono de congestión - | 480+620 | 0.25 on 0.25 off
+| Tono de conferencia - | 440 | 0.2 on 15.0 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - | 400+25 | continuo
+| Tono de retención - | 950/950/1400 | 0.65 on 0.325 off 0.325 on 1.3 on 2.0 off
+| Tono aullador - | 1400+1800 | 0.2 on 0.3 off
+| Tono de abonado inaccesible - | 600x120 | 0.25 on 0.25 off
+| Tono de llamada - | 425+480 | 1.0 on 4.0 off
+| Tono de indicación de llamada en espera - | 440 | 0.3 on 10.0 off
+
+h| Finlandia | |
+| Tono de ocupado - | 425 | 0.3 on 0.3 off
+| Tono de congestión - | 425 | 0.2 on 0.2 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - | 425 | 0.65 on 0.025 off
+| Tono de fila de espera - | 950/950/1400 | 0.65 on 0.325 off 0.325 on 1.3 on 2.6 off
+| Tono de llamada - (11) | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.333 on 1.0 off
+| Tono de aviso - intervención de la operadora | 425 | 0.2 on 0.3 off 0.2 on 1.3 off
+| Tono de indicación de llamada en espera - | 425 | 0.15 on 0.15 off 0.15 on 8.0 off
+
+h| Francia | |
+| Tono de ocupado - | 440 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 440 | continuo
+| Tono de llamada - | 440 | 1.5 on 3.5 off
+| Tono especial de información - | 950/1400/1800 | 3x(0.3 on 0.03 off) 1.0 off
+| Tono de indicación de llamada en espera - | 440 | 0.3 on 10.0 off
+
+h| Gabonesa (República) | |
+| Tono de ocupado - | 440 | 0.5 on 0.5 off
+| Tono de congestión - | 440 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 440 | continuo
+| Tono de llamada - | 440 | 1.7 on 3.3 off
+| Tono especial de información - | 950/1400/1800 | 0.30 on 0.33 off
+| Tono de indicación de llamada en espera - | 1800 | 0.5 on 2.5 off
+
+h| Gambia (República de) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 1400 | 0.330 on 0.030 off
+| Tono de indicación de llamada en espera - | 950 | 0.330 on 0.030 off
+
+h| Georgia | |
+| Tono de ocupado - | 425 | 1.0 on 3.0 off
+| Tono de congestión - | 425 | 1.0 on 1.0 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de llamada - | 25 | 1.0 on 4.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.125 on
+
+h| Ghana | |
+| Tono de ocupado - | 400 | 0.25 on 0.25 off
+| Tono de congestión - | 400 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 400 | continuo
+| Tono de retención - | 400 | 0.5 on 0.5 off 0.5 on 0.25 off
+| Tono de abonado inaccesible - | 400 | 0.075 on 0.1 off 0.075 on 0.1 off 0.075 on 0.4 off
+| Tono de llamada - | 400 | 1.0 on 4.0 off
+| Tono de espera - | 400 | 0.5 on 0.3 on 0.2 off 0.3 on 0.2 off 3.0 off
+
+h| Gibraltar | |
+| Tono de ocupado - | 400 | 0.375 on 0.375 off
+| Tono de congestión - | 400 | 0.4 on 0.35 off 0.225 on 0.525 off
+| Tono de invitación a marcar - | 350+400 | continuo
+| Tono de abonado inaccesible - | 400 | continuo
+| Tono de llamada - | 400+450 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono de espera - | 400 | 0.1 on 3.0 off
+
+h| Granada | |
+| Tono de ocupado - | 460+620 | 0.5 on 0.5 off
+| Tono de congestión - | … | anuncio
+| Tono de llamada - | 440+480 | 2.0 on 4.0 off
+
+h| Grecia | |
+| Tono de ocupado - | 425 | 0.3 on 0.3 off
+| Tono de congestión - | 425 | 0.15 on 0.15 off
+| Tono de invitación a marcar - | 425 | 0.2 on 0.3 off 0.7 on 0.8 off
+| Tono especial de invitación a marcar - | 400/425//425/450 | 0.2 on 0.3 off 0.7 on 0.8 off
+| Tono de retención - | 900 | 0.5 on 0.5 off
+| Tono de intervención - | 425 | 0.15 on 0.25 off 0.15 on 1.45 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1450/1800 | 3x0.33 on 1.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.3 on 10.0 off 0.3 on 10.0 off
+
+h| Groenlandia (Dinamarca) | |
+| Tono de ocupado - | 445//425 | 0.25 on 0.25 off
+| Tono de congestión - | 445//425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 445//425 | continuo
+| Segundo tono de invitación a marcar - | 445//425 | continuo
+| Tono de abonado inaccesible - I | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de abonado inaccesible - II | 425 | 0.25 on 0.25 off
+| Tono de pago - | 950/1400/1800 | 3x0.22 on 1.0 off
+| Tono de llamada - | 445//425 | 1.0 on 4.0 off
+
+h| Guadalupe (Departamento francés de la) | |
+| Tono de ocupado - | 440 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 440 | continuo
+| Tono de llamada - | 440 | 1.5 on 3.5 off
+| Tono especial de información - | 950/1400/1800 | 3x(0.3 on 0.03 off) 1.0 off
+| Tono de indicación de llamada en espera - | 440 | 0.3 on 10.0 off
+
+h| Guayana francesa (Departamento francés de la) | |
+| Tono de ocupado - | 440 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 440 | continuo
+| Tono de llamada - | 440 | 1.5 on 3.5 off
+| Tono especial de información - | 950/1400/1800 | 3x(0.3 on 0.03 off) 1.0 off
+| Tono de indicación de llamada en espera - | 440 | 0.3 on 10.0 off
+
+h| Guinea (República de) | |
+| Tono de ocupado - | 450 | 0.2 on 0.2 off
+| Tono de llamada - | 450 | 0.4 on 0.2 off
+
+h| Guyana | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 360/400 | 1.3 on 0.3 off 0.2 on 0.5 off
+| Tono de llamada - | 425 | 1.75 on 3.25 off
+| Tono de espera - | 480 | 0.5 on 18.0 off
+
+h| Honduras (República de) | |
+| Tono de ocupado - | 440 | 0.5 on 0.5 off
+| Tono de congestión - | 440 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 440 | continuo
+| Tono de llamada - | 440 | 1.0 on 4.0 off
+| Tono de indicación de llamada en espera - | 440 | 0.5 on 0.5 off 2.0 on 4.0 off
+
+h| Hong Kong, China | |
+| Tono de ocupado - | 480+620 | 0.5 on 0.5 off
+| Tono de congestión - | 480+620 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 350+440 | continuo
+| Tono de abonado inaccesible - | 480+620 | continuo
+| Tono de llamada - | 440+480 | 0.4 on 0.2 off 0.4 on 3.0 off
+
+h| Hungría (República de) | |
+| Tono de ocupado - | 425 | 0.3 on 0.3 off
+| Tono de congestión - | 425 | 0.3 on 0.3 off
+| Tono de invitación a marcar - | 425 | continuo
+| Segundo tono de invitación a marcar - | 425+450 | continuo
+| Tono especial de invitación a marcar - | 350+375+400 | continuo
+| Tono de indicación negativo - | 300+425 | 0.2 on 0.2 off 0.2 on 0.2 off 0.2 on 0.2 off + anuncio
+| Tono de oferta, interurbano - | 425 | 0.3 on 0.3 off 0.3 on 1.5 off
+| Tono de pago - | 600//1100 | (3 or 5)(0.15 on 0.15 off)
+| Tono de indicación positivo - | 300+425 | 1.0 on 0.2 off + anuncio
+| Tono de identificación de teléfono de previo pago - | 1100+1750//750+1450 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tono de llamada - | 425 | 1.25 on 3.75 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de aviso - | 425 | 0.3 on 0.3 off 0.3 on 1.5 off
+| Tono de indicación de llamada en espera - | 425 | 0.04 on 1.96 off
+
+h| India (República de la) | |
+| Tono de aceptación - | 400 | 1.0 on 4.0 off
+| Tono de ocupado - | 400 | 0.75 on 0.75 off
+| Tono de congestión - | 400 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 400x25 | continuo
+| Tono especial de invitación a marcar - | 400 | 2.8 on 0.2 off
+| Tono de retención - | 400 | 0.25 on 0.25 off 0.25 on 3.25 off
+| Tono de intervención - | 400 | 0.15 on 4.85 off
+| Tono de rechazo - | 400 | 0.25 on 0.25 off
+| Tono de llamada - I (Llamadas locales) | 400x25 | 0.4 on 0.2 off 0.4 on 2..0 off
+| Tono de llamada - II (Llamadas NSD/ISD ) | 400x25 | 1.0 on 2.0 off
+| Tono de encaminamiento - | 400 | 0.1 on 0.9 off
+| Tono de indicación de llamada en espera - | 400 | 0.2 on 0.1 off 0.2 on 7.5 off
+
+h| Indonesia (República de) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de identificación de teléfono de previo pago - | 1200/800 | 0.2 on 0.2 off 0.2 on 0.2 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x(0.33 on 0.03 off) 1.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.15 on 0.15 off 0.15 on 10.0 off
+
+h| Irán (República Islámica del) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de oferta, interurbano - | 425 | 0.2 on 0.2 off 0.2 on 1.4 off
+| Tono de apropiación - | 1400 | 3x(0.1 on) 0.1 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono de re-llamada - | 425 | 0.25 on 0.25 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de número de prueba - | 800 | continuo
+| Tono de indicación de llamada en espera - | 425 | 0.2 on 0.2 off 0.2 on 10.0 off
+
+h| Iraq (República del) | |
+| Tono de ocupado - | 400 | 1.0 on 1.0 off
+| Tono de repetición de invitación a marcar - | 133 | 0.4 on 0.2 off 0.4 on 1.5 off
+| Tono de llamada - | 400 | continuo
+
+h| Irlanda | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 400//425//450 | continuo
+| Tono de pago - | 12000 | 0.12 on
+| Tono de llamada - | 400+450//425 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono de encaminamiento - | 425 | 0.06 on 0.06 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.18 on 0.20 off 0.20 on 4.50 off
+
+h| Islandia | |
+| Tono de ocupado - | 425 | 0.25 on 0.25 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - (7) | 425 | 0.4 on 0.04 off
+| Tono de abonado inaccesible - | … | anuncio
+| Tono de identificación de teléfono de previo pago - | 1633/1209 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono de aviso - | 425 | 0.4 on 15.0 off
+| Tono de espera - | 425 | 4x(0.2 on 0.2 off 0.2 on 3.6 off 0.2 on 0.2 off 0.2 on)
+
+h| Islas anglo-normandas: Guernsey | |
+| Tono de ocupado - | 400 | 0.375 on 0.375 off
+| Tono de congestión - | 400 | 0.40 on 0.35 off 0.25 on 0.52 off
+| Tono de invitación a marcar - | 350+450 | continuo
+| Tono especial de invitación a marcar - | 350+450 | 0.75 on 0.75 off
+| Tono de pago - | 400 | 0.125 on 0.125 off
+| Tono de llamada - | 400+450 | 0.4 on 0.2 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de indicación de llamada en espera - | 400 | 8x(0.1 on 4.9 off)
+
+h| Islas anglo-normandas: Jersey | |
+| Tono de ocupado - | 400 | 0.375 on 0.375 off
+| Tono de congestión - | 400 | 0.4 on 0.35 off 0.225 on 0.525 off
+| Tono de invitación a marcar - | 350+450 | continuo
+| Tono de abonado inaccesible - | 400 | continuo
+| Tono de pago - | 400 | 0.125 on 0.125 off
+| Tono de llamada - | 400+450 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono de espera - | 400 | 0.1 on 2.5 off 0.1 on
+
+h| Israel (Estado de) | |
+| Tono de ocupado - | 400 | 0.5 on 0.5 off
+| Tono de confirmación - I | 400 | 1x(0.17 on 0.14 off 0.34 on)
+| Tono de confirmación - II | 400 | 0.04 on 0.04 off
+| Tono de invitación a marcar - | 400 | continuo
+| Segundo tono de invitación a marcar - | 400 | 3x(0.1 on 0.1 off) + continuo
+| Tono de repetición de invitación a marcar - | 400 | 3x(0.1 on 0.1 off) + continuo
+| Tono especial de invitación a marcar - | 400 | 1.0 on 0.25 off
+| Tono de retención - | 400 | 0.05 on 2.0 off
+| Tono de abonado inaccesible - | 1000/1400/1800 | 3x0.333 on 1.0 off +anuncio
+| Tono de pago - | 16000 | 0.18 on
+| Tono de identificación de teléfono de previo pago - | 1209/852 | 5x(0.2 on 0.2 off 0.2 on 2.0 off)
+| Tono de llamada - | 400 | 1.0 on 3.0 off
+| Tono de búsqueda - móvil | 1004 | 0.01 on 1.0 off
+| Tono especial de información - | 1000/1400/1800 | 3x0.333 on 1.0 off + anuncio
+| Tono de espera - mensaje | 400 | 10x(0.16 on 0.16 off) + continuo
+| Tono de indicación de llamada en espera - | 400 | 1x(0.5 on 10.0 off 0.5 on)
+| Tono de indicación de llamada en espera para el llamante - | 400 | 2x(0.1 on 0.1 off) 0.6 on 3.0 off
+
+h| Italia | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.2 on 0.2 off
+| Tono de invitación a marcar - | 425 | 0.2 on 0.2 off 0.6 on 1.0 off
+| Tono especial de invitación a marcar - | 425 | continuo
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | … | anuncio
+| Tono de indicación de llamada en espera - (4) | 425 | 0.40 on 0.10 off 0.25 on 0.10 off 0.15 on
+
+h| Jamaica | |
+| Tono de ocupado - | 480+620 | 0.5 on 0.5 off
+| Tono de congestión - | 480+620 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 350+440 | continuo
+| Tono de llamada - | 440+480 | 2.0 on 4.0 off
+| Tono de indicación de llamada en espera - | 440 | 0.25 on 0.25 off
+
+h| Japón | |
+| Tono de ocupado - (3) | 400 | 0.5 on 0.5 off
+| Tono de invitación a marcar - I | 400 | continuo
+| Tono de invitación a marcar - II, pabx | 400 | 0.25 on 0.25 off
+| Tono de invitación a marcar - III | 400 | 0.125 on 0.125 off 0.125 on 0.125 off 0.125 on 0.125 off 0.125 on 0.125 off 0.75 on 0.25 off
+| Segundo tono de invitación a marcar - (3) | 400 | 0.125~0.15 on 0.1~0.125 off
+| Tono de pago - | 250 | 0.5 on
+| Tono de indicación positivo - I | 400 | 0.125 on 0.125 off 0.125 on 0.625 off
+| Tono de indicación positivo - II | 400 | 0.125 on 0.125 off 0.625 on 0.125 off
+| Tono de llamada - I | 400x(15~20) | 1.0 on 2.0 off
+| Tono de llamada - II, pabx | 400x20 | 1.0 on 2.0 off
+| Tono de indicación de llamada en espera - I | 400x16/400 | 0.5 on 0.0~4.0 off 0.05 on 0.45 off 0.05 on 3.45 off
+| Tono de indicación de llamada en espera - II | 400x16/400 | 0.1 on 0.1 off 0.1 on 3.0 off
+| Tono de indicación de llamada en espera - III | 400x16/400 | 0.064 on 0.436 off 0.064 on 3.436 off
+| Tono de indicación de llamada en espera - IV | 400x16/400 | 0.25 on 0.25 off 0.25 on 3.25 off
+| Tono de indicación de llamada en espera - V | 400x16/400 | 0.5 on 0.5 off 0.5 on 2.5 off
+| Tono de indicación de llamada en espera - VI | 400x16/400 | 0.5 on 0.0~4.0 off 0.05 on 0.45 off 0.05 on 0.45 off 0.05 on 0.45 off 0.05 on 2.45 off
+
+h| Jordania (Reino Hachemita de) | |
+| Tono de ocupado - | 420x40 | 0.5 on 0.5 off
+| Tono de congestión - | 420x40 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 420x40 | continuo
+| Tono de retención - | 420x40 | 0.5 on 8.0 off
+| Tono aullador - | 950 | continuo
+| Tono de intervención - | 420x40 | 0.2 on 0.2 off 0.2 on 1.3 off
+| Tono de abonado inaccesible - | 420x40 | 0.12 on 0.12 off
+| Tono de llamada - | 420x40 | 1.0 on 4.0 off
+| Tono especial de información - | (950/1400/1800)x40 | 1.0 on 1.0 off
+| Tono de indicación de llamada en espera - | 420x40 | 0.15 on 0.15 off
+
+h| Kenya (República de) | |
+| Tono de ocupado - | 425 | 0.2 on 0.6 off 0.2 on 0.6 off
+| Tono de congestión - | 425 | 0.2 on 0.6 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de pago - I | 941 | 0.2 on 0.2 off
+| Tono de pago - II | 800/1600 | 0.08 on 0.08 off
+| Tono de identificación de teléfono de previo pago - | 1633 | 0.08 on 1.5 off
+| Tono de llamada - | 425 | 0.67 on 3.0 off 1.5 on 5.0 off
+| Tono especial de información - | 900/1400/1800 | 3x0.75 on 1.25 off
+| Tono de aviso - intervención de la operadora | 425 | 0.2 on 0.2 off
+| Tono de indicación de llamada en espera - | 425 | continuo
+
+h| Kiribati (República de) | |
+| Tono de ocupado - | 425 | 0.375 on 0.375 off
+| Tono de congestión - | 425 | 0.375 on 0.375 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de abonado inaccesible - | 425 | 2.5 on 0.5 off
+| Tono de llamada - | 425 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.1 on 0.2 off 0.1 on 4.7 off
+
+h| Kuwait (Estado de) | |
+| Tono de aceptación - | 425 | continuo
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425 | continuo
+| Segundo tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - | 425 | 0.40 on 0.04 off
+| Tono de desbloqueo de la línea - | 425 | 0.32 on 0.32 off
+| Tono de rechazo - | 425 | 0.1 on 0.4 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono de encaminamiento - | 425 | 0.1 on 0.1 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.00 off
+| Tono de aviso - | 425 | 0.34 on 5.0 off
+| Tono de indicación de llamada en espera - | 425 | 1.0 on 4.0 off
+
+h| La ex República Yugoslava de Macedonia | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de confirmación - | 425 | continuo
+| Tono de congestión - | 425 | 0.2 on 0.2 off
+| Tono de invitación a marcar - | 425 | 0.2 on 0.3 off 0.7 on 0.8 off
+| Tono especial de invitación a marcar - | 425 | 0.4 on 0.04 off
+| Tono de intervención - | 425 | 0.2 on 0.3 off 0.7 on 0.8 off
+| Tono de pago - | 425 | 0.5 on 10.0~15.0 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono de encaminamiento - | 425 | 0.4 on 1.5 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.3 on 8.0~10.0 off
+
+h| Lao (República Democrática Popular) | |
+| Tono de ocupado - | 425 | 1.0 on 1.0 off
+| Tono de confirmación - | 950 | continuo
+| Tono de congestión - | 425 | 0.375 on 0.375 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - | 425 | 0.4 on 0.04 off
+| Tono de abonado inaccesible - | 425 | 2.5 on 0.5 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono de espera - | 425 | 0.4 on 0.4 off
+
+h| Lesotho (Reino de) | |
+| Tono de ocupado - I | 425 | 1.0 on 1.0 off
+| Tono de ocupado - II | 425 | 0.5 on 0.5 off
+| Tono de congestión - I | 425 | 0.5 on 0.5 off
+| Tono de congestión - II | 425 | 0.2 on 0.2 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de pago - | 16000 | 0.7 on 3.0 off
+| Tono de llamada - | 400/425 | 1.0 on 4.0 off
+| Tono especial de información - I | 425 | 0.16 on 2.0 off
+| Tono especial de información - II | 900/1400/1800 | 3x0.3 on 1.0 off
+| Tono de indicación de llamada en espera - I | 425 | 1.0 on 3.0 off
+| Tono de indicación de llamada en espera - II | 425 | 0.15 on 0.15 off
+
+h| Letonia (República de) | |
+| Tono de ocupado - | 425 | 0.3 on 0.3 off
+| Tono de confirmación - | 425 | 0.4 on 0.4 off
+| Tono de congestión - | 425 | 0.15 on 0.15 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1600 | 3x0.33 on 1.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.2 on 5.0 off
+
+h| Líbano | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.24 on 0.24 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 425 | 0.2 on 0.2 off
+| Tono de indicación de llamada en espera - | 425 | 0.2 on 0.6 off
+
+h| Liberia (República de) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de abonado inaccesible - | 425 | 0.6 on 0.2 off 3x(0.2 on 0.2 off)
+| Tono de llamada - | 425//450 | 1.0 on 4.0 off
+
+h| Liechtenstein (Principado de) | |
+| Tono de ocupado - I | 425 | 0.3 on 0.3 off
+| Tono de ocupado - II | 420 | 0.4 on 0.4 off
+| Tono de ocupado - III | 400 | 0.36 on 0.36 off
+| Tono de ocupado - IV | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425//420 | 0.2 on 0.2 off
+| Tono de invitación a marcar - | 420 | continuo
+| Tono de repetición de invitación a marcar - | 420 | continuo
+| Tono especial de invitación a marcar - | 380+420 | continuo
+| Tono de indicación negativo - | 380+420 | 0.4 on 0.4 off
+| Tono de abonado inaccesible - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de pago - I | 1336/1633 | 0.2 on 0.2 off 0.2 on 0.2 off
+| Tono de pago - II | 800 | 0.2 on 0.2 off
+| Tono de pago - III | 1200 | 0.2 on 2.0 off
+| Tono de indicación positivo - | 380+420 | 1.0 on 5.0 off
+| Tono de llamada - I | 425 | continuo
+| Tono de llamada - II | 420 | 1.0 on 5.0 off
+| Tono de llamada - III | 400//425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de aviso - | 420 | 0.15 on 0.15 off 0.15 on 1.95 off
+| Tono de indicación de llamada en espera - I | 425 | 0.15 on 8.0 off
+| Tono de indicación de llamada en espera - II | 420 | 0.04 on 1.95 off
+| Tono de indicación de llamada en espera - III | 425 | 0.2 on 0.2 off 0.2 on 4.0 off
+
+h| Lituania (República de) | |
+| Tono de ocupado - | 425 | 0.35 on 0.35 off
+| Tono de congestión - | 425 | 0.2 on 0.2 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de indicación de llamada en espera - I | 425 | 0.15 on 0.15 off 0.15 on 4.0 off
+| Tono de indicación de llamada en espera - II | 425 | 0.2 on 5.0 off
+
+h| Luxemburgo | |
+| Tono de ocupado - | 425//2125 | 0.48 on 0.48 off
+| Tono de congestión - | 425//2125 | 0.24 on 0.24 off
+| Tono de invitación a marcar - | 425//2125 | continuo
+| Tono especial de invitación a marcar - | 400//425 | continuo
+| Tono de llamada - | 425//2125 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de número de prueba - | 1000 | continuo
+| Tono de indicación de llamada en espera - | 425 | continuo
+
+h| Macao, China | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - | 425 | 1.8 on 0.2 off
+| Tono de identificación de teléfono de previo pago - | 1100+1750/750+1450 | 0.2 on 0.2 off 0.2 on 0.2 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.333 on 1.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.2 on 0.6 off
+
+h| Madagascar (República de) | |
+| Tono de ocupado - | 440//425 | 0.5 on 0.5 off
+| Tono de congestión - | … | anuncio
+| Tono de invitación a marcar - | 440//425 | continuo
+| Tono especial de invitación a marcar - | 330+440 | continuo
+| Tono de facilidades - | 950 | continuo
+| Tono de pago - | … | anuncio
+| Tono de llamada - | 440//425 | 1.7 on 3.3 off
+| Tono de encaminamiento - | 440//425 | 0.05 on 0.05 off
+| Tono especial de información - | 440 | 0.40 on 0.04 off
+| Tono de indicación de llamada en espera - | 440 | 0.1 on 1.9 off
+
+h| Malasia | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - I | 425 | 0.50 on 0.25 off
+| Tono de congestión - II | 425 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de llamada - I | 425 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono de llamada - II | 425 | 1.0 on 3.0 off 1.0 on 5.0 off
+
+h| Malawi | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de intervención - (4) | 1400 | 0.35 on 0.5 off
+| Tono de identificación de teléfono de previo pago - | 1100+1750/750+1450 | 2x(0.2 on 0.2 off)
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.3 on 1.0 off
+
+h| Maldivas (República de) | |
+| Tono de ocupado - | 400 | 0.5 on 0.5 off
+| Tono de congestión - | 400 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 400/50 | continuo
+| Tono de llamada - | 400 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono de indicación de llamada en espera - | 400 | 0.2 on 0.6 off 0.2 on 4.0 off
+
+h| Malí (República de) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | … | anuncio
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de pago - | … | anuncio
+| Tono de llamada - | 425 | 1.5 on 3.0 off
+| Tono de encaminamiento - | 425 | 0.05 on 0.05 off
+| Tono especial de información - | 900/1400/1800 | 0.35 on 0.30 on 0.35 on 1.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.3 on 10.0 off
+
+h| Malta | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 425 | 0.2 on 0.2 off 0.6 on 1.0 off
+| Tono especial de invitación a marcar - | 425 | 0.4 on 0.04 off
+| Tono de intercepción - | 950/1400/1800 | 3x0.24 on 1.0 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | … | anuncio
+| Tono de indicación de llamada en espera - | 1400 | 0.34 on 1.5 off
+
+h| Malvinas (Islas) (Falkland) | |
+| Tono de ocupado - | 400 | 0.375 on 0.375 off
+| Tono de congestión - | 400 | 0.4 on 0.35 off 0.255 on 0.525 off
+| Tono de invitación a marcar - | 350+450 | continuo
+| Tono de abonado inaccesible - | 400 | continuo
+| Tono de llamada - | 400+450 | 0.4 on 0.2 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de aviso - intervención de la operadora | 1000 | 0.1 on 0.1 off
+
+h| Marruecos (Reino de) | |
+| Tono de ocupado - I | 425 | 0.5 on 0.5 off
+| Tono de ocupado - II | 425 | 0.4 on 0.4 off
+| Tono de congestión - I | 425 | 0.5 on 0.5 off
+| Tono de congestión - II | 425 | 0.4 on 0.4 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de llamada - I | 425 | 1.7 on 3.3 off
+| Tono de llamada - II | 425 | 1.0 on 4.0 off
+| Tono de llamada - III | 425 | 2.0 on 2.0 off
+
+h| Martinica (Departamento francés de la) | |
+| Tono de ocupado - | 440 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 440 | continuo
+| Tono de llamada - | 440 | 1.5 on 3.5 off
+| Tono especial de información - | 950/1400/1800 | 3x(0.3 on 0.03 off) 1.0 off
+| Tono de indicación de llamada en espera - | 440 | 0.3 on 10.0 off
+
+h| Mauricio (República de) | |
+| Tono de ocupado - | 425 | 0.75 on 0.75 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - | 425 | 0.4 on 0.04 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono de encaminamiento - | 425 | 0.05 on 0.05 off
+| Tono de indicación de llamada en espera - | 425 | 1.0 on 3.0 off
+
+h| Mauritania (República Islámica de) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de llamada - | 425 | 1.5 on 3.5 off
+| Tono de encaminamiento - | 425 | 0.05 on 0.05 off
+
+h| Mayotte | |
+| Tono de ocupado - | 440 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 440 | continuo
+| Tono de llamada - | 440 | 1.5 on 3.5 off
+| Tono especial de información - | 950/1400/1800 | 3x(0.3 on 0.03 off) 1.0 off
+| Tono de indicación de llamada en espera - | 440 | 0.3 on 10.0 off
+
+h| México | |
+| Tono de ocupado - | 425 | 0.25 on 0.25 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono de aviso - intervención de la operadora | 425 | 0.5 on 0.17 off 0.17 on 0.17 off
+
+h| Moldova (República de) | |
+| Tono de ocupado - | 425 | 0.35 on 0.35 off
+| Tono de congestión - | 425 | 0.2 on 0.2 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de pago - | 1400 | 3x1.0 on 1.0 off
+| Tono de llamada - I | 425 | 0.8 on 3.2 off
+| Tono de llamada - II | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.00 off
+| Tono de indicación de llamada en espera - | 425 | 0.2 on 5.0 off
+
+h| Mónaco (Principado de) | |
+| Tono de ocupado - | 440 | 0.5 on 0.5 off
+| Tono de congestión - | … | anuncio
+| Tono de invitación a marcar - | 440 | continuo
+| Tono de llamada - | 440 | 1.7 on 3.3 off
+| Tono de indicación de llamada en espera - | 440 | 0.3 on 10.0 off
+
+h| Montserrat | |
+| Tono de ocupado - | 480+620 | 0.5 on 0.5 off
+| Tono de congestión - | 480+620 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 350+440 | continuo
+| Tono de repetición de invitación a marcar - | 350+440 | 3x(0.1 on 0.1 off) + continuo
+| Tono de abonado inaccesible - | 480+620 | 0.25 on 0.25 off
+| Tono de identificación de teléfono de previo pago - | 1600/1143 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tono de llamada - | 440+480 | 2.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de aviso - intervención de la operadora | 450 | 0.2 on 0.2 off 0.65 on 0.2 off
+| Tono de espera - | 440 | 1x(0.5 on 10.0 off 0.5 on)
+
+h| Mozambique (República de) | |
+| Tono de ocupado - | 400 | 0.5 on O.5 off
+| Tono de abonado inaccesible - | 400 | 0.2 on 0.2 off
+| Tono de llamada - | 400 | 1.0 on 5.0 off
+
+h| Myanmar (Unión de) | |
+| Tono de ocupado - | 450 | 0.25 on 0.25 off
+| Tono de congestión - | 480 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 400+450 | continuo
+| Tono de llamada - | 400 | 2.0 on 4.0 off
+| Tono de indicación de llamada en espera - | 400 | 0.3 on 10.0 off
+
+h| Namibia (República de) | |
+| Tono de ocupado - | 400 | 0.5 on 0.5 off
+| Tono de congestión - | 400 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 400x33 | continuo
+| Tono de llamada - | 400x33 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de indicación de llamada en espera - | 400x33 | continuo
+
+h| Nauru (República de) | |
+| Tono de ocupado - | 400 | 0.5 on 0.5 off
+| Tono de ocupado - pabx | 425 | 0.375 on 0.375 off
+| Tono de congestión - pabx | 425 | 0.375 on 0.375 off
+| Tono de invitación a marcar - | 400 | continuo
+| Tono de invitación a marcar - pabx | 33 | continuo
+| Tono de repetición de invitación a marcar - pabx | 33 | continuo
+| Tono de abonado inaccesible - | 400 | 0.75 on 0.25 off 0.25 on 0.25 off
+| Tono de llamada - | 400 | 1.0 on 4.0 off
+| Tono de llamada - pabx | 425x25 | 0.4 on 0.2 off 0.4 on 2.0 off
+
+h| Nepal (República Democrática Federal de) | |
+| Tono de ocupado - | 425 | 0.25 on 0.25 off
+| Tono de congestión - | 425 | 0.175 on 0.175 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de abonado inaccesible - | 425 | 0.25 on 0.5 off
+| Tono de llamada - | 425 | 1.1 on 3.1 off
+
+h| Níger (República del) | |
+| Tono de ocupado - | 440 | 0.5 on 0.5 off
+| Tono de congestión - | 440 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 440 | continuo
+| Segundo tono de invitación a marcar - | 330//440 | continuo
+| Tono de llamada - | 440 | 1.7 on 3.3 off
+| Tono de encaminamiento - | 440 | 0.05 on 0.05 off
+
+h| Nigeria (República Federal de) | |
+| Tono de ocupado - | 400 | 0.5 on 0.5 off
+| Tono de congestión - | 400 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 400//450 | continuo
+| Tono de repetición de invitación a marcar - | 400//425 | continuo
+| Tono especial de invitación a marcar - | 425 | 0.5 on 0.5 off
+| Tono de retención - | 950/950/1400 | 0.65 on 0.325 off 0.325 on 1.3 on 2.6 off
+| Tono de abonado inaccesible - | 450 | 0.5 on 0.5 off
+| Tono de llamada - | 400//450 | 2.0 on 4.0 off
+| Tono especial de información - | 400//33 | 0.2 on 1.5 off
+| Tono de aviso - intervención de la operadora | 400 | 0.15 on 0.25 off 0.15 on 1.45 off
+| Tono de indicación de llamada en espera - | 400 | 0.2 on 0.2 off
+
+h| Noruega | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de confirmación - (10) | 470/425 | continuo
+| Tono de congestión - | 425 | 0.2 on 0.2 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - (10) | 470/425 | continuo
+| Tono de intervención - | 1400 | 1x(2.0 on)
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de aviso - I | 1400 | 0.4 on 15.0 off
+| Tono de aviso - II | 1400 | 1x(0.4 on )
+| Tono de indicación de llamada en espera - | 425 | 0.2 on 0.6 off 0.2 on 10.0 off
+
+h| Nueva Caledonia (Territoire français d'outre-mer) | |
+| Tono de ocupado - | 440 | 0.5 on 0.5 off
+| Tono de congestión - | 950/1400/1800 | 2x[3x0.33 on + anuncio]
+| Tono de invitación a marcar - | 440//330+440 | continuo
+| Tono de llamada - | 440 | 1.7 on 3.3 off
+| Tono especial de información - | 950/1400/1800 | 2x[3x0.33 on + anuncio]
+| Tono de indicación de llamada en espera - | 440 | 4x(0.5 on 0.5 off 0.5 on)
+
+h| Nueva Zelandia | |
+| Tono de ocupado - | 400 | 0.5 on 0.5 off
+| Tono de congestión - | 400 | 0.25 on 0.25 off
+| Tono de invitación a marcar - I (3) | 400 | continuo
+| Tono de invitación a marcar - II (mensaje en espera) | 400 | 12x(0.1 on 0.1 off) + continuo
+| Tono de repetición de invitación a marcar - | 400 | 3x(0.1 on 0.1 off) + continuo
+| Tono de retención - | 400+450 | 0.5 on 0.5 off 0.5 on 2.5 off
+| Tono de abonado inaccesible - | 400 | 3x(0.75 on 0.1 off) 0.75 on 0.4 off
+| Tono de pago - | 1209/852 | 0.2 on 0.2 off
+| Tono de llamada - I | 400+450 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono de llamada - II (llamada en espera) | 400+450 | 0.4 on 0.2 off 0.4 on 0.2 off 0.4 on 1.2 off
+| Tono de indicación de llamada en espera - I | 400 | 3x(0.2 on 3.0 off) 0.2 on
+| Tono de indicación de llamada en espera - II | 400 | 3x(0.1 on 0.1 off 0.1 on 3.0 off)
+| Tono de indicación de llamada en espera - III | 400 | 3x(0.1 on 0.1 off 0.1 on 0.1 off 0.1 on 3.0 off)
+
+h| Omán (Sultanía de) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de intervención - | 425 | 0.5 on 0.17 off 0.17 on 0.17 off
+| Tono de llamada - | 425 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.3 on 1.0 off
+
+h| Países Bajos (Reino de los) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - | 425 | 0.5 on 0.05 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.333 on 1.0 off
+| Tono de espera - | 425 | 0.5 on 9.5 off
+
+h| Pakistán (República Islámica del) | |
+| Tono de ocupado - | 400 | 0.5 on 0.5 off
+| Tono de congestión - | 400 | 0.25 on 0.25 off
+| Tono de llamada - | 400 | 1.0 on 2.0 off
+
+h| Panamá (República de) | |
+| Tono de ocupado - | 425 | 0.32 on 0.32 off
+| Tono de congestión - | 425 | 0.32 on 0.32 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de abonado inaccesible - | 425 | 0.18 on 0.18 off 0.5 on 0.18 off
+| Tono de llamada - | 425 | 1.2 on 4.65 off
+| Tono especial de información - | 425 | 0.4 on 0.4 off
+| Tono de aviso - intervención de la operadora | 425 | 0.18 on 0.18 off 0.5 on 0.18 off
+| Tono de indicación de llamada en espera - | 425 | 0.18 on 0.18 off 0.18 on
+
+h| Papua Nueva Guinea | |
+| Tono de ocupado - | 425//400 | 0.375 on 0.375 off
+| Tono de congestión - | 425//400 | 0.375 on 0.375 off
+| Tono de invitación a marcar - | 425//400x25//350+440 | continuo
+| Tono especial de invitación a marcar - | 425 | 0.4 on 0.04 off
+| Tono de abonado inaccesible - | 425//400 | 2.5 on 0.5 off
+| Tono de identificación de teléfono de previo pago - I | 1209/852 | 4x(0.2 on 0.2 off 0.2 on 2.0 off)
+| Tono de identificación de teléfono de previo pago - II | 1336/941 | 2x(0.2 on 0.2 off 0.2 on 2.0 off)
+| Tono de identificación de teléfono de previo pago - III | 900 | 2x(0.075 on 0.15 off 0.075 on 2.7 off)
+| Tono de llamada - | 425//400x25//400x16 2/3//400+450//410x20 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.01 off
+| Tono de aviso - intervención de la operadora | 1400 | 0.5 on 11.5 off
+| Tono de espera - | 425 | 0.04 on 10.0 off 0.04 on 20.0 off 0.04 on 20.0 off
+
+h| Paraguay (República del) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de intervención - | 425 | 0.15 on 0.25 off 0.15 on 1.45 off
+| Tono de abonado inaccesible - | 425 | 2.0 on 0.25 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.333 on 1.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.3 on 10.0 off
+| Tono de indicación de llamada en espera para el llamante -| 950/950/1400 | 0.65 on 0.325 off 0.325 on 1.3 off 2.6 on
+
+h| Perú | |
+| Tono de aceptación - | … | anuncio
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.2 on 0.2 off 0.2 on 0.2 off 0.2 on 0.6 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - | 425 | 1.0 on 0.1 off
+| Tono aullador - | 1500+3200 | 0.5 on
+| Tono de abonado inaccesible - | … | anuncio
+| Tono de rechazo - | … | anuncio
+| Tono de llamada - | 425 | 0.15 on 0.30 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.175 on 0.175 off 0.175 on 3.5 off
+
+h| Polinesia francesa (Territoire français d'outre-mer) | |
+| Tono de aceptación - | 440 | 1.7 on 3.3 off
+| Tono de ocupado - | 440 | 0.5 on 0.5 off
+| Tono de congestión - | 440 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 440 | continuo
+| Segundo tono de invitación a marcar - | 440+330 | continuo
+| Tono aullador - | 3000 | continuo
+| Tono de pago - | 440 | continuo
+| Tono de llamada - | 440 | 1.7 on 3.3 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de indicación de llamada en espera - | 440 | 1.7 on 3.3 off
+
+h| Polonia (República de) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 425 | continuo
+| Segundo tono de invitación a marcar - | 425+350 | continuo
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono de encaminamiento - | 425 | 0.05 on 0.05 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de espera - | 425 | 0.15 on 0.15 off 0.15 on 4.0 off
+
+h| Portugal | |
+| Tono de aceptación - I | 425 | 1.0 on 0.2 off
+| Tono de aceptación - II | 425 | 1.0 on 1.0 off 1.0 on 5.0 off
+| Tono de ocupado - I | 425 | 0.5 on 0.5 off
+| Tono de ocupado - II (móvil) | 400 | 0.36 on 0.36 off
+| Tono de congestión - | 425 | 0.2 on 0.2 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - (móvil) | 425 | 1.0 on 0.2 off
+| Tono de retención - | 425 | 1.5 on 5.12 off
+| Tono de intervención - | 425 | 3x(0.2 on 1.4 off)
+| Tono de rechazo - I | 450/1400/1800 | 3x0.33 on 1.0 off
+| Tono de rechazo - II | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de llamada - I | 425 | 1.0 on 5.0 off
+| Tono de llamada - II (móvil a dos partita ) | 440 | 1.0 on 4.0 off
+| Tono de llamada - III (móvil a tripartita) | 425 | 1.5 on 3.5 off
+| Tono de llamada - IV | 425 | 1.0 on 1.0 off 1.0 on 5.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de indicación de llamada en espera - I | 425 | 0.2 on 0.2 off 0.2 on 5.0 off
+| Tono de indicación de llamada en espera - II | 425 | 0.2 on 0.6 off 0.2 on 3.0 off
+| Tono de indicación de llamada en espera - III | 425 | 0.2 on 0.2 off 0.2 on 10.0 off
+| Tono de indicación de llamada en espera - IV | 425 | 0.2 on 0.6 off 0.2 on 0.6 off
+| Tono de indicación de llamada en espera - V | 425 | 0.2 on 1.0 off 0.2 on 3.0 off
+| Tono de indicación de llamada en espera - VI | 425 | 1.0 on 1.0 off 1.0 on 5.0 off
+
+h| Puerto Rico | |
+| Tono de identificación de teléfono de previo pago - | 1100+1750/750+1450 | 0.2 on 0.2 off 0.2 on 2.0 off
+
+h| Qatar (Estado de) | |
+| Tono de aceptación - | 400+450 | 0.38 on 0.25 off 0.38 on 2.00 off
+| Tono de ocupado - I | 400+450 | 0.8 on 0.8 off
+| Tono de ocupado - II | 400 | 0.375 on 0.375 off
+| Tono de ocupado - III | 400 | 0.5 on 0.5 off
+| Tono de congestión - | 400 | 0.40 on 0.35 off 0.22 on 0.52 off
+| Tono de invitación a marcar - | 350+440 | continuo
+| Tono de desbloqueo de la línea - | 400 | 0.32 on 0.32 off
+| Tono de abonado inaccesible - | 400 | continuo
+| Tono de rechazo - | 400 | continuo
+| Tono de llamada - I | 400+450 | 0.38 on 0.25 off 0.38 on 2.0 off
+| Tono de llamada - II | 400+450 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono especial de información - | 330+440 | 1.0 on 1.0 off
+| Tono de indicación de llamada en espera - | 400 | 0.3 on 10.0 off
+
+h| Reino Unido de Gran Bretaña e Irlanda del Norte | |
+| Tono de ocupado - | 400 | 0.375 on 0.375 off
+| Tono de congestión - | 400 | 0.4 on 0.35 off 0.225 on 0.525 off
+| Tono de invitación a marcar - | 50//350+440 | continuo
+| Tono de abonado inaccesible - | 400 | continuo
+| Tono de pago - | 400 | 0.125 on 0.125 off
+| Tono de identificación de teléfono de previo pago - | 1200/800 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tono de llamada - | 400+450//400x25//400x16 2/3 | 0.4 on 0.2 off 0.4 on 2.0 off
+
+h| República Árabe Siria | |
+| Tono de ocupado - | 450 | 0.5 on 0.5 off
+| Tono de congestión - | 450 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 450 | continuo
+| Tono de llamada - | 400//450 | 1.0 on 0.5 off
+| Tono especial de información - | 950/1400/1800 | (3x0.33 on 2x0.03 off) 1.0 off
+| Tono de indicación de llamada en espera - | 450 | 0.1 on 0.2 off 0.1 on 9.5 off
+
+h| República Checa | |
+| Tono de ocupado - | 425 | 0.33 on 0.33 off
+| Tono de congestión - | 425 | 0.165 on 0.165 off
+| Tono de invitación a marcar - | 425 | 0.33 on 0.33 off 0.66 on 0.66 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | (3x0.33 on 2x0.03 off) 1.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.33 on 9.0 off
+| Tono de indicación de llamada en espera para el llamante - | 425 | 1.00 on 0.17 off 0.33 on 3.50 off
+
+h| República Democrática del Congo | |
+| Tono de ocupado - | 450 | 0.5 on 0.5 off
+| Tono de congestión - | 450 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 450 | continuo
+| Tono de llamada - | 450 | 2.0 on 4.0 off
+
+h| República Eslovaca | |
+| Tono de ocupado - | 425 | 0.33 on 0.33 off
+| Tono de congestión - | 425 | 0.165 on 0.165 off
+| Tono de conferencia - | 425 | 0.66 on
+| Tono de invitación a marcar - I | 425 | 0.33 on 0.33 off 0.66 on 0.66 off
+| Tono de invitación a marcar - II (pabx) | 425 | continuo
+| Tono especial de invitación a marcar - | 425 | 3x(0.165 on 0.165 off) 0.660 on 0.660 off
+| Tono de oferta, interurbano - | 425 | 0.33 on 0.33 off 0.33 on 1.50 off
+| Tono de pago - I (tarjetas) | 622 | 0.125 on 0.125 off
+| Tono de pago - II (monedas) | 941 | 0.2 on 0.2 off 0.2 on 3.6 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | (3x0.33 on 2x0.03 off) 1.00 off
+| Tono de indicación de llamada en espera - | 425 | 0.33 on 9.0 off
+| Tono de indicación de llamada en espera para el llamante - | 425 | 1.00 on 0.17 off 0.33 on 3.50 off
+
+h| República Kirguisa | |
+| Tono de ocupado - | 425 | 0.4 on 0.4 off
+| Tono de congestión - | 425 | 0.2 on 0.2 off
+| Tono de invitación a marcar - | 425 | continuo
+| Segundo tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - | 425 | 1.0 on 0.2 off
+| Tono aullador - | 1000 | continuo
+| Tono de indicación negativo - | 425 | 1x(0.2 on 0.2 off 0.2 on 0.2 off 0.2 on)
+| Tono de abonado inaccesible - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de indicación positivo - | 425 | 1x(0.2 on)
+| Tono de llamada - | 425 | 0.8 on 3.2 off
+| Tono de encaminamiento - | 50 | 0.1 on 1.5 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de aviso – mensaje vocal | 425 | 1x(0.2 on 0.6 off 0.2 on 0.6 off 0.2 on)
+| Tono de indicación de llamada en espera - | 425 | 1x(0.2 on 0.6 off 0.2 on 3.0 off 0.2 on 0.6 off 0.2 on)
+| Tono de indicación de llamada en espera para el llamante - | 425 | 0.2 on 5.0 off
+
+h| Rumania | |
+| Tono de ocupado - I (analogía) | 450 | 0.15 on 0.18 off
+| Tono de ocupado - II (digital) | 450 | 0.17 on 0.17 off
+| Tono de invitación a marcar - | 450 | continuo
+| Tono de abonado inaccesible - I (analogía) | 450 | 6x(0.11 on 0.092 off) 0.362 on 0.11 off
+| Tono de abonado inaccesible - II (digital) | 450 | 3x(0.092 on 0.11 off) 0.362 on 0.11 off
+| Tono de llamada - I | 450x25 | 1.85 on 4.15 off
+| Tono de llamada - II | 450 | 1.5 on 4.5 off
+
+h| Rusia (Federación de) | |
+| Tono de ocupado - | 425 | 0.4 on 0.4 off
+| Tono de llamada - | 425 | 0.8 on 3.2 off
+| Tono de espera - | 950/1400/1800 | 3x0.333 on 1.0 off
+
+h| Rwanda (República de) | |
+| Tono de ocupado - | 440 | 0.5 on 0.5 off
+| Tono de congestión - | … | anuncio
+| Tono de invitación a marcar - | 440 | continuo
+| Segundo tono de invitación a marcar - | 340 | continuo
+| Tono de pago - | 12000 | 0.125 on
+| Tono de llamada - | 440 | 1.7 on 3.3 off
+| Tono de encaminamiento - | 440 | 0.05 on 0.05 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+
+h| Salomón (Islas) | |
+| Tono de ocupado - | 400 | 0.5 on 0.5 off
+| Tono de congestión - | 400 | 0.1 on 0.1 off
+| Tono de invitación a marcar - | 400 | continuo
+| Tono de abonado inaccesible - | 400 | 0.075 on 0.1 off
+| Tono de pago - | 852 | 0.2 on 2.0 off
+| Tono de llamada - | 400+450 | 0.4 on 0.2 off
+| Tono de espera - | 400+450/400 | 0.5 on 0.5 off
+
+h| Samoa (Estado Independiente de) | |
+| Tono de ocupado - | 425x25 | 0.375 on 0.375 off
+| Tono de congestión - | 425x25 | 0.375 on 0.375 off
+| Tono de invitación a marcar - | 425x25 | continuo
+| Tono de desbloqueo de la línea - | 425x25 | 0.5 on 0.5 off
+| Tono de llamada - | 425x25 | 0.4 on 0.2 off
+
+h| San Kitts y Nevis | |
+| Tono de ocupado - | 480+620 | 0.5 on 0.5 off
+| Tono de congestión - | 480+620 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 350+440 | continuo
+| Tono de repetición de invitación a marcar - | 350+440 | 3x(0.1 on 0.1 off) + continuo
+| Tono de abonado inaccesible - | 480+620 | 0.25 on 0.25 off
+| Tono de identificación de teléfono de previo pago - | 1600/1143 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tono de llamada - | 440+480 | 2.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de aviso - intervención de la operadora | 450 | 0.2 on 0.2 off 0.65 on 0.2 off
+| Tono de espera - | 440 | 1x(0.5 on 10.0 off 0.5 on)
+
+h| San Marino (República de) | |
+| Tono de ocupado - | 425 | 0.2 on 0.2 off
+| Tono de invitación a marcar - | 425 | 0.6 on 1.0 off 0.2 on 0.2 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+
+h| San Pedro y Miquelón (Collectivité territoriale de la République française)  | |
+| Tono de ocupado - | 440 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 440 | continuo
+| Tono de llamada - | 440 | 1.5 on 3.5 off
+| Tono especial de información - | 950/1400/1800 | 3x(0.3 on 0.03 off) 1.0 off
+| Tono de indicación de llamada en espera - | 440 | 0.3 on 10.0 off
+
+h| San Vicente y las Granadinas | |
+| Tono de ocupado - | 400 | 0.375 on 0.375 off
+| Tono de congestión - | 400 | 0.40 on 0.35 off 0.225 on 0.525 off
+| Tono de invitación a marcar - I | 350+450 | continuo
+| Tono de invitación a marcar - II | 350+450 | 0.75 on 0.75 off
+| Tono de pago - | 400 | 0.125 on 0.125 off
+| Tono de llamada - | 400+450 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono especial de información - | 950/1400/1800 | 3x(0.33 on 1.0 off)
+| Tono de indicación de llamada en espera - (9) | 400 | 0.1 on
+
+h| Santa Elena | |
+| Tono de ocupado - | 400 | 0.375 on 0.375 off
+| Tono de congestión - | 400 | 0.4 on 0.35 off
+| Tono de invitación a marcar - | 350+400 | continuo
+| Tono de abonado inaccesible - | 400 | continuo
+| Tono de pago - | 400 | 0.125 on 0.125 off
+| Tono de llamada - | 400+450 | 0.4 on 0.2 off
+
+h| Santa Lucía | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - | 425+330 | continuo
+| Tono de pago - | 622 | 0.136 on 0.136 off
+| Tono de llamada - | 425 | 0.375 on 0.25 off 0.375 on 2.0 off
+| Tono de encaminamiento - | 425 | 0.05 on 0.05 off
+| Tono de aviso - | 425 | 0.1 on 4.9 off
+| Tono de indicación de llamada en espera - | 425 | 0.2 on 0.2 off 0.2 on 4.0 off
+
+h| Santo Tomé y Príncipe (República Democrática de) | |
+| Tono de ocupado - | 400 | 0.5 on 0.5 off
+| Tono de congestión - | 400 | 0.2 on 0.2 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de pago - | 12000 | continuo
+| Tono de llamada - | 400 | 1.0 on 5.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.2 on 1.0 off
+
+h| Senegal (República del) | |
+| Tono de ocupado - | 440 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 440 | continuo
+| Tono de llamada - | 400 | 1.7 on 3.3 off
+| Tono especial de información - | 900/1380/1860 | 0.35 on 0.30 on 0.35 on
+
+h| Serbia (República de) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de ocupado - II | 425 | 0.2 on 0.4 off
+| Tono de invitación a marcar - | 425 | 0.7 on 0.8 off 0.2 on 0.3 off
+| Tono de llamada - I | 450x25 | 1.0 on 9.0 off
+| Tono de llamada - II | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.333 on 1.0 off
+
+h| Seychelles (República de) | |
+| Tono de ocupado - | 425 | 0.375 on 0.375 off
+| Tono de congestión - | 425 | 0.4 on 0.2 off 0.225 on 0.525 off
+| Tono de invitación a marcar - | 440+350 | continuo
+| Tono especial de invitación a marcar - | 425 | 1.0 on 0.1 off
+| Tono de facilidades - | 425 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono aullador - | 3000 | continuo
+| Tono de abonado inaccesible - | 425 | continuo
+| Tono de llamada - | 425 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono de encaminamiento - | 425 | 0.5 on 0.5 off
+
+h| Sierra Leona | |
+| Tono de ocupado - | 425//450 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.2 on 0.2 off
+| Tono de invitación a marcar - | 425//450 | continuo
+| Tono de abonado inaccesible - | 950//450/150 | 0.33 on 0.03 off
+| Tono de llamada - | 425//450 | 1.0 on 4.0 off
+| Tono de espera - | 425 | 1x(1.0 on)
+
+h| Singapur (República de) | |
+| Tono de aceptación - | 425 | 0.125 on 0.125 off
+| Tono de ocupado - | 425 | 0.75 on 0.75 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425 | continuo
+| Segundo tono de invitación a marcar - | 425 | 4x(0.2 on 0.2 off 0.6 on 0.2 off) + continuo
+| Tono de retención - | 425x24//425 | 0.5 on 0.5 off // 0.5 on 2.5 off
+| Tono de intervención - | 425 | 0.25 on 2.0 off
+| Tono de abonado inaccesible - | 425 | 2.5 on 0.5 off
+| Tono de llamada - | 425x24 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono de aviso - | 425 | 0.624 on 4.376 off
+| Tono de indicación de llamada en espera - | 425 | 0.3 on 0.2 off 0.3 on 3.2 off
+
+h| Sri Lanka (República Socialista Democrática de) | |
+| Tono de ocupado - | 425 | 0.75 on 0.75 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de retención - | 425 | 0.5 on 2.5 off
+| Tono de intervención - | 425 | 0.5 on 0.75 off
+| Tono de abonado inaccesible - | 425+330 | continuo
+| Tono de llamada - | 425 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono de encaminamiento - | 425 | 0.05 on 0.05 off
+| Tono especial de información - | 950/1400/1800 | (3x0.33 on 2x 0.03 off)
+| Tono de aviso - | 425 | 0.5 on 4.5 off
+| Tono de indicación de llamada en espera - | 425 | 0.5 on 2.5 off
+
+h| Sudafricana (República) | |
+| Tono de ocupado - | 400 | 0.5 on 0.5 off
+| Tono de paciencia - | 950/950/1400 | 0.65 on 0.325 off 0.325 on 1.3 on 2.6 off
+| Tono de congestión - | 400 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 400x33 | continuo
+| Tono especial de invitación a marcar - | 400x33 | 0.25 on 0.25 off + continuo
+| Tono de identificación de función - | 700/1100 | 0.25 on 0.25 off 0.25 on 0.25 off
+| Tono de intervención - | 400 | 0.15 on 0.25 off 0.15 on 1.45 off
+| Tono de notificación - | 900 | 0.2 on 0.2 off 0.2 on 0.2 off
+| Tono de abonado inaccesible - | 400 | 2.5 on 0.5 off
+| Tono de llamada - | 400x33 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de indicación de llamada en espera - | 400x33 | 0.4 on 4.0 off
+
+h| Sudán (República del) | |
+| Tono de ocupado - | 425 | 1.0 on 1.0 off
+| Tono de congestión - | 425 | 0.375 on 0.375 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.15 on 0.15 off 0.15 on 4.0 off
+
+h| Suecia | |
+| Tono de ocupado - I | 425 | 0.25 on 0.25 off
+| Tono de ocupado - II (1) | 425 | 0.5 on 0.5 off
+| Tono de congestión - I | 425 | 0.25 on 0.75 off
+| Tono de congestión - II (1) | 425 | 0.2 on 0.2 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - | 425 | 0.32 on 0.02 off
+| Tono de pago - | 941 | 2x(0.2 on 0.2 off 0.2 on 3.6 off)
+| Tono de identificación de teléfono de previo pago - | 1477/941 | 11x(0.2 on 0.2 off 0.2 on 2.0 off)
+| Tono de llamada - I | 425 | 1.0 on 5.0 off
+| Tono de llamada - II (1) | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off + anuncio
+| Tono de aviso - ante prohibición de tiempo limite | 425 | 2.0 on 5.0 off + continuo
+| Tono de aviso - intervención de la operadora | 1400 | 0.1 on 1.5 off
+| Tono de aviso - conferencia tripartita | 1400 | 0.35 on 15.0 off
+| Tono de indicación de llamada en espera - I | 425 | 1x(0.2 on 0.5 off 0.2 on)
+| Tono de indicación de llamada en espera - II (1) | 425 | 0.2 on 0.6 off 0.2 on 3.0 off 0.2 on 0.6 off 0.2 on
+
+h| Suiza (Confederación) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.2 on 0.2 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - I | 425+340 | 1.1 on 1.1 off
+| Tono especial de invitación a marcar - II | 425 | 0.5 on 0.05 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.333 on 1.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.2 on 0.2 off 0.2 on 4.0 off
+
+h| Suriname (República de) | |
+| Tono de ocupado - | 425 | 0.25 on 0.25 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de llamada - | 425 | 1.0 on 1.0 off
+
+h| Swazilandia (Reino de) | |
+| Tono de ocupado - I | 400 | 0.5 on 0.5 off
+| Tono de ocupado - II | 400 | 0.4 on 0.4 off
+| Tono de invitación a marcar - | 50 | continuo
+| Tono de abonado inaccesible - | 400 | 4.8 on 0.2 off
+| Tono de pago - | 900 | 0.25 on 0.25 off
+| Tono de identificación de teléfono de previo pago - I | 1430/943 | 2.0 on 2.0 off
+| Tono de identificación de teléfono de previo pago - II | 1100+1750/750+1450 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tono de llamada - | 400 | 0.4 on 0.2 off 0.4 on 4.0 off
+
+h| Tailandia | |
+| Tono de ocupado - | 400 | 0.5 on 0.5 off
+| Tono de congestión - | 400 | 0.3 on 0.3 off
+| Tono de invitación a marcar - | 400x50 | continuo
+| Tono especial de invitación a marcar - | 400x50 | 0.4 on 0.1 off 0.4 on 0.1 off + continuo
+| Tono de abonado inaccesible - | 400 | 0.1 on 0.1 off 0.1 on 0.1 off 0.1 on 0.1 off 0.3 on
+| Tono de oferta, interurbano - | 400 | 0.17 on 0.17 off 0.15 on 0.17 off
+| Tono de llamada - | 400 | 1.0 on 4.0 off
+| Tono especial de información - | … | anuncio
+| Tono de indicación de llamada en espera - | 400 | 1.0 on 10.0 off 1.0 on
+
+h| Tanzanía (República Unida de) | |
+| Tono de aceptación - | 425 | continuo
+| Tono de ocupado - I | 425 | 1.0 on 1.0 off
+| Tono de ocupado - II | 400 | 0.5 on 0.5 off
+| Tono de congestión - I | 425 | 0.375 on 0.375 off
+| Tono de congestión - II | 400 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425//400 | continuo
+| Tono de intervención - | 425 | 0.05 on 0.20 off
+| Tono de pago - | 1100+1750//750+1450 | 0.2 on 0.2 off
+| Tono de rechazo - | 425 | 1.0 on 1.0 off
+| Tono de llamada - I | 425 | 1.0 on 4.0 off
+| Tono de llamada - II | 400 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono especial de información - I | 950/1400/1800 | 0.375 on 0.03 off 0.375 on 0.03 off 0.375 on
+| Tono especial de información - II | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de número de prueba - | 2010 | continuo
+| Tono de indicación de llamada en espera - I | 425 | 0.05 on 0.20 off
+| Tono de indicación de llamada en espera - II | 400 | 0.4 on 0.2 off
+
+h| Tayikistán (República de) | |
+| Tono de ocupado - | 425 | 0.4 on 0.4 off
+| Tono de congestión - | 425 | 0.4 on 0.4 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de llamada - | 25 | 0.8 on 3.2 off
+
+h| Tokelau | |
+| Tono de ocupado - | 400 | 0.5 on 0.5 off
+| Tono de congestión - | 400 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 400 | continuo
+| Tono de llamada - | 400+450 | 0.4 on 0.2 off
+| Tono especial de información - | 400 | 3x(0.075 on 0.1 off)
+
+h| Trinidad y Tobago | |
+| Tono de ocupado - | 480+620 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 350+440 | continuo
+| Tono de llamada - | 440+480 | 2.0 on 4.0 off
+| Tono de re-llamada - I | 480+620 | 0.3 on 0.2 off
+| Tono de re-llamada - II (8) | 480+620 | 0.2 on 0.3 off
+| Tono de espera - | 440 | 0.3 on 10.0 off
+
+h| Túnez | |
+| Tono de ocupado - | 425 | 0.25 on 0.25 off
+| Tono de congestión - | 425 | 0.167 on 0.167 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de pago - | 12000 | 0.125 on
+| Tono de llamada - | 425 | 1.20 on 4.65 off
+| Tono especial de información - | 900/1400/1800 | (3x0.33 on 2x0.03 off) 1.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.2 on 0.6 off
+
+h| Turkmenistán | |
+| Tono de ocupado - | 425 | 0.4 on 0.4 off
+| Tono de congestión - | 425 | 0.4 on 0.4 off
+| Tono de invitación a marcar - | 425 | continuo
+| Segundo tono de invitación a marcar - | 425 | continuo
+| Tono de abonado inaccesible - | 425 | 0.8 on 4.0 off
+| Tono de llamada - | 25 | 0.4 on 4.0 off
+| Tono de encaminamiento - | 25 | 0.4 on 0.4 off
+
+h| Turquesas y Caicos (Islas) | |
+| Tono de ocupado - | 480+620 | 0.5 on 0.5 off
+| Tono de congestión - | 480+620 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 350+440 | continuo
+| Tono de repetición de invitación a marcar - | 350+440 | 3x(0.1 on 0.1 off) + continuo
+| Tono de abonado inaccesible - | 480+620 | 0.25 on 0.25 off
+| Tono de identificación de teléfono de previo pago - | 1600/1143 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tono de llamada - | 440+480 | 2.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de aviso - intervención de la operadora | 450 | 0.2 on 0.2 off 0.65 on 0.2 off
+| Tono de espera - | 440 | 1x(0.5 on 10.0 off 0.5 on)
+
+h| Turquía | |
+| Tono de ocupado - | 450 | 0.5 on 0.5 off
+| Tono de confirmación - | 450 | 0.04 on 0.04 off
+| Tono de congestión - | 450 | 3x(0.2 on 0.2 off) 0.6 on 0.2 off
+| Tono de invitación a marcar - | 450 | continuo
+| Tono especial de invitación a marcar - | 450 | 1.0 on 0.25 off
+| Tono aullador - | 1400/2060/2460/2600 | 0.1 on 0.1 off
+| Tono de abonado inaccesible - | 450 | 0.2 on 0.2 off
+| Tono de llamada - | 450 | 2.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.3 on 1.0 off
+| Tono de aviso - intervención de la operadora | 450 | 0.2 on 0.2 off 0.6 on 0.2 off
+| Tono de espera - I | 350+450 | 0.5 on 0.5 off
+| Tono de espera - II | 450 | 0.5 on 2.5 off
+| Tono de indicación de llamada en espera - | 450 | 0.2 on 0.6 off 0.2 on 8.0 off
+
+h| Tuvalu | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 2.5 on (every 10.0 sec.)
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de llamada - | 425 | 1.0 on 0.5 off 1.0 on 10.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.3 on (every 10.0 sec.)
+
+h| Uganda (República de) | |
+| Tono de ocupado - I | 425 | 0.5 on 0.5 off
+| Tono de ocupado - II | 400 | 0.4 on 0.2 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - | 900/1400/1800 | 3x0.33 on 1.0 off
+| Tono aullador - | 1400 | continuo
+| Tono de abonado inaccesible - | 900/1400/1800 | 3x0.33 on 1.00 off
+| Tono de oferta, interurbano - | 425 | 0.1 on 4.9 off
+| Tono de llamada - I | 425 | 1.0 on 4.0 off
+| Tono de llamada - II | 425//440 | 0.4 on 0.2 off 0.4 on 2.0 off
+| Tono de llamada - III | 450 | 0.4 on 0.2 off
+| Tono de encaminamiento - | 425//440 | 0.5 on 0.5 off
+| Tono de indicación de llamada en espera - I | 425 | 0.15 on 0.15 off 0.15 on 8.0 off
+| Tono de indicación de llamada en espera - II | 450//440 | 0.5 on 0.5 off + continuo
+
+h| Uruguay (República Oriental del) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - I | 425 | continuo
+| Tono de invitación a marcar - II | 450 | 0.7 on 0.8 off 0.2 on 0.3 off
+| Tono de indicación negativo - | 425 | 0.5 on 0.5 off
+| Tono de indicación positivo - | 425 | 2x(0.1 on 0.2 off) 0.1 on 1.3 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.333 on 1.0 off
+| Tono de aviso - intervención de la operadora | 425 | 0.15 on 0.25 off 0.15 on 1.45 off
+| Tono de espera - | 425 | 0.2 on 0.2 off 0.2 on 4.4 off
+
+h| Vanuatu (República de) | |
+| Tono de aceptación - | 950 | continuo
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono especial de invitación a marcar - | 425 | 0.4 on 0.04 off
+| Tono aullador - | 3000 | continuo
+| Tono de oferta, interurbano - | 425 | 0.3 on 10.0 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono de encaminamiento - | 425 | 0.05 on 0.05 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 2x0.03 off 1.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.3 on 10.0 off
+
+h| Venezuela (República Bolivariana de) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de confirmación - | 425 | 0.1 on 0.1 off 0.3 on 0.1 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono aullador - | 1440 | 0.5 on 0.5 off
+| Tono de pago - | 800 | 1.0 on 15.0 off
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1440/1800 | 3x0.33 on 1.0 off
+| Tono de indicación de llamada en espera - | 400/450 | 0.3 on 6.0 off
+| Tono de indicación de llamada en espera para el llamante - | 425 | 1.0 on 4.0 off
+
+h| Vírgenes británicas (Islas) | |
+| Tono de ocupado - | 480+620 | 0.5 on 0.5 off
+| Tono de congestión - | 480+620 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 350+440 | continuo
+| Tono de repetición de invitación a marcar - | 350+440 | 3x(0.1 on 0.1 off) + continuo
+| Tono de abonado inaccesible - | 480+620 | 0.25 on 0.25 off
+| Tono de identificación de teléfono de previo pago - | 1600/1143 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tono de llamada - | 440+480 | 2.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de aviso - intervención de la operadora | 450 | 0.2 on 0.2 off 0.65 on 0.2 off
+| Tono de indicación de llamada en espera - | 440 | 1x(0.5 on 10.0 off 0.5 on)
+
+h| Wallis y Futuna (Territoire français d'outre-mer) | |
+| Tono de ocupado - | 440 | 0.5 on 0.5 off
+| Tono de invitación a marcar - | 440//330 | continuo
+| Tono de pago - | 12000 | 0.1 on
+| Tono de llamada - | 440 | 1.5 on 3.5 off
+| Tono de encaminamiento - | 440 | 0.05 on 0.05 off
+| Tono especial de información - | 950/1400/1800 | (3x0.3 on 2x0.03 off) 1.0 off
+
+h| Yemen (República del) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 102 | continuo
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+
+h| Zambia (República de) | |
+| Tono de ocupado - | 425 | 0.5 on 0.5 off
+| Tono de congestión - | 425 | 0.25 on 0.25 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de pago - | 800 | 2.0 on
+| Tono de identificación de teléfono de previo pago - | 1600 | 0.1 on
+| Tono de llamada - | 425 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.333 on 1.0 off
+| Tono de indicación de llamada en espera - | 425 | 0.1 on 4.9 off
+
+h| Zimbabwe (República de) | |
+| Tono de ocupado - | 400 | 0.375 on 0.375 off
+| Tono de congestión - | 425 | 0.167 on 0.167 off
+| Tono de invitación a marcar - | 425 | continuo
+| Tono de pago - | 1500+1000 | 0.2 on 0.2 off 0.2 on 2.0 off
+| Tono de llamada - | 450 | 1.0 on 4.0 off
+| Tono especial de información - | 950/1400/1800 | 3x0.33 on 1.0 off
+| Tono de indicación de llamada en espera - | 523//659 | 1.5 on 1.5 off
+
+|===
+
+1 Para PLMN/GSM.
+
+2 Este tono se utiliza en el servicio suplementario de «Llamada en espera»; la duración es de 30 segundos.
+
+3 Este tono se utiliza también en las centralitas automáticas privadas (PABX).
+
+4 Este tono se aplica cada 15 segundos.
+
+5 Centrales analógicas.
+
+6 Dos emisiones, diez segundos intervalos.
+
+7 El tono especial de invitación a marcar se utiliza cuando la transferencia de llamada está activada.,
+
+8 Interurbano.
+
+9 0,1 segunda indicación de llamada en espera sobreponer al palabra cada 2 a 5 segundos.
+
+10 Cambio de fecuencia cada 0,4 segundas.
+
+11 En determinados servicios, en paralelo al tono de llamada, puede reproducirse música.
+
+_Remítase a UIT/TSB Fax N._^_o_^ _+41 22 730 5853 / E-mail: tsbtson@itu.int_
+
+
+
+== Formulario de notificación para los diferentes tonos utilizados en las redes nacionales
+
+
+País/Organización:
+
+Contacto Nombre:
+
+Tel: 
+
+Fax: 
+
+Email:
+
+
+[%unnumbered]
+|===
+| _Tono_ | _Frecuencia (Hz)_ | _Cadencia (segundos)_ 
+| Tono de invitación a marcar | |
+| Tono de llamada  | |
+| Tono de ocupado  | |
+| Tono de congestión  | |
+| Tono especial de información | | 
+| Tono de indicación de llamada en espera  | |
+| Tono de pago  | |
+
+|===
+
+
+[%unnumbered]
+|===
+| _Otros tonos nuevos o modificados_ 
+
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+|===
+
+
+_Tono de invitación a marcar_:: Indicación audible en forma de tonalidad de que la central está preparada para recibir la información de llamada y que invita al usuario a que comience a enviar dicha información.
+
+_Tono de llamada_:: Indicación audible en forma de tonalidad enviada al que llama para informarle de que se ha establecido una conexión y que se está aplicando una señal de llamada al número telefónico o punto de servicio distantes.
+
+_Tono de ocupado_:: Indicación audible en forma de tonalidad enviada al que llama para informarle de que el número telefónico distante está ocupado.
+
+_Tono de congestión_:: Indicación audible en forma de tonalidad enviada al que llama para informarle de que los haces de circuitos o equipos de conmutación necesarios para el establecimiento de la comunicación solicitada o para la utilización de un servicio específico están ocupados temporalmente.
+
+_Tono especial de información_:: Indicación audible en forma de tonalidad enviada al que llama para informarle de que el número solicitado no puede obtenerse por una causa distinta de las de «abonado ocupado» o «congestión».
+
+
+Este tono puede utilizarse también conjuntamente con anuncios grabados para indicar al que llama que las palabras que va a oír constituyen una grabación. Debe utilizarse siempre para introducir todos los anuncios de fallos de la llamada.
+
+_Tono de indicación de llamada en espera_:: Indicación audible en forma de tonalidad enviada a un usuario del servicio suplementario de indicación de llamada en espera que está ocupado en una comunicación, para informarle de que alguien está tratando de llamar a su número.
+
+_Tono de pago_:: Indicación audible en forma de tonalidad enviada al usuario de un teléfono de previo pago para informarle de que es necesario efectuar un pago.
+
+== Explicación de los símbolos utilizados
+
+Frecuencia en Hz: 
+
+f~1~×f~2~ :: indica que f~1~ va modulada por f~2~ +
+f~1~+f~2~ :: indica la yuxtaposición de las frecuencias f~1~ y f~2~ sin modulación +
+f~1~/f~2~ :: indica que f~1~ va seguida de f~2~ +
+f~1~//f~2~ :: indica que la frecuencia f~1~ se utiliza en algunas centrales y en otras la f~2~.
+
+Cadencia en segundos: ON - OFF (EMISIÓN – SILENCIO)
+

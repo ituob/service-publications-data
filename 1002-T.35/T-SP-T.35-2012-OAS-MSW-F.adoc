@@ -1,0 +1,290 @@
+= LISTE DES INDICATIFS DE PAYS OU DE ZONE GÉOGRAPHIQUE POUR LES FACILITÉS NON NORMALISÉES DANS LES SERVICES DE TÉLÉMATIQUE 
+:bureau: T
+:series: COMPLÉMENT À LA RECOMMANDATION UIT-T T.35 (02/2000)
+:language: fr
+:docnumber: 
+:published-date: 2012-04-15
+:status: published
+:doctype: recommendation-annex
+:annextitle-fr: Annexe au Bulletin d'exploitation de l'UIT
+:annexid: N° 1002
+:keywords: 
+:imagesdir: images
+:docfile: T-SP-T.35-2012-OAS-MSW-F.adoc
+:mn-document-class: ituob
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+:stem:
+
+
+// _Annexe au Bulletin d'exploitation de l'UIT__N° 1002 – 15.IV.2012_
+
+[preface]
+== Note du TSB
+
+[class=steps]
+. Le Directeur du Bureau de la normalisation des télécommunications (TSB) est responsable de l'attribution et de la gestion des indicatifs de pays.
+
+. L'indicatif 1111 1111, figurant à la fin de la Liste ci‑après, est un code d'échappement qui sert à indiquer que l'octet suivant contient un indicatif donné dans une Liste complémentaire séparée. Chaque fois que l'indicatif 1111 1111 est utilisé dans le premier octet, l'indicatif de pays ou de zone géographique est celui qui figure dans la Liste complémentaire. Cette liste sera utilisée lorsque tous les indicatifs figurant dans la Liste ci‑dessous auront été attribués.
++
+NOTE: Une fois qu'ils ont été émis, les indicatifs peuvent avoir été intégrés dans des équipe­ments terminaux, de sorte qu'ils ne doivent pas être modifiés ou réattribués même si l'appellation du pays ou de la zone géographique__n'est plus valable.
+
+. Les Etats Membres de l'Union internationale des télécommunications (UIT) qui ne sont pas mentionnés dans cette Liste mais qui souhaitent obtenir un indicatif de pays ou de zone géographique sont invités à demander au Directeur du TSB que leur soit attribué un indicatif de pays disponible. Dans cette demande, ils peuvent indiquer un indicatif précis s'il est disponible. Veuillez adresser vos commentaires au Directeur du TSB:
++
+Union internationale des télécommunications (UIT) 
++
+Directeur du TSB 
++
+Place des Nations 
++
+CH-1211 GENÈVE 20 
++
+Suisse 
++
+Tél: +41 22 730 6805 
++
+Fax: +41 22 730 5853 
++
+E-mail: tsbmail@itu.int
+
+. A titre d'information, cette Liste est également disponible sur le site web de l'UIT.
++
+http://www.itu.int/itu-t/bulletin/annex.html[http://www.itu.int/itu-t/bulletin/annex.html]
+
+. Les appellations employées dans cette Liste et la présentation des données qui y figurent n'impliquent, de la part de l'UIT, aucune prise de position quant au statut juridique des pays ou zones géographiques, ou de leurs autorités.
+
+
+== {blank}
+
+[%unnumbered]
+|===
+
+9+^.^h| _Code_ +
+ Bit ^.^h| _Pays ou zone géographique_
+ 
+h| b~8~ h| b~7~ h| b~6~ h| b~5~ | h| b~4~ h| b~3~ h| b~2~ h| b~1~ |  
+
+| 0 | 0 | 0 | 0 | | 0 | 0 | 0 | 0 | Japon
+| 0 | 0 | 0 | 0 | | 0 | 0 | 0 | 1 | Albanie
+| 0 | 0 | 0 | 0 | | 0 | 0 | 1 | 0 | Algérie
+| 0 | 0 | 0 | 0 | | 0 | 0 | 1 | 1 | Samoa américaines
+| 0 | 0 | 0 | 0 | | 0 | 1 | 0 | 0 | Allemagne
+| 0 | 0 | 0 | 0 | | 0 | 1 | 0 | 1 | Anguilla
+| 0 | 0 | 0 | 0 | | 0 | 1 | 1 | 0 | Antigua-et-Barbuda
+| 0 | 0 | 0 | 0 | | 0 | 1 | 1 | 1 | Argentine
+| 0 | 0 | 0 | 0 | | 1 | 0 | 0 | 0 | Ascension (voir Sainte-Hélène)
+| 0 | 0 | 0 | 0 | | 1 | 0 | 0 | 1 | Australie
+| 0 | 0 | 0 | 0 | | 1 | 0 | 1 | 0 | Autriche
+| 0 | 0 | 0 | 0 | | 1 | 0 | 1 | 1 | Bahamas
+| 0 | 0 | 0 | 0 | | 1 | 1 | 0 | 0 | Bahreïn
+| 0 | 0 | 0 | 0 | | 1 | 1 | 0 | 1 | Bangladesh
+| 0 | 0 | 0 | 0 | | 1 | 1 | 1 | 0 | Barbade
+| 0 | 0 | 0 | 0 | | 1 | 1 | 1 | 1 | Belgique
+| | | | | | | | | | 
+| 0 | 0 | 0 | 1 | | 0 | 0 | 0 | 0 | Belize
+| 0 | 0 | 0 | 1 | | 0 | 0 | 0 | 1 | Bénin
+| 0 | 0 | 0 | 1 | | 0 | 0 | 1 | 0 | Bermudes
+| 0 | 0 | 0 | 1 | | 0 | 0 | 1 | 1 | Bhoutan
+| 0 | 0 | 0 | 1 | | 0 | 1 | 0 | 0 | Bolivie
+| 0 | 0 | 0 | 1 | | 0 | 1 | 0 | 1 | Botswana
+| 0 | 0 | 0 | 1 | | 0 | 1 | 1 | 0 | Brésil
+| 0 | 0 | 0 | 1 | | 0 | 1 | 1 | 1 | Territoire britannique de l'Antarctique
+| 0 | 0 | 0 | 1 | | 1 | 0 | 0 | 0 | Territoire britannique de l'océan Indien (Diego Garcia)
+| 0 | 0 | 0 | 1 | | 1 | 0 | 0 | 1 | Vierges britanniques (Iles)
+| 0 | 0 | 0 | 1 | | 1 | 0 | 1 | 0 | Brunéi Darussalam
+| 0 | 0 | 0 | 1 | | 1 | 0 | 1 | 1 | Bulgarie
+| 0 | 0 | 0 | 1 | | 1 | 1 | 0 | 0 | Myanmar
+| 0 | 0 | 0 | 1 | | 1 | 1 | 0 | 1 | Burundi
+| 0 | 0 | 0 | 1 | | 1 | 1 | 1 | 0 | Bélarus
+| 0 | 0 | 0 | 1 | | 1 | 1 | 1 | 1 | Cameroun
+| 0 | 0 | 1 | 0 | | 0 | 0 | 0 | 0 | Canada
+| 0 | 0 | 1 | 0 | | 0 | 0 | 0 | 1 | Cap-Vert
+| 0 | 0 | 1 | 0 | | 0 | 0 | 1 | 0 | Cayman (Iles)
+| 0 | 0 | 1 | 0 | | 0 | 0 | 1 | 1 | Centrafricaine (Rép.)
+| 0 | 0 | 1 | 0 | | 0 | 1 | 0 | 0 | Tchad
+| 0 | 0 | 1 | 0 | | 0 | 1 | 0 | 1 | Chili
+| 0 | 0 | 1 | 0 | | 0 | 1 | 1 | 0 | Chine
+| 0 | 0 | 1 | 0 | | 0 | 1 | 1 | 1 | Colombie
+| 0 | 0 | 1 | 0 | | 1 | 0 | 0 | 0 | Comores
+| 0 | 0 | 1 | 0 | | 1 | 0 | 0 | 1 | Congo
+| 0 | 0 | 1 | 0 | | 1 | 0 | 1 | 0 | Cook (Iles)
+| 0 | 0 | 1 | 0 | | 1 | 0 | 1 | 1 | Costa Rica
+| 0 | 0 | 1 | 0 | | 1 | 1 | 0 | 0 | Cuba
+| 0 | 0 | 1 | 0 | | 1 | 1 | 0 | 1 | Chypre
+| 0 | 0 | 1 | 0 | | 1 | 1 | 1 | 0 | Rép. tchèque
+| 0 | 0 | 1 | 0 | | 1 | 1 | 1 | 1 | Cambodge
+| | | | | | | | | | 
+| 0 | 0 | 1 | 1 | | 0 | 0 | 0 | 0 | Rép. pop. dém. de Corée
+| 0 | 0 | 1 | 1 | | 0 | 0 | 0 | 1 | Danemark
+| 0 | 0 | 1 | 1 | | 0 | 0 | 1 | 0 | Djibouti
+| 0 | 0 | 1 | 1 | | 0 | 0 | 1 | 1 | Dominicaine (Rép.)
+| 0 | 0 | 1 | 1 | | 0 | 1 | 0 | 0 | Dominique
+| 0 | 0 | 1 | 1 | | 0 | 1 | 0 | 1 | Equateur
+| 0 | 0 | 1 | 1 | | 0 | 1 | 1 | 0 | Egypte
+| 0 | 0 | 1 | 1 | | 0 | 1 | 1 | 1 | El Salvador
+| 0 | 0 | 1 | 1 | | 1 | 0 | 0 | 0 | Guinée équatoriale
+| 0 | 0 | 1 | 1 | | 1 | 0 | 0 | 1 | Ethiopie
+| 0 | 0 | 1 | 1 | | 1 | 0 | 1 | 0 | Falkland (Iles) (Malvinas)
+| 0 | 0 | 1 | 1 | | 1 | 0 | 1 | 1 | Fidji
+| 0 | 0 | 1 | 1 | | 1 | 1 | 0 | 0 | Finlande
+| 0 | 0 | 1 | 1 | | 1 | 1 | 0 | 1 | France
+| 0 | 0 | 1 | 1 | | 1 | 1 | 1 | 0 | Polynésie française
+| 0 | 0 | 1 | 1 | | 1 | 1 | 1 | 1 | (Disponible)
+| 0 | 1 | 0 | 0 | | 0 | 0 | 0 | 0 | Gabon
+| 0 | 1 | 0 | 0 | | 0 | 0 | 0 | 1 | Gambie
+| 0 | 1 | 0 | 0 | | 0 | 0 | 1 | 0 | Allemagne
+| 0 | 1 | 0 | 0 | | 0 | 0 | 1 | 1 | Angola
+| 0 | 1 | 0 | 0 | | 0 | 1 | 0 | 0 | Ghana
+| 0 | 1 | 0 | 0 | | 0 | 1 | 0 | 1 | Gibraltar
+| 0 | 1 | 0 | 0 | | 0 | 1 | 1 | 0 | Grèce
+| 0 | 1 | 0 | 0 | | 0 | 1 | 1 | 1 | Grenade
+| 0 | 1 | 0 | 0 | | 1 | 0 | 0 | 0 | Guam
+| 0 | 1 | 0 | 0 | | 1 | 0 | 0 | 1 | Guatemala
+| 0 | 1 | 0 | 0 | | 1 | 0 | 1 | 0 | Guernesey
+| 0 | 1 | 0 | 0 | | 1 | 0 | 1 | 1 | Guinée
+| 0 | 1 | 0 | 0 | | 1 | 1 | 0 | 0 | Guinée-Bissau
+| 0 | 1 | 0 | 0 | | 1 | 1 | 0 | 1 | Guyana
+| 0 | 1 | 0 | 0 | | 1 | 1 | 1 | 0 | Haïti
+| 0 | 1 | 0 | 0 | | 1 | 1 | 1 | 1 | Honduras
+| | | | | | | | | | 
+| 0 | 1 | 0 | 1 | | 0 | 0 | 0 | 0 | Hong Kong, Chine
+| 0 | 1 | 0 | 1 | | 0 | 0 | 0 | 1 | Hongrie
+| 0 | 1 | 0 | 1 | | 0 | 0 | 1 | 0 | Islande
+| 0 | 1 | 0 | 1 | | 0 | 0 | 1 | 1 | Inde
+| 0 | 1 | 0 | 1 | | 0 | 1 | 0 | 0 | Indonésie
+| 0 | 1 | 0 | 1 | | 0 | 1 | 0 | 1 | Iran (République islamique d')
+| 0 | 1 | 0 | 1 | | 0 | 1 | 1 | 0 | Iraq
+| 0 | 1 | 0 | 1 | | 0 | 1 | 1 | 1 | Irlande
+| 0 | 1 | 0 | 1 | | 1 | 0 | 0 | 0 | Israël
+| 0 | 1 | 0 | 1 | | 1 | 0 | 0 | 1 | Italie
+| 0 | 1 | 0 | 1 | | 1 | 0 | 1 | 0 | Côte d'Ivoire
+| 0 | 1 | 0 | 1 | | 1 | 0 | 1 | 1 | Jamaïque
+| 0 | 1 | 0 | 1 | | 1 | 1 | 0 | 0 | Afghanistan
+| 0 | 1 | 0 | 1 | | 1 | 1 | 0 | 1 | Jersey
+| 0 | 1 | 0 | 1 | | 1 | 1 | 1 | 0 | Jordanie
+| 0 | 1 | 0 | 1 | | 1 | 1 | 1 | 1 | Kenya
+| 0 | 1 | 1 | 0 | | 0 | 0 | 0 | 0 | Kiribati
+| 0 | 1 | 1 | 0 | | 0 | 0 | 0 | 1 | Corée (Rép. de)
+| 0 | 1 | 1 | 0 | | 0 | 0 | 1 | 0 | Koweït
+| 0 | 1 | 1 | 0 | | 0 | 0 | 1 | 1 | Lao (R.d.p.)
+| 0 | 1 | 1 | 0 | | 0 | 1 | 0 | 0 | Liban
+| 0 | 1 | 1 | 0 | | 0 | 1 | 0 | 1 | Lesotho
+| 0 | 1 | 1 | 0 | | 0 | 1 | 1 | 0 | Libéria
+| 0 | 1 | 1 | 0 | | 0 | 1 | 1 | 1 | Libye
+| 0 | 1 | 1 | 0 | | 1 | 0 | 0 | 0 | Liechtenstein
+| 0 | 1 | 1 | 0 | | 1 | 0 | 0 | 1 | Luxembourg
+| 0 | 1 | 1 | 0 | | 1 | 0 | 1 | 0 | Macao, Chine
+| 0 | 1 | 1 | 0 | | 1 | 0 | 1 | 1 | Madagascar
+| 0 | 1 | 1 | 0 | | 1 | 1 | 0 | 0 | Malaisie
+| 0 | 1 | 1 | 0 | | 1 | 1 | 0 | 1 | Malawi
+| 0 | 1 | 1 | 0 | | 1 | 1 | 1 | 0 | Maldives
+| 0 | 1 | 1 | 0 | | 1 | 1 | 1 | 1 | Mali
+| | | | | | | | | | 
+| 0 | 1 | 1 | 1 | | 0 | 0 | 0 | 0 | Malte
+| 0 | 1 | 1 | 1 | | 0 | 0 | 0 | 1 | Mauritanie
+| 0 | 1 | 1 | 1 | | 0 | 0 | 1 | 0 | Maurice
+| 0 | 1 | 1 | 1 | | 0 | 0 | 1 | 1 | Mexique
+| 0 | 1 | 1 | 1 | | 0 | 1 | 0 | 0 | Monaco
+| 0 | 1 | 1 | 1 | | 0 | 1 | 0 | 1 | Mongolie
+| 0 | 1 | 1 | 1 | | 0 | 1 | 1 | 0 | Montserrat
+| 0 | 1 | 1 | 1 | | 0 | 1 | 1 | 1 | Maroc
+| 0 | 1 | 1 | 1 | | 1 | 0 | 0 | 0 | Mozambique
+| 0 | 1 | 1 | 1 | | 1 | 0 | 0 | 1 | Nauru
+| 0 | 1 | 1 | 1 | | 1 | 0 | 1 | 0 | Népal
+| 0 | 1 | 1 | 1 | | 1 | 0 | 1 | 1 | Pays-Bas
+| 0 | 1 | 1 | 1 | | 1 | 1 | 0 | 0 | Curaçao
+| 0 | 1 | 1 | 1 | | 1 | 1 | 0 | 1 | Nouvelle-Calédonie
+| 0 | 1 | 1 | 1 | | 1 | 1 | 1 | 0 | Nouvelle-Zélande
+| 0 | 1 | 1 | 1 | | 1 | 1 | 1 | 1 | Nicaragua
+| 1 | 0 | 0 | 0 | | 0 | 0 | 0 | 0 | Niger
+| 1 | 0 | 0 | 0 | | 0 | 0 | 0 | 1 | Nigéria
+| 1 | 0 | 0 | 0 | | 0 | 0 | 1 | 0 | Norvège
+| 1 | 0 | 0 | 0 | | 0 | 0 | 1 | 1 | Oman
+| 1 | 0 | 0 | 0 | | 0 | 1 | 0 | 0 | Pakistan
+| 1 | 0 | 0 | 0 | | 0 | 1 | 0 | 1 | Panama
+| 1 | 0 | 0 | 0 | | 0 | 1 | 1 | 0 | Papouasie-Nouvelle-Guinée
+| 1 | 0 | 0 | 0 | | 0 | 1 | 1 | 1 | Paraguay
+| 1 | 0 | 0 | 0 | | 1 | 0 | 0 | 0 | Pérou
+| 1 | 0 | 0 | 0 | | 1 | 0 | 0 | 1 | Philippines
+| 1 | 0 | 0 | 0 | | 1 | 0 | 1 | 0 | Pologne
+| 1 | 0 | 0 | 0 | | 1 | 0 | 1 | 1 | Portugal
+| 1 | 0 | 0 | 0 | | 1 | 1 | 0 | 0 | Puerto Rico
+| 1 | 0 | 0 | 0 | | 1 | 1 | 0 | 1 | Qatar
+| 1 | 0 | 0 | 0 | | 1 | 1 | 1 | 0 | Roumanie
+| 1 | 0 | 0 | 0 | | 1 | 1 | 1 | 1 | Rwanda
+| | | | | | | | | | 
+| 1 | 0 | 0 | 1 | | 0 | 0 | 0 | 0 | Saint-Kitts-et-Nevis
+| 1 | 0 | 0 | 1 | | 0 | 0 | 0 | 1 | Sainte-Croix
+| 1 | 0 | 0 | 1 | | 0 | 0 | 1 | 0 | Sainte-Hélène, Ascension et Tristan da Cuhna
+| 1 | 0 | 0 | 1 | | 0 | 0 | 1 | 1 | Sainte-Lucie
+| 1 | 0 | 0 | 1 | | 0 | 1 | 0 | 0 | Saint-Marin
+| 1 | 0 | 0 | 1 | | 0 | 1 | 0 | 1 | Saint-Thomas
+| 1 | 0 | 0 | 1 | | 0 | 1 | 1 | 0 | Sao Tomé-et-Principe
+| 1 | 0 | 0 | 1 | | 0 | 1 | 1 | 1 | Saint-Vincent-et-Grenadines
+| 1 | 0 | 0 | 1 | | 1 | 0 | 0 | 0 | Arabie saoudite
+| 1 | 0 | 0 | 1 | | 1 | 0 | 0 | 1 | Sénégal
+| 1 | 0 | 0 | 1 | | 1 | 0 | 1 | 0 | Seychelles
+| 1 | 0 | 0 | 1 | | 1 | 0 | 1 | 1 | Sierra Leone
+| 1 | 0 | 0 | 1 | | 1 | 1 | 0 | 0 | Singapour
+| 1 | 0 | 0 | 1 | | 1 | 1 | 0 | 1 | Salomon (Iles)
+| 1 | 0 | 0 | 1 | | 1 | 1 | 1 | 0 | Somalie
+| 1 | 0 | 0 | 1 | | 1 | 1 | 1 | 1 | Sudafricaine (Rép.)
+| 1 | 0 | 1 | 0 | | 0 | 0 | 0 | 0 | Espagne
+| 1 | 0 | 1 | 0 | | 0 | 0 | 0 | 1 | Sri Lanka
+| 1 | 0 | 1 | 0 | | 0 | 0 | 1 | 0 | Soudan
+| 1 | 0 | 1 | 0 | | 0 | 0 | 1 | 1 | Suriname
+| 1 | 0 | 1 | 0 | | 0 | 1 | 0 | 0 | Swaziland
+| 1 | 0 | 1 | 0 | | 0 | 1 | 0 | 1 | Suède
+| 1 | 0 | 1 | 0 | | 0 | 1 | 1 | 0 | Suisse
+| 1 | 0 | 1 | 0 | | 0 | 1 | 1 | 1 | République arabe syrienne
+| 1 | 0 | 1 | 0 | | 1 | 0 | 0 | 0 | Tanzanie
+| 1 | 0 | 1 | 0 | | 1 | 0 | 0 | 1 | Thaïlande
+| 1 | 0 | 1 | 0 | | 1 | 0 | 1 | 0 | Togo
+| 1 | 0 | 1 | 0 | | 1 | 0 | 1 | 1 | Tonga
+| 1 | 0 | 1 | 0 | | 1 | 1 | 0 | 0 | Trinité-et-Tobago
+| 1 | 0 | 1 | 0 | | 1 | 1 | 0 | 1 | Tunisie
+| 1 | 0 | 1 | 0 | | 1 | 1 | 1 | 0 | Turquie
+| 1 | 0 | 1 | 0 | | 1 | 1 | 1 | 1 | Turks et Caicos (Iles)
+| | | | | | | | | | 
+| 1 | 0 | 1 | 1 | | 0 | 0 | 0 | 0 | Tuvalu
+| 1 | 0 | 1 | 1 | | 0 | 0 | 0 | 1 | Ouganda
+| 1 | 0 | 1 | 1 | | 0 | 0 | 1 | 0 | Ukraine
+| 1 | 0 | 1 | 1 | | 0 | 0 | 1 | 1 | Emirats arabes unis
+| 1 | 0 | 1 | 1 | | 0 | 1 | 0 | 0 | Royaume-Uni
+| 1 | 0 | 1 | 1 | | 0 | 1 | 0 | 1 | Etats-Unis
+| 1 | 0 | 1 | 1 | | 0 | 1 | 1 | 0 | Burkina Faso
+| 1 | 0 | 1 | 1 | | 0 | 1 | 1 | 1 | Uruguay
+| 1 | 0 | 1 | 1 | | 1 | 0 | 0 | 0 | Fédération de Russie
+| 1 | 0 | 1 | 1 | | 1 | 0 | 0 | 1 | Vanuatu
+| 1 | 0 | 1 | 1 | | 1 | 0 | 1 | 0 | Vatican
+| 1 | 0 | 1 | 1 | | 1 | 0 | 1 | 1 | Venezuela
+| 1 | 0 | 1 | 1 | | 1 | 1 | 0 | 0 | Viet Nam
+| 1 | 0 | 1 | 1 | | 1 | 1 | 0 | 1 | Wallis-et-Futuna
+| 1 | 0 | 1 | 1 | | 1 | 1 | 1 | 0 | Samoa
+| 1 | 0 | 1 | 1 | | 1 | 1 | 1 | 1 | Yémen
+| 1 | 1 | 0 | 0 | | 0 | 0 | 0 | 0 | Yémen
+| 1 | 1 | 0 | 0 | | 0 | 0 | 0 | 1 | Serbie
+| 1 | 1 | 0 | 0 | | 0 | 0 | 1 | 0 | Rép. dém. du Congo
+| 1 | 1 | 0 | 0 | | 0 | 0 | 1 | 1 | Zambie
+| 1 | 1 | 0 | 0 | | 0 | 1 | 0 | 0 | Zimbabwe
+| 1 | 1 | 0 | 0 | | 0 | 1 | 0 | 1 | Slovaquie
+| 1 | 1 | 0 | 0 | | 0 | 1 | 1 | 0 | Slovénie
+| 1 | 1 | 0 | 0 | | 0 | 1 | 1 | 1 | Lituanie
+| 1 | 1 | 0 | 0 | | 1 | 0 | 0 | 0 | Monténégro
+| 1 | 1 | 0 | 0 | | 1 | 0 | 0 | 1 | (Disponible)
+| 1 | 1 | 0 | 0 | | 1 | 0 | 1 | 0 | (Disponible)
+| 1 | 1 | 0 | 0 | | 1 | 0 | 1 | 1 | (Disponible)
+| 1 | 1 | 0 | 0 | | 1 | 1 | 0 | 0 | (Disponible)
+| 1 | 1 | 0 | 0 | | 1 | 1 | 0 | 1 | (Disponible)
+| 1 | 1 | 0 | 0 | | 1 | 1 | 1 | 0 | (Disponible)
+| 1 | 1 | 0 | 0 | | 1 | 1 | 1 | 1 | (Disponible)
+| | | | | | | | | | 
+| 1 | 1 | 1 | 1 | | 1 | 1 | 1 | 1 | Code d'échappement vers la liste complémentaire (actuellement vide). Voir la <<note1>>.
+
+|===
+
+[[note1]]
+NOTE: Lorsque tous les codes possibles figurant dans la présente Liste auront été attribués, le code d'échappement permettra d'utiliser une deuxième liste d'indicatifs de pays ou de zone géographique pour les facilités non normalisées dans les services de télématique, en utilisant un octet d'extension.
+
+

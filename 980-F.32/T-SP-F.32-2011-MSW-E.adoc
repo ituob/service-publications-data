@@ -203,7 +203,6 @@ a|
 |===
 
 
-
 [%unnumbered,cols="5*"]
 |===
 ^.^h|Country /geographical area	^.^h|Network (administration/ROA)	^.^h|Network code 	^.^h|Name of Telegraph Office	^.^h|Office code
@@ -483,7 +482,6 @@ a|WBBN +
 WBBR
 
 |===
-
 
 
 [%unnumbered,cols="5*"]
@@ -1372,7 +1370,7 @@ CIAX
 
 a|*CROATIE* +
 *CROATIA* +
-*CROACIA* 
+*CROACIA*
 
 a|HT – Croatian Telecom, Direction of Telecommunications, Telecommunications Traffic Division, Zagreb
 
@@ -2037,8 +2035,6 @@ HW- -
 
 a|--HU +
 --HX
-
-
 
 |===
 
@@ -3137,8 +3133,6 @@ a|--AC +
 --BH +
   +
 --BJ
-
-
 
 
 a|*ITALIE*{blank}footnote:admin[The Italian Administration has added the postal code before the name of each bureau.via Swiss Telex ITU Operational Bulletin 921 of 1.XII.2008]
@@ -4425,7 +4419,6 @@ a|MQNO +
 MQSX
 
 
-
 a|*MAYOTTE*  +
 *MAYOTTE* +
 *MAYOTTE* 
@@ -5255,7 +5248,6 @@ PETC +
 PESM
 
 
-
 a|*PÉROU*  +
 *PERU* +
 *PERÚ*
@@ -5460,7 +5452,6 @@ All others
 
 a|--SJ +
 --SX
-
 
 
 a|*PORTUGAL* +
@@ -6955,7 +6946,6 @@ a|SV +
 XQ
 
 
-
 a|*ÉTATS-UNIS* +
 *UNITED STATES* +
 *ESTADOS UNIDOS*
@@ -7109,7 +7099,6 @@ SV +
 TF  TL  TT  TU +
 XQ +
 YL
-
 
 
 a|*KOWEÏT* +

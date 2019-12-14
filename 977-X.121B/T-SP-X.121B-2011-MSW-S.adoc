@@ -1,0 +1,1123 @@
+= LISTA DE CÓDIGOS DE IDENTIFICACIÓN DE RED DE DATOS (CIRD)
+:bureau: T
+:docnumber: 
+// :annextitle-es: Anexo al Boletín de Explotación de la UIT
+:series: SEGÚN LA RECOMENDACIÓN UIT-T X.121 (10/2000)
+:title: 
+:published-date: 2011-04-01
+:status: published
+:doctype: recommendation-annex
+:annexid: No. 977
+:docfile: T-SP-X.121B-2011-MSW-S.adoc
+:language: es
+:mn-document-class: itu
+:mn-output-extensions: xml,html,doc,rxl
+:imagesdir: images
+:local-cache-only:
+:data-uri-image:
+
+
+[preface]
+== Nota de la TSB
+
+. La Recomendación UIT-T X.121 especifica que la UIT administra la asignación de indicativos de país para datos (IPD). Cada administración efectuará la atribución de cifras de red para crear códigos de identificación de red de datos (CIRD). Las nuevas atribuciones, reatribuciones o supresiones de cifras de red deben notificarse a la TSB de la UIT, por medio del formulario de notificación que figura en la última página de la lista.
+
+. Conforme a la Recomendación UIT-T X.121, la información sobre la asignación de códigos de identificación de red de datos (CIRD) se ha publicado por separado en el Boletín de Explotación de la UIT y posteriormente se ha incluido en una «Lista de códigos de identificación de red de datos (CIRD)».
+
+. La Lista del corriente año reemplaza a la publicada en el Anexo al Boletín de Explotación de la UIT N. 876 del 15 de enero de 2007 y refleja todas las enmiendas publicadas en los Boletines de Explotación de la UIT hasta el N. 977 del 1 de abril de 2011.
+
+. Para mantener actualizada esta Lista, se ruega a las administraciones que verifiquen la exactitud de las informaciones publicadas y que informen a la TSB sobre cualquier cambio que deba efectuarse para su actualización.
+
+. Para las nuevas asignaciones de códigos de identificación de red de datos (CIRD), las administraciones deben cumplimentar el formulario de notificación (véase la última página de la lista) y remitirlo a la TSB, a la dirección indicada en el formulario.
+
+. Se señala que esta Lista está disponible en la página web de la UIT:
++
+http://www.itu.int/itu-t/bulletin/annex.html[http://www.itu.int/itu-t/bulletin/annex.html]
+
+. Las denominaciones empleadas en esta Lista y la forma en que aparecen presentados los datos que contiene no entrañan, por parte de la UIT, juicio alguno sobre la condición jurídica de países o zonas geográficas, o de sus autoridades.
+
+
+== {blank}
+
+[%unnumbered]
+|===
+^.^h| País/Zona ^.^h| CIRD N.° ^.^h| Nombre de la red a la cual se ha atribuido el CIRD
+
+^.^| 1 ^.^| 2 ^.^| 3
+
+| ALGÉRIE +
+_ALGERIA_  +
+ARGELIA ^.^| 603 0 | DZ PAC (Réseau public de données à commutation par paquet)
+
+
+.29+| ALLEMAGNE +
+_GERMANY_ +
+ALEMANIA ^.^| 262 1 | ISDN/X.25
+^.^| 262 2 | Circuit Switched Data Service (DATEX-L)
+^.^| 262 4 | Packet Switched Data Service (DATEX-P)
+^.^| 262 5 | Satellite Services
+^.^| 262 7 | Teletex
+^.^| 262 9 | D2-Mannesmann
+^.^| 263 1 | CoNetP
+^.^| 263 2 | RAPNET
+^.^| 263 3 | DPS
+^.^| 263 4 | EkoNet
+^.^| 263 6 | ARCOR/PSN-1
+^.^| 264 0 | DETECON
+^.^| 264 1 | SCN
+^.^| 264 2 | INFO AG NWS
+^.^| 264 4 | IDNS
+^.^| 264 5 | ARCOR/otelo-net1
+^.^| 264 6 | EuroDATA
+^.^| 264 7 | ARCOR/otelo-net2
+^.^| 264 8 | SNSPac
+^.^| 264 9 | MMONET
+^.^| 265 1 | WestLB X.25 Net
+^.^| 265 2 | PSN/FSINFOSYSBW
+^.^| 265 3 | ARCOR/PSN-2
+^.^| 265 4 | TNET
+^.^| 265 5 | ISIS\_DUS
+^.^| 265 6 | RWE TELPAC
+^.^| 265 7 | DTN/AutoFüFmNLw
+^.^| 265 8 | DRENET
+^.^| 265 9 | GCN (Geno Communication Network)
+
+| ANGOLA +
+_ANGOLA_ +
+ANGOLA ^.^| 631 5 | ANGOPAC
+
+
+| ANDORRE +
+_ANDORRA_ + 
+ANDORRA ^.^| 213 5 | ANDORPAC
+
+
+| ANTIGUA-ET-BARBUDA +
+_ANTIGUA AND BARBUDA_ +
+ANTIGUA Y BARBUDA ^.^| 344 3 | Antigua Packet Switched Service
+
+
+| ARABIE SAOUDITE +
+_SAUDI ARABIA_ +
+ARABIA SAUDITA ^.^| 420 1 | ALWASEET – Public Packet Switched Data Network
+
+
+.3+| ARGENTINE +
+_ARGENTINA_ +
+ARGENTINA ^.^| 722 1 | Nodo Internacional de Datos – TELINTAR
+^.^| 722 2 | ARPAC (ENTEL)
+^.^| 722 3 | EASYGATE (ATT)
+
+
+| ARMÉNIE  +
+_ARMENIA_ +
+ARMENIA ^.^| 283 0 | ArmPac
+ 
+
+.3+| AUSTRALIE +
+_AUSTRALIA_ +
+AUSTRALIA ^.^| 505 2 | Telstra Corporation Ltd. – AUSTPAC packet switching network
+^.^| 505 3 | Telstra Corporation Ltd. – AUSTPAC International
+^.^| 505 7 | Australian Private Networks
+
+
+.2+| AUTRICHE +
+_AUSTRIA_ +
+AUSTRIA ^.^| 232 2 | Dataswitch (DATAKOM) {blank}footnote:[utilización interno, véase <<BE 971>>]
+^.^| 232 9 | Radausdata (DATAKOM)
+
+
+.2+| AZERBAÏDJAN +
+_AZERBAIJAN_ +
+AZERBAIYÁN ^.^| 400 1 | AZPAK (Azerbaijan Public Packet Switched Data Network)
+^.^| 400 2 | «AzEuroTel» Joint Venture
+
+
+.3+| BAHREÏN +
+_BAHRAIN_ +
+BAHREIN ^.^| 426 0 | Batelco GSM Service
+^.^| 426 2 | Bahrain Managed Data Network (MADAN)
+^.^| 426 3 | Batelco Packet Switched Node
+
+
+.2+| BARBADE +
+_BARBADOS_ +
+BARBADOS ^.^| 342 2 | CARIBNET
+^.^| 342 3 | International Data Base Access Service (IDAS)
+
+
+| BÉLARUS +
+_BELARUS_ +
+BELARÚS ^.^| 257 0 | BELPAK
+
+
+.7+| BELGIQUE +
+_BELGIUM_ +
+BÉLGICA ^.^| 206 2 | Réseau de transmission de données à commutation par paquets (DCS)
+^.^| 206 4 | CODENET
+^.^| 206 5 | (Le code est utilisé au niveau national pour le réseau DCS)
+^.^| 206 6 | Unisource Belgium X.25 Service
+^.^| 206 7 | MOBISTAR
+^.^| 206 8 | Accès au réseau DCS via le réseau télex commuté national
+^.^| 206 9 | Accès au réseau DCS via le réseau téléphonique commuté national
+
+
+.2+| BERMUDES +
+_BERMUDA_ +
+BERMUDAS ^.^| 350 2 | Cable and Wireless Data Communications Node
+^.^| 350 3 | Cable and Wireless Packet Switched Node
+
+
+| BOSNIE-HERZÉGOVINE +
+_BOSNIA AND HERZEGOVINA_ +
+BOSNIA Y HERZEGOVINA ^.^| 218 0 | BIHPAK
+
+.17+| BRÉSIL +
+_BRAZIL_ +
+BRASIL ^.^| 724 0 | International Packet Switching Data Communication Service (INTERDATA)
+^.^| 724 1 | National Packet Switching Data Communication Service (RENPAC)
+^.^| 724 2 | RIOPAC
+^.^| 724 3 | MINASPAC
+^.^| 724 4 | TRANSPAC
+^.^| 724 5 | Fac Simile Service (DATA FAX)
+^.^| 724 6 | BRAZILIAN PRIVATE NETWORKS
+^.^| 724 7 | DATASAT BI
+^.^| 725 1 | S.PPAC
+^.^| 725 2 | TELEST PUBLIC PACKET DATA NETWORK
+^.^| 725 3 | TELEMIG Public Switched Packet Data Network
+^.^| 725 4 | PACPAR
+^.^| 725 5 | CRT/CTMR
+^.^| 725 6 | Western and Midwestern Public Switched Packet Data Network
+^.^| 725 7 | TELEBAHIA and TELERGIPE Public Switched Packet Data Network
+^.^| 725 8 | Northeastern Public Switched Packet Data Network
+^.^| 725 9 | Northern Public Switched Packet Data Network
+
+
+| BURKINA FASO +
+_BURKINA FASO_ +
+BURKINA FASO ^.^| 613 2 | FASOPAC
+
+
+| CAMEROUN +
+_CAMEROON_ +
+CAMERÚN ^.^| 624 2 | CAMPAC
+
+
+.12+| CANADA +
+_CANADA_ +
+CANADÁ ^.^| 302 0 | Telecom Canada Datapak Network
+^.^| 302 1 | Telecom Canada PSTN Access
+^.^| 302 2 | Stentor Private Packet Switched Data Network Gateway
+^.^| 302 3 | Stentor ISDN Identification
+^.^| 302 4 | Teleglobe Canada – Globedat-C Circuit Switched Data Transmission
+^.^| 302 5 | Teleglobe Canada – Globedat-P Packed Switched Data Transmission
+^.^| 302 6 | AT&T Canada Long Distance Services – FasPac
+^.^| 302 8 | AT&T Canada Long Distance Services – Packet Switched Public Data Network (PSPDN)
+^.^| 303 6 | Sprint Canada Frame Relay Service – Packet-Switched Network
+^.^| 303 7 | TMI Communications, Limited Partnership – Mobile Data Service (MDS) + X.25 public switched data network
+^.^| 303 8 | Canada Post – POSTpac – X.25 Packet Switched Data Network
+^.^| 303 9 | Telesat Canada – Anikom 200
+
+
+| CAP-VERT +
+_CAPE VERDE_ +
+CABO VERDE ^.^| 625 5 | CVDATA
+
+
+| CAYMAN (ILES) +
+_CAYMAN ISLANDS_ +
+CAIMANES (ISLAS) ^.^| 346 3 | Cable and Wireless Packet Switching Node
+
+
+| CHILI +
+_CHILE_ +
+CHILE ^.^| 730 2 | Red nacional de transmisión de datos
+
+
+.9+| CHINE +
+_CHINA_ +
+CHINA ^.^| 460 1 | Teletex and low speed data network
+^.^| 460 200-207 | China CAAC privileged data network
+^.^| 460 3 | CHINAPAC
+^.^| 460 4 | Reserved for public mobile data service
+^.^| 460 5 | Public data network
+^.^| 460 6 | Dedicated network
+^.^| 460 7 | Dedicated network
+^.^| 460 8 | Dedicated network
+^.^| 460 9 | China Railcom PAC
+
+
+.3+| CHYPRE +
+_CYPRUS_ +
+CHIPRE ^.^| 280 2 | CYTAPAC – PSDN, subscribers with direct access
+^.^| 280 8 | CYTAPAC – PSDN, subscribers with access via telex
+^.^| 280 9 | CYTAPAC – PSDN, subscribers with access via PSTN – X.28, X.32
+
+
+| COLOMBIE +
+_COLOMBIA_ +
+COLOMBIA ^.^| 732 1 | RED DE ALTA VELOCIDAD
+
+
+.3+| CORÉE (RÉP. DE) +
+_KOREA (REP. OF)_ +
+COREA (REP. DE) ^.^| 450 0 | HiNET-P (KOREA TELECOM)
+^.^| 450 1 | DACOM-NET
+^.^| 450 2 | CSDN (attribué seulement au télétex/only assigned to Teletex/atribuido    solamente al teletex)
+
+
+| COSTA RICA +
+_COSTA RICA_ +
+COSTA RICA ^.^| 712 0 | RACSADATOS
+
+
+| CÔTE D'IVOIRE +
+_CÔTE D'IVOIRE_ +
+CÔTE D'IVOIRE ^.^| 612 2 | SYTRANPAC
+
+
+| CROATIE +
+_CROATIA_ +
+CROACIA ^.^| 219 1 | CROAPAK (Croatian Packet Switching Data Network)
+
+
+| CUBA  +
+_CUBA_ + 
+CUBA ^.^| 368 0 | Servicios de información por conmutación de paquetes del IDICT
+
+
+.2+| CURAÇAO +
+_CURAÇAO_ +
+CURAÇAO ^.^| 362 0 | TELEMATIC NETWORK
+^.^| 362 1 | DATANET CURACAO
+
+
+.6+| DANEMARK +
+_DENMARK_ +
+DINAMARCA ^.^| 238 0 | Tele Danmark A/S
+^.^| 238 1 | DATEX (Circuit Switched Network)
+^.^| 238 2 | DATAPAK (Packet Switched Network)
+^.^| 238 3 | DATAPAK (Packet Switched Network)
+^.^| 238 4 | Transpac
+^.^| 238 5 | SONOFON GSM
+
+
+| DOMINICAINE (RÉP.) +
+_DOMINICAN REP_. +
+DOMINICANA (REP.) ^.^| 370 6 | All America Cables and Radio Inc.
+
+
+| ÉGYPTE +
+_EGYPT_ +
+EGIPTO ^.^| 602 6 | EGYPTNET
+
+
+.2+| ÉMIRATS ARABES UNIS +
+_UNITED ARAB EMIRATES_ +
+EMIRATOS ÁRABES UNIDOS ^.^| 424 1 | EMDAN Teletex Network
+^.^| 424 3 | EMDAN X.25 and X.28 Terminals
+
+
+.6+| ESPAGNE +
+_SPAIN_ +
+ESPAÑA ^.^| 214 0 | Administración Pública
+^.^| 214 1 | Nodo internacional de datos
+^.^| 214 2 | RETEVISIÓN
+^.^| 214 5 | Red IBERPAC
+^.^| 214 7 | France Telecom Redes y Servicios
+^.^| 214 9 | MegaRed
+
+
+| ESTONIE +
+_ESTONIA_ +
+ESTONIA ^.^| 248 0 | ESTPAK
+
+
+.66+| ÉTATS-UNIS +
+_UNITED STATES_ +
+ESTADOS UNIDOS ^.^| 310 1 | PTN-1 Western Union Packet Switching Network
+^.^| 310 2 | MCI Public Data Network (ResponseNet)
+^.^| 310 3 | ITT UDTS Network
+^.^| 310 4 | MCI Public Data Network (International Gateway)
+^.^| 310 5 | WUI Leased Channel Network
+^.^| 310 6 | Tymnet Network
+^.^| 310 7 | ITT Datel Network
+^.^| 310 8 | ITT Short Term Voice/Data Transmission Network
+^.^| 310 9 | RCAG DATEL II
+^.^| 311 0 | Telenet Communications Corporation
+^.^| 311 1 | RCAG DATEL I (Switched Alternate Voice-Data Service)
+^.^| 311 2 | Western Union Teletex Service
+^.^| 311 3 | RCAG Remote Global Computer Access Service (Low Speed)
+^.^| 311 4 | Western Union Infomaster
+^.^| 311 5 | Graphnet Interactive Network
+^.^| 311 6 | Graphnet Store and Forward Network
+^.^| 311 7 | WUI Telex Network
+^.^| 311 8 | Graphnet Data Network
+^.^| 311 9 | TRT Packet Switching Network (IPSS)
+^.^| 312 0 | ITT Low Speed Network
+^.^| 312 1 | FTCC Circuit Switched Network
+^.^| 312 2 | FTCC Telex
+^.^| 312 3 | FTCC Domestic Packet Switched Transmission (PST) Service
+^.^| 312 4 | FTCC International PST Service
+^.^| 312 5 | UNINET
+^.^| 312 6 | ADP Autonet
+^.^| 312 7 | GTE Telenet Communications Corporation
+^.^| 312 8 | TRT Mail/Telex Network
+^.^| 312 9 | TRT Circuit Switch Data (ICSS)
+^.^| 313 0 | TRT Digital Data Network
+^.^| 313 1 | RCAG Telex Network
+^.^| 313 2 | Compuserve Network Services
+^.^| 313 3 | RCAG XNET Service
+^.^| 313 4 | AT+T/ACCUNET Packet Switched Capability
+^.^| 313 5 | ALASCOM/ALASKANET Service
+^.^| 313 6 | Geisco Data Network
+^.^| 313 7 | International Information Network Services – INFONET Service
+^.^| 313 8 | Fedex International Transmission Corporation – International Document    Transmission Service
+^.^| 313 9 | KDD America, Inc. – Public Data Network
+^.^| 314 0 | Southern New England Telephone Company – Public Packet Network
+^.^| 314 1 | Bell Atlantic Telephone Companies – Advance Service
+^.^| 314 2 | Bellsouth Corporation – Pulselink Servie
+^.^| 314 3 | Ameritech Operating Companies – Public Packet Data Networks
+^.^| 314 4 | Nynex Telephone Companies – Nyex Infopath Service
+^.^| 314 5 | Pacific Telesis Public Packet Switching Service
+^.^| 314 6 | Southwestern Bell Telephone Co. – Microlink II Public Packet Switching Service
+^.^| 314 7 | U.S. West, Inc. – Public Packet Switching Service
+^.^| 314 8 | United States Telephone Association – to be shared by local exchange telephone    companies
+^.^| 314 9 | Cable & Wireless Communications, Inc. – Public Network
+^.^| 315 0 | Globenet, Inc. – Globenet Network Packet Switching Service
+^.^| 315 1 | Cable & Wireless Communications, Inc. – Public Network
+^.^| 315 2 | GTE Hawaiian Telephone Company, Inc. – Public Data Network
+^.^| 315 3 | JAIS USA-NET Public Packet Switching Service
+^.^| 315 4 | Nomura Computer Systems America, Inc. – NCC-A VAN public packet switching    service
+^.^| 315 5 | Aeronautical Radio, Inc. – GLOBALINK
+^.^| 315 6 | American Airlines, Inc. – AANET
+^.^| 315 7 | COMSAT Mobile Communications – C-LINK
+^.^| 315 8 | Schlumberger Information Network (SINET)
+^.^| 315 9 | Westinghouse Communications – Westinghouse Packet Network
+^.^| 316 0 | Network Users Group, Ltd. – WDI NET packet
+^.^| 316 1 | United States Department of State, Diplomatic Telecommunications Service
+| | Black Packet Switched Data Network
+^.^| 316 2 | Transaction Network Services, Inc. – TNS Public Packet-switched Network
+^.^| 316 6 | U.S. Department of Treasury Wide Area Data Network
+^.^| 316 8 | BT North America packet-switched data network
+^.^| 316 9 | Tenzing Communications Inc. – Inflight Network
+
+
+.17+| FÉDÉRATION DE RUSSIE +
+_RUSSIAN FEDERATION_ +
+FEDERACIÓN DE RUSIA ^.^| 250 0 | Rospac-RT
+^.^| 250 1 | SPRINT Networks
+^.^| 250 2 | IASNET
+^.^| 250 3 | MMTEL
+^.^| 250 4 | INFOTEL
+^.^| 250 6 | ROSNET
+^.^| 250 7 | ISTOK-K
+^.^| 250 8 | TRANSINFORM
+^.^| 250 9 | LENFINCOM
+^.^| 251 0 | SOVAMNET
+^.^| 251 1 | EDITRANS
+^.^| 251 2 | TECOS
+^.^| 251 3 | PTTNET
+^.^| 251 4 | BCLNET
+^.^| 251 5 | SPTNET
+^.^| 251 6 | AS Sirena-3 Data Communication System
+^.^| 251 7 | TELSYCOM
+
+
+| FÉROE (ILES) +
+_FAROE ISLANDS_ +
+FEROE (ISLAS) ^.^| 288 1 | FAROEPAC
+
+
+.2+| FIDJI +
+_FIJI_ +
+FIJI ^.^| 542 0 | FIJPAK
+^.^| 542 1 | FIJINET
+
+
+.3+| FINLANDE +
+_FINLAND_ +
+FINLANDIA ^.^| 244 2 | Sonera Carrier Networks Oy
+^.^| 244 3 | Elisa Oyj
+^.^| 244 4 | Song Networks Oy
+
+
+.8+| FRANCE +
+_FRANCE_ +
+FRANCIA ^.^| 208 0 | Réseau de transmission de données à commutation par paquets TRANSPAC
+^.^| 208 1 | France de transit international
+^.^| 208 2 | Grands services publics
+^.^| 208 3 | Administrations
+^.^| 208 4 | Air France
+^.^| 208 5 | SIRIS
+^.^| 208 6 | BT France
+^.^| 208 9 | Interconnexion entre le réseau public de transmission de données Transpac et d'autres réseaux publics français, pour des services offerts en mode synchrone
+
+
+.2+| GABON +
+_GABON_ +
+GABÓN ^.^| 628 0 | GABONPAC (Réseau de transmission de données à commutation par paquets)
+^.^| 628 2 | GABONPAC2
+
+
+| GAMBIE +
+_GAMBIA_ +
+GAMBIA ^.^| 607 0 | GAMNET
+
+
+| GÉORGIE +
+_GEORGIA_ +
+GEORGIA ^.^| 282 1 | IBERIAPAC
+
+
+| GHANA +
+_GHANA_ +
+GHANA ^.^| 620 2 | DATATEL
+
+
+.2+| GRÈCE +
+_GREECE_ +
+GRECIA ^.^| 202 3 | Packet Switched Public Data Network (HELLASPAC)
+^.^| 202 7 | LAN-NET
+
+
+| GRENADE +
+_GRENADA_ +
+GRANADA ^.^| 352 2 | CARIBNET
+
+
+| GROËNLAND +
+_GREENLAND_ +
+GROENLANDIA ^.^| 290 1 | DATAPAK (Packet Switched Network)
+
+
+| GUAM +
+_GUAM_ +
+GUAM ^.^| 535 1 | The Pacific Connection, Inc. – Pacnet Public Packet Switching Service
+
+
+| GUYANA +
+_GUYANA_ +
+GUYANA ^.^| 738 0 | GT&T PAC
+
+
+| HONDURAS +
+_HONDURAS_ +
+HONDURAS ^.^| 708 0 | HONDUPAQ
+
+
+.8+| HONG KONG, CHINE +
+_HONG KONG, CHINA_ +
+HONG KONG, CHINA ^.^| 453 8 | Cable & Wireless Regional Businesses (Kong Kong) Limited
+^.^| 454 0 | Public Switched Document Transfer Service
+^.^| 454 1 | Hutchison Global Crossing Limited
+^.^| 454 3 | New T&T
+^.^| 454 5 | DATAPAK
+^.^| 454 6 | iAsiaWorks (HK) Service
+^.^| 454 7 | New World Telephone Limited
+^.^| 454 8 | KDD Telecomet Hong Kong Ltd.
+
+
+| HONGRIE +
+_HUNGARY_ +
+HUNGRÍA ^.^| 216 1 | Packet Switched Data Service {blank}footnote:[utilización interno, véase <<BE 965>>]
+
+
+.5+| INDE +
+_INDIA_ +
+INDIA ^.^| 404 1 | RABMN
+^.^| 404 2 | International Gateway Packet Switching System (GPSS)
+^.^| 404 3 | INET (Packet Switched Public Data Network)
+^.^| 404 5 | HVnet
+^.^| 404 6 | Shared DNIC for VSAT Based Private Data Networks
+
+
+| INDONÉSIE +
+_INDONESIA_ +
+INDONESIA ^.^| 510 1 | SKDP Packet Switched Service (Sambungan Komunikasi Data Paket)
+
+
+.4+| INMARSAT ^.^| 111 1 | Atlantic Ocean-East
+^.^| 111 2 | Pacific Ocean
+^.^| 111 3 | Indian Ocean
+^.^| 111 4 | Atlantic Ocean-West
+
+
+| IRAN (RÉPUBLIQUE ISLAMIQUE D') +
+_IRAN (ISLAMIC REPUBLIC OF)_ +
+IRÁN (REPÚBLICA ISLÁMICA DEL) ^.^| 432 1 | IranPac
+
+
+.4+| IRLANDE +
+_IRELAND_ +
+IRLANDA ^.^| 272 1 | International Packet Switched Service
+^.^| 272 3 | EURONET
+^.^| 272 4 | EIRPAC (Packet Switched Data Networks)
+^.^| 272 8 | PostNET (PostGEM Packet Switched Data Network)
+
+
+| ISLANDE +
+_ICELAND_ +
+ISLANDIA ^.^| 274 0 | ISPAK/ICEPAC
+
+
+| ISRAËL +
+_ISRAEL_ +
+ISRAEL ^.^| 425 1 | ISRANET
+
+
+.10+| ITALIE +
+_ITALY_ +
+ITALIA ^.^| 222 1 | Rete Telex-Dati (Amministrazione P.T. / national)
+^.^| 222 2 | ITAPAC X.25
+^.^| 222 3 | PAN (Packet Network)
+^.^| 222 6 | ITAPAC – X.32 PSTN, X.28, D channel
+^.^| 222 7 | ITAPAC International
+^.^| 223 3 | ALBADATA X.25
+^.^| 223 4 | Trasmissione dati a commutazione di pacchetto X.25 +
+ (UNISOURCE ITALIA S.p.A.)
+^.^| 223 5 | Trasmissione dati a commutazione di pacchetto X.25 (INFOSTRADA S.p.A.)
+^.^| 223 6 | Trasmissione dati a commutazione di pacchetto X.25 +
+ (WIND Telecomunicazioni S.p.A.)
+^.^| 223 7 | Trasmissione dati a commutazione di pacchetto X.25 (Atlanet S.p.A.)
+
+
+.19+| JAPON +
+_JAPAN_ +
+JAPÓN ^.^| 440 0 | GLOBALNET (Network of the Global VAN Japan Incorporation)
+^.^| 440 2 | NEC-NET (NEC Corporation)
+^.^| 440 3 | JENSNET (JENS Corporation)
+^.^| 440 4 | JAIS-NET (Japan Research Institute Ltd.)
+^.^| 440 5 | NCC-VAN (NRI Co., Ltd.)
+^.^| 440 6 | TYMNET-JAPAN (JAPAN TELECOM COMMUNICATIONS SERVICES CO.,    LTD.)
+^.^| 441 2 | Sprintnet (Global One Communications, INC.)
+^.^| 441 3 | KYODO NET (UNITED NET Corp)
+^.^| 441 5 | FENICS (FUJITSU LIMITED)
+^.^| 441 6 | HINET (HITACHI Information Network, Ltd.)
+^.^| 441 7 | TIS-Net (TOYO Information Systems Co., Ltd.)
+^.^| 441 8 | TG-VAN (TOSHIBA Corporation)
+^.^| 442 0 | Pana-Net (MATSUSHITA ELECTRIC INDUSTRIAL CO. LTD.)
+^.^| 442 2 | CTC-P (CHUBU TELECOMMUNICATIONS CO., INC.)
+^.^| 442 3 | JENSNET (JENS Corporation)
+^.^| 442 4 | SITA NETWORK
+^.^| 442 5 | GLOBAL MANAGED DATA SERVICE (Cable & Wireless IDC-Si)
+^.^| 442 6 | ECHO-NET (HITAHC INFORMATION SYSTEMS LTD.)
+^.^| 442 7 | U-net (NIHON UNYSYS INFORMATION SYSTEMS LTD.)
+
+
+.2+| KAZAKHSTAN +
+_KAZAKHSTAN_ +
+KAZAJSTÁN ^.^| 401 0 | KazNet X.25
+^.^| 401 1 | BankNet X.25
+
+
+| KENYA +
+_KENYA_ +
+KENYA ^.^| 639 0 | KENPAC – Telkom Kenya Ltd.
+
+
+| KOWEÏT +
+_KUWAIT_ +
+KUWAIT ^.^| 419 5 | Qualitynet
+
+
+.8+| LETTONIE +
+_LATVIA_ +
+LETONIA ^.^| 247 1 | Latvijas mobilais telefons
+^.^| 247 2 | Tele2
+^.^| 247 3 | Telekom Baltija
+^.^| 247 4 | MDBA
+^.^| 247 5 | Rigatta
+^.^| 247 6 | Rixtel
+^.^| 247 7 | Advem
+^.^| 247 8 | AWA Baltic
+
+
+| L'EX-RÉP. YOUGOSLAVE DE MACÉDOINE +
+_THE FORMER YUGOSLAV REP. OF MACEDONIA_ +
+LA EX REP. YUGOSLAVA DE MACEDONIA ^.^| 294 0 | MAKPAK
+
+
+| LIBAN +
+_LEBANON_ +
+LÍBANO ^.^| 415 5 | Réseau public de transmission de données par paquets
+
+
+.2+| LITUANIE +
+_LITHUANIA_ +
+LITUANIA ^.^| 246 2 | Vilnius DATAPAK
+^.^| 246 3 | Omnitel
+
+
+.5+| LUXEMBOURG  +
+_LUXEMBOURG_ +
+LUXEMBURGO ^.^| 270 2 | CODENET
+^.^| 270 3 | RAPNET (Regional ATS Packet Switched Network)
+^.^| 270 4 | LUXPAC (réseau de transmission de données à commutation par paquets)
+^.^| 270 5 | LUXNET (interconnection entre le réseau public de transmission de données et d'autres réseaux publics luxembourgeois)
+^.^| 270 9 | LUXPAC (accès X.28 et X.32 au réseau téléphonique commuté)
+
+| MACAO, CHINE +
+_MACAU, CHINA_ +
+MACAO, CHINA ^.^| 455 0 | MACAUPAC
+
+
+| MADAGASCAR +
+_MADAGASCAR_ +
+MADAGASCAR ^.^| 646 0 | INFOPAC
+
+
+.7+| MALAISIE +
+_MALAYSIA_ +
+MALASIA ^.^| 502 0 | COINS Global Frame Relay
+^.^| 502 1 | Malaysian Public Packet Switched Public Data Network (MAYPAC)
+^.^| 502 3 | Corporate Information Networks
+^.^| 502 4 | ACASIA-ASEAN Managed Overlay Network
+^.^| 502 6 | Mutiara Frame Relay Network
+^.^| 502 7 | Mobile Public Data Network (WAVENET)
+^.^| 502 8 | Global Management Data Services (GMDS)
+
+
+| MALDIVES +
+_MALDIVES_ +
+MALDIVAS ^.^| 472 0 | DATANET (Maldives Packet Switching Service)
+
+
+| MALTE +
+_MALTA_ +
+MALTA ^.^| 278 2 | MALTAPAC (Packet Switching Service)
+
+
+.3+| MAROC +
+_MOROCCO_ +
+MARRUECOS ^.^| 604 1 | MAGHRIPAC
+^.^| 604 2 | MAGHRIPAC X.32
+^.^| 604 9 | MAGHRIPAC RTC PAD
+
+
+.12+| MEXIQUE +
+_MEXICO_ +
+MÉXICO ^.^| 334 0 | TELEPAC
+^.^| 334 1 | UNITET
+^.^| 334 2 | IUSANET
+^.^| 334 3 | TEI
+^.^| 334 4 | OPTEL
+^.^| 334 5 | TELNORPAC
+^.^| 334 6 | TYMPAQ
+^.^| 334 7 | SINFRARED
+^.^| 334 8 | INTERVAN
+^.^| 334 9 | INTELCOMNET
+^.^| 335 0 | AVANTEL, S.A.
+^.^| 335 1 | ALESTRA, S. DE R.L. DE C.V.
+
+
+| MICRONÉSIE +
+_MICRONESIA_ +
+MICRONESIA ^.^| 550 1 | FSMTC Packet Switched Network
+
+
+| MOZAMBIQUE +
+_MOZAMBIQUE_ +
+MOZAMBIQUE ^.^| 643 5 | COMPAC (Packet Switching Public Data Network)
+
+
+| MYANMAR +
+_MYANMAR_ +
+MYANMAR ^.^| 414 1 | MYANMARP
+
+
+| NAMIBIE +
+_NAMIBIA_ +
+NAMIBIA ^.^| 649 0 | SWANET (Public Packet Switched Network)
+
+
+| NÉPAL +
+_NEPAL_ +
+NEPAL ^.^| 429 0 | NEPPAK (Nepal Packet Switched Public Data Network)
+
+| NICARAGUA +
+_NICARAGUA_ +
+NICARAGUA ^.^| 710 0 | NicaPac
+
+
+.3+| NORVÈGE +
+_NORWAY_ +
+NORUEGA ^.^| 242 1 | DATEX (Circuit Switched Network, CSDN)
+^.^| 242 2 | DATAPAK (Packet Switched Network, PSDN)
+^.^| 242 9 | Shared by private data networks, for PNIC allocation
+
+
+| NOUVELLE-CALÉDONIE +
+_NEW CALEDONIA_ +
+NUEVA CALEDONIA ^.^| 546 0 | Transpac – Nouvelle Calédonie et opérateur public local
+
+
+| NOUVELLE-ZÉLANDE +
+_NEW ZEALAND_ +
+NUEVA ZELANDIA ^.^| 530 1 | PACNET Packet Switching Network
+
+
+| OUZBÉKISTAN +
+_UZBEKISTAN_ +
+UZBEKISTÁN ^.^| 434 1 | UzPAK
+
+
+| PAKISTAN +
+_PAKISTAN_ +
+PAKISTÁN ^.^| 410 1 | TRANSLINK
+
+
+.2+| PANAMA +
+_PANAMA_ +
+PANAMÁ ^.^| 714 1 | Red de transmisión de datos con conmutación de paquetes (INTELPAQ)
+^.^| 714 4 | CWP DATA NETWORK
+
+
+.3+| PARAGUAY +
+_PARAGUAY_ +
+PARAGUAY ^.^| 744 0 | PARABAN
+^.^| 744 7 | ANTELPAC
+^.^| 744 8 | PARAPAQ
+
+
+.7+| PAYS-BAS +
+_NETHERLANDS_ +
+PAÍSES BAJOS ^.^| 204 1 | Datanet 1 X.25 access
+^.^| 204 4 | Unisource/Unidata
+^.^| 204 6 | Unisource/VPNS
+^.^| 205 2 | NV CasTel
+^.^| 205 3 | Global One Communications BV
+^.^| 205 5 | Rabofacet BV
+^.^| 205 7 | Trionet v.o.f.
+
+
+.2+| PÉROU +
+_PERU_ +
+PERÚ ^.^| 716 0 | MEGANET (PERUNET)
+^.^| 716 1 | MEGANET
+
+
+.5+| PHILIPPINES +
+_PHILIPPINES_ +
+FILIPINAS ^.^| 515 1 | CWI DATANET – Capitol Wireless, Inc. (CAPWIRE)
+^.^| 515 2 | Philippine Global Communications, Inc. (PHILCOM)
+^.^| 515 4 | Globe-Mackay Cable and Radio Corp. (GMCR)
+^.^| 515 6 | Eastern Telecommunications Philippines, Inc. (ETPI)
+^.^| 515 7 | DATAPAC
+
+
+.17+| POLOGNE +
+_POLAND_ +
+POLONIA ^.^| 260 1 | POLPAK
+^.^| 260 3 | EXATEL
+^.^| 260 4 | POLPAK-T
+^.^| 260 621 | DATACOM
+^.^| 260 622 | MNI
+^.^| 260 6301 | INTERNET GROUP
+^.^| 260 6303 | INTERNET TECHNOLOGIES
+^.^| 260 6304 | INTERTELE
+^.^| 260 641 | PAGI
+^.^| 260 642 | CROWLEY DATA POLAND
+^.^| 260 651 | MEDIATEL
+^.^| 260 661 | KOLPAK
+^.^| 260 662 | ENERGIS POLSKA
+^.^| 260 672 | VPN SERVICE
+^.^| 260 681 | EXATEL
+^.^| 260 691 | NETIA
+^.^| 260 7 | CUPAK
+
+
+| POLYNÉSIE FRANÇAISE +
+_FRENCH POLYNESIA_ +
+POLINESIA FRANCESA ^.^| 547 0 | Transpac – Polynésie et opérateur public local
+
+
+.8+| PORTUGAL +
+_PORTUGAL_ +
+PORTUGAL ^.^| 268 0 | PrimeNet
+^.^| 268 1 | OniSolutions -Infocomunicações, S.A.
+^.^| 268 2 | CPRM-Marconi
+^.^| 268 3 | Eastécnica, Electrónica e Técnica, S.A.
+^.^| 268 4 | PrimeNet
+^.^| 268 5 | Global One – Comunicações, S.A.
+^.^| 268 6 | HLC, Telecomunicações & Multimédia, S.A.
+^.^| 268 7 | Jazztel Portugal – Serviços de Telecomunicações, S.A.
+
+
+.2+| PUERTO RICO +
+_PUERTO RICO_ +
+PUERTO RICO ^.^| 330 2 | ATM Broadband Network
+^.^| 330 3 | TDNet Puerto Rico
+
+
+| QATAR +
+_QATAR_ +
+QATAR ^.^| 427 1 | DOHPAK
+
+
+.3+| RÉP. TCHÈQUE +
+_CZECH REP._ +
+REP. CHECA ^.^| 230 1 | Telefónica O2 Czech Repubic
+^.^| 230 30 | G-NET
+^.^| 230 40-44 | RadioNET
+
+
+| ROUMANIE +
+_ROMANIA_ +
+RUMANIA ^.^| 226 0 | ROMPAC
+
+
+.20+| ROYAUME-UNI +
+_UNITED KINGDOM_ +
+REINO UNIDO ^.^| 234 0 | BT
+^.^| 234 1 | International Packet Switching Service (IPSS)
+^.^| 234 2 | Packet Switched Service (PSS)
+^.^| 234 3 | BT Concert Packet Network
+^.^| 234 4 | BT Concert Packet Network
+^.^| 234 7 | BT
+^.^| 234 8 | BT
+^.^| 234 9 | Barclays Technology Services
+^.^| 235 0 | C&W X.25 Service, International Packet Gateway {blank}footnote:royaume[utilización interno, véase <<BE 879>>]
+^.^| 235 1 | C & W X.25 Service {blank}footnote:royaume[]
+^.^| 235 2 | Kingston Communications (Hull) PLC.
+^.^| 235 3 | Vodaphone, Packet Network Service
+^.^| 235 4 | Nomura Computer Systems Europe Ltd. (NCC-E)
+^.^| 235 5 | JAIS Europe Ltd.
+^.^| 235 7 | FEDEX UK
+^.^| 235 8 | Reuters
+^.^| 235 9 | BT
+^.^| 236 0 | AT&T ISTEL
+^.^| 237 0 | GlobalOne (France Telecom)
+^.^| 237 8 | Racal Telecom
+
+
+| SAINT-MARIN +
+_SAN MARINO_  +
+SAN MARINO ^.^| 292 2 | X-Net SMR
+
+
+| SALOMON (ILES) +
+_SOLOMON ISLANDS_ +
+SALOMÓN (ISLAS) ^.^| 540 0 | DATANET
+
+
+| SÉNÉGAL +
+_SENEGAL_ +
+SENEGAL ^.^| 608 1 | SENPAC
+
+
+| SERBIE +
+_SERBIA_ +
+SERBIA ^.^| 220 1 | YUPAC (Yugoslav Packet Switched Public Data Network)
+
+
+| SEYCHELLES +
+_SEYCHELLES_ +
+SEYCHELLES ^.^| 633 1 | Infolink
+
+
+.9+| SINGAPOUR +
+_SINGAPORE_ +
+SINGAPUR ^.^| 525 0 | International telephone prefix
+^.^| 525 1 | Inmarsat service
+^.^| 525 2 | TELEPAC (Public Packet Switching Data Network)
+^.^| 525 3 | High speed data/long packet service
+^.^| 525 4 | Public Data Network
+^.^| 525 5 | Public Data Network
+^.^| 525 8 | Telex
+^.^| 525 7 | ISDN packet switching service
+^.^| 525 9 | PSTN access (dial-in/out)
+
+
+| SLOVAQUIE +
+_SLOVAKIA_ +
+ESLOVAQUIA ^.^| 231 1 | EuroTel
+
+
+| SLOVÉNIE +
+_SLOVENIA_ +
+ESLOVENIA ^.^| 293 1 | SIPAX.25
+
+
+.4+| SRI LANKA +
+_SRI LANKA_ +
+SRI LANKA ^.^| 413 2 | Lanka Communication Services (Pvt) Limited
+^.^| 413 3 | Electroteks (Pvt) Limited
+^.^| 413 62 | MTT Network (Pvt) Limited
+^.^| 413 63 | DPMC Electronics (Pvt) Limited
+
+
+| SUDAFRICAINE (RÉP.) +
+_SOUTH AFRICA_ +
+SUDAFRICANA (REP.) ^.^| 655 0 | Saponet – P
+
+
+.4+| SUÈDE +
+_SWEDEN_ +
+SUECIA ^.^| 240 2 | WM-data Infrastructur
+^.^| 240 3 | Datapak (Packet Switched Public Data Network) – TeliaSonera AB
+^.^| 240 6 | Flex25 (Public Packet Switched Data Network)
+^.^| 240 7 | Private X.25 Networks (DNIC allocated for a group of private networks) – TeliaSonera AB
+
+
+.7+| SUISSE +
+_SWITZERLAND_ +
+SUIZA ^.^| 228 0 | ISDNPac
+^.^| 228 2 | Transpac-CH
+^.^| 228 3 | Bebbicel
+^.^| 228 4 | Telepac
+^.^| 228 5 | Telepac (accès de réseaux privés)
+^.^| 228 6 | DataRail
+^.^| 228 7 | Spack
+
+
+| TCHAD +
+_CHAD_ +
+CHAD ^.^| 622 2 | TCHADPAC
+
+
+.3+| THAÏLANDE +
+_THAILAND_ +
+TAILANDIA ^.^| 520 2 | THAIPAK 2 – Value Added Public Packet Switched Data Network
+^.^| 520 3 | CAT Store and Forward Fax Network
+^.^| 520 9 | TOT ISDN
+
+
+| TONGA +
+_TONGA_ +
+TONGA ^.^| 539 0 | TONGAPAK
+
+
+.2+| TRINITÉ-ET-TOBAGO +
+_TRINIDAD AND TOBAGO_ +
+TRINIDAD Y TABAGO ^.^| 374 0 | TEXDAT
+^.^| 374 5 | DATANETT
+
+
+.2+| TURKS ET CAICOS (ILES) +
+_TURKS AND CAICOS ISLANDS_ +
+TURQUESAS Y CAICOS (ISLAS) ^.^| 376 3 | Cable and Wireless Packet Switched Node
+^.^| 376 4 | IslandCom
+
+
+.4+| TURQUIE +
+_TURKEY_ +
+TURQUÍA ^.^| 286 0 | TELETEX
+^.^| 286 1 | DATEX-L
+^.^| 286 3 | Turkish Packet Switched Data Network (TURPAK)
+^.^| 286 4 | TURPAK
+
+
+.4+| UKRAINE +
+_UKRAINE_ +
+UCRANIA ^.^| 255 0 | UkrPack
+^.^| 255 1 | bkcNET
+^.^| 255 5 | GTNET
+^.^| 255 6 | UkrPack
+
+
+.3+| URUGUAY +
+_URUGUAY_ +
+URUGUAY ^.^| 748 2 | URUPAC – Servicio público de transmisión de datos con conmutación de    paquetes
+^.^| 748 8 | URUPAC – Interfuncionamiento con la red télex
+^.^| 748 9 | URUPAC – Interfuncionamiento con la red telefónica
+
+
+| VANUATU +
+_VANUATU_ +
+VANUATU ^.^| 541 0 | VIAPAC (Vanuatu International Access for Packets)
+
+
+| VATICAN +
+_VATICAN_ +
+VATICANO ^.^| 225 0 | Packet Switching Data Network (PSDN) of Vatican City State
+
+
+| ZAMBIE  +
+_ZAMBIA_ +
+ZAMBIA ^.^| 645 1 | ZAMPAK
+
+
+| ZIMBABWE  +
+_ZIMBABWE_ +
+ZIMBABWE ^.^| 648 4 | ZIMNET
+
+|===
+
+<<<
+
+== ENMIENDAS
+
+[%unnumbered]
+|===
+^.^h| Enmienda N.° ^.^h| Boletín de Explotación N.° ^.^h| País o zona geográfica
+^.^| 1 | |
+^.^| 2 | |
+^.^| 3 | |
+^.^| 4 | |
+^.^| 5 | |
+^.^| 6 | |
+^.^| 7 | |
+^.^| 8 | |
+^.^| 9 | |
+^.^| 10 | |
+^.^| 11 | |
+^.^| 12 | |
+^.^| 13 | |
+^.^| 14 | |
+^.^| 15 | |
+^.^| 16 | |
+^.^| 17 | |
+^.^| 18 | |
+^.^| 19 | |
+^.^| 20 | |
+^.^| 21 | |
+^.^| 22 | |
+^.^| 23 | |
+^.^| 24 | |
+^.^| 25 | |
+^.^| 26 | |
+^.^| 27 | |
+^.^| 28 | |
+^.^| 29 | |
+^.^| 30 | |
+
+|===
+
+<<<
+
+[%unnumbered]
+|===
+h| image::002.gif["",105,118] | _Este formulario de notificación debe remitirse a:_ +
+*Unión Internacional de Telecomunicaciones* +
+*Oficina de Normalización de las Telecomunicaciones (TSB)* +
+*Place des Nations* +
+*CH – 1211 Genève 20* +
+*Suisse* +
+*Tel.:   +41 22 730 5211     Fax:   +41 22 730 5853     E-mail:   tsbtson@itu.int*
+
+|===
+
+
+[%unnumbered]
+|===
+2+^.^h| Notificación para la asignación de códigos de identificación de red de datos (CIRD) por las administraciones {blank}footnote:[Puede adjuntarse a este formulario, si se desea, una descripción de la red a la que se ha atribuido el CIRD.]
+
+| Nombre y dirección de la administración: | 
+| CIRD N.°{blank}footnote:[Si el CIRD es compartido por varias redes, deberán mostrarse las asignaciones de la gama de números. Por ejemplo, del CIRD 750 1 compartido por varias redes, el número 750 11 está asignado a le «red A» y los números 750 12 a 750 14 están asignados a la «red B».]: | 
+| Nombre de la red a la cual se ha atribuido el CIRD {blank}footnote:[Deberá utilizarse un formulario aparte para cada CIRD.]: | 
+| Localidad de la red (país o zona geográfica): | 
+| Fecha de notificación: | 
+| Dirección postal de la entidad que presta el servicio y ala que se puede solicitar información adicional: | \_\____\__\_____\______\____
+
+| Tel.: | \_\____\__\_____\______\____
+| Fax: | \_\____\__\_____\______\____
+| E-mail: | \_\____\__\_____\______\____
+
+| Su referencia: |
+| Fecha: |
+| Firma: |
+
+|===
+
+

@@ -1,0 +1,488 @@
+= Liste des autorités nationales, chargées de l’attribution des codes du prestataire terminal UIT-T T.35
+:bureau: T
+:docnumber: 
+// :annex-title-fr: Annexe au Bulletin d'exploitation de l'UIT
+// :annex-id: N^o^ 1001
+:published-date: 2012-04-01
+:status: published
+:doctype: recommendation-annex
+:keywords: 
+:imagesdir: images
+:docfile: T-SP-T.35B-2012-MSW-F.adoc
+:mn-document-class: ituob
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+:language: fr
+
+
+[preface]
+== Note du TSB
+
+La Recommandation UIT-T T.35 contient un mécanisme permettant de mettre en œuvre des facilités non normalisées, qui sont utilisées dans plusieurs protocoles définis dans les Recommandations UIT-T. Ce mécanisme utilise trois types de codes : (a) un indicatif de pays, (b) un code du prestataire terminal (également connu comme code de fabricant) et (c) un code interne du prestataire terminal. Les indicatifs de pays de la Recommandation UIT-T T.35 sont définis dans cette Recommandation et les codes internes du prestataire terminal sont définis par le fabricant. Toutefois, en ce qui concerne le code du fabricant, il est indiqué dans la Recommandation UIT-T T.35 qu'«une Administration, ou un organisme national désigné par l'Administration, est responsable de l'attribution et de la gestion du code du prestataire terminal». 
+
+Afin d'établir une liste centralisée des autorités nationales chargées de l'attribution des codes du prestataire terminal conformément à la Recommandation UIT-T T.35 et d'aider les fabricants à obtenir ces codes, il est en outre indiqué dans la Recommandation UIT-T T.35 que «lorsqu'une Administration désigne un organisme national, elle doit en communiquer l'adresse et le nom au Directeur du TSB».
+
+Une liste des autorités nationales, chargées de l'attribution des codes du prestataire terminal conformément à la Recommandation UIT-T T.35, a été établie d'après les réponses à la Circulaire TSB 184 du 12 septembre 2003 ainsi qu'à l'Addendum 1 du 30 juillet 2004. 
+
+Toute information nouvelle ou actualisée, concernant l'identité de l'autorité nationale en vigueur, désignée par chaque Administration pour l'attribution des codes du prestataire terminal conformément à la Recommandation UIT-T T.35, doit être communiquée au TSB, E-mail: mailto:tsbtson@itu.int[tsbtson@itu.int], Fax: +41 22 730 5853 au moyen du http://www.itu.int/ITU-T/inr/forms/files/T35-form-fr.doc[formulaire de notification].
+
+Les appellations employées dans cette Liste et la présentation des données qui y figurent n'impliquent, de la part de l'UIT, aucune prise de position quant au statut juridique des pays ou zones géographiques, ou de leurs autorités.
+
+
+== {blank}
+
+[%unnumbered]
+|===
+2+.<| Allemagne
+| Nom de l'Administration: | Federal Network Agency for Electricity, Gas, Telecommunication, Post and Railway
+2+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? OUI
+2+.<| Autorité responsable de l'attribution:
+| Type de terminal: | H-, T- and V-Series
+| Contact: | N/A
+| Organisation: | Regulierungsbehörde für Telekommunikation und Post
+| Département: | Nummernverwaltung
+| Adresse: | Postfach 80 01, 55003 Mainz, Germany
+| Téléphone: | N/A
+| Fax: | +49 (0) 6131 18 5630
+| E-mail: | N/A
+| Liens correspondants: | http://www.bundesnetzagentur.de/enid/99ac9212d8585c26271e444aa9cc3293,d0d2d85f7472636964092d0936333139/Zuteilungsregeln/Nummernart_1ew.html[http://www.bundesnetzagentur.de/enid/99ac9212d8585c26271e444aa9cc3293,] http://www.bundesnetzagentur.de/enid/99ac9212d8585c26271e444aa9cc3293,d0d2d85f7472636964092d0936333139/Zuteilungsregeln/Nummernart_1ew.html[d0d2d85f7472636964092d0936333139/Zuteilungsregeln/Nummernart\_1ew.html]
+| Mise à jour des informations: | 10 mars 2006
+
+|===
+
+
+[%unnumbered]
+|===
+3+.<| Botswana
+| Nom de l'Administration: 2+| Botswana Telecommunications Authority
+3+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? NON
+3+.<| Autorité responsable de l'attribution: Aucune n'a été désignée
+2+| Mise à jour des informations: | 31 août 2004
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| Cambodge
+| Nom de l'Administration: | Ministry of Posts and Telecommunications
+2+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? NON
+2+.<| Autorité responsable de l'attribution: Aucune n'a été désignée
+| Mise à jour des informations: | 7 septembre 2004
+
+|===
+
+
+[%unnumbered]
+|===
+2+| Chine
+| Nom de l'Administration: | Ministry of Industry and Information Technology (MIIT)
+2+| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? OUI
+2+| Autorité responsable de l'attribution:
+| Type de terminal: | H-, T- and V-Series
+| Contact: | Ms. Mei DENG, Mr. Shizhuo ZHAO
+| Organisation: | China Communication Standards Association (CCSA)
+| Département: a| 
+| Adresse: | CCSA 52#Hua Yuan Bei Road, Haidian District, Beijing Chine 100191
+| Téléphone: a| +86 10 8205 4513 (Ms. Mei DENG); +
+ +86 10 6230 2645 (Mr. Shizhuo ZHAO)
+| Fax: | +86 10 8205 4513
+| E-mail: | mailto:dengmei@ccsa.org.cn[dengmei@ccsa.org.cn]; mailto:zhaosz@ccsa.org.cn[zhaosz@ccsa.org.cn]
+| Liens correspondants: | http://www.ccsa.org.cn/english/[www.ccsa.org.cn/english/]
+| Mise à jour des informations: | 15 décembre 2011
+
+|===
+
+[%unnumbered]
+|===
+2+.<| Curaçao
+| Nom de l'Administration: | Bureau of Telecommunication and Post
+2+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H-, T- ou V ? NON
+2+.<| Autorité responsable de l'attribution: Aucune n'a été désignée
+| Mise à jour des informations: | 23 septembre 2004
+
+|===
+
+[%unnumbered]
+|===
+2+.<| Espagne
+| Nom de l'Administration: | Ministerio Industria, Turismo y Comercio
+2+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? OUI
+2+.<| Autorité responsable de l'attribution: Dirección General de Telecomunicaciones
+| Type de terminal: | H-, T- and V-Series
+| Contact: | Marta Serrano Clamarigand
+| Organisation: | Dirección General de Telecomunicaciones
+| Département: | Area de Normalización Técnica
+| Adresse: | C/Capitán Haya No 41
+| Téléphone: | +34 9 1346 2805
+| Fax: | +34 9 1346 1566
+| E-mail: | mailto:Normalizacion_tecnica@mityc.es[Normalizacion\_tecnica@mityc.es]
+| Liens correspondants: | http://www.bundesnetzagentur.de/enid/99ac9212d8585c26271e444aa9cc3293,d0d2d85f7472636964092d0936333139/Zuteilungsregeln/Nummernart_1ew.html[www.mityc.es/telecomunicaciones/secciones/normalizacion]
+| Mise à jour des informations: | Janvier 2009
+
+|===
+
+[%unnumbered]
+|===
+2+.<| Etats-Unis
+| Nom de l'Administration: | U.S. Department of State
+2+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? OUI
+2+.<| Autorité responsable de l'attribution{blank}footnote:[*Note:* Les deux organisations sont aussi chargées de l'attribution des codes du prestataire terminal UIT-T T.35 pour le Canada.]:
+| Type de terminal: | T- and V-Series
+| Contact: | Fred Lucas (TIA/TR-30 Chair)
+| Organisation: | Telecommunications Industry Association (TIA)/Engineering Committee TR-30
+| Département: | N/A
+| Adresse: | 3421 Buttonwood Court, Reiserstown, MD 21136-4401, USA
+| Téléphone: | +1 410 239 0248
+| Fax: | N/A
+| E-mail: | mailto:fred.lucas@worldnet.att.net[fred.lucas@worldnet.att.net]
+| Liens correspondants: | http://www.tiaonline.org/standards/committees/T35CodeAdministratorRegion2.cfm[http://www.tiaonline.org/standards/committees/T35CodeAdministratorRegion2.cfm]
+| Mise à jour de l'information: | 10 mars 2005
+2+.<|
+| Type de terminal: | H-Series
+| Contact: | Gary Thom
+| Organisation: | Delta Information Systems
+| Département | N/A
+| Adresse: | 300 Welsh Road, Building 3, Horsham, PA 190044-2273, USA
+| Téléphone: | N/A
+| Fax: | N/A
+| E-mail: | mailto:gthom@delta-info.com[gthom@delta-info.com]
+| Liens correspondants: | http://www.delta-info.com/Protocol_Test/Manufacturer_codes.html[http://www.delta-info.com/Protocol\_Test/Manufacturer\_codes.html]
+| Mise à jour des informations: | 12 novembre 2004
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| Finlande
+| Nom de l'Administration: | Finnish Communications Regulatory Authority
+2+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? OUI
+2+.<| Autorité responsable de l'attribution:
+| Type de terminal: | H-, T- and V-Series
+| Contact: | Mr Antti Pokela
+| Organisation: | Finnish Communications Regulatory Authority
+| Département: | N/A
+| Adresse: | P.O. Box 313, FI-00181 Helsinki, Finland
+| Téléphone: | +358 9 69 661
+| Fax: | +358 9 6966 410
+| E-mail: | mailto:antti.pokela@ficora.fi[antti.pokela@ficora.fi]
+| Liens correspondants: | http://www.ficora.fi/[http://www.ficora.fi/]
+| Mise à jour des informations: | 21 octobre 2004
+
+|===
+
+[%unnumbered]
+|===
+2+.<| France
+| Nom de l'Administration: | Autorité de Régulations des Communications Electroniques et des Postes (ARCEP)
+2+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? OUI
+2+.<| Autorité responsable de l'attribution:
+| Type de terminal: | H, T and V-Series
+| Contact: | Jacques Senesse
+| Organisation: | Autorité de régulation des Télécommunications
+| Département: | SIN
+| Adresse: | 7, Square Max-Hymans F-75730 Paris cedex 15 France
+| Téléphone: | +33 1 40 47 71 46
+| Fax: | +33 1 40 47 71 88
+| E-mail: | mailto:jacques.senesse@art-telecom.fr[jacques.senesse@art-telecom.fr]
+| Liens correspondants: | N/A
+| Mise à jour des informations: | 3 novembre 2003
+
+|===
+
+[%unnumbered]
+|===
+2+.<| Iran (République islamique d')
+| Nom de l'Administration: | Telecommunication Company of Iran (TCI)
+2+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? NON
+2+.<| Autorité responsable de l'attribution: Aucune n'a été désignée
+| Mise à jour des informations: | 13 septembre 2004
+
+|===
+
+[%unnumbered]
+|===
+2+.<| Italie
+| Nom de l'Administration: | Ministerio delle Communicazioni – General Secretariat International Relations
+2+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? OUI
+2+.<| Autorité responsable de l'attribution: Aucune n'a été désignée
+| Mise à jour des informations: | 4 novembre 2004
+
+|===
+
+[%unnumbered]
+|===
+2+.<| Japon
+| Nom de l'Administration: | Ministry of Internal Affairs and Communications
+2+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? OUI
+2+.<| Autorité responsable de l'attribution:
+| Type de terminal: | H, T and V-Series
+| Contact: | Mr Manabu Kanaya, Director of Standardization Division
+| Organisation: | Ministry of Internal Affairs and Communications
+| Département: | Information and Communications Policy Bureau
+| Adresse: | 1-2 Kasumigaseki 2-chome Chiyoda-ku, Tokyo 100-8926, Japan
+| Téléphone: | +81 3 5353 5763
+| Fax: | +81 3 5253 5764
+| E-mail: | mailto:istd@soumu.go.jp[istd@soumu.go.jp]
+| Liens correspondants: | N/A
+| Mise à jour des informations: | 27 octobre 2003
+
+|===
+
+[%unnumbered]
+|===
+2+.<| Kirghizistan
+| Nom de l'Administration: | State Communications Agency at Government of Kyrgyz Republic
+2+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? NON
+2+.<| Autorité responsable de l'attribution:
+| Type de terminal: | H, T and V-Series
+| Contact: | Dergacheva Ekaterina Alexandrovna
+| Organisation: | State Communications Agency at Government of Kyrgyz Republic
+| Département: | Department of Standardization and Certification
+| Adresse: | Kyrgyzstan, Bishkek, Sovetskaya str. 7b
+| Téléphone: | +996 312 54 41 07
+| Fax: | +996 312 54 41 05
+| E-mail: | mailto:nta@infotel.kg[nta@infotel.kg]
+| Liens correspondants: | N/A
+| Mise à jour de l'information: | 8 octobre 2003
+
+|===
+
+[%unnumbered]
+|===
+2+.<| Koweït
+| Nom de l'Administration: | Ministry of Communications
+2+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? NON
+2+.<| Autorité responsable de l'attribution: Aucune n'a été désignée
+| Mise à jour de l'information: | 5 janvier 2004
+
+|===
+
+[%unnumbered]
+|===
+2+.<| L'ex-République yougoslave de Macédonie
+| Nom de l'Administration: | Agency for Electronic Communications
+2+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? NON
+2+.<| Autorité responsable de l'attribution:
+| Type de terminal: | T-Series
+| Contact: | Biljana Panovska-Gavrilova
+| Organisation: | Telecommunications Directorate of The Former Yugoslav Republic of Macedonia
+| Département: | Telecommunications Department
+| Adresse: | 1, Dame Gruev St, 1000 Skopje, Macedonia
+| Téléphone: | +389 2 3289 203; +389 2 3224 511
+| Fax: | +389 2 3224 611
+| E-mail: | mailto:contact@dtk.gov.mk[contact@dtk.gov.mk]
+| Liens correspondants: | N/A
+| Mise à jour de l'information: | 25 septembre 2004
+
+|===
+
+[%unnumbered]
+|===
+2+.<| Maurice
+| Nom de l'Administration: | Information and Communication Technologies Authority
+2+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? NON
+2+.<| Autorité responsable de l'attribution:
+| Type de terminal: | H, T and V-Series
+| Contact: | The Chairman
+| Organisation: | Information and Communication Technologies Authority
+| Département: | N/A
+| Adresse: | Jade House,1st Floor, Cnr Jummah Mosque & Remy Ollier Streets, Port-Louis, Mauritius
+| Téléphone: | +230 217 2222
+| Fax: | +230 217 7777
+| E-mail: | mailto:icta@intnet.mu[icta@intnet.mu]
+| Liens correspondants: | N/A
+| Mise à jour de l'information: | 28 octobre 2003
+
+|===
+
+[%unnumbered]
+|===
+2+.<| Norvège
+| Nom de l'Administration: | Norwegian Post and Telecommunications Authority
+2+.<a| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? OUI
+2+.<| Autorité responsable de l'attribution:
+| Type de terminal: | H-Series
+| Contact : | Anne Thomassen, Hege Johnson, Johannes M Vallesverd
+| Organisation: | Norwegian Post and Telecommunications Authority
+| Département: | Section for telephony and number management
+| Adresse: | Postbox 93, 4791 Lillesand, Norway
+| Téléphone: | + 47 22 82 46 00
+| Fax: | + 47 22 82 46 40
+| E-mail: | mailto:firmapost@npt.no[firmapost@npt.no]
+| Liens correspondants: a| http://www.npt.no/portal/page/portal/PG_NPT_NO_NO/PAG_NPT_NO_HOME/PAG_RESSURSER_TEKST?p_d_i=-121&p_d_c=&p_d_v=48006&menuid=11697[http://www.npt.no/portal/page/portal/PG\_NPT\_NO\_NO/PAG\_ +
+NPT\_NO\_HOME/PAG\_RESSURSER\_TEKST?p\_d\_i=-121&p\_d\_c=&p\_d\_v=48006&menuid=11697] +
+| Mise à jour de l'information: | 28 février 2012
+
+|===
+
+[%unnumbered]
+|===
+2+.<| Pologne
+| Nom de l'Administration: | Office of Electronic Communications (UKE)
+2+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? NON
+2+.<| Autorité responsable de l'attribution:
+| Type de terminal: | All
+| Contact: | Tomasz Karamon
+| Organisation: | UKE
+| Département: | Department of Technology
+| Adresse: | Kasprzaka 18/20, 01-211 Warsaw, Poland
+| Téléphone: | +48 (0) 22 53 49 325
+| Fax: | +48 (0) 22 53 49 327
+| E-mail: | mailto:t.karamon@uke.gov.pl[t.karamon@uke.gov.pl]
+| Liens correspondants: | N/A
+| Mise à jour de l'information: | 23 février 2007
+
+|===
+
+[%unnumbered]
+|===
+2+.<| République tchèque
+| Nom de l'Administration: | Czech Telecommunication Office
+2+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? NON
+2+.<| Autorité responsable de l'attribution: Aucune n'a été désignée
+| Mise à jour des informations: | 10 novembre 2003
+
+|===
+
+[%unnumbered]
+|===
+2+.<| Royaume-Uni
+| Nom de l'Administration: | Office of Communications (Ofcom)
+2+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? OUI
+2+.<| Autorité responsable de l'attribution:
+| Type de terminal: | H, T, V-Series
+| Contact: | Bill Pechey
+| Organisation: | Computency Limited
+| Département: | N/A
+| Adresse: | Jays Lodge, Crays Pond, Reading, RG8 7QG, United Kingdom
+| Téléphone: | +44 870 740 1123
+| Fax: | +44 870 432 1905
+| E-mail: | bpechey@computency.co.uk
+| Liens correspondants: | http://www.cix.co.uk/%7Ebpechey/H221/[http://www.cix.co.uk/~bpechey/H221/]
+| Mise à jour de l'information: | 26 novembre 2004
+
+|===
+
+[%unnumbered]
+|===
+2+.<| Slovénie
+| Nom de l'Administration: | Post and Electronic Communications Agency of the Republic of Slovenia
+2+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? OUI
+2+.<| Autorité responsable de l'attribution:
+| Type de terminal: | H-Series
+| Contact: | Anton Kovacic
+| Organisation: | Post and Electronic Communications Agency
+| Département: | Numbering
+| Adresse: | Stegne 7, P.O. Box 418, SI-1001 Ljubljana, Slovenia
+| Téléphone: | +386 1 583 63 00
+| Fax: | +386 1 511 11 01
+| E-mail: | mailto:anton.kovacic@apek.si[anton.kovacic@apek.si]
+| Liens correspondants: | http://www.apek.si/[http://www.apek.si]
+| Mise à jour de l'information: | 12 novembre 2004
+
+|===
+
+[%unnumbered]
+|===
+2+.<| Suisse
+| Nom de l'Administration: | Office fédéral de la communication (OFCOM)
+2+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? OUI
+2+.<| Autorité responsable de l'attribution:
+| Type de terminal: | H-, T- and V-Series
+| Contact: | Laurent Scheggia
+| Organisation: | Service de télécommunication
+| Département: | Numérotage et adressage
+| Adresse: | 44, rue de l'Avenir – Case postale – CH-2501 Bienne
+| Téléphone: | +41 32 327 5877
+| Fax: | +41 32 327 55 49
+| E-mail: | mailto:laurent.scheggia@bakom.admin.ch[laurent.scheggia@bakom.admin.ch]
+| Liens correspondants: | http://www.ofcam.ch/[www.ofcam.ch] / http://www.e-ofcom.ch/[www.e-ofcom.ch]
+| Mise à jour de l'information: | 30 septembre 2004
+
+|===
+
+[%unnumbered]
+|===
+2+.<| Suriname
+| Nom de l'Administration: | TELESUR – Paramaribo, Suriname
+2+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? NON
+2+.<| Autorité responsable de l'attribution: Aucune n'a été désignée
+| Mise à jour de l'information: | 28 octobre 2003
+
+|===
+
+[%unnumbered]
+|===
+2+.<| Venezuela
+| Nom de l'Administration: | Comisión Nacional de Telecomunicaciones (Conatel)
+2+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? NON
+2+.<| Autorité responsable de l'attribution: Aucune n'a été désignée
+| Mise à jour de l'information: | 24 décembre 2004
+
+|===
+
+[%unnumbered]
+|===
+2+.<| Zambie
+| Nom de l'Administration: | Zambia Information & Communications Technology Authority (ZICTA)
+2+.<| Existe t-il, dans votre pays, des fabricants d'équipements conformes aux Recommandations des séries H, T ou V ? NON
+2+.<| Autorité responsable de l'attribution: Aucune n'a été désignée
+| Mise à jour de l'information: | 6 septembre 2004
+
+|===
+
+<<<
+
+[%unnumbered]
+|===
+_Veuillez faire parvenir le formulaire de notification au TSB E-mail: mailto:tsbtson@itu.int[tsbtson@itu.int], Fax: +41 22 730 5853)._
+
+|===
+
+== Notification de l'Administration sur l'identification des autorités nationales chargées de l'attribution des codes du prestataire terminal conformément à la Recommandation UIT-T T.35
+
+_Veuillez répondre aux questions ci-dessous de manière aussi complète et précise que possible. S'il vous est impossible de nous communiquer certaines informations en raison de leur caractère protégé ou sensible, veuillez le signaler. Les réponses au présent questionnaire seront utilisées pour mettre à jour la liste des autorités nationales chargées d'attribuer des codes du prestataire terminal._
+
+[class=steps]
+. Pays et nom de l'Administration: 
+
+. Existe-t-il, dans votre pays, des fabricants de produits conformes aux:
+
+* Recommandations UIT-T de la série H (conférences multimédias/ +
+visioconférences)? ▭ Oui ▭ Non
+
+* Recommandations UIT-T de la série T (conférences de données, +
+matériel de télécopie)? ▭ Oui ▭ Non
+
+* Recommandations UIT-T de la série V (modems)? ▭ Oui ▭ Non
+
+. Existe-t-il un organisme national, ou une autre autorité responsable de l'attribution, désignée pour attribuer des codes du prestataire terminal, conformément à la Recommandation UIT‑T T.35? ▭ Oui ▭ Non
+. Selon le cas, veuillez indiquer les renseignements suivants pour *chaque* autorité responsable de l'attribution (si différentes autorités pour différents types de terminaux):
++
+--
+[%unnumbered]
+|===
+| Autorité responsable de l'attribution: | 
+| Type{blank}footnote:[Veuillez cocher tous les types applicables et énumérer les « autres catégories »] de terminal: | ▭ Série H ▭ Série T ▭ Série V ▭ Autres catégories:
+| Personne à contacter: |
+| Organisation: |
+| Département:  |
+| Adresse: |
+| Téléphone: |  
+| Téléfax:  |
+| E-mail:  |
+| Liens Internet correspondants: |
+
+|===
+--
+
+. Commentaires
+
+[%unnumbered]
+|===
+|    
+
+|===

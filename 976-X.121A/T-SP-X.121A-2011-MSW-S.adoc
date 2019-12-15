@@ -1,0 +1,402 @@
+= LISTA DE INDICATIVOS DE PAÍS O ZONA GEOGRÁFICA PARA DATOS
+:bureau: T
+:docnumber: 
+:published-date: 2011-03-15
+// :annex-title-fr: Anexo al Boletín de Explotación de la UIT
+// :annex-id: N.° 976
+:status: published
+:doctype: recommendation-annex
+:keywords: 
+:imagesdir: images
+:docfile: T-SP-X.121A-2011-MSW-S.adoc
+:mn-document-class: ituob
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:language: es
+:data-uri-image:
+
+
+[preface]
+== Nota de la TSB
+
+[class=steps]
+. Esta Lista de indicativos de país o zona geográfica para datos reemplaza la publicada en el Anexo al Boletín de Explotación de la UIT N.^o^ 875 del 1 de enero de 2007. Desde entonces, se han efectuado varias asignaciones nuevas, que se han publicado en diferentes números del Boletín de Explotación de la UIT .
+
+. La presente Lista comprende:
+
+* una lista de indicativos de país o zona geográfica para Datos (DCC) - en orden numérico;
+
+. La Lista se actualizará por series de enmiendas numeradas que se publicarán en el Boletín de Explotación de la UIT. Por otra parte, la información contenida en este Anexo está disponible en el sitio web de la UIT ( http://www.itu.int/itu-t/bulletin/annex.html[www.itu.int/itu-t/bulletin/annex.html]).
+
+. Sírvase comunicar sus comentarios con respecto a esta publicación al Director de la TSB:
++
+--
+Tel: +41 22 730 5211
+
+Fax: +41 22 730 5853
+
+Email: tsbmail@itu.int
+--
+
+. Las denominaciones empleadas en esta Lista y la forma en que aparecen presentados los datos que contiene no implican, de parte de la UIT, juicio alguno sobre la condición jurídica de países o zonas geográficas, o de sus autoridades.
+
+
+== Zona 2
+
+[%unnumbered]
+|===
+h| Indicativo h|País o zona geográfica
+
+|202 |Grecia
+|204 |Países Bajos (Reino de los)
+|205 |Países Bajos (Reino de los)
+|206 |Bélgica
+|208 |Francia
+|209 |Francia
+|210 |Francia
+|211 |Francia
+|212 |Mónaco (Principado de)
+|213 |Andorra (Principado de)
+|214 |España
+|215 |España
+|216 |Hungría (República de)
+|218 |Bosnia y Herzegovina
+|219 |Croacia (República de)
+|220 |Serbia (República de)
+|222 |Italia
+|223 |Italia
+|224 |Italia
+|225 |Ciudad del Vaticano (Estado de la)
+|226 |Rumania
+|228 |Suiza (Confederación)
+|229 |Suiza (Confederación)
+|230 |República Checa
+|231 |República Eslovaca
+|232 |Austria
+|233 |Austria
+|234 |Reino Unido de Gran Bretaña e Irlanda del Norte
+|235 |Reino Unido de Gran Bretaña e Irlanda del Norte
+|236 |Reino Unido de Gran Bretaña e Irlanda del Norte
+|237 |Reino Unido de Gran Bretaña e Irlanda del Norte
+|238 |Dinamarca
+|239 |Dinamarca
+|240 |Suecia
+|242 |Noruega
+|243 |Noruega
+|244 |Finlandia
+|246 |Lituania (República de)
+|247 |Letonia (República de)
+|248 |Estonia (República de)
+|250 |Federación de Rusia
+|251 |Federación de Rusia
+|255 |Ucrania
+|257 |Belarús (República de)
+|259 |Moldova (República de)
+|260 |Polonia (República de)
+|261 |Polonia (República de)
+|262 |Alemania (República Federal de)
+|263 |Alemania (República Federal de)
+|264 |Alemania (República Federal de)
+|265 |Alemania (República Federal de)
+|266 |Gibraltar
+|268 |Portugal
+|269 |Portugal
+|270 |Luxemburgo
+|272 |Irlanda
+|274 |Islandia
+|276 |Albania (República de)
+|278 |Malta
+|280 |Chipre (República de)
+|282 |Georgia
+|283 |Armenia (República de)
+|284 |Bulgaria (República de)
+|286 |Turquía
+|288 |Feroe (Islas)
+|290 |Groenlandia
+|292 |San Marino (República de)
+|293 |Eslovenia (República de)
+|294 |La ex República Yugoslava de Macedonia
+|295 |Liechtenstein (Principado de)
+|297 |Montenegro (República de)
+2+|Zona 2, Indicativos de reserva: *29*
+
+|===
+
+
+== Zona 3
+
+[%unnumbered]
+|===
+h|Indicativo h|País o zona geográfica
+
+|302 |Canadá
+|303 |Canadá
+|308 |San Pedro y Miquelón (Colectividad territorial de la República Francesa)
+|310 |Estados Unidos de América
+|311 |Estados Unidos de América
+|312 |Estados Unidos de América
+|313 |Estados Unidos de América
+|314 |Estados Unidos de América
+|315 |Estados Unidos de América
+|316 |Estados Unidos de América
+|330 |Puerto Rico
+|332 |Vírgenes Americanas (Islas)
+|334 |México
+|335 |México
+|338 |Jamaica
+|340 |Guadalupe (Departamento Francés de la)
+|340 |Martinica (Departamento Francés de la)
+|342 |Barbados
+|344 |Antigua y Barbuda
+|346 |Caimanes (Islas)
+|348 |Vírgenes Británicas (Islas)
+|350 |Bermudas
+|352 |Granada
+|354 |Montserrat
+|356 |San Kitts y Nevis
+|358 |Santa Lucía
+|360 |San Vicente y las Granadinas
+|362 |Curaçao
+|363 |Aruba
+|364 |Bahamas (Commonwealth de las)
+|365 |Anguilla
+|366 |Dominica (Commonwealth de)
+|368 |Cuba
+|370 |Dominicana (República)
+|372 |Haití (República de)
+|374 |Trinidad y Tabago
+|376 |Turquesas y Caicos (Islas)
+2+|Zona 3, Indicativos de reserva: *64*
+
+|===
+
+
+== Zona 4
+
+[%unnumbered]
+|===
+h| Indicativo h|País o zona geográfica
+
+|400 |Azerbaiyana (República)
+|401 |Kazajstán (República de)
+|404 |India (República de la)
+|410 |Pakistán (República Islámica del)
+|411 |Pakistán (República Islámica del)
+|412 |Afganistán
+|413 |Sri Lanka (República Socialista Democrática de)
+|414 |Myanmar (Unión de)
+|415 |Líbano
+|416 |Jordania (Reino Hachemita de)
+|417 |República Árabe Siria
+|418 |Iraq (República del)
+|419 |Kuwait (Estado de)
+|420 |Arabia Saudita (Reino de)
+|421 |Yemen (República del)
+|422 |Omán (Sultanía de)
+|423 |Reservado {blank}footnote:[Reservado para la Autoridad Palestina.]
+|424 |Emiratos Arabes Unidos
+|425 |Israel (Estado de)
+|426 |Bahrein (Reino de)
+|427 |Qatar (Estado de)
+|428 |Mongolia
+|429 |Nepal
+|430 |Emiratos Arabes Unidos (Abu Dhabi)
+|431 |Emiratos Arabes Unidos (Dubai)
+|432 |Irán (República Islámica del)
+|434 |Uzbekistán (República de)
+|436 |Tayikistán (República de)
+|437 |República Kirguisa
+|438 |Turkmenistán
+|440 |Japón
+|441 |Japón
+|442 |Japón
+|443 |Japón
+|450 |Corea (República de)
+|452 |Viet Nam (República Socialista de)
+|453 |Hong Kong, China
+|454 |Hong Kong, China
+|455 |Macao, China
+|456 |Camboya (Reino de)
+|457 |Lao (República Democrática Popular)
+|460 |China (República Popular de)
+|466 |Taiwan, China
+|467 |República Popular Democrática de Corea
+|470 |Bangladesh (República Popular de)
+|472 |Maldivas (República de)
+|480 |Corea (República de)
+|481 |Corea (República de)
+2+|Zona 4, Indicativos de reserva: *52*
+
+|===
+
+
+== Zona 5
+
+[%unnumbered]
+|===
+h| Indicativo h|País o zona geográfica
+
+|502 |Malasia
+|505 |Australia
+|510 |Indonesia (República de)
+|515 |Filipinas (República de)
+|520 |Tailandia
+|525 |Singapur (República de)
+|526 |Singapur (República de)
+|528 |Brunei Darussalam
+|530 |Nueva Zelandia
+|534 |Marianas del Norte (Islas) (Commonwealth de las)
+|535 |Guam
+|536 |Nauru (República de)
+|537 |Papua Nueva Guinea
+|539 |Tonga (Reino de)
+|540 |Salomón (Islas)
+|541 |Vanuatu (República de)
+|542 |Fiji (República de)
+|543 |Wallis y Futuna (Territorio Francés de Ultramar)
+|544 |Samoa Norteamericanas
+|545 |Kiribati (República de)
+|546 |Nueva Caledonia (Territorio Francés de Ultramar)
+|547 |Polinesia Francesa (Territorio Francés de Ultramar)
+|548 |Cook (Islas)
+|549 |Samoa (Estado Independiente de)
+|550 |Micronesia (Estados Federados de)
+2+|Zona 5, Indicativos de reserva: *75*
+
+|===
+
+
+== Zona 6
+
+[%unnumbered]
+|===
+h| Indicativo h|País o zona geográfica
+
+|602 |Egipto (República Arabe de)
+|603 |Argelia (República Argelina Democrática y Popular)
+|604 |Marruecos (Reino de)
+|605 |Túnez
+|606 |Jamahiriya Árabe Libia Popular y Socialista
+|607 |Gambia (República de)
+|608 |Senegal (República del)
+|609 |Mauritania (República Islámica de)
+|610 |Malí (República de)
+|611 |Guinea (República de)
+|612 |Côte d'Ivoire (República de)
+|613 |Burkina Faso
+|614 |Níger (República del)
+|615 |Togolesa (República)
+|616 |Benin (República de)
+|617 |Mauricio (República de)
+|618 |Liberia (República de)
+|619 |Sierra Leona
+|620 |Ghana
+|621 |Nigeria (República Federal de)
+|622 |Chad (República del)
+|623 |Centroafricana (República)
+|624 |Camerún (República de)
+|625 |Cabo Verde (República de)
+|626 |Santo Tomé y Príncipe (República Democrática de)
+|627 |Guinea Ecuatorial (República de)
+|628 |Gabonesa (República)
+|629 |Congo (República del)
+|630 |República Democrática del Congo
+|631 |Angola (República de)
+|632 |Guinea-Bissau (República de)
+|633 |Seychelles (República de)
+|634 |Sudán (República del)
+|635 |Rwanda (República de)
+|636 |Etiopía (República Democrática Federal de)
+|637 |Somalí (República Democrática)
+|638 |Djibouti (República de)
+|639 |Kenya (República de)
+|640 |Tanzanía (República Unida de)
+|641 |Uganda (República de)
+|642 |Burundi (República de)
+|643 |Mozambique (República de)
+|645 |Zambia (República de)
+|646 |Madagascar (República de)
+|647 |Departamentos y Territorios Franceses del Océano Índico
+|648 |Zimbabwe (República de)
+|649 |Namibia (República de)
+|650 |Malawi
+|651 |Lesotho (Reino de)
+|652 |Botswana (República de)
+|653 |Swazilandia (Reino de)
+|654 |Comoras (Unión de las)
+|655 |Sudafricana (República)
+|658 |Eritrea
+2+|Zona 6, Indicativos de reserva: *46*
+
+|===
+
+
+== Zona 7
+
+[%unnumbered]
+|===
+h| Indicativo h|País o zona geográfica
+
+|702 |Belice
+|704 |Guatemala (República de)
+|706 |El Salvador (República de)
+|708 |Honduras (República de)
+|710 |Nicaragua
+|712 |Costa Rica
+|714 |Panamá (República de)
+|716 |Perú
+|722 |Argentina (República)
+|724 |Brasil (República Federativa del)
+|725 |Brasil (República Federativa del)
+|730 |Chile
+|732 |Colombia (República de)
+|734 |Venezuela (República Bolivariana de)
+|736 |Bolivia (República de)
+|738 |Guyana
+|740 |Ecuador
+|742 |Guayana (Departamento Francés de la)
+|744 |Paraguay (República del)
+|746 |Suriname (República de)
+|748 |Uruguay (República Oriental del)
+2+|Zona 7, Indicativos de reserva: *79*
+
+|===
+
+<<<
+
+== ENMIENDAS
+
+[%unnumbered]
+|===
+h| Enmienda N.° h| Boletín de Explotación N.° h| País o zona geográfica
+^.^| 1 | |
+^.^| 2 | |
+^.^| 3 | |
+^.^| 4 | |
+^.^| 5 | |
+^.^| 6 | |
+^.^| 7 | |
+^.^| 8 | |
+^.^| 9 | |
+^.^| 10 | |
+^.^| 11 | |
+^.^| 12 | |
+^.^| 13 | |
+^.^| 14 | |
+^.^| 15 | |
+^.^| 16 | |
+^.^| 17 | |
+^.^| 18 | |
+^.^| 19 | |
+^.^| 20 | |
+^.^| 21 | |
+^.^| 22 | |
+^.^| 23 | |
+^.^| 24 | |
+^.^| 25 | |
+^.^| 26 | |
+^.^| 27 | |
+^.^| 28 | |
+^.^| 29 | |
+^.^| 30 | |
+|===

@@ -1,0 +1,503 @@
+= List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
+:bureau: T
+:docnumber: 
+:published-date: 2012-04-01
+// :annex-title: Annex to ITU Operational Bulletin
+// :annex-id: No. 1001
+:status: published
+:doctype: recommendation-annex
+:keywords: 
+:imagesdir: images
+:docfile: T-SP-T.35B-2012-MSW-E.adoc
+:mn-document-class: ituob
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+
+
+[preface]
+== Note from TSB:
+
+ITU-T Recommendation T.35 provides a mechanism for the inclusion of non-standard facilities, which are used in several protocols defined in ITU-T Recommendations. This mechanism uses three types of codes: (a) a country code, (b) a terminal provider code (also known as manufacturer code), and (c) a terminal provider oriented code. The ITU-T Recommendation T.35 country codes are defined within this Recommendation and the terminal provider oriented codes are defined by the manufacturer. However, for the manufacturer code, ITU-T Recommendation T.35 states: "An Administration, or a national body designated by an Administration, has the responsibility for the allocation and management of the terminal provider code".
+
+In order to provide a centralized list of national authorities for the assignment of ITU-T T.35 terminal provider codes, and to assist manufacturers in obtaining such codes, ITU-T Recommendation T.35 further states: "When an Administration designates a national body, its address and name should be sent to the Director of TSB." 
+
+A list of national authorities for the assignment of ITU-T Recommendation T.35 terminal provider codes has been set up.. 
+
+Any new or updated information on the identity of the current national authority designated by each Administration for the assignment of the ITU-T Recommendation T.35 terminal provider codes should be communicated to TSB, to the E-mail: mailto:tsbtson@itu.int[tsbtson@itu.int], Fax: +41 22 730 5853 by using the http://www.itu.int/ITU-T/inr/forms/files/T35-form-en.doc[Notification Form].
+
+The designations employed and the presentation of material in this List do not imply the expression of any opinion whatsoever on the part of ITU concerning the legal status of any country or geographical area, or of its authorities.
+
+
+== {blank}
+
+[%unnumbered]
+|===
+2+.<| Germany
+| Name of Administration: | Federal Network Agency for Electricity, Gas, Telecommunication, Post and Railway
+2+.<| National manufacturers of H-, T- or V-Series compliant equipment? YES
+2+.<| Assignment authority:
+| Terminal Type: | H-, T- and V-Series
+| Contact name | N/A
+| Organization: | Regulierungsbehörde für Telekommunikation und Post
+| Department: | Nummernverwaltung
+| Address: | Postfach 80 01, 55003 Mainz, Germany
+| Telephone: | N/A
+| Fax: | +49 (0) 6131 18 5630
+| E-mail: | N/A
+| Related links: | http://www.bundesnetzagentur.de/enid/99ac9212d8585c26271e444aa9cc3293,d0d2d85f7472636964092d0936333139/Zuteilungsregeln/Nummernart_1ew.html[http://www.bundesnetzagentur.de/enid/99ac9212d8585c26271e444aa9cc3293,] http://www.bundesnetzagentur.de/enid/99ac9212d8585c26271e444aa9cc3293,d0d2d85f7472636964092d0936333139/Zuteilungsregeln/Nummernart_1ew.html[d0d2d85f7472636964092d0936333139/Zuteilungsregeln/Nummernart\_1ew.html]
+| Information updated: | 10 March 2006
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| Botswana
+| Name of Administration: | Botswana Telecommunications Authority
+2+.<| National manufacturers of H-, T- or V-Series compliant equipment? NO
+2+.<| Assignment Authority: None designated
+| Information updated: | 31 August 2004
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| Cambodia
+| Name of Administration: | Ministry of Posts and Telecommunications
+2+.<| National manufacturers of H-, T- or V-Series compliant equipment? NO
+2+.<| Assignment authority: None designated
+| Information updated: | 7 September 2004
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| China
+| Name of Administration: | Ministry of Industry and Information Technology (MIIT)
+2+.<| National manufacturers of H-, T- or V-Series compliant equipment? YES
+2+.<| Assignment authority:
+| Terminal Type: | H-, T- and V-Series
+| Contact name: | Ms. Mei DENG, Mr. Shizhuo ZHAO
+| Organization: | China Communication Standards Association (CCSA)
+| Department: a| 
+| Address: | CCSA 52#Hua Yuan Bei Road, Haidian District, Beijing China 100191
+| Telephone: a| +86 10 8205 4513 (Ms. Mei DENG); +86 10 6230 2645 (Mr. Shizhuo ZHAO)
+| Fax: | +86 10 8205 4513
+| E-mail: | mailto:dengmei@ccsa.org.cn[dengmei@ccsa.org.cn]; mailto:zhaosz@ccsa.org.cn[zhaosz@ccsa.org.cn]
+| Related links: | http://www.ccsa.org.cn/english/[www.ccsa.org.cn/english/]
+| Information updated: | 15 December 2011
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| Curaçao
+| Name of Administration: | Bureau of Telecommunication and Post
+2+.<| National manufacturers of H-, T- or V-Series compliant equipment? NO
+2+.<| Assignment authority: None designated
+| Information updated: | 23 September 2004
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| Spain
+| Name of Administration: | Ministerio Industria, Turismo y Comercio
+2+.<| National manufacturers of H-, T- or V-Series compliant equipment? YES
+2+.<| Assignment authority: Dirección General de Telecomunicaciones
+| Terminal Type: | H-, T- and V-Series
+| Contact name | Marta Serrano Clamarigand
+| Organization: | Dirección General de Telecomunicaciones
+| Department: | Area de Normalización Técnica
+| Address: | C/Capitán Haya No 41
+| Telephone: | +34 9 1346 2805
+| Fax: | +34 9 1346 1566
+| E-mail: | mailto:Normalizacion_tecnica@mityc.es[Normalizacion\_tecnica@mityc.es]
+| Related links: | http://www.bundesnetzagentur.de/enid/99ac9212d8585c26271e444aa9cc3293,d0d2d85f7472636964092d0936333139/Zuteilungsregeln/Nummernart_1ew.html[www.mityc.es/telecomunicaciones/secciones/normalizacion]
+| Information updated: | January 2009
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| United States
+| Name of Administration: | U.S. Department of State
+2+.<| National manufacturers of H-, T- or V-Series compliant equipment? YES
+2+.<| Assignment authorities{blank}footnote:[Note: Both organizations are also responsible for the T.35 terminal provider code assignments in Canada.]:
+| Terminal Type: | T- and V-Series
+| Contact name: | Fred Lucas (TIA/TR-30 Chair)
+| Organization: | Telecommunications Industry Association (TIA)/Engineering Committee TR-30
+| Department: | N/A
+| Address: | 3421 Buttonwood Court, Reiserstown, MD 21136-4401, USA
+| Telephone: | +1 410 239 0248
+| Fax: | N/A
+| E-mail: | mailto:fred.lucas@worldnet.att.net[fred.lucas@worldnet.att.net]
+| Related links: | http://www.tiaonline.org/standards/committees/T35CodeAdministratorRegion2.cfm[http://www.tiaonline.org/standards/committees/T35CodeAdministratorRegion2.cfm]
+| Information updated: | 10 March 2005
+2+.<|
+| Terminal Type: | H-Series
+| Contact name: | Gary Thom
+| Organization: | Delta Information Systems
+| Department | N/A
+| Address: | 300 Welsh Road, Building 3, Horsham, PA 190044-2273, USA
+| Telephone: | N/A
+| Fax: | N/A
+| E-mail: | mailto:gthom@delta-info.com[gthom@delta-info.com]
+| Related links: | http://www.delta-info.com/Protocol_Test/Manufacturer_codes.html[http://www.delta-info.com/Protocol\_Test/Manufacturer\_codes.html]
+| Information updated: | 12 November 2004
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| Finland
+| Name of Administration: | Finnish Communications Regulatory Authority
+2+.<| National manufacturers of H-, T- or V-Series compliant equipment? YES
+2+.<| Assignment authority:
+| Terminal Type: | H-, T- and V-Series
+| Contact name: | Mr Antti Pokela
+| Organization: | Finnish Communications Regulatory Authority
+| Department: | N/A
+| Address: | P.O. Box 313, FI-00181 Helsinki, Finland
+| Telephone: | +358 9 69 661
+| Fax: | +358 9 69 66410
+| E-mail: | mailto:antti.pokela@ficora.fi[antti.pokela@ficora.fi]
+| Related links: | http://www.ficora.fi/[http://www.ficora.fi/]
+| Information updated: | 21 October 2004
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| France
+| Name of Administration: | Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)
+2+.<| National manufacturers of H, T or V Series compliant equipment? YES
+2+.<| Assignment authority:
+| Terminal Type: | H-, T- and V-Series
+| Contact name: | Jacques Senesse
+| Organization: | Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)
+| Department: | SIN
+| Address: | 7, Square Max-Hymans, 75730 Paris Cedex 15, France
+| Telephone: | +33 1 40 47 71 46
+| Fax: | +33 1 40 47 71 88
+| E-mail: | mailto:jacques.senesse@art-telecom.fr[jacques.senesse@art-telecom.fr]
+| Related links: | N/A
+| Information updated: | 3 November 2003
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| Iran (Islamic Republic of)
+| Name of Administration: | Telecommunication Company of Iran (TCI)
+2+.<| National manufacturers of H-, T- or V-Series compliant equipment? NO
+2+.<| Assignment authority: None designated
+| Information updated: | 13 September 2004
+
+|===
+
+[%unnumbered]
+|===
+2+.<| Italy
+| Name of Administration: | Ministerio delle Communicazioni – General Secretariat International Relations
+2+.<| National manufacturers of H-, T- or V-Series compliant equipment? YES
+2+.<| Assignment authority: None designated
+| Information updated: | 4 November 2004
+
+|===
+
+[%unnumbered]
+|===
+2+.<| Japan
+| Name of Administration: | Ministry of Internal Affairs and Communications
+2+.<| National manufacturers of H-, T- and V-Series compliant equipment? YES
+2+.<| Assignment authority:
+| Terminal Type: | H-, T- and V-Series
+| Contact name: | Mr Manabu Kanaya, Director of Standardization Division
+| Organization: | Ministry of Internal Affairs and Communications
+| Department: | Information and Communications Policy Bureau
+| Address: | 1-2 Kasumigaseki 2-chome Chiyoda-ku, Tokyo 100-8926, Japan
+| Telephone: | +81 3 5353 5763
+| Fax: | +81 3 5253 5764
+| E-mail: | mailto:istd@soumu.go.jp[istd@soumu.go.jp]
+| Related links: | N/A
+| Information updated: | 27 October 2003
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| Kyrgyzstan
+| Name of Administration: | State Communications Agency at Government of Kyrgyz Republic
+2+.<| National manufacturers of H-, T- or V- Series compliant equipment? NO
+2+.<| Assignment authority:
+| Terminal Type: | H-, T- and V-Series
+| Contact name: | Dergacheva Ekaterina Alexandrovna
+| Organization: | State Communications Agency at Government of Kyrgyz Republic
+| Department: | Department of Standardization and Certification
+| Address: | Kyrgyzstan, Bishkek, Sovetskaya str. 7b
+| Telephone: | +996 312 54 41 07
+| Fax: | +996 312 54 41 05
+| E-mail: | mailto:nta@infotel.kg[nta@infotel.kg]
+| Related links: | N/A
+| Information updated: | 8 October 2003
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| Kuwait
+| Name of Administration: | Ministry of Communications
+2+.<| National manufacturers of H-, T- or V-Series compliant equipment? NO
+2+.<| Assignment authority: None designated
+| Information updated: | 5 January 2004
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| The Former Yugoslav Republic of Macedonia
+| Name of Administration: | Agency for Electronic Communications
+2+.<| National manufacturers of H-, T- or V- Series compliant equipment? NO
+2+.<| Assignment authority:
+| Terminal Type: | T-Series
+| Contact name: | Biljana Panovska-Gavrilova
+| Organization: | Telecommunications Directorate of The Former Yugoslav Republic of Macedonia
+| Department: | Telecommunications Department
+| Address: | 1, Dame Gruev St, 1000 Skopje, Macedonia
+| Telephone: | +389 2 3289 203; +389 2 3224 511
+| Fax: | +389 2 3224 611
+| E-mail: | mailto:contact@dtk.gov.mk[contact@dtk.gov.mk]
+| Related links: | N/A
+| Information updated: | 25 September 2004
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| Mauritius
+| Name of Administration: | Information and Communication Technologies Authority
+2+.<| National manufacturers of H-, T- or V-Series compliant equipment? NO
+2+.<| Assignment authority:
+| Terminal Type: | H-, T- and V-Series
+| Contact name: | The Chairman
+| Organization: | Information and Communication Technologies Authority
+| Department: | N/A
+| Address: | Jade House,1st Floor, Cnr Jummah Mosque & Remy Ollier Streets, Port Louis, Mauritius
+| Telephone: | +230 217 2222
+| Fax: | +230 217 7777
+| E-mail: | mailto:icta@intnet.mu[icta@intnet.mu]
+| Related links: | N/A
+| Information updated: | 28 October 2003
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| Norway
+| Name of Administration: | Norwegian Post and Telecommunications Authority
+2+.<| National manufacturers of H-, T- or V-Series compliant equipment? YES
+2+.<| Assignment authority:
+| Terminal Type: | H-Series
+| Contact name: | Anne Thomassen, Hege Johnson, Johannes M Vallesverd
+| Organization: | Norwegian Post and Telecommunications Authority
+| Department: | Section for telephony and number management
+| Address: | Postbox 93, 4791 Lillesand, Norway
+| Telephone: | + 47 22 82 46 00
+| Fax: | + 47 22 82 46 40
+| E-mail: | mailto:firmapost@npt.no[firmapost@npt.no]
+| Related links: a| http://www.npt.no/portal/page/portal/PG_NPT_NO_NO/PAG_NPT_NO_HOME/PAG_RESSURSER_TEKST?p_d_i=-121&p_d_c=&p_d_v=48006&menuid=11697[http://www.npt.no/portal/page/portal/PG\_NPT\_NO\_NO/PAG\_NPT\_NO\_HOME/PAG\_RESSURSER\_TEKST?p\_d\_i=-121&p\_d\_c=&p\_d\_v=48006&menuid=11697]
+| Information updated: | 28 February 2012
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| Poland
+| Name of Administration: | Office of Electronic Communications (UKE)
+2+.<| National manufacturers of H-, T- or V-Series compliant equipment? NO
+2+.<| Assignment authority:
+| Terminal Type: | All
+| Contact name: | Tomasz Karamon
+| Organization: | UKE
+| Department: | Department of Technology
+| Address: | Kasprzaka 18/20, 01-211 Warsaw, Poland
+| Telephone: | +48 (0) 22 53 49 325
+| Fax: | +48 (0) 22 53 49 327
+| E-mail: | mailto:t.karamon@uke.gov.pl[t.karamon@uke.gov.pl]
+| Related links: | N/A
+| Information updated: | 23 February 2007
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| Czech Republic
+| Name of Administration: | Czech Telecommunication Office
+2+.<| National manufacturers of H-, T- or V-Series compliant equipment? NO
+2+.<| Assignment authority: None designated
+| Information updated: | 10 November 2003
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| United Kingdom
+| Name of Administration: | Office of Communications (Ofcom)
+2+.<| National manufacturers of H-, T- or V-Series compliant equipment? YES
+2+.<| Assignment authority:
+| Terminal Type: | H, T and V-Series
+| Contact name: | Bill Pechey
+| Organization: | Computency Limited
+| Department: | N/A
+| Address: | Jays Lodge, Crays Pond, Reading, RG8 7QG, United Kingdom
+| Telephone: | +44 870 740 1123
+| Fax: | +44 870 432 1905
+| E-mail: | mailto:bpechey@computency.co.uk[bpechey@computency.co.uk]
+| Related links: | http://www.cix.co.uk/%7Ebpechey/H221/[http://www.cix.co.uk/~bpechey/H221/]
+| Information updated: | 26 November 2004
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| Slovenia
+| Name of Administration: | Post and Electronic Communications Agency of the Republic of Slovenia
+2+.<| National manufacturers of H-, T- or V-Series compliant equipment? YES
+2+.<| Assignment authority:
+| Terminal Type: | H-Series
+| Contact name: | Anton Kovacic
+| Organization: | Post and Electronic Communications Agency
+| Department: | Numbering
+| Address: | Stegne 7, P.O. Box 418, SI-1001 Ljubljana, Slovenia
+| Telephone: | +386 1 583 63 00
+| Fax: | +386 1 511 11 01
+| E-mail: | mailto:anton.kovacic@apek.si[anton.kovacic@apek.si]
+| Related links: | http://www.apek.si/[http://www.apek.si]
+| Information updated: | 12 November 2004
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| Switzerland
+| Name of Administration: | Office fédéral de la communication (OFCOM)
+2+.<| National manufacturers of H-, T- or V-Series compliant equipment? YES
+2+.<| Assignment authority:
+| Terminal Type: | H-, T- and V-Series
+| Contact name: | Laurent Scheggia
+| Organization: | Service de télécommunication
+| Department: | Numérotage et adressage
+| Address: | 44, rue de l'Avenir – Case postale – CH-2501 Bienne
+| Telephone: | +41 32 327 5877
+| Fax: | +41 32 327 55 49
+| E-mail: | mailto:laurent.scheggia@bakom.admin.ch[laurent.scheggia@bakom.admin.ch]
+| Related links: | http://www.ofcom.ch/[www.ofcom.ch] / http://www.e-ofcom.ch/[www.e-ofcom.ch]
+| Information updated: | 30 September 2004
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| Suriname
+| Name of Administration: | TELESUR – Paramaribo, Suriname
+2+.<| National manufacturers of H-, T- or V-Series compliant equipment? NO
+2+.<| Assignment authority: None designated
+| Information updated: | 28 October 2003
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| Venezuela
+| Name of Administration: | Comisión Nacional de Telecomunicaciones (Conatel)
+2+.<| National manufacturers of H-, T- or V-Series compliant equipment? NO
+2+.<| Assignment authority: None designated
+| Information updated: | 24 December 2004
+
+|===
+
+
+[%unnumbered]
+|===
+2+.<| Zambia
+| Name of Administration: | Zambia Information & Communications Technology Authority (ZICTA)
+2+.<| National manufacturers of H-, T- or V-Series compliant equipment? NO
+2+.<| Assignment authority: None designated
+| Information updated: | 6 September 2004
+
+|===
+
+<<<
+
+[%unnumbered]
+|===
+_Please return this notification form to TSB, E-mail: mailto:tsbtson@itu.int[tsbtson@itu.int] or Fax: +41 22 730 5853_
+|===
+
+== Notification from Administration for the identification of the national authority designated to assign ITU-T Recommendation T.35 terminal provider codes
+
+_Please elaborate and provide as much detail as possible in response to these questions. If complete information cannot be related because it is proprietary or sensitive, please indicate this status. The responses received will be used to complete and update the list of national authorities for the assignment of ITU-T T.35 terminal provider codes._
+
+[class=steps]
+. Country and name of administration: ................................................................................................................................................................................................................................................................................
+
+. Within your country, are there manufacturers of products compliant with:
+
+* ITU-T H-Series Recommendations (video/multimedia conferencing)? ▭ Yes ▭ No
+ 
+* ITU-T T-Series Recommendations (data conferencing, fax equipment)? ▭ Yes ▭ No
+ 
+* ITU-T V-Series Recommendations (modems)? ▭ Yes ▭ No
+
+. Do you have any existing national body or other assignment authority designated to assign terminal provider codes in accordance with ITU-T Rec. T.35? ▭ Yes ▭ No 
+ 
+. As applicable, please provide the following information for *each* assignment authority (in case of different authorities for different terminal types): 
++
+--
+[%unnumbered]
+|===
+| Assignment authority: a| 
+| Terminal type{blank}footnote:[Please tick all applicable boxes and list any "other category"]: | ▭ H-Series ▭ T-Series ▭ V-Series ▭ Other category:
+| Contact name: a| 
+| Organization: a| 
+| Department: a| 
+| Address: a| 
+| Telephone: a| 
+| Fax: a| 
+| E-mail: a| 
+| Relevant website links: a| 
+
+|===
+--
+
+. Comments
+
+[%unnumbered]
+|===
+|    
+
+|===
+
+

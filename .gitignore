@@ -1,1 +1,7 @@
 .DS_Store
+*.html
+*.doc
+Gemfile
+Gemfile.lock
+relaton/
+_untracked-files/

@@ -1,13 +1,26 @@
 # Algeria
+country_name:
+  en: ALGERIA
+  fr: ALGERIE
+  es: ARGELIA
 
-Contact: |
-    Ministère des postes et télécommunications
-    Direction des services postaux
-    4, Boulevard Krim Belkacem
-    16000 ALGER
-    Algérie
-TG: Postgen Alger
-TLX: 55020 mptt dz
-FAX: +213 21 73 02 01
-GR: 3
-TF: +213 21 73 17 64
+type:
+  - BUREAUFAX
+  - POSTE
+
+contact: |
+  Ministère des postes et télécommunications
+  Direction des services postaux
+  4, Boulevard Krim Belkacem
+  16000 ALGER
+  Algérie
+
+tg: Postgen Alger
+tlx: 55020 mptt dz
+fax: +213 21 73 02 01
+gr: 3
+tf: +213 21 73 17 64
+
+part2:
+  col_d: true
+  col_e: true

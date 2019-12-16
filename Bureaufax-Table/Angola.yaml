@@ -1,0 +1,28 @@
+# ANGOLA
+country_name:
+  en: ANGOLA
+  fr: ANGOLA
+  es: ANGOLA
+
+type:
+  - POSTE
+
+contact: |
+  Entreprise nationale des postes et télégraphes
+  Département des opérations télégraphiques
+  B.P. 1396
+  LUANDA
+  ANGOLA
+
+tg: Postgen an
+tlx: 2041 publad an
+fax: +244 22 233 1578
+gr: 3/2
+tf: +244 22 239 5484
+
+part2:
+  col_b: true
+  col_d: true
+  col_e: true
+
+last_modification: 1.VI.2006

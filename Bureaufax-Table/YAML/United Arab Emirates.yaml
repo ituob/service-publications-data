@@ -1,0 +1,27 @@
+# UNITED ARAB EMIRATES
+country_name:
+  en: UNITED ARAB EMIRATES
+  fr: EMIRATS ARABES UNIS
+  es: EMIRATOS ARABES UNIDOS
+
+type: 
+  - BUREAUFAX
+  - TELECOM
+      
+contact: |
+    Emirates Telecommunications Corporation
+    P.O. Box 3838
+    ABU DHABI
+    United Arab Emirates
+
+tg: Etisalatho AbuDhabi
+tlx: 22135 etcho em
+fax: +971 2 6317000
+gr: 3/2
+tf: +971 2 6283333
+
+part2:
+    col_a: true
+    col_c: true
+    col_e: true
+    col_f: true

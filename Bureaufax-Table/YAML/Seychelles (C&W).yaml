@@ -1,0 +1,36 @@
+# SEYCHELLES (C&W)
+country_name:
+  en: SEYCHELLES
+  fr: SEYCHELLES
+  es: SEYCHELLES
+
+type:
+  - ER
+
+notes: 
+    - en: 1) Bureaufax service is provided from the Telegraph Control Center at the Main Office in Francis Rachel Street, Victoria, Mahe. This service is operated from the same location as other public international telecommunication services including Telex Bureau, Telegram and International Telephone calls connected through special booths.
+      fr: 1) Le service Bureaufax est assuré par le Centre d'exploitation télégraphique, qui est installé dans le bureau principal, à l'adresse suivante : "Francis Rachel Street, Victoria, Mahe". Son exploitation se fait dans les mêmes locaux que ceux des autres services publics internationaux de télécommunication : télex entre bureaux publics, services des télégrammes, communications téléphoniques internationales, établies par l'intermédiaire de cabines spéciales.
+      es: 1) El servicio Burofax se facilita a través del Centro de control telegráfico en el oficina principal de "Francis Rachel Street, Victoria, Mahe". La explotación de este servicio se efectúa en el mismo emplazamiento que los demás servicios de telecomunicaciones internacionales públicas, incluidos el télex, los telegramas y las llamadas telefónicas internacionales conectadas a través de cabinas especiales.
+
+contact: |
+    Cable & Wireless (Seychelles) Ltd.
+    P.O. Box 4
+    VICTORIA MAHE
+    Seychelles
+
+tg: |
+    Cablewire
+    MaheSeychelles
+tlx: 2210 cwexec sz
+fax: +248 432 2777
+gr: 3/2
+tf: +248 432 2221
+
+part2:
+    col_a: true
+    col_d: true
+    col_e: true
+    col_f: true
+    col_g: true
+
+last_modification: 15.III.2012

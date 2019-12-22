@@ -1,0 +1,41 @@
+# ITALY
+country_name:
+  en: ITALY
+  fr: ITALIE
+  es: ITALIA
+
+type:
+  - BUREAUFAX
+  - POSTE
+  
+notes:
+    - en: |
+        1) There are 7,000 localities which have the BUREAUFAX service in Italy to which messages can be sent directly.
+        The Bureaufax bureaux of ROMA S SILVESTRO and of MILANO CORDUSIO can be contacted for information.  
+        The Bureaufax Service in Italy ceased operating with non-European countries on 1 May 1999.
+      fr: |
+        1) Il existe 7,000 localités disposant du Service BUREAUFAX en Italie auxquelles les messages peuvent être envoyés directement.  
+        Les bureaux Bureaufax de ROMA S SILVESTRO et de MILANO CORDUSIO peuvent être contactés à titre d’information.
+        Le service Bureaufax en Italie a cessé de fonctionner avec les pays extra-européens le ler mai 1999.
+      es: |
+        1) Existen 7,000 localidades que disponen del servicio BUROFAX en Italia a las cuales se puede transmitir mensajes directamente.
+        Se puede contactar las oficinas Burofax de ROMA S SILVESTRO y de MILANO CORDUSIO para recibir información.
+        El servicio de Burofax en Italia dejó de suministrarse con los países extraeuropeos el 1 de mayo de 1999.
+
+contact: |
+    Poste Italiane S.p.A.
+    Divisione Comunicazioni Elettroniche
+    Viale Europa 190
+    I - 00144 ROMA
+    Italie
+
+tg: RomaPoste
+tlx: 612452 DCE I
+fax: +39 06 5958 1032
+gr: 3/2
+tf: +39 06 5958 3253
+
+part2:
+    col_a: true
+    col_b: true
+    col_d: true

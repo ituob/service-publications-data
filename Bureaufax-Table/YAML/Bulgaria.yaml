@@ -1,0 +1,29 @@
+# BULGARIA
+country_name:
+  en: BULGARIA
+  fr: BULGARIE
+  es: BULGARIA
+
+type:
+  - BULFAX
+  - POSTE
+
+contact: |
+    Comité des postes et télécommunications 
+    Entreprise "Les postes bulgares" - S.R.L.
+    Rue Gourko, 6
+    1000 SOFIA
+    Bulgarie
+
+tg: Postgen Sofia
+tlx: 22846 a sos bg
+fax: +359 2 980 0010
+gr: 3
+tf: +359 2 988 5792
+
+part2:
+  col_b: true
+  col_d: true
+  col_e: true
+  
+last_modification: 15.II.2007

@@ -1,0 +1,43 @@
+# NEPAL
+country_name:
+  en: NEPAL
+  fr: NEPAL
+  es: NEPAL
+
+type:
+  - BUREAUFAX
+  - ER
+
+notes:
+    - en: |
+        1) Opening hours:
+        1000-1700 Sunday to Friday
+        no service on Saturday and public holidays.
+      fr: |
+        1) Heures de service:
+        1000-1700 dimanche à vendredi
+        pas de service samedi et jours fériés.
+      es: |
+        1) Horas de servicio:
+        1000-1700 Domingo a Viernes
+        no servicio el Sábado y los días festivos.
+
+contact: |
+    Nepal Telecommunications Corporation
+    Business Management Department
+    Central Office
+    Singhdurbar
+    KATHMANDU
+    Nepal
+
+tg: Telecom Kathmandu
+tlx: 2201 telecom np
+fax: +977 1 422 6260
+gr: 3
+tf: +977 1 422 4522
+
+part2:
+    col_d: true
+    col_e: true
+    
+last_modification: 15.XII.2003

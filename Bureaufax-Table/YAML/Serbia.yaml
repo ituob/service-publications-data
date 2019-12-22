@@ -1,0 +1,28 @@
+# SERBIA
+country_name:
+  en: SERBIA
+  fr: SERBIE
+  es: SERBIA
+
+type:
+  - BIROFAKS
+  - TELECOM
+
+contact: |
+    Telekom Srbija
+    11000 BEOGRAD
+    Serbia and Montenegro
+
+tg: Gentel Beograd
+tlx: 11421 gentel yu
+fax: +381 11 334 0116
+gr: 3
+tf: +381 11 235 1269
+
+part2:
+    col_b: true
+    col_d: true
+    col_e: true
+    col_g: true
+
+last_modification: 5.II.2011

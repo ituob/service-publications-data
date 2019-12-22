@@ -1,0 +1,27 @@
+# PHILIPPINES (PHILCOM)
+country_name:
+  en: PHILIPPINES
+  fr: PHILIPPINES
+  es: FILIPINAS
+
+type:
+  - Q-FAX
+  - ER
+
+contact: |
+    Philippine Global  Communications, Inc.
+    8755 Paseo de Roxas
+    MAKATI METRO MANILA
+    Philippines
+
+tg: Philcom Manila
+tlx: 23312 rhp ph
+fax: +63 2 819 97 20
+gr: 3/2
+tf: +63 2 816 28 51
+
+part2:
+    col_b: true
+    col_e: true
+    col_f: true
+    col_g: true

@@ -1,0 +1,30 @@
+# KUWAIT
+country_name:
+  en: KUWAIT
+  fr: KOWEIT
+  es: KUWAIT
+
+type:
+  - BUREAUFAX
+  - TELECOM
+
+contact: |
+    Ministry of Communications
+    Miscellaneous Services Department
+    P.O. Box 318 Safat
+    11111 Safat
+    KUWAIT
+    Kuwait
+
+
+tg: Dirgentel Kuwait
+tlx: =44700AUA SVC KT
+fax: +965 242 1682
+gr: 3/2
+tf: +965 241 6662
+
+part2:
+    col_a: true
+    col_d: true
+    col_e: true
+    col_g: true

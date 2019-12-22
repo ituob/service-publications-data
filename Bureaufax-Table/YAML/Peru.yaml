@@ -1,0 +1,33 @@
+# PERU
+country_name:
+  en: PERU
+  fr: PEROU
+  es: PERU
+
+type:
+  - PERUFAX
+  - TELECOM
+
+notes:
+    - en: 1) The towns in column 1b of Part IV are served by normal delivery.
+      fr: 1) Les villes figurant dans la colonne 1b de la Partie IV sont desservies par courrier ordinaire.
+      es: 1) Las ciudades que figuran en la columna 1b de la Part IV son servidas por correo ordinario.
+    
+contact: |
+    Empresa Nacional de Telecomunicaciones del Perú S.A. (ENTEL-PERU)
+    Av. San Luis 1106
+    San Luis
+    LIMA 30
+    Perú
+
+tlx:
+  - 25534pe entelpro
+  - 20442pe entelger
+fax: +51 1 4744036
+gr: 3/2
+tf: +51 1 4735858
+
+part2:
+    col_d: true
+    col_e: true
+    col_g: true

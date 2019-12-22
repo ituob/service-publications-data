@@ -1,0 +1,29 @@
+# TURKEY
+country_name:
+  en: TURKEY
+  fr: TURQUIE
+  es: TURQUIA
+
+type:
+  - ELEKTRONIK MEKTUP
+  - POSTE
+
+contact: |
+    General Directorate of Posts
+    International Relations Department
+    06101 ANKARA
+    Turkey
+
+tg: Uidb Ankara
+tlx: 44291 uidb tr
+fax: +90 312 313 2940
+gr: 3/2
+tf: +90 312 313 2900
+email: puidb@ttnet.net.tr
+
+part2:
+    col_a: true
+    col_c: true
+    col_d: true
+    col_e: true
+    col_f: true

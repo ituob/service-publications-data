@@ -1,0 +1,26 @@
+# AZERBAIJAN
+country_name:
+  en: AZERBAIJAN
+  fr: AZERBAIDJAN
+  es: AZERBAIYAN
+
+type:
+  - BUROFAX
+  - BAKI TELEGRAF
+
+contact: |
+    Baku Telegraph
+    41, Baku avenue
+    BAKU 1000
+    Azerbaijan
+
+tlx: 142105 inam su
+fax: +994 12 465 1108
+gr: 3
+tf: +994 12 493 6142
+    
+part2:
+  col_d: true
+  col_e: true
+  
+last_modification: 1.IX.2005

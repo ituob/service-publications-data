@@ -1,0 +1,37 @@
+# KENYA
+country_name:
+  en: KENYA
+  fr: KENYA
+  es: KENYA
+
+type:
+  - BUREAUFAX
+  - TELECOM
+
+notes: 
+    - en: 1) Telefax Service is also provided by way of Public-to-Private and Private-to-Public transmission as per ITU-T Recommendation F.190.
+      fr: 1) Le service téléfax est aussi assuré par transmission "public à privé" et "privé à public", conformément à la Recommandation UIT-T F.190.
+      es: 1) El Servicio telefax se facilita también por medio de la transmisión pública-privada y privada-pública como se indica en la Recomendación UIT-T F.190.
+
+contact: |
+    Telkom Kenya Ltd,
+    P.O. Box 47704
+    NAIROBI
+    Kenya
+
+tg: Extelcoms Nairobi
+tlx:
+  - 25517 extel ke
+  - 22406 extel ke
+  - 22 195 extel ke
+fax:
+  - +254 20 330170
+  - +254 20 244693
+gr: 3
+tf: +254 20 32032000
+
+part2:
+    col_d: true
+    col_e: true
+    
+last_modification: 6.IV.2004

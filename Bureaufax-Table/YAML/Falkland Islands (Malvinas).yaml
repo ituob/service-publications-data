@@ -1,0 +1,25 @@
+# FALKLAND ISLANDS (MALVINAS)
+country_name:
+  en: FALKLAND ISLANDS (MALVINAS)
+  fr: FALKLAND (ILES) (MALVINAS)
+  es: MALVINAS (ISLAS) (FALKLAND)
+
+type: 
+  - BUREAUFAX
+  - ER
+      
+contact: |
+    Cable and Wireless SA Ltd
+    P.O. Box 584
+    STANLEY
+    Falkland Islands
+
+tg: Cablewire PortStanley
+fax: +500 20811
+gr: 3
+tf: +500 20820
+
+part2:
+    col_e: true
+
+last_modification: 10.IV.2008

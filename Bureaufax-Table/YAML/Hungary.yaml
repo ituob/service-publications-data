@@ -1,0 +1,47 @@
+# HUNGARY
+country_name:
+  en: HUNGARY
+  fr: HONGRIE
+  es: HUNGRIA
+
+type: 
+  - POSTAFAX
+  - POSTE
+  
+notes:
+    - en: |
+        1) The Bureaufax service is also open with the countries not mentioned in Part I, but in such cases an amount set by the State is charged for the distribution of messages.
+        The charge is not levied in relations with countries with which special arrangements have been made.
+      fr: |
+        1) Le service Bureaufax est assuré également avec les pays qui ne sont pas énumérés dans la Partie I, mais dans ce cas, une taxe fixée par l'Etat est perçue pour la distribution des messages.
+        Cette taxe n'est pas perçue dans les relations avec les pays pour lesquels un arrangement spécial a été fixé.
+      es: |
+        1) Existe también el servicio Burofax con países que no están enumerados en la Parte I pero en este caso se percibe por la distribución de los mensajes una tasa que fija el Estado.
+        Esta tasa no se percibe en las relaciones con los países con los que existe un arreglo especial.
+      
+    - en: 2) In the Budapest region, messages may be delivered the same day if they are received before 1500 hours, from Monday to Friday.
+      fr: 2) Dans la région de Budapest, la remise des messages peut avoir lieu le jour même si ceux-ci sont reçus avant 1500 heures, du lundi au vendredi.
+      es: 2) En la región de Budapest, la entrega de los mensajes se puede efectuarse el mismo día siempre que sean recibidos antes de las 1500 horas, de lunes a viernes.
+      
+    - en: 3) Local time: UTC +2
+      fr: 3) Heure locale: UTC +2
+      es: 3) Hora local: UTC +2
+      
+contact: |
+    Poste hongroise S.A.
+    Division des services téléphoniques et télégraphiques 
+    Krisztina Krt. 6-8
+    BUDAPEST 1540
+    Hongrie
+
+tg: Posgen Budapest
+tlx: 20 2920
+fax: +36 1 155 75 84
+gr: 3/2
+tf: +36 1 175 56 93
+
+part2:
+    col_a: true
+    col_b: true
+    col_d: true
+    col_e: true

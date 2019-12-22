@@ -1,0 +1,31 @@
+# SENEGAL (POST)
+country_name:
+  en: SENEGAL
+  fr: SENEGAL
+  es: SENEGAL
+
+type:
+  - POSTFAX
+  - POSTE
+
+contact: |
+    Office des postes et de la caisse d'épargne, EMS - Sénégal
+    6, rue A. Sek Marie Persine
+    DAKAR
+    Sénégal
+
+tg: Ofipoce Dakar
+tlx: 64257 ofipoce sg
+fax: +221 33 821 74 44
+gr: 3/2
+tf: 
+  - +221 33 822 24 44
+  - +221 33 821 81 37
+
+part2:
+    col_b: true
+    col_c: true
+    col_d: true
+    col_e: true
+
+last_modification: 23.III.2011

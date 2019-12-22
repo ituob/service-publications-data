@@ -1,0 +1,31 @@
+# MALI
+country_name:
+  en: MALI
+  fr: MALI
+  es: MALI
+
+type:
+  - POSTE - FAX
+  - POSTE  
+
+contact: |
+    Office nationale des postes du Mali
+    Service EMS/Mali
+    Grand Marché
+    BAMAKO
+    Mali
+
+tg: EMS Bamako
+tlx: pin 2544 mj
+fax: +223 222 3950
+gr: 3
+tf: +223 222 4106
+
+part2:
+    col_b: true
+    col_c: true
+    col_d: true
+    col_e: true
+    col_f: true
+    
+last_modification: 15.I.2006

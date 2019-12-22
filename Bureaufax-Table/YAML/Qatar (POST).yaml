@@ -1,0 +1,41 @@
+# QATAR (POST)
+country_name:
+  en: QATAR
+  fr: QATAR
+  es: QATAR 
+
+type:
+  - INTELPOST
+  - POSTE
+
+notes: 
+    - en: |
+        1) Sunday to Thursday: 0700 to 2000 hours;
+        Friday: No service;
+        Saturday: 0800 to 1100 hours and 1600 to 1900 hours
+      fr: |
+        1) Dimanche à jeudi: 0700 à 2000 heures; 
+        Vendredi: Pas de service; 
+        Samedi: 0800 à 1100 heures et 1600 à 1900 heures
+      es: |
+        1) Domingo a jueves: 0700 a las 2000 horas;
+        Viernes: No hay servicio;
+        Sábado: 0800 a las 1100 horas y 1600 a las 1900 horas
+
+contact: |
+    Administration of Posts
+    DOHA
+    Qatar
+
+tg: Postgen Doha-Qatar
+fax: +974 4483 7777
+gr: 3/2
+tf: +974 4446 4464
+
+part2:
+    col_b: true
+    col_c: true
+    col_d: true
+    col_e: true
+    
+last_modification: 1.VIII.2010

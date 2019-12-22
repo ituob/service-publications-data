@@ -1,0 +1,26 @@
+# SURINAME
+country_name:
+  en: SURINAME
+  fr: SURINAME
+  es: SURINAME
+
+type:
+  - BURO FACSIMILE
+  - TELESUR
+  - TELECOM
+
+contact: |
+    Telecommunicatiebedrijf Suriname (TELESUR)
+    Heiligenweg No. 1
+    P.O. Box 1839
+    PARAMARIBO
+    Suriname
+
+tg: Telesur Latel Paramaribo
+tlx: 131 telesur sn
+fax: +597 410555
+gr: 3/2
+tf: +597 470700
+
+part2:
+    col_e: true

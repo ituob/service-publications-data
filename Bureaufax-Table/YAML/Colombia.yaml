@@ -1,0 +1,25 @@
+# COLOMBIA
+country_name:
+  en: COLOMBIA
+  fr: COLOMBIE
+  es: COLOMBIA
+
+type:
+  - BUROFAX
+  - ER
+
+contact: |
+    Empresa Nacional de Telecomunicaciones (ENTEL)
+    Calle N.o 23
+    N.o 13-49
+    BOGOTA
+    Colombia
+
+tg: Telecom Bogota
+tlx: 44288 entvo co
+fax: +57 1 2842171
+gr: 3
+tf: +57 1 2838460
+
+part2:
+  col_e: true

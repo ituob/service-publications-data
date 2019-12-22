@@ -1,0 +1,33 @@
+# BOLIVIA
+country_name:
+  en: BOLIVIA
+  fr: BOLIVIE
+  es: BOLIVIA
+
+type:
+  - BUROFAX
+  - ER
+
+contact: |
+    Empresa Nacional de Telecomunicaciones
+    (ENTEL)
+    Calle Ayacucho Nr. 267
+    Edificio ENTEL
+    LA PAZ
+    Bolivia
+
+tg: Entel LaPaz
+tlx: 2220 cabpub bv
+fax: +591 2 361313
+gr: 2/3
+tf: +591 2 361313
+
+part2:
+  col_a: true
+  col_b: true
+  col_d: true
+  col_e: true
+  col_f: true
+  col_g: true
+
+last_modification: 1.III.2006

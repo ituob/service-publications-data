@@ -1,0 +1,89 @@
+# BRAZIL
+country_name:
+  en: BRAZIL
+  fr: BRESIL
+  es: BRASIL
+
+type:
+  - FAX POST
+  - POSTE
+  
+notes:
+    - en: 1) Delivery mode "Ordinary Mail" is available only in the country's chief towns and cities. With this delivery mode, messages received at each International Bureaufax gateway bureau up to 1800 hours (local time) from Monday to Friday will be delivered on the next working day (D+1). Messages received after that time will be delivered to the addressee on the second working day (D+2).
+      fr: 1) Le mode de distribution "Courrier ordinaire" n'est disponible que dans les villes principales du pays. Avec ce mode de distribution, les messages reçus dans les bureaux Bureaufax collecteurs internationaux jusqu'à 1800 heures (heure locale) du lundi au vendredi sont remis le jour ouvrable suivant (J+1). Les messages reçus après cette heure sont remis à leurs destinataires le deuxième jour ouvrable suivant (J+2).
+      es: 1) El modo de entrega "Correo ordinario" sólo se practica en las ciudades principales del país. En este caso, los mensajes recibidos en las oficinas colectoras internacionales de Burofax hasta las 1800 horas (hora local) de lunes a viernes se entregan el próximo día hábil (D+1). Los mensajes recibidos después de esta hora, se entregan al destinatario el segundo día hábil (D+2).
+      
+    - en: 2) Delivery mode "Special Delivery" is available only in the country's chief towns and cities. Messages received at each International Bureaufax gateway bureau up to 1700 hours (local time) from Monday to Saturday and up to 1200 hours (local time) on Sunday will be delivered on the same day within four hours (D+0) and the same day, respectively. Messages received after these times will be delivered to the addressee before 1200 hours (local time) on the next day (D+1).
+      fr: 2) Le mode de distribution "Porteur spécial" n'est disponible que dans les villes principales du pays. Les messages reçus dans les bureaux Bureaufax collecteurs internationaux jusqu'à 1700 heures (heure locale) du lundi au samedi et jusqu'à 1200 heures (heure locale) le dimanche sont remis dans les quatre heures qui suivent le jour même (J+0) et le jour même, respectivement. Les messages reçus après ces heures sont remis à leurs destinataires jusqu'à 1200 heures (heure locale) le jour suivant (J+1).
+      es: 2) El modo de entrega "Entrega especial" sólo se practica en las ciudades principales del país. En este caso, los mensajes recibidos en las oficinas colectoras internacionales de Burofax hasta las 1700 horas (hora local) de lunes a sábado y hasta las 1200 horas (hora local) el domingo, se entregan dentro de un plazo máximo de cuatro horas el mismo día (D+0) y en el curso del mismo día, respectivamente. Los mensajes recibidos fuera de las horas indicadas, se entregan al destinatario hasta las 1200 horas (hora local) del próximo día (D+1).
+      
+    - en: 3) Delivery modes "Counter Collection with telephone  advice to the indicated call number" is available in the country's chief towns and cities. In this case, the addressee is advised of the receipt of the message on the same day within one hour (D+0) if the message is received at the International Bureaufax gateway bureau up to 1700 hours (local time) from Monday to Saturday and up to 1200 hours (local time) on Sunday. After these times the addressee is informed within the first service hour on the next day (D+1).
+      fr: 3) Le mode de distribution "Retrait au guichet avec avis téléphonique au numéro indiqué" est disponible dans les  villes  principales du pays. Dans ce cas, le destinataire est avisé de la réception du message le jour même dans l'heure qui suit (J+0) si le message est reçu dans les bureaux Bureaufax collecteurs internationaux jusqu'à 1700 heures (heure locale) du lundi au samedi et jusqu'à 1200 heures (heure locale) le dimanche. Après ces heures, le destinataire est avisé à la première heure de service le jour suivant (J+1).
+      es: 3) El modo de entrega "Recogida en ventanilla con aviso telefónico al número indicado" se practica en las ciudades principales del país. En este caso, se comunica al destinatario la recepción del mensaje en la hora que sigue del mismo día (D+0) siempre que el mensaje se haya recibido en las oficinas colectoras internacionales de Burofax hasta las 1700 horas (hora local)  de lunes a sábado y hasta las 1200 horas (hora local) el domingo. Fuera de las horas indicadas, la comunicación al destinatario se efectúa en la primera hora de servicio del día siguiente (D+1).
+      
+    - en: 4) With delivery mode "Telefax (with call number and group when known)", the message will be delivered to the addressee within 10 to 30 minutes.
+      fr: 4) Pour le mode de distribution "Téléfax avec numéro d'appel, et s'il est connu le groupe", le message est transmis au destinataire dans les 10 à 30 minutes qui suivent.
+      es: 4) En caso de modo de entrega "Telefax (con numero de llamada y grupo cuando se conozca)", el mensaje se transmite al destinatario en los 10 a 30 minutos que siguen.
+      
+    - en: 5) Delivery mode "Counter collection with telex advise to the indicated call number" is available in the country's chief towns and cities. in this case, the addressee is advised of the receipt of the message on the same day within one hour (D+0) if the message is received at the international Bureaufax gateway bureau up to 1700 hours (local time) from Monday to Saturday and up to 1200 hours (local time) on Sunday. After these times the addressee is informed within the first service hour on the next day (D+1).
+      fr: 5) Le mode de distribution "Retrait au guichet avec avis télex au numéro indiqué", est disponible dans les villes principales du pays. Dans ce cas, le destinataire est avisé de la réception du message le jour même dans l'heure qui suit (J+0) si le message est reçu dans les bureaux Bureaufax collecteurs internationaux jusqu'à 1700 heures (heure locale) du lundi au samedi et jusqu'à 1200 heures (heure locale) le dimanche. Après ces heures, le destinataire est avisé à la première heure de service le jour suivant (J+1).
+      es: 5) El modo de entrega "Recogido en ventanilla con aviso télex al número indicado" se practica en las ciudades principales del país. En este caso, se comunica al destinatario la recepción del mensaje en la hora que sigue del mismo día (D+0) siempre que el mensaje se haya recibido en las oficinas colectoras internacionales de Burofax hasta las 1700 horas (hora local) de lunes a sábado y hasta las 1200 horas (hora local) el domingo. Fuera de las horas indicadas, la comunicación al destinatario se efectúa en la primera hora de servicio del día siguiente (D+1).
+      
+    - en: |
+        6) Local time:
+            UTC -3 from February to October
+            UTC -2 from November to January.
+
+      fr: |
+        6) Heure locale:
+            UTC -3 de février à octobre
+		    UTC -2 de novembre à janvier
+
+      es: |
+        6) Hora local: 
+            UTC -3 de febrero a octubre
+            UTC -2 de noviembre a enero.
+      
+    - en: |
+        7) The groups of postal codes shown in columns in Part IV include other States besides the one indicated, as follows:
+        59000 000 to 63999 999 - Rio Grande do Norte (RN) and Ceará (CE);
+        66000 000 to 68999 999 - Pará (PA) and Amapá (AP);
+        69000 000 to 69999 999 - Amazonas (AM), Roraima (RR) and Acre (AC);
+        72800 000 to 76999 999 - Gaiás (GO) and Tocantins (TO);
+        78000 000 to 79999 999 - Mato Grosso (MT), Mato Grosso do Sul (MS) and Rondânia (RO).
+     fr: |
+        7) Les groupes de codes postaux contenus dans les colonnes de la Partie IV comprennent aussi d'autres Etats en plus de celui indiqué, comme mentionné ci-après :
+        59000 000 à 63999 999 - Rio Grande do Norte (RN) et Ceará (CE);
+        66000 000 à 68999 999 - Pará (PA) et Amapá (AP);
+        69000 000 à 69999 999 - Amazonas (AM), Roraima (RR) et Acre (AC);
+        72800 000 à 76999 999 - Gaiás (GO) et Tocantins (TO);
+        78000 000 à 79999 999 - Mato Grosso (MT), Mato Grosso do Sul (MS) et Rondânia (RO).
+      es: |
+        7) Los grupos de códigos postales que figuran en las columnas de la Parte IV comprenden otros Estados además del indicado, como se indica a continuación :
+        59000 000 a 63999 999 - Rio Grande do Norte (RN) y Ceará (CE);
+        66000 000 a 68999 999 - Pará (PA) y Amapá (AP);
+        69000 000 a 69999 999 - Amazonas (AM), Roraima (RR) y Acre (AC);
+        72800 000 a 76999 999 - Gaiás (GO) y Tocantins (TO);
+        78000 000 a 79999 999 - Mato Grosso (MT), Mato Grosso do Sul (MS) y Rondânia (RO).
+
+
+contact: |
+    Empresa Brasileira de Correios e telégrafos (ECT)
+    Departamento de Operaçoes e Logística
+    SBN - Conj. 3 Bloco "A" - 13o  Andar
+    70002-900 - BRASILIA - DF
+    Brazil
+
+tlx: 611119 ectp br
+fax: +55 61 3322 6918
+gr: 3/2
+tf: +55 61 3226 3480
+
+part2:
+  col_a: true
+  col_b: true
+  col_e: true
+  col_f: true
+  col_g: true
+  
+  last_modification: 1.III.2006

@@ -1,0 +1,33 @@
+# GUINEA-BISSAU
+country_name:
+  en: GUINEA-BISSAU
+  fr: GUINEA-BISSAU
+  es: GUINEA-BISSAU
+
+type: 
+  - POSTE
+
+notes: 
+  - en: 1) Information not available.
+    fr: 1) Information non disponible.
+    es: 1) Información no disponible.
+
+contact: |
+    Direcças-Geral dos Correios
+    BISSAU
+    Guinée-Bissau
+
+tg: Postgen Bissau
+tlx: 240 publico bi
+fax: +245 201465
+gr: Information not available
+tf: 
+  - +245 214820
+  - +245 213080
+
+part2:
+    col_a: true
+    col_b: true
+    col_d: true
+    col_e: true
+    col_f: true

@@ -1,0 +1,32 @@
+# CHILE (ENTEL)
+country_name:
+  en: CHILE
+  fr: CHILI
+  es: CHILE
+
+type:
+  - FAX ENTEL
+  - ER
+
+notes:
+    - en: 1) Please note that in addition to the bureaux listed in Parts III and IV there are 67 other bureaux situated in 48 localities.
+      fr: 1) A titre d'information, en plus des bureaux  figurant dans les Parties III et IV, il existe 67 autres Bureaux qui sont situées dans 48 localités.
+      es: 1) Le indicamos, a título informativo que, además de las oficinas que figuran en las Partes III y IV, hay otras 67 Oficinas situadas en 48 localidades.
+
+contact: |
+    Empresa Nacional de Telecomunicaciones (ENTEL)
+    Huerfanos No 1133
+    SANTIAGO DE CHILE
+    Chile
+
+tg: |
+    Entel Chile
+    Santiagodechile
+tlx: 341943 entel cl
+fax: +56 2 699 3424
+gr: 3/2
+tf: +56 2 690 2121
+
+part2:
+  col_d: true
+  col_e: true

@@ -1,0 +1,33 @@
+# URUGUAY
+country_name:
+  en: URUGUAY
+  fr: URUGUAY
+  es: URUGUAY
+
+type:
+  - BUROFAX
+  - TELECOM
+
+notes: 
+    - en: 1) The Bureaufax Service has no "Gateway" bureaux; therefore, all bureaux (telecentros) equipped with a fax service received international facsimiles direct.
+      fr: 1) Etant donné que le service Bureaufax ne comporte aucun bureau "Tête de ligne" tous les bureaux (telecentros) qui assurent le service de télécopie reçoivent directement les messages internationaux de télécopie.
+      es: 1) El Servicio Burofax no tiene oficinas "Cabeza de línea", por lo tanto todas las oficinas (telecentros) con servicio fax recepcionan directamente los facsímiles internacionales.
+      
+    - en: 2) Table III lists only 14 of the bureaux equipped with the Bureaufax Service, these being regarded as the most important ones.
+      fr: 2) Le Tableau III présente seulement les 14 bureaux assurant le service Bureaufax qui sont considérés comme les plus importants.
+      es: 2) En el Cuadro III se enumeran sólo las 14 oficinas con servicio Burofax que se consideran más importantes.
+      
+contact: |
+    Administración Nacional de Telecomunicaciones (ANTEL)
+    Avenida  Daniel Fernández Crespo 1534
+    MONTEVIDEO
+    Uruguay
+
+tlx: 23100 antelin uy
+fax: +598 2 400 4545
+gr: 3
+tf: +598 2 400 9328
+
+part2:
+    col_d: true
+    col_e: true

@@ -1,0 +1,30 @@
+# ARGENTINA
+country_name:
+  en: ARGENTINA
+  fr: ARGENTINE
+  es: ARGENTINA
+  
+type:
+ - BUROFAX
+ - POSTE
+ - TELECOMMUNICATIONS
+   
+contact: |
+    Correo oficial de la República Argentina S.A.
+    Coordinación de Operaciones Monetarias y
+    Telegráficas
+    San Juan 1349 Primer Piso
+    1148 CIUDAD AUTONOMA DE BUENOS AIRES
+    ARGENTINA
+    
+fax: +54 11 6316 1005
+tf: +54 11 5861 8895 
+email: sopsegim@correoargentino.com.ar
+
+part2:
+  col_a: true
+  col_b: true
+  col_e: true
+  col_f: true
+
+last_modification: 15.XII.2014

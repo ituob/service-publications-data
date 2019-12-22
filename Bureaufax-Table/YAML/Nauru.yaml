@@ -1,0 +1,25 @@
+# NAURU
+country_name:
+  en: NAURU
+  fr: NAURU
+  es: NAURU
+
+type:
+  - BUREAUFAX
+  - POSTE
+
+contact: |
+    Director of Posts
+    Nauru Post Office
+    NAURU
+
+tlx: 33087
+fax: +674 444 3201
+gr: 3/2
+tf: +674 444 3210
+
+part2:
+    col_a: true
+    col_c: true
+    col_d: true
+    col_e: true

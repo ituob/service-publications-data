@@ -1,0 +1,29 @@
+# ETHIOPIA
+country_name:
+  en: ETHIOPIA
+  fr: ETHIOPIE
+  es: ETIOPIA
+
+type: 
+  - TELECOM
+      
+contact: |
+    Ethipian Telecommunication Authority (ETA)
+    P.O. Box 1047
+    ADDIS ABABA
+
+tg: Gentel AddisAbaba
+tlx: 21000 gentel et
+fax: +251 1 515777
+gr: 3/2
+tf: +215 1 510500
+
+part2:
+    col_a: true
+    col_c: true
+    col_d: true
+    col_e: true
+    col_f: true
+    col_g: true
+
+last_modification: 15.X.2005

@@ -1,0 +1,30 @@
+# BAHAMAS
+country_name:
+  en: BAHAMAS
+  fr: BAHAMAS
+  es: BAHAMAS
+
+type:
+  - BUREAUFAX
+  - TELECOM
+  
+notes:
+    - en: 1) Information not available.
+      fr: 1) Information non disponible.
+      es: 1) Información no disponible.
+      
+contact: |
+    Bahamas Telecommunications Company Ltd.
+    P.O. Box N-3048
+    NASSAU
+    Bahamas
+
+tg: Batelco NassauBahamas
+tlx: batelco 20135
+fax:
+  - +1 242 326 7474
+  - +1 242 326 8080
+tf: +1 242 323 4911
+    
+part2:
+  col_a: true

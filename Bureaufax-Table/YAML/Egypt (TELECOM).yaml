@@ -1,0 +1,32 @@
+# EGYPT (TELECOM)
+country_name:
+  en: EGYPT
+  fr: EGYPTE
+  es: EGIPTO
+
+type: 
+  - TELECOM
+
+notes: 
+    - en: Part II - Information not available.
+      fr: Partie II - Information non disponible.
+      es: Parte II - Información no disponible.
+
+    - en: Part III - Marina - Only active during summer season
+      fr: Partie III - Marina - Uniquement en saison d’été
+      es: Parte III - Marina - Unicamente en verano
+      
+contact: |
+    Telecom Egypt 
+    International Telecommunication Central Department
+    P.O. Box 795 
+    CAIRO
+    Egypt
+
+tg: rad ms Cairo
+tlx: 92100 radmsr un
+fax: +20 2 3131 5011
+gr: 3
+tf: +20 2 3131 5015
+
+last_modification: 21.VII.2008

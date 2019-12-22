@@ -1,0 +1,31 @@
+# TOGO
+country_name:
+  en: TOGO
+  fr: TOGO
+  es: TOGO
+
+type:
+  - BUREAUFAX-SUPER
+  - EXPRESS
+  - POSTE
+
+notes:
+    - en: 1) Except Sunday
+      fr: 1) Sauf dimanche
+      es: 1) Salvo domingo
+
+contact: |
+    Togo Telecom
+    B.P. 333 
+    LOME
+    Togo
+
+fax: +228 2221 0373
+gr: 3
+tf: +228 2221 4401
+
+part2:
+    col_d: true
+    col_e: true
+
+last_modification: 15.III.2012

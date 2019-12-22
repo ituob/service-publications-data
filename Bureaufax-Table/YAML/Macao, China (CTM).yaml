@@ -1,0 +1,29 @@
+# MACAO, CHINA (CTM)
+country_name:
+  en: MACAO, CHINA
+  fr: MACAO, CHINE
+  es: MACAO, CHINA
+
+type:
+  - BUREAUFAX
+  - ER
+
+contact: |
+    Companhia de Telecomunicações de Macao (CTM) S.A.R.L.
+    Caixa Postal 868
+    MACAO
+    Macao, China
+
+tg: CTM/Macao
+tlx: 88588 TMMAC OM
+fax: +853 2855 1092
+gr: 3/2
+tf: 
+ - +853 2888 3883
+ - +853 2856 6038
+
+part2:
+    col_a: true
+    col_f: true
+    
+last_modification: 29.IX.2008

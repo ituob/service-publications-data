@@ -1,0 +1,24 @@
+# NAMIBIA
+country_name:
+  en: NAMIBIA
+  fr: NAMIBIE
+  es: NAMIBIA
+
+type:
+  - POSTE
+
+contact: |
+    Managing Director
+    Namibia Post
+    P.O. Box 287
+    WINDHOEK
+    Namibia
+
+tg: Gentel Windhoek
+tlx: 628 wk
+fax: +264 61 228988
+gr: 3
+tf: +264 61 2012527
+
+part2:
+    col_b: true

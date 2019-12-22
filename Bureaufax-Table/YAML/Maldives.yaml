@@ -1,0 +1,29 @@
+# MALDIVES
+country_name:
+  en: MALDIVES
+  fr: MALDIVES
+  es: MALDIVAS
+
+type:
+  - ER
+
+contact: |
+    DHIRAAGU PVT Ltd.,
+    19, Medhuziyaaraiy Magu
+    P.O. Box 2082
+    MALE'
+    Maldives
+
+tg: Dhiraagu Male'
+tlx: 77022 dhiraagu mf
+fax: +960 332 2800
+gr: 3/2
+tf: +960 332 2802
+
+part2:
+    col_d: true
+    col_e: true
+    col_f: true
+    col_g: true
+    
+last_modification: 1.II.2006

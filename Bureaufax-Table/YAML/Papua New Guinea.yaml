@@ -1,0 +1,48 @@
+# PAPUA NEW GUINEA
+country_name:
+  en: PAPUA NEW GUINEA
+  fr: PAPOUASIE-NOUVELLE-GUINEE 
+  es: PAPUA NUEVA GUINEA
+
+type:
+  - PWIK PIKSA LETA
+  - (POSTFAX)
+  - POSTE
+  
+notes:
+    - en: 1) Please note that in addition to the gateway bureau listed in Part III, there are 33 other localities which have the BUREAUFAX service.
+      fr: 1) A titre d'information, en plus du bureau tête de ligne figurant dans la Partie III, il existe 33 autres localités disposant du service BUREAUFAX. 
+      es: 1) Para información, además de la oficina cabeza de línea que figuran en la Parte III, existen otras 33 localidades que disponen del servicio BUROFAX.
+      
+    - en: 2) Upon request.
+      fr: 2) Sur demande.
+      es: 2) A petición.
+      
+    - en: 3) No delivery or transmission of facsimile messages are provided during Public holidays and after the business hours specified on columns 4a and 4b; however, facsimile machines are normally left on to receive incoming messages which are delivered straight away the following day or after the holiday is over.
+      fr: 3) La remise des messages de télécopie n'est pas prévue les jours fériés ni après les heures de travail spécifiées dans les colonnes 4a et 4b; toutefois, des appareils de télécopie sont normalement laissés en fonction pour recevoir les messages entrants, qui sont remis directement le jour suivant ou après la fin des jours fériés.
+      es: 3) No se entregan mensajes facsímil los días de fiesta ni después de las horas de trabajo especificadas en las columnas 4a y 4b; sin embargo funcionan normalmente aparatos facsímil para recibir mensajes de entrega que se entregan directamente el siguiente día hábil.
+      
+contact: |
+    Posts and Telecommunications Corporation
+    VIP Services Branch
+    Postal Marketing Dept
+    P.O. Box 2855
+    BOROKO
+    Papua New Guinea
+
+
+tg: Postal Boroko
+tlx: ne23090
+fax:
+  - +675 327 4501
+  - +675 325 0646
+gr: 3
+tf: +675 327 4209
+
+part2:
+    col_a: true
+    col_b: true
+    col_c: true
+    col_d: true
+    col_e: true
+    col_f: true

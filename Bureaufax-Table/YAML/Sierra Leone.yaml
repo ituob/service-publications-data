@@ -1,0 +1,28 @@
+# SIERRA LEONE
+country_name:
+  en: SIERRA LEONE
+  fr: SIERRA LEONE
+  es: SIERRA LEONA
+
+type:
+  - BUREAUFAX
+  - TELECOM
+
+contact: |
+    Sierra Leone External Telecommunications Ltd. (SLET)
+    7, Wallace Johnson Street
+    P.O. Box 80
+    FREETOWN
+    Sierra Leone
+
+tg: Slecom Freetown
+tlx: 3287 ops sl
+fax: +232 22 224439
+gr: 3/2
+tf: +232 22 224951
+
+part2:
+    col_d: true
+    col_e: true
+
+last_modification: 23.XI.04

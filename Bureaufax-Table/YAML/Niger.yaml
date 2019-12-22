@@ -1,0 +1,28 @@
+# NIGER
+country_name:
+  en: NIGER
+  fr: NIGER
+  es: NIGER
+
+type:
+  - TELEFAX
+  - TELECOM
+
+contact: |
+    Société Nigérienne des Télécommunications (SONITEL)
+    B.P. 208
+    NIAMEY
+    Niger
+
+tg: Ofipostel Niamey
+tlx: 5209 ofpostel ni
+fax: +227 20 73 58 12
+gr: 3/2
+tf: +227 20 72 2000
+
+part2:
+    col_a: true
+    col_d: true
+    col_e: true
+    
+last_modification: 15.XI.2006

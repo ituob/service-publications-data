@@ -1,0 +1,23 @@
+# JAMAICA
+country_name:
+  en: JAMAICA
+  fr: JAMAIQUE
+  es: JAMAICA
+
+type:
+  - TELECOM
+
+contact: |
+    Cable and Wireless Jamaica Ltd
+    47 Half Way Tree Road
+    5, KINGSTON
+    Jamaica
+
+tlx: 291 2000 jmtl ja
+fax: +1 876 922 0258
+gr: 3/2
+tf: +1 876 922 6005
+
+part2:
+    col_b: true
+    col_e: true

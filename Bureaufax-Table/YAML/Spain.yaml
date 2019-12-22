@@ -1,0 +1,26 @@
+# SPAIN
+country_name:
+  en: SPAIN
+  fr: ESPAGNE
+  es: ESPAÑA
+
+type: 
+  - BUROFAX
+  - POSTE
+      
+contact: |
+    Sociedad Estatal Correos y Telégrafos, S.A.
+    Dirección de Operaciones
+    Servicio Tráfico Telegráfico
+    Vía de Dublin, 7 – 4a planta
+    Campo de las Naciones
+    28070 MADRID
+
+tf: +34 91 596 3153
+email: lope.turegano@correos.com
+
+part2:
+    col_a: true
+    col_c: true
+
+last_modification: 19.XII.2016

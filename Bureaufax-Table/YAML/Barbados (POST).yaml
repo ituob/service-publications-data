@@ -1,0 +1,30 @@
+# BARBADOS (POST)
+country_name:
+  en: BARBADOS
+  fr: BARBADE
+  es: BARBADOS
+
+type:
+  - BUREAUFAX
+  - POSTE
+      
+contact: |
+    General Post Office
+    Cheapside
+    BRIDGETOWN
+    Barbados
+
+
+tg: Postgen Barbados
+fax: 
+  - +1 246 429 8178
+  - +1 246 429 4118
+gr: 3
+tf: +1 246 427 5772
+    
+part2:
+  col_c: true
+  col_e: true
+  col_f: true
+  col_g: true
+  col_t: true

@@ -1,0 +1,27 @@
+# VANUATU
+country_name:
+  en: VANUATU
+  fr: VANUATU
+  es: VANUATU
+
+type:
+  - BUREAUFAX
+  - ER
+
+contact: |
+    TELECOM VANUATU LTD.
+    P.O. Box 146
+    PORT VILA
+    Vanuatu
+
+tg: Telecom Vanuatu Ltd
+tlx: 1050 vatel nh
+fax: +678 22628
+gr: 3
+tf: +678 22185
+
+part2:
+    col_d: true
+    col_e: true
+    col_f: true
+    col_g: true

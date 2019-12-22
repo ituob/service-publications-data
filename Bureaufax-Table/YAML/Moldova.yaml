@@ -1,0 +1,30 @@
+# MOLDOVA
+country_name:
+  en: MOLDOVA
+  fr: MOLDOVA
+  es: MOLDOVA
+
+type:
+  - TELECOM
+
+contact: |
+    Moldtelecom
+    10, Bd. Stefan cel Mare
+    2001 CHISINAU
+    Moldova
+
+tlx: 163 295 TLKOM MD
+fax:
+  - +373 22 54 6419
+  - +373 22 57 0111
+gr: 3
+tf: +373 22 57 0101
+
+part2:
+    col_a: true
+    col_b: true
+    col_c: true
+    col_d: true
+    col_e: true
+    
+last_modification: 1.XI.2003

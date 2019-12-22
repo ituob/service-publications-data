@@ -1,0 +1,27 @@
+# MYANMAR
+country_name:
+  en: MYANMAR
+  fr: MYANMAR
+  es: MYANMAR
+
+type:
+  - TELECOM
+
+contact: |
+    Managing Director
+    Myanma Posts and Telecommunications
+    43, Bo Aung Gyaw Street
+    YANGON
+    Myanmar
+
+tg: Mantel Yangon
+tlx: 21222 mantel bm
+fax: +95 1 370 688
+gr: 3/2
+tf: +95 1 210 322
+
+part2:
+    col_d: true
+    col_e: true
+
+last_modification: 9.III.2006

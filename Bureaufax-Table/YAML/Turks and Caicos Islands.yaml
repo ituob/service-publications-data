@@ -1,0 +1,35 @@
+# TURKS AND CAICOS ISLANDS
+country_name:
+  en: TURKS AND CAICOS ISLANDS
+  fr: TURQUES ET CAIQUES (ILES)
+  es: TURQUESAS Y CAICOS (ISLAS)
+
+type:
+  - BUREAUFAX
+  - ER
+
+notes: 
+    - en: 1) Receiving: continuous.
+      fr: 1) Réception: permanente.
+      es: 1) Entrega: permanente.
+      
+    - en: 2) Opening hours: 0800-1630 Monday to Thursday, 0800-1600 Friday
+      fr: 2) Heures de service:  0800-1630 lundi à jeudi, 0800-1600 vendredi
+      es: 2) Horas de servicio: 0800-1630 lunes a jueves, 0800-1600 viernes.
+
+contact: |
+    Cable and Wireless (West Indies) Ltd.
+    P.O. Box 78
+    Queen Street
+    GRAND TURK
+    Turks and Caicos Islands
+
+tg: Cablewire TurksIsland
+tlx: 8210 cwtkopr tq
+fax: +1 649 946 2497
+gr: 3/2
+tf: +1 649 946 2498
+
+part2:
+    col_d: true
+    col_e: true

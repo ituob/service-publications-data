@@ -1,0 +1,30 @@
+# ZIMBABWE
+country_name:
+  en: ZIMBABWE
+  fr: ZIMBABWE
+  es: ZIMBABWE
+
+type:
+  - TELECOM
+
+contact: |
+    Posts and Telecommunications Corporation
+    Rynhare House
+    P.O. Box 8061
+    Causeway
+    HARARE
+    Zimbabwe
+
+tg: Gentel Harare
+tlx: 24444 telint zw
+fax: +263 4 731 989
+gr: 3/2
+tf: +263 4 728 811 Ext. 2208
+
+part2:
+    col_a: true
+    col_b: true
+    col_d: true
+    col_e: true
+    col_f: true
+    col_g: true

@@ -1,0 +1,92 @@
+# SAUDI ARABIA
+country_name:
+  en: SAUDI ARABIA
+  fr: ARABIE SAOUDITE
+  es: ARABIA SAUDITA
+
+type:
+  - INTELPOST
+  - POSTE
+
+notes:
+  - en: 1) The Intelpost service is only available for destinations listed in Part IV, columns 1b and 2.
+    es: 1) El Servicio Intelpost se ofrece únicamente para los destinos mencionados en las columnas 1b y 2 de la Parte IV.
+    fr: 1) Le service Intelpost est disponible uniquement pour les destinations mentionnées dans la Partie IV colonnes 1b et 2.
+
+  - en: |
+      2) Ordinary mail:
+        Intimation of arrival of the document will be put in the Post Box of the addressee immediately. The document will be available for collection during counter hours.
+    fr: |
+      2) Courrier ordinaire :
+      L'avis d'arrivée du document sera déposé immédiatement dans la boîte postale du destinataire. Le document pourra être retiré pendant les heures d'ouverture des guichets.
+    es: |
+      2) Correo ordinario:
+      Se introducirá inmediatamente un aviso de la llegada del documento en la casilla postal del destinatario. El documento se podrá retirar en ventanilla durante las horas de oficina.
+  - en: |
+      3) Special delivery:
+      The delivery is effected through ALBARID ALMUMTAZ the Express Mail Service (EMS) of Saudi Postal Administration. Documents received before cut of time will be delivered within two hours.
+    fr: |
+      3) Porteur spécial :
+      La remise est effectuée par ALBARID ALMUMTAZ, service du courrier exprès (EMS) de l'Administration postale saoudienne. Les documents reçus avant l'heure de fermeture seront remis dans les deux heures.
+    es: |
+      3) Entrega especial:
+      La entrega se efectúa por conducto de ALBARID ALMUMTAZ, el servicio de entrega inmediata (EMS) de la Administración Postal Saudita. Los documentos recibidos antes de la hora de cierre de la oficina se entregarán en el plazo de dos horas.
+
+  - en: |
+      4) Counter collection at Intelpost Centres :
+      On receipt of the document at the Intelpost centre, telephone advice will be given to the indicated call number that the document is available for collection during the working hours.
+    fr: |
+      4) Retrait au guichet dans les centres Intelpost :
+      A la réception du document au centre Intelpost, un appel téléphonique sera adressé au poste téléphonique dont le numéro est indiqué, pour aviser le destinataire que le document peut être retiré pendant les heures de service.
+    es: |
+      4) Recogido en la ventanilla de los centros Intelpost:
+      En cuanto el Centro Intelpost recibe el documento, comunica por teléfono al número de llamada indicado que el documento está disponible para recogida en ventanilla durante las horas de oficinas.
+
+  - en: |
+      5) Telefax (with call number and group when known) :
+      documents received during working hours will be retransmitted immediately to the recipient's own machine. Documents received thereafter will be transmitted at the commencement of duty next working day.
+    fr: |
+      5) Téléfax (avec numéro d'appel et, s'il est connu groupe) :
+      les documents reçus pendant les heures de travail seront retransmis immédiatement à la propre machine du destinataire. Les documents reçus après les heures de travail seront retransmis dès la reprise du travail le jour ouvrable suivant.
+    es: |
+      5) Telefax (con número de llamada y grupo cuando se conozca):
+      los documentos recibidos durante las horas de servicio serán retransmitidos inmediatamente a los aparatos del destinatario. Los documentos recibidos durante las horas de servicio serán transmitidos a primera hora del próximo día hábil.
+
+  - en: |
+      6) Opening hours : 0800-2200 Saturday to Wednesday
+      0800-1200 Thursday
+      1600-1930 Thursday
+      no service on Friday and public holidays.
+    fr: |
+      6) Heures de service : 0800-2200 samedi à mercredi
+      0800-1200 jeudi
+      1600-1930 jeudi
+      pas de service vendredi et jours fériés.
+    es: |
+      6) Horas de servicio : 0800-2200 sábado a miércoles
+      0800-1200 jueves
+      1600-1930 jueves
+      no servicio el viernes y los días festivos
+
+
+contact: |
+  Directorate General of Posts
+  Ministry of PTT
+  RIYADH 11142
+  Saudi Arabia
+
+tg: Postgen Riyadh
+tlx: 401409 postgen sj
+fax: +966 1 405 5381
+gr: 3
+tf: +966 1 405 6519
+
+part2:
+  col_a: true
+  col_b: true
+  col_c: true
+  col_d: true
+  col_e: true
+  col_f: true
+  col_g: true
+  col_t: true

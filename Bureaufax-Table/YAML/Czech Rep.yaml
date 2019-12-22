@@ -1,0 +1,26 @@
+# CZECH REP.
+country_name:
+  en: CZECH REP.
+  fr: REP. TCHEQUE
+  es: REP. CHECA
+
+type:
+  - POSTFAX
+  - POSTE
+
+contact: |
+    CESKA POSTA, S.P. (CZECH POST, S.E.)
+    OLSANSKA 38/9
+    225 99 PRAHA 3
+    REP. TCHEQUE
+
+fax: +420 2717 74937
+tf: +420 2671 96543
+email: BULIN.JAROSLAV@GR.CPOST.CZ
+
+part2:
+    col_a: true
+    col_d: true
+    col_f: true
+    
+last_modification: 15.IV.03

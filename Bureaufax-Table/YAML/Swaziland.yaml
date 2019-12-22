@@ -1,0 +1,35 @@
+# SWAZILAND
+country_name:
+  en: SWAZILAND
+  fr: SWAZILAND
+  es: SWAZILANDIA
+
+type:
+  - INTERNATIONAL
+  - BUREAUFAX
+  - POSTE/TELECOM
+
+contact: |
+    Post & Telecommunications Corporation
+    P.O. Box 125
+    MBABANE
+    Swaziland
+
+tg: TPostgen Mbabane
+tlx: 2811wd
+fax:
+  - +268 24042610
+  - +268 2405 2001
+gr: 3/2
+tf:
+  - +268 24052160
+  - +268 24052000
+
+part2:
+    col_a: true
+    col_b: true
+    col_d: true
+    col_e: true
+
+last_modification: 15.II.2011
+    

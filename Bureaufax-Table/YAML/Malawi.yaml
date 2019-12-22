@@ -1,0 +1,30 @@
+# MALAWI
+country_name:
+  en: MALAWI
+  fr: MALAWI
+  es: MALAWI
+
+type:
+  - BUREAUFAX
+  - TELECOM
+
+contact: |
+    The Postmaster General
+    Malawi Posts Corporation
+    P.O. Box 527
+    BLANTYRE
+    Malawi
+
+tg: Postgen BlantyreMalawi
+tlx: 44100 postgen mi
+fax: +265 1 671460
+gr: 3
+tf: +265 1 620000
+
+part2:
+    col_a: true
+    col_b: true
+    col_d: true
+    col_e: true
+    col_f: true
+    col_g: true

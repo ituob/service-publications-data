@@ -1,0 +1,27 @@
+# SAINT LUCIA
+country_name:
+  en: SAINT LUCIA
+  fr: SAINTE-LUCIE
+  es: SANTA LUCIA
+
+type:
+  - POSTE
+
+contact: |
+    General Post Office
+    Bridge Street
+    CASTRIES
+    Saint Lucia
+
+tg: Postgen S lucia
+tlx: foraff 6394
+fax: +1 758 451 6422
+gr: 3
+tf: +1 758 452 2671
+
+part2:
+    col_d: true
+    col_e: true
+    col_f: true
+
+last_modification: 4.VI.2009

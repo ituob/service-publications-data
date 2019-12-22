@@ -1,0 +1,25 @@
+# GEORGIA
+country_name:
+  en: GEORGIA
+  fr: GEORGIE
+  es: GEORGIA
+
+type: 
+  - BUREAUFAX
+  - POSTE
+      
+contact: |
+    GEORGIAN POST Ltd.
+    Bureaufax Service
+    2, April Str.
+    380008 TBILISI
+    Georgia
+
+fax: +995 32 93 63 63
+tf: +995 32 93 24 72
+
+part2:
+    col_b: true
+    col_d: true
+    col_e: true
+    col_g: true

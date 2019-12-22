@@ -1,0 +1,52 @@
+# CONGO
+country_name:
+  en: CONGO
+  fr: CONGO
+  es: CONGO
+
+type:
+  - FAX-EXPRESS
+  - POSTE
+
+contact: 
+    - |
+    Direction générale de l'Office National des Postes et Télécommunications (ONPT)
+    BRAZZAVILLE
+    CONGO
+    
+    - |
+    Direction des Télécommunications 
+    ONPT
+    Brazzaville
+    
+    - |
+    Direction des Postes
+    ONPT
+    Brazzaville
+
+tg: 
+  - Ofipostel Brazzaville
+  - Dirtel Brazzaville
+  
+tlx: Ofipostel 5470 KG
+
+fax: 
+  - +242 810752
+  - +242 810024
+  - +242 813464
+  
+gr: 
+  - 3
+  - 3
+  - 3
+  
+tf: 
+  - +242 810998
+  - +242 815999
+  - +242 815591
+
+part2:
+  col_c: true
+  col_d: true
+  col_e: true
+  col_f: true

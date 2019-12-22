@@ -1,0 +1,27 @@
+# NICARAGUA
+country_name:
+  en: NICARAGUA
+  fr: NICARAGUA
+  es: NICARAGUA
+
+type:
+  - ECONOFAX
+  - POSTE
+
+contact: |
+    Gerencia de Desarrollo y Mercadeo Nacional
+    Empresa de Correos de Nicaragua
+    Apartado Postal 2441
+    MANAGUA
+    Nicaragua
+
+fax: +505 263 2163
+tf: +505 263 2160 int.204
+
+part2:
+    col_a: true
+    col_b: true
+    col_d: true
+    col_e: true
+
+last_modification: 1.II.2006

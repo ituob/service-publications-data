@@ -1,0 +1,39 @@
+# CHILE (TELEX-CHILE S.A.)
+country_name:
+  en: CHILE
+  fr: CHILI
+  es: CHILE
+
+type:
+  - TELEFAX
+  - ER
+
+notes:
+    - en: 1) Please note that in addition to the gateway bureaux listed in Part III, there are 84 other localities which have the BUREAUFAX service.
+      fr: 1) A titre d'information, en plus des bureaux têtes de ligne figurant dans la Partie III, il existe 84 autres localités disposant du service BUREAUFAX.
+      es: 1) Para información, ademas de las oficinas cabeza de línea que figuran en la Parte III, existen otras 84 localidades que disponen del servicio BUROFAX.
+      
+    - en: 2) Counter collection with telegraphic advice to the indicated addresse.
+      fr: 2) Retrait au guichet avec avis télégraphique à l'adresse indiquée.
+      es: 2 ) Retirada en ventanilla con aviso por telegrama a la dirección indicada.
+
+contact: |
+    TELEX-CHILE S.A.
+    Morandé 147
+    Casilla 494-V, Correo 21 Santiago
+    SANTIAGO, CHILE
+    Chile
+
+
+tg: |
+    Telex Chile Geopr
+    SantiagodeChile
+tlx: 240408 domp cl
+fax: +56 2 6981474
+gr: 3/2
+tf: +56 2 6968807
+
+part2:
+  col_d: true
+  col_e: true
+  col_g: true

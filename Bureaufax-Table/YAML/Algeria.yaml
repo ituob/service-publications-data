@@ -1,0 +1,31 @@
+# ALGERIA
+country_name:
+  en: ALGERIA
+  fr: ALGERIE
+  es: ARGELIA
+
+type:
+  - BUREAUFAX
+  - POSTE
+
+notes: 
+    - en: 1) Opening hours (in local time): 0800-1800 Saturday to Wednesday 0800-1500 Thursday no service on Friday and public holidays.
+      fr: 1) Heures de service (heure locale): 0800-1800 samedi à mercredi 0800-1500 jeudi pas de service vendredi et jours fériés.
+      es: 1) Horas de servicio (en hora local): 0800-1800 sábado a miércoles 0800-1500 jueves	no hay servicio el viernes y los días festivos.
+      
+contact: |
+    Ministère des postes et télécommunications
+    Direction des services postaux
+    4, Boulevard Krim Belkacem
+    16000 ALGER
+    Algérie
+
+tg: Postgen Alger
+tlx: 55020 mptt dz
+fax: +213 21 73 02 01
+gr: 3
+tf: +213 21 73 17 64
+
+part2:
+  col_d: true
+  col_e: true

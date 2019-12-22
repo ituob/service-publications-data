@@ -1,0 +1,35 @@
+# COTE D'IVOIRE
+country_name:
+  en: COTE D'IVOIRE
+  fr: COTE D'IVOIRE
+  es: COTE D'IVOIRE
+
+type:
+  - POST FAX
+  - POSTE
+  
+notes:
+     - en: 1) Information not available.
+       fr: 1) Information non disponible.
+       es: 1) Información no disponible.
+
+contact: |
+    Société Ivoirienne de la Poste et de l'Epargne (SIPE)
+    39, Boulevard Angoulvant
+    ABIDJAN - PLATEAU
+    Côte d'Ivoire
+
+tg: Présiposte Abidjan
+tlx: 22 115 ems ci
+fax: +225 20 22 45 03
+gr: Information not available
+tf:
+  - +225 20 22 12 12
+  - +225 20 22 45 05
+
+part2:
+  col_c: true
+  col_d: true
+  col_e: true
+  
+last_modification: 28.V.03

@@ -1,0 +1,29 @@
+# BELIZE
+country_name:
+  en: BELIZE
+  fr: BELIZE
+  es: BELICE
+
+type:
+  - BTL FACSIMILE BUREAU
+  - TELECOM
+
+contact: |
+    Belize Telecommunications Limited (BTL)
+    St. Thomas Street
+    P.O. Box 603
+    BELIZE CITY
+    Belize
+
+tg: Beltel BelizeCity
+tlx: 211 btlbouth bz
+fax:
+  - +501 227 5200
+  - +501 227 7600
+gr: 3/2
+tf: +501 227 7085
+
+part2:
+  col_e: true
+
+last_modification: 2.VI.03

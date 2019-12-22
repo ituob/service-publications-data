@@ -1,0 +1,38 @@
+# IRAN (ISLAMIC REPUBLIC OF)
+country_name:
+  en: ICELAND
+  fr: ISLANDE
+  es: ISLANDIA
+
+type: 
+  - PÓSTFAX
+  - POSTE
+  
+notes:
+    - en: 1) Please note that in addition to the gateway bureau listed in Part III, there are 86 other localities which have the BUREAUFAX service.
+      fr: 1) A titre d'information, en plus du bureau tête de ligne figurant dans la Partie III, il existe 86 autres localités disposant du service BUREAUFAX. 
+      es: 1) Para información, además de la oficina cabeza de línea que figuran en la Parte III, existen otras 86 localidades que disponen del servicio BUROFAX.
+
+    - en: 2) International Bureaufax bureau 101 REYKJAVÍK
+      fr: 2) International Bureaufax bureau 101 REYKJAVÍK
+      es: 2) International Bureaufax bureau 101 REYKJAVÍK
+
+contact: |
+    Iceland Post
+    Stórhöfdi 29
+    IS-110 REYKJAVÍK
+    Iceland
+
+tg: Postgen Reykjavík
+tlx: 3000 simtex is att. post
+fax: +354 580 1009
+tf: 
+  - +354 580 1000
+  - +354 580 1101
+email: ip@postur.is
+
+part2:
+    col_a: true
+    col_b: true
+    col_d: true
+    col_e: true

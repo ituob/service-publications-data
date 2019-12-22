@@ -1,0 +1,24 @@
+# ERITREA
+country_name:
+  en: ERITREA
+  fr: ERYTHREE
+  es: ERITREA
+
+type: 
+  - TELEFAX SERVICE
+  - TELECOM
+      
+contact: |
+    Telecommunication Service of Eritrea
+    Martyres St.
+    P.O. Box 234
+    ASMARA 
+    Eritrea
+
+fax: +291 1 112904
+gr: 3
+tf: +291 1 110320
+
+part2:
+    col_d: true
+    col_e: true

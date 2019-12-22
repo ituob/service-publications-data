@@ -1,0 +1,26 @@
+# PARAGUAY
+country_name:
+  en: PARAGUAY
+  fr: PARAGUAY
+  es: PARAGUAY
+
+type:
+  - BUROFAX
+  - TELECOM
+      
+contact: |
+    Compañía Paraguaya de Comunicaciones S.A. (COPACO S.A.)
+    Unidad de Negocios de Cabinas Telefónicas Públicas
+    Ex Combatientes del Chaco No 633-Fdo de la Mora
+
+fax: +595 21 512 774
+tf: +595 21 219 2543
+
+part2:
+    col_a: true
+    col_c: true
+    col_d: true
+    col_e: true
+    col_g: true
+    
+last_modification: 22.IV.2005

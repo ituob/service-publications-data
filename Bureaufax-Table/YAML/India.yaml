@@ -1,0 +1,41 @@
+# INDIA
+country_name:
+  en: INDIA
+  fr: INDE
+  es: INDIA
+
+type: 
+  - BUREAUFAX
+  - TELECOM
+  
+notes:
+    - en: 1) Number reserved for the international transmission of "private-to-public" facsimiles and vice-versa (ITU-T Recommendation F.190).
+      fr: 1) Numéro réservé à la transmission internationale de télécopies de "privé à public" et inversement (Recommandation UIT-T F.190).
+      es: 1) Número reservado para la transmisión internacional de mensajes facsímil de terminal "privado a público" y viceversa. (Recomendación UIT-T F.190).
+
+    - en: 2) Number reserved for the international transmission of facsimiles between "public bureaux (Bureaufax) (ITU-T Recommendation F.170) or international transmission of "private-to-public" facsimiles and vice-versa (ITU-T Recommendation F.190).
+      fr: 2) Numéro réservé à la transmission internationale de télécopies entre "Bureaux publics" (Bureaufax)  (Recommandation UIT-T F.170) ou à la transmission internationale de télécopies de "privé à public" et inversement. (Recommandation UIT-T F.190).
+      es: 2) Número reservado para la transmisión internacional de mensajes facsímil entre "Oficinas públicas" (Burofax)  (Recomendación UIT-T F.170) o la transmisión internacional de mensajes facsímil de terminal "privado a público"  y viceversa (Recomendación UIT-T F.190).
+    
+    - en: 3) The Indian Administration points out that the facsimile machines in Bureaufax bureaux operate in automatic mode.
+      fr: 3) L'Administration de l'Inde précise que les télécopieurs des bureaux Bureaufax fonctionnent en mode automatique.
+      es: 3) La Administración de la India precisa que los aparatos facsímil de las oficinas Burofax funcionan en modo automático.
+      
+contact: |
+    Videsh Sanchar Nigam Limited.
+    Videsh Sanchar Bhavan
+    Mahatma Gandhi Road, Fort
+    Bombay 400001
+    India
+
+
+tg: Videshsanchar Bombay
+tlx: 11 82429 vsnh in
+fax: +91 22  2624027
+gr: 3
+tf: +91 22 2624020
+
+part2:
+    col_b: true
+    col_d: true
+    col_e: true

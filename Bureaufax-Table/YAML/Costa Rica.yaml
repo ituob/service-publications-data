@@ -1,0 +1,31 @@
+# COSTA RICA
+country_name:
+  en: COSTA RICA
+  fr: COSTA RICA
+  es: COSTA RICA
+
+type:
+  - RACSAFAX
+  - ER
+
+notes:
+     - es: * A partir del 20 de marzo de 2008
+
+contact: |
+    Radiográfica Costarricense S.A. (RACSA)
+    Avenida 5, Calle 1
+    1000 SAN JOSE
+    Costa Rica
+
+tg: Racsa SJoseCostaRica
+tlx: 1013 TFC CR
+fax: +506 2 223 16 09
+gr: 3
+tf: +506 2 287 00 87
+
+part2:
+  col_d: true
+  col_e: true
+  col_g: true
+
+last_modification: 29.II.2008

@@ -1,0 +1,23 @@
+# TUVALU
+country_name:
+  en: TUVALU
+  fr: TUVALU
+  es: TUVALU
+
+type:
+  - PUBLI FAX
+  - TELECOM
+
+contact: |
+    Tuvalu Telecommunication Corporation
+    FUNAFUTI
+    Tuvalu
+
+tg: Telecom Funafuti
+fax: +688 20002
+gr: 3/2
+tf: +688 20001
+email: itefoto@tuvalu.tv
+
+part2:
+    col_b: true

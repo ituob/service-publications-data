@@ -1,0 +1,29 @@
+# LUXEMBOURG
+country_name:
+  en: LUXEMBOURG
+  fr: LUXEMBOURG
+  es: LUXEMBURGO
+
+type:
+  - BUREAUFAX
+  - POSTE
+
+contact: |
+    Postes et  télécommunications
+    L-2020 LUXEMBOURG
+
+
+tg: Gentel Luxembourg
+tlx: 3450 gentl lu
+fax: +352 475 110
+gr: 3/2
+tf: +352 4765 4214
+email: dirgensc@ept.lu
+
+part2:
+    col_a: true
+    col_d: true
+    col_e: true
+    col_f: true
+    
+last_modification: 4.VIII.2006

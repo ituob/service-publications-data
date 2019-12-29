@@ -1,0 +1,2504 @@
+= FORMA DE LOS DISTINTIVOS DE LLAMADA ASIGNADOS POR CADA ADMINISTRACIÓN A SUS ESTACIONES DE AFICIONADO Y A SUS ESTACIONES EXPERIMENTALES
+:bureau: T
+:docnumber: 
+:series: ESTADO DE LAS RADIOCOMUNICACIONES ENTRE ESTACIONES DE AFICIONADO DE PAÍSES DISTINTOS
+:series1: (De conformidad con la disposición facultativa N.o 25.1 del Reglamento de Radiocomunicaciones)
+:series2: Y
+:published-date: 2018-08-15
+:status: published
+:doctype: recommendation-status
+:keywords: 
+:imagesdir: images
+:docfile: T-SP-RR.25.1-2018-MSW-S.adoc
+:language: es
+:mn-document-class: itu
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+:stem:
+
+
+[preface]
+== Nota de la BR
+
+En la Carta Circular CR/430 del 14 de mayo de 2018, la Oficina de Radiocomunicaciones solicitaba a las administraciones que informase a la Unión sobre su posición actual con respecto a la disposición número 25.1 del Reglamento de Radiocomunicaciones, relativa a las radiocomunicaciones entre estaciones de sus servicios de aficionados y de aficionados por satélite y estaciones de otros países. La Carta Circular también indicaba que en los casos en que no se recibiese información de la administración, se supondrá que la administración correspondiente no se opone a tales radiocomunicaciones. 
+
+En la misma Carta Circular, se pedía a las administraciones que comunicasen a la Oficina la forma de los distintivos de llamada que han asignado a sus estaciones de aficionado y sus estaciones experimentales. Este Anexo al Boletín de Explotación N.º 1054 del 15 de agosto de 2018 cancela y anula el Anexo previo al Boletín de Explotación N.º 1055 del 1 de julio de 2014. 
+
+El Anexo tiene en cuenta la información recibida de las administraciones con respecto a la disposición número 25.1 del Reglamento de Radiocomunicaciones. Por lo que se refiere a la forma de los distintivos de llamada asignados a las estaciones de aficionado y a las estaciones experimentales, cuando no se ha recibido nueva información de la administración se reproduce la información que aparece actualmente en los registros pertinentes de la Oficina. 
+
+El Anexo se irá actualizando por medio de enmiendas que se publicarán en el Boletín de Explotación de la UIT. Por otra parte, las informaciones que figuran en este Anexo están disponibles en la página de entrada de la UIT http://www.itu.int/pub/T-SP/es[http://www.itu.int/pub/T-SP/es] y pueden ser consultadas a distancia por los suscriptores. 
+
+Se solicita a las administraciones que verifiquen la exactitud de la información publicada e informen a la Unión de las discrepancias que puedan encontrar. Las modificaciones de la información suministrada deben notificarse a la Oficina a la mayor brevedad posible. 
+
+Unión Internacional de Telecomunicaciones 
+
+Director de la Oficina de Radiocomunicaciones  
+
+Place des Nations 
+ 
+1211 GINEBRA 20 
+ 
+Suiza 
+ 
+Tel: + 41 22 7305800 
+ 
+Fax: + 41 22 7305785 
+ 
+Correo electrónico:   mailto:brmail@itu.int[brmail@itu.int]
+
+NOTE: La forma de agrupar o presentar los datos adoptada en este Anexo no supone necesariamente el reconocimiento, por parte de la UIT, de las cuestiones que afectan el estatuto jurídico y límites de los Estados y territorios.
+
+
+== RADIOCOMUNICACIONES ENTRE ESTACIONES DE AFICIONADO (RR 25.1)
+
+[%unnumbered]
+|===
+.2+^.^| Administración del país o zona geográfica 2+^.^| ENTRE ESTACIONES DE PAÍSES DISTINTOS .2+^.^| Observaciones y restricciones impuestas ^.^| Forma de los distintivos de llamada
+
+^.^| Permitidas ^.^| Prohibidas ^.^| Páginas
+
+^.^| 1 ^.^| 2 ^.^| 3 ^.^| 4 ^.^| 5
+
+| Afganistán ^.^| x | | {blank}footnote:res[Esta administración no ha manifestado explícitamente su postura. En cuanto al procedimiento de consulta se supone que la administración no ha presentado objeciones a las radiocomunicaciones entre estaciones de aficionado de su país y estaciones de otros países (véase la Carta circular CR/430 del 14 de mayo de 2018).] | 
+| Alaska (Estado de) ^.^| x | | {blank}footnote:res[] ^.^| 22
+| Albania (República de) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Alemania (República Federal de) ^.^| x | | ^.^| 11-12
+| Andorra (Principado de) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Angola (República de) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Anguilla ^.^| x | | {blank}footnote:res[] ^.^| 38
+| Antigua y Barbuda ^.^| x | | {blank}footnote:res[] ^.^| 
+| Arabia Saudita (Reino de) ^.^| x | | {blank}footnote:res[] ^.^| 12
+| Argelia (República Argelina Democrática y Popular) ^.^| x | | {blank}footnote:res[] ^.^| 12
+| Argentina (República) ^.^| x | | {blank}footnote:res[] ^.^| 12
+| Armenia (República de) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Aruba ^.^| x | | {blank}footnote:res[] ^.^| 13
+| Ascensión (Isla de la) ^.^| x | | {blank}footnote:res[] ^.^| 38
+| Australia ^.^| x | | ^.^| 13
+| Austria ^.^| x | | {blank}footnote:res[] ^.^| 13
+| Azerbaiyán (República de) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Azores ^.^| x | | {blank}footnote:res[] ^.^| 36-37
+| Bahamas (Commonwealth de las) ^.^| x | | {blank}footnote:res[] ^.^| 14
+| Bahrein (Reino de) ^.^| x | | {blank}footnote:res[] ^.^| 14
+| Bangladesh (República Popular de) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Barbados ^.^| x | | {blank}footnote:res[] ^.^| 14
+| Belarús (República de) ^.^| x | | ^.^| 14
+| Bélgica ^.^| x | | {blank}footnote:res[] ^.^| 15
+| Belice ^.^| x | | {blank}footnote:res[] ^.^| 15
+| Benin (República de) ^.^| x | | {blank}footnote:res[] ^.^| 15
+| Bermudas ^.^| x | | {blank}footnote:res[] ^.^| 38
+| Bhután (Reino de) ^.^| x | | {blank}footnote:res[] ^.^| 15
+| Bolivia (Estado Plurinacional de) ^.^| x | | {blank}footnote:res[] ^.^| 16
+| Bonaire, San Eustatius y Saba ^.^| x | | {blank}footnote:res[] ^.^| 16
+| Bosnia y Herzegovina ^.^| x | | {blank}footnote:res[] ^.^| 
+| Botswana (República de) ^.^| x | | {blank}footnote:res[] ^.^| 16
+| Bouvet Isla ^.^| x | | {blank}footnote:res[] ^.^| 34
+| Brasil (República Federativa del) ^.^| x | | {blank}footnote:res[] ^.^| 16-17
+| Brunei Darussalam ^.^| x | | {blank}footnote:res[] ^.^| 17
+| Bulgaria (República de) ^.^| x | | {blank}footnote:res[] ^.^| 17
+| Burkina Faso ^.^| x | | {blank}footnote:res[] ^.^| 17
+| Burundi (República de) ^.^| x | | {blank}footnote:res[] ^.^| 18
+| Cabo Verde (República de) ^.^| x | | {blank}footnote:res[] ^.^| 18
+| Caimanes (Islas) ^.^| x | | {blank}footnote:res[] ^.^| 38
+| Camboya (Reino de) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Camerún (República de) ^.^| x | | {blank}footnote:res[] ^.^| 18
+| Canadá ^.^| x | | {blank}footnote:res[] ^.^| 18
+| Canarias (Islas) ^.^| x | | {blank}footnote:res[] ^.^| 21
+| Centroafricana (República) ^.^| x | | {blank}footnote:res[] ^.^| 18
+| Ciudad del Vaticano (Estado de la) ^.^| x | | {blank}footnote:res[] ^.^| 18
+| Clipperton Isla ^.^| x | | {blank}footnote:res[] ^.^| 24
+| Cocos (Keeling) (Islas) ^.^| x | | ^.^| 13
+| Colombia (República de) ^.^| x | | {blank}footnote:res[] ^.^| 18
+| Comoras (Unión de las) ^.^| x | | {blank}footnote:res[] ^.^| 19
+| Congo (República del) ^.^| x | | {blank}footnote:res[] ^.^| 19
+| Cook (Islas) ^.^| x | | {blank}footnote:res[] ^.^| 19
+| Corea (República de) ^.^| x | | {blank}footnote:res[] ^.^| 19
+| Costa Rica ^.^| x | | {blank}footnote:res[] ^.^| 19
+| Côte d'Ivoire (República de) ^.^| x | | {blank}footnote:res[] ^.^| 19
+| Croacia (República de) ^.^| x | | {blank}footnote:res[] ^.^| 19
+| Crozet (Archipiélago) ^.^| x | | {blank}footnote:res[] ^.^| 24
+| Cuba ^.^| x | | {blank}footnote:res[] ^.^| 19
+| Curaçao ^.^| x | | {blank}footnote:res[] ^.^| 19
+| Chad (República del) ^.^| x | | {blank}footnote:res[] ^.^| 20
+| Chagos (Islas) (Océano Índico) ^.^| x | | {blank}footnote:res[] ^.^| 38
+| Chile ^.^| x | | {blank}footnote:res[] ^.^| 20
+| China (República Popular de) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Chipre (República de) ^.^| x | | {blank}footnote:res[] ^.^| 20
+| Christmas (Isla) (Océano Índico) ^.^| x | | ^.^| 13
+| Diego García ^.^| x | | {blank}footnote:res[] ^.^| 38
+| Dinamarca ^.^| x | | {blank}footnote:res[] ^.^| 20
+| Djibouti (República de) ^.^| x | | {blank}footnote:res[] ^.^| 20
+| Dominica (Commonwealth de) ^.^| x | | {blank}footnote:res[] ^.^| 20
+| Dominicana (República) ^.^| x | | {blank}footnote:res[] ^.^| 20
+| Ecuador ^.^| x | | {blank}footnote:res[] ^.^| 21
+| Egipto (República Árabe de) ^.^| x | | {blank}footnote:res[] ^.^| 21
+| El Salvador (República de) ^.^| x | | {blank}footnote:res[] ^.^| 21
+| Emiratos Árabes Unidos ^.^| x | | {blank}footnote:res[] ^.^| 21
+| Eritrea | ^.^| x | {blank}footnote:res[] | 
+| Eslovenia (República de) ^.^| x | | {blank}footnote:res[] ^.^| 21
+| España ^.^| x | | {blank}footnote:res[] ^.^| 21
+| Estados Unidos de América ^.^| x | | {blank}footnote:res[] ^.^| 22
+| Estonia (República de) ^.^| x | | {blank}footnote:res[] ^.^| 22
+| Etiopía (República Democrática Federal de) ^.^| x | | {blank}footnote:res[] ^.^| 22
+| Federación de Rusia ^.^| x | | {blank}footnote:res[] ^.^| 23
+| Feroe (Islas) ^.^| x | | {blank}footnote:res[] ^.^| 20
+| Fiji (República de) ^.^| x | | {blank}footnote:res[] ^.^| 23
+| Filipinas (República de) ^.^| x | | {blank}footnote:res[] ^.^| 24
+| Finlandia ^.^| x | | {blank}footnote:res[] ^.^| 24
+| Francia ^.^| x | | {blank}footnote:res[] ^.^| 24
+| Gabonesa (República) ^.^| x | | {blank}footnote:res[] ^.^| 24
+| Gambia (República de) ^.^| x | | {blank}footnote:res[] ^.^| 24
+| Georgia ^.^| x | | {blank}footnote:res[] ^.^| 25
+| Ghana ^.^| x | | {blank}footnote:res[] ^.^| 25
+| Gibraltar ^.^| x | | {blank}footnote:res[] ^.^| 38
+| Granada ^.^| x | | {blank}footnote:res[] ^.^| 
+| Grecia ^.^| x | | {blank}footnote:res[] ^.^| 25
+| Groenlandia ^.^| x | | {blank}footnote:res[] ^.^| 20
+| Guadalupe (Departamento francés de la) ^.^| x | | {blank}footnote:res[] ^.^| 24
+| Guam ^.^| x | | {blank}footnote:res[] ^.^| 22
+| Guatemala (República de) ^.^| x | | {blank}footnote:res[] ^.^| 25
+| Guayana (Departamento francés de la) ^.^| x | | {blank}footnote:res[] ^.^| 24
+| Guinea (República de) ^.^| x | | {blank}footnote:res[] ^.^| 25
+| Guinea Ecuatorial (República de) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Guinea-Bissau (República de) ^.^| x | | {blank}footnote:res[] ^.^| 26
+| Guyana ^.^| x | | {blank}footnote:res[] ^.^| 26
+| Haití (República de) ^.^| x | | {blank}footnote:res[] ^.^| 26
+| Hawai (Estado de) ^.^| x | | {blank}footnote:res[] ^.^| 22
+| Heard y McDonald Islas ^.^| x | | ^.^| 13
+| Honduras (República de) ^.^| x | | {blank}footnote:res[] ^.^| 26
+| Hong Kong (Región administrativa especial de China) ^.^| | | {blank}footnote:res[] | 
+| Howland (Isla) ^.^| x | | {blank}footnote:res[] ^.^| 22
+| Hungría ^.^| x | | {blank}footnote:res[] ^.^| 26
+| India (República de la) ^.^| x | | {blank}footnote:res[] ^.^| 26
+| Indonesia (República de) ^.^| x | | {blank}footnote:res[] ^.^| 26
+| Irán (República Islámica del) ^.^| x | | {blank}footnote:res[] ^.^| 26
+| Iraq (República del) ^.^| x | | {blank}footnote:res[] ^.^| 27
+| Irlanda ^.^| x | | {blank}footnote:res[] ^.^| 27
+| Islandia ^.^| x | | {blank}footnote:res[] ^.^| 27
+| Israel (Estado de) ^.^| x | | {blank}footnote:res[] ^.^| 27
+| Italia ^.^| x | | {blank}footnote:res[] ^.^| 27-28
+| Jamaica ^.^| x | | {blank}footnote:res[] ^.^| 28
+| Japón ^.^| x | | {blank}footnote:res[] ^.^| 28
+| Jarvis (Isla) ^.^| x | | {blank}footnote:res[] ^.^| 22
+| Johnston (Isla) ^.^| x | | {blank}footnote:res[] ^.^| 22
+| Jordania (Reino Hachemita de) ^.^| x | | {blank}footnote:res[] ^.^| 28
+| Kazajstán (República de) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Kenya (República de) ^.^| x | | {blank}footnote:res[] ^.^| 28
+| Kerguelén (Islas) ^.^| x | | {blank}footnote:res[] ^.^| 24
+| Kiribati (República de) ^.^| x | | {blank}footnote:res[] ^.^| 29
+| Kuwait (Estado de) ^.^| x | | {blank}footnote:res[] ^.^| 29
+| La ex República Yugoslava de Macedonia ^.^| x | | {blank}footnote:res[] ^.^| 
+| Lao (República Democrática Popular) ^.^| x | | {blank}footnote:res[] ^.^| 29
+| Lesotho (Reino de) ^.^| x | | {blank}footnote:res[] ^.^| 29
+| Letonia (República de) ^.^| x | | {blank}footnote:res[] ^.^| 29
+| Líbano ^.^| x | | Excepto Israel ^.^| 29
+| Liberia (República de) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Libia ^.^| x | | {blank}footnote:res[] ^.^| 29
+| Liechtenstein (Principado de) ^.^| x | | {blank}footnote:res[] ^.^| 29
+| Lituania (República de) ^.^| x | | {blank}footnote:res[] ^.^| 29
+| Luxemburgo ^.^| x | | {blank}footnote:res[] ^.^| 30
+| Macao (Región administrativa especial de China) ^.^| x | | {blank}footnote:res[] | 
+| Madagascar (República de) ^.^| x | | {blank}footnote:res[] ^.^| 30
+| Madeira ^.^| x | | {blank}footnote:res[] ^.^| 36
+| Malasia ^.^| x | | {blank}footnote:res[] ^.^| 30
+| Malawi ^.^| x | | {blank}footnote:res[] ^.^| 30
+| Maldivas (República de) ^.^| x | | {blank}footnote:res[] ^.^| 30
+| Malí (República de) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Malta ^.^| x | | {blank}footnote:res[] ^.^| 31
+| Malvinas (Islas) (Falkland) ^.^| x | | {blank}footnote:res[] ^.^| 38
+| Marianas del Norte (Islas) (Commonwealth de las) ^.^| x | | {blank}footnote:res[] ^.^| 22
+| Marión (Isla) ^.^| x | | {blank}footnote:res[] ^.^| 41
+| Marruecos (Reino de) ^.^| x | | {blank}footnote:res[] ^.^| 31
+| Marshall (República de las Islas) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Martinica (Departamento francés de la) ^.^| x | | {blank}footnote:res[] ^.^| 24
+| Mauricio (República de) ^.^| x | | {blank}footnote:res[] ^.^| 31
+| Mauritania (República Islámica de) ^.^| x | | {blank}footnote:res[] ^.^| 31
+| Mayotte (Colectividad territorial de). ^.^| x | | {blank}footnote:res[] ^.^| 24
+| México. ^.^| x | | {blank}footnote:res[] ^.^| 31
+| Micronesia (Estados federados de) ^.^| x | | {blank}footnote:res[] ^.^| 32
+| Midway (Islas) ^.^| x | | {blank}footnote:res[] ^.^| 22
+| Moldova (República de). ^.^| x | | {blank}footnote:res[] ^.^| 32
+| Mónaco (Principado de) ^.^| x | | {blank}footnote:res[] ^.^| 32
+| Mongolia ^.^| x | | {blank}footnote:res[] ^.^| 
+| Montenegro ^.^| x | | {blank}footnote:res[] ^.^| 
+| Montserrat ^.^| x | | {blank}footnote:res[] ^.^| 38
+| Mozambique (República de) ^.^| x | | {blank}footnote:res[] ^.^| 32
+| Myanmar (Unión de) ^.^| x | | {blank}footnote:res[] ^.^| 32
+| Namibia (República de) ^.^| x | | {blank}footnote:res[] ^.^| 33
+| Nauru (República de) ^.^| x | | {blank}footnote:res[] ^.^| 33
+| Nepal (República Democrática Federal de) ^.^| x | | {blank}footnote:res[] ^.^| 33
+| Nicaragua ^.^| x | | {blank}footnote:res[] ^.^| 33
+| Níger (República del) ^.^| x | | {blank}footnote:res[] ^.^| 33
+| Nigeria (República Federal de) ^.^| x | | {blank}footnote:res[] ^.^| 33
+| Niue ^.^| x | | {blank}footnote:res[] ^.^| 34
+| Norfolk (Isla) ^.^| x | | ^.^| 13
+| Noruega ^.^| x | | {blank}footnote:res[] ^.^| 34
+| Nueva Caledonia ^.^| x | | {blank}footnote:res[] ^.^| 24
+| Nueva Zelandia ^.^| x | | {blank}footnote:res[] ^.^| 34
+| Omán (Sultanía de) ^.^| x | | {blank}footnote:res[] ^.^| 34
+| Países Bajos (Reino de los) ^.^| x | | {blank}footnote:res[] ^.^| 35
+| Pakistán (República Islámica del) ^.^| x | | {blank}footnote:res[] ^.^| 35
+| Palau (República de) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Palmira (Isla) ^.^| x | | {blank}footnote:res[] ^.^| 22
+| Panamá (República de) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Papua Nueva Guinea ^.^| x | | {blank}footnote:res[] ^.^| 35
+| Paraguay (República del) ^.^| x | | {blank}footnote:res[] ^.^| 35
+| Pascua (Isla de) ^.^| x | | {blank}footnote:res[] ^.^| 20
+| Perú ^.^| x | | {blank}footnote:res[] ^.^| 35
+| Phoenix (Islas) ^.^| x | | {blank}footnote:res[] ^.^| 29
+| Pitcairn (Isla) ^.^| x | | {blank}footnote:res[] ^.^| 38
+| Polinesia francesa ^.^| x | | {blank}footnote:res[] ^.^| 24
+| Polonia (República de) ^.^| x | | {blank}footnote:res[] ^.^| 35-36
+| Portugal ^.^| x | | {blank}footnote:res[] ^.^| 36-37
+| Puerto Rico ^.^| x | | {blank}footnote:res[] ^.^| 22
+| Qatar (Estado de) ^.^| x | | {blank}footnote:res[] ^.^| 37
+| Reino Unido de Gran Bretaña e Irlanda del Norte ^.^| x | | {blank}footnote:res[] ^.^| 37-38
+| República Árabe Siria ^.^| x | | Excepto Israel ^.^| 39
+| República Checa ^.^| x | | {blank}footnote:res[] ^.^| 39
+| República Democrática del Congo ^.^| x | | {blank}footnote:res[] ^.^| 
+| República Eslovaca ^.^| x | | {blank}footnote:res[] ^.^| 39
+| República Kirguisa ^.^| x | | {blank}footnote:res[] ^.^| 39
+| República Popular Democrática de Corea | ^.^| x | {blank}footnote:res[] | 
+| Reunión (Departamento francés de la) ^.^| x | | {blank}footnote:res[] ^.^| 24
+| Rodrígues ^.^| x | | {blank}footnote:res[] ^.^| 31
+| Rumania ^.^| x | | {blank}footnote:res[] ^.^| 39
+| Rwanda (República de) ^.^| x | | {blank}footnote:res[] ^.^| 40
+| Saint Kitts y Nevis (Federación de) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Salomón (Islas) ^.^| x | | {blank}footnote:res[] ^.^| 40
+| Samoa (Estado Independiente de) ^.^| x | | {blank}footnote:res[] ^.^| 40
+| Samoa norteamericanas ^.^| x | | {blank}footnote:res[] ^.^| 22
+| San Bartolomé (Departamento francés de la) ^.^| x | | {blank}footnote:res[] ^.^| 24
+| San Maarten (parte neerlandesa) ^.^| x | | {blank}footnote:res[] ^.^| 40
+| San Marino (República de) ^.^| x | | {blank}footnote:res[] ^.^| 40
+| San Martín (Departamento francés de la) ^.^| x | | {blank}footnote:res[] ^.^| 24
+| San Paul y Amsterdam (Islas) ^.^| x | | {blank}footnote:res[] ^.^| 24
+| San Pedro y Miquelón (Colectividad territorial de) ^.^| x | | {blank}footnote:res[] ^.^| 24
+| San Vicente y las Granadinas ^.^| x | | {blank}footnote:res[] ^.^| 
+| Santa Elena ^.^| x | | {blank}footnote:res[] ^.^| 38
+| Santa Lucía ^.^| x | | {blank}footnote:res[] ^.^| 
+| Santo Tomé y Príncipe (República Democrática de) ^.^| x | | {blank}footnote:res[] ^.^| 40
+| Senegal (República del) ^.^| x | | {blank}footnote:res[] ^.^| 40
+| Serbia (República de) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Seychelles (República de) ^.^| x | | {blank}footnote:res[] ^.^| 40
+| Sierra Leona ^.^| x | | {blank}footnote:res[] ^.^| 40
+| Singapur (República de) ^.^| x | | {blank}footnote:res[] ^.^| 41
+| Somalia (República Federal de) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Sri Lanka (República Socialista Democrática de) ^.^| x | | {blank}footnote:res[] ^.^| 41
+| Sudafricana (República) ^.^| x | | {blank}footnote:res[] ^.^| 41
+| Sudán (República del) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Sudán del Sur (República de) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Suecia ^.^| x | | {blank}footnote:res[] ^.^| 41
+| Suiza (Confederación) ^.^| x | | {blank}footnote:res[] ^.^| 41
+| Suriname (República de) ^.^| x | | {blank}footnote:res[] ^.^| 41
+| Swan (Islas) ^.^| x | | {blank}footnote:res[] ^.^| 26
+| Swazilandia (Reino de) ^.^| x | | {blank}footnote:res[] ^.^| 41
+| Tailandia ^.^| x | | {blank}footnote:res[] ^.^| 42
+| Tanzanía (República Unida de) ^.^| x | | {blank}footnote:res[] ^.^| 42
+| Tayikistán (República de) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Timor-Leste (República Democrática de) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Togolesa (República) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Tokelau ^.^| x | | {blank}footnote:res[] ^.^| 34
+| Tonga (Reino de) ^.^| x | | {blank}footnote:res[] ^.^| 42
+| Trinidad y Tabago ^.^| x | | {blank}footnote:res[] ^.^| 42
+| Tristán da Cunha ^.^| x | | {blank}footnote:res[] ^.^| 38
+| Túnez ^.^| x | | {blank}footnote:res[] ^.^| 42
+| Turkmenistán ^.^| x | | {blank}footnote:res[] ^.^| 
+| Turquesas y Caicos (Islas) ^.^| x | | {blank}footnote:res[] ^.^| 38
+| Turquía ^.^| x | | {blank}footnote:res[] ^.^| 42
+| Tuvalu ^.^| x | | {blank}footnote:res[] ^.^| 42
+| Ucrania ^.^| x | | {blank}footnote:res[] ^.^| 43
+| Uganda (República de) ^.^| x | | {blank}footnote:res[] ^.^| 43
+| Uruguay (República Oriental del) ^.^| x | | {blank}footnote:res[] ^.^| 43
+| Uzbekistán (República de) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Vanuatu (República de) ^.^| x | | {blank}footnote:res[] ^.^| 43
+| Venezuela (República Bolivariana de) ^.^| x | | {blank}footnote:res[] ^.^| 43
+| Viet Nam (República Socialista de) ^.^| x | | Excepto entre estaciones del servicio de aficionados por satélite ^.^| 43
+| Vírgenes americanas (Islas) ^.^| x | | {blank}footnote:res[] ^.^| 22
+| Vírgenes británicas (Islas) ^.^| x | | {blank}footnote:res[] ^.^| 38
+| Wake (Isla) ^.^| x | | {blank}footnote:res[] ^.^| 22
+| Wallis y Futuna (Islas) ^.^| x | | {blank}footnote:res[] ^.^| 24
+| Yemen (República del) ^.^| x | | {blank}footnote:res[] ^.^| 
+| Zambia (República de) ^.^| x | | {blank}footnote:res[] ^.^| 43
+| Zimbabwe (República de) ^.^| x | | {blank}footnote:res[] ^.^| 43
+
+|===
+
+
+== FORMA DE LOS DISTINTIVOS DE LLAMADA ASIGNADOS POR CADA ADMINISTRACIÓN A SUS ESTACIONES DE AFICIONADO Y A SUS ESTACIONES EXPERIMENTALES
+
+
+=== Alemania (República Federal de)
+
+[%unnumbered]
+|===
+3+^.^| Estaciones de aficionado
+^.^| Distintivos de llamada ^.^| Utilización ^.^| Clase
+^.^| 1 ^.^| 2 ^.^| 3
+| DA0A-DA0ZZZ | Estaciones de club ^.^| A
+| DA1A-DA1Z {blank}footnote:alemania[Únicamente para el personal sujeto al acuerdo SOFA (Status of Forces Agreement).] | Estaciones de club ^.^| A
+| DA1AA-DA1ZZZ{blank}footnote:alemania[] | Estaciones individuales, estaciones de club, repetidores, balizas ^.^| A
+| DA2A-DA3Z | Estaciones de club ^.^| A
+| DA2AA-DA2ZZZ | Estaciones individuales, estaciones de club, repetidores, balizas ^.^| A
+| DA4A-DA4Z | Estudios experimentales especiales por estaciones de club ^.^| E
+| DA4AA-DA4ZZZ{blank}footnote:alemania2[También para el personal sujeto al acuerdo SOFA (Status of Forces Agreement).] | Estudios experimentales especiales por estaciones individuales ^.^| E
+| DA5A-DA5Z | Estudios experimentales especiales por estaciones de club ^.^| A
+| DA5AA-DA5ZZZ {blank}footnote:alemania2[] | Estudios experimentales especiales por estaciones individuales ^.^| A
+| DA6A-DA6Z {blank}footnote:alemania[] | Estaciones de club ^.^| E
+| DA6AA-DA6ZZZ {blank}footnote:alemania[] | Estaciones individuales, estaciones de club, repetidores, balizas ^.^| E
+| DA7A-DA9Z | Estaciones de club ^.^| E
+| DB0A-DD9Z | Estaciones de club ^.^| A
+| DB0AA-DB0ZZZ | Repetidores, balizas ^.^| A
+| DB1AA- DD9ZZZ | Estaciones individuales ^.^| A
+| DF0A-DH9Z | Estaciones de club ^.^| A
+| DF0AA-DF0ZZZ | Estaciones de club ^.^| A
+| DF1AA- DH9ZZZ | Estaciones individuales ^.^| A
+| DJ0A-DM9Z | Estaciones de club ^.^| A
+| DJ0AA-DJ9ZZZ | Estaciones individuales ^.^| A
+| DK0AA-DK0ZZZ | Estaciones de club ^.^| A
+| DK1AA-DK9ZZZ | Estaciones individuales ^.^| A
+| DL0AA-DL0ZZZ | Estaciones de club ^.^| A
+| DL1AA-DL9ZZZ | Estaciones individuales ^.^| A
+| DM0AA-DM0ZZZ | Repetidores, balizas (DM0ZA-DM0ZZZ: repetidores con nueva tecnología) ^.^| A
+| DM1AA-DM9ZZZ | Estaciones individuales ^.^| A
+| DN0A-DN0ZZZ | Estaciones de club ^.^| E
+| DN1AA-DN6ZZZ {blank}footnote:alemania2[] | Estaciones utilizadas para la instrucción de las operaciones radio ^.^| A
+| DN7AA-DN8ZZZ {blank}footnote:alemania2[] | Estaciones utilizadas para la instrucción de las operaciones radio ^.^| E
+| DO0A-DO9Z | Estaciones de club ^.^| E
+| DO0AA-DO0ZZZ | Repetidores, balizas (DO0ZA-DO0ZZZ: repetidores con nueva tecnología) ^.^| E
+| DO1AA-DO9ZZZ | Estaciones individuales ^.^| E
+| DP0A-DP1Z | Estaciones de club (en sitios extraterritoriales) ^.^| A
+| DP0AA-DP1ZZZ | Estaciones de club, repetidores, balizas, estaciones de aficionado experimentales (en sitios extraterritoriales) ^.^| A
+| DP2A-DP2Z | Estaciones de club (en sitios extraterritoriales) ^.^| E
+| DP2AA-DP2ZZ | Estaciones de club, repetidores, balizas, estaciones de aficionado experimentales (en sitios extraterritoriales) ^.^| E
+| DP3A- DR9Z | Estaciones de club ^.^| A
+
+|===
+
+
+NOTE: Los radioaficionados extranjeros utilizarán DL seguido por una barra de fracción (/) y su distintivo de llamada nacional para la clase A, o DO seguido por una barra de fracción (/) y su distintivo de llamada nacional para la clase E, o un distintivo de llamada personal reglamentario.
+
+Estaciones experimentales:: DI2AA-DI2ZZ
+
+=== Arabia Saudita (Reino de)
+
+Estaciones de aficionado y estaciones experimentales:: 7Z seguido de una cifra y de 2 letras
+
+=== Argelia (República Argelina Democrática y Popular)
+
+Estaciones de aficionado:: 7X0, 7X2, 7X3, 7X4 y 7X5 seguidos de 2 ó 3 letras
+
+Estaciones experimentales:: 7X6 y 7X7 seguidos de 2 ó 3 letras
+
+=== Argentina (República)
+
+Estaciones de aficionado:: AY, AZ, LU, LW seguidos de una cifra (0-9) y de 2 ó 3 letras, la primera distintiva de la provincia en que está situada la estación
+
+Letras distintivas de las provincias:: A-B y C - Capital Federal 
++
+D-E - Provincia de Buenos Aires 
++
+F - Provincia de Santa Fé 
++
+GA–GOZ - Provincia del Chaco 
++
+GP–GZZ - Provincia de Formosa 
++
+H - Provincia de Córdoba 
++
+I - Provincia de Misiones 
++
+J - Provincia de Entre Ríos 
++
+K - Provincia de Tucumán 
++
+L - Provincia de Corrientes 
++
+M - Provincia de Mendoza 
++
+N - Provincia de Santiago del Estero 
++
+O - Provincia de Salta 
++
+P - Provincia de San Juan 
++
+Q - Provincia de San Luis 
++
+R - Provincia de Catamarca 
++
+S - Provincia de La Rioja 
++
+T - Provincia de Jujuy 
++
+U - Provincia de La Pampa 
++
+V - Provincia de Rio Negro 
++
+W - Provincia del Chubut 
++
+XA–XOZ - Provincia de Santa Cruz 
++
+XP–XZZ - Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur 
++
+Y - Neuquén 
++
+Z - Antártida
+
+NOTE: Los principiantes deben utilizar el prefijo AZ.
+
+
+=== Aruba
+
+Estaciones de aficionado:: P43 o P49 seguido de un grupo de 3 letras como máximo
+
+[NOTE]
+====
+. Los radioaficionados extranjeros utilizarán el distintivo de llamada que les haya sido asignado por su administración seguido de una barra de fracción (/) y de P4 por una duración de un año.
+
+. El prefijo P40 o P41 seguido de un grupo de 3 letras como máximo se asigna para acontecimientos especiales por una duración de un mes al máximo.
+====
+
+=== Australia
+
+Estaciones de aficionado:: VK, AX {blank}footnote:australia[Para acontecimientos especiales nacionales o estatales/locales.] o VI {blank}footnote:australia[] 
+seguido de una cifra (que indica el estado o territorio en el cual está situada la estación) y de 2, 3 ó 4 letras.
++
+En los distintivos de llamada con sufijos de 3 ó 4 letras, la primera letra indica la categoría de la licencia.
++
+Las estaciones de aficionados «avanzadas» se indican mediante distintivos de llamada con sufijos de 2 letras y sufijos de 3 letras, en los cuales la primera letra es A, B, C, D, E, F, G, I, J, K, S, T, U, W, X, Y o Z.
++
+Las estaciones de aficionados «normales» se indican mediante distintivos de llamada con sufijos de 3 letras, en los cuales la primera letra es H, L, M, N, P o V.
++
+Las estaciones de aficionados «fundacionales» se indican mediante distintivos de llamada con sufijos de 4 letras, en los cuales la primera letra es F.
+
+Estaciones experimentales:: AX seguido de una cifra (2-9) y de 3 letras, la primera que indica el estado o territorio en el cual está situada la estación.
+
+[%unnumbered]
+|===
+.2+^.^| Estación 10+^.^| Estado o territorio
+^.^| Territorio de la Capital australiana ^.^| Nueva Gales del Sur ^.^| Victoria ^.^| Queensland ^.^| Australia Meridional ^.^| Australia Occidental ^.^| Tasmania ^.^| Territorio Septentrional ^.^| Territorios exteriores australianos ^.^| Antártida
+| Aficionado ^.^| 1 ^.^| 2 ^.^| 3 ^.^| 4 ^.^| 5 ^.^| 6 ^.^| 7 ^.^| 8 ^.^| 9 ^.^| –
+| Experimental ^.^| A ^.^| N ^.^| V ^.^| Q ^.^| S ^.^| W ^.^| T ^.^| D ^.^| – ^.^| –
+
+|===
+
+=== Austria
+
+Estaciones de aficionado:: OE seguido de una cifra (0-9, distintiva de la provincia o de la zona en que está situada la estación) y de 2 ó 3 letras
+
+Estaciones experimentales:: OE seguido de una cifra (2-9, distintiva de la provincia en que está situada la estación) y de 2 letras (QA-QZ)
+
+Cifras distintivas de las provincias o zonas:: 1 – Viena (sólo estaciones de aficionado) 
++
+2 – Salzburgo 
++
+3 – Viena (sólo estaciones experimentales) y Baja Austria 
++
+4 – Burgenland 
++
+5 – Alta Austria 
++
+6 – Estiria 
++
+7 – Tirol 
++
+8 – Carintia 
++
+9 – Vorarlberg 
++
+0 – extraterritorial 
++
+» – a bordo de barcos o a bordo de aeronaves
+
+
+=== Bahamas (Commonwealth de las)
+
+Estaciones de aficionado y estaciones experimentales:: C62AA-C69ZZ
+
+=== Bahrein (Reino de)
+
+Estaciones de aficionado:: A9 seguido por una cifra (0 to 9) seguido por 2, 3 or 4 caracteres, el último de los cuales será una letra.
+
+[%unnumbered]
+|===
+^.^h| Prefijo ^.^h| Cifra ^.^h| Sufijo
+^.^| A9 ^.^| 0-9 ^.^| Hasta 4 caracteres, el último de los cuales será una letra
+
+|===
+
+=== Barbados
+
+Estaciones de aficionado:: 8P6AA-8P6ZZ {blank}footnote:[Para los radioaficionados nacionales.] 
++
+8P9AA-8P9ZZ {blank}footnote:[Para los radioaficionados extranjeros, los visitantes y los radioaficionados que posean una licencia temporal.]
+
+
+=== Belarús (República de)
+
+Estaciones de aficionado:: EU, EV, o EW, seguidos de una cifra (1-4, 6-8 indicando la ciudad o la región (Oblast) dónde está situada la estación) y de 1, 2, ó 3 letras.
+
+Cifras distintivas de la ciudad o región:: 1) Ciudad de Minsk
++
+2) Región de Minsk
++
+3) Región de Brest
++
+4) Región de Grodno
++
+5) Región de Vitebsk
++
+6) Región de Mogilev
++
+7) Región de Gomel
+
+Distintivo de llamada compuesto de:: 4 caracteres – clase A (operador con licencia CEPT, con un certificado HAREC)
++
+5 caracteres – clase A y clase B (operador con licencia CEPT, con un certificado HAREC)
++
+6 caracteres – clase C (operador con licencia de principiante, con un certificado ARNEC)
++
+5 caracteres – el cuarto símbolo es W, X, Z para las estaciones de club.
+
+Estaciones experimentales:: EU1A00R – EU8Z99R (excepto EU5A00R – EU5Z99R) – Repetidores
++
+EU1A00B – EU8Z99B (excepto EU5A00B – EU5Z99B) – Radiobalizas
++
+EU10S – EU89S – Satélites
++
+EV0AA – EV9ZZ – para estaciones que operan en concursos de radio
++
+EV10ISS – EV89ISS – para expediciones a instalaciones espaciales
++
+EV0ANA – EV0ANZ – para estaciones que operan en la Antártida
++
+EV0A – EV9999Z – para estaciones que operan en días de acontecimientos especiales nacionales e internacionales
+
+EU5, EV5, EW5, seguidos de una letra – sólo para participantes en concursos internacionales de comunicación por radio SW y USW (hasta un año).
+
+NOTE: Los radioaficionados extranjeros que posean licencia deben usar EW seguido de una barra de fracción (/) y de su propio distintivo de llamada.
+
+=== Bélgica
+
+[%unnumbered]
+|===
+2+^.^| Estaciones de aficionado
+| ON0AA-ON0ZZ +
+ON0AAA-ON0ZZZ | Estaciones automáticas
+| ON1AA-ON1ZZ +
+ON1AAA-ON1ZZZ | Estaciones de clase 2
+| ON2AA-ON2ZZ +
+ON2AAA-ON2ZZZ | Actualmente no utilizado
+| ON3AA-ON3ZZ +
+ON3AAA-ON3ZZZ | Estaciones de clase 3
+| ON4AA-ON4ZZ +
+ON4AAA-ON4ZZZ +
+ON5AA-ON5ZZ +
+ON5AAA-ON5ZZZ +
+ON6AA-ON6ZZ +
+ON6AAA-ON6ZZZ +
+ON7AA-ON7ZZ +
+ON7AAA-ON7ZZZ +
+ON8AA-ON8ZZ +
+ON8AAA-ON8ZZZ | Estaciones de clase 1
+| ON9AAA-ON9AZZ | Estaciones de clase 3 para los extranjeros
+| ON9BAA-ON9BZZ | Estaciones de clase 2 para los extranjeros
+| ON9CAA-ON9CZZ | Estaciones de clase 1 para los extranjeros
+| OP0LE y OP0OL | Estaciones de club en la Antártida
+| OR3AA-OR3ZZ +
+OR3AAA-OR3ZZZ | Estaciones temporarias de clase 3 en la Antártida
+| OR4AA-OR4ZZ +
+OR4AAA-OR4ZZZ | Estaciones temporarias de clase 1 en la Antártida
+| OR4ISS | Estación a bordo de la ISS
+| OO0A-OO9Z +
+OP0A-OP9Z +
+OQ0A-OQ9Z +
+OR0A-OR4Z +
+OR6A-OR9Z +
+OS0A-OS9Z +
+OT0A-OT4Z +
+OT6A-OT9Z | Distintivos suplementarios para las estaciones de clase 1
+| OR5A-OR5Z +
+OT5A-OT5Z | Estaciones para concursos de alta potencia
+
+|===
+
+=== Belice
+
+Estaciones de aficionado:: V31AA-V31ZZ – Licencia de clase 1 
++
+V32AA-V32ZZ – Licencia de clase 2
+
+=== Benin (República de)
+
+Estaciones de aficionado:: TY seguido de una cifra (1-9) y de 2 letras
+
+=== Bhután (Reino de)
+
+Estaciones de aficionado:: A50AA-A50ZZ {blank}footnote:[Para los clubs y las estaciones de aficionado.] 
++
+A51AA-A51ZZ {blank}footnote:[Para los radioaficionados nacionales.] 
++
+A52AA-A52ZZ {blank}footnote:[Para los radioaficionados visitantes.]
+
+=== Bolivia (Estado Plurinacional de)
+
+Estaciones de aficionado:: CP1AA-CP9ZZ
+
+Cifras distintivas de los departamentos:: 1 – La Paz 
++
+2 – Chuquisaca 
++
+3 – Oruro 
++
+4 – Potosí 
++
+5 – Cochabamba 
++
+6 – Santa Cruz 
++
+7 – Tarija 
++
+8 – Beni 
++
+9 – Pando
+
+En el caso de las estaciones que se especifican a continuación, se adiciona al final del distintivo la siguiente combinación de letras:
+
+M:: para estaciones móviles terrestres, 
+
+MA:: para estaciones móviles aeronáuticas, 
+
+MF:: para estaciones móviles fluviales, 
+
+MM:: para estaciones móviles marítimas, 
+
+S:: para estaciones cuyo titular posea licencia de radioaficionado de segunda categoría, 
+
+C:: para estaciones cuyo titular posea licencia de radioaficionado con carácter provisional.
+
+=== Bonaire, San Eustatius y Saba 
+
+Estaciones de aficionado:: PJ4AA-PJ4ZZZ – Bonaire 
++
+PJ5AA-PJ5ZZZ – S. Eustatius 
++
+PJ6AA-PJ6ZZZ – Saba
+
+=== Botswana (República de)
+
+Estaciones de aficionado:: A22AA-A22ZZ
+
+=== Brasil (República Federativa del)
+
+[%unnumbered]
+|===
+6+^.^| Estaciones de aficionado
+^.^| Estado 4+^.^| Clases A y B ^.^| Clase C
+^.^| 1 4+^.^| 2 ^.^| 3
+.2+| Acre | PT8AA-PT8ZZ 2+| PT8AAA-PT8ZZZ 2+| PU8JAA-PU8LZZ
+2+| {blank}footnote:brasil[Distintivos de llamada especiales para un concurso nacional o internacional o para una expedición.] ZZ8HA-ZZ8MZ 3+| ZZ8HAA-ZZ8MZZ
+.2+| Alagoas | PP7AA-PP7ZZ 2+| PP7AAA-PP7ZZZ 2+| PU7AAA-PU7DZZ
+2+| {blank}footnote:brasil[]ZZ7AA-ZZ7ZZ 3+| ZZ7AAA-ZZ7ZZZ
+.2+| Amapá | PQ8AA-PQ8ZZ 2+| PQ8AAA-PQ8YZZ 2+| PU8GAA-PU8IZZ
+2+| {blank}footnote:brasil[]ZV8AA-ZV8ZZ 3+| ZV8AAA-ZV8YZZ
+.2+| Amazonas | PP8AA-PP8ZZ 2+| PP8AAA-PP8YZZ 2+| PU8AAA-PU8CZZ
+2+| {blank}footnote:brasil[]ZZ8AA-ZZ8GZ 3+| ZZ8AAA-ZZ8GZZ
+.2+| Bahia | PY6AA-PY6ZZ 2+| PY6AAA-PY6YZZ 2+| PU6JAA-PU6YZZ
+2+| {blank}footnote:brasil[]ZY6AA-ZY6ZZ 3+| ZY6AAA-ZY6YZZ
+.2+| Ceará | PT7AA-PT7ZZ 2+| PT7AAA-PT7YZZ 2+| PU7MAA-PU7PZZ
+2+| {blank}footnote:brasil[]ZV7AA-ZV7ZZ 3+| ZV7AAA-ZV7YZZ
+.2+| Distrito Federal | PT2AA-PT2ZZ 2+| PT2AAA-PT2YZZ 2+| PU2AAA-PU2EZZ
+2+| {blank}footnote:brasil[]ZV2AA-ZV2ZZ 3+| ZV2AAA-ZV2YZZ
+.2+| Espírito Santo | PPlAA-PPlZZ 2+| PP1AAA-PP1YZZ 2+| PU1AAA-PU1IZZ
+2+| {blank}footnote:brasil[]ZZ1AA-ZZlZZ 3+| ZZlAAA-ZZlYZZ
+.2+| Goiás | PP2AA-PP2ZZ 2+| PP2AAA-PP2YZZ 2+| PU2FAA-PU2HZZ
+2+| {blank}footnote:brasil[]ZZ2AA-ZZ2ZZ 3+| ZZ2AAA-ZZ2YZZ
+.2+| Maranhão | PR8AA-PR8ZZ 2+| PR8AAA-PR8YZZ 2+| PU8MAA-PU8OZZ
+2+| {blank}footnote:brasil[]ZX8AA-ZX8ZZ 3+| ZX8AAA-ZX8YZZ
+.2+| Mato Grosso | PY9AA-PY9ZZ 2+| PY9AAA-PY9YZZ 2+| PU9OAA-PU9YZZ
+2+| {blank}footnote:brasil[]ZY9AA-ZY9ZZ 3+| ZY9AAA-ZY9YZZ
+.2+| Mato Grosso do Sul | PT9AA-PT9ZZ 2+| PT9AAA-PT9YZZ 2+| PU9AAA-PU9NZZ
+2+| {blank}footnote:brasil[]ZV9AA-ZV9ZZ 3+| ZV9AAA-ZV9YZZ
+.2+| Minas Gerais | PY4AA-PY4ZZ 2+| PY4AAA-PY4YZZ 2+| PU4AAA-PU4YZZ
+2+| {blank}footnote:brasil[]ZY4AA-ZY4ZZ 3+| ZY4AAA-ZY4YZZ
+.2+| Pará | PY8AA-PY8ZZ 2+| PY8AAA-PY8YZZ 2+| PU8WAA-PU8YZZ
+2+| {blank}footnote:brasil[]ZY8AA-ZY8ZZ 3+| ZY8AAA-ZY8YZZ
+.2+| Paraíba | PR7AA-PR7ZZ 2+| PR7AAA-PR7YZZ 2+| PU7EAA-PU7HZZ
+2+| {blank}footnote:brasil[]ZX7AA-ZX7ZZ 3+| ZX7AAA-ZX7YZZ
+.2+| Paraná | PY5AA-PY5ZZ 2+| PY5AAA-PY5YZZ 2+| PU5MAA-PU5YZZ
+2+| {blank}footnote:brasil[]ZY5AA-ZY5ZZ 3+| ZY5AAA-ZY5YZZ
+.2+| Pernambuco | PY7AA-PY7ZZ 2+| PY7AAA-PY7YZZ 2+| PU7RAA-PU7YZZ
+2+| {blank}footnote:brasil[]ZY7AA-ZY7ZZ 3+| ZY7AAA-ZY7YZZ
+.2+| Piauí | PS8AA-PS8ZZ 2+| PS8AAA-PS8YZZ 2+| PU8PAA-PU8SZZ
+2+| {blank}footnote:brasil[]ZW8AA-ZW8ZZ 3+| ZW8AAA-ZW8YZZ
+.2+| Rio de Janeiro | PYlAA-PYlZZ 2+| PYlAAA-PYlYZZ 2+| PUlJAA-PUlYZZ
+2+| {blank}footnote:brasil[]ZYlAA-ZYlZZ 3+| ZYlAAA-ZYlYZZ
+.2+| Rio Grande do Norte | PS7AA-PS7ZZ 2+| PS7AAA-PS7YZZ 2+| PU7IAA-PU7LZZ
+2+| {blank}footnote:brasil[] ZW7AA-ZW7ZZ 3+| ZW7AAA-ZW7YZZ
+.2+| Rio Grande do Sul | PY3AA-PY3ZZ 2+| PY3AAA-PY3YZZ 2+| PU3AAA-PU3YZZ
+2+| {blank}footnote:brasil[] ZY3AA-ZY3ZZ 3+| ZY3AAA-ZY3YZZ
+.2+| Rondônia | PW8AA-PW8ZZ 2+| PW8AAA-PW8YZZ 2+| PU8DAA-PU8FZZ
+2+| {blank}footnote:brasil[] ZZ8NA-ZZ8SZ 3+| ZZ8NAA-ZZ8SZZ
+.2+| Roraima | PV8AA-PV8ZZ 2+| PV8AAA-PV8YZZ 2+| PU8TAA-PU8VZZ
+2+| {blank}footnote:brasil[] ZZ8TA-ZZ8ZZ 3+| ZZ8AAA-ZZ8YZZ
+.2+| Santa Catarina | PP5AA-PP5ZZ 2+| PP5AAA-PP5YZZ 2+| PU5AAA-PU5LZZ
+2+| {blank}footnote:brasil[] ZZ5AA-ZZ5ZZ 3+| ZZ5AAA-ZZ5YZZ
+.2+| São Paulo | PY2AA-PY2ZZ 2+| PY2AAA-PY2YZZ 2+| PU2KAA-PU2YZZ
+2+| {blank}footnote:brasil[] ZY2AA-ZY2ZZ 3+| ZY2AAA-ZY2YZZ
+.2+| Sergipe | PP6AA-PP6ZZ 2+| PP6AAA-PP6YZZ 2+| PU6AAA-PU6IZZ
+2+| {blank}footnote:brasil[] ZZ6AA-ZZ6ZZ 3+| ZZ6AAA-ZZ6YZZ
+.2+| Tocantins | PQ2AA-PQ2ZZ 2+| PQ2AAA-PQ2YZZ 2+| PU2IAA-PU2JZZ
+2+| {blank}footnote:brasil[] ZX2AA-ZX2ZZ 3+| ZX2AAA-ZX2YZZ
+.2+| Islas Marítimas | PY0AA-PY0ZZ 2+| PY0AAA-PY0ZZZ 2+| PU0AAA-PU0ZZZ
+2+| {blank}footnote:brasil[] ZY0AA-ZY0ZZ 3+| ZY0AAA-ZY0ZZZ
+
+|===
+
+
+=== Brunei Darussalam
+
+Estaciones de aficionado:: V85 seguido de 2 ó 3 letras para las comunicaciones HF y VHF 
++
+V85 seguido de 1 letra para las comunicaciones VHF solamente
+
+=== Bulgaria (República de)
+
+Estaciones de aficionado:: LZ1-LZ9 seguidos de un grupo de 3 letras como máximo
+
+=== Burkina Faso
+
+Estaciones de aficionado y estaciones experimentales:: XT2 o XT3 seguido de 2 letras
+
+
+=== Burundi (República de)
+
+Estaciones de aficionado:: 9U5 seguido de 2 letras
+
+=== Cabo Verde (República de)
+
+Estaciones de aficionado:: D44AA-D44ZZ
+
+=== Camerún (República de)
+
+Estaciones de aficionado:: TJ1 seguido de 2 letras
+
+=== Canadá
+
+Estaciones de aficionado:: VE1, VA1 seguidos de 1, 2 ó 3 letras – Provincias de Nueva Escocia y Nuevo Brunswick
++
+VE2, VA2 seguidos de 1, 2 ó 3 letras – Provincia de Quebec
++
+VE3, VA3 seguidos de 1, 2 ó 3 letras – Provincia de Ontario
++
+VE4, VA4 seguidos de 1, 2 ó 3 letras – Provincia de Manitoba
++
+VE5, VA5 seguidos de 1, 2 ó 3 letras – Provincia de Saskatchewan
++
+VE6, VA6 seguidos de 1, 2 ó 3 letras – Provincia de Alberta
++
+VE7, VA7 seguidos de 1, 2 ó 3 letras – Provincia de Colombia británica
++
+VE8 seguido de 1, 2 ó 3 letras – Territorios del Noroeste (Nunavut excluido)
++
+VE9 seguido de 1, 2 ó 3 letras – Provincia de Nuevo Brunswick
++
+VE0 {blank}footnote:[VE0 es utilizado cuando la estación de radioaficionado es explotada desde un barco que viaja internacionalmente.] 
+seguido de 1, 2 ó 3 letras – Estación de aficionado a bordo de un barco
++
+VO1 seguido de 1, 2 ó 3 letras – Provincia de Terranova (Labrador excluido)
++
+VO2 seguido de 1, 2 ó 3 letras – Labrador
++
+VY0 seguido de 1, 2 ó 3 letras – Territorio del Nunavut
++
+VY1 seguido de 1, 2 ó 3 letras – Territorio del Yukon
++
+VY2 seguido de 1, 2 ó 3 letras – Provincia de la Isla del Príncipe Eduardo
+
+
+Estaciones experimentales:: VX9 seguido de 2 ó 3 letras – Canadá (conjunto de las provincias y territorios)
+
+=== Centroafricana (República)
+
+Estaciones de aficionado y estaciones experimentales:: TL8 seguido de 2 ó 3 letras
+
+=== Ciudad del Vaticano (Estado de la)
+
+Estaciones de aficionado:: HV seguido de una cifra y de 2 letras
+
+=== Colombia (República de)
+
+Estaciones de aficionado:: HJ o HK seguido de una cifra (0-9, que indicará la zona a la que pertenece el radioaficionado) y de 1, 2 ó 3 letras
+
+Cifras distintivas de las zonas:: 0 – Territorio Insular Colombiano y servicio móvil marítimo 
++
+1 – Departamentos de Atlántico, Bolívar, Córdoba y Sucre 
++
+2 – Departamentos de Guajira, Magdalena, Cesar y Norte de Santander 
++
+3 – Departamentos de Cundinamarca, Meta y Vichada 
++
+4 – Departamentos de Antioquia y Chocó 
++
+5 – Departamentos de Cauca y Valle del Cauca 
++
+6 – Departamentos de Caldas, Tolima, Risaralda, Quindío y Huila 
++
+7 – Departamentos de Santander, Boyacá, Arauca y Casanare 
++
+8 – Departamentos de Nariño, Caquetá y Putumayo 
++
+9 – Departamentos de Amazonas, Vaupés, Guainía y Guaviare
+
+NOTE: 5J o 5K seguido de una cifra (0-9) y de 1, 2 ó 3 letras se autoriza con carácter temporal a las estaciones de aficionado explotadas durante concursos o acontecimientos especiales.
+
+
+=== Comoras (Unión de las)
+
+Estaciones de aficionado:: D68 seguido de 2 letras {blank}footnote:[Las 2 letras representan la identidad del operador.]
+
+
+=== Congo (República del)
+
+Estaciones de aficionado y estaciones experimentales:: TN8AA-TN8ZZ
+
+=== Cook (Islas)
+
+Estaciones de aficionado:: ZK1 seguido de 2 letras
+
+=== Corea (República de)
+
+Estaciones de aficionado:: 1) HL1AA-HL9ZZ 
++
+HL1AAA-HL9ZZZ
++
+2) HL0 seguido de 2 ó 3 letras (grupo de aficionados)
+
+Estaciones experimentales:: 6M2AA-6M2ZZ + 
+6N2AA-6N2ZZ
+
+NOTE: DS, DT, D7, D8, D9, 6K, 6L, 6M, 6N seguidos de una cifra y de 2 ó 3 letras se asignan con carácter temporal para acontecimientos especiales.
+
+=== Costa Rica
+
+Estaciones de aficionado:: TE o TI seguido de una cifra y de un grupo de 3 letras como máximo
+
+=== Côte d'Ivoire (República de)
+
+Estaciones de aficionado:: TU2AA-TU2ZZ
+
+Estaciones experimentales:: TU3AA-TU3ZZ
+
+=== Croacia (República de)
+
+Estaciones de aficionado:: 9A seguido de una cifra y de 1, 2 ó 3 letras
+
+=== Cuba
+
+Estaciones de aficionado:: T4, CL, CM o CO seguido de una cifra (distintiva de la provincia o zona en que está situada la estación) y de 1, 2 ó 3 letras
+
+Cifras distintivas de las provincias o zonas:: 1 – Provincia de Pinar del Río 
++
+2 – Provincia de la ciudad de La Habana 
++
+3 – Provincia de La Habana 
++
+4 – Municipio de Isla de la Juventud 
++
+5 – Provincia de Matanzas 
++
+6 – Provincias de Villa Clara, Cienfuegos y Sancti Spíritus 
++
+7 – Provincias de Ciego de Ávila y Camagüey 
++
+8 – Provincias de Santiago de Cuba, Granma, Holguín, Las Tunas y Guantánamo
+
+=== Curaçao
+
+Estaciones de aficionado:: PJ2AA-PJ2ZZZ
+
+=== Chad (República del)
+
+Estaciones de aficionado y estaciones experimentales:: TT8 seguido de 2 letras, la primera de las cuales es la letra A
+
+=== Chile
+
+Estaciones de aficionado:: CE o XQ seguido de una cifra (distintiva de la zona en que está situada la estación) y de 2 ó 3 letras
++
+CE1-CE8 seguidos de 2 ó 3 letras - Chile continental 
++
+CE9 seguido de 2 ó 3 letras - Antártida 
++
+CE0Y seguido de 2 ó 3 letras - Isla de Pascua 
++
+CE0Z seguido de 2 letras - Islas Juan Fernández y San Félix
+
+=== Chipre (República de)
+
+Estaciones de aficionado:: 5B4AAA-5B4ZZZ
+
+NOTE: Los radioaficionados extranjeros utilizarán con carácter temporal el distintivo de llamada que les haya sido asignado por su administración seguido de una barra de fracción (/) y de 5B4.
+
+=== Dinamarca
+
+[%unnumbered]
+|===
+4+^.^| Estaciones de aficionado
+^.^| Zona ^.^| Prefijo ^.^| Cifra ^.^| Sufijo
+| Dinamarca ^.^| OU, OV, OZ, 5P, 5Q ^.^| 0-9 | Hasta 4 caracteres, el último de los cuales será una letra
+| Feroe (Islas) ^.^| OY ^.^| 1-9 | 1, 2 ó 3 letras
+| Groenlandia ^.^| OX ^.^| 1-9 | 2 ó 3 letras
+
+|===
+
+=== Djibouti (República de)
+
+Estaciones de aficionado:: J28AA-J28ZZ {blank}footnote:[Para estaciones cuyo titular posea licencia de radioaficionado con carácter permanente.]
++
+J20AA-J20ZZ {blank}footnote:[Para estaciones cuyo titular posea licencia de radioaficionado con carácter provisional.]
+
+NOTE: Para los acontecimientos especiales, los radioaficionados deberán utilizar J20 seguido de un grupo de 3 letras.
+
+=== Dominica (Commonwealth de)
+
+Estaciones de aficionado y estaciones experimentales:: J73AA-J73ZZ
+
+=== Dominicana (República)
+
+Estaciones de aficionado:: HI seguido de una cifra (distintiva de la zona en que está situada la estación) y de un grupo de 3 letras como máximo
+
+Cifras distintivas de las zonas:: 1 – Isla Beata 
++
+2 – Isla Saona 
++
+3 – Región Cibao Central 
++
+4 – Región Línea Noroeste 
++
+5 – Región Suroeste 
++
+6 – Región Sur Central 
++
+7 – Región Este 
++
+8 – Región Sur 
++
+9 – Región Noroeste
+
+
+=== Ecuador
+
+Estaciones de aficionado:: HC o HD seguido de una cifra (1-8, distintiva de la provincia en que está situada la estación) y de 1, 2 ó 3 letras
++
+Los principiantes deben utilizar la letra N después de la cifra distintiva de la provincia
+
+Cifras distintivas de las provincias:: 1 – Provincias de Carchi, Imbabura y Pichincha 
++
+2 – Provincias de Guayas (costa) y Los Ríos 
++
+3 – Provincias de El Oro (costa) y Loja 
++
+4 – Provincias de Manabí (costa) y Esmeraldas (costa) 
++
+5 – Provincias de Chimborazo, Cañar y Azuay 
++
+6 – Provincias de Cotopaxi, Tungurahua y Bolívar 
++
+7 – Provincias de Napo, Pastaza, Morona Santiago, Zamora y Sucumbios 
++
+8 – Provincia de Galápagos (islas)
+
+Estaciones experimentales:: HD9 seguido de 3 letras
+
+NOTE: Los radioaficionados que participan en concursos deberán utilizar con carácter temporal HD9 seguido de 1 letra.
+
+=== Egipto (República Árabe de)
+
+Estaciones de aficionado:: SU seguido de una cifra y de 2 letras
+
+=== El Salvador (República de)
+
+Estaciones de aficionado:: YS seguido de una cifra (1-9, distintiva de la zona en que está situada la estación) y de un grupo de 3 letras como máximo
+
+Cifras distintivas de las zonas:: 1 – Departamento de San Salvador 
++
+2 – Departamento de Santa Ana 
++
+3 – Departamento de San Miguel 
++
+4 – Departamento de La Libertad 
++
+5 – Departamentos de La Paz, Cuscatlán y Chalatenango 
++
+6 – Departamentos de Usulután, San Vicente y Cabañas 
++
+7 – Departamento de Sonsonate 
++
+8 – Departamento de Ahuachapán 
++
+9 – Departamentos de Morazán y La Unión
+
+Estaciones experimentales:: HU9 seguido de 2 letras
+
+NOTE: Los radioaficionados extranjeros deberán utilizar YS seguido de una cifra (1-9, distintiva de la zona de operación), de una barra de fracción (/) y de su propio distintivo.
+
+=== Emiratos Árabes Unidos
+
+Estaciones de aficionado:: A61 seguido de un grupo de 3 letras como máximo
+
+Estaciones experimentales:: A62 seguido de un grupo de 3 letras como máximo
+
+=== Eslovenia (República de)
+
+Estaciones de aficionado:: S5 seguido de una cifra y de 1, 2 ó 3 letras
+
+=== España
+
+Estaciones de aficionado:: Uno de los grupos EA, EB o EC seguido de una cifra (distintiva de la provincia en que está situada la estación fija o donde reside el titular si la estación es móvil) y de un grupo de 3 letras como máximo.
++
+La segunda letra de los grupos EA, EB y EC significa que las estaciones son de clase A, B o C respectivamente.
+
+Distintivos de llamada temporales:: Se utilizan los grupos ED, EE y EF en lugar de los EA, EB y EC donde la segunda letra D, E y F tiene el mismo significado que las letras A, B y C respecto a la clase de licencia.
+
+
+=== Estados Unidos de América
+
+[%unnumbered]
+|===
+2+^.^| Estaciones de aficionado
+| K0A-K9Z +
+N0A-N9Z +
+W0A-W9Z | Excepto la letra X después de la cifra
+| K0AA-K9ZZZ +
+N0AA-N9ZZZ +
+W0AA-W9ZZZ .2+| 
+| AA0A-AL9ZZ +
+KA0A-KZ9ZZ +
+NA0A-NZ9ZZ +
+WA0A-WZ9ZZ
+| KA0AAA-KZ9ZZZ +
+WA0AAA-WZ9ZZZ | Excepto la letra X después de la cifra
+2+^.^| Estaciones experimentales
+| AA2XAA-AE9XZZ +
+AL2XAA-AL9XZZ +
+KA2XAA-KZ9XZZ +
+WA2XAA-WZ9XZZ | 
+
+|===
+
+
+=== Estonia (República de)
+
+Estaciones de aficionado:: ES seguido de una cifra (0-9, distintiva del distrito en que está situada la estación) y de 1, 2 ó 3 letras
+
+Cifras distintivas de los distritos:: 0 – Distritos administrativos de Hiiumaa, Saaremaa y todas las islas pequeñas de Väinamere 
++
+1 – Tallinn 
++
+2 – Distrito administrativo de Harjumaa 
++
+3 – Distritos administrativos de Lääne, Rapla y Järvamaa 
++
+4 – Distritos administrativos de Lääne-Virumaa e Ida-Virumaa 
++
+5 – Distritos administrativos de Jõgeva y Tartumaa 
++
+6 – Distritos administrativos de Põlva, Valga y Võrumaa 
++
+7 – Distrito administrativo de Viljandimaa 
++
+8 – Distrito administrativo de Pärnumaa 
++
+9 – Extraterritorial (para uso oficial de la Unión Estoniana de Radio-aficionados)
+
+Cuando las estaciones de aficionado funcionan como estaciones portátiles o móviles, colocan detrás de su distintivo de llamada una barra de fracción (/) y las letras «MM», «AM», «M» o «P» según lo que sigue:
+
+* «MM» cuando la estación funciona a bordo de un barco estoniano que navega en aguas internacionales,
+
+* «AM» cuando la estación funciona a bordo de una aeronave estoniana,
+
+* «M» cuando la estación funciona a bordo de otro vehículo, incluidos los barcos que navegan en aguas nacionales,
+
+* «P» cuando la estación es portátil.
+
+Los aficionados extranjeros que se encuentran de visita en Estonia utilizan ES seguido de una cifra (0-8) que indica el distrito en que está situada la estación, de una barra de fracción (/) y de su propio distintivo.
+
+=== Etiopía (República Democrática Federal de)
+
+Estaciones de aficionado:: ET3AA-ET3ZZ 
++
+9E3AA-9F3ZZ
+
+=== Federación de Rusia
+
+[%unnumbered]
+|===
+2+^.^| Estaciones de aficionado y estaciones experimentales
+a| RA0AA – RZ9ZZ +
+UA0AA - UI9ZZ +
+R0AA – R9ZZ {blank}footnote:[A condición de que se utilice la estación durante une periodo de por lo menos 25 años civiles.] 
+
+RA0A – RZ9Z {blank}footnote:[A condición de que se haya participado durante los últimos cinco años a por lo menos diez concursos internacionales o a todos los concursos rusos.] 
+
+UA0A – UI9Z | Estaciones de primera categoría explotadas con un certificado HAREC
+| R0AAA – R9ZZZ +
+RA0AAA – RZ9ZZZ +
+UA0AAA – UA9ZZZ | Estaciones de segunda categoría explotadas con un certificado HAREC
+| UB0AAA – UD9ZZZ +
+UF0AAA – UG9ZZZ | Estaciones de tercera categoría explotadas con un certificado ARNEC (licencia de principiante)
+| UE0AAA – UE9ZZZ +
+UH0AAA – UI9ZZZ | Estaciones de cuarta categoría (nivel inicial)
+| RR0AA – RR9ZZ +
+RR0AAA – RR9ZZZ | Repetidores
+| RB0AA – RB9ZZ | Radiobalizas
+| RS0S – RS9S +
+RS10S – RS99S | Estaciones del servicio de aficionados por satélite
+| R0AAAA – R9ZZZZ +
+R00AAA – R99ZZZ +
+R000A – R999Z +
+R000AA – R999ZZ +
+R0000A – R9999Z +
+RA00A – RZ99Z +
+RA00AA – RZ99ZZ +
+RA00AAA – RZ99ZZZ +
+RA000A – RZ999Z +
+RA000AA – RZ999ZZ | Utilización temporaria para ocasiones especiales
+| R0A – R9Z +
+R00A – R99Z +
+R00AA – R99ZZ {blank}footnote:[Excepto los distintivos de llamada de la serie R00P – R99SP asignados exclusivamente a las estaciones de aficionado de expediciones polares explotadas en el hielo flotante del océano Antártico.] | Estaciones participando a vueltas internas de concursos
+
+|===
+
+
+=== Fiji (República de)
+
+Estaciones de aficionado:: 3D2 seguido de 2 letras
+
+Estaciones experimentales:: 3D3 seguido de 2 letras
+
+
+=== Filipinas (República de)
+
+Estaciones de aficionado:: DU {blank}footnote:[En lugar de DU, los radioaficionados de clase A pueden utilizar los prefijos 4D, 4E o 4F.] seguido de una cifra (1-9, distintiva del distrito en que está situada la estación) y de un grupo de 3 letras como máximo – Clase A, B o C
++
+DY seguido de una cifra (1-9, distintiva del distrito en que está situada la estación) y de un grupo de 3 letras como máximo – Clase D
++
+DX o DZ seguido de una cifra (1-9, distintiva del distrito en que está situada la estación) y de un grupo de 3 letras como máximo – Estaciones de club
+
+
+=== Finlandia
+
+Estaciones de aficionado y estaciones experimentales:: OF, OG, OH, OI u OJ seguido de una cifra y de un grupo de 4 caracteres como máximo, el último de los cuales será una letra
+
+=== Francia
+
+[%unnumbered]
+|===
+4+^.^| Estaciones de aficionado
+
+^.^| F {blank}footnote:[F seguida de una letra (A, B, C, D o E) distintiva del grupo al que pertenece el radioaficionado, seguida de una F, indica una estación de radio club.] | 0-9 {blank}footnote:[Una cifra de 0 a 9 (excepto el 7).] ^.^| AA-ZZZ {blank}footnote:eda3[2 ó 3 letras que caracterizan al radioaficionado.] ^.^| Francia (continental)
+
+| | | | _Córcega, Departamentos y Territorios de Ultramar (excepto Nueva Caledonia):_
+^.^| FG ^.^| 1-5 {blank}footnote:[Una cifra distintiva del grupo al que pertenece el radioaficionado (1: grupo A, 2: grupo B, 3: grupo C, 4: grupo D y 5: grupo E), la cifra 0 indica una estación de radio club.] ^.^| AA-ZZZ {blank}footnote:eda3[] | Guadalupe
+^.^| FH ^.^| » ^.^| » | Mayotte
+^.^| FJ ^.^| » ^.^| » | San Bartolomé
+^.^| FM ^.^| » ^.^| » | Martinica
+^.^| FO ^.^| » ^.^| » | Polinesia Francesa
+^.^| FP ^.^| » ^.^| » | San Pedro y Miquelón
+^.^| FR ^.^| » ^.^| » | Reunión
+^.^| FT ^.^| » ^.^| » | Tierras australes y antárticas
+^.^| FW ^.^| » ^.^| » | Wallis y Futuna
+^.^| FY ^.^| » ^.^| » | Guayana
+^.^| TK ^.^| » ^.^| » | Córcega
+^.^| FK ^.^| 8 ^.^| AA-ZZZ {blank}footnote:[2 ó 3 letras que caracterizan al radioaficionado, K como primera letra indica una estación de radio club.] | Nueva Caledonia
+
+|===
+
+
+=== Gabonesa (República)
+
+Estaciones de aficionado:: TR8AA-TR8ZZ
+
+=== Gambia (República de)
+
+Estaciones de aficionado:: C53AA-C53ZZ
+
+=== Georgia
+
+Estaciones de aficionado:: 4L seguido de una cifra y de 1, 2 ó 3 letras
+
+=== Ghana
+
+Estaciones de aficionado:: 9G1 seguido de 2 letras o más {blank}footnote:[Para los radioaficionados nacionales.]
+
+9G5 seguido de 2 letras o más {blank}footnote:[Para los radioaficionados extranjeros.]
+
+Estaciones experimentales:: 9G2 seguido de 2 letras
+
+
+=== Grecia
+
+Estaciones de aficionado y estaciones experimentales:: SV {blank}footnote:[Clase 1.] o SW {blank}footnote:[Clase 2.] seguido de una cifra (distintiva de la región en que está situada la estación) y de 2 ó 3 letras
+
+Cifras distintivas de las regiones:: 1 – Sterea Hellas 
++
+2 – Macedonia central y occidental 
++
+3 – Peloponeso 
++
+4 – Tesalia 
++
+5 – Prefectura del Dodecaneso 
++
+6 – Epiro 
++
+7 – Macedonia oriental y Tracia 
++
+8 – Todas las islas (excepto las prefecturas de Creta y la prefectura del Dodecaneso) 
++
+9 – Prefecturas de Creta y sus islas
+
+
+[NOTE]
+====
+. SV0 o SW0 seguido de 2 ó 3 letras se asigna a los radioaficionados griegos que posean una licencia extranjera y a los radioaficionados extranjeros con residencia permanente.
+
+. El prefijo J4, SX o SY se asigna como distintivo de llamada especial a las uniones griegas de radioaficionados, los equipos griegos de radioaficionados, los radioaficionados griegos y los radioaficionados extranjeros.
+
+. El prefijo SZ se asigna a la Unión Griega de Radioaficionados y a los laboratorios de las universidades griegas en el área de las radiocomunicaciones inalámbricas.
+====
+
+=== Guatemala (República de)
+
+Estaciones de aficionado:: TG seguido de una cifra (4-9, distintiva del departamento en que está situada la estación) y de 2 letras
+
+Cifras distintivas de los departamentos:: 4 – Sololá, Chimaltenango, Suchitepéquez, Escuintla y Santa Rosa 
++
+5 – Huehuetenango, Quiché y Totonicapán 
++
+6 – Zacapa, Chiquimula y Jutiapa 
++
+7 – Petén, Alta Verapaz e Izabal 
++
+8 – San Marcos, Quetzaltenango y Retalhuleu 
++
+9 – Guatemala, Jalapa, El Progreso, Baja Verapaz y Sacatepéquez
+
+Estaciones experimentales:: TD9A-TD9Z
+
+=== Guinea (República de)
+
+Estaciones de aficionado:: 3X0AA-3X9ZZ
+
+Estaciones experimentales:: 3X2AAA-3X9ZZZ
+
+
+=== Guinea-Bissau (República de)
+
+Estaciones de aficionado:: J52UAB-J52UAI
+
+=== Guyana
+
+Estaciones de aficionado y estaciones experimentales:: 8R1AAA-8R1ZZZ – Demerara 
++
+8R2AAA-8R2ZZZ – Berbice 
++
+8R3AAA-8R3ZZZ – Essequibo
+
+=== Haití (República de)
+
+Estaciones de aficionado:: HH seguido de una cifra (distintiva de la zona en que está situada la estación) y de 2 letras
+
+=== Honduras (República de)
+
+Estaciones de aficionado:: HR seguido de una cifra (1-9, distintiva de la zona en que está situada la estación) y de:
+
+* 1 letra para la clase superior con 20 años o más de excelente servicio, 
+
+* 2 letras para la clase superior hasta 20 años de servicio, 
+
+* 3 letras para la clase adelantada y general.
+
++
+
+HQ seguido de una cifra (1-9, distintiva de la zona en que está situada la estación) y de:
+
+* 1 letra para los acontecimientos especiales, nacionales e internacionales, en que participarán radioaficionados locales y extranjeros de administraciones con las que existe un acuerdo recíproco, 
+
+* 3 letras para la clase participante.
+
+=== Hungría
+
+Estaciones de aficionado:: HA o HG seguido de una cifra (0-9) y de un grupo de cuatro caracteres como máximo, el último de los cuales será una letra
+
+=== India (República de la)
+
+Estaciones de aficionado:: VU2 o VU3 seguido de 2 ó 3 letras – India continental 
++
+VU4 o VU7 seguido de 2 ó 3 letras – Islas nacionales
+
+Estaciones experimentales:: VU4 seguido de 2 letras
+
+=== Indonesia (República de)
+
+Estaciones de aficionado:: YB o YE seguido de una cifra (0-9) y de 1 {blank}footnote:indonesia[El sufijo de 1 letra no se emplea para distintivos de llamada personal sino únicamente para estaciones organizadoras de actividades con relación a eventos especiales.], 2 ó 3 letras – Licencia avanzada 
++
+YC o YF seguido de una cifra (0-9) y de 1 {blank}footnote:indonesia[], 2 ó 3 letras – Licencia general 
++
+YD, YG o YH seguido de una cifra (0-9) y de 1{blank}footnote:indonesia[], 2 ó 3 letras – Licencia de principiante
+
+
+=== Irán (República Islámica del)
+
+Estaciones de aficionado:: EP1AA-EP9ZZ
+
+
+=== Iraq (República del)
+
+Estaciones de aficionado:: YI1 seguido de 3 letras
+
+=== Irlanda
+
+Estaciones de aficionado:: EI seguido de una cifra (2-9) y de un grupo de 3 letras como máximo
+
+=== Islandia
+
+Estaciones de aficionado:: TF seguido de una cifra (distintiva de la zona en que está situada la estación) y de 1, 2 ó 3 letras
++
+Para los detentores de una licencia de principiante la última letra será N.
+
+Los distintivos de llamada seguidos de una barra de fracción (/) y de las letras «M» o «P» se utilizan en los casos siguientes:
+
+* la letra «M» para indicar una estación móvil, 
+
+* la letra «P» para indicar una estación portátil.
+
+=== Israel (Estado de)
+
+Estaciones de aficionado:: 4X1 seguido de 2 ó 3 letras 
++
+4X4 seguido de 2 ó 3 letras 
++
+4X6 seguido de 2 ó 3 letras 
++
+4X8 seguido de 2 ó 3 letras 
++
+4Z1 seguido de 2 ó 3 letras 
++
+4Z4 seguido de 2 ó 3 letras 
++
+4Z5 seguido de 2 ó 3 letras 
++
+4Z7 seguido de 2 ó 3 letras 
++
+4Z9 seguido de 2 ó 3 letras
+
+=== Italia
+
+Estaciones de aficionado:: I0 o IK0 seguido de 2 ó 3 letras – Lazio y Umbria
++
+I1 o IK1 seguido de 2 ó 3 letras – Liguria, Piemonte y provincia de Novara
++
+I2 o IK2 seguido de 2 ó 3 letras – Lombardia y provincia de Mantova
++
+I3 o IK3 seguido de 2 ó 3 letras – Veneto y provincia de Rovigo
++
+I4 o IK4 seguido de 2 ó 3 letras – Emilia-Romagna y provincia de Piacenza
++
+I5 o IK5 seguido de 2 ó 3 letras – Toscana
++
+I6 o IK6 seguido de 2 ó 3 letras – Marche y Abruzzi
++
+I7 o IK7 seguido de 2 ó 3 letras – Puglie y provincia de Matera
++
+I8 o IK8 seguido de 2 ó 3 letras – Campania, Molise, Calabria y provincia de Potenza
++
+IA5 seguido de 2 ó 3 letras – Islas «Toscane» (Capraia, Cerboli, Elba, Formica di Burano, Formiche di Grosseto, Giannutri, Giglio, Gorgona, Montecristo, Pianosa, Scoglio d'Affrica)
++
+IB0 seguido de 2 ó 3 letras – Islas «Ponziane» (Palmarola, Ponza, Scoglio della Botte, Santo Stefano, Ventotene, Zanone)
++
+IC8 seguido de 2 ó 3 letras – Islas «Napoletane» (Capri, Ischia, Li Galli, Procida, Vivara)
++
+ID9 seguido de 2 ó 3 letras – Islas «Eolie» (Alicudi, Basiluzzo, Dino, Filicudi, Formiche, Lipari, Lisca Bianca, Panarea, Salina, San Pietro a Canna, Stromboli, Strombolicchio, Vulcano)
++
+IE9 seguido de 2 ó 3 letras – Isla de Ustica
++
+IF9 seguido de 2 ó 3 letras – Islas «Egadi» (Asinelli, Favignana, La Formica, Levanzo, Maraone, Marettimo, Stagnone)
++
+IG9 seguido de 2 ó 3 letras – Islas «Pelagie» (Lampedusa, Lampione, Linosa)
++
+IH9 seguido de 2 ó 3 letras – Isla de Pantelleria
++
+IJ7 seguido de 2 ó 3 letras – Archipiélago de los «Cheradi»
++
+IL7 seguido de 2 ó 3 letras – Islas «Tremiti» (Caprara, Pianosa, San Domino, San Nicola)
++
+IM0 seguido de 2 ó 3 letras – Islas «Sardegna» (Asinara, Bisce, Budelli, Carbonara, Caprera, Cavoli, Corcelli, Cretaccio, Foradada, Il Catalano, Il Toro, Il Vitello, La Maddalena, La Vacca, Mal di Ventre, Molara, Mortorio, Nibani, Ogliastra, Pan di Zucchero, Piana, Quirra, Razzoli, Rossa, Ruglia, S. Antioco, S. Pietro, S. Macario, S. Maria, Serpentara, Soffi, Spargi, Su Giudeu, Tavolara)
++
+IN3 seguido de 2 ó 3 letras – Trentino-Alto Adige
++
+IP1 seguido de 2 ó 3 letras – Islas «Liguria»
++
+IS0 seguido de 2 ó 3 letras – Sardegna
++
+IT9 seguido de 2 ó 3 letras – Sicilia
++
+IV3 seguido de 2 ó 3 letras – Friuli y Venezia Giulia
++
+IW0 seguido de 2 ó 3 letras – Licencias especiales
++
+IX1 seguido de 2 ó 3 letras – Valle de Aosta
+
+=== Jamaica
+
+Estaciones de aficionado y estaciones experimentales:: 6Y5AA-6Y5ZZ
+
+NOTE: Los radioaficionados extranjeros utilizarán el distintivo de llamada que les haya sido asignado por su administración seguido de una barra de fracción (/) y de 6Y5.
+
+=== Japón
+
+Estaciones de aficionado:: JA _n_ AA-JA _n_ ZZ (_n_ = 0-9)
++
+JR6AA-JR6NZ
++
+JR _n_ VA-JR _n_ WZ (_n_ = 0-9)
++
+JR6YA-JR6YZ
++
+J _xn_ AAA-J _xn_ QQZ (_x_ = A, E-S)(_n_ = 0-9)
++
+J _xn_ QUA-J _xn_ ZZZ (_x_ = A, E-S) (_n_ = 0-9)
++
+JD1AAA-JD1QQZ
++
+JD1QUA-JD1ZZZ
++
+7J _n_ AAA-7J _n_ BZZ (_n_ = 0, 4, 5, 7-9)
++
+7J _n_ AAA-7J _n_ CZZ (_n_ = 2, 3, 6)
++
+7J1AAA-7J1DZZ
++
+7J _n_ YAA-7J _n_ YMZ (_n_ = 0-5, 7-9)
++
+7J6YAA-7J6YQZ
++
+7 _xn_ AAA-7 _xn_ QQZ (_x_ = K-N) (_n_ = 1-4)
++
+7 _xn_ QUA-7 _xn_ ZZZ (_x =_ K-N) (_n_ = 1-4)
++
+8 _xn_ AAA-8 _xn_ QZZ (_x_ = J, N) (_n_ = 0-9)
++
+8 _xn_ QUA-8 _xn_ ZZZ (_x_ = J, N) (_n_ = 0-9)
+
+Estaciones experimentales:: J _xn_ A-J _xn_ Z (_x_ = B, G, J, O, S) (_n_ = 2-9) 
++
+J _xn_ AA-J _xn_ ZZ (_x_ = B, G, J, O, S) (_n_ = 2-9)
+
+=== Jordania (Reino Hachemita de)
+
+Estaciones de aficionado:: JY1AA-JY9ZZ
+
+=== Kenya (República de)
+
+Estaciones de aficionado:: 5Z4AA-5Z4ZZ
+
+Estaciones experimentales:: 5Z5AA-5Z5ZZ
+
+
+=== Kiribati (República de)
+
+Estaciones de aficionado:: T3 seguido de una cifra (0-9) y de un grupo de 3 letras como máximo
+
+Estaciones experimentales:: T3 seguido de una cifra (que no sea 0 ni 1) y de un grupo de 3 letras como máximo
+
+=== Kuwait (Estado de)
+
+Estaciones de aficionado:: 9K2 seguido de 1 ó 2 letras 
++
+9K9 seguido de 1 letra
+
+=== Lao (República Democrática Popular)
+
+Estaciones de aficionado:: XW8AA-XW8DZ
+
+Estaciones experimentales:: XW8EA-XW8EZ
+
+=== Lesotho (Reino de)
+
+Estaciones de aficionado y estaciones experimentales:: 7P8 seguido de un grupo de 3 letras como máximo
+
+=== Letonia (República de)
+
+Estaciones de aficionado y estaciones experimentales:: YL seguido de una cifra y de 1, 2 ó 3 letras
+
+=== Líbano
+
+Estaciones de aficionado:: OD5 seguido de 2 letras
+
+Estaciones experimentales:: OD9 seguido de 2 letras
+
+=== Libia
+
+Estaciones de aficionado:: 5A seguido de una cifra (0-9) y de un grupo de 3 letras como máximo
+
+Estaciones experimentales:: 5A seguido de una cifra (que no sea 0 ni 1) y de un grupo de 3 letras como máximo
+
+=== Liechtenstein (Principado de)
+
+Estaciones de aficionado:: HB0AAA-HB0XXX 
++
+HB0YAA-HB0YZZ - Licencia de principiante 
++
+HB0ZAA-HB0ZZZ
+
+=== Lituania (República de)
+
+Estaciones de aficionado y estaciones experimentales:: LY seguido de una cifra (1-4) y de 1 a 4 letras
+
+NOTE: LY seguido de 2 a 4 cifras y de 1 letra se autoriza solamente para la formación de distintivos de llamada ocasionales.
+
+
+=== Luxemburgo
+
+[%unnumbered]
+|===
+| LX0A-LX0ZZZZ | Repetidores, balizas, estaciones de grupo
+
+| LX1A-LX1ZZZZ .3+| Estaciones individuales explotadas con certificado HAREC
+
+| LX2A-LX2ZZZZ
+| LX3A-LX3ZZZZ
+| LX4A-LX4ZZZZ | Estaciones de grupo
+
+| LX5A-LX5ZZZZ | Estaciones de grupo, estaciones experimentales
+
+| LX6A-LX6ZZZZ | Estaciones individuales explotadas por principiantes
+
+| LX7A-LX7ZZZZ | Estaciones individuales explotadas durante competiciones
+
+| LX8A-LX8ZZZZ .2+| Estaciones de grupo
+
+| LX9A-LX9ZZZZ
+
+|===
+
+NOTE: Los radioaficionados extranjeros que posean licencia con carácter temporal deberán utilizar LX seguido de una barra de fracción (/) y de su propio distintivo.
+
+=== Madagascar (República de)
+
+Estaciones de aficionado:: 5R8 seguido de un grupo de 3 letras como máximo
+
+Estaciones experimentales:: 5S6 seguido de un grupo de 3 letras como máximo
+
+=== Malasia
+
+[%unnumbered]
+|===
+3+^.^| Estaciones de aficionado
+^.^| Distintivos de llamada ^.^| Clase ^.^| Territorio
+| 9M2AAA-9M2ZZZ ^.^| A .2+^.^| Malasia peninsular
+| 9W2AAA-9W2ZZZ ^.^| B
+| 9M6AAA-9M6ZZZ ^.^| A .2+^.^| Sabah
+| 9W6AAA-9W6ZZZ ^.^| B
+| 9M8AAA-9M8ZZZ ^.^| A .2+^.^| Sarawak
+| 9W8AAA-9W8ZZZ ^.^| B
+3+^.^| Estaciones experimentales
+3+| 9M4EAA-9M4EZZ
+
+|===
+
+=== Malawi
+
+Estaciones de aficionado:: 7Q7 seguido de 2 letras
+
+=== Maldivas (República de)
+
+Estaciones de aficionado:: 8Q7AA-8Q7ZZ
+
+
+=== Malta
+
+[%unnumbered]
+|===
+3+^.^| Estaciones de aficionado
+^.^| Distintivos de llamada ^.^| Clase ^.^| Zona
+| 9H1A-9H1ZZ ^.^| A | Malta
+| 9H4A-9H4ZZ ^.^| A | Isla de Gozo
+| 9H5A-9H5ZZ ^.^| B | Malta e isla de Gozo
+3+^.^| Estaciones experimentales
+3+| 9H3A-9H3ZZ {blank}footnote:[Igualmente para las estaciones temporales.]
+
+|===
+
+
+=== Marruecos (Reino de)
+
+Estaciones de aficionado:: CN2AA-CN2ZZ 
++
+CN8AA-CN8ZZ
+
+Estaciones experimentales:: CN4AA-CN4ZZ
+
+=== Mauricio (República de)
+
+Estaciones de aficionado:: 3B6 seguido de 2 letras - Agalega 
++
+3B7 seguido de 2 letras - S. Brandon 
++
+3B8 seguido de 2 letras - Mauricio 
++
+3B9 seguido de 2 letras - Rodrígues
+
+NOTE: Los radioaficionados extranjeros que posean licencia de visitante deberán utilizar 3B8 seguido de una barra de fracción (/) y de su propio distintivo.
+
+=== Mauritania (República lslámica de)
+
+Estaciones de aficionado:: 5T5 seguido de 2 letras
+
+Estaciones experimentales:: 5T2 seguido de 2 letras
+
+=== México
+
+[%unnumbered]
+|===
+2+^.^| Estaciones de aficionado
+2+| _Parte continental_ 
+2+| XE0A-XE0ZZZ 
+| XE1A-XE1ZZZ | _Zona 1:_  Distrito Federal, Colima, Guanajuato, Hidalgo, Jalisco, Estado de México, Michoacán, Morélos, Nayarit, Puebla, Querétaro, Tlaxcala y Veracruz
+| XE2A-XE2ZZZ | _Zona 2:_  Aguascalientes, Baja California Norte, Baja California Sur, Coahuila, Chihuahua, Durango, Nuevo León, San Luis Potosí, Sinaloa, Sonora, Tamaulipas y Zacatecas
+| XE3A-XE3ZZZ | _Zona 3:_  Campeche, Chiapas, Guerrero, Oaxaca, Quintana Roo, Tabasco y Yucatán
+2+| _Parte insular_ 
+2+| XF0A-XF0ZZZ 
+| XF1A-XF1ZZZ | _Zona 1:_  Baja California Norte, Baja California Sur, Sonora, Sinaloa y Nayarit
+| XF2A-XF2ZZZ | _Zona 2:_  Tamaulipas, Veracruz, Tabasco y Campeche
+| XF3A-XF3ZZZ | _Zona 3:_  Yucatán y Quintana Roo
+| XF4A-XF4ZZZ | _Zona 4:_  Jalisco, Colima, Michoacán, Guerrero, Oaxaca y Chiapas
+
+|===
+
+[NOTE] 
+====
+. Los radioaficionados extranjeros que operen en la parte continental, deberán utilizar XE1, XE2 o XE3 seguido de una barra de fracción (/) y de su distintivo local.
+
+. Solamente para los acontecimientos especiales, los radioaficionados deberán utilizar XA, XB, XC, XD, XE, XF, XG, XH, XI, 4A, 4B, 4C, 6D, 6E, 6F o 6J seguido de una cifra y de un grupo de 3 letras como máximo.
+====
+
+=== Micronesia (Estados federados de)
+
+Estaciones de aficionado:: V63 seguido de 2 letras
+
+Estaciones experimentales:: V62 seguido de la letra X y de 2 letras
+
+=== Moldova (República de)
+
+Estaciones de aficionado:: ER1 – ER5 seguido de una, dos o tres letras
+
+El sufijo puede ser compuesto de:: 
+* dos o tres letras para estaciones individuales (se prohibe la letra K como primera letra)
+
+* tres letras para estaciones de club (la primera de las cuales es la letra K)
+
+* una, dos, tres o más cifras y/o letras para distintivos de llamada especiales, balizas y repetidores.
+
+Distintivo de llamada compuesto de:: 4 caracteres  clase A;
++
+5 caracteres  clase A y clase B;
++
+6 caracteres  clase C.
++
+ER6 – ER0 seguido de dos o más cifras se utilizan para distintivos de llamada especiales asignados para acontecimientos especiales
+
++
+
+ER1 – ER0 seguido de dos o más cifras se pueden asignar a:
++
+* un residente físico – ciudadano de la República de Moldova;
+
+* un ciudadano extranjero o apátrida que reside de forma permanente en la República de Moldova (con documentos justificativos);
+
+* residentes legales de la República de Moldova.
+
+Los distintivos de llamada seguidos de una barra de fracción (/) y de las letras «MM», «AM», «M» y «P» se utilizan en los casos siguientes:
+
+MM:: para estaciones móviles marítimas o fluviales,
+
+AM:: para estaciones móviles aeronáuticas,
+
+M:: para estaciones móviles terrestres,
+
+P:: para estaciones terrestres portátiles.
+
+NOTE: Los radioaficionados extranjeros habilitados deberán utilizar ER seguido de una barra de fracción (/) y de su distintivo local.
+
+=== Mónaco (Principado de)
+
+Estaciones de aficionado:: 3A2AA-3A2ZZ - Clase 1  – Licencia general 
++
+3A1AA-3A1ZZ - Clase 2  – Licencia restringida a las bandas 144-146 MHz y 430-440 MHz 
++
+3A2AAA-3A2ZZZ - Radio Club
+
+Estaciones experimentales:: 3A9A-3A9Z
+
+=== Mozambique (República de)
+
+Estaciones de aficionado:: C9 seguido de una cifra (distintiva de la provincia en que está situada la estación) y de un grupo de 3 letras como máximo
+
+Cifras distintivas de las provincias:: 1 – Maputo 
++
+2 – Gaza-Inhambane 
++
+3 – Sofala-Manica 
++
+4 – Zambezia-Nampula 
++
+5 – Tete-Niassa 
++
+6 – C. Delgado
+
+=== Myanmar (Unión de)
+
+Estaciones de aficionado y estaciones experimentales:: XZ2AA-XZ2ZZ
+
+=== Namibia (República de)
+
+Estaciones de aficionado:: V50A-V50ZZZ – Licencia restringida 
++
+V51A-V51ZZZ – Licencia completa 
++
+V5 seguido del distintivo de llamada existente – Licencia para visitante
+
+Estaciones experimentales:: V59A-V59ZZZ
+
+=== Nauru (República de)
+
+Estaciones de aficionado:: C2 seguido de una cifra que identifica la categoría y de 2 letras
+
+=== Nepal (República Democrática Federal de)
+
+Estaciones de aficionado:: 9N1AA-9N1ZZZ
+
+=== Nicaragua
+
+Estaciones de aficionado:: YN seguido de una cifra (distintiva de la zona en que está situada la estación) y de 2 ó 3 letras
+
+Cifras distintivas de las zonas:: 1 – Managua 
++
+2 – Granada 
++
+3 – León 
++
+4 – Zelaya 
++
+5 – Carazo y Rivas 
++
+6 – Chinandega 
++
+7 – Masaya 
++
+8 – Estelí, Madriz y Nueva Segovia 
++
+9 – Matagalpa, Jinotega, Boaco, Chontales y Río San Juan
+
+=== Níger (República del)
+
+Estaciones de aficionado y estaciones experimentales:: 5U2-5U9 seguidos de la letra V y de 1 ó 2 letras
+
+Cuando las estaciones funcionan como estaciones fijas, colocan detrás de su distintivo de llamada la letra «F».
+
+Cuando las estaciones funcionan como estaciones móviles, colocan detrás de su distintivo de llamada las letras «MOB».
+
+=== Nigeria (República Federal de)
+
+Estaciones de aficionado:: 5N seguido de una cifra (distintiva de la zona en que está situada la estación) y de 3 letras
+
+Cifras distintivas de las zonas:: 0 – Estado de Lagos y Territorio de la capital federal 
++
+1 – Estados de Ogun, Oyo, Ondo y Ekiti 
++
+2 – Estados de Osun, Kwara, Kogi y Niger 
++
+3 – Estados de Edo, Delta, Bayelsa y Anambra 
++
+4 – Estados de Enugu, Abia, Ebonyi y Rivers 
++
+5 – Estados de Imo, Akwa lbom y Cross River 
++
+6 – Estados del Benue, Plateau, Nassarawa y Taraba 
++
+7 – Estados de Bauchi, Gombe, Adamawa y Borno 
++
+8 – Estados de Jigawa, Kano, Yobe y Katsina 
++
+9 – Estados de Zamfara, Sokoto, Kaduna y Kebbi
+
+Estaciones experimentales:: 5N2XA-5N2ZZ 
++
+5N3EA-5N3EZ 
++
+5N4XA-5N4ZZ 
++
+5N5EA-5N5EZ 
++
+5N6XA-5N6ZZ 
++
+5N7EA-5N7EZ 
++
+5N8XA-5N8ZZ 
++
+5N9EA-5N9EZ
+
+
+=== Niue
+
+Estaciones de aficionado:: ZK2 seguido de 2 letras
+
+=== Noruega
+
+Estaciones de aficionado:: JW0AAA-JW9ZZZ 
++
+JX0AAA-JX0ZZZ 
++
+LA0AAA-LA9ZZZ 
++
+LB0AAA-LB9ZZZ 
++
+LC0AAA-LC9ZZZ 
++
+LD0AAA-LD9ZZZ 
++
+3Y0AAA-3Y9ZZZ
+
+Estaciones experimentales:: LF2AAA-LF9ZZZ
+
+=== Nueva Zelandia
+
+[%unnumbered]
+|===
+2+^.^| Estaciones de aficionado y estaciones experimentales
+^.^| Distintivos de llamada ^.^| Zonas
+| ZL1AA-ZL4WZ +
+ZL1AAA-ZL4WZZ +
+ZL1AAAA-ZL4WZZZ | Nueva Zelandia
+| ZK0A-ZK9ZZZZ +
+ZL0A-ZL0ZZZZ +
+ZL1A-ZL4W +
+ZM0A-ZM0ZZZZ +
+ZM1A-ZM9ZZZZ {blank}footnote:nz2[Los radioaficionados pueden utilizar el prefijo ZM en lugar de ZL para los concursos y otros acontecimientos especiales.] | Nueva Zelandia (acontecimientos especiales)
+| ZL5AA-ZL5WZ +
+ZL5AAA-ZL5WZZ +
+ZL5AAAA-ZL5WZZZ | Antártida
+| ZL5A-ZL5W | Antártida (acontecimientos especiales)
+| ZL6AA-ZL6WZ +
+ZL6AAA-ZL6WZZ +
+ZL6AAAA-ZL6WZZZ | NZART {blank}footnote:nz1[«New Zealand Association of Radio Transmitters» (NZART).]
+| ZL6A-ZL6W | NZART{blank}footnote:nz1[] (acontecimientos especiales)
+| ZL7AA-ZL7WZ +
+ZL7AAA-ZL7WZZ +
+ZL7AAAA-ZL7WZZZ | Islas Chatham
+| ZL7A-ZL7W | Islas Chatham (acontecimientos especiales)
+| ZL8AA-ZL8WZ +
+ZL8AAA-ZL8WZZ +
+ZL8AAAA-ZL8WZZZ | Islas Kermadec
+| ZL8A-ZL8W | Islas Kermadec (acontecimientos especiales)
+| ZL9AA-ZL9WZ +
+ZL9AAA-ZL9WZZ +
+ZL9AAAA-ZL9WZZZ | Islas Auckland/Campbell
+| ZL9A-ZL9W | Islas Auckland/Campbell (acontecimientos especiales)
+
+|===
+
+
+=== Omán (Sultanía de)
+
+Estaciones de aficionado:: A40AA-A48ZZ
+
+Estaciones experimentales:: A49AA-A49ZZ
+
+
+=== Países Bajos (Reino de los)
+
+Estaciones de aficionado:: PA0, PA1, PA6, PI4, PI6, PI7 o PI8 seguido de 2 ó 3 letras 
++
+PA2, PA3, PB0, PD0, PE0, PE1, PI1, PI2 o PI3 seguido de 3 letras
+
+Estaciones experimentales:: PI5 o PI9 seguido de 2 ó 3 letras
+
+=== Pakistán (República lslámica del)
+
+Estaciones de aficionado y estaciones experimentales:: AP2-AP9 seguidos de un grupo de 3 letras como máximo
+
+=== Papua Nueva Guinea
+
+Estaciones de aficionado:: P29BAA-P29BZZ - Balizas 
++
+P29CAA-P29CZZ - Estaciones de club 
++
+P29KAA-P29KZZ - Licencias combinadas 
++
+P29NAA-P29NZZ - Licencia de principiante 
++
+P29RAA-P29RZZ - Repetidores 
++
+P29ZAA-P29ZZZ - Licencia limitada
+
+=== Paraguay (República del)
+
+Estaciones de aficionado:: ZP seguido de una cifra (1-9, distintiva de la zona en que está situada la estación) y de 2 ó 3 letras que caracterizan al radioaficionado (la primera de las cuales no sea ni la letra I, ni la O, ni la Q)(Véase cont.)
+
+Cifras distintivas de las zonas:: 1 – Departamentos de Alto Paraguay y Boquerón 
++
+2 – Departamento de Presidente Hayes 
++
+3 – Departamentos de Concepción y Amambay 
++
+4 – Departamentos de San Pedro y Canindeyú 
++
+5 – Asunción (Capital) – Municipio de Asunción 
++
+6 – Departamentos de Cordillera, Paraguari y Central 
++
+7 – Departamentos de Guairá, Caaguazú y Caazapá 
++
+8 – Departamentos de Misiones y Neembucú 
++
+9 – Departamentos de Itapúa y Alto Paraná
+
+NOTE: La cifra 0 se asigna a las estaciones de aficionado para ocasiones especiales.
+
+=== Perú
+
+Estaciones de aficionado:: OA seguido de una cifra (0-9, distintiva de la zona en que está situada la estación) y de 1, 2 ó 3 letras
+
+Cifras distintivas de las zonas:: 0 – Antártida peruana 
++
+1 – Tumbes, Piura, Lambayeque 
++
+2 – Cajamarca, La Libertad 
++
+3 – Huánuco, Ancash 
++
+4 – Lima, Pasco Junín 
++
+5 – Ica, Ayacucho, Apurímac, Huancavelica 
++
+6 – Arequipa, Moquegua, Tacna 
++
+7 – Cuzco, Puno, Madre de Dios 
++
+8 – Loreto, Ucayali 
++
+9 – Amazonas, San Martín
+
+NOTE: El prefijo 4T se asigna con carácter temporal.
+
+=== Polonia (República de)
+
+Estaciones de aficionado:: HF, SN, SO, SP, SQ o 3Z seguido de una cifra (1-9, distintiva de la provincia en que está situada la estación) y de un grupo de cuatro caracteres como máximo, el último de los cuales será una letra.
++
+SO seguido de una cifra (1-9, distintiva de la provincia en que está situada la estación) y de un grupo de cuatro caracteres como máximo, el último de los cuales será una letra - para los radioaficionados extranjeros de visita en Polonia.
++
+SR seguido de una cifra (1-9, distintiva de la provincia en que está situada la estación) y de un grupo de cuatro caracteres como máximo, el último de los cuales será una letra - para las estaciones de aficionados no atendidas (automáticas) (repetidores, balizas, estaciones numéricas).
++
+HF, SN, SO, SP, SQ o 3Z seguido de una cifra (1-9, distintiva de la provincia en que está situada la estación o 0) y de un grupo de caracteres (conforme a lo solicitado) - para las estaciones explotadas para acontecimientos especiales o explotadas sólo durante concursos y competiciones de aficionados (máximo un año).
+
+Cifras distintivas de las provincias:: 1 – Provincia de Zachodniopomorskie 
++
+2 – Provincias de Pomorskie y Kujawsko-Pomorskie 
++
+3 – Provincias de Wielkopolskie y Lubuskie 
++
+4 – Provincias de Warminsko-Mazurskie y Podlaskie 
++
+5 – Provincia de Mazowieckie 
++
+6 – Provincias de Dolnoslaskie y Opolskie 
++
+7 – Provincias de Lodzkie y Swietokrzyskie 
++
+8 – Provincias de Lubelskie y Podkarpackie 
++
+9 – Provincias de Slaskie y Malopolskie
+
+=== Portugal
+
+[%unnumbered]
+|===
+5+^.^| Estaciones de aficionado
+^.^| Prefijo ^.^| Sufijo ^.^| Clase ^.^| Zona geográfica ^.^| Nota
+^.^| 1 ^.^| 2 ^.^| 3 ^.^| 4 ^.^| 5
+^.^| CQ0 ^.^| 2 a 4 caracteres ^.^| – ^.^| Portugal ^.^| {blank}footnote:portugal2[Distintivos de llamada asignados a las estaciones de aficionado de las asociaciones de aficionados (repetidores).]
+^.^| CQ1 ^.^| 2 a 4 caracteres ^.^| – ^.^| Azores ^.^| {blank}footnote:portugal2[]
+^.^| CQ2 ^.^| 2 a 4 caracteres ^.^| – ^.^| Madeira ^.^| {blank}footnote:portugal2[]
+^.^| CR0 ^.^| 2 a 4 caracteres ^.^| – ^.^| Portugal, Madeira, Azores ^.^| {blank}footnote:[Distintivos de llamada asignados a las estaciones de aficionado de los organismos de protección civil y de emergencia.]
+^.^| CR7 ^.^| 3 letras ^.^| 3 ^.^| Portugal ^.^| –
+^.^| CR8 ^.^| 3 letras ^.^| 3 ^.^| Azores ^.^| -
+^.^| CR9 ^.^| 3 letras ^.^| 3 ^.^| Madeira ^.^| –
+^.^| CS0 ^.^| 3 letras ^.^| – ^.^| Portugal ^.^| {blank}footnote:portugal3[Distintivos de llamada asignados a las estaciones de aficionado de las asociaciones de aficionados (no‑repetidores).]
+^.^| CS1 ^.^| 3 letras ^.^| – ^.^| Portugal ^.^| {blank}footnote:portugal3[]
+^.^| CS3 ^.^| 1 a 4 caracteres ^.^| – ^.^| Madeira ^.^| {blank}footnote:portugal3[]
+^.^| CS4 ^.^| 1 a 4 caracteres ^.^| – ^.^| Azores ^.^| {blank}footnote:portugal3[]
+^.^| CS5 ^.^| 1 a 4 caracteres ^.^| – ^.^| Portugal ^.^| {blank}footnote:portugal3[]
+^.^| CS6 ^.^| 3 letras ^.^| – ^.^| Portugal ^.^| {blank}footnote:portugal3[]
+^.^| CS7 ^.^| 3 letras ^.^| 2 ^.^| Portugal ^.^| –
+^.^| CS8 ^.^| 3 letras ^.^| 2 ^.^| Azores ^.^| –
+^.^| CS9 ^.^| 3 letras ^.^| 2 ^.^| Madeira ^.^| –
+^.^| CT1 ^.^| 2 ó 3 letras ^.^| A y B | Portugal ^.^| {blank}footnote:portugal3[]
+^.^| CT2 ^.^| 2 ó 3 letras ^.^| B | Portugal ^.^| –
+^.^| CT3 ^.^| 2 ó 3 letras ^.^| A, B y C | Madeira ^.^| –
+^.^| CT4 ^.^| 2 ó 3 letras ^.^| A y B | Portugal ^.^| –
+^.^| CT5 ^.^| 3 letras ^.^| C ^.^| Portugal ^.^| –
+^.^| CT6 ^.^| 3 letras ^.^| – ^.^| Portugal ^.^| {blank}footnote:portugal3[]
+^.^| CT7 ^.^| 3 letras ^.^| 1 ^.^| Portugal ^.^| –
+^.^| CT8 ^.^| 3 letras ^.^| 1 ^.^| Azores ^.^| –
+^.^| CT9 ^.^| 3 letras ^.^| 1 ^.^| Madeira ^.^| –
+^.^| CU0 ^.^| 3 letras ^.^| C ^.^| Azores (todas las islas) ^.^| –
+^.^| CU1 ^.^| 2 ó 3 letras ^.^| A y B ^.^| Azores (Santa Maria) ^.^| {blank}footnote:portugal3[]
+^.^| CU2 ^.^| 2 ó 3 letras ^.^| A y B ^.^| Azores (São Miguel) ^.^| {blank}footnote:portugal3[]
+^.^| CU3 ^.^| 2 ó 3 letras ^.^| A y B ^.^| Azores (Terceira) ^.^| {blank}footnote:portugal3[]
+^.^| CU4 ^.^| 2 ó 3 letras ^.^| A y B ^.^| Azores (Graciosa) ^.^| {blank}footnote:portugal3[]
+^.^| CU5 ^.^| 2 ó 3 letras ^.^| A y B ^.^| Azores (São Jorge) ^.^| {blank}footnote:portugal3[]
+^.^| CU6 ^.^| 2 ó 3 letras ^.^| A y B ^.^| Azores (Pico) ^.^| {blank}footnote:portugal3[]
+^.^| CU7 ^.^| 2 ó 3 letras ^.^| A y B ^.^| Azores (Faial) ^.^| {blank}footnote:portugal3[]
+^.^| CU8 ^.^| 2 ó 3 letras ^.^| A y B ^.^| Azores (Flores) ^.^| {blank}footnote:portugal3[]
+^.^| CU9 ^.^| 2 ó 3 letras ^.^| A y B ^.^| Azores (Corvo) ^.^| –
+
+|===
+
+
+[NOTE] 
+====
+Para los distintivos de llamada ocasionales (concursos por ejemplo) y las estaciones experimentales, se utilizarán los prefijos siguientes:
+
+* Portugal: CQ7, CR5, CR6 y CS2;
+
+* Azores: CQ8, CR1 y CR2;
+
+* Madeira: CQ3, CQ9 y CR3.
+====
+
+=== Qatar (Estado de)
+
+Estaciones de aficionado:: A71AA-A71ZZ
+
+Estaciones experimentales:: A73AA-A73ZZ
+
+=== Reino Unido de Gran Bretaña e Irlanda del Norte
+
+[%unnumbered]
+|===
+2+^.^| Estaciones de aficionado y estaciones experimentales
+^.^| _Tipo de licencia_ ^.^| _Forma de los distintivos de llamada_
+.2+| Completa/avanzada/Club {blank}footnote:reino1[Cuando la dirección de la estación principal o de una estación especial destinada a certámenes se encuentre en uno de los lugares mencionados en la lista infra y se explote a partir de dicha dirección, el distintivo de llamada que se le haya asignado con arreglo al cuadro supra quedará modificado mediante la inserción, después del primer carácter del distintivo de llamada, de la letra que le corresponda en la lista precitada:
+
+Ninguna – Inglaterra 
+
+U – Guernsey 
+
+D – Isla de Man 
+
+J – Jersey 
+
+I – Irlanda del Norte 
+
+M – Escocia 
+
+W – Gales.] {blank}footnote:reino2[Cuando el distintivo de llamada de un club se expida en los lugares mencionados en la lista infra, el distintivo de llamada que se le haya asignado con arreglo al cuadro supra quedará modificado mediante la inserción, después del primer carácter del distintivo de llamada, de la letra que le corresponda en la lista precitada:
+
+X – Inglaterra 
+
+P – Guernsey 
+
+T – Isla de Man 
+
+H – Jersey 
+
+N – Irlanda del Norte 
+
+S – Escocia 
+
+C – Gales.] | G seguido de una cifra (0-8) y de 2 ó 3 letras
+| M seguido de una cifra (0, 1, 5) y de 3 letras
+| Intermedia {blank}footnote:reino3[Cuando la dirección de la estación principal del licenciatario se encuentre en uno de los lugares mencionados en la lista bajo la nota 1) y se explote a partir de esa dirección, el distintivo de llamada que se le haya asignado con arreglo al cuadro supra se modificará mediante la sustitución del segundo carácter del distintivo de llamada por la letra que le corresponda en la lista que se detalla en la nota 1), en el entendimiento de que no se procederá a ninguna sustitución cuando el lugar sea Inglaterra.] | 2E seguido de una cifra (0, 1) y de 3 letras
+| Fundacional {blank}footnote:reino1[] | M3 seguido de 3 letras
+| Estaciones repetidoras | GB3 seguido de 2 letras
+| Estaciones de radiobaliza | GB3 seguido de 3 letras
+| Estaciones nodales de paquetes de datos | GB7 seguido de 2 letras
+| Estaciones buzón de paquetes de datos | GB7 seguido de 3 letras
+| Estaciones de cabecera con sistemas de información automática de la posición | MB7U seguido de 2 letras
+| Estaciones de cabecera de internet simples (sin vigilancia) | MB7I seguido de 2 letras
+| Estaciones para eventos especiales (temporales) | GB seguido de una cifra (0-2, 4-6, 8) y de 2 ó 3 letras
+a| Especial – Estaciones para eventos especiales (temporales) | GB seguido de 2 ó 3 cifras (0-9) y de 2 ó 3 letras
+| Estaciones especiales para certámenes (temporales) | G seguido de una cifra (0-9) y de una letra M seguido de una cifra (0-9) y de una letra
+
+^.^| _Territorios de ultramar_ ^.^| _Forma de los distintivos de llamada_
+| Anguilla | VP2E seguido de 2 letras
+| Montserrat | VP2M seguido de 2 letras
+| Islas Vírgenes británicas | VP2V seguido de 2 letras
+| Islas Turquesas y Caicos | VP5 seguido de 3 letras
+| Isla Pitcairn y territorios dependientes (islas Henderson, Ducie y Oeno) | VP6 seguido de 3 letras
+| Islas Malvinas (Falkland) y territorios dependientes (Georgia del Sur, islas Sandwich del Sur) Territorios antárticos | VP8 seguido de 3 letras – licencia integral +
+VP8 seguido de 4 letras – licencia especial (144-146 MHz, únicamente para uso nacional y sin examen)
+| Bermudas | VP9 seguido de 3 letras
+| Islas Turquesas y Caicos | VQ5 seguido de 3 letras
+| Islas Caimanes | VQ6 seguido de 3 letras
+| Territorio británico en el océano Índico (BIOT) (Diego García y archipiélago de Chagos) | VQ9 seguido de 3 letras
+| Gibraltar | ZB0, ZB2 o ZB3 seguido de 3 letras
+| Bases soberanas del Reino Unido en Chipre (Akrotiri y Dhekelia) | ZC4 seguido de 3 letras
+| Santa Elena | ZD7 seguido de 1 a 3 letras
+| Isla de la Ascensión | ZD8 seguido de 1 a 3 letras
+| Tristán da Cunha e isla Gough | ZD9 seguido de 1 a 3 letras
+| Islas Caimanes – Gran Caimán | ZF1 o ZF2 seguido de 3 letras
+| Islas Caimanes – Pequeño Caimán | ZF8 seguido de 3 letras
+| Islas Caimanes – Caimán Brac | ZF9 seguido de 3 letras
+
+|===
+
+
+=== República Árabe Siria
+
+Estaciones de aficionado y estaciones experimentales:: YK seguido de una cifra (distintiva de la zona en que está situada la estación) y de un grupo de 1, 2 ó 3 letras
+
+Cifras distintivas de las zonas:: 1 – Región del sur 
++
+2 – Región del norte 
++
+3 – Región del este 
++
+4 – Región del oeste 
++
+8 – Balizas 
++
+9 – Grupos de radioaficionados extranjeros 
++
+0 – Estaciones de club
+
+[NOTE] 
+====
+. Los radioaficionados individuales extranjeros deberán utilizar YK seguido de una barra de fracción (/) y de su distintivo local.
+
+. Solamente para los acontecimientos especiales, los radioaficionados deberán utilizar 6C seguido de una cifra y de un grupo de 3 letras como máximo.
+====
+
+=== República Checa
+
+Estaciones de aficionado:: OK0-OK8 seguidos de 1, 2 ó 3 letras 
++
+OL0-OL9 seguidos de 1, 2 ó 3 letras
++
+OK8 seguido de 2 ó 3 letras para extranjeros que transmiten desde el territorio de la República Checa
++
+OK0 seguido de 2 ó 3 letras excepcionalmente para acontecimientos extraordinarios
++
+OL0-OL9 seguidos de 1 letra para concursos internacionales de aficionados solamente
++
+OL0-OL9 seguidos de 2 ó 3 letras para acontecimientos extraordinarios y sólo para su duración
+
+Estaciones experimentales:: OK9 seguido de 2 ó 3 letras
+
+=== República Eslovaca
+
+Estaciones de aficionado:: OM0AA-OM8ZZZ 
++
+OM0A-OM9Z {blank}footnote:[Para concursos internacionales de aficionados.]
++
+OM9AA-OM9ZZ {blank}footnote:[Para acontecimientos extraordinarios y sólo para su duración.]
++
+OM9AAA-OM9SZZ {blank}footnote:[Para los extranjeros que transmiten desde el territorio de la República Eslovaca.]
+
+Estaciones experimentales:: OM9TAA-OM9ZZZ
+
+=== República Kirguisa
+
+Estaciones de aficionados:: EX seguido de una cifra (0-9) y 1 ó 2 letras
+
+NOTE: Los radioaficionados extranjeros deberán utilizar EX seguido de una barra de fracción (/) y de su distintivo local.
+
+=== Rumania
+
+Estaciones de aficionado:: 
+. individuales
++
+YO seguido de una cifra y de un grupo de 3 letras como máximo (la primera de las cuales no será la letra K)
+
+. club
++
+YO seguido de una cifra y de un grupo de 3 letras como máximo (la primera de las cuales será la letra K)
+
+NOTE: YP, YQ y YR seguidos de una cifra y de un grupo de 3 letras como máximo se asignan a las estaciones de aficionado explotadas durante concursos o acontecimientos especiales.
+
+
+=== Rwanda (República de)
+
+Estaciones de aficionado:: 9X5AA-9X5ZZ
+
+=== Salomón (Islas)
+
+Estaciones de aficionado y estaciones experimentales:: H44AA-H44ZZ
+
+=== Samoa (Estado Independiente de)
+
+Estaciones de aficionado:: 5W seguido de una cifra y de 2 letras
+
+=== San Maarten (parte neerlandesa)
+
+Estaciones de aficionado:: PJ7AA-PJ7ZZZ
+
+=== San Marino (República de)
+
+Estaciones de aficionado:: T72AA-T72ZZ {blank}footnote:[VHF y superior a VHF.]
++
+T77AA-T77ZZ {blank}footnote:sm2[Todas las bandas.] 
++
+Radio Club: T70A {blank}footnote:sm2[] 
++
+Radio Club temporario: T71CE {blank}footnote:sm2[] 
+
+
+=== Santo Tomé y Príncipe (República Democrática de)
+
+Estaciones de aficionado:: S92AA-S92ZZ
+
+=== Senegal (República del)
+
+Estaciones de aficionado:: 6W1AA-6W1ZZ
+
+Estaciones experimentales:: 6V3AA-6V3ZZ
+
+=== Seychelles (República de)
+
+Estaciones de aficionado:: S79AAA-S79ZZZ
+
+Estaciones experimentales:: S78AA-S78AZ
+
+=== Sierra Leona
+
+Estaciones de aficionado:: 9L seguido de una cifra (0-8, distintiva de la zona o provincia en que está situada la estación) y de 2 letras
+
+Cifras distintivas de las zonas o provincias:: 0 – Pequeños barcos e islas a la altura de la costa 
++
+1 – Zona del oeste 
++
+2 – Provincia del norte 
++
+3 – Provincia del sur 
++
+4 – Provincia del este 
++
+7 – Licencia de principiante 
++
+8 – Licencia de clase B (VHF/UHF)
+
+NOTE: Los radioaficionados extranjeros que posean licencia con carácter temporal deberán utilizar 9L seguido de una barra de fracción (/) y de su propio distintivo.
+
+
+=== Singapur (República de)
+
+Estaciones de aficionado:: 9V1AA-9V1ZZ
+
+Estaciones experimentales:: 9V2A-9V2ZZ
+
+NOTE: 9V0 seguido de 2 ó 3 letras se autoriza a las estaciones de aficionado para acontecimientos especiales.
+
+=== Sri Lanka (República Socialista Democrática de)
+
+Estaciones de aficionado:: 4S5 seguido de 2 ó 3 letras – Clase principiante B (sólo VHF) 
++
+4S6 seguido de 2 ó 3 letras – Clase principiante A 
++
+4S7 seguido de 2 ó 3 letras – Clase general y adelantada
+
+Estaciones experimentales:: 4P3 seguido de 2 letras
+
+[NOTE]
+====
+. Los radioaficionados locales que han obtenido la licencia por haber presentado otras emitidas por administraciones extranjeras deberán utilizar 4S7 seguido de 3 letras, de las cuales la última será la letra R.
+
+. Los radioaficionados visitantes deberán utilizar 4S7 seguido de su distintivo local.
+
+. Los radioaficionados extranjeros de administraciones con las que existe un acuerdo recíproco deberán utilizar 4S7 seguido de 3 letras, de las cuales la última será la letra G.
+====
+
+=== Sudafricana (República)
+
+Estaciones de aficionado:: ZR {blank}footnote:[Licencia completa excepto VHF.], ZS {blank}footnote:[Licencia completa.] o ZU {blank}footnote:[Licencia de principiante.] seguido de una cifra (distintiva de la provincia en que está situada la estación) y de 1, 2 ó 3 letras que caracterizan al radioaficionado
+
+Cifras distintivas de las provincias:: 1 – Western Cape 
++
+2 – Eastern Cape 
++
+3 – Northern Cape 
++
+4 – Free State 
++
+5 – Kwazulu-Natal 
++
+6 – Gauteng, North-West Province, Mpumalanga, Northern Province 
++
+7 – Sanae Antarctica 
++
+8 – Isla Marión 
++
+9 – Namibia 
++
+0 – Repetidores numéricos y boletines de información
+
+Estaciones experimentales:: ZT seguido de una cifra y de 1, 2 ó 3 letras
+
+=== Suecia
+
+Estaciones de aficionado:: SA, SI, SJ, SK, SL o SM (excepcionalmente 7S o 8S) seguido de una cifra y de 1, 2 ó 3 letras 
++
+SH seguido de una cifra y de 3 letras
+
+=== Suiza (Confederación)
+
+Estaciones de aficionado:: HB9 o HB3 {blank}footnote:[Licencia de principiante.] seguido de 4 caracteres, el último de los cuales será una letra
+
+
+=== Suriname (República de)
+
+Estaciones de aficionado y estaciones experimentales:: PZ seguido de una cifra (2-9) y de un grupo de 3 letras como máximo
+
+=== Swazilandia (Reino de)
+
+Estaciones de aficionado:: 3DA0 seguido de 2 letras – Licencia completa 
++
+SDA1 seguido de 2 letras – Licencia restringida
+
+
+=== Tailandia
+
+Estaciones de aficionado:: E2 o HS seguido de una cifra (distintiva de la región en que está situada la estación) yde 2 ó 3 letras
+
+Cifras distintivas de las regiones:: 0,1 – Bangkok, Samut Prakan, Pathum Thani, Nonthaburi, Phra Nakhon Si Ayutthaya, Angthong, Saraburi, Lop Buri, Sing Buri, Chainat
++
+2 – Chon Buri, Rayong, Chanthaburi, Trat, Chachoengsao, Nakhon Nayok, Prachin Buri, Srakaew
++
+3 – Nakhon Ratchasima, Chaiyaphum, Buriram, Surin, Sisaket, Ubon Ratchathani, Yasothon, Amnat Chareon
++
+4 – Khon Kaen, Loei, Nong Khai, Udon Thani, Maha Sarakham, Kalasin, Sakon Nakhon, Mukdahan, Nakhon Phanom, Roi Et, Nong Bua Lum Phu
++
+5 – Mae Hong Son, Chiang Mai, Lamphun, Lampang, Phrae, Uttaradit, Nan, Chiang Rai, Phayao
++
+6 – Nakhon Sawan, Uthai Thani, Kamphaeng Phet, Tak, Phichit, Sukhothai, Phitsanulok, Phetchabun
++
+7 – Ratchaburi, Samut Sokhon, Samut Songkhram, Nakhon Pathom, Suphan Buri, Kanchanaburi, Phetchaburi, Prachuap Khiri Khan
++
+8 – Nakhon Si Thammarat, Krabi, Phangnga, Ranong, Surat Thani, Chumphon, Phuket
++
+9 – Songkhla, Pattani, Yala, Narathiwat, Trang, Phatthalung, Satun
+
+Estaciones experimentales:: E22AAA-E22AZZ
+
+=== Tanzanía (República Unida de)
+
+Estaciones de aficionado:: 5H3AA-5H3ZZ – Parte continental 
++
+5H1AA-5H1ZZ – Zanzíbar
+
+=== Tonga (Reino de)
+
+Estaciones de aficionado:: A35 seguido de 2 letras
+
+Estaciones experimentales:: A35 seguido de 3 letras, la primera de las cuales será la letra X
+
+=== Trinidad y Tabago
+
+Estaciones de aficionado y estaciones experimentales:: 9Y4AA-9Y4ZZ
+
+=== Túnez
+
+Estaciones de aficionado:: 3V8AA-3V8ZZ
+
+Estaciones experimentales:: TS8AA-TS8ZZ
+
+=== Turquía
+
+Estaciones de aficionado:: TA seguido de una cifra y de un grupo de 3 letras como máximo
+
+=== Tuvalu
+
+Estaciones de aficionado:: T20AA-T29ZZ
+
+Estaciones experimentales:: T22AA-T29ZZ
+
+
+=== Ucrania
+
+Estaciones de aficionado y estaciones experimentales:: UR, US, UT, UU, UV, UW, UX, UY, UZ, EM, EN o EO seguido de una cifra (0-9) y de 2 ó 3 letras
+
+=== Uganda (República de)
+
+Estaciones de aficionado:: 5X5AA-5X5ZZ
+
+=== Uruguay (República Oriental del)
+
+Estaciones de aficionado:: CX seguido de una cifra (1-9) y de un grupo de 3 letras como máximo, la primera distintiva del departamento en que está situada la estación
+
+Estaciones experimentales:: CV, CW o CX seguido de una cifra (1-9) y de un grupo de 3 letras como máximo
+
+=== Vanuatu (República de)
+
+Estaciones de aficionado:: YJ8 seguido de 2 letras (normalmente las iniciales del operador) 
++
+YJ8N {blank}footnote:[Para estaciones explotadas por principiantes.] seguido de 2 letras 
++
+YJ8V {blank}footnote:[Para estaciones explotadas por aficionados que poseen licencias limitadas (VHF).] seguido de 2 letras
+
+=== Venezuela (República Bolivariana de)
+
+Estaciones de aficionado:: YV, YX o 4M seguido de una cifra y de 3 letras
+
+=== Viet Nam (República Socialista de)
+
+Estaciones de aficionado:: XV o 3W seguido de una cifra (2-9, distintiva de la zona en que está situada la estación) y de 1 a 4 letras
+
+=== Zambia (República de)
+
+Estaciones de aficionado:: 9J2 seguido de 2 caracteres, el último de los cuales será una letra
+
+=== Zimbabwe (República de)
+
+Estaciones de aficionado:: Z21AA-Z29ZZ
+
+<<<
+
+== ENMIENDAS
+
+[%unnumbered]
+|===
+^.^h| Enmienda N. ^.^h| Boletín de Explotación N. ^.^h| Administración
+^.^| 1 | | 
+^.^| 2 | | 
+^.^| 3 | | 
+^.^| 4 | | 
+^.^| 5 | | 
+^.^| 6 | | 
+^.^| 7 | | 
+^.^| 8 | | 
+^.^| 9 | | 
+^.^| 10 | | 
+^.^| 11 | | 
+^.^| 12 | | 
+^.^| 13 | | 
+^.^| 14 | | 
+^.^| 15 | | 
+^.^| 16 | | 
+^.^| 17 | | 
+^.^| 18 | | 
+^.^| 19 | | 
+^.^| 20 | | 
+^.^| 21 | | 
+^.^| 22 | | 
+^.^| 23 | | 
+^.^| 24 | | 
+^.^| 25 | | 
+^.^| 26 | | 
+^.^| 27 | | 
+^.^| 28 | | 
+^.^| 29 | | 
+^.^| 30 | | 
+
+|===
+

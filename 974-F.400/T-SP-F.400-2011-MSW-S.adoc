@@ -1,0 +1,3152 @@
+= LISTA DE NOMBRES DE DOMINIO DE GESTIÓN DE ADMINISTRACIÓN (DGAD)
+:bureau: T
+:docnumber: 
+:series: (De conformidad con las Recomendaciones UIT-T de las series
+F.400 y X.400)
+:title: 
+:published-date: 2011-02-15
+:status: published
+:doctype: recommendation-annex
+:annextitle-es: Anexo al Boletín de Explotación de la UIT
+:annexid: N.° 974
+:docfile: T-SP-F.400-2011-MSW-S.adoc
+:language: es
+:mn-document-class: itu
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+
+
+[preface]
+== Nota de la TSB
+
+[class=steps]
+. En el Anexo al Boletín de Explotación Nº 880 de 15 de marzo de 2007, la TSB publicó una lista de nombres de dominio de gestión de administración (DGAD) y otras informaciones sobre la realización de servicios de tratamiento de mensajes .
+
+. En vista de las numerosas notificaciones recibidas de administraciones/empresas de explotación reconocidas (EER) sobre el estado de realización de servicios de tratamiento de mensajes basados en las Recomendaciones UIT-T de las series F.400 y X.400, se ha preparado una nueva versión que anula y reemplaza el Anexo anterior. Esta nueva lista publicada como Anexo al Boletín de Explotación Nº 974 de 15 de febrero de 2011 comprende todas las enmiendas publicadas en los Boletines de Explotación hasta este Boletín. A fin de mantener actualizada esta lista, se ruega a las administraciones/EER que verifiquen la información publicada en ella y comuniquen a la TSB los cambios que deban efectuarse para ponerla al día.
+
+. Se señala que esta Lista será actualizada por medio de enmiendas numeradas que se irán publicando en el Boletín de Explotación de la UIT. Además, la información de este Anexo está disponible en versión electrónica en la página de web de la UIT :
++
+http://www.itu.int/itu-t/bulletin/annex.html[www.itu.int/itu-t/bulletin/annex.html]
+
+. Se ruega a las administraciones o autoridades de denominación que no hayan notificado a la UIT los nombres DGAD conocidos en sus propios países que rellenen el formulario de notificación (véase la última parte de la Lista) y lo devuelvan a la TSB a la dirección indicada en el propio formulario. De ser necesario, pueden pedirse más formularios de notificación a la TSB por Fax: +41 22 730 5853 o por E-mail: tsbtson@itu.int.
+
+. Las denominaciones empleadas en esta Lista y la forma en que aparecen presentados los datos que contiene no implican, de parte de la UIT, juicio alguno sobre la condición jurídica de países o zonas geográficas, o de sus autoridades.
+
+
+== {blank}
+[%unnumbered]
+|===
+
+^.^| País ^.^| Nombre DGAD ^.^| Código de país{blank}footnote:[Código de país: véase el anexo A a la Recomendación F.401. Se basa en ISO 3166, de la que se debe utilizar la edición más recientemente publicada (obtenible en los órganos nacionales de normalización).] 3+^.^| Nombre del servicio ^.^| HELPDESK ^.^| AUTOANSWER ^.^| Dirección de contacto
+| | | ^.^| MT ^.^| IPM ^.^| otro | | | 
+^.^| 1 ^.^| 2 ^.^| 3 ^.^| 4 ^.^| 5 ^.^| 6 ^.^| 7 ^.^| 8 ^.^| 9
+
+| Allemagne +
+_Germany_ +
+Alemania | AIN | DE | ANI-MSX-MT | AIN-MSX-IPM | | Yes | Yes | DaimlerChrysler Aerospace Airbus GmbH +
+Kreetslag 10 +
+21129 HAMBURG, Germany +
+X.400: A=ain; C=de
+
+| Allemagne +
+_Germany_ +
+Alemania | ARCOR400 | DE | ARCOR400-MT | ARCOR400-IPM | | S=helpdesk +
+A=arcor400 +
+C=de | S=autoanswer +
+A=arcor400 +
+C=de | Ludger Pagel +
+Michael Lukas + 
+Mannesmann Arcor AG & Co, Kölner Straße +
+D-65760 ESCHBORN, Germany +
+X.400: G=ludger; S=pagel; +
+G=michael; S=lukas +
+A=arcor400; C=de
+
+| Allemagne +
+_Germany_ +
+Alemania | ATLAS | DE | ATLAS 400 | ATLAS 400 (P7) | ATLAS TELEX, +
+ATLAS MOBILE, +
+ATLAS FAX, +
+ATLAS EDI, +
+ATLAS LOGO, | S=helpdesk +
+A=atlas +
+C=de | S=autoanswer +
+A=atlas +
+C=de | Georg Seidel +
+INFO AG +
+Grasweg 62 - 66 + 
+D-22303 HAMBURG, Germany
+
+
+| Allemagne +
+_Germany_ +
+Alemania | ATTMAIL | DE | ATT Mail | ATTMAIL | | G=kunden +
+S=hilfe + 
+A=atthilfe + 
+C=de + 
+DDA:ID=atthilfe | NO | Firma AT&T +
+Ms Nancy O'Toole + 
+307 Middletown-Lincroft Road +
+Room 3D205 +
+LINCROFT, NJ 07738, United States +
+X.400: G=nance; S=o'toole; A=attmail; C=us; +
+DDA:ID=notoole
+
+
+| Allemagne +
+_Germany_ +
+Alemania | BUND400 | DE | BUND400-MT | | | S=helpdesk +
+A=bund400 +
+C=de | NO | Bundesrepublik Deutschland +
+-Bundesministerium des lnneren- +
+- KBSt - RD Uwe Ossenberg Postfach 17 02 90 +
+D-53 108 BONN, Germany +
+X.400: G=uwe; S=ossenberg; O=kbst; P=bmi; +
+A=bund400; C=de
+
+
+| Allemagne +
+_Germany_ +
+Alemania | CARREFOUR | DE | CARREFOUR +
+UNIVERSAL-MT | CARREFOUR +
+UNIVERSAL-IPM| | S=helpdesk | S=autoanswer | Sterling Commerce GmbH +
+Uerdingen Street 90 +
+ +
+40474 DUSSELDORF, Germany +
+X.400 G=martin; S=russe; +
+A=Carrefour; C=de
+
+
+| Allemagne +
+_Germany_ +
+Alemania | CWMAIL | DE | | | | S=helpdesk +
+O=mercury data +
+P=mcl mail +
+A=cwmail +
+C=gb | P=autoreply +
+A=cwmail +
+C=de | Mercury Messaging Division + 
+Profile West + 
+950 Great West Road, Brentford +
+MIDDLESEX TW8 9DS, United Kingdom +
+X.400: G=gary; S=muchmoore; +
+P=mercury; A=cwmail; C=gb
+
+
+| Allemagne +
+_Germany_ +
+Alemania | D400 | DE | DMAIL | | | S=helpdesk +
+A=d400 +
+C=de | S=autoanswer +
+A=d400 +
+C=de | Martin Wilhelm +
+DFN-Verein + 
+Pariser Straße 44 +
+D-10707 BERLIN, Germany +
+X.400: S=wilhelm; P=dfn; A=d400; C=de
+
+
+| Allemagne +
+_Germany_ +
+Alemania | DBAG | DE | DBX400MT | DBMAILBOX400 | | YES | YES | Deutsche Bahn AG + 
+Peter Reindl +
+Geschäftsbereich Netz - NGT 47 - +
+Arnulfstraße 19 +
+D-80335 MÜNCHEN, Germany +
+X.400: G=peter; S=reindl; A=dbag; C=de
+
+
+| Allemagne +
+_Germany_ +
+Alemania | DBP | DE | BusinessMail +
+MailGate +
+X.400 MT| BusinessMail +
+Mailbox +
+X.400 - IPM | | S= helpdesk +
+A=viat +
+C=de | S=autoanswer +
+A=viat +
+C=de | Deutsche Telekom AG +
+Produktmanagement +
+BusinessMail X.400 +
+Salzachstrasse 15 – 16 +
+D-68199 MANNHEIM, Germany +
+X.400: G=nobert; S=teuer; O=dtag; +
+A=viat; C=de
+
+
+| Allemagne +
+_Germany_ +
+Alemania | EURO-LOG | DE | TRANSPO +
+400-MT | TRANSPO +
+400-IPM | TRANSPO +
+-NET | S=helpdesk +
+A=euro-log +
+C=de | P=autoanswer +
+A=euro-log +
+C=de | Hans-Werner Heyng +
+EURO-LOG +
+Telekommunikationsmehrwertdlenste GmbH +
+AM Söldnermoos 17 +
+D-85399 HALLBERGMOOS, Germany +
+X.400: S=admin; A=euro-log; C=de 
+
+
+| Allemagne +
+_Germany_ +
+Alemania | IBMX400 | DE | IBM Mail +
+Exchange | | | YES | NO | IBM Deutschland +
+Systeme & Netze GmbH +
+Christl Schwarz-Flaig, Am Kettenwald 1 +
+D-71139 EHNINGEN, Germany +
+X.400: G=christl; S=schwarz-flaig; +
+P=ibmmail; A=ibmx400; C=de
+
+
+| Allemagne +
+_Germany_ +
+Alemania | INFONET | DE | | | | S=helpdesk +
+A=infonet +
+C=us | No | Elbert G. Ridgell, +
+INFONET Services Corporation +
+2100 East Frand Avenue +
+EL SEGUNDO, California 90245, United States +
+X.400: +
+S1=swanson d.; +
+S2=murrell + 
+S3=lebeau + 
+O=infinet + 
+P=notic +
+A=infonet; +
+C=us +
+or +
+S=ridgell e.; +
+P=notice; +
+A=infonet; +
+C=us +
+or +
+S=Elbert; +
+O=pcelbert; +
+P=notice400 +
+A=infonet; +
+C=us
+
+|===
+
+
+[%unnumbered]
+|===
+
+^.^| País ^.^| Nombre DGAD ^.^| Código de país{blank}footnote:[Código de país: véase el anexo A a la Recomendación F.401. Se basa en ISO 3166, de la que se debe utilizar la edición más recientemente publicada (obtenible en los órganos nacionales de normalización).] 3+^.^| Nombre del servicio ^.^| HELPDESK ^.^| AUTOANSWER ^.^| Dirección de contacto
+| | | ^.^| MT ^.^| IPM ^.^| otro | | | 
+^.^| 1 ^.^| 2 ^.^| 3 ^.^| 4 ^.^| 5 ^.^| 6 ^.^| 7 ^.^| 8 ^.^| 9
+
+| Allemagne +
+_Germany_ +
+Alemania | LION | DE | MTS P1 (X.411) +
+1988 + 1984 | IPMS P2 (X.420) +
+1988 + 1984 | Message Store + 
+(X.413) 1988 | YES | YES | LION Gesellschaft für Systementwicklung mbH +
+Ulrike Pichler +
+UNITECH CENTER +
+Universitätsstraße 140 +
+D-44799 BOCHUM, Germany +
+X.400: G=ulrike; S=pichler; P=lion; A=dbp; +
+C=de
+
+
+| Allemagne +
+_Germany_ +
+Alemania | MARK400 | DE | | | | G=germany +
+S=helpdesk +
+OU1=geis +
+O=quikcomm +
+A=mark400 +
+C=de
+| S=autoanswer +
+OU1=geis + 
+O=quikcomm + 
+A=mark400 +
+C=us
+| GE Information Services +
+Robert-Bosch-Straße 6 + 
+D-50354 HÜRTH + 
+Germany
+
+
+| Allemagne +
+_Germany_ +
+Alemania | MASTER400 | DE | MASTER400 | MASTERMAIL +
+(P7) | | S=helpdesk +
+A=master400 +
+C=it | S=autoanswer +
+A=master400 + 
+C=it | Madia Saponaro +
+SARITEL S.p.A. + 
+S.S. 148 Pontina Km. 29,100 +
+00040 POMEZIA (ROMA), Italy +
+X.400: G=madia; S=saponaro; O=saritel; +
+E-mail: saponaro@saritel.it
+
+
+| Allemagne +
+_Germany_ +
+Alemania | PLUS400 | DE | MTPLUS | MSPLUS | | S=helpdesk +
+A=plus400 + 
+C=de | S=autoanswer +
+A=plus400 +
+C=de | Dr. Gerhard Lovis +
+HÜLS AG +
+Paul-Baumann-Str. 1 +
+D-45764 MARL, Germany +
+X.400: G=gerhard; S=lovis; O=huels-ag; +
+OU1=is; P=huels; A=dbp; C=de
+
+
+| Allemagne +
+_Germany_ +
+Alemania | POST | DE | | | | NO | NO | Herr Hautschek +
+Deutsche Post AG + 
+Generaldirektion +
+Abteilung 633, Hilpertstraße 31 +
+D-64295 DARMSTADT, Germany +
+X.400: G=markus; S=hautschek; +
+O=gd; A=postag; C=de
+
+
+| Allemagne +
+_Germany_ +
+Alemania | POST AG | DE | | | | NO | NO | Herr Hautschek +
+Deutsche Post AG +
+Generaldirektion +
+Abteilung 633, Hilpertstraße 31 +
+D-64295 DARMSTADT, Germany +
+X.400: G=markus; S=hautschek; + 
+O=gd; A=postag; C=de
+
+
+| Allemagne +
+_Germany_ +
+Alemania | RUBIS | DE | RUBIS-MAIL | RUBIS-MAIL | | S=helpdesk | S=autoanswer | Sterling Commerce GmbH +
+Uerdingen Street 90 +
+40474 DUSSELDORF, Germany +
+X.400 G=martin; S=russe; +
+ A=Carrefour; C=de
+
+|===
+
+
+[%unnumbered]
+|===
+
+^.^| País ^.^| Nombre DGAD ^.^| Código de país{blank}footnote:[Código de país: véase el anexo A a la Recomendación F.401. Se basa en ISO 3166, de la que se debe utilizar la edición más recientemente publicada (obtenible en los órganos nacionales de normalización).] 3+^.^| Nombre del servicio ^.^| HELPDESK ^.^| AUTOANSWER ^.^| Dirección de contacto
+| | | ^.^| MT ^.^| IPM ^.^| otro | | | 
+^.^| 1 ^.^| 2 ^.^| 3 ^.^| 4 ^.^| 5 ^.^| 6 ^.^| 7 ^.^| 8 ^.^| 9
+
+| Allemagne +
+_Germany_ +
+Alemania | SCN | DE | Siemens  +
+Messaging + 
+Service | | | S=helpdesk +
+A=scn +
+C=de | S=autoanswer +
+A=scn +
+C=de | Heinrich Thies, Siemens +
+Business Services GmbH & Co OHG +
+Otto-Hahn-Ring 6 +
+D-81730 MÜNCHEN, Germany +
+X.400: G=heinrich; S=thies; +
+O=siemens; OU1=mch1; OU2=p1; +
+P=scn; A=dbp; C=de 
+
+
+| Allemagne +
+_Germany_ +
+Alemania | SKO | DE | SKO-MAIL | SKO-MAIL | | S=helpdesk +
+A=sko + 
+C=de | S=autoanswer +
+A=sko + 
+C=de | Ulrike Pichler +
+VEBACOM Service GmbH +
+Universitätsstr. 140 +
+D-44799 BOCHUM, Germany +
+X.400: G=ulrike; S=pichler; O=vebacom; +
+A=lion; C=de
+
+
+| Allemagne +
+_Germany_ +
+Alemania | Telefax400 | DE | Telefax400 | | | NO | NO | Deutsche Telekom AG +
+FTZ Darmstadt +
+- T 22-6 - Dirk Meyer-Rahde +
+Postfach 10 00 03 +
+D-64276 DARMSTADT, Germany +
+X.400: G=dirk; S=meier-rahde; O=telekom; +
+OU1=ftz; A=telefax400; C=de
+
+
+| Allemagne +
+_Germany_ +
+Alemania | TT | DE | TT Universal +
+Messaging +
+MT | IPM | FAX +
+EDI | S=help desk +
+A=tt + 
+C=de | S=auto reply +
+A=tt + 
+C=de| Dr. Jürgen Mattfeldt + 
+X TEND Gesellschaft für + 
+Mehrwertdienste mbH I.G. +
+Hans-Günther-Sohl Str. 1 +
+D-40235 DÜSSELDORF, Germany
+
+| Allemagne +
+_Germany_ +
+Alemania | UMI-DE | DE | UMI400 | UMI400 | | S=helpdesk +
+A=umi-de +
+C=de | S=autoanswer +
+A=umi-de +
+C=de | Profile Software Engineering GmbH +
+Attn: Bernhard Roos +
+Schatzbogen 52 +
+D-81829 MÜnchen, Germany +
+X.400: G=bernhard; S=roos; +
+O=profile-software; +
+P=profile-software; A=umi-de; C=de
+
+| Allemagne +
+_Germany_ +
+Alemania | VIAT | DE | BusinessMail +
+MailGate +
+X.400 - MT | BusinessMail + 
+Mailbox + 
+X.400 - IPM | | S=helpdesk + 
+A=viat +
+C=de | S=autoanswer + 
+A=viat +
+C=de | Deutsche Telekom AG + 
+Produktmanagement + 
+BusinessMail X.400 + 
+Salzachstrasse 15 - 16 +
+D-68199 MANNHEIM, Germany +
+X.400: G=norbert; S=steuer; O=dtag; +
+A=viat; C=de
+
+
+| Allemagne +
+_Germany_ +
+Alemania | VIAT-AS2 | DE | BusinessMail +
+MailGate + 
+X.400 - MT | BusinessMail +
+Mailbox +
+X.400 - IPM | | S=helpdesk +
+A=viat +
+C=de | S=autoanswer +
+A=viat +
+C=de | Deutsche Telekom AG + 
+Produktmanagement + 
+BusinessMail X.400 +
+Salzachstrasse 15 - 16 +
+D-68199, MANNHEIM, Germany + 
+X.400: G=norbert; S=steuer; O=dtag
+
+|===
+
+
+[%unnumbered]
+|===
+
+^.^| País ^.^| Nombre DGAD ^.^| Código de país{blank}footnote:[Código de país: véase el anexo A a la Recomendación F.401. Se basa en ISO 3166, de la que se debe utilizar la edición más recientemente publicada (obtenible en los órganos nacionales de normalización).] 3+^.^| Nombre del servicio ^.^| HELPDESK ^.^| AUTOANSWER ^.^| Dirección de contacto
+| | | ^.^| MT ^.^| IPM ^.^| otro | | | 
+^.^| 1 ^.^| 2 ^.^| 3 ^.^| 4 ^.^| 5 ^.^| 6 ^.^| 7 ^.^| 8 ^.^| 9
+
+
+| Arabie saoudite +
+_Saudi Arabia_ +
+Arabia Saudita | SAUDI +
+TELECOM +
+(Saudi Telecom Int'l) | SA | | | | NO | NO | Ministry of Post, Telegraph and Telephone +
+Saudi Telecom Int'l +
+Saudi Telecom +
+P.O. Box 87912 +
+RIYADH 115539, Saudi Arabia
+
+
+| Arménie +
+_Armenia_  +
+Armenia | ARMMAIL | AM | ARMMAIL | | | G=help +
+S=desk +
+O=infocom +
+A=armmail +
+C=am | NO | "INFOCOM" JSC +
+22 Sarian Street +
+P.O. Box 375002 +
+YEREVAN, Armenia +
+X.400: G=system; S=administratior; +
+O=infocom; A=armmail; C=am
+
+
+| Australie +
+_Australia_ +
+Australia | EDX | AU | EDX | EDX | Directory +
+Service | G=peter +
+S=eyles +
+P=edx1 + 
+A=edx +
+C=au | G=autoreply +
+O=democentre + 
+P=edxqld +
+A=edx +
+C=au | EDX - Electronic Document Exchange + 
+Mr. Andrew Ferguson 
+Level 3, 63 Exhibition Street +
+VIC 3000 MELBOURNE, Australia +
+X.400: G=andrew; S=ferguson; O=edx; +
+P=edxmelb; A=edx; C=au
+
+
+| Australie +
+_Australia_ +
+Australia | OTC | AU | OTC +
+CONNECT 400 | OTC MAIL 400 | | S=helpdesk +
+O=operations +
+P=enhanced +
+A=otc +
+C=au | S=autoreply +
+O=operations +
+P=enhanced +
+A=otc +
+C=au | OTC Electronic Trading + 
+41 Mc Laren Street +
+North Sydney + 
+NSW 2060, Australia +
+X.400: G=russell; S=fitzpatrick; O=et; +
+P=easicom; A=otc; C=au
+
+
+
+| Australie +
+_Australia_ +
+Australia | SUNNET | AU | SUNNET | SUNNET | Directory +
+Service | G=peter +
+S=eyles + 
+P=edx1 + 
+A=sunnet +
+C=au | G=autoreply + 
+O=democentre + 
+P=edxqld +
+A=sunnet +
+C=au | EDX - Electronic Document Exchange + 
+Mr. Andrew Ferguson +
+Level 3, 63 Exhibition Street +
+VIC 3000 MELBOURNE, Australia +
+X.400: G=andrew; S=ferguson; O=edx; +
+P=edxmelb; A=edx; C=au
+
+
+
+| Australie +
+_Australia_ +
+Australia | TELEMEMO | AU | TELEMEMO | KEYLINK | (EDI) +
+TRADELINK | S=helpdesk +
+O=telememo + 
+A=telememo +
+C=au | S=autoanswer +
+O=telecom +
+P=telecom + 
+A=telememo + 
+C=au | Telecom Australia + 
+1/181 Victoria Parade +
+Collingwood + 
+Victoria 3066, Australia +
+X.400: G=peter; S=kelleher; O=telecom; + 
+A=telememo; C=au
+
+
+| Australie +
+_Australia_ +
+Australia | TEXTFILE +
+(for test purposes) | AU | TEXTFILE | TEXTFILE | | S=helpdesk +
+O=textfile +
+A=textfile +
+C=au | S=antoanswer +
+O=telecom +
+P=telecom +
+A=textfile +
+C=au  | Telecom Australia +
+1/181 Victoria Parade +
+Collingwood + 
+Victoria 3066, Australia +
+X.400: G=rodney; S=beale; O=telecom.hp; + 
+A=textfile; C=au
+
+
+| Autriche +
+_Austria_ +
+Austria | ADA | AT | ADA400 | TELEBOX | | S=helpdesk +
+A=ada + 
+C=at | S=autoanswer +
+A=ada + 
+C=at | DATAKOM AUSTRIA A.G. + 
+Wiedner Hauptstrasse 73 + 
+A-1042 Wien, Austria + 
+X.400: S=anders; O=rac; P=telebox;
+
+
+| Autriche +
+_Austria_ +
+Austria | DIG | AT | DIG400 | | | NO | NO | DIG digital-information-gateway GmbH +
+Karl-Wiser-Strasse 1 +
+4020 LINZ, Austria +
+E-mail: office@dig-gmbh.at
+
+
+| Autriche +
+_Austria_ +
+Austria | EUNET | AT | EUNET400 | EUnet400 | | S=helpdesk +
+A=eunet +
+C=at | S=autoanswer +
+A=eunet +
+C=at | EUNET EDV Dienstleistung GmbH +
+Thurngasse 8/16 +
+A-1090 Wien, Austria +
+X.400: S=info; O=eunet; P=co; +
+A=ada; C=at
+
+
+| Autriche +
+_Austria_ +
+Austria | GV | AT | CNF | | | S=helpdesk +
+A=gv +
+C=at | S=autoanswer +
+A=gv +
+C=at | DATAKOM AUSTRIA A.G. +
+Wiedner Hauptstrasse 73 +
+Postfach 60 +
+A-1042 WIEN, Austria +
+X.400: S=uher; P=kmp; +
+A=gv; C=at
+
+
+| Autriche +
+_Austria_ +
+Austria | IBMX400 | AT | | IBM Mail +
+Exchange | | G=rainer +
+S=muecke + 
+P=ibmmail + 
+A=ibmx400 +
+C=at | G=inform +
+S=inform +
+P=ibmmail +
+A=ibmx400 +
+C=gb | Mr. R. Springer + 
+IBM Austria + 
+Obere Donaustrasse 95 +
+A-1020 Wien, Austria +
+X.400: G=springer; S=springer; +
+P=ibmmail; A=ibmx400; C=at
+
+
+| Autriche +
+_Austria_ +
+Austria | ODE | AT | ODE400 | ODE400 | | S=helpdesk +
+A=ode +
+C= at | S=autoanswer +
+A=ode +
+C= at | CÖ Datenhighway +
+Entwicklungs GmbH +
+Hauptstraße 4 + 
+A-4040 LINZ, Austria +
+X.400: S=helpdesk; A=ode; C=at
+
+
+| Autriche +
+_Austria_ +
+Austria | UMI-AT | AT | UMI400 | UMI400 | | S=helpdesk +
+A=umi-at +
+C=at | S=autoanswer +
+A=umi-at + 
+C=at | PLUS COMMUNICATIONS + 
+HANDELSGESELLSCHAFT m.b.H. + 
+Sieveringer Strasse 124 +
+A-1190 WIEN, Austria +
+X.400: S=helpdesk; A=umi-at; C=at
+
+
+| Bélarus +
+_Belarus_ +
+Belarús | BELPAK | BY | BELPAK400 | | | S=helpdesk +
+O=rtte +
+A=belpak +
+C=by | S=autoanswer +
+O=rtte +
+A=belpak +
+C=by | 55 Zakharov Street + 
+220088 MINSK +
+Belarus + 
+X.400: S=test; O=test 1; A=belpak; C=by
+
+
+| Belgique +
+_Belgium_  +
+Bélgica | BELNET | BE | BELNET400 | | | S=helpdesk + 
+A=belnet +
+C=be | S=autoanswer + 
+a=belnet +
+c=be | U.L.B. +
+Service Télématique et Communication  +
+C.P. 230 Boulevard du Triomphe +
+B-1050 BRUXELLES, Belgique +
+X.400: S=postmaster; P=iihe; A=rtt; c=be; +
+or S=postmaster; A=belnet; C=be
+
+
+| Belgique +
+_Belgium_  +
+Bélgica | IBMX400 | BE | | IBM Mail +
+Exchange | | G=helpdesk +
+S=helpdesk +
+P=ibmmail +
+A=ibmx400 + 
+C=be | G=inform +
+S=inform +
+P=ibmmail +
+A=ibmx400 +
+C=gb | Mr. N. Vancoillie + 
+IBM Belgium - DIE67 + 
+JF Kennedylaan 2 + 
+B-1831 DIEGEM, Belgium +
+X.400: G=vancoin; S=vancoill; P=ibmmail; +
+A=ibmx400; C=be
+
+
+| Belgique +
+_Belgium_  +
+Bélgica | INFONET | BE | NOTICE 400 | | | YES | NO | INTERPAC BELGIUM +
+Avenue de Louise 350 b. -1-1 +
+B-1050 BRUXELLES, Belgique
+
+
+| Belgique +
+_Belgium_  +
+Bélgica | ISA | BE | | | | CN=helpdesk +
+P=isaserver +
+A=isa +
+C=be | CN=autoanswer +
+P=isaserver +
+A=isa +
+C=be | IsaServer N.V. +
+Koningsstraat 145 +
+B-1000 BRUSSELS, Belgium +
+X.400: CN=helpdesk; P=isaserver; +
+A=isa; C=be
+
+
+| Belgique +
+_Belgium_  +
+Bélgica | PUBLILINK | BE | | | | CN=publilink +
+helpdesk + 
+S=publilink +
+helpdesk + 
+A=publilink +
+C=be | NO | Crédit Communal SA +
+Boulevard Pacheco 44 +
+B-1000 Bruxelles, Belgique +
+X.400: CN=publilink helpdesk +
+S=publilink helpdesk +
+A=publilink; C=be
+
+
+| Belgique +
+_Belgium_  +
+Bélgica | RTT | BE | DCS.400 | DCS.MAIL | | YES | YES | RTT Belgium +
+Brussels, Belgique +
+X.400: G=roland; S=quairia; O=rtt; +
+A=rtt; C=be
+
+
+| Belgique +
+_Belgium_  +
+Bélgica | SEAGHA | BE | 1992/1988/ +
+1984 +
+DIGITAL +
+EQUIPMENT +
+MAILBUS 400 +
+ON DEC UNIX | 1988 | E-mail: | CN=helpdesk +
+A=seagha +
+C=be +
+helpdesk@seagha.com | NO | SEAGHA c.v. +
+Brouwersvliet 33/8 +
+B-2000 ANTWERPEN, Belgium +
+X.400: CN=info; +
+A=seagha; C=be +
+E-mail: info@seagha.com
+
+
+| Bermudes +
+_Bermuda_  +
+Bermudas | BERNET | BM | BERNET | BERNET | | YES | YES | The Bermuda Telephone Co., Ltd. +
+30 Victoria Street +
+HAMILTON HM DX, Bermuda +
+X.400: G=john; S=dill; O=n; A=bernet; C=bm 
+
+
+| Brésil +
+_Brazil_ +
+Brasil | EMBRATEL.INTL | BR | STM400 | STM400 | | S=helpdesk +
+O=stm400.intl +
+A=embratel.intl +
+C=br| S=autoanswer +
+O=stm400.intl + 
+A=embratel.intl +
+C=br | EMBRATEL +
+DNI-13 Consumers Services Office +
+Av. Marechal Floriano 99, 16° andar - Centro +
+RIO DE janeiro, R.J., Brasil +
+CEP: 20080-004 + 
+X.400: S=dni.13; O=embratel.s.a.; +
+A=embratel.intl; C=br
+
+
+| Brésil +
+_Brazil_ +
+Brasil | EMBRATEL | BR | STM400 | STM400 | | S=helpdesk +
+O=stm400.intl +
+A=embratel.intl +
+C=br | S=autoanswer +
+O=stm400.intl +
+A=embratel.intl +
+C=br | EMBRATEL + 
+DNI-13 Consumers Services Office +
+Av. Marechal Floriano 99, 16° andar - Centro + 
+RIO DE janeiro, R.J., Brasil +
+CEP: 20080-004 +
+X.400: S=dni.13; O=embratel.s.a.; +
+A=embratel.intl; C=br
+
+
+| Bulgarie +
+_Bulgaria_ +
+Bulgaria | BG400 | BG | Vmail | Vmail | | S=helpdesk +
+A=bg400 +
+C=bg | S=autoanswer +
+A=bg400 +
+C=bg | Attn: Mr. Plamen Chernokojev, Manager + 
+VITOSHA SOFTWARE AND COMMUNICATIONS Ltd. (VSC) +
+CICCT, Tzarigradsko Shosse 7 km, #706 +
+1113 SOFIA, Bulgaria + 
+X.400: G=plamen; S=chernokojev; O=vsc; +
+A=bg400; C=bg
+
+
+| Canada +
+_Canada_ + 
+Canadá| ATTMAIL | CA | ATT Mail | ATTMAIL | | S=cndahelp +
+A=attmail +
+C=ca  | G=canada +
+S=autoanswer +
+DDA.ID=cautoanswer + 
+A=attmail +
+C=ca| AT&T EasyLink Services - Canada +
+2005 Sheppard Ave. East + 
+Suite 215, Willowdale +
+ONTARIO M2J 5B4, Canada +
+X.400: G=customer; S=assistance; +
+DDA.ID=cndahelp; A=attmail; C=ca
+
+
+
+| Canada +
+_Canada_ + 
+Canadá | CDNNET | CA | CDNnet X.400  +
+Electronic Mail| | | YES | YES | CDNnet Headquarters +
+353-6356 Agricultural Road +
+University of British Columbia +
+Vancouver, BC, V6T 1Z2, Canada + 
+X.400: S=hq; A=cdnnet; C=ca
+
+
+| Canada +
+_Canada_ + 
+Canadá | CPCMHS | CA | | | OMNIPOST | YES | NO | Canada Post Corp. +
+Customer Support Center +
+141 Colonade Road +
+Nepean, Ontario K1A 0B1, Canada +
+X.400: S=assist; O=csc; A=cpcmhs; C=ca
+
+
+| Canada +
+_Canada_ + 
+Canadá | GLOBETEX | CA | | | | NO | NO | Teleglobe Canada Inc. +
+680 Sherbroke St. W. + 
+Montreal, Quebec, H3A 2S4, Canada
+
+
+
+| Canada +
+_Canada_ + 
+Canadá  | GOVMT.CANADA | CA | Government Message Handling Service (GMHS) | | | YES | NO | Mr. Victor Grebler + 
+Director, Network Interconnection Services + 
+Government Telecommunications and Informatics Services, Government of Canada +
+Floor 20, 365 Laurier Ave. West + 
+OTTAWA ONTARIO, K1A 0C8, Canada +
+X.400: G=victor; S=grebler; P=gc+gta.atg; +
+A=govmt.canada; C=ca
+
+
+| Canada +
+_Canada_ + 
+Canadá  | IBMX400 | CA | IBM +
+Mail Exchange | | | YES | NO | IBM Information Network +
+F5/340 +
+3600 Steeles Avenue East +
+MARKHAM, ONTARIO, L3R 9Z7, Canada +
+X.400: G=hiscoch; S=hiscock; P=ibmmail; +
+A=ibmx400; C=ca
+
+
+| Canada +
+_Canada_ + 
+Canadá | IMMEDIA | CA | INTER- +
+CONNEXIONS | INTER- +
+CONNEXIONS | | YES | YES | Georges Paquette + 
+1115, boul. Rene-Levesque O. +
+Suite 2250 + 
+MONTREAL, QUEBEC H3B 4T3, Canada
+
+
+| Canada +
+_Canada_ + 
+Canadá | INFONET | CA | NOTICE400 | NOTICE400 | | YES | YES | Infonet Canada +
+2005 Sheppard Ave. East +
+Suite 800 +
+Willowdale, Ontario, M2J 5B4, Canada
+
+
+| Canada +
+_Canada_ + 
+Canadá | MARK400 | CA | | QUIK-COMM +
+X.400 ACCESS | EDI*EXPRESS  +
+X.400 ACCESS | S=helpdesk +
+O=quikcomm +
+OU1=geis +
+A=mark400 +
+C=ca | S=autoanswer +
+O=quikcomm +
+OU1=geis +
+A=mark400  +
+C=ca | Attn: E. Litkowski + 
+GE Information Service +
+401 N. Washington Street + 
+Rockville, MD, 20850, United States + 
+X.400: G=elizabeth; S=litkowski; +
+O=quikcomm; +
+OU1=geis; A=mark400; C=ca
+
+
+
+| Canada +
+_Canada_ + 
+Canadá | TELECOM. +
+CANADA | CA | ENVOY 100 | ENVOY 100 | | YES | NO | Telecom Canada +
+160 Elgin Street, Floor 12 +
+Ottawa Ontario, K1G 3J4, Canada +
+X.400: G=gonnie; S=peebles; +
+A=telecom.canada; C=ca
+
+
+| Canada +
+_Canada_ + 
+Canadá | UNITEL | CA | UNITEL +
+X.400 MAIL | | | NO | NO | Unitel Communications Inc. +
+200 Wellington St. W. +
+Toronto, Ontario M5V 3C7, Canada +
+X.400: S=hq; A=unitel; C=ca 
+
+
+| Chili +
+_Chile_ +
+Chile | EDIBANK | CL | EDIBANK | EDIBANK | EDI SERVICES | S=helpdesk +
+O=helpdesk +
+A=edibank +
+C=cl| NO | Ricardo Grob + 
+Marketing & Business +
+Development Manager +
+EDIBANK S.A. +
+Huerfanos 770 Piso 18 + 
+SANTIAGO DE CHILE, Chile +
+X.400: G=ricardo; S=grob; + 
+P=edibank; A=edibank; C=cl
+
+
+| Chili +
+_Chile_ +
+Chile | ENTELDATA | CL | MAILNET | MAILNET | | | | ENTEL SERVICIOS DE DATOS S.A. +
+Av. Holanda N.° 64 piso 5 + 
+SANTIAGO DE CHILE, Chile +
+X.400: S=m400; O=edatal; + 
+A=enteldata; C=cl
+
+
+| Chine +
+_China_ +
+China | CHINAMAIL | CN | | | | | | Directorate General of Telecommunications +
+Ministry of Posts and Telecommunications +
+13 West Chang An Ave. + 
+BEIJING 100804, China + 
+X.400: G=inter; S=ptt; O=mpt; +
+A=chinamail, C=cn
+
+
+| Chypre +
+_Cyprus_ + 
+Chipre | CYTA400 | CY | | | | NO | NO | Manager Commercial Services +
+Cyprus Telecommunications Authority +
+P.O. Box 4929 +
+1396 NICOSIA, Cyprus +
+X.400: S=makris; P=lu; A=cyta400; C=cy
+
+
+| Corée (Rép. de) +
+_Korea (Rep. of)_ +
+Corea (Rep. de) | DACOMMHS | KR | MagicLink +
+X.411 (1988) +
+Boxing +
+Routing | Mail (X.420) +
+Fax, Telex +
+EDI (X.435) | CC-Mail +
+MS-Mail +
+Internet-Mail (SMTP) | YES | YES | Business Administration Team +
+Electronic Commerce Business Division + 
+DACOM CORPORATION +
+65-228 3-Ga, Hangang-Ro, Yongsan-Gu + 
+SEOUL, Korea (Rep. of) +
+X.400: S=helpdesk; A=dacommhs; C=kr
+
+
+| Corée (Rép. de) +
+_Korea (Rep. of)_ +
+Corea (Rep. de) | KLNET 400 | KR | Logistics EDI + 
+Services +
+X.411 (1988) + 
+- Messaging +
+- Routing | EDI +
+X.420 +
+X.435 | Internet-Mail +
+Internet-Fax | YES | S=autoreply +
+O=kln edi + 
+P=klnet edi +
+A=klnet 400 +
+C=kr | Korea Logistics Network Corp. +
+8F Kunwoo B/D 680-1 +
+Yeoksam-Dong Kangnam-Gu +
+SEOUL, Korea (Rep. of) +
+X.400: S=helpdesk; O=kln edi; P=klnet edi; +
+A=klnet 400; C=kr
+
+
+| Corée (Rép. de) +
+_Korea (Rep. of)_ +
+Corea (Rep. de) | KT | KR | KT-Mail | KT-Mail | | S=helpdesk + 
+O=ktmhs +
+A=kt +
+C=kr | S=autoanswer +
+O=ktmhs +
+A=kt +
+C=kr | Korea Telecom +
+International Telecommunications + 
+Business Group, + 
+100 Sejongno, Chongno-Gu + 
+SEOUL 110-777, Korea (Rep. of) +
+X400: S=ksfa000; A=kt; C=kr
+
+
+| Corée (Rép. de) +
+_Korea (Rep. of)_ +
+Corea (Rep. de) | KTNET | KR | Korea Trade +
+Network + 
+Services | KTNET EDI +
+Service | MAIL/FAX +
+Service +
+X.400 Gateway +
+Service | S=helpdesk +
+A=ktnet +
+C=kr | S=autoanswer +
+A=ktnet +
+C=kr | Mr. Ahn Sei-Ki +
+Korea Trade Network +
+Rm. 408, Korea World Trade Center + 
+159-1, Samsung-dong, Kangnam-ku +
+135-651, Trade Center, P.O. Box 177 +
+SEOUL, Korea (Rep. of) + 
+X.400: G=seiki; S=ahn; A=ktnet; C=kr +
+E-mail: skahn@ktnet.co.kr
+
+
+| Costa Rica +
+_Costa Rica_ +
+Costa Rica | RACSAMAIL | CR | CCITT (84) | CCITT (84) | | G=help +
+S=desk +
+O=racsa +
+A=racsamail +
+C=cr | NO | Radiográfica Costarricense S.A. +
+(RACSA) +
+Apartado Postal 54 +
+1000 SAN JOSE +
+Costa Rica
+
+
+| Croatie +
+_Croatia_ +
+Croacia | CRO400 | HR | CRO400 | CRO400 | | S=helpdesk +
+O=public-h +
+A=cro400 +
+C=hr | S=autoanswer +
+O=public-h +
+A=cro400 +
+C=hr | Ms. Maja Valdevit +
+HT - Croatian Telecom +
+Non-voice Services Divisin +
+Draskoviceva 26 +
+HR-10000 ZAGREB, Croatia +
+X.400: G=maja; S=valdevit; O=public-h; +
+A=cro400; C=hr + 
+E-mail: maja.valdevit@tel.hr +
+maja.valdevit@ht.hr
+
+
+| Danemark +
+_Denmark_ +
+Dinamarca | DATAPOST | DK | | | | S=helpdesk +
+A=dk400 +
+C=dk | S=helpdesk +
+A=dk400 +
+C=dk | Tele Danmark Erhverv + 
+Attn: Hans Christian Beck-Jensen +
+Fabrikvej 11 +
+DK-8260 VIBY J, Denmark +
+X.400: G=hans christian; S=beck-jensen; +
+P=datacom; A=dk400; C=dk
+
+
+| Danemark +
+_Denmark_ +
+Dinamarca | DK400 | DK | DATAPOST 400 | DATAPOST 400 | DATAPOST 400 | S=helpdesk +
+A=dk400 +
+C=dk | NO | MACH ApS +
+Blokken 9 +
+DK-3460 BIRKERØD, Denmark +
+X.400: S=helpdesk; A=dk400; C=dk;
+
+
+| Danemark +
+_Denmark_ +
+Dinamarca | TELDK | DK | DATAPOST400 | DATAPOST400 | DATAPOST400 | S=denmark helpdesk + 
+A=teldk + 
+C=dk | NO | Tele Danmark Datacom A/S +
+Fabrikvej 11 +
+DK-8260 VIBY J., Denmark +
+X.400: G=jesper bak; S=olesen; P=datacom; +
+A=dk400; C=dk
+
+
+| Emirats arabes unis +
+_United Arab Emirates_ +
+Emiratos Arabes Unidos | EMNET | AE | EMNET | EMNET | | UN=helpdesk +
+O=etisalat +
+A=emnet +
+C=ae | NO | ETISALAT +
+P. O. Box 3838 +
+Operations Department +
+United Arab Emirates +
+X.400: UN=ops.ho; O=etisalat; + 
+A=emnet; C=ae
+
+
+
+| Espagne +
+_Spain_ +
+España | CWMAIL | ES | Multimessage | -Multimessage +
+-cc: Mail-2- +
+Multimessage | -Servicios +
+Telemáticos +
+-Pasarela +
+cc:Mail +
+-Message + 
+Store +
+-Pasarela +
+Internet | S=administrator + 
+O=tech support +
+P=mcl mail +
+A=cwmail +
+C=gb | P=autoreply +
+A=cwmail +
+C=gb | Cable and Wireless, S.A. +
+Ramirez de Arellano, 29 +
+E-28043 MADRID + 
+España + 
+X.400: G=administrator; S=cwspain; P=cw; +
+A=cwmail; C=es
+
+
+| Espagne +
+_Spain_ +
+España | IBMX400 | ES | IBM Global +
+Network X.400 | IBM Mail +
+Exchange | | G=garciaj +
+S=garcia +
+P=ibmmail +
+A=ibmx400 +
+C=es | G=inform  +
+S=inform +
+P=ibmmail +
+A=ibmx400 +
+C=gb | Juan Reyero Montes + 
+IBM Global Network + 
+Ctra. Barcelona km. 18,400 +
+San Fernando de Henares + 
+E-28850 MADRID, España + 
+X.400: G=reyero; S=reyero; P=ibmmail; + 
+A=ibmx400; C=es
+
+
+| Espagne +
+_Spain_ +
+España  | MENSATEX | ES | MENSATEX.400 | MENSATEX.400 | | S=helpdesk +
+A=mensatex + 
+C=es | S=autoanswer +
+A=mensatex + 
+C=es | TELEFÓNICA SERVICIOS AVANZADOS DE INFORMACIÓN (TSAI) +
+Julián Camarillo, 6 +
+E-28037 MADRID, España +
+X.400: S=helpdesk; A=mensatex; C=es
+
+
+| Estonie +
+_Estonia_  +
+Estonia | GOVX400 | EE | | | | NO | NO | Government Department of Telecommunications +
+Ädala 4D +
+EE-0006 TALLINN, Estonia
+
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos | ARAMARK | US | | | | NO | NO | William Frith +
+Network Support Specialist +
+ARA Services +
+The ARA Tower +
+1101 Market Street +
+PHILADELPHIA, PA 19107, United States
+
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos | ARINC | US | | | | | | Leonard H Goldman +
+Manager, Applications Engineering +
+ARINC Inc. +
+2551 Riva Road +
+ANNAPOLIS, MD 21401 7465, United States
+
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos | ATTMAIL | US | | | | | | Dennis Thovson +
+Division Manager AT&T +
+Standards & Regulatory Support +
+900 Route 202-206N, Room 5A256 +
+BEDMINSTER, NJ 07921, United States + 
+X.400: G=dennis; S=thovson; +
+DDA.ID=dthovson; A=attmail; C=us +
+
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos  | BT | US | | | BT Messaging +
+Services | YES | NO | Joline Chew +
+Sr. Product Manager +
+BT North America +
+2560 North First Street, M/S F20 +
+SAN JOSE, CA 95161, United States +
+X400: G=joline chew; O=btna; +
+P=btna-ixgw; A=bt (or) dialcom; C=us
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos | CAMTRONICS +
+LTD.  | US | | | | NO | NO | Gary J Kokta +
+Director, Corp. Quality Systems +
+Camtronics, Ltd. Medical Syste +
+900 Walnut Ridge Drive +
+P.O. Box 950 +
+HARTLAND, WI 53029, United States
+
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos | DHL | US | | | | | | Paul S. Rarey + 
+Manager Opern Systems Research +
+DHL Systems Inc. +
+1700 S. Amphlett Blvd. +
+SAN MATEO, CA 94402, United States +
+X.400: G=paul.rarey; O=systems; P=dhl; +
+A=mark400; C=us
+
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos | DIGSIGTRUST | US | | | | | | Clay Epstein +
+Chief Technology Officer +
+Digital Signature Trust Co. +
+One South Main Street +
+SALT LAKE CITY, UT 84111, United States +
+E Mail: clay.epstein@digsigtrust.com
+
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos | DMS | US | | | | | | Stacey Higgins +
+DMS Registration Authority + 
+Defense Info. Systems Agency +
+5111 Leesburg Pike +
+Skyline 5, Suite 9145 +
+FALLS CHURCH, VA 22041 3205 +
+United States +
+E Mail: higgins@cc.ims.disa.mil
+
+
+|  Etats-Unis +
+_United States_ +
+Estados Unidos | GMS | US | | | BT Messaging +
+Services | YES | NO | Joline Chew +
+Senior Product Manager +
+Estados Unidos  +
+BT North America +
+2560 North First Street, M/S C27 +
+SAN JOSE, CA 95161-9019, United States +
+X.400: G=joline chew; O=btna; P=btna-ixgw; +
+A=bt (or) dialcom; C=us
+
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos | GRAPHNET | US | GEM400 | | | S=helpdesk +
+A=graphnet + 
+C=us | S=autoanswer +
+A=graphnet + 
+C=us | Anna Szechter + 
+Senior Analyst +
+GRAPHNET Inc. +
+329 Alfred Avenue +
+TEANECK, NJ 07666, United States +
+X.400: G=anna; S=szechter; A=graphnet; +
+C=us
+
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos | GRIDNET | US | | | | YES | YES | Frank Gruber +
+VIP Network Dev. +
+Estados Unidos  +
+Gridnet International LLC +
+1000 Holcomb Woods Parkway +
+Suite 342 +
+ROSWELL, GA 30076, United States
+
+
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos | IBMX400 | US | | IBM Mail +
+Exchange | | G=ibmimx +
+S=ibmimx +
+P=ibmmail +
+A=ibmx400 +
+C=us | G=inform +
+S=inform +
+P=ibmmail +
+A=ibmx400 +
+C=gb | Barbara Bender +
+Advantis +
+3101 W MLKing Blvd., +
+TAMPA FL 33607, United States + 
+X.400: G=barbara; + 
+S=bender; P=ibmmail; +
+A=ibmx400; C=us
+
+
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos | INFONET | US | NOTICE 400 | Notice +
+Desktop +
+(NDT); +
+Notice PC + 
+(NPC-II); +
+Notice Mac | | S=autoanswer +
+A=infonet +
+C=us | S=autoanswer +
+A=infonet +
+C=us | Lindy L. Murrell +
+Director, Electronic Messaging + 
+Infonet Services Corporation + 
+2100 E. Grand Avenue, Box 1022 +
+EL SEGUNDO, CA 90245-1022, United States +
+X.400: S=murrell; O=infonet; P=notice; +
+A=infonet; C=us
+
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos | MCI | US | MCI XChange +
+400 | MCI Mail | MCI EDI*NET | S=helpdesk +
+A=mci + 
+C=us +
+DDA:ID=4142090| S=autoanswer +
+A=mci + 
+C=us +
+DDA:ID=4509994| International Messaging and Data Marketing + 
+Attn: Mr. Ben Heckscher +
+MCI Business Markets +
+MCI Telecommunications Corporation +
+RYE BROOK NY 10573, United States +
+X.400: G=ben; S=heckscher; A=mci; C=us +
+E-mail: 3094996@mcimail.com
+
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos | MCIWCOM | US | | | | | | Bryan Miller +
+X.400 Development Manager +
+MCI WorldCom +
+2424 Garden of the Gods Road +
+COLORADO SPRINGS CO 80919 +
+United States +
+E-Mail: bryan.miller@mci.com
+
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos | MILES | US | | | | | | Micheal James Kindt +
+System Manager, MILES Inc. +
+1127 Myrtle Street +
+ELKHART, IN 46514, United States
+
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos | ORBCOMM | US | | | | | | Matthew Miller +
+Engineer +
+Orbital Communications Corp. +
+21700 Atlantic Boulevard, 3rd Floor +
+DULLES, VA 20166, United States
+
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos | PSNET | US | | | | | | Gabriel Long +
+Associate +
+Perot Systems +
+1780 Jay Ell Drive +
+RICHARDSON, TX 75081, United States +
+E-Mail: Gabriel.Long@ps.net
+
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos | SCSI | US | | | | | | Gina Garner +
+Telecommunications Analyst +
+Southern Communications Services, Inc. +
+64 Perimeter Center East Bin 112 +
+ATLANTA, GA 30346, United States +
+X.400: G=william; I=a; S=early; O=scs; +
+P=southern; A=attmail; C=us
+
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos | SITAMAIL | US | | | | | | Jody D. Newman +
+Senior Legal Advisor +
+Société Internationale de Télécommunications Aéronautiques (S.I.T.A.) +
+770 Sherbrooke Street West +
+MONTREAL, Quebec, Canada
+
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos | SOUTHERN | US | | | | | | Gina Garner +
+Network Planning +
+The Southern Company +
+64 Perimeter Center East +
+Bin 112 +
+ATLANTA, GA 30346, United States
+
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos | SSI1 | US | | | | NO | NO | James M. Palmer +
+MIS Operations Manager +
+Silicon Systems Incorporated +
+14351 Myford Road +
+TUSTIN, CA 92680-7022, United States
+
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos | STERLING | US | | | | | | Robert O'Malley +
+Director, Product Marketing +
+Estados Unidos  +
+Sterling Software +
+4600 Lakehurst Ct. +
+DUBLIN, OH 43017-0760, United States +
+X.400: S=romalley; O=ecgroup; +
+P=sterling; A=sterling; C=us
+
+
+| Etats-Unis +
+_United States_ +
+Estados Unidos | UKANS | US | | | | | | Dave Nordlund +
+Associate Director, University of Kansas +
+Computer Center +
+LAWRENCE, KS 66045, United States +
+X.400: G=nordlund; A=ukans; C=us
+
+
+| Fédération de Russie +
+_Russia Federation_ +
+Federación de Rusia | INFOMAIL | RU | INFOMAIL | INFOMAIL | Fax gateway +
+Telex gateway | YES | YES | 19, Presnenski Val + 
+123557 MOSCOW, Russia Federation +
+X.400: S=admin; O=infotel; P=moscow; +
+A=infomail; C=ru
+
+
+| Fédération de Russie +
+_Russia Federation_ +
+Federación de Rusia | PEPI400 | RU | TRANSMAIL | | | YES | YES | Centre of EDI/EDIFACT PEPI Association +
+Leningradskoe shosse, 53a, +
+125195 MOSCOW, Russia Federation +
+X.400: S=root; O=pepi; P=pepi; +
+A=pepi400; C=ru
+
+
+| Fédération de Russie +
+_Russia Federation_ +
+Federación de Rusia | PTTNET | RU | | | | YES | YES | 33 B, Narodnogo +
+Opolchenlya Str. +
+123585 MOSCOW, Russia Federation +
+X.400: S=netmst; O=teleport; OU=sysadm; +
+A=pttnet, C=ru
+
+
+| Fédération de Russie +
+_Russia Federation_ +
+Federación de Rusia | REX400 | RU | Rex-mail | | | S=helpdesk +
+P=ncade +
+A=rex400 +
+C=ru | S=autoanswer 
+P=ncade +
+A=rex400 +
+C=ru | Sergey Marchenko + 
+Institute for Automated Systems + 
+7a, Dm.Ulianova Street + 
+117036 MOSCOW, Russia Federation +
+X.400: S=marchenko; P=ncade; +
+A=rex400; C=ru
+
+
+| Fédération de Russie +
+_Russia Federation_ +
+Federación de Rusia | REXMAIL | RU | | | | YES | YES | Closed joint stock company firm «CLUB-400» +
+2a, Brusov per +
+103009 MOSCOW, Russia Federation +
+X.400: S=administrator; A=rexmail; C=ru
+
+
+| Fédération de Russie +
+_Russia Federation_ +
+Federación de Rusia | ROSMAIL | RU | ROSNET X.400 | | | S=helpdesk +
+A=rosmail +
+C=ru | S=autoanswer +
+A=rosmail +
+C=ru | Alexander Lukianchikov + 
+Russian Networks Data Communication Company +
+2/15, Maroseika Street +
+101000 MOSCOW, Russia Federation +
+X.400: G=alexander; S=lukianchikov; P=rts; +
+A=rosmail; C=ru
+
+
+| Fédération de Russie +
+_Russia Federation_ +
+Federación de Rusia | ROSPAC | RU | | | | YES | YES | 2A, Brjusov pereulok +
+103009 MOSCOW, Russia Federation +
+X.400: S=administrator; O=rospac; +
+P=msk; A=rospac; C=ru
+
+
+| Fédération de Russie +
+_Russia Federation_ +
+Federación de Rusia | ROSTELEMAIL | RU | | | | YES | YES | Closed end joint-stock company "Rostelegraph" +
+7, Tverskaya str., +
+103375 MOSCOW, Russia Federation +
+X.400: G=admin; A=rostelemail; C=ru
+
+
+| Fédération de Russie +
+_Russia Federation_ +
+Federación de Rusia  | SOVMAIL | RU | SOVMAIL | | FAX +
+TELEX +
+INTERNET | S=helpdesk +
+O=snussr + 
+A=sovmail +
+C=ru | NO | ROSPRINT +
+Mr. Victor Ratnikov + 
+Tverskaya Ulitsa #7 + 
+103375 MOSCOW, Russia Federation +
+X.400: G=victor; S=ratnikov; O=snussr; +
+A=sovmail; C=ru
+
+
+| Fédération de Russie +
+_Russia Federation_ +
+Federación de Rusia | TELESERVICE | RU | | | | YES | YES | Joint-stock open end "Central Telegraph" +
+7, Tverskaya str., +
+103375 MOSCOW, Russia Federation +
+X.400: G=admin; A=teleservice; C=ru
+
+
+| Fédération de Russie | TRANSINFORM | RU | NET400 + 
+Transinform | NET400 +
+Transinform | | NO | NO | Closed joint stock company with foreign participation "Transinform" +
+2/1, Kalanchovskaya st., +
+107174 MOSCOW, Russia Federation +
+X.400: G=alex; S=klochkov; P=node1; +
+A=transinform; C=ru
+
+
+| Finlande +
+_Finland_ +
+Finlandia | ELISA | FI | ELISA | ELISA | | S=helpdesk +
+A=elisa +
+C=fi +
+Tf: +358 9 606 5644 +
+Fax: +358 9 606 3322 | S=autoanswer | Helsinki Telephone Corporation Ltd. +
+Production Manager  +
+Sauli Tasanko + 
+P.O.Box 133 +
+FIN-00521 HELSINKI, Finland +
+X.400: G=sauli; S=tasanko; O=hpy; P=finnet; +
+A=elisa; C=fi
+
+
+| Finlande +
+_Finland_ +
+Finlandia | EPOSTNET | FI | EPOSTNET | EPOSTNET | EPOSTNET | S=helpdesk +
+A=epostnet +
+C=fi | S=autoanswer +
+A=epostnet +
+C=fi| Finland Post Ltd. +
+Letter Mail and Tramsport Services +
+Electronic Messaging +
+Pekka Burman +
+P. O. BOX 6 +
+FIN-00011 POSTI, Finland
+
+
+| Finlande +
+_Finland_ +
+Finlandia  | IBMX400 | FI | IBMX400 | IBMMAIL | | G=ibmhd +
+S=ibm +
+A=ibmx400 +
+P=ibmmail +
+C=fi | NO | (IBM VERKKOPALVELUT) + 
+IBM GLOBAL NETWORK +
+P. O. Box 265 +
+FIN-00101 HELSINKI, Finland +
+X.400: G=jorma; S=piispa; P=ibmmail; +
+A=ibmx400; C=fi;
+
+
+| Finlande +
+_Finland_ +
+Finlandia  | MAILNET | FI | MAILNET | MAILOFFICE | | YES | YES | Mr Olli-Pekka Halme +
+Product Manager +
+TeliaSonera Finland Oyj. +
+Products and Services +
+P.O. Box 777 +
+FIN-33101 TAMPERE, Finland +
+X.400: G=olli-pekka; S=halme; O=sonera; +
+A=mailnet; C=fi
+
+
+| Finlande +
+_Finland_ +
+Finlandia | MARK400 | FI | MARK400 | MARK400 +
+GEIS QuikComm +
+X.400 access | GEIS EDI +
+Express +
+X.400 access | YES | YES | Attn: Jöns Aschan +
+GE information Services Ab, +
+Sivuliike Suomessa +
+Keskuskatu 4, 3 krs +
+FIN-00100 HELSINKI, Finland +
+X.400: G=jons; S=aschan; O=quikcomm; +
+OU1=geis; A=mark400; C=fi +
+E-mail: jons.aschan@geis.ge.com
+
+
+| Finlande +
+_Finland_ +
+Finlandia | MASTER400 | FI | MASTER400 | MASTERMAIL +
+(P7) | | S=helpdesk +
+A=master400 + 
+C=it | S=autoanswer +
+A=master400 + 
+C=it | Madia Saponaro +
+SARITEL S.p.A. + 
+S.S. 148 Pontina Km. 29,100 +
+00040 POMEZIA (ROMA), Italy +
+X.400: G=madia; S=saponaro; O=saritel; +
+A=master400; C=it +
+E-mail: saponaro@saritel.it
+
+
+
+| France +
+_France_ +
+Francia  | ATLAS | FR | | ATLAS400 | | S=svpatlas +
+O=transpac +
+A=atlas +
+C=fr | NO | TRANSPAC +
+Dir. Marketing + 
+Hervé Chevallier +
+Tour Maine Montparnasse +
+F-75755 PARIS Cedex 15, France +
+X.400: S=atlasintl; O=transpac; A=atlas; C=fr
+
+
+| France +
+_France_ +
+Francia | MASTER400 | FR | MASTER400 | MASTERMAIL +
+(P7) | | S=helpdesk +
+A=master400 +
+C=it | S=autoanswer +
+A=master400 +
+C=it | Madia Saponaro + 
+SARITEL S.p.A. + 
+S.S. 148 Pontina Km. 29,100 +
+00040 POMEZIA (ROMA), Italy +
+X.400: G=madia; S=saponaro; O=saritel; +
+A=master400; C=it +
+E-mail: saponaro@saritel.it
+
+
+| Grèce +
+_Greece_ +
+Grecia | ERMIS400 | GR | | | | | | Mrs Irene Voulodimou +
+OTE S.A. +
+The Hellenic Telecommunications Organization +
+Telematics Department +
+Software Division, Room 11C7 +
+99, Kifissias Avenue +
+GR-15181 MAROUSSI, Greece
+
+
+| Grèce +
+_Greece_ +
+Grecia | FORTHNET +
+X400 | GR | FORTHNET +
+MAIL | FORTHNET | | YES | YES | Mr. Manolis Stratakis +
+Hellenic Telecommuncations & Telematics +
+Application Company +
+FORTHnet S.A. STEP-C +
+Vassilika Vouton +
+PO Box 2219 +
+GR-71003 HERAKLIO CRETE, Greece
+
+
+| Grèce +
+_Greece_ +
+Grecia | NOTICE | GR | NOTICE | NOTICE 400 | | YES | NO | Mrs M. Kanavou +
+OTE S.A. +
+Telematics Department +
+Commercial Division, 99, Avenue Kifissias +
+GR-15124 MAROUSSI, Greece +
+X.400: S=ote; O=infonet; +
+P=notice; A=infonet; C=us
+
+| Hongkong, Chine +
+_Hongkong, China_ + 
+Hongkong, China | CETS | HK | | | | NO | NO | Tradelink Electronic +
+Document Services Limited +
+13/F NatWest Tower, Times Square +
+1 Matheson Street +
+Causeway Bay, Hongkong, China
+
+
+| Hongkong, Chine +
+_Hongkong, China_ + 
+Hongkong, China | HKTMAIL | HK | MultiMessage +
+Plus | MultiMessage +
+Plus | | G=support +
+S=desk  +
+O=hkt-bcs + 
+P=mmshk +
+A=hktmail +
+C=hk | NO | Cable & Wireless HKT CSL LTD. +
+P O Box 9896 GPO +
+X.400: G=support; S=desk; O=hkt-bcs; +
+P=mmshk; A=hktmail; C=hk
+ 
+
+| Hongrie +
+_Hungary_  +
+Hungría | HTC400 | HU | MATAV400 | | | S=helpdesk +
+A=htc400 +
+C=hu | S=autoanswer +
+A=htc400 +
+C=hu | Ms. Zsuzsa Molnár +
+MATÁV, Hungarian Telecom Co. Ltd. +
+Partner Providers Business Unit +
+International Partner Providers Department +
+H - 1550 BUDAPEST, P.O. Bpx 110, Hungary +
+X.400: G=zsuzsa; S=molnar; O=matav; +
+A=htc400; C=hu +
+G=edit; S=simon; O=matav; +
+A=htc400; C=hu
+
+
+| Inde +
+_India_ +
+India | VSNB | IN | GATEWAY +
+ELECTRONIC +
+MAIL SERVICE  | GEMS 400 | | NO | YES | Videsh Sanchar Nigam Limited +
+General Manager R&D +
+M.C. Road Fort +
+MUMBAI – 400001, India +
+X.400: G=amitabh; S=kumar; A=vsnb; C=in
+
+
+| Iran (République islamique d') +
+_Iran (Islamic Republic of)_ +
+Irán (República Islámica del) | IRAN400 | IR | | | | | | 665 Shahed
+Building - Shiraz Ave. +
+Mollasadra St. +
+ZIP Code:14358 +
+TEHRAN +
+Iran (Islamic Rep. of)
+
+
+| Irlande +
+_Ireland_  +
+Irlanda | CCS400 | IE | EDITS | | | YES | NO | Jill Pitcher +
+Cargo Community Systems Limited +
+2, St. John's Court, Santry +
+DUBLIN 9. Ireland +
+X.400: G=jill; S=pitcher; +
+A=ccs400; C=ie
+
+
+| Irlande +
+_Ireland_  +
+Irlanda | IBMX400 | IE | IBM Mail Exchange | IBM Mail Exchange | | YES | YES | IBM Ireland Limited +
+2 Burlington Road +
+DUBLIN 4, Ireland +
+X.400: G= ryan j; S=ryan; +
+O=ibm; A=ibm mail exchange; C=ie
+
+
+| Islande +
+_Iceland_  +
+Islandia | ISHOLF | IS | GAGNAHOLF | GAGNAHOLF | | S=helpdesk +
+A=isholf +
+C=is | S=autoanswer +
+A=isholf +
+C=is | Mrs. Sigridur Jonsdottir + 
+Iceland Telecom Ltd. +
+IS - 150 REYKJAVIK, Iceland +
+X.400: G=sigridur; S=jonsdottir; P=ps; +
+A=isholf; C=is
+
+
+| Italie +
+_Italy_ +
+Italia | IBMX400 | IT | | IBM Mail Exchange | | G=3bnssl +
+S=helpdesk +
+P=ibmmail +
+A=ibmx400 +
+C=gb | G=inform +
+S=inform + 
+P=ibmmail +
+A=ibmx400 +
+C=gb | Mr. Bazzani Claudio +
+INTESA + 
+Via Servais, 125 + 
+I-10146 TORINO, Italy
+
+
+| Italie +
+_Italy_ +
+Italia | MASTER400 | IT | MASTER400 | MASTERMAIL +
+(P7) | | G=helpdesk +
+A=master400 +
+C=it | S=autoanswer +
+A=master400 +
+C=it| Madia Saponaro - SARITEL +
+SARITEL S.p.A. + 
+S.S. 148 Pontina Km. 29,100 +
+00040 POMEZIA (ROMA), Italy +
+X.400: G=madia; S=saponaro; O=saritel; +
+A=master400; C=it +
+E-mail: saponaro@saritel.it
+
+
+| Italie +
+_Italy_ +
+Italia | OMEGA400 | IT | OMEGA400 | OMEGA400 | | S=omegahelp +
+A=omega400 +
+C=it | NO | Italcable +
+v. Campo Boario 56/D +
+I-00157 ROMA, Italy +
+X.400: S=mugnaini; A=omega400; C=it
+
+
+| Italie +
+_Italy_ +
+Italia | PTPOSTEL | IT | Pt Postel | Pt Postel | | YES | YES | Ministero P. T. - DCSP +
+Viale Europa 175 +
+I-00100 ROMA Italy +
+X.400: S=reina; A=ptpostel; C=it
+
+
+| Japon +
+_Japan_ +
+Japón  | ACE400 | JP | Ace Telemail + 
+Domestic Mail  +
+Exchange | | | NO | NO | Shuwa Kanda Sarugaku-cho Bldg. 2-6-10
+Sarugaku-cho, Chiyoda-ku, +
+TOKYO 101, Japan +
+X.400: G=mitsuru; S=nishihori; O=aceti; +
+A=ace400; C=jp
+
+| Japon +
+_Japan_ +
+Japón | ATI | JP | Ace Telemail | Ace Telemail | | S=helpdesk +
+A=ati +
+C=jp | S=autoanswer +
+A=ati +
+C=jp | Shuwa Kanda Sarugaku-cho Bldg. 2-6-10 +
+Sarugaku-cho, Chiyoda-ku, +
+TOKYO 101,Japan +
+X.400: G=mitsuru; S=nishihori; +
+O=aceti; A=ati; C=jp
+
+
+| Japon +
+_Japan_ +
+Japón | ATI400 | JP | Ace Telemail +
+International +
+Mail Exchange | | | NO | NO | Shuwa Kanda Sarugaku-cho Bldg. 2-6-10 +
+Sarugaku-cho, Chiyoda-ku, +
+TOKYO 101, Japan +
+X.400: G=mitsuru; S=nishihori; O=aceti; +
+A=ati400; C=jp
+
+
+| Japon +
+_Japan_ +
+Japón | ATTMAIL | JP | AT&T +
+Gateway400 +
+Service | AT&T +
+Mail Service | AT&T +
+EDI Service | G=attmail +
+S=jensx400 +
+O=at&t +
+A=attmail +
+C=jp | G=attmail +
+S=jpautoanswer +
+O=at&t +
+A=attmail +
+C=jp | AT&T, Jens Corporation +
+Communications H.Q. + 
+Technology Development Dept. +
+No. 25 Mori Building +
+1-4-30, Roppongi, Minato-ku +
+TOKYO, 106, Japan +
+X.400: G=kohei; S=shinomoto; +
+DD.ID=kshinomoto; A=attmail; C=us
+
+
+| Japon +
+_Japan_ +
+Japón | BROOT | JP | b-root | b-root | | NO | NO | NTT Communication Ware Corp +
+SHINAGAWA INTERCITY A-27F +
+2-15-1 Kounan Minato-ku +
+TOKYO 108-6025, Japan
+
+
+| Japon +
+_Japan_ +
+Japón | CANDCVAN | JP | ALADDIN +
+Internet Mail +
+NEC Internet +
+Mail | | | YES | NO | NEC Corporation + 
+Information Service Engineering Division +
+Manager Noboru Shimizu +
+5-7-1 Shiba Minatoku + 
+TOKYO, Japan
+
+
+| Japon +
+_Japan_ +
+Japón | FDS | JP | FDS NET | | | NO | NO | TECHNO-WAVE BLDG. +
+1-1-25 Shin Urashima-cho, +
+Kanagawa-ku +
+Yokohama-shi +
+KANAGAWA 221, Japan +
+X.400: S=fdsnet; O=intec; A=ati; C=jp
+
+
+| Japon +
+_Japan_ +
+Japón  | FENICS | JP | FENICS | FENICS400 | | NO | NO | 17-25 Shinkamata +
+1-chome, Ota-ku +
+TOKYO 144, Japan +
+X.400: S=sys.ark000; P=fenics400; +
+A=fenics; C=jp
+
+
+| Japon +
+_Japan_ +
+Japón  | IBMX400 | JP | IBM +
+Mail Exchange | | | YES | YES | IBM Japan Ltd. +
+1-6-3, Ohsaki, Shinagawa-ku +
+TOKYO 141, Japan +
+X.400: G=nishi; S=nishimata; P=ibmmail; +
+A=ibmx400; C=JP
+
+
+| Japon +
+_Japan_ +
+Japón | INTEC | JP | | | | NO | NO | INTEC INC. + 
+Telecommunication Division +
+Administration Dept. +
+Shuwa Sarugaku-cho +
+Bldg. 2-6-10, Sarugaku-cho +
+Chiyoda-ku, TOKYO, Japan
+
+
+| Japon +
+_Japan_ +
+Japón | KDDFAX | JP | | | (Fax-SFU) +
+F-port | NO | NO | KDDI Corporation +
+2-3-2 Nishi-Shinjuku +
+Shinjuku-ku +
+TOKYO 163-8003, Japan
+
+
+| Japon +
+_Japan_ +
+Japón | NIFTY | JP | NIFTY–Serve | | | | | OMORI BELLPORT A +
+26–1, Minami–Oi 6–Chome +
+Shinagawa–ku +
+TOKYO 104, Japan
+
+
+| Japon +
+_Japan_ +
+Japón  | NTT | JP | NTT Mail | NTT Mail | | YES | NO | Shuwa Onarimon Bldg. +
+6-1-11 Shinbashi +
+Minato-ku, TOKYO 105, Japan +
+X.400: G=kazuo; S=kurokawa; +
+O=ntt pc communicaions inc.; +
+A=ntt pc C=jp;
+
+
+| Japon +
+_Japan_ +
+Japón  | NTTPC | JP | NTT PC +
+Network Services | NTT PC +
+Network Services | | S=00200300 +
+A=nttpc +
+C=jp  | S=autoanswer +
+O=int +
+A=nttpc +
+C=jp | Norudo Bldg. 2nd +
+1-6-11 Kita-Ueno Taitou-ku +
+TOKYO 110, Japan +
+X.400: S=00200169; A=nttpc; C=jp
+
+
+| Japon +
+_Japan_ +
+Japón | PCVAN | JP | PC-VAN +
+MHS Service | | | YES | NO | NEC Corporation +
+Information Service Engineering Division +
+Manager Noboru Shimizu +
+5-7-1 Shiba Minatoku, TOKYO, Japan
+
+
+| Japon +
+_Japan_ +
+Japón | SITA | JP | SITAMAIL | | | YES | YES | KDD Bldg. 30fl, 2-3-2 +
+Nishi-Shinjuku Shinjuku-ku +
+TOKYO 163-03, Japan
+
+|===
+
+
+[%unnumbered]
+|===
+
+^.^| País ^.^| Nombre DGAD ^.^| Código de país{blank}footnote:[Código de país: véase el anexo A a la Recomendación F.401. Se basa en ISO 3166, de la que se debe utilizar la edición más recientemente publicada (obtenible en los órganos nacionales de normalización).] 3+^.^| Nombre del servicio ^.^| HELPDESK ^.^| AUTOANSWER ^.^| Dirección de contacto
+| | | ^.^| MT ^.^| IPM ^.^| otro | | | 
+^.^| 1 ^.^| 2 ^.^| 3 ^.^| 4 ^.^| 5 ^.^| 6 ^.^| 7 ^.^| 8 ^.^| 9
+
+| Koweït  +
+_Kuwait_ +
+Kuwait | MOC | KW | K MAIL | | | MOC 496 50000 | NO | International Network Department +
+Ministry of Communications +
+P.O. Box 318 +
+11111 SAFAT - KUWAIT +
+State of Kuwait +
+X.400: O=moc; A=moc; C=kw;
+
+
+| Lettonie +
+_Latvia_ +
+Letonia | MULTINET | LV | MULTINET +
+X.400 | | | S=helpdesk +
+A=multinet +
+C=lv | S=autoanswer +
+A=multinet +
+C=lv | Mr. Harry Konstantine +
+Komservis Ltd. + 
+Lachplesha Street 7-1 +
+LV-1010 RIGA, Latvia +
+X.400: S=administrator; A=multinet; C=lv +
+E -mail: hk@multinet.rbis.lv
+
+
+
+| Liechtenstein +
+_Liechtenstein_ +
+Liechtenstein | IBMX400 | LI | | IBM Mail +
+Exchange | | G=helpdhd +
+S=helpdesk +
+P=ibmmail +
+A=ibmx400 +
+C=ch | G=inform +
+S=inform +
+P=ibmmail +
+A=ibmx400 +
+C=gb | Mr. Beat Moser +
+IBM Switzerland +
+Hohlstrasse 550 +
+N8048 ZURICH, Switzerland +
+X.400: G=beat; S=moser; P=ibmmail; +
+A=ibmx400; C=ch
+
+
+| Lituanie +
+_Lithuania_  +
+Lituania | Epas400 | LT | Epas 400 | Epas 400 | | YES | YES | ATTN: Mr. Vilius Ramoskis +
+SE LITHUANIAN TELECOM +
+Savanoriu 28 +
+LT-2727 VILNIUS, Lithuania +
+X.400: S=epas400; O=telekomas; +
+P=telekomas; A=epas400; C=lt
+
+
+| Luxembourg +
+_Luxembourg_ +
+Luxemburgo | PT +
+(not operational yet) | LU | | | | NO | NO | Entreprise des Postes et +
+Télécommunications +
+L-2999 LUXEMBOURG, Luxembourg
+
+
+| Luxembourg +
+_Luxembourg_ +
+Luxemburgo | UMI-LU | LU | UMI400 | UMI400 | | S=helpdesk +
+A=umi-lu +
+C=lu | S=autoanswer +
+A=umi-lu +
+C=lu | TransArdenna S.A. + 
+16, rue d'Epernay + 
+L-1490 LUXEMBOURG, Luxembourg +
+X.400: S=helpdesk; A=umi-lu; C=lu
+
+
+| Mexique +
+_Mexico_ | TELECOMM | MX | NOTICE 400 | NOTICE +
+TELEMENSAJE | | S=soporte +
+O=sis-not + 
+P=notice +
+A=telecomm + 
+C=mx | NO | Telecomunicaciones de México +
+EIE Central Lázaro Cardenas N° 567 +
+México  +
+Col Narvarte C.P. 03020 +
+MEXICO D.F., México +
+X.400: S=marquez j; O=sis-not; P=notice; +
+A=telecomm; C=mx
+
+
+| Myanmar +
+_Myanmar_ +
+Myanmar | MCPT400 | MM | | | | S=helpdesk +
+A=mcpt400 +
+C=mm | S=autoanswer +
+A=mcpt400 +
+C=mm | U ZAW TINT, Assistant General Manager + 
+Myanma Posts and Telecommunications (MPT) +
+Ministry of Communications, Posts and Telegraphs +
+Overseas Communication Building, 1^st^ Floor +
+Kaba Aye Pagoda Road, 8 Mile, Mayangone +
+YANGON, Myanmar +
+X.400: S=zaw tint; O=mpt A=mcpt400; C=mm
+
+
+
+| Nigéria +
+_Nigeria_ +
+Nigeria | NITEL +
+(not operational yet) | NG | | | | NO | NO | Nigerian Telecommunications Plc (NITEL) +
+3/5 Tafawa Balewa Square +
+P.M.B. 12550 +
+LAGOS, Nigeria
+
+
+| Norvège +
+_Norway_ +
+Noruega | IBMX400 | NO | | IBM Mail +
+Exchange | | G=inshelp +
+S=inshelp +
+P=ibmmail +
+A=ibmx400 +
+C=no | G=inform +
+S=inform +
+P=ibmmail +
+A=ibmx400 +
+C=gb | Knut Egeberg +
+IBM Global Services + 
+IBM +
+Lovstadvegen 7 +
+Postboks 4310 +
+N-2301 HAMAR, Norway +
+E-mail: knut.egeberg@no.ibm.com
+
+
+| Norvège +
+_Norway_ +
+Noruega | TELEMAX | NO | TELEMAX.400 | TELEMAX.400 | | YES | NO | TELEPOST COMMUNICATION AS +
+Postboks 108, Sentrum + 
+n-0102 oslo, Norway +
+X.400: S=sysop; O=televerket; +
+A=telemax; C=no
+
+
+| Norvège +
+_Norway_ +
+Noruega | TELEMAX | NO | TelePost | TelePost | TelePost | S=helpdesk +
+A=telemax +
+C=no | NO | Attn: Solvi Andersen Kirhemo + 
+TelePost Communication AS +
+Drammensveien 177 +
+P.O. Box 335, Skoyen +
+N-0212 OSLO, Norway +
+X.400: G=solvi; S=kirkemo; P=telepost; +
+A=telemax; C=no
+
+
+| Norvège +
+_Norway_ +
+Noruega | UNINETT | NO | UNINETT X.400 | UNINETT X.400 | | YES | YES | Harald Tveit Alvestrand +
+UNINETT +
+P.O. Box 6883 Elgeseter +
+N-7002 TRONDHEIM, Norway +
+X.400: S=postmaster; A=uninett; C=no +
+E-mail: postmaster@uninett.no
+
+
+| Nouvelle-Zélande +
+_New Zealand_  +
+Nueva Zelandia | SECURENET | NZ | SECURENET +
+400 | SECURENET +
+- FAX +
+SECURENET +
+- EDI| | S=helpdesk + 
+A=securenet +
+C=nz + 
+NO | S=autoanswer + 
+A=securenet +
+C=nz + 
+NO | David Gibson + 
+Deloitte and Touche Consulting Group + 
+P O Box 33 +
+AUCKLAND, New Zealand +
+X.400: G=david; S=gibson; A=securenet; C=nz
+
+
+| Organisation de l'aviation civile internationale (OACI) +
+_International Civil Aviation Organization (ICAO)_ +
+Organización de Aviación Civil Internacional (OACI) | ICAO | XX | | | Aeronautical Message Handling Services (AMHS) | NO | NO | M. Paydar +
+CNS Section +
+Air Navigation Bureau +
+International Civil Aviation Organization (ICAO) +
+999 University Street +
+Canada
+
+
+| Ouzbékistan +
+_Uzbekistan_  +
+Uzbekistán  | UZMAIL | UZ | | | | S=helpdesk +
+P=tash +
+A=uzmail +
+C=uz | S=autoanswer +
+P=tash +
+A=uzmail +
+C=uz | Communications and Information + 
+Agency of Uzbekistan +
+28a, Navoi Street +
+100129 TASHKENT, Uzbekistan +
+X.400: S=admin; P=tash; A=uzmail; C=uz
+
+
+| Pays-Bas +
+_Netherlands_ +
+Países Bajos | IBMX400 | NL | | IBM Mail +
+Exchange | | G=helpdesk +
+S=helpdesk +
+P=ibmmail +
+A=ibmx400 +
+C=nl | G=inform +
+S=inform +
+P=ibmmail +
+A=ibmx400 +
+C=gb | Mr. A. van Vliet + 
+IBM +
+Postbus 60 + 
+2700 AB ZOETERMEER, Netherlands +
+X.400: G=vliet; S=vliet; P=ibmmail; +
+A=ibmx400; C=nl
+
+
+
+
+| Pays-Bas +
+_Netherlands_ +
+Países Bajos | 400NET | NL | 400NET | MEMOCOM400 | Tradeserver | S=helpdesk +
+O=unisource +
+A=400net +
+C=nl | S=autoanswer +
+O=unisource +
+A=400net +
+C=nl | Unisource Business Networks Nederland bv +
+Paul Lohman +
+Product manager E-mail +
+PO Box 90934 +
+2509 LX Den Haag, Netherlands +
+X.400: G=paul; S=lohman; O=unisource; +
+A=400net; C=nl
+
+
+| Pologne +
+_Poland_ +
+Polonia | POLKOM400 | PL | | | | S=helpdesk +
+OU=cst +
+O=tpsa +
+A=polkom400 +
+C=pl +
+E-mail: helpdesk@polkom. tpnet.pl| S=helpdesk +
+OU=cst +
+O=tpsa +
+A=polkom400 +
+C=pl +
+E-mail: helpdesk@polkom. tpnet.pl | Attn: Mr. Piotr Sek, Head of Section +
+or Mr. Bozena Eljasinska, Instructor +
+Telekomunikacja Polska S.A. +
+Centrum Systemow Informatycznych + 
+ul. Nowogrodzka 47a +
+PL-00695 WARSZAWA, Poland +
+X.400: G=piotr; S=sek; OU=cst; +
+O=tpsa; A=polkom400; C=pl +
+E-mail: psek@cst.tpnet.pl +
+or G=bozena; S=eljasinska; OU=cst; +
+O=tpsa; A=polkom400; C=pl +
+E-mai: belja@cst.tpnet.pl
+
+
+|===
+
+
+[%unnumbered]
+|===
+
+^.^| País ^.^| Nombre DGAD ^.^| Código de país{blank}footnote:[Código de país: véase el anexo A a la Recomendación F.401. Se basa en ISO 3166, de la que se debe utilizar la edición más recientemente publicada (obtenible en los órganos nacionales de normalización).] 3+^.^| Nombre del servicio ^.^| HELPDESK ^.^| AUTOANSWER ^.^| Dirección de contacto
+| | | ^.^| MT ^.^| IPM ^.^| otro | | | 
+^.^| 1 ^.^| 2 ^.^| 3 ^.^| 4 ^.^| 5 ^.^| 6 ^.^| 7 ^.^| 8 ^.^| 9
+
+| Portugal +
+_Portugal_ + 
+Portugal | ATLAS | PT | MT | IPM | Fax Delivery +
+Internet +
+Gateway +
+Closed +
+Messaging +
+Groups | S=helpdesk +
+A=atlas +
+C=pt | S=autoanswer +
+A=atlas +
+C=pt | António Feijão + 
+France Telecom Redes e Serviços de Portugal, SA +
+Av. da Liberdade, 245, 8°, F +
+1250 LISBOA, Portugal +
+X.400: S=feijão; O=global-one; A=atlas; C=pt
+
+
+| Portugal +
+_Portugal_ + 
+Portugal | GOLDMAIL | PT | GOLDMAIL400 | GOLDMAIL400 | | S=helpdesk +
+A=goldmail +
+C=pt | NO | SEVATEL +
+Av. 5 de Outubro, 146 8° +
+1000 LISBOA, portugal +
+X.400: G=nuno; S=gouveia; O=sevatel; +
+A=goldmail; C=pt
+
+
+| Portugal +
+_Portugal_ + 
+Portugal | MAILCOM | PT | MAILCOM | | | S=helpdesk +
+O=sibsnet +
+A=mailcom + 
+C=pt | S=autoanswer +
+O=sibsnet +
+A=mailcom + 
+C=pt | Paulo Falcão +
+SIBS, Sociedade Interbancária de +
+Serviços SA +
+R. Centro Cultural, 2 +
+1700 LISBOA, Portugal
+
+
+| Portugal +
+_Portugal_ + 
+Portugal | MARCONI-SVA | PT | EMAIL 400 | EMAIL 400 | | NO | NO | SVA Marconi +
+Rua do Commercio, 8-5° +
+1100 LISBOA, Portugal
+
+| Portugal +
+_Portugal_ + 
+Portugal | NEX400 | PT | | | | NO | NO | COMNEXO, Redes de Comunicações, SA +
+Av. Fontes Pereira de Melo, 3 10° +
+1000 LISBOA, Portugal
+
+
+| Qatar + 
+_Qatar_ + 
+Qatar | QMAIL | QA | QMAIL | QMAIL | | S=helpdesk +
+O=qtel +
+OU1=ml +
+A=qmail +
+C=qa | NO | Qatar Telecom Q.S.C. (Q-TEL) +
+New Tower Headquarters +
+West Way +
+P. O. Box 217 +
+DOHA, Qatar + 
+X.400: S=ahmed; O=qtel; OU1=agml; +
+A=qmail; C=qa +
+E-mail: derbesti@qtel.com.qa
+
+
+| Rép. dém. du Congo +
+_Dem. Rep. of the Congo_ +
+Rep. Dem. del Congo | OCPT | CD | | | Express +
+Mail Service | NO | NO | E.M.S. +
+Immeuble Kin-Maziere +
+12, Avenue Tombalbaye +
+KINSHASA-GOMBE +
+Rép. dém. du Congo
+
+
+| Rép. tchèque +
+_Czech Rep._ +
+Rep. Checa | EDIVAN 400 | CZ | ISOCOR 4.4 | P2, P35 | | S=helpdesk +
+A=edivan 400 +
+C=cz | P=autoanswer +
+A=edivant 400 +
+C=cz | EDITEL CZ a.s. +
+Pod Pramenem 3 +
+140 00 PRAHA 4, Czech Republic +
+X.400: S=helpdesk; A=edivan 400; C=cz
+
+
+| Rép. tchèque +
+_Czech Rep._ +
+Rep. Checa | SPT 400 | CZ | CZMAIL - MT | CZMAIL - IPM | | S=helpdesk +
+A=spt 400 +
+C=cz | P=autoanswer +
+A=spt 400 +
+C=cz | Jirí Jakes + 
+Head of CZMAIL + 
+CPP s.p. - Transgas o.z. +
+Sokolská 4 +
+120 00 PRAHA 2, Czech Republic +
+X.400: S=jiri; S=jakes; P=tg; +
+A=spt 400; C=cz
+
+
+| Royaume-Uni +
+_United Kingdom_ + 
+Reino Unido | ATTMAIL | GB | ATT Mail | ATTMAIL | AT&T +
+MAIL400 | YES | YES | AT&T EasyLink Services +
+4 Moons Park +
+Burnt Meadow Road +
+GB-Redditch Worcs B98 9PA +
+United Kingdom +
+X.400: G=paul; S=bizzell; DD.ID=pbizzell; +
+A=attmail; C=gb
+
+
+
+| Royaume-Uni +
+_United Kingdom_ + 
+Reino Unido | CWMAIL | GB | | | | YES | YES | Mercury Communications Ltd. +
+1 Brentside Executive Centre +
+Great West Road +
+GB-Brentford Middlesex TW8 9DS +
+United Kingdom +
+X.400: G=gary; S=muchmore; +
+O=mercury data; P=mcl mail;
+
+
+| Royaume-Uni +
+_United Kingdom_ + 
+Reino Unido | GOLD 400 | GB | GOLD 400 | | | G=help +
+S=desk +
+O=btt +
+A=gold 400 +
+C=gb | G=auto +
+S=answer +
+O=btt +
+a=gold 400 +
+C=gb | BT, Chris Ramsey + 
+PP 3062 Tenter House + 
+45 Moorfields + 
+LONDON EC2Y 9TH, United Kingdom +
+X.400: G=chris; S=ramsey; O=btt; +
+A=gold 400; C=gb
+
+
+| Royaume-Uni +
+_United Kingdom_ + 
+Reino Unido | IBMX400 | GB | | IBM Mail +
+Exchange | | G=3bnssl +
+S=helpdesk +
+P=ibmmail +
+A=ibmx400 +
+C=gb | G=inform + 
+S=inform +
+P=ibmmail +
+A=ibmx400 +
+C=gb | Mr. M. Lloyd + 
+IBM Information Network +
+PO Box 31 + 
+Birmingham Road + 
+WARWICK CV34 5JL, United Kingdom +
+X.400: G=lloydm; S=lloyd; P=ibmmail +
+A=ibmx400; C=gb
+
+
+| Royaume-Uni +
+_United Kingdom_ + 
+Reino Unido | INFONET | GB | | | | | | Attn: Lindy L. Murrell +
+Director, Electronic Messaging +
+Infonet Services Corporation +
+2100 E. Grand Avenue, Box 1022 +
+EL SEGUNDO, CA 90245-1022 +
+United States
+
+
+| Royaume-Uni +
+_United Kingdom_ + 
+Reino Unido | ISODE | GB | ISODE400-MT | ISODE400-IPM | | S=support +
+O=isode +
+A=isode +
+C=gb | CN=autoanswer +
+O=isode +
+A=isode +
+C=gb | 5 Castle Business Village + 
+36 Station Road + 
+HAMPTON, Middlesex TW12 2BX, UK + 
+X.400 S=enquiries; O=isode; A=isode; +
+C=gb +
+E-mail= enquiries@isode.com
+
+
+| Royaume-Uni +
+_United Kingdom_ + 
+Reino Unido | JANET | GB | | | | | | Dr. W Black +
+UKERNA +
+Atlas Centre, Chilton +
+DIDCOT, Oxfordshire OX11 OQS +
+United Kingdom
+
+
+
+| Royaume-Uni +
+_United Kingdom_ + 
+Reino Unido | MARK400 | GB | | | | | | Mr. Mike Chesher European +
+Marketing Manager +
+GE Information Services –INS Division +
+INS House, Station Road +
+Sunbury-on-Thames +
+MIDDLESEX TW16 6SB, United Kingdom +
+X.400: G=mike; S=chesher; OU1=geis; +
+O=quikcomm; A=mark400; C=gb +
+E-mail: ches@geis.geis.com
+
+
+
+| Royaume-Uni +
+_United Kingdom_ + 
+Reino Unido | NHS | GB | | | | | | Mr. Navin Solanki +
+Networking Address Registration +
+Services Manager +
+Central Communications Management Group +
+NHS Executive +
+19 Calthorpe Road, Edgbaston +
+BIRMINGHAM B15 1RP, United Kingdom
+
+
+| Royaume-Uni +
+_United Kingdom_ + 
+Reino Unido | OSPMAIL | GB | | | | S=helpdesk +
+A=ospmail +
+C=gb | S=autoanswer +
+A=ospmail +
+C=gb | Brunswick House + 
+Rose Lane +
+Biggleswade SG18 0NB +
+Bedfordshire, United Kingdom +
+X.400: G=james; S=huckle; P=msx; +
+A=ospmail; C=gb
+
+
+| Royaume-Uni +
+_United Kingdom_ + 
+Reino Unido | PARASOFT | GB | PARASOFT | PARASOFT | MESSAGE-XCHANGE | S=helpdesk +
+A=parasoft +
+C=gb | S=autoanswer +
+A=parasoft +
+C=gb | Paragon Software Limited +
+Paragon House +
+3 Coombe Square +
+GB-THATCHAM, BERKSHIRE RG19 4JF +
+United Kingdom
+
+|===
+
+
+[%unnumbered]
+|===
+
+^.^| País ^.^| Nombre DGAD ^.^| Código de país{blank}footnote:[Código de país: véase el anexo A a la Recomendación F.401. Se basa en ISO 3166, de la que se debe utilizar la edición más recientemente publicada (obtenible en los órganos nacionales de normalización).] 3+^.^| Nombre del servicio ^.^| HELPDESK ^.^| AUTOANSWER ^.^| Dirección de contacto
+| | | ^.^| MT ^.^| IPM ^.^| otro | | | 
+^.^| 1 ^.^| 2 ^.^| 3 ^.^| 4 ^.^| 5 ^.^| 6 ^.^| 7 ^.^| 8 ^.^| 9
+
+| Royaume-Uni +
+_United Kingdom_ + 
+Reino Unido | PIPEX | GB | X400 +
+MESSAGING | | | S=x400-support +
+A=pipex +
+C=gb | S=autoanswer +
+A=pipex +
+C=gb | Bill Jago + 
+Unipalm PIPEX +
+216 Cambridge Science Park +
+Milton Road +
+CAMBRIDGE CB4 4WA, United Kingdom +
+X.400: G=bill; S=jago; A=pipex; C=gb +
+E-mail: bill.jago@unipalm.pipex.com
+
+
+| Royaume-Uni +
+_United Kingdom_ + 
+Reino Unido | RACAL400 | GB | | | | | | Trent T Holmes +
+Manager, Business Development +
+Racal Network Services Ltd. +
+Oakwood +
+Chineham Business Park +
+Crockford Lane +
+BASINGSTOKE RG24 8WB, United Kingdom
+
+
+| Royaume-Uni +
+_United Kingdom_ + 
+Reino Unido | TRADANET400 | GB | | | | | | John Williamson +
+Techincal Director +
+INS Ltd. +
+INS House +
+Station Road +
+Sunbury on Thames +
+MIDDX TW16 6SB, United Kingdom
+
+
+
+| Royaume-Uni +
+_United Kingdom_ + 
+Reino Unido | UMI-UK | GB | UMI-400 | UMI-400 | MESSAGE-XCHANGE | S=helpdesk +
+A=umi-uk +
+C=gb | S=autoanswer +
+A=umi-uk +
+c=gb | Paragon Software Limited + 
+Paragon House +
+3 Coombe Square +
+GB-THATCHAM, BERKSHIRE RG13 4JF +
+United Kingdom
+
+
+| Serbie +
+_Serbia_ +
+Serbia | BEOGRAD400 | RS | BEOGRAD400 | BEOGRAD400 | | S=helpdesk +
+P=public + 
+A=beograd400 +
+C=rs | NO | Community of Yugoslav PTT +
+Palmoticeva 2 +
+YU-11000 BEOGRAD, Serbia + 
+X.400: G=petar; S=calic; +
+O=zjptt; P=public; +
+A=beograd400; C=rs;
+
+
+| Singapour +
+_Singapore_ + 
+Singapur | SGMHS | SG | GATEWAY 400 | TELEBOX | | G=helpdesk +
+S=helpdesk +
+O=svc +
+A=sgmhs +
+C=sg | G=autoanswer +
+S=autoanswer +
+O=svc +
+A=sgmhs +
+C=sg | Singapore Telecommunication Limited +
+Comcentre, 31 Exeter Road +
+SINGAPORE 0923 +
+Republic of Singapore +
+X.400: G=foong; S=lim; A=sgmhs; C=sg
+
+
+| Singapour +
+_Singapore_ + 
+Singapur | STEMS | SG | | | | S=helpdesk +
+A=stems +
+C=sg | S=autoanswer +
+A=stems +
+C=sg | Singapore Telecommunication Limited +
+Comcentre, 31 Exeter Road +
+SINGAPORE 0923 +
+Republic of Singapore +
+X.400: G=wah lon; S=lee; O=st; +
+A=stems; C=sg
+
+
+| Slovénie +
+_Slovenia_ + 
+Eslovenia | IBMX400 | SI | | IBM Mail +
+Exchange | | G=3bnssl +
+S=helpdesk +
+P=ibmmail +
+A=ibmx400 +
+C=gb
+| G=inform +
+S=inform +
+P=ibmmail +
+A=ibmx400 +
+C=gb | Mr. Damjan Perharic +
+IBM Slovenija +
+Trg Republike 3 +
+SI-1000 LJUBLJANA +
+Slovenia
+
+
+| Slovénie +
+_Slovenia_ + 
+Eslovenia | MAIL | SI | Smail 400 | Smail 400 | | S=helpdesk +
+A=mail +
+C=si | S=autoanswer +
+A=mail +
+C=si | Mr. Goran Rakovic + 
+Telekom Slovenije p.o. + 
+Cigaletova 15 +
+SI-1000 LJUBLJANA, Slovenia +
+X.400: G=goran;S=rakovic; +
+O=public 1; A=mail; C=si
+
+
+| Sudafricaine (Rép.) +
+_South Africa_ +
+Sudafricana (Rep.) | TELKOM400 | ZA | TELKOM 400 | TELKOM 400 | | S=helpdesk +
+A=telkom400 +
+C=za | S=autoanswer +
+A=telkom400 +
+C=za | The Managing Executive +
+Telkom SA Ltd. +
+International and Special Market Services +
+Private Bag X942 +
+0001 PRETORIA, South Africa +
+X.400: G=anne; S=van coller; +
+O=telkom; A=telkom400; C=za +
+E-mail: vancolleas@telkom.co.za
+
+
+
+| Suède +
+_Sweden_ +
+Suecia | MASTER400 | SE | MASTER400 | MASTERMAIL +
+(P7) | | S=helpdesk +
+A=master400 +
+C=it | S=autoanswer +
+A=master400 +
+C=it | Madia Saponaro +
+SARITEL S.p.A. +
+S.S. 148 Pontina Km. 29,100 +
+00040 POMEZIA (ROMA), Italy +
+X.400: G=madia; S=saponaro; O=saritel; +
+A=master400; C=it +
+E-mail: saponaro@saritel.it
+
+
+| Suède +
+_Sweden_ +
+Suecia | 400NET | SE | UNIPLUS +
+400NET | UNIPLUS +
+400NET | | YES | YES | Anders Delang +
+Telia AB, NUN +
+S-123 86 FARSTA, Sweden
+
+
+| Suisse +
+_Switzerland_ +
+Suiza | ADMIN | CH | | | | S=helpdesk +
+A=admin +
+C=ch | S=autoanswer +
+A=admin +
+C=ch | Bondesamt für Informatik +
+Daterkommunikation/Dienste (DKDI) +
+Feldeggweg 1 +
+CH-3003 BERNE, Suisse +
+X.400: S=helpdesk; A=admin; C=ch;
+
+
+| Suisse +
+_Switzerland_ +
+Suiza | ATLAS | CH | | | | S=helpdesk +
+A=atlas +
+C=ch | S=autoanswer +
+A=atlas +
+C=ch | France Telecom Network Services (Suisse) S.A. +
+Attn: M. Richard Dent +
+Avenue de Gratta-Paille 1 +
+Case Postale 492 +
+CH-1000 LAUSANNE 30, Suisse +
+X.400: S=helpdesk; A=atlas; C=ch
+
+
+| Suisse +
+_Switzerland_ +
+Suiza | ATTMAIL | CH | ATTMAIL | ATTMAIL | | G=kunden +
+S=hilfe +
+O=att +
+A=attmil +
+C=de +
+DDA:ID=atthilfe | S=autoanswer +
+A=attmail +
+C=ch | AT&T Deutschland GmbH +
+EasyLink Services +
+Eschersheimer Landstrasse 14 +
+D-60322 FRANKFURT, Germany +
+X.400: G=kunden; S=hilfe; O=att; +
+A=attmail; C=de +
+DDA:ID=atthilfe
+
+
+
+| Suisse +
+_Switzerland_ +
+Suiza | EUnet | CH | EUnet400 | EUnet400 | | S=helpdesk +
+A=eunet + 
+C=ch | S=autoanswer +
+A=eunet + 
+C=ch| Swiss UNIX Systems Users Group + 
+CHUUG/EUnet +
+Zweierstrasse 35 +
+CH-8004 ZURICH, Suisse +
+X.400: S=info; A=eunet; C=ch
+
+
+| Suisse +
+_Switzerland_ +
+Suiza | IBMX400 | CH | | IBM Mail +
+Exchange | | G=helpdhd +
+S=helpdesk +
+P=ibmmail +
+A=ibmx400 +
+C=ch | G=inform + 
+S=inform +
+P=ibmmail +
+A=ibmx400 + 
+C=gb | Mr. Beat Moser + 
+IBM Switzerland +
+Hohlstrasse 550 +
+CH-N8048 ZURICH, Switzerland +
+X.400: G=beat; S=moser; P=ibmmail; +
+A=ibmx400; C=ch
+
+
+
+| Suisse +
+_Switzerland_ +
+Suiza | INFONET | CH | | NOTICE | | NO | NO | INFONET (Switzerland) Ltd. +
+Länggassstrasse 35 +
+P.O. Box 693 +
+CH-3000 BERNE 9, Suisse +
+X.400: S=aeby; P=infonetch; +
+A=infonet; C=ch
+
+
+| Suisse +
+_Switzerland_ +
+Suiza | MARK400 | CH | MARK400 + 
+Messaging Service | MARK400 + 
+Messaging Service +
+QUIKCOMM | EDI*EXPRESS | S=helpdesk +
+OU1=geis +
+O=quikcomm +
+A=mark400 +
+C=us +
+S=eurohelp + 
+OU1=geis +
+O=quikcomm +
+A=mark400 +
+C=us | S=autoanswer +
+OU1=geis +
+O=quikcomm +
+A=mark400 +
+C=us | Mike Chesher +
+G.E. Information Services AG + 
+25-29 High Street +
+QUIKCOMM +
+Kingston-upon-Thames +
+SURREY KT1 1LN +
+United Kingdom +
+X.400: G=mike; S=chesher; OU1=geis; +
+O=quikcomm; A=mark400; C=us
+
+
+| Suisse +
+_Switzerland_ +
+Suiza | MASTER400 | CH | MASTER400 | MASTERMAIL +
+(P7) | | S=helpdesk +
+A=master400 +
+C=it | S=autoanswer +
+A=master400 +
+C=it | Madia Saponaro + 
+SARITEL S.p.A. + 
+S.S. 148 Pontina Km. 29,100 +
+00040 POMEZIA (ROMA), Italy +
+X.400: G=madia; S=saponaro; O=saritel; +
+A=master400; C=it +
+E-mail: saponaro@saritel.it
+
+
+| Suisse +
+_Switzerland_ +
+Suiza | SWITCHGATE | CH | | | SWITCH +
+Internet +
+Gateway | S=helpdesk +
+O=inet +
+A=switchgate +
+C=ch | S=autoanswer +
+O=inet +
+A=switchgate +
+C=ch | SWITCH Head Office +
+Limmatquai 138 +
+CH-8001 ZURICH, Suisse
+
+
+
+| Suisse +
+_Switzerland_ +
+Suiza | TELEKURS | CH | | | | NO | NO | TELEKURS Payserv AG + 
+Herr Krieg +
+Hardturmstrasse 201 +
+CH-8021 ZURICH, Suisse 
+
+
+| Suisse +
+_Switzerland_ +
+Suiza  | UMI-CH | CH | UMI400 | UMI400 | | S=helpdesk +
+A=umi-ch +
+C=ch | S=autoanswer 
+A=umi-ch +
+C=ch | Conexus AG + 
+Attn: URS BRAWAND + 
+Ifangstrasse 10 +
+CH-8302 KLOTEN, Suisse +
+X.400: G=urs; S=brawand; O=conexus; +
+P=conexus; A=umi-ch; C=ch
+
+
+| Suisse +
+_Switzerland_ +
+Suiza | 400NET | CH | UNIPLUS +
+400NET | UNIPLUS +
+400NET | | S=helpdesk +
+O=public +
+A=400net +
+C=ch | S=autoanswer +
+O=uniplus +
+A=400net +
+C=ch| Unisource Business Networks +
+(Switzerland) Ltd. +
+P&S, PM UNIPLUS +
+Schermennaldstr, 13 +
+CH-3063 ITTIGEN, Suisse +
+X.400: S=helpdesk; O=public; A=400net; +
+C=ch
+
+
+| Thaïlande +
+_Thailand_ +
+Tailandia | CAT400 | TH | | | Faxgateway +
+Telexgateway +
+EDI +
+internetgateway +
+Proprietary - +
+Mail - +
+Gateway | G=support +
+S=supportgroup +
+O=cat400 +
+A=cat400 +
+C=th | G=autoanswer +
+S=autoanswer +
+O=cat400 +
+A=cat400 +
+C=th | Telebox Exchange Office +
+Data Communication Division + 
+The Communications Authority of Thailand (CAT) +
+BANGKOK 10501, Thailand +
+X.400: G=vichien; S=chomsamnieng; +
+O=cat400; A=cat400; C=th
+
+
+| Tonga +
+_Tonga_ +
+Tonga | TONGA +
+TELECOM | TO | | | | NO | NO | Tonga Telecom Commission +
+P.O. Box 46 +
+NUKU'ALOFA, Tonga
+
+
+| Uruguay +
+_Uruguay_ +
+Uruguay | ANTEL | UY | ANTEL-MAIL | | URUMAIL400 | NO | NO | ANTEL-Goia. Telex y Datos +
+Mercedes 884 +
+C.P. 11 100 +
+MONTEVIDEO, Uruguay +
+X.400: G=rodolfo; S=fariello; DD.ID=30003; +
+A=antel; C=uy
+
+|===
+
+
+
+== ENMIENDAS
+
+
+[%unnumbered]
+|===
+
+^.^h| Enmienda N° ^.^h| Boletín de Explotación N° ^.^h| País y nombre de DGAD
+
+^.^| 1 | |
+^.^| 2 | |
+^.^| 3 | |
+^.^| 4 | |
+^.^| 5 | |
+^.^| 6 | |
+^.^| 7 | |
+^.^| 8 | |
+^.^| 9 | |
+^.^| 10 | |
+^.^| 11 | |
+^.^| 12 | |
+^.^| 13 | |
+^.^| 14 | |
+^.^| 15 | |
+^.^| 16 | |
+^.^| 17 | |
+^.^| 18 | |
+^.^| 19 | |
+^.^| 20 | |
+^.^| 21 | |
+^.^| 22 | |
+^.^| 23 | |
+^.^| 24 | |
+^.^| 25 | |
+^.^| 26 | |
+^.^| 27 | |
+^.^| 28 | |
+^.^| 29 | |
+^.^| 30 | |
+
+|===
+
+
+[%unnumbered]
+|===
+h| image::T-SP-F.400-2011-MSW-S_html_b35cd1a93fab497d.gif["",111,116] a| _Sírvase rellenar el presente formulario de notificación y devolverlo a la dirección siguiente:_ +
+*Unión Internacional de Telecomunicaciones* +
+*Oficina de Normalización de las Telecomunicaciones (TSB/OBNA)* +
+*Place des Nations* +
+*CH - 1211 GENEVE 20* +
+*Suisse* +
+*Telefax: +41 22 730 5853 Correo electrónico: tsbtson@itu.int*
+
+|===
+
+[%unnumbered]
+|===
+^.^h|Notificación de nombre DGAD de conformidad con la Recomendación X.400{blank}footnote:[La práctica nacional puede imponer la coordinación antes del envío de una notificación al TSB.] 
++
+(Prestación de servicios de tratamiento de mensajes X.400)
+
+|===
+
+
+[%unnumbered]
+|===
+
+h| _País:_ | 
+_Código de país{blank}footnote:[Código de país: véase el anexo A a la Recomendación F.401. Se basa en ISO 3166, de la que se debe utilizar la edición más recientemente publicada (obtenible en los órganos nacionales de normalización).] :_
+2+h| _Nombre DGAD:_
+h| _Nombre del servicio_ | ¿HELPDESK disponible?
+| MT (transferencia de mensajes): | Si [ ] No [ ]
+| | X.400:
+| IPM (mensaje interpersonal): | \_\____\______
+| | ¿AUTOANSWER disponible?
+| | Si [ ] No [ ]
+| Otro: | X.400:
+h| _Dirección de contacto:_  | X.400: \_\____\______
+| Dirección postal: \_\____\______ | \_\____\______
+| \_\____\__\_____\______\____ | \_\____\______
+| \_\____\__\_____\______\____ | Correo electrónico: \_\____\______
+| \_\____\__\_____\______\____ | \_\____\______
+| \_\____\__\_____\______\____ | \_\____\______
+| \_\____\__\_____\______\____ | \_\____\______
+
+|===

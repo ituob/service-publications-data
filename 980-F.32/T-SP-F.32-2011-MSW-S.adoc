@@ -1,0 +1,7292 @@
+= List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) - Spanish
+:bureau: T
+:docnumber: 980-15.V.2011
+:title: LISTA DE INDICADORES DE DESTINO DE TELEGRAMAS
+:published-date: 2011-05-15
+:status: draft
+:doctype: service-publication
+:docfile: document.adoc
+:mn-document-class: itu
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+
+
+== Recomendación UIT-T F.32 (anteriormente F.96)
+
+=== Nota de la TSB
+
+. Por Circular TSB 179 del 16 de octubre de 1995, la TSB ha anunciado la aprobación de la Recomendación UIT T F.32 (10/1995) (anteriormente F.96), de conformidad con la Resolución 1, Sección 8 de la CMNT (Helsinki, 1993) y, por Circular TSB 104 del 23 de marzo de 1998, la TSB ha anunciado la aprobación de la Recomendación UIT-T F.1 (03/1998): «Disposiciones aplicables a la explotación del servicio público internacional de telegramas», cuyo texto ha sido revisado por la Comisión de Estudio  2 del UIT-T.
++
+--
+Por consiguiente, la TSB ha preparado una _Lista de indicadores de destino de telegramas_ que recoge los indicadores asignados a países/zonas geográficas o redes (dos primeras letras) y a oficinas telegráficas (tercera y cuarta letras), de conformidad con la Recomendación UIT-T F.32 (10/1995). La Lista contiene también los indicadores especiales de origen y los indicadores utilizados para designar organizaciones internacionales en la línea de preámbulo de los telegramas de Estado conformes a la disposición A218 de la Recomendación UIT-T F.1 (03/1998).
+--
+
+. La nueva lista publicada en Anexo al Boletín de Explotación de la UIT N.o 980 del 15 de mayo de 2011 sustituye a la publicada en Anexo al Boletín de Explotación de la UIT N.o 879 del 1 de marzo de 2007. Se han añadido a esta lista los países o zonas geográficas para los cuales una información sobre a la cesación de servicio de telegramas ha sido publicada en el Boletín de Explotación de la UIT (N.°).
++
+--
+Asimismo, se recuerda a las administraciones/EER que la _Lista de códigos de identificación de red télex (CIRD)_ mencionada en el párrafo 7.3 de la Recomendación UIT-T F.32 (10/1995) se publica ahora por separado, como anexo al Boletín de Explotación de la UIT y que la misma se actualiza regularmente por medio de enmiendas.
+
+Uno de los principales objetivos de la Recomendación UIT-T F.32 (10/1995) es incitar a las Administraciones/EER a reducir el número de indicadores de destino atribuidos a sus redes de telegramas. Durante los últimos años, un gran número de administraciones/EER ha adoptado un solo indicador de destino (--XX) para todos los destinos o bien sólo ha asignado a sus redes de telegramas un pequeño número de indicadores de destino. La TSB señala especialmente a la atención de las administraciones/EER que según el Sección 6 de la Recomendación UIT T F.32 (10/1995), que estipula que «Los códigos de oficina (es decir, la tercera y cuarta letras de un indicador de destino) asignados para cada código de red se deben mantener en un número mínimo en cada red» y «cuando la red de destino es capaz de realizar el encaminamiento nacional sin un código de oficina (por ejemplo, analizando la parte de dirección del telegrama así como la línea piloto), se prefiere un solo código de oficina (XX)».
+--
+
+. Con el fin de mantener actualizada la lista, se ruega a las administraciones/EER que comprueben la exactitud de la información publicada en la misma y que informen tan pronto como sea posible a la TSB de cualquier cambio que deba realizarse (Fax: *+41 22 730 5853*, o E mail: *tsbtson@itu.int*). Los cambios se publicarán como enmiendas a la lista en el siguiente Boletín de Explotación de la UIT.
+
+. Asimismo, la información que contiene este Anexo al Boletín de Explotación de la UIT N.° 980 está disponible en el sitio web de la UIT http://www.itu.int/itu-t/bulletin/annex.html[www.itu.int/itu-t/bulletin/annex.html].
+
+. Las denominaciones empleadas en esta lista y la forma en que aparecen presentados los datos que contiene no implican, por parte de la UIT, juicio alguno sobre la condición jurídica de los países o zonas geográficas, o de sus autoridades.
+
+=== Indicadores de destino (ID) atribuidos a oficinas telegráficas
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+
+a|*AFGHANISTAN* +
+*AFGHANISTAN* +
+*AFGANISTÁN*
+
+a|GOVT - Ministry of Communications and Information	Technology, Kabul
+
+a|AF- -
+
+a|Kabul +
+Todos los otros
+
+a|AFKL +
+AFKX
+
+
+a|*ALBANIE* +
+*ALBANIA* +
+*ALBANIA*
+
+a|GOVT – Electronic and Postal Communications Authority, Tirana
+
+a|AB- -
+
+a|Bajram Curri +
+Berat +
+Burrel +
+Durres +
+Elbasan +
+Fier +
+Gjirokaster +
+Korce +
+Kruje +
+Kukes +
+Lushnje +
+Peshkopi +
+Rreshen +
+Shkoder +
+TIRANE +
+Vlore +
+Todos los otros
+
+a|ABBC +
+ABBR +
+ABMT +
+ABDR +
+ABEL +
+ABFR +
+ABGJ +
+ABKO +
+ABKR +
+ABKU +
+ABLU +
+ABDI +
+ABMR +
+ABSH +
+ABTR +
+ABVL +
+ABTX
+
+
+a|*ALGÉRIE* +
+*ALGERIA* +
+*ARGELIA*
+
+a|GOVT - Ministère de la poste et des technologies de l’information et de la communication, Alger
+
+a|DZ- -
+
+a|Alger +
+Constantine +
+Oran +
+Todos los otros
+
+a|DZAL +
+DZCO +
+DZOR +
+DZAX
+
+
+a|*ALLEMAGNE* +
+*GERMANY* +
+*ALEMANIA*
+
+a|
+Unitel, Alteveer{blank}footnote:[El servicio de telegramas deja de aceptarse por Deutsche Telecom AG desde el 1.I.2002 en Alemania. Véase el Boletín de Explotación de la UIT N.° 723 del 1.IX.2000 y el Boletín de Explotación de la UIT N.° 751 del 1.XI.2001.], Telegramm Services{blank}footnote:[Véase el Boletín de explotación No. 949 del 1.II.2010.]
+
+a|DP- - +
+DD- -
+
+a|Todos los destinos +
+Todos los destinos
+
+a|DPXX +
+DDXX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*ANDORRE*{blank}footnote:Telegrams[Los telegramas destinados a Andorra pueden encaminarse por Francia o por España. Según el encaminamiento deseado, conviene pues consultar las listas respectivas de esos países.]
+
+*ANDORRA*{blank}footnote:Telegrams[]
+
+*ANDORRA*{blank}footnote:Telegrams[]
+
+a|GOVT – Servei de Telecomunicacions d’Andorra, Andorra la Vella
+
+a|AD{blank}footnote:[Para el servicio télex.]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*ANGOLA* +
+*ANGOLA* +
+*ANGOLA*
+
+a|GOVT – Ministry of Telecommunications and Information Technology, Luanda
+
+a|AN - -
+
+a|Todos los destinos
+
+a|ANXX
+
+
+a|*ANGUILLA* +
+*ANGUILLA* +
+*ANGUILLA*
+
+a|C&W (WI) – Cable & Wireless (West Indies) Ltd, The Valley
+
+a|LA- -
+
+a|Todos los destinos
+
+a|LAXA
+
+
+a|*ANTIGUA-ET-BARBUDA* +
+*ANTIGUA AND BARBUDA* +
+*ANTIGUA Y BARBUDA*
+a|
+a|AK- -{blank}footnote:[El servicio de telegramas deja de aceptarse y el indicador de destino de telegramas ha sido suprimido desde el 1.X.1997. Sin embargo, el código de dos letras «AK» sigue reservado.]
+a|
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*ARABIE SAOUDITE* +
+*SAUDI ARABIA* +
+*ARABIA SAUDITA* +
+--
+. Dammam (al){blank}footnote:[_Via Dammam (al): El mismo indicador de destino "SJDM" se utiliza para los telegramas encaminados vía Dammam (al) y destinados a las oficinas siguientes_: Abqaiq, Ar Ar, Assafiyah, Dammam Coastal Station, Dhahran (al), Domat Al Jandal, Haditha (al), Hafouf (al), Hair (al), Harad, Hazm Al Jalamid, Isawiyah, Jarani, Joff Sakaka (al), Jubail (al), Judayidah, Kasib, Khafji (al), Khobar (al), Lawqah, Linah, Mughayra, Naaria, Nisab, Qaisumah (al), Qarya, Qatif (al), Qurayyat, Rafha, Ras Tannura, Rawdat Habbas, Ruqai (al), Safwa, Sahan, Salwa, Samah, Samudah, Shubah, Sihat, Tabarjal, Talat Attimyat, Thaniyat Um Nukhaylah, Turaif, Um Addiyan, Um Rodmah, Uwaqilah.]
+. Jeddah{blank}footnote:[_Via Jeddah: El mismo indicador de destino  "SJJE" se utiliza para los telegramas encaminados vía Jeddah y destinados a las oficinas siguientes_: Abar Ali (Wireless Station), Abu Diba, Abu Raqah, Adham, Air Base King Khalid Road, Al Kurr, Al Seddiq, Anbariyah Sea Pilgrim (Medina) (i), Aqiq, Ardiyah Al Janoubiyah, Ardiyah Al Shamaliyah, Arn, Attawla, Ayiss, Badr Hunayn, Baha (ii), Bahrah, Bani Hassan, Bani Kabir, Bani Saad, Bdaa, Birk, Daws, Disah, Duba, Faqir, Ghamid Al Zinad, Gharif, Hadad (Bani Malik), Hajj Air Port Terminal (i), Hajrah, Hanakyah, Haql, Hawiyah, Helaat Ammar, Hisu, Ishash, Khaybar, Khulays, Khuraybah, Khurmah, King Abdul Aziz Air Port, Land Pilgrim Str. (Medina) (i), Madinah Almonawwarah (al), Mahani, Mahd Ad Dhahab, Mahjar, Mandaq, Maqni, Maysan, Medina (ii), Medinah (al) voir/see/véase:  Madinah Almonawwarah (al), Medina (Islamic University), Mikhwah, Mushrfah, Muwayh, Nukhayl, Qalibah, Qalwah, Qari (Bani Malik), Quba (i), Qunfudah, Rabigh, Ranyah, Rowais, Shaghab, Shara, Shibahah, Shuwaq, Suwayriqiyah, Tabuk, Taif (ii), Tayama, Tayma, Thaghr, Thaqeef, Tharb, Thoul, Turabah, Ula, Umluj, Wajh, Wajh (al) , Yanboo, Zalim.
+*(i) Apertura estacional.*,
+*(ii) Oficina telegráfica principal*
+]
+. Makkah Almokarramah{blank}footnote:[_Via Makkah Almokarramah: El mismo indicador de destino "SJME" se utiliza para los telegramas encaminados via Makkah Almokarramah y destinados a las oficinas siguientes_: Al Jamoom, Al Kariq, Al Sharaye, Al Umra, Kamil, Lith, Madrakah, Mecca voir/see/véase: Makkah Almokarramah, Midan Al Ghazawi, Suq Al Arab Mina.]
+. Abha{blank}footnote:[_Via Abha_: El mismo indicador de destino "SJAB" se utiliza para los telegramas encaminados vía Abha y destinados a las siguientes oficinas
+Abu Arish, Ahad Rofiaidah, Ain Qhtan (Al Ain), Alab, Amwah, Arin, Badr Al Janoub, Balasmar, Bani Amr, Bani Malik (Jizan), Bariq, Bashiir, Bashoot, Biash, Bilqarn, Bishah, Dharan Al Janoub, Farasan (Island), Farshah, Fatihah, Habuna, Hussayniyah, Jizan (ii), Khadra, Khamis Mushait, Khamis Mutayr, Khatham, Khaybar Al Janoub, Maddah, Majardah, Muhayil, Muwassam, Najran (ii), Nimas, Qena Al Bahr, Rayth, Rijal Al Maa (Shaabeen), Sabia, Samitah, Sharorah, Sorat Abidah, Tanumah, Tathleeth, Wadi Bani Hashbal, Yara, Yedemah.
+ *(i) Apertura estacional*, *(ii) Oficina telegráfica principal*]
+. Riyadh (al){blank}footnote:[_Via Riyadh (al): El mismo indicador de destino "SJRI" se utiliza para los telegramas encaminados via Riyadh (al) y destinados a las oficinas siguientes_: Ad Dawadmi, Ad Dilam, Afif, Al Artawiyah, Al Asyah (Ayn Bin Fuhayd), Al Bukayriyah, Al Diriyah, Al Ghat, Al Hariq, Al Hayit, Al Khabra, Al Kharj, Al Majmaah, Al Mudhnab, Al Quwayiah, Al Ulaya, Ar Rass, Ar Rayn, Baqaa Al Lowaimi, Buraydah (Qasim), Durma, Duryah, Hail (ii), Hawtat Bani Tamim, Hawtat Sudair, Hufayr, Huraymala, Jubbah, Khassirah, Layla (Al Aflaj), Marat, Mawquq, Mustajiddah, Muzahmiyah, Qubah, Rawdah, Rimah, Riyadh Al Kabra, Riyadh King Saud University, Riyadh Ministry of PTT, Ruwaydat Al Ard, Sajir, Samira, Shamli, Shaqra, Sulayil, Sulaymi, Thadiq, Thumair, Turabah, Unayzah, Uqlat As Suqur, Uzaym, Wadi Dawasir (Kumasin), Zilfi.
+*(i) Apertura estacional*,
+*(ii) Oficina telegráfica principal*]
+--
+
+a|GOVT – Ministry of Communications and Information Technology, Riyadh
+
+a|SJ- -
+
+a|Dammam (al) +
+Jeddah +
+Makkah Almokarramah +
+Abha (ii) +
+Riyadh (al) +
+Todos los otros
+
+a|SJDM +
+SJJE +
+SJME +
+SJAB +
+SJRI +
+SJOX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*ARGENTINE* +
+*ARGENTINA* +
+*ARGENTINA*
+
+a|Sin encaminamiento +
+CNT – Comisión Nacional de Comunicaciones, Buenos Aires +
+Correo argentino S.A. (Correo Oficial de la República Argentina), Buenos Aires
+
+a|AQ- - +
+AR- - +
+AE- -
+
+a|Buenos Aires +
+Todos los otros
+
+a|--BA +
+--BX
+
+
+a|*ARMÉNIE* +
+*ARMENIA* +
+*ARMENIA*
+
+a|GOVT- Ministry of Transport and Communications, Yerevan
+
+a|AM- -{blank}footnote:[Atribuído, pero no aplicado. Oportunamente se comunicará la fecha de aplicación.]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*ARUBA* +
+*ARUBA* +
+*ARUBA*
+
+a|SETAR – Servicio di Telecomunicacion di Aruba, Oranjestad
+
+a|AW- -
+
+a|Oranjestad +
+S Nicolas Aruba +
+Todos los otros
+
+a|AWOS +
+AWSN +
+AWXX
+
+
+a|*AUSTRALIE*{blank}footnote:AustraliaNote[De ser posible debe incluirse el código postal australiano en la oficina de estino en la última línea de la dirección. Por ejemplo: 	MELBOURNE(3000), BURWOOD(3125), o RICHMOND(7025). Cuando la oficina de origen no conozca el código postal australiano, conviene incluir una indicación del Estado para evitar ambigüedades. Por ejemplo: BURWOODVICTORIA, o RICHMONDTASMANIA. En los telegramas dirigidos a una estación costera (para su transmisión a un barco en navegación) no es necesario indicar el código postal o el Estado. Por ejemplo: PERTHRADIO, SYDNEYRADIO]
+
+*AUSTRALIA*{blank}footnote:AustraliaNote[]
+
+*AUSTRALIA*{blank}footnote:AustraliaNote[]
+
+a|Matrix Omni Solutions Pty. Ltd +
+(Matrix)
+
+a|AA- -
+
+a|Todos los destinos (comprendido Cocos-Keeling Islas – Océano Índico)
+
+a|AAXX{blank}footnote:[Válido asimismo para Cocos-Keeling (Islas) – Océano Índico. Recuérdese que el antiguo indicador de destino «KLID» utilizado para Cocos-Keeling (Islas) – Océano Índico es reemplazado por el indicador de destino «KLXX» (Todos los destinos) (véase la actualización de la lista SRT/CIRT por la Enmienda N.° 15, publicada en el Boletín de Explotación de la UIT N.° 558 del 28.X.1993, página 10). Según la comunicación de Australia, publicada en el Boletín de Explotación de la UIT N.° 584 del 15.XI.1994, páginas 2 y 3, el único indicador válido para Cocos-Keeling (Islas) – Océano Índico desde el 31 de marzo de 1995 es «AAXX».]
+
+
+a|
+. Christmas (Île) – Océan indien +
+Christmas Island – Indian Ocean +
+Christmas (Isla) – Océano Índico
+
+a|
+
+a|IO - -
+
+a|Todos los destinos
+
+a|IOXX
+
+
+a|
+. Norfolk (Île de) +
+Norfolk Island +
+Norfolk (Isla de)
+
+a|
+
+a|NV- -
+
+a|Todos los destinos
+
+a|NVXX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*AUTRICHE* +
+*AUSTRIA* +
+*AUSTRIA*
+
+a|Unitel, Alteveer{blank}footnote:[El servicio de telegramas deja de aceptarse por DATAKOM AUSTRIA A.G.desde el 1.VII.2001 en Austria. Véase el Boletín de Explotación de la UIT N.° 743 del 1.VII.2001 y el Boletín de Explotación de la UIT N.° 751 del 1.XI.2001.]
+
+a|AU- -
+
+a|WIEN +
+Todos los otros
+
+a|AUWI +
+AUWX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*AZERBAÏDJAN* +
+*AZERBAIJAN* +
+*AZERBAIYÁN*
+
+a|Baku Telegraph – Baku
+
+a|AI - -
+
+a|Todos los destinos
+
+a|AIXX
+
+
+a|*BAHAMAS* +
+*BAHAMAS* +
+*BAHAMAS*
+
+a|The Bahamas Telecommunications +
+Company Limited, Nassau
+
+a|BS- -
+
+a|Freeport Grand Bahama +
+Nassau Bahamas +
+Todos los otros
+
+a|BSFP +
+BSNU +
+BSFX
+
+
+a|*BAHREÏN* +
+*BAHRAIN* +
+*BAHREIN*
+
+a|Unitel{blank}footnote:[Véase el Boletín de Explotación de la UIT 963 del 1.IX.2010.]
+
+a|BN- -
+
+a|Bahrain +
+Bahrain Radio +
+Manama +
+Manama Diplomatic +
+Area Counter +
+Manama Shaikh Mubarrak +
+Counter +
+Muharraq +
+Todos los otros
+
+a|BNBA +
+BNBR +
+BNMA +
+ +
+BNDP +
+ +
+BNSM +
+BNMU +
+BNBX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*BANGLADESH* +
+*BANGLADESH* +
+*BANGLADESH*
+
+a|BTTB – Bangladesh Telegraph and Telephone Board, Dhaka
+
+a|BJ- -
+
+a|Dacca -> Dhaka +
+Dhaka +
+Todos los otros
+
+a| +
+BJDA +
+BJDX
+
+
+a|*BARBADE* +
+*BARBADOS* +
+*BARBADOS*
+
+a|C&W BET Ltd – Cable & Wireless +
+BET Ltd, Bridgetown
+
+a|WB- -
+
+a|Barbados / Barbade{blank}footnote:[El indicador de destino «WBBN» es válido para Bridgetown y para todas las localidades situadas en la isla de Barbados.]
+Barbados Radio
+
+a|WBBN +
+WBBR
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*BÉLARUS* +
+*BELARUS* +
+*BELARÚS*
+
+a|Beltelecom, Minsk
+
+a|BY- -
+
+a|Todos los destinos
+
+a|BYXX
+
+
+a|*BELGIQUE* +
+*BELGIUM* +
+*BÉLGICA*
+
+a|Belgacom – Société anonyme de droit public, Bruxelles
+
+a|BE- -
+
+a|Antwerpen / Anvers +
+Bruxelles / Brussel +
+Liège / Luik +
+Oostende Radio / Ostende Radio +
+Todos los otros
+
+a|BEAN +
+BEBR +
+BELI +
+ +
+BEOS +
+BEBX
+
+
+a|*BELIZE* +
+*BELICE* +
+*BELICE*
+
+a|BTL – Belize Telecommunications +
+Limited, Belize City
+
+a|BZ- -
+
+a|Belize City +
+Todos los otros
+
+a|BZBE +
+BZBX
+
+
+a|*BÉNIN* +
+*BENIN* +
+*BENIN*
+
+a|Benin Telecoms SA, Cotonou
+
+a|BC- -
+
+a|Porto Novo Benin +
+Todos los otros
+
+a|BCPN +
+BCPX
+
+
+a|*BERMUDES* +
+*BERMUDA* +
+*BERMUDAS*
+
+a|C&W – Cable and Wireless plc, Hamilton
+
+a|BA- -
+
+a|HAMILTON BERMUDA +
+Todos los otros
+
+a|BAHA +
+BAHX
+
+
+a|*BHOUTAN* +
+*BHUTAN* +
+*BHUTÁN*
+
+a|Bhutan Telecom – Bhutan +
+Telecommunications Corporation, Thimphu
+
+a|BT- -
+
+a|Todos los destinos
+
+a|BTXX
+
+
+a|*BOLIVIE* +
+*BOLIVIA* +
+*BOLIVIA*
+
+a|Entel – Empresa Nacional de Telecomunicaciones, La Paz
+
+a|BO- -{blank}footnote:BoliviaNote[La Administración boliviana precise que se utilizan los códigos siguientes: «BO»	para el sistema de retransmisión de telegramas;	«BV» para la identificación de la red telex.]
+
+BV{blank}footnote:BoliviaNote[]
+
+a|BERMEJO BOLIVIA +
+CAMARGO BOLIVIA +
+CAMIRI +
+COBIJA +
+COCHABAMBA +
+GUAYARAMERIN +
+HUANUNI +
+LA PAZ +
+LLALLAGUA +
+MONTERO BOLIVIA +
+ORURO +
+PAZ (LA) +
+POTOSÍ BOLIVIA +
+RIBERALTA +
+S CRUZ BOLIVIA +
+SUCRE +
+TARIJA +
+TRINIDAD BOLIVIA +
+TUPIZA +
+UYUNI +
+VALLE GRANDE BOLIVIA +
+VILLA MONTES +
+VILLAZÓN +
+YACUIBA +
+Todos los otros
+
+a|BOBJ +
+BOCA +
+BOCM +
+BOCJ +
+BOCB +
+BOGY +
+BOHN +
+BOLA +
+BOLG +
+BOMT +
+BOOR +
+BOLA +
+BOPT +
+BORB +
+BOSC +
+BOSR +
+BOTJ +
+BOTD +
+BOTZ +
+BOUY +
+BOVG +
+BOVM +
+BOVZ +
+BOYB +
+BOLX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*BOSNIE-HERZÉGOVINE* +
+*BOSNIA AND HERZEGOVINA* +
+*BOSNIA Y HERZEGOVINA*
+
+a|Unitel, Alteveer{blank}footnote:[véase el Boletín de Explotación de la UIT 896 del 15.XI.2007]
+
+a|BH - -
+
+a|Todos los destinos
+
+a|BHXX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*BOTSWANA* +
+*BOTSWANA* +
+*BOTSWANA*
+
+a|BTC – Botswana Telecommunications Corporation, Gaborone
+
+a|BD- -
+
+a|Gaborone +
+Lobatse +
+Todos los otros
+
+a|BDGA +
+BDML +
+BDKX
+
+
+a|*BRÉSIL* +
+*BRAZIL* +
+*BRASIL*
+
+a|Embratel – Empresa Brasileira de Telecomunicações S.A., Rio de Janeiro
+
+a|BR- -
+
+a|BELÉM +
+BELO HORIZONTE +
+BRASÍLIA +
+CURITIBA +
+FLORIANÓPOLIS +
+MANAUS +
+PORTO ALEGRE +
+RECIFE +
+RIO DE JANEIRO +
+S. PAULO +
+SALVADOR +
+SANTOS +
+Todos los otros
+
+a|BRBL +
+BRBH +
+BRBS +
+BRCT +
+BRSC +
+BRMN +
+BRPA +
+BRRC +
+BRRJ +
+BRSP +
+BRSD +
+BRSS +
+BRRX
+
+a|*BRUNÉI DARUSSALAM* +
+*BRUNEI DARUSSALAM* +
+*BRUNEI DARUSSALAM*
+
+a|JTB – Jabatan Telekom Brunei, Berakas
+
+a|BU- -
+
+a|Bandar Seri Begawan +
+Kuala Belait +
+Seria +
+Todos los otros
+
+a|BUSB +
+BUKB +
+BUSE +
+BUSX
+
+
+a|*BULGARIE* +
+*BULGARIA* +
+*BULGARIA*
+a|
+a|BG- -{blank}footnote:[El servicio de telegramas deja de aceptarse y los indicadores de destino de telegramas han sido suprimidos desde el 1.II.2005. Sin embargo, el código de dos letras «BG» sigue reservado.]
+a|
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*BURKINA FASO* +
+*BURKINA FASO* +
+*BURKINA FASO*
+
+a|Onatel – Office national des télécommunications du Burkina Faso, Ouagadougou
+
+a|BF- -
+
+a|Bobo Dioulasso +
+Ouagadougou +
+Todos los otros
+
+a|BFBD +
+BFOU +
+BFOX
+
+
+a|*BURUNDI* +
+*BURUNDI* +
+*BURUNDI*
+
+a|OnateL – Office national des télé-ommunications du Burundi, Bujumbura
+
+a|UU- -
+
+a|Bujumbura +
+Todos los otros
+
+a|UUJU +
+UUSX
+
+
+a|*CAMBODGE* +
+*CAMBODIA* +
+*CAMBOYA*
+
+a|GOVT – Ministry of Posts and Telecommunications, Phnom Penh
+
+a|KA- -
+
+a|Kampot +
+Phnom Penh +
+Todos los otros
+
+a|KAKA +
+KAPH +
+KAKX
+
+
+a|*CAMEROUN* +
+*CAMEROON* +
+*CAMERÚN*
+
+a|Camtel – Cameroon Telecommunications, Yaoundé
+
+a|KN- -
+
+a|Douala RC +
+Yaoundé RP +
+Todos los otros
+
+a|KNDA +
+KNYA +
+KNYX
+
+
+a|*CANADA* +
+*CANADA* +
+*CANADÁ*
+
+a|AT&T Easylink Services, Bridgeton, Missouri (United States)
+
+a|CA--
+
+a|Todos los destinos
+
+a|CAMX
+
+
+a|*CAP-VERT* +
+*CAPE VERDE* +
+*CABO VERDE*
+
+a|Sin encaminamiento +
+Cabo Verde Telecom Sarl +
+CPRM – Companhia Portuguesa +
+Rádio Marconi S.A., Praia
+
+a|VU- - +
+CV- - +
+VP- -
+
+a|Mindelo Île S Vincent +
+PRAIA ILE S TIAGO +
+Todos los otros
+
+a|--ST +
+--SA +
+--SX
+
+
+a|*CAYMAN (ÎLES)* +
+*CAYMAN ISLANDS* +
+*CAIMANES (ISLAS)*
+
+a|C&W(WI) – Cable and Wireless (West Indies) Ltd, Grand Cayman
+
+a|CP- -
+
+a|Todos los destinos
+
+a|CPCN
+
+
+a|*CENTRAFRICAINE (RÉP.)* +
+*CENTRAL AFRICAN REP.* +
+*CENTROAFRICANA (REP.)*
+
+a|Société centrafricaine des télécommunications, Bangui
+
+a|RC- -
+
+a|Bangui +
+Todos los otros
+
+a|RCBA +
+RCBX
+
+
+a|*CHILI* +
+*CHILE* +
+*CHILE*
+
+a|Sin encaminamiento +
+VTR – VTR Telecomunicaciones S.A., Santiago de Chile +
+Telex Chile – Telex Chile S.A., Santiago de Chile +
+VTR/CM – VTR Comunicaciones Mundiales S.A., Santiago de Chile +
+TEXCOM
+
+a|CF- - +
+CK- - +
+CL- - +
+CZ- - +
+CT{blank}footnote:[Télex solamente]
+
+a|
+
+a|
+
+
+a|Réseau / Network / Red I
+
+a|VTR +
+VTR/CM
+
+a|CK- - +
+CZ- -
+
+
+a|Andes (Los) +
+Ángeles (Los) +
+Antofagasta +
+Arica +
+Calama +
+Chillán +
+Concepcion +
+Copiapo +
+Coyhaique +
+Curico +
+Iquique +
+La Serena +
+La Unión Valdivia +
+Los Andes +
+Los Ángeles +
+Osorno Chile +
+Ovalle +
+Puerto Aysen +
+Puerto Montt +
+Punta Arenas +
+Quillota +
+Quintero +
+Rancagua Chile +
+S Antonio Chile +
+S Felipe Chile +
+SANTIAGO DE CHILE +
+Serena (La) +
+Talca +
+Talcahuano +
+Temuco +
+Unión Valdivia (La) +
+Valdivia +
+Vallenar +
+Valparaíso +
+Victoria Chile +
+Viña del Mar +
+Todos los otros
+
+
+a|--LD +
+--LA +
+--AF +
+--AR +
+--CA +
+--CH +
+--CN +
+--CP +
+--CY +
+--CO +
+--IQ +
+--LS +
+--LU +
+--LD +
+--LA +
+--OS +
+--OV +
+--PY +
+--PM +
+--PA +
+--QA +
+--QR +
+--RG +
+--SA +
+--SP +
+--SO +
+--LS +
+--TL +
+--TH +
+--TO +
+--LU +
+--VD +
+--VR +
+--VP +
+--VT +
+--VM +
+--SX
+
+
+a|Réseau / Network / Red II
+
+a|Telex Chile
+
+a|CL- -
+
+a|Acund +
+Andes (Los) +
+Ángeles (Los) +
+Angol +
+Antofagasta +
+Arica +
+Arturo Merino Benítez +
+Calama +
+Castro +
+Cauquenes +
+Chillán
+
+a|CLAD +
+CLLD +
+CLLA +
+CLAG +
+CLAF +
+CLAR +
+CLAM +
+CLCA +
+CLCS +
+CLCU +
+CLCH
+
+
+a|*CHILI* +
+*CHILE* +
+*CHILE*
+
+a|
+
+a|
+
+a|Cisterna (La) +
+Concepción +
+Constitución +
+Copiapo +
+Coquimbo +
+Coyhaique +
+Curico +
+Estación Alameda +
+Florida Chile (La) +
+Iquique +
+La Cisterna +
+La Florida Chile +
+La Reina Santiago +
+La Serena +
+La Unión Valdivia +
+Lautaro +
+Linares Chile +
+Los Andes +
+Los Ángeles +
+Lota +
+Matta +
+Nueva Imperial +
+Nunoa Santiago +
+Osorno Chile +
+Ovalle +
+Plaza de Armas +
+Providencia Chile +
+Puente Alto +
+Puerto Aysén +
+Puerto Montt +
+Puerto Natales +
+Puerto Varas +
+Punta Arenas +
+Quilpue +
+Rancagua Chile +
+Reina Santiago (la) +
+S Antonio Chile +
+S Bernardo Chile +
+S Cruz Chile +
+S Felipe Chile +
+S Fernando Chile +
+S Miguel Chile +
+SANTIAGO DE CHILE +
+Serena (La) +
+Talca +
+Talcahuano +
+Temuco +
+Tocopilla +
+Tomé +
+Tropezon +
+Unión Valdivia (La) +
+Valdivia +
+Vallenar +
+Valparaíso +
+Victoria Chile +
+Viña del Mar +
+Todos los otros
+
+a|CLLC +
+CLCN +
+CLCT +
+CLCP +
+CLCB +
+CLCY +
+CLCO +
+CLEA +
+CLLF +
+CLIQ +
+CLLC +
+CLLF +
+CLLR +
+CLLS +
+CLLU +
+CLLO +
+CLLI +
+CLLD +
+CLLA +
+CLLT +
+CLMA +
+CLNI +
+CLNN +
+CLOS +
+CLOV +
+CLPZ +
+CLPR +
+CLPL +
+CLPY +
+CLPM +
+CLPN +
+CLPV +
+CLPA +
+CLQP +
+CLRG +
+CLLR +
+CLSA +
+CLSB +
+CLSC +
+CLSP +
+CLSF +
+CLSM +
+CLSO +
+CLLS +
+CLTL +
+CLTH +
+CLTO +
+CLTA +
+CLTE +
+CLTZ +
+CLLU +
+CLVD +
+CLVR +
+CLVP +
+CLVT +
+CLVM +
+CLSX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*CHINE* +
+*CHINA* +
+*CHINA*
+
+a|China Telecom, Beijing
+
+a|CN- -
+
+a|Beijing +
+Dalian +
+Fuzhou +
+Guangzhou +
+Guilin +
+Hangzhou +
+Harbin +
+Jinan CN +
+Kunming +
+Nanjing +
+Nanning +
+Qingdao
+
+a|CNBJ +
+CNDL +
+CNFZ +
+CNGZ +
+CNGL +
+CNHZ +
+CNHB +
+CNJN +
+CNKM +
+CNNJ +
+CNNG +
+CNQD
+
+
+a|*CHINE* +
+*CHINA* +
+*CHINA*
+
+a|
+
+a|
+
+a|Qinhuangdao +
+Shanghai +
+Shantou +
+Shenyang +
+Taipei +
+Tianjin +
+Xiamen +
+Xian +
+Zhanjiang +
+Todos los otros
+
+a|CNQH +
+CNSH +
+CNST +
+CNSG +
+CNTP +
+CNTJ +
+CNXM +
+CNXA +
+CNZJ +
+CNSX
+
+
+a|*CHYPRE* +
+*CYPRUS* +
+*CHIPRE*
+
+a|CYTA – Cyprus Telecommunications Authority, Nicosia
+
+a|CY- -
+
+a|Cyprus Radio +
+NICOSIA / NICOSIE / LEFKOSIA{blank}footnote:[El nombre de la oficina figura con varias denominaciones y se admiten todas las denominaciones.]
+Todos los otros
+
+a|CYKK +
+CYNC +
+CYNX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*COLOMBIE* +
+*COLOMBIA* +
+*COLOMBIA*
+
+a|Telecom – Empresa Nacional de Telecomunicaciones, Santa Fe de Bogotá
+
+a|CO- -
+
+a|Barranquilla +
+Bogotá +
+Bucaramanga +
+Cali +
+Cúcuta +
+Medellín Rep Colombia +
+Todos los otros
+
+a|COBA +
+COBO +
+COBU +
+COCL +
+COCU +
+COMD +
+COBX
+
+
+a|*COMORES* +
+*COMOROS* +
+*COMORAS*
+
+a|Société nationale des Télécommunications (Comores Telecom), Moroni
+
+a|KO- -
+
+a|Moroni +
+Todos los otros
+
+a|KOMI +
+KODX
+
+
+a|*CONGO (RÉP. DU)* +
+*CONGO (REP. OF THE)* +
+*CONGO (REP.DEL)*
+
+a|Société des Télécommunications du Congo (Sotelco) Brazzaville
+
+a|KG- -
+
+a|Brazzaville +
+Todos los otros
+
+a|KGBE +
+KGBX
+
+
+a|*COOK (ÎLES)* +
+*COOK ISLANDS* +
+*COOK (ISLAS)*
+
+a|TCI – Telecom Cook Islands Ltd, Rarotonga
+
+a|RG- -
+
+a|Todos los destinos
+
+a|RGXX
+
+
+a|*CORÉE (RÉP. DE)* +
+*KOREA (REP. OF)* +
+*COREA (REP. DE)*
+
+a|KT Corporation, Seongnam City
+
+a|KR- -
+
+a|SEOUL +
+Todos los otros
+
+a|KRSE +
+KRSX
+
+
+a|*COSTA RICA* +
+*COSTA RICA* +
+*COSTA RICA*
+
+a|RACSA – Radiográfica Costarricense S.A., San José
+
+a|CR- -
+
+a|S. José Costa Rica +
+Todos los otros
+
+a|CRSE +
+CRSX
+
+
+a|*CÔTE D'IVOIRE* +
+*CÔTE D'IVOIRE* +
+*CÔTE D'IVOIRE*
+
+a|CI-Telcom – Société Côte d'Ivoire-Télécom, Abidjan
+
+a|CI- -
+
+a|Abidjan +
+Todos los otros
+
+a|CIAB +
+CIAX
+
+
+a|*CROATIE* +
+*CROATIA* +
+*CROACIA*
+
+a|HT – Croatian Telecom, Direction of Telecommunications, Telecommunications Traffic Division, Zagreb
+
+a|RH- -
+
+a|Zagreb +
+Todos los otros
+
+a|RHZB +
+RHZX
+
+
+a|*CUBA* +
+*CUBA* +
+*CUBA*
+
+a|Sin encaminamiento +
+GOVT- Ministerio de la Informática y las Comunicaciones, La Habana MCI/WUI – MCI International/WUI, Inc.
+
+a|KK- - +
+CU- - +
+KV- -
+
+a|HABANA +
+Havana  ->  Habana +
+Havane (La)  ->  Habana +
+La Havane  ->  Habana +
+Pinar del Río +
+S. Clara Cuba +
+Santiago de Cuba +
+Todos los otros
+
+a|--HN +
+ +
+ +
+ +
+--PR +
+--SA +
+--SO +
+--HX
+
+
+a|*CURAÇAO* +
+*CURAÇAO* +
+*CURAÇAO*
+
+a|Sin encaminamiento
+
+a|NY - -{blank}footnote:NYfootnote[El servicio de telegramas deja de aceptarse y el indicador de destino de telegramas ha sido suprimido desde el 1.I.2004. Sin embargo, los códigos de dos letras «NY» y «NA» siguen reservados.]
+
+NA - -{blank}footnote:NYfootnote[]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*DANEMARK* +
+*DENMARK* +
+*DINAMARCA*
+a|
+a|DK- -{blank}footnote:[El servicio de telegramas deja de aceptarse y el indicador de destino de telegrama ha sido suprimido desde el 1.VII.2005. Sin embargo, el código de dos letras «DK» sigue reservado.]
+a|
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*DIEGO GARCÍA* +
+*DIEGO GARCÍA* +
+*DIEGO GARCÍA*
+a|C&W – Cable and Wireless plc
+a|DG{blank}footnote:[DIEGO GARCÍA está conectado con la red télex mundial.]
+a|Diego García
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*DJIBOUTI* +
+*DJIBOUTI* +
+*DJIBOUTI*
+
+a|Djibouti Telecom, Djibouti
+
+a|DJ- -
+
+a|Todos los destinos
+
+a|DJXX
+
+
+a|*DOMINICAINE (RÉP.)* +
+*DOMINICAN REP.* +
+*DOMINICANA (REP.)*
+
+a|Sin encaminamiento +
+GOVT – Dirección General de Telecomunicaciones, Santo Domingo +
+AACR – All America Cables and Radio, Inc. +
+Mirador – Red Agencia Mirador
+
+a|DU- - +
+DC- - +
+DI- - +
+DA- -
+
+a|S Domingo +
+Todos los otros
+
+a|--SI +
+--SX
+
+
+a|*DOMINIQUE* +
+*DOMINICA* +
+*DOMINICA*
+
+a|C&W (WI) Ltd / Telecommunications of Dominica Limited, Roseau
+
+a|DO- -
+
+a|Todos los destinos
+
+a|DODA
+
+
+a|*ÉGYPTE* +
+*EGYPT* +
+*EGIPTO*
+
+a|Telecom Egypt, Cairo
+
+a|UN- -
+
+a|ABU HAMMAD SHARKIA +
+ABU KERKAS +
+ABU TIG +
+ALEXANDRIA / ALEXANDRIE +
+ALEXANDRIA CENTRE / ALEXANDRIE CENTRE +
+ALFEE +
+ARISH +
+ASWAN +
+ASYOUT +
+BALIANA +
+BEBA +
+BEILA +
+BELBEIS +
+BENHA +
+BENI MAZAR +
+BENI SUEF +
+BIRKET ELSABAA +
+DAIROUT +
+DAKHALA +
+DAMANHOUR +
+DAMIETTA +
+DEKERNESS +
+DESOUK +
+DYARB NIGM +
+EDFOU +
+EKHMIM +
+EL KOUSSIA +
+EL TOR +
+ESNA +
+ETAI ELBAROUD +
+FAQOUS +
+FARASKOUR +
+FAYOUM +
+GERGA
+
+a|UNAB +
+UNAK +
+UNTG +
+UNAA +
+UNAX +
+UNAF +
+UNAR +
+UNAS +
+UNAT +
+UNBL +
+UNBA +
+UNBI +
+UNBE +
+UNBN +
+UNBZ +
+UNBS +
+UNBT +
+UNDR +
+UNDK +
+UNDM +
+UNDT +
+UNDE +
+UNDS +
+UNDN +
+UNDF +
+UNEK +
+UNKA +
+UNTR +
+UNES +
+UNBR +
+UNFQ +
+UNFK +
+UNFI +
+UNGR
+
+
+a|*ÉGYPTE* +
+*EGYPT* +
+*EGIPTO*
+
+a|
+
+a|
+
+a|GIZA +
+HAMOUL +
+HURGHADA +
+ISMAILIA +
+KAFR EL DAWAR +
+KAFR EL SHEIKH +
+KAFR EL ZAYAT +
+KENA +
+KHARGA +
+KORBA +
+KOUM OMBU +
+KOUS +
+LUXOR +
+MAGAGA +
+MALLAWY +
+MANFALOUT +
+MANSOURA +
+MARAGHA +
+MEHALLA EL KOBRA +
+MENIA ELKAMH +
+MENOUF +
+MERSA MATRUH +
+MINIA +
+MIT GHAMR +
+NAGAA HAMADI TOWN +
+NAKADA +
+NOUABEI +
+PORT SAID +
+PORT SAID C +
+QUESSNA +
+RAS GHAREB +
+SAMALLOUT +
+SHERBIN +
+SHIBIN ELKOM +
+SHIBIN ELKANATER +
+SINBELLAWEIN +
+SOHAG +
+SUEZ +
+SUEZ C +
+TAHTA +
+TALA +
+TANTA +
+TEMA +
+WASTA +
+ZAGAZIG +
+ZEFTA +
+Todos los otros
+
+a|UNGZ +
+UNHL +
+UNHG +
+UNIS +
+UNFD +
+UNKS +
+UNKZ +
+UNQN +
+UNKR +
+UNKB +
+UNKU +
+UNKO +
+UNLO +
+UNMA +
+UNMW +
+UNML +
+UNMH +
+UNMR +
+UNMK +
+UNKM +
+UNMF +
+UNMT +
+UNMN +
+UNMG +
+UNNG +
+UNNK +
+UNNB +
+UNPO +
+UNPP +
+UNKN +
+UNGA +
+UNSM +
+UNSR +
+UNSA +
+UNSM +
+UNSB +
+UNSH +
+UNSU +
+UNSS +
+UNTH +
+UNTL +
+UNTT +
+UNTM +
+UNWS +
+UNZG +
+UNZF +
+UNCX
+
+
+a|*EL SALVADOR* +
+*EL SALVADOR* +
+*EL SALVADOR*
+
+a|ANTEL – Administración Nacional de Telecomunicaciones, San Salvador
+
+a|SR- -
+
+a|S Salvador San Salvador +
+Todos los otros
+
+a|SRSR +
+SRSX
+
+
+a|*ÉMIRATS ARABES UNIS* +
+*UNITED ARAB EMIRATES* +
+*EMIRATOS ÁRABES UNIDOS* +
+Abu Dhabi, Ajman, Dubai, Fujairah, Ras Al Khaimah, Sharjah, Umm Al Quwain
+
+a|Etisalat – The Emirates Telecommunications Corporation Ltd, Abu Dhabi
+
+a|EM- -
+
+a|ABU DHABI +
+Abu Hail +
+AJMAN +
+AL AIN ABU DHABI +
+DEIRA DUBAI +
+DUBAI +
+FUJAIRAH +
+Jebel Ali +
+Jumeirah +
+Kalba +
+Khor Fakkan +
+RAS AL KHAIMAH +
+SHARJAH +
+Umm Al Quwain
+
+a|EMAD +
+EMAH +
+EMAJ +
+EMAL +
+EMDE +
+EMDU +
+EMFU +
+EMLI +
+EMJM +
+EMKA +
+EMKI +
+EMRK +
+EMSH +
+EMQA
+
+
+a|*EQUATEUR* +
+*ECUADOR* +
+*ECUADOR*
+
+a|Emetel S.A. – Ecuador, Quito
+
+a|ED- -
+
+a|Ambato Ecuador +
+Azogues +
+Babahoyo +
+Cuenca Ecuador +
+Esmeraldas Ecuador +
+Guaranda Ecuador +
+Guayaquil +
+Ibarra Ecuador +
+Latacunga +
+Loja Ecuador +
+Machala +
+Manta Ecuador +
+Portoviejo +
+Quito +
+Riobamba Ecuador +
+Tulcán +
+Todos los otros
+
+a|EDTA +
+EDNA +
+EDRB +
+EDAC +
+EDES +
+EDBG +
+EDGL +
+EDIB +
+EDXL +
+EDLO +
+EDOM +
+EDMT +
+EDMP +
+EDQO +
+EDHR +
+EDCT +
+EDQX
+
+
+a|*ERYTHRÉE* +
+*ERITREA* +
+*ERITREA*
+
+a|TSE – Telecommunications Services of Eritrea, Asmara
+
+a|ER- -
+
+a|Todos los destinos
+
+a|ERXX
+
+
+a|*ESPAGNE* +
+*SPAIN* +
+*ESPAÑA*
+
+a|Sociedad Estatal "Correos y Telégrafos", S.A., Madrid
+
+a|ES- -
+
+a|BARCELONA +
+MADRID +
+Telegrams with service indication TFx +
+Todos los destinos +
+
+a|ESBX +
+ESMX +
+ESTT{blank}footnote:[El indicador de destino «ESTT» se utilizará en los telegramas con la indicación de servicio =TFx= (entrega por teléfono, x = número de teléfono) para agilizar la comunicación con cualquier destino de España.]
+ESXX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*ESTONIE* +
+*ESTONIA* +
+*ESTONIA*
+
+a|Telegraf OÜ – Estonia{blank}footnote:[véase el Boletín de Explotación de la UIT 951 del 1.III.2010.]
+
+a|EE- -
+
+a|Tallinn +
+Todos los otros
+
+a|EETL +
+EEXX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*ÉTATS-UNIS* +
+*UNITED STATES* +
+*ESTADOS UNIDOS* +
+Estados Unidos (Territorio continental) (salvo Alaska y Hawai)
+
+a|AT&T – AT&T EasyLink Services +
+AT&T – AT&T EasyLink Services
+
+a|UD- - +
+UQ footnote:[Servicio télex solamente.]
+
+a|
+
+a|
+
+
+a|Réseau / Network / Red I
+
+a|Sin encaminamiento +
+Graphnet, Inc. +
+CCI – Consortium Communications International, Inc.
+
+a|US- - +
+UB- - +
+UC- -
+
+a|
+
+a|
+
+
+a|
+
+a|Telenet – Telenet Communications Corporation +
+TRT/FTC – TRT/FTC Communications, Inc. +
+AT&T – AT&T EasyLink Services +
+MMR – Mobile Marine Alabama Radio, Inc. +
+MCI/WUI – MCI International/WUI, Inc. +
+TRT/FTC – TRT/FTC Communications, Inc. +
+MCI/WUI – MCI International/WUI, Inc.
+
+a|UE footnote:[Servicio télex solamente.]
+
+UF- - +
+UI- - +
+UJ- - +
+UR- - +
+UT- - +
+UW- -
+
+a|Miami Florida +
+New Orleans +
+New York +
+S. Francisco +
+Washington D C +
+Todos los otros{blank}footnote:[Incluido New York State]
+
+a|
+
+
+a|Coast Stations
+
+. operated by AT&T +
+. operated by KFSWC +
+. operated by MCI/WUI +
+. operated by MMR +
+. operated by Other Companies
+
+a|AT&T +
+TRT/FTC +
+AT&T +
+MCI/WUI +
+TRT/FTC +
+MCI/WUI +
+MCI/WUI +
+MCI/WUI +
+AT&T +
+MCI/WUI +
+MMR +
+TRT/FTC
+
+a|
+
+
+a|Todos los destinos +
+Slidell, Louisiana Radio/WNU Palo Alto, California +
+Radio/KFS +
+Chatham, Massachusetts +
+Radio +
+S. Francisco, California +
+Radio/KPH +
+Todos los otros MCI/WUI +
+Mobile, Alabama Radio +
+Todos los otros
+
+a|--MI +
+--NO +
+--NY +
+--SF +
+--WA +
+--NX +
+UICX +
+UTSL +
+UIMS +
+URFS +
+UTFS +
+URCH +
+URPH +
+URCX +
+UIMR +
+URMO +
+UJMR +
+UTMR +
+USCX
+
+
+a|Réseau / Network / Red  II
+
+a|TRT/FTC
+
+a|UF- -
+
+a|
+
+a|
+
+
+a|Réseau / Network / Red  III
+
+a|USL – United States-Liberia Radio Corporation
+
+a|UL- -
+
+a|Akron Ohio
+
+a|ULAK
+
+
+a|Alaska
+
+a|Sin encaminamiento +
+AT&T +
+MCI/WUI
+
+a|UA- - +
+UH- - +
+UK- -
+
+a|Juneau Alaska +
+Todos los otros
+
+a|--JU +
+--JX
+
+
+a|Hawaï – Hawaii – Hawai
+
+a|Sin encaminamiento +
+MCI/WUI +
+MCI/WUI
+
+a|HA- - +
+HR- - +
+HW- -
+
+a|--HU +
+--HX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*ÉTHIOPIE* +
+*ETHIOPIA* +
+*ETIOPÍA*
+
+a|GOVT – Ethiopian Telecommunications Corporation, Addis Ababa
+
+a|ET- -
+
+a|Addis Ababa +
+Todos los otros
+
+a|ETAD +
+ETAX
+
+
+a|*FALKLAND (ÎLES) (MALVINAS)*{blank}footnote:MalvianasNote[Con respecto a la jurisdicción sobre las Islas Malvinas (Falkland) y Dependencias, véase la declaración de la República Argentina y la del Reino Unido de Gran Bretaña e Irlanda del Norte respectivamente (reproducidas en los números 10 y 102 del Protocolo final al Convenio Internacional de Telecomunicaciones de Nairobi, 1982).]
+
+*FALKLAND ISLANDS (MALVINAS)*{blank}footnote:MalvianasNote[]
+
+*MALVINAS (ISLAS) (FALKLAND)*{blank}footnote:MalvianasNote[]
+
+a|C&W – Cable and Wireless plc, Stanley
+
+a|FK- -
+
+a|Todos los destinos
+
+a|FKXX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*FÉDÉRATION DE RUSSIE*{blank}footnote:RusiaNote[El indicador de destino «SUMX» (Todos los otros) se puede utilizar todavía para otras oficinas no mencionadas en la lista y situadas en ciertos países de la antigua URSS.]
+
+*RUSSIAN FEDERATION*{blank}footnote:RusiaNote[]
+
+*FEDERACIÓN DE RUSIA*{blank}footnote:RusiaNote[]
+
+a|Rostelecom – Rostelecom, Moscow
+
+a|RU - -
+
+a|Abakan +
+Anadyr +
+Arkhangelsk +
+Astrakhan +
+Barnaul +
+Belgorod +
+Birobidjan +
+Blagovestchensk +
+Briansk +
+Ekaterinburg +
+Elista +
+Gorno-Altaisk +
+Groznyi +
+Iakutsk +
+Iaroslavl +
+Ijevsk +
+Ioshkar-Ola +
+Irkutsk +
+Iujno-Sakhalinsk +
+Ivanovo +
+Kaliningrad +
+Kaluga +
+Kazan +
+Kemerovo +
+Khabarovsk +
+Khanty- Mansiisk +
+Kirov +
+Kostroma +
+Krasnodar +
+Krasnoiarsk +
+Kurgan +
+Kursk +
+Kyzyl +
+Lipetsk +
+Maikop +
+Magadan +
+Makhatchkala +
+Moskva +
+Murmansk +
+Nazran +
+Naltchik +
+Nijnii Novgorod +
+Novgorod +
+Novosibirsk +
+Omsk +
+Orel +
+Orenburg +
+Penza +
+Perm +
+Petropavlovsk Kamtchatskii +
+Petrozavodsk +
+Pskov +
+Riazan +
+Rostov na Donu +
+Samara +
+Sankt-Peterburg +
+Saransk +
+Saratov +
+Smolensk +
+Stavropol +
+Syktyvkar +
+Tambov +
+Tcheboksary +
+Tcherkessk +
+Tcheliabinsk +
+Tchita +
+Tiumen +
+Tomsk +
+Tula +
+Tver
+
+a|RUAB +
+RUAD +
+RUAR +
+RUAS +
+RUBN +
+RUBG +
+RUBD +
+RUBL +
+RUBR +
+RUEK +
+RUEL +
+RUGA +
+RUGR +
+RUAK +
+RUAV +
+RUIK +
+RUIO +
+RUIR +
+RUSH +
+RUIV +
+RUKG +
+RUKC +
+RUKN +
+RUKM +
+RUHB +
+RUHM +
+RUKF +
+RUKS +
+RUKD +
+RUKR +
+RUKP +
+RUKK +
+RUKZ +
+RULP +
+RUMP +
+RUMG +
+RUMK +
+RUMS +
+RUMR +
+RUNZ +
+RUNL +
+RUNN +
+RUNV +
+RUNS +
+RUOM +
+RUOR +
+RUOB +
+RUPN +
+RUPM +
+RUPK +
+RUPZ +
+RUPS +
+RURZ +
+RURD +
+RURS +
+RUSP +
+RUSN +
+RUSR +
+RUSM +
+RUST +
+RUSK +
+RUTV +
+RUCB +
+RUTR +
+RUCL +
+RUCT +
+RUTN +
+RUTM +
+RUTU +
+RUTE
+
+
+a|*FÉDÉRATION DE RUSSIE*{blank}footnote:RusiaNote[El indicador de destino «SUMX» (Todos los otros) se puede utilizar todavía para otras oficinas no mencionadas en la lista y situadas en ciertos países de la antigua URSS.]
+
+*RUSSIAN FEDERATION*{blank}footnote:RusiaNote[]
+
+*FEDERACIÓN DE RUSIA*{blank}footnote:RusiaNote[]
+
+a|
+
+a|
+
+a|Ufa +
+Ulan-Ude +
+Ulianovsk +
+Vladikavkaz +
+Vladimir +
+Vladivostok +
+Volgograd +
+Vologda +
+Voronej +
+Todos los otros
+
+a|RUUF +
+RUUD +
+RUUL +
+RUVK +
+RUVL +
+RUVV +
+RUVG +
+RUVO +
+RUVR
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*FÉROÉ (ÎLES)* +
+*FAROE ISLANDS* +
+*FEROE (ISLAS)*
+a|
+a|FA- -{blank}footnote:[El servicio de telegramas deja de aceptarse y el indicador de destino de telegrama ha sido suprimido desde el 1.II.2004. Sin embargo, el código de dos letras «FA» sigue reservado.]
+a|
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*FIDJI* +
+*FIJI* +
+*FIJI*
+
+a|
+
+a|FJ- -{blank}footnote:FijiNote[El servicio de telegramas deja de aceptarse y los indicadores de destino de telegramas han sido suprimidos desde el 1.VII.1999. Sin embargo, los códigos de dos letras «FJ» y «FC» siguen reservados.]
+
+FC- -{blank}footnote:FijiNote[]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*FINLANDE* +
+*FINLAND* +
+*FINLANDIA*
+a|Unitel, Alteveer{blank}footnote:[El servicio de telegramas deja de aceptarse por Sonera desde el 1.I.2001 en Finlandia. Véase el Boletín de Explotación de la UIT N.° 729 del 1.XII.2000 y el Boletín de Explotación de la UIT N.° 751 del 1.XI.2001.]
+a|FI- -
+a|HELSINKI / HELSINGFORS +
+Todos los otros
+a|FIHE +
+FIHX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*FRANCE* +
+*FRANCE* +
+*FRANCIA*
+a|France Télécom (FTRSI) – France Télécom Réseaux et Services Internationaux, Paris
+a|FR- -
+a|Todos los destinos
+a|FRXX
+
+
+a|*FRANCE DE L'OCÉAN INDIEN* +
+*FRENCH DEPARTMENTS AND TERRITORIES IN THE INDIAN OCEAN* +
+*DEPARTAMENTOS Y TERRITORIOS FRANCESES DEL OCÉANO ÍNDICO*
+a|France Télécom (FTRSI) – France Télécom Réseaux et Services Internationaux
+a|RE
+a|Todos los destinos
+a|REXX
+
+
+a|*GABON* +
+*GABON* +
+*GABÓN*
+a|Gabonaise des Télécommunications Libreville
+a|GO- -
+a|Libreville +
+Port Gentil +
+Todos los otros
+a|GOLE +
+GOGE +
+GOLX
+
+
+a|*GAMBIE* +
+*GAMBIA* +
+*GAMBIA*
+
+a|GAMTEL – Gambia Telecommunications Company Ltd, Banjul
+
+a|GV- -
+
+a|Banjul +
+Todos los otros
+
+a|GVBA +
+GVBX
+
+
+a|*GEORGIE* +
+*GEORGIA* +
+*GEORGIA*
+a|Infocom Ltd – Republican Centre of Informatics and Data Transmission (Infocom) Ltd, Tbilisi
+a|GI - -
+a|Batumi +
+Kutaisi +
+Sukhumi +
+Tbilisi +
+Todos los otros
+a|GIBT +
+GIKT +
+GISI +
+GITB +
+GITX
+
+
+a|*GHANA* +
+*GHANA* +
+*GHANA*
+a|Ghana Telecom, Accra
+a|GH- -
+a|ACCRA +
+Kumasi +
+Takoradi +
+Tema Ghana +
+Todos los otros
+a|GHAA +
+GHKS +
+GHTI +
+GHTE +
+GHAX
+
+
+a|*GIBRALTAR* +
+*GIBRALTAR* +
+*GIBRALTAR*
+a|
+a|GK- -{blank}footnote:[El servicio de telegramas deja de aceptarse y el indicador de destino de telegramas ha sido suprimido desde el 1.IV.2003. Sin embargo, el código de dos letras «GK» sigue reservado.]
+a|
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*GRÈCE* +
+*GREECE* +
+*GRECIA*
+
+a|OTE S.A. – OTE S.A., Organisme des télécommunications Helléniques, Maroussi Athinai
+
+a|GR- -
+
+a|ATHINAI +
+Todos los otros
+
+a|GRAS +
+GRAX
+
+
+a|*GRENADE* +
+*GRENADA* +
+*GRANADA*
+
+a|GRENTEL – Grenada Telecommunications Limited, St. George's
+
+a|GA- -
+
+a|Hillsborough Carriacou Island +
+S George's Grenada (Île)
+
+a|GACU +
+GAGA
+
+
+a|*GROENLAND* +
+*GREENLAND* +
+*GROENLANDIA*
+a|
+a|GD- -{blank}footnote:[El servicio de telegramas deja de aceptarse y el indicador de destino de telegramas ha sido suprimido desde el 1.III.2002. Sin embargo, el código de dos letras «GD» sigue reservado.]
+a|
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*GUADELOUPE* +
+*GUADALUPE* +
+*GUADALUPE*
+
+a|France Télécom (FTRSI) - France Télécom Réseaux et Services Internationaux
+
+a|GL- -
+
+a|Todos los destinos
+
+a|GLXX
+
+
+a|*GUAM* +
+*GUAM* +
+*GUAM*
+
+a|MCI/WUI – MCI International/WUI, Inc., Guam
+
+a|GM- -
+
+a|Agana +
+Todos los otros
+
+a|GMAG +
+GMAX
+
+
+a|*GUANTANAMO (BAIE)* +
+*GUANTANAMO BAY* +
+*GUANTÁNAMO (BAHÍA)*
+
+a|GOVT – Govt. Administration of Telecommunications, Guantanamo Bay
+
+a|UM- -
+
+a|Todos los destinos
+
+a|UMGB
+
+
+a|*GUATEMALA* +
+*GUATEMALA* +
+*GUATEMALA*
+
+a|GUATEL – Empresa Guatemalteca de Telecomunicaciones, Ciudad de Guatemala
+
+a|GU- -
+
+a|Guatemala +
+Todos los otros
+
+a|GUGU +
+GUGX
+
+
+a|*GUINÉE* +
+*GUINEA* +
+*GUINEA*
+
+a|SOTELGUI S.A.. – Société des télécommunications de Guinée, Conakry
+
+a|GE- -
+
+a|Conakry +
+Todos los otros
+
+a|GECY +
+GECX
+
+
+a|*GUINÉE-BISSAU* +
+*GUINEA-BISSAU* +
+*GUINEA-BISSAU*
+
+a|GOVT – Direcção Geral dos Correios e Telecomunicações, Bissau
+
+a|BI- -
+
+a|Bissau +
+Todos los otros
+
+a|BIBI +
+BIBX
+
+
+a|*GUINÉE EQUATORIALE* +
+*EQUATORIAL GUINEA* +
+*GUINEA ECUATORIAL*
+a|Correos y Telecom – Dirección General de Correos y de Telecomunicaciones, Malabo
+a|EG- -
+a|Bata Guinea Ecuatorial +
+MALABO +
+Todos los otros
+a|EGBT +
+EGMB +
+EGMX
+
+
+a|*GUYANA* +
+*GUYANA* +
+*GUYANA*
+a|
+a|GY- -{blank}footnote:[El servicio de telegramas deja de aceptarse y el indicador de destino de telegramas ha sido suprimido desde el 31.III.2002. Sin embargo, el código de dos letras «GY» sigue reservado.]
+a|
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*GUYANE FRANÇAISE* +
+*FRENCH GUIANA* +
+*GUYANA FRANCESA*
+a|France Télécom (FTRSI) – France Télécom Réseaux et Services Internationaux
+a|FG- -
+a|Todos los destinos
+a|FGXX +
+
+
+a|*HAÏTI* +
+*HAITI* +
+*HAITÍ*
+
+a|Teleco – Télécommunications d'Haïti (S.A.M.), Port-au-Prince
+
+a|HN- -
+
+a|Port-au-Prince +
+Todos los otros
+
+a|HNPP +
+HNPX
+
+
+a|*HONDURAS* +
+*HONDURAS* +
+*HONDURAS*
+
+a|HONDUTEL – Empresa Hondureña de Telecomunicaciones, Tegucigalpa
+
+a|HO- -
+
+a|La Ceiba Honduras / Ceiba Honduras (La)* +
+Puerto Cortes +
+S Pedro Sula +
+Tegucigalpa +
+Tela +
+Todos los otros
+
+a|HOLC +
+HOPC +
+HOSP +
+HOTA +
+HOTE +
+HOTX
+
+
+a|*HONG KONG, Chine* +
+*HONG KONG, China* +
+*HONG KONG, China*
+
+a|
+
+a|HX- -{blank}footnote:[El servicio de telegramas deja de aceptarse y el indicador de destino de telegramas ha sido suprimido desde el 2.I.2004. Sin embargo, el código de dos letras «HX» sigue reservado.]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*HONGRIE* +
+*HUNGARY* +
+*HUNGRÍA*
+
+a|
+
+a|HU- -{blank}footnote:[El servicio de telegramas deja de aceptarse y el indicador de destino de telegramas ha sido suprimido desde el 1.VI.2007. Sin embargo, el código de dos letras «HU» sigue reservado.]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*INDE* +
+*INDIA* +
+*INDIA*
+
+. MUMBAI / BOMBAY
+
+. CALCUTA
+
+. MANDRAS
+
+. NEW DELHI
+
+a|VSN – Videsh Sanchar Nigam Limited, Mumbai (ex-Bombay)
+
+a|IN- -
+
+a|MUMBAI / BOMBAY +
+Ahmedabad +
+Baroda +
+Bhilai +
+Bhopal +
+Hyderabad +
+Indore +
+Jabalpur +
+Jaipur +
+Jamnagar +
+Kota +
+Marmugao +
+Nagpur +
+Nasik +
+Panaji +
+Poona +
+Rajkot +
+Ratnagiri +
+Secunderabad +
+Surat +
+Thana Maharashtra +
+ +
+CALCUTTA +
+Asansol +
+Chittaranjan +
+Cuttack +
+Darjeeling +
+Durgapur +
+Gangtok Sikkim +
+Guwahati +
+Giridih +
+Howrah India +
+Jamshedpur +
+Jogbani +
+Paradip +
+Patna +
+Ranchi +
+Rourkela +
+Shillong +
+Sindri +
+ +
+MADRAS +
+Alleppey +
+Bangalore +
+Calicut +
+Cochin +
+Coimbatore +
+Ernakulam +
+Guntur +
+Kakinada +
+Koothanallur +
+Kota Nellore +
+Kota SK +
+Tokkayam +
+Madurai +
+Mangalore +
+Mysore +
+Pondicherry +
+Quilon +
+Tiruchirapalli +
+Trivandrum +
+Tuticorin +
+Udyogamandal +
+Visakhapatnam +
+ +
+NEW DELHI +
+Agra +
+Aligarh +
+Allahabad +
+Ballabgarh +
+Bhadohi +
+Bhatinda +
+Chandigarh +
+Dehradun +
+Faridabad +
+Faridkot +
+Hissar India +
+Jammu +
+Jammu Tawi +
+Jullundur +
+Kanpur +
+Lucknow +
+Ludhiana +
+Moradabad +
+Patiala +
+Phagwara +
+Rohtak +
+Saharanpur +
+Simla +
+Srinagar +
+Srinagar Garhwal +
+Varanasi +
+Todos los otros
+
+a|INBY +
+INBX +
+INBX +
+INBX +
+INBX +
+INBX +
+INBX +
+INBX +
+INBX +
+INBX +
+INBX +
+INBX +
+INBX +
+INBX +
+INBX +
+INBX +
+INBX +
+INBX +
+INBX +
+INBX +
+INBX +
+ +
+INCA +
+INCX +
+INCX +
+INCX +
+INCX +
+INCX +
+INCX +
+INCX +
+INCX +
+INCX +
+INCX +
+INCX +
+INCX +
+INCX +
+INCX +
+INCX +
+INCX +
+INCX +
+ +
+INMS +
+INMX +
+INMS +
+INMX +
+INMS +
+INMX +
+INMS +
+INMX +
+INMS +
+INMX +
+INMS +
+INMX +
+INMS +
+INMX +
+INMS +
+INMX +
+INMS +
+INMX +
+INMS +
+INMX +
+INMX +
+INMX +
+INMX
+
+INND +
+INNX +
+INNX +
+INNX +
+INNX +
+INNX +
+INNX +
+INNX +
+INNX +
+INNX +
+INNX +
+INNX +
+INNX +
+INNX +
+INNX +
+INNX +
+INNX +
+INNX +
+INNX +
+INNX +
+INNX +
+INNX +
+INNX +
+INNX +
+INNX +
+INNX +
+INNX +
+INXX
+
+
+a|*INDONÉSIE* +
+*INDONESIA* +
+*INDONESIA*
+
+a|
+
+a|IA- -{blank}footnote:[El servicio de telegramas deja de aceptarse y los indicadores de destino de telegramas han sido suprimidos desde el 22.V.2003. Sin embargo, el código de dos letras «IA» sigue reservado.]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*IRAN (RÉPUBLIQUE ISLAMIQUE D')* +
+*IRAN (ISLAMIC REPUBLIC OF)* +
+*IRÁN (REPÚBLICAISLÁMICA DEL)*
+
+a|TCI (GOVT) – Telecommunication Company of Iran, Tehran
+
+a|IR- -
+
+a|Ahvaz +
+Babol +
+Bakhtaran +
+Isfahan +
+Kerman +
+Meched +
+Recht +
+Shiraz +
+Tabriz +
+Teheran +
+Todos los otros
+
+a|IRAZ +
+IRBL +
+IRBN +
+IRSF +
+IRKN +
+IRMD +
+IRRT +
+IRSZ +
+IRTZ +
+IRTN +
+IRTX
+
+
+a|*IRAQ* +
+*IRAQ* +
+*IRAQ*
+
+a|GOVT – Iraqi Telecommunications and Post, Baghdad
+
+a|IK- -
+
+a|Baghdad / Bagdad +
+Todos los otros
+
+a|IKBA +
+IKBX
+
+
+a|*IRLANDE* +
+*IRELAND* +
+*IRLANDA*
+
+a|Eircom plc, Dublin
+
+a|EI- -
+
+a|DUBLIN +
+Todos los otros
+
+a|EIDN +
+EIDX
+
+
+a|*ISLANDE* +
+*ICELAND* +
+*ISLANDIA*
+
+a|UNITEL, Alteveer{blank}footnote:[El servicio de telegramas deja de aceptarse por Iceland Telecom Ltd (IT) desde el 1.V.2001 en Islandia. Véase el Boletín de Explotación de la UIT N.° 737 del 1.IV.2001 y el Boletín de Explotación de la UIT N.° 751 del 1.XI.2001.]
+
+a|IS- -
+
+a|REYKJAVIK +
+Todos los otros
+
+a|ISRK +
+ISRX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*ISRAËL* +
+*ISRAEL* +
+*ISRAEL*
+
+a|IPA – Israel Postal Authority, Jerusalem
+
+a|IL- -
+
+a|Todos los destinos
+
+a|ILXX
+
+
+a|*ITALIE*{blank}footnote:admin[La Administración italiana ha hecho que el nombre de cada oficina esté precedido por el código postal.via Swiss Telex OB921]
+
+*ITALY*{blank}footnote:admin[]
+
+*ITALIA*{blank}footnote:admin[]
+
+a|Sin encaminamiento +
+GOVT – Ministry of Economic Development, Roma +
+TELECOM ITALIA S.p.A., Roma
+
+a|IU- - +
+IG- - +
+IT- -
+
+a|15011 ACQUI TERME +
+45011 ADRIA +
+92100 AGRIGENTO +
+12051 ALBA +
+17031 ALBENGA +
+91011 ALCAMO +
+15100 ALESSANDRIA +
+60100 ANCONA +
+60100 ANCONE  -> ANCONA +
+70031 ANDRIA +
+11100 AOSTA +
+11100 AOSTE  ->  AOSTA +
+67100 AQUILA (L') +
+52100 AREZZO +
+28041 ARONA +
+63100 ASCOLI PICENO +
+14100 ASTI +
+83100 AVELLINO +
+67051 AVEZZANO +
+70100 BARI +
+36061 BASSANO DEL GRAPPA +
+89041 BATTIPAGLIA +
+28042 BAVENO +
+32100 BELLUNE  -> BELLUNO +
+32100 BELLUNO +
+82100 BENEVENTO +
+24100 BERGAME  -> BERGAMO +
+24100 BERGAMO +
+13051 BIELLA +
+40126 BOLOGNA +
+40126 BOLOGNE  -> BOLOGNA +
+40126 BOLONHIA  -> BOLOGNA +
+40126 BOLONIA  -> BOLOGNA +
+39100 BOLZANO +
+13011 BORGOSESIA +
+39100 BOZEN  -> BOLZANO +
+25043 BRENO
+
+a|--AC +
+--AD +
+--AG +
+--AB +
+--AE +
+--AA +
+--AL +
+--AN +
+ +
+--AI +
+--AO +
+ +
+--AQ +
+--AR +
+--AH +
+--AP +
+--AT +
+--AV +
+--AZ +
+--BA +
+ +
+--BP +
+--BT +
+--BV +
+ +
+--BL +
+--BN +
+ +
+ +
+--BG +
+--BI +
+--BO +
+ +
+ +
+ +
+--BZ +
+--BH +
+ +
+--BJ
+
+
+a|*ITALIE*{blank}footnote:admin[La Administración italiana ha hecho que el nombre de cada oficina esté precedido por el código postal.via Swiss Telex OB921]
+
+*ITALY*{blank}footnote:admin[]
+
+*ITALIA*{blank}footnote:admin[]
+
+a|
+
+a|
+
+a|25100 BRESCIA +
+39042 BRESSANONE +
+72100 BRINDES -> BRINDISI +
+72100 BRINDISI +
+39042 BRIXEN  -> BRESSANONE +
+39031 BRUNECK -> BRUNICO +
+39031 BRUNICO +
+21052 BUSTO ARSIZIO +
+09100 CAGLIARI +
+95041 CALTAGIRONE +
+93100 CALTANISSETTA +
+62032 CAMERINO +
+86100 CAMPOBASSO +
+15033 CASALE MONFERRATO +
+26041 CASALMAGGIORE +
+81100 CASERTA +
+81100 CASERTE  -> CASERTA +
+03043 CASSINO +
+87012 CASTROVILLARI +
+95100 CATANE  -> CATANIA +
+95100 CATANIA +
+88100 CATANZARO +
+38033 CAVALESE +
+90015 CEFALU +
+47023 CESENA +
+71042 CERIGNOLA +
+33052 CERVIGNANO DEL FRIULI +
+53042 CHIANCIANO TERME +
+23022 CHIAVENNA +
+66100 CHIETI +
+00120 CITTA DEL VATICANO +
+00053 CIVITAVECCHIA +
+38023 CLES +
+24023 CLUSONE +
+20073 CODOGNO +
+44022 COMACCHIO +
+22100 COME -> COMO +
+22100 COMO +
+31015 CONEGLIANO +
+32043 CORTINA D'AMPEZZO +
+87100 COSENZA +
+26013 CREMA +
+26100 CREMONA +
+26100 CREMONE -> CREMONA +
+88074 CROTONE +
+12100 CUNEO +
+28037 DOMODOSSOLA +
+94100 ENNA +
+50053 EMPOLI +
+35042 ESTE +
+60044 FABRIANO +
+48018 FAENZA +
+32032 FELTRE +
+63023 FERMO +
+44100 FERRARA +
+44100 FERRARE -> FERRARA +
+43036 FIDENZA +
+50123 FIRENZE +
+50123 FLORENCE -> FIRENZE
+
+
+a|--BS +
+--BK +
+ +
+ +
+--BR +
+ +
+ +
+ +
+ +
+--BU +
+--BM +
+--CA +
+--JA +
+--CL +
+--JB +
+--CB +
+ +
+--JC +
+--JD +
+--CE +
+ +
+ +
+--JE +
+--JF +
+ +
+ +
+--CT +
+--CZ +
+--JG +
+--JH +
+--JK +
+--JI +
+ +
+--JJ +
+--JL +
+--JM +
+--CH +
+ +
+--VS +
+--JN +
+--JO +
+--JP +
+--JQ +
+--JR +
+ +
+--CO +
+--JS +
+ +
+--JT +
+--CS +
+--JW +
+--CR +
+ +
+ +
+--JU +
+--CN +
+--DO +
+--EN +
+--EM +
+--ES +
+--FA +
+--FN +
+--FL +
+--FM +
+--FE +
+ +
+ +
+--FD +
+--FI +
+
+
+a|*ITALIE*{blank}footnote:admin[La Administración italiana ha hecho que el nombre de cada oficina esté precedido por el código postal.via Swiss Telex OB921]
+
+*ITALY*{blank}footnote:admin[]
+
+*ITALIA*{blank}footnote:admin[]
+
+a|
+
+a|
+
+a|71100 FOGGIA +
+06034 FOLIGNO +
+58022 FOLLONICA +
+47100 FORLI +
+04323 FORMIA +
+43045 FORNOVO DI TARO +
+03100 FROSINONE +
+73104 GALLIPOLI +
+16121 GENES  -> GENOVA +
+16121 GENOA  -> GENOVA +
+16121 GENOVA +
+16121 GENUA  -> GENOVA +
+34170 GORIZIA +
+58100 GROSSETO +
+09016 IGLESIAS +
+40026 IMOLA +
+18100 IMPERIA +
+86170 ISERNIA +
+10015 IVREA +
+60035 JESI +
+85042 LAGONEGRO +
+88046 LAMEZIA TERME +
+66034 LANCIANO +
+08045 LANUSEI +
+10074 LANZO TORINESE +
+67100 L'AQUILA +
+19100 LA SPEZIA +
+04100 LATINA +
+73100 LECCE +
+22053 LECCO +
+57100 LEGHORN  -> LIVORNO +
+37045 LEGNAGO +
+57100 LIORNA  -> LIVORNO +
+57100 LIVORNO +
+57100 LIVOURNE  -> LIVORNO +
+89044 LOCRI +
+20075 LODI +
+55100 LUCCA +
+55100 LUCQUES  -> LUCCA +
+48022 LUGO DI RAVENNA +
+62100 MACERATA +
+08015 MACOMER +
+73034 MAGLIE +
+20123 MAILAN  ->  MILANO +
+71043 MANFREDONIA +
+46100 MANTOUE -> MANTOVA +
+46100 MANTOVA +
+46100 MANTUA  -> MANTOVA +
+54100 MASSA +
+75100 MATERA +
+85025 MELFI +
+22017 MENAGGIO +
+39012 MERAN  -> MERANO +
+39012 MERANO +
+98100 MESSINA +
+98100 MESSINE  -> MESSINA +
+20123 MILAN  -> MILANO +
+20123 MILANO +
+41037 MIRANDOLA +
+41100 MODENA +
+41100 MODENE  -> MODENA
+
+a| +
+--FG +
+--FJ +
+--FC +
+--FO +
+--FK +
+--FT +
+--FR +
+--GA +
+ +
+ +
+--GE +
+ +
+--GO +
+--GR +
+--IG +
+--IO +
+--IM +
+--IS +
+--IV +
+--EI +
+--LA +
+--LM +
+--LN +
+--LS +
+--LZ +
+--AQ +
+--SP +
+--LT +
+--LE +
+--LC +
+ +
+ +
+--LG +
+ +
+ +
+--LI +
+ +
+ +
+--LO +
+--LD +
+--LU +
+ +
+ +
+--LR +
+--MC +
+--MA +
+--MG +
+ +
+--MF +
+ +
+ +
+--MN +
+ +
+ +
+--MS +
+--MT +
+--ML +
+--MJ +
+ +
+--MH +
+--ME +
+ +
+ +
+ +
+--MI +
+--MD +
+--MO
+
+
+
+a|*ITALIE*{blank}footnote:admin[La Administración italiana ha hecho que el nombre de cada oficina esté precedido por el código postal.via Swiss Telex OB921]
+
+*ITALY*{blank}footnote:admin[]
+
+*ITALIA*{blank}footnote:admin[]
+
+a|
+
+a|
+
+a|12084 MONDOVI BREO +
+31044 MONTEBELLUNA +
+51016 MONTECATINI +
+TERME +
+20052 MONZA +
+27036 MORTARA +
+85054 MURO LUCANO +
+80133 NAPLES  ->  NAPOLI +
+80133 NAPOLI +
+80133 NEAPEL  ->  NAPOLI +
+28100 NOVARA +
+28100 NOVARE  -> +
+NOVARA +
+15067 NOVI LIGURE +
+08100 NUORO +
+07026 OLBIA +
+09170 ORISTANO +
+05018 ORVIETO +
+46035 OSTIGLIA +
+35100 PADOUE  -> PADOVA +
+35100 PADOVA +
+35100 PADUA  ->  PADOVA +
+90100 PALERME  -> PALERMO +
+90100 PALERMO +
+99015 PALMI +
+87027 PAOLA +
+43100 PARMA +
+43100 PARME  ->  PARMA +
+98066 PATTI +
+27100 PAVIA +
+27100 PAVIE  -> PAVIA +
+06100 PEROUSE  -> PERUGIA +
+06100 PERUGIA +
+61100 PESARO +
+65100 PESCARA +
+29100 PIACENZA +
+32044 PIEVE DI CADORE +
+10064 PINEROLO +
+57025 PIOMBINO +
+56100 PISA +
+56100 PISE  -> PISA +
+51100 PISTOIA +
+51100 PISTOIE  -> PISTOIA +
+29100 PLAISANCE  -> PIACENZA +
+02047 POGGIO MIRTETO +
+56025 PONTEDERA +
+33170 PORDENONE +
+40046 PORRETTA TERME +
+33170 PORTENAU  -> PORDENONE +
+85100 POTENZA +
+50047 PRATO +
+97100 RAGUSA +
+16035 RAPALLO +
+48100 RAVENNA +
+48100 RAVENNE  -> RAVENNA +
+89100 REGGIO CALABRIA +
+42100 REGGIO EMILIA +
+47031 Repubblica Di San Marino{blank}footnote:[Los telegramas destinados a «Repbublica di San Marino» o «S Marino» se encaminan por RIMINI.]
+
+02100 RIETI +
+47037 RIMINI +
+10086 RIVAROLO +
+CANAVESE +
+00187 ROMA
+
+a|--MB +
+--MM +
+ +
+--MR +
+--MZ +
+--MK +
+--MU +
+ +
+--NA +
+ +
+--NO +
+ +
+ +
+--NL +
+--NU +
+--OL +
+--OR +
+--OV +
+--OS +
+ +
+ +
+--PD +
+ +
+ +
+ +
+--PA +
+--PL +
+--PJ +
+--PR +
+ +
+--PH +
+--PV +
+ +
+ +
+ +
+--PG +
+--PS +
+--PE +
+--PC +
+--PK +
+--PO +
+--PB +
+--PI +
+ +
+--PT +
+ +
+ +
+ +
+--PM +
+--PW +
+--PN +
+--PU +
+ +
+ +
+--PZ +
+--PY +
+--RG +
+--RP +
+--RA +
+ +
+ +
+--RC +
+--RE +
+ +
+--RN +
+--RI +
+--RN +
+ +
+--RV +
+--RM
+
+
+a|*ITALIE*{blank}footnote:admin[La Administración italiana ha hecho que el nombre de cada oficina esté precedido por el código postal.via Swiss Telex OB921]
+
+*ITALY*{blank}footnote:admin[]
+
+*ITALIA*{blank}footnote:admin[]
+
+a|
+
+a|
+
+a|00187 ROME  -> ROMA +
+87067 ROSSANO +
+38068 ROVERETO +
+45100 ROVIGO +
+83014 S ANGELO DEI +
+LOMBARDI +
+63039 S BENEDETTO DEL +
+TRONTO +
+30027 S DONA DI PIAVE +
+47031 S Marino{blank}footnote:[Los telegramas destinados a «Repbublica di San Marino» o «S Marino» se encaminan por RIMINI.]
+
+24016 S PELLEGRINO +
+TERME +
+18038 S REMO  -> SANREMO +
+71016 S SEVERO +
+11027 S VINCENT +
+84036 SALA CONSILINA +
+84100 SALERNE  -> SALERNO +
+84100 SALERNO +
+25087 SALO +
+12037 SALUZZO +
+18038 SANREMO +
+07100 SASSARI +
+41049 SASSUOLO +
+12038 SAVIGLIANO +
+17100 SAVONA +
+17100 SAVONE  -> SAVONA +
+87029 SCALEA +
+36015 SCHIO +
+92019 SCIACCA +
+20038 SEREGNO +
+53100 SIENA +
+53100 SIENNE  ->  SIENA +
+96100 SIRACUSA +
+23100 SONDRIO +
+26015 SORESINA +
+88068 SOVERATO +
+19100 SPEZIA (LA) +
+33097 SPILIMBERGO +
+06049 SPOLETO +
+27049 STRADELLA +
+67039 SULMONA +
+10059 SUSA +
+96100 SYRACUSE  -> SIRACUSA +
+98039 TAORMINA +
+74100 TARANTO +
+74100 TARENTE  -> TARANTO +
+33018 TARVISIO CITTA +
+64100 TERAMO +
+86039 TERMOLI +
+05100 TERNI +
+38079 TIONE DI TRENTO +
+00019 TIVOLI +
+33028 TOLMEZZO +
+10121 TORINO +
+91100 TRAPANI +
+38100 TRENTO +
+24047 TREVIGLIO +
+31100 TREVISE  -> TREVISO +
+31100 TREVISO +
+34100 TRIESTE +
+10121 TURIN  -> TORINO +
+33100 UDINE +
+61029 URBINO +
+84078 VALLO DELLA LUCANIA +
+
+a| +
+--RS +
+--RR +
+--RO +
+ +
+--KJ
+ +
+ +
+--KF +
+--RN +
+ +
+ +
+ +
+ +
+--KI +
+--KA +
+--KB +
+ +
+ +
+--SA +
+--KC +
+--KD +
+--KH +
+--SS +
+--KK +
+--KL +
+--SN +
+ +
+ +
+--KM +
+--KN +
+--KO +
+--KP +
+--SI +
+ +
+--SR +
+--SO +
+--KQ +
+--KR +
+--SP +
+--KS +
+--KT +
+--KU +
+--KV +
+--KW +
+ +
+ +
+--TM +
+--TA
+ +
+ +
+--TC +
+--TE +
+--TL +
+--TR +
+--TD +
+--TI +
+--TZ +
+--TO +
+--TP +
+--TN +
+--TG +
+ +
+ +
+--TV +
+--TS +
+ +
+--UD +
+--UR +
+--VL
+
+
+a|*ITALIE*{blank}footnote:admin[La Administración italiana ha hecho que el nombre de cada oficina esté precedido por el código postal.via Swiss Telex OB921]
+
+*ITALY*{blank}footnote:admin[]
+
+*ITALIA*{blank}footnote:admin[]
+
+a|
+
+a|
+
+a|21100 VARESE +
+66054 VASTO +
+30100 VENEDIG ->  VENEZIA +
+30100 VENEZIA +
+30100 VENICE  ->  VENEZIA +
+30100 VENISE  ->  VENEZIA +
+13100 VERCEIL  -> VERCELLI +
+13100 VERCELLI +
+37100 VERONA +
+37100 VERONE  -> VERONA +
+55049 VIAREGGIO +
+88018 VIBO VALENTIA +
+36100 VICENCE  -> VICENZA +
+36100 VICENZA +
+27029 VIGEVANO +
+01100 VITERBE  -> VITERBO +
+01100 VITERBO +
+27058 VOGHERA +
+56048 VOLTERRA +
+Todos los otros
+
+
+a|--VA +
+--VO +
+ +
+ +
+--VE +
+ +
+ +
+ +
+ +
+--VC +
+--VR +
+ +
+ +
+--VG +
+--VB +
+ +
+ +
+--VI +
+--VV +
+ +
+ +
+--VT +
+--VH +
+--VL +
+--RX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*JAMAHIRIYA ARABE LIBYENNE* +
+*LIBYAN ARAB JAMAHIRIYA* +
+*JAMAHIRIYA ÁRABE LIBIA*
+
+. Cyrénaïque +
+Cyrenaica +
+Cirenaica
+
+. Tripolitaine, Fezzan +
+Tripolitania, Fezzan +
+Tripolitania, Fezán
+
+a|GOVT – General Directorate of Posts and Telecommunications, Tripoli
+
+a|LY- -
+
+a|Banghazi +
+Todos los otros +
+ +
+Tripoli Libye +
+Todos los otros
+
+a|LYBE +
+LYBX +
+ +
+LYTR +
+LYTX
+
+
+a|*JAMAÏQUE* +
+*JAMAICA* +
+*JAMAICA*
+
+a|C&W Jamaica Ltd – Cable and Wireless Jamaica Limited, Kingston
+
+a|JA- -
+
+a|Kingston Jamaica +
+Kingston Jamaica Radio +
+Montego Bay +
+Todos los otros
+
+a|JAKN +
+JAKR +
+JAMB +
+JAKX
+
+
+a|*JAPON* +
+*JAPAN* +
+*JAPÓN*
+
+a|Unitel, Alteveer{blank}footnote:[véase el Boletín de Explotación de la UIT 883 del 1.V.2007]
+
+a|JP- -
+
+a|Kobe +
+Nagoya +
+Naha +
+Osaka +
+Tokyo +
+Yokohama +
+Todos los otros
+
+a|JPKB +
+JPNG +
+JPNH +
+JPOS +
+JPTK +
+JPYH +
+JPJX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*JOHNSTON (ÎLE)*{blank}footnote:JohnstonNote[Según información comunicada por la administración responsable de esa isla, se reciben ocasionalmente telegramas para la isla Johnston en Honolulu (Hawai), desde donde se hacen seguir por correo, por lo que se considera apropiado mantener el indicador para el servicio de telegramas.]
+
+*JOHNSTON ISLAND*{blank}footnote:JohnstonNote[]
+
+*JOHNSTON (ISLA)*{blank}footnote:JohnstonNote[]
+
+a|GOVT – Govt. Administration of Telecommunications, Johnston Island
+
+a|JI- -
+
+a|Todos los destinos
+
+a|JIJI
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*JORDANIE* +
+*JORDAN* +
+*JORDANIA*
+
+a|Jordan Telecom, Amman
+
+a|JO- -
+
+a|Amman +
+Jerusalem Jordan +
+Todos los otros
+
+a|JOAM +
+JOJM +
+JOAX
+
+
+a|*KAZAKHSTAN* +
+*KAZAKHSTAN* +
+*KAZAJSTÁN*
+
+a|KAZAKHTELECOM (JSC), Astana City
+
+a|KZ - -
+
+a|Todos los destinos
+
+a|KZXX
+
+
+a|*KÉNYA* +
+*KENYA* +
+*KENYA*
+
+a|Telkom Kenya Limited, Nairobi
+
+a|KE- -
+
+a|MOMBASA +
+NAIROBI +
+Todos los otros
+
+a|KEMA +
+KENI +
+KENX
+
+
+a|*KIRGHIZISTAN* +
+*KYRGYZSTAN* +
+*KIRGUISTÁN*
+
+a|KYRGYZ TELECOM – State Telecommunication Company, Bishkek
+
+a|KH- -
+
+a|Todos los destinos
+
+a|KHXX
+
+
+a|*KIRIBATI* +
+*KIRIBATI* +
+*KIRIBATI*
+
+. Îles / Islands / Islas Kiribati
+
+. Îles / Islands / Islas Lines
+
+. Îles / Islands / Islas Phoenix
+
+
+a|TSKL – Telecom Services Kiribati Limited, Bairiki Tarawa
+
+a|KI- -
+
+a|Bairiki +
+Banaba +
+Betio +
+Todos los otros +
+Christmas Island Pacific +
+Todos los otros +
+Kanton +
+Todos los otros
+
+a|KIBA +
+KIBI +
+KIBO +
+KIBX +
+KILC +
+KILX +
+KIPK +
+KIPX
+
+
+a|*KOWEÏT* +
+*KUWAIT* +
+*KUWAIT*
+
+a|GOVT – Ministry of Communications, Safat
+
+a|KT- -
+
+a|Ahmadi +
+Al Zoor +
+Fahaheel +
+Failaka +
+Hawalli +
+Jahra Kuwait +
+KUWAI +
+Kuwait Airport +
+Kuwait GPO +
+Kuwait Radio +
+Salmiya +
+Wafra +
+Todos los otros
+
+a|KTAH +
+KTZR +
+KTFA +
+KTFL +
+KTHI +
+KTJA +
+KTKU +
+KTAP +
+KTGP +
+KTKR +
+KTSA +
+KTWA +
+KTKX
+
+
+a|*LAO (R.d.p.)* +
+*LAO P.D.R.* +
+*LAO (R.D.P.)*
+
+a|EPTL – Entreprise d'Etat des postes et télécommunications, Vientiane
+
+a|LS- -
+
+a|Vientiane RP +
+Todos los otros
+
+a|LSVE +
+LSVX
+
+
+a|*LESOTHO* +
+*LESOTHO* +
+*LESOTHO*
+
+a|LTC – Lesotho Telecommunications Corporation, Maseru
+
+a|LO- -
+
+a|Maseru +
+Todos los otros
+
+a|LOMA +
+LOMX
+
+
+a|*LETTONIE* +
+*LATVIA* +
+*LETONIA*
+
+a|Elion Ettevõtted AS, Tallinn{blank}footnote:[Véase el Boletín de Exploitación de la UIT N.° 757 del 1.II.2002 y 932 del 15.V.2009]
+
+a|LV- -
+
+a|Riga +
+Todos los otros
+
+a|LVRG +
+LVRX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*L'EX-RÉPUBLIQUE YOUGOSLAVE DE MACÉDOINE* +
+*THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA* +
+*LA EX REPÚBLICA YUGOSLAVA DE MACEDONIA*
+
+a|MAKEDONSKI TELEKOMUNIKACII A.D., Skopje
+
+a|MB- -
+
+a|Skopje +
+Todos los otros
+
+a|MBSK +
+MBSX
+
+
+a|*LIBAN* +
+*LEBANON* +
+*LÍBANO*
+
+a|O.G.E.R.O. – Organisme de gestion et d’exploitation des installations et des équipements de l’ex-Société Radio-Orient, Beyrouth
+
+a|LE- -
+
+a|Beyrouth +
+Tripoli Liban +
+Todos los otros
+
+a|LEBH +
+LETR +
+LEBX
+
+
+a|*LIBÉRIA* +
+*LIBERIA* +
+*LIBERIA*
+
+a|Sin encaminamiento +
+LIBTELCO – Liberia Telecommunications Corporation, Monrovia +
+USL – United States – Liberia Corporation, Monrovia
+
+a|LX- - +
+LI- - +
+LL- -
+
+a|Monrovia Liberia +
+Todos los otros
+
+
+a|--MV +
+--MX
+
+
+a|*LIECHTENSTEIN* +
+*LIECHTENSTEIN* +
+*LIECHTENSTEIN*
+
+a|GOVT – Ministry of Transport and Communications, Vaduz
+
+a|FL- -
+
+a|Vaduz +
+Todos los otros
+
+a|FLVZ +
+FLVX
+
+
+a|*LITUANIE* +
+*LITHUANIA* +
+*LITUANIA*
+
+a|Telegraf OÜ (Estonia){blank}footnote:[véase el Boletín de Explotación de la UIT 959 del 1.VII.2010]
+
+a|LT - -
+
+a|Todos los destinos
+
+a|LTXX
+
+|===
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*LUXEMBOURG* +
+*LUXEMBOURG* +
+*LUXEMBURGO*
+
+a|
+
+a|LU- -{blank}footnote:[El servicio de telegramas deja de aceptarse y el indicador de telegramas ha sido suprimido desde el 1.I.2009. Sin embargo, el código de dos letras LU sigue reservado.]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*MACAO, Chine* +
+*MACAO, China* +
+*MACAO, China*
+
+a|CTM – Companhia de Telecomunicações de Macau, S.A.R.L., Macau
+
+a|OM- -
+
+a|Macau +
+Todos los otros
+
+a|OMMA +
+OMMX
+
+
+a|*MADAGASCAR* +
+*MADAGASCAR* +
+*MADAGASCAR*
+
+a|
+
+a|MG- -{blank}footnote:[El servicio de telegramas deja de aceptarse y el indicador de telegramas ha sido suprimido. Sin embargo, el código de dos letras MG sigue reservado.]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*MALAISIE* +
+*MALAYSIA* +
+*MALASIA*
+
+a|TMB – Telekom Malaysia Berhad, Kuala Lumpur
+
+a|MA- -
+
+a|ALOR STAR +
+IPOH +
+JOHORE BAHRU +
+Kluang +
+KOTA BHARU KELANTAN +
+KOTA KINABALU +
+KUALA LUMPUR +
+KUALA TRENGGANU +
+KUANTAN +
+KUCHING +
+MALACCA +
+Pelabuhan Kelang +
+PENANG +
+PETALING JAYA +
+SEREMBAN +
+Taiping +
+Todos los otros
+
+a|MAAS +
+MAIP +
+MAJB +
+MAKU +
+MAKO +
+MAKB +
+MAKL +
+MATG +
+MAKN +
+MAKG +
+MAMC +
+MAPK +
+MAPG +
+MAPJ +
+MASR +
+MATP +
+MAMX
+
+
+a|*MALAWI* +
+*MALAWI* +
+*MALAWI*
+
+a|MPTC – Malawi Telecommunication Ltd, Blantyre
+
+a|MI- -
+
+a|Blantyre +
+Todos los otros
+
+a|MIBE +
+MIBX
+
+
+a|*MALDIVES* +
+*MALDIVES* +
+*MALDIVAS*
+
+a|DHIRAAGU – Dhivehi Raajjey Ge Gulhun Private Limited, Malé
+
+a|MF- -
+
+a|Male +
+Todos los otros
+
+a|MFLE +
+MFLX
+
+
+a|*MALI* +
+*MALI* +
+*MALÍ*
+
+a|SOTELMA – Société des télécommunications du Mali, Bamako
+
+a|MJ- -
+
+a|Bamako +
+Todos los otros
+
+a|MJBO +
+MJBX
+
+
+a|*MALTE* +
+*MALTA* +
+*MALTA*
+
+a|Sin encaminamiento
+
+a|OP- - +
+MT- -{blank}footnote:MaltaNote[El servicio de telegramas deja de aceptarse y el indicador de destino de telegramas ha sido suprimido desde el 1.XII.2008. Sin embargo, los códigos de dos letras «OP» ,«MT» y «MW» siguen reservados]
+
+MW- -{blank}footnote:MaltaNote[]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*MARIANNES DU NORD* +
+*NORTHERN MARIANAS* +
+*MARIANAS DEL NORTE*
+
+a|GOVT – Govt. Administration of Telecommunications, Northern Mariana Islands
+
+a|MN- -
+
+a|Saipan +
+Todos los otros
+
+a|MNSQ +
+MNSX
+
+
+a|*MAROC* +
+*MOROCCO* +
+*MARRUECOS*
+
+a|Itissalat Al Maghrib, Rabat
+
+a|MP- -
+
+a|CASABLANCA +
+Rabat +
+Tánger +
+Todos los otros
+
+a|MPCA +
+MPRA +
+MPTR +
+MPTX
+
+
+a|*MARSHALL (ÎLES)* +
+*MARSHALL ISLANDS* +
+*MARSHALL (ISLAS)*
+
+a|GOVT- Ministry of Transportation and Communications, Majuro
+
+a|MS- -
+
+a|Einwetok +
+Majuro +
+Todos los otros
+
+a|MSEK +
+MSMA +
+MSEX
+
+
+a|*MARTINIQUE* +
+*MARTINIQUE* +
+*MARTINICA*
+
+a|France Télécom (FTRSI) – France Télécom Réseaux et Services Internationaux
+
+a|MR- -
+
+a|Todos los destinos
+
+a|MRXX
+
+
+a|*MAURICE* +
+*MAURITIUS* +
+*MAURICIO*
+
+a|Mauritius Télécom – Mauritius Telecom Ltd, Port Louis
+
+a|IW- -
+
+a|Curepipe +
+Port-Louis +
+Rose Hill +
+Todos los otros
+
+a|IWCU +
+IWPL +
+IWRO +
+IWPX
+
+
+a|*MAURITANIE* +
+*MAURITANIA* +
+*MAURITANIA*
+
+a|Mauritel – Société Mauritanienne des Télécommunications, Nouakchott
+
+a|MQ- -
+
+a|Nouakchott +
+Todos los otros
+
+a|MQNO +
+MQSX
+
+
+a|*MAYOTTE* +
+*MAYOTTE* +
+*MAYOTTE*
+
+a|France Télécom (FTRSI) – France Télécom Réseaux et Services Internationaux
+
+a|MY- -
+
+a|Todos los destinos
+
+a|MYXX
+
+
+a|*MEXIQUE* +
+*MEXICO* +
+*MÉXICO*
+
+a|Telecomunicaciones de México, México D.F.
+
+a|ME- -
+
+a|Coatzacoalcos +
+Guadalajara de Jalisco +
+Hermosillo de Sonora +
+León de Guanajuato +
+México +
+Monterrey de Nuevo León +
+Torreón de Coahuila +
+Veracruz de Veracruz +
+Todos los otros
+
+a|MECO +
+MEGU +
+MEHE +
+MELE +
+MEME +
+MEMY +
+METO +
+MEVC +
+MEMX
+
+
+a|*MICRONÉSIE* +
+*MICRONESIA* +
+*MICRONESIA*
+
+a|FSM – FSM Telecommunication Corporation, Pohnpei State
+
+a|FM- -
+
+a|Kosrae +
+Ponape +
+Truk +
+Yap +
+Todos los otros
+
+a|FMKO +
+FMPO +
+FMTK +
+FMYA +
+FMYX
+
+
+a|*MIDWAY (ÎLES)* +
+*MIDWAY ISLANDS* +
+*MIDWAY (ISLAS)*
+
+a|GOVT – Govt. Administration of Telecommunications, Midway Islands
+
+a|WM- -
+
+a|Todos los destinos
+
+a|WMYP
+
+
+a|*MOLDOVA* +
+*MOLDOVA* +
+*MOLDOVA*
+
+a|GOVT – Ministry of Information Technology and Communications, Chisinau
+
+a|MD- -
+
+a|Todos los destinos
+
+a|MDXX
+
+
+a|*MONACO* +
+*MONACO* +
+*MÓNACO*
+
+a|Monaco Telecom, Monaco
+
+a|MC- -
+
+a|Monaco Condamine +
+Monaco Ville +
+Todos los otros
+
+a|MCLC +
+MCMD +
+MCMX
+
+
+a|*MONGOLIE* +
+*MONGOLIA* +
+*MONGOLIA*
+
+a|Mongolian Telecom
+
+a|MH- -
+
+a|Ulaanbaatar +
+Todos los otros
+
+a|MHUB +
+MHUX
+
+
+a|*MONTÉNÉGRO* +
+*MONTENEGRO* +
+*MONTENEGRO*
+
+a|Unitel Alteveer{blank}footnote:[vease el Boletin de Explotacion de la UIT 892 del 15.IX.2007]
+
+a|GC - -
+
+a|Todos los destinos
+
+a|GCXX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*MONTSERRAT* +
+*MONTSERRAT* +
+*MONTSERRAT*
+
+a|C&W (WI) – Cable and Wireless +
+(West Indies) Ltd, Plymouth
+
+a|MK- -
+
+a|Todos los destinos
+
+a|MKMT
+
+
+a|*MOZAMBIQUE* +
+*MOZAMBIQUE* +
+*MOZAMBIQUE*
+
+a|ENTM – Empresa Nacional de Telecomunicações de Moçambique, Maputo
+
+a|MO- -
+
+a|Beira +
+Inhambane +
+MAPUTO +
+Nampula +
+Quelimane +
+Tete +
+Xai xai +
+Todos los otros
+
+a|MOBR +
+MOIN +
+MOMP +
+MONP +
+MOQL +
+MOTT +
+MOGZ +
+MOTX
+
+
+a|*MYANMAR* +
+*MYANMAR* +
+*MYANMAR*
+
+a|MPT – Myanma Posts and Telecommunications, Yangon
+
+a|BM- -
+
+a|Yangon +
+Todos los otros
+
+a|BMRN +
+BMRX
+
+
+a|*NAMIBIE* +
+*NAMIBIA* +
+*NAMIBIA*
+
+a|Telecom Namibia – Telecom Namibia Ltd, Windhoek
+
+a|WK- -
+
+a|Todos los destinos
+
+a|WKJX
+
+
+a|*NAURU* +
+*NAURU* +
+*NAURU*
+
+a|GOVT – Nauru Administration of Telecommunications
+
+a|ZV- -
+
+a|Todos los destinos
+
+a|ZVSX
+
+
+a|*NÉPAL* +
+*NEPAL* +
+*NEPAL*
+
+a|Nepal Telecom – Nepal Telecommunications Corporation, Kathmandu
+
+a|NP- -
+
+a|Kathmandu +
+Todos los otros
+
+a|NPKA +
+NPKX
+
+
+a|*NICARAGUA* +
+*NICARAGUA* +
+*NICARAGUA*
+
+a|NICATELSAT – Compañía Nicaragüense de Telecomunicaciones por Satélite, Managua
+
+a|NU- -
+
+a|Managua Nicaragua +
+Puerto Cabezas +
+S Juan del Sur +
+Todos los otros
+
+a|NUMA +
+NUPC +
+NUSJ +
+NUMX
+
+
+a|*NIGER* +
+*NIGER* +
+*NIGER*
+
+a|SONITEL – Société nigérienne des télécommunications, Niamey
+
+a|NI- -
+
+a|Niamey +
+Zinder +
+Todos los otros
+
+a|NINY +
+NIZR +
+NIZX
+
+
+a|*NIGÉRIA* +
+*NIGERIA* +
+*NIGERIA*
+
+a|NITEL – Nigerian Telecommunications plc, Lagos
+
+a|NG- -
+
+a|Aba Nigeria +
+Abakaliki +
+Abeokuta +
+Agbor +
+Akure +
+Apapa +
+Bauchi +
+BENIN CITY +
+Breadfruit +
+Calabar +
+BENUGU +
+Falomo +
+Gusau
+
+a|NGBA +
+NGAI +
+NGAT +
+NGGG +
+NGAK +
+NGAP +
+NGBH +
+NGBC +
+NGBF +
+NGCR +
+NGEN +
+NGFL +
+NGCS
+
+
+a|*NIGÉRIA* +
+*NIGERIA* +
+*NIGERIA*
+
+a|
+
+a|
+
+a|IBADAN +
+Ijebu Ode +
+Ikeja +
+Ilorin +
+Jos +
+KADUNA +
+KANO +
+Katsina +
+LAGOS +
+Lokoja +
+Maiduguri +
+Makurdi +
+Minna +
+Onitsha +
+Oshogbo +
+Owerri +
+Port Harcourt +
+Sapele +
+Sokoto +
+Surulere +
+Uyo +
+Warri +
+Yola +
+Zaria +
+Todos los otros
+
+a|NGIB +
+NGIE +
+NGIK +
+NGRN +
+NGJS +
+NGKD +
+NGKN +
+NGKS +
+NGLG +
+NGLA +
+NGMG +
+NGMR +
+NGMA +
+NGON +
+NGGO +
+NGOW +
+NGPH +
+NGPP +
+NGST +
+NGSL +
+NGUY +
+NGWA +
+NGYL +
+NGZA +
+NGLX
+
+
+a|*NIUE (ÎLE)* +
+*NIUE ISLAND* +
+*NIUE (ISLA)*
+
+a|POSTS AND TELECOM – Posts and Telecommunications, Alofi +
+
+a|NF- -
+
+a|Todos los destinos
+
+a|NFNX
+
+
+a|*NORVEGE* +
+*NORWAY* +
+*NORUEGA*
+
+a|UNITEL, Alteveer{blank}footnote:[El servicio de telegramas deja de aceptarse por Telenor Telecom Solutions AS desde el 1.I.2002 en Noruega. Véase el Boletín de Explotación de la UIT N.° 751 del 1.XI.2001 y el Boletín de Explotación de la UIT N.° 764 del 15.V.2002.]
+
+a|NO- -
+
+a|Todos los destinos
+
+a|NOXX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*NOUVELLE-CALÉDONIE* +
+*NEW CALEDONIA* +
+*NUEVA CALEDONIA*
+
+a|
+
+a|NM- -{blank}footnote:[El servicio de telegramas deja de aceptarse y el indicador de destino de telegramas ha sido suprimido desde el 1.V.2003. Sin embargo, el código de dos letras «NM» sigue reservado.]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*NOUVELLE-ZÉLANDE* +
+*NEW ZEALAND* +
+*NUEVA ZELANDIA*
+
+a|
+
+a|NZ- -{blank}footnote:[El servicio de telegramas deja de aceptarse y el indicador de destino de telegramas ha sido suprimido desde el 3.VII.2000. Sin embargo, el código de dos letras «NZ» sigue reservado.]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*OMAN* +
+*OMAN* +
+*OMÁN*
+
+a|Oman-Tel – Oman Telecommunications Company S.A.O.C., Muscat
+
+a|ON- -
+
+a|Bahla +
+Barka +
+Buraimi +
+Ibri +
+Khabura +
+Khasab +
+Masirah +
+Masnah +
+Muscat +
+Muscat Radio +
+Nizwa +
+Rustag +
+Salalah +
+Seeb +
+Shinas +
+Sohar +
+Sumail +
+Sur Oman +
+Suwaig +
+Todos los otros
+
+a|ONBL +
+ONBR +
+ONBU +
+ONII +
+ONKB +
+ONKS +
+ONMH +
+ONMN +
+ONMU +
+ONMR +
+ONNZ +
+ONRQ +
+ONSH +
+ONSB +
+ONSN +
+ONSR +
+ONSM +
+ONSU +
+ONSQ +
+ONMX
+
+
+a|*OUGANDA* +
+*UGANDA* +
+*UGANDA*
+
+a|UPTC – Uganda Post and Telecommunications Corporation, Kampala
+
+a|UG- -
+
+a|Apac +
+Arua +
+Busia +
+Entebbe +
+Fort Portal +
+Gulu +
+Hoima +
+Ibanda +
+Jinja +
+Kabale +
+KAMPALA +
+Kasese +
+Lake Katwe +
+Lira +
+Lugazi +
+Malaba +
+Masaka +
+Masindi +
+Mbale +
+Mbarara +
+Moroto +
+Mubende +
+Nebbi +
+Pakwach +
+Rukungiri +
+Soroti +
+Tororo +
+Todos los otros
+
+a|UGAP +
+UGAR +
+UGBU +
+UGEN +
+UGFP +
+UGGU +
+UGHO +
+UGIB +
+UGJA +
+UGKB +
+UGKA +
+UGKS +
+UGLK +
+UGLI +
+UGLZ +
+UGML +
+UGMA +
+UGMI +
+UGMB +
+UGMR +
+UGMO +
+UGMU +
+UGNE +
+UGPA +
+UGRU +
+UGSI +
+UGTO +
+UGKX
+
+
+a|*OUZBEKISTAN* +
+*UZBEKISTAN* +
+*UZBEKISTÁN*
+
+a|Joint Stock Company "Khalkaro Telecom", Tashkent
+
+a|UZ- -
+
+a|ANDIJAN +
+BUKHARA +
+DJIZAK +
+FERGANA +
+GULISTAN +
+KARSHI +
+NAMANGAN +
+NAVOI +
+NUKUS +
+SAMARKAND +
+TASHKENT +
+TERMEZ +
+URGENCH
+
+a|UZAN +
+UZBH +
+UZDJ +
+UZFG +
+UZGU +
+UZKR +
+UZNG +
+UZNV +
+UZNU +
+UZSM +
+UZTS +
+UZTZ +
+UZUR
+
+a|*PAKISTAN* +
+*PAKISTAN* +
+*PAKISTÁN*
+
+a|
+
+a|PK- -{blank}footnote:[El servicio de telegramas deja de aceptarse y el indicador de destino de telegramas ha sido suprimido desde el 7.I.2006. Sin embargo, el código de dos letras «PK» sigue reservado.]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*PALAU* +
+*PALAU* +
+*PALAU*
+
+a|PNCC – Palau National Communications Corporation
+
+a|PW- -
+
+a|Todos los destinos
+
+a|PWXX
+
+
+a|*PANAMA* +
+*PANAMA* +
+*PANAMÁ*
+
+a|INTEL S.A. – Instituto Nacional de Telecomunicaciones S.A., Panamá
+
+a|PG- -
+
+a|*CANAL INTELMAR* +
+*RADIO/HPP* +
+*COLÓN* +
+*PANAMÁ* +
+Todos los otros
+
+a|PGEC +
+PGCO +
+PGPA +
+PGPX
+
+
+a|*PAPOUASIE-NOUVELLE-GUINÉE* +
+*PAPUA NEW GUINEA* +
+*PAPUA NUEVA GUINEA*
+
+a|Telikom PNG LTD – Telikom PNG Ltd, Waigani
+
+a|NE- -
+
+a|Todos los destinos
+
+a|NEXX
+
+
+a|*PARAGUAY* +
+*PARAGUAY* +
+*PARAGUAY*
+
+a|ANTELCO – Administración Nacional deTelecomunicaciones, Asunción
+
+a|PY- -
+
+a|Asuncion +
+Todos los otros
+
+a|PYAN +
+PYAX
+
+
+a|*PAYS-BAS* +
+*NETHERLANDS* +
+*PAÍSES BAJOS*
+
+a|UNITEL, Alteveer{blank}footnote:[véase el Boletín de Explotación de la UIT 746 del 15.VIII.2001]
+
+a|NL- -
+
+a|Todos los destinos
+
+a|NLXX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*PÉROU* +
+*PERU* +
+*PERÚ*
+
+a|GOVT – Dirección General de Telecomunicaciones, Ministerio de Transportes y Comunicaciones, Lima
+
+a|PE- -
+
+a|Abancay +
+Andahuaylas +
+Aguas Verdes +
+Arequipa +
+Arriola Suc +
+Ayacucho +
+Ayaviri +
+Azangaro +
+Bagua Chica +
+Bagua Grande +
+Barranca +
+Barranco +
+Caballococha +
+Cajamarca +
+Callao +
+Camané +
+CAÑETE +
+Caraz +
+Casma +
+Cerro Pasco +
+Chachapoyas +
+Chala +
+Chancay +
+Chepén +
+Chiclayo +
+Chimbote +
+Chincha +
+Chorrillos +
+Chosica +
+Chota +
+Chulucanas +
+Chuquibamba +
+Concepción +
+Contamana +
+Cutervo +
+Cuzco +
+Fiori +
+Huacho +
+Huancavelica +
+Huancayo +
+Huanta +
+Huanuco +
+Huaral +
+Huaraz +
+Ica +
+Ilo +
+Independencia +
+Iquitos +
+Jaén +
+Jauja +
+Juanjui +
+Juliaca +
+La Merced +
+LAMPA +
+La Oroya +
+Lima +
+Lima Aeropuerto Internacional Jorge Chávez +
+Lince +
+Marcona
+
+a|PEAY +
+PEAS +
+PEAV +
+PEAQ +
+PESA +
+PEAH +
+PEAF +
+PEAZ +
+PEBC +
+PEBG +
+PEBR +
+PEBO +
+PECA +
+PECC +
+PECO +
+PECM +
+PECN +
+PERZ +
+PEAA +
+PECP +
+PEHV +
+PEUP +
+PEHH +
+PENM +
+PECU +
+PEAM +
+PECW +
+PELL +
+PECS +
+PECT +
+PECH +
+PEHQ +
+PECI +
+PEIQ +
+PECV +
+PECZ +
+PEFI +
+PEHA +
+PEHJ +
+PEHO +
+PEHK +
+PEHN +
+PEHL +
+PEHZ +
+PEIA +
+PEIL +
+PEIN +
+PEIT +
+PEJE +
+PEJU +
+PEJR +
+PEJC +
+PELM +
+PERL +
+PEOY +
+PELA +
+PEAI +
+PETC +
+PESM
+
+
+a|*PÉROU* +
+*PERU* +
+*PERÚ*
+
+a|
+
+a|
+
+a|Matarani +
+Mazamari +
+Merced (La) +
+Miraflores +
+Mollendo +
+Moquegua +
+Nazca +
+Oroya (La) +
+Pacasmayo +
+Paita +
+Pisco +
+Piura +
+Pucallpa +
+Pueblo Libre +
+Puerto Maldonado +
+Puno +
+Quillabamba +
+Rioja +
+S Borja +
+S Ramón +
+Salaverry +
+Sicuani +
+Sullana +
+Tacna +
+Talara +
+Tarapoto +
+Tarma +
+Tingo María +
+Trujillo +
+Tumbes +
+Vitor +
+Yurimaguas +
+Todos los otros
+
+a|PEME +
+PEMZ +
+PELM +
+PEMS +
+PEMO +
+PEMQ +
+PENA +
+PEOY +
+PEPM +
+PEPI +
+PEPC +
+PEPR +
+PELF +
+PELC +
+PEPF +
+PEPG +
+PEQB +
+PERA +
+PESB +
+PESR +
+PESY +
+PESI +
+PESU +
+PETD +
+PETA +
+PETP +
+PETF +
+PETM +
+PETO +
+PETS +
+PEVT +
+PEYU +
+PELX
+
+
+a|*PHILIPPINES* +
+*PHILIPPINES* +
+*FILIPINAS*
+
+a|PHILCOM – Philippine Global Communications, Inc., Makati
+
+a|PH- -{blank}footnote:[El servicio nacional e internacional de telegramas desde y hacia Filipinas desde ahora será provisto solamente por PHILCOM (véase la comunicación de la National Telecommunications Comission (NTC) en el Boletín de Explotación de la UIT N.o 786 del 15.IV.2003, página 5). En consecuencia, los indicadores de destino de telegramas «PR, PN, PM, PS y PU» se han suprimido.]
+
+a|Angeles City Pampanga +
+Bacolod City Negros Occidental +
+Baguio +
+Butuan City Agusan Del Norte +
+Cagayan +
+Cebu +
+Davao City Davao Del Sur +
+General Santos City Cotabato South +
+Iligan City Lanao Del Norte +
+Iloilo City Iloilo +
+Legaspi City Albay +
+MANILA / MANILLE +
+Mariveles +
+Olongapo City Zambales +
+Quezon City +
+S Fernando La Union +
+S Fernando Pampanga +
+Tacloban City Leyte +
+Tuguegarao Cagayan +
+Zamboanga City Zamboanga Del Sur +
+Todos los otros
+
+a|--AC +
+--BC +
+--BG +
+--BT +
+--CG +
+--CB +
+--DV +
+--GS +
+--IN +
+--IL +
+--LG +
+--MA +
+--MV +
+--OL +
+--QY +
+--SF +
+--SA +
+--TC +
+--TG +
+--ZB +
+--MX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*PITCAIRN* +
+*PITCAIRN* +
+*PITCAIRN*
+
+a|GOVT – Pitcairn Island Govt. Administration
+
+a|TK- -
+
+a|Todos los destinos
+
+a|TKXX
+
+
+a|*POLOGNE* +
+*POLAND* +
+*POLONIA*
+
+a|
+
+a|PL- -{blank}footnote:[El servicio de telegramas deja de aceptarse y el indicador de destino de telegramas ha sido suprimido desde el 31.VIII.2002. Sin embargo, el código de dos letras «PL» sigue reservado.]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*POLYNÉSIE FRANÇAISE* +
+*FRENCH POLYNESIA* +
+*POLINESIA FRANCESA*
+
+a|FCR – Portugal Câbles et Radio, Télécommunications extérieures de la Polynésie française, Papeete
+
+a|FP- -
+
+a|Papeete +
+Todos los otros
+
+a|FPYA +
+FPYX
+
+
+a|*PORTO-RICO* +
+*PUERTO RICO* +
+*PUERTO RICO*
+
+a|Sin encaminamiento +
+MCI/WUI – MCI International/WUI, Inc. +
+AACR – All America Cables and Radio, Inc. +
+TRT/FTC – TRT/FTC Communications, Inc.
+
+a|PF- - +
+PT- - +
+PD- - +
+PB- -
+
+a|S Juan Puerto Rico +
+Todos los otros
+
+a|--SJ +
+--SX
+
+
+a|*PORTUGAL* +
+*PORTUGAL* +
+*PORTUGAL*
+
+a|Sin encaminamiento +
+PT Comunicações, S.A., Lisboa +
+CPRM – Companhia Portuguesa Rádio Marconi, Lisboa
+
+a|PJ- - +
+PO- - +
+PC- -
+
+a|LISBOA +
+Lisboa Radio +
+Porto +
+Todos los otros
+
+a|--LS +
+--LR +
+--OO +
+--LX
+
+
+a|AÇORES – AZORES – AZORES
+
+a|Sin encaminamiento +
+PT Comunicações, S.A., Lisboa +
+CPRM
+
+a|AJ- - +
+AZ- - +
+AG- -
+
+a|PONTA DELGADA AZORES +
+S. Miguel Radio +
+Todos los otros
+
+a|--PD +
+--SR +
+--PX
+
+
+a|MADÈRE – MADEIRA – MADERA
+
+a|Sin encaminamiento +
+PT Comunicações, S.A., Lisboa +
+CPRM
+
+a|MX- - +
+MU- - +
+MZ- -
+
+a|FUNCHAL +
+Madeira Radio +
+Todos los otros
+
+a|--FU +
+--MR +
+--FX
+
+
+a|*QATAR* +
+*QATAR* +
+*QATAR*
+
+a|Unitel{blank}footnote:[vease el Boletín de Explotación de la UIT 965 del 1.X.2010]
+
+a|DH- -
+
+a|Todos los destinos
+
+a|DHXX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*RÉPUBLIQUE ARABE SYRIENNE* +
+*SYRIAN ARAB REPUBLIC* +
+*REPÚBLICA ÁRABE SIRIA*
+
+a|STE – Syrian Telecommunications Establishment, Damascus
+
+a|SY- -
+
+a|Alep +
+Al Jesser +
+Bagdad Window +
+Baniass +
+Damas +
+Deir Ezzor +
+Deraa +
+Edlib +
+Hama +
+Hassakeh +
+Homs Syrie +
+Jalaa Window +
+Jebla +
+Kamichly +
+Kurdaha +
+Lattaquieh +
+Matar
+
+a|SYAL +
+SYJR +
+SYAZ +
+SYBA +
+SYDA +
+SYDZ +
+SYDR +
+SYED +
+SYHA +
+SYHK +
+SYHO +
+SYJA +
+SYJB +
+SYKM +
+SYQR +
+SYLD +
+SYMR
+
+
+a|*RÉPUBLIQUE ARABE SYRIENNE* +
+*SYRIAN ARAB REPUBLIC* +
+*REPÚBLICA ÁRABE SIRIA*
+
+a|
+
+a|
+
+a|Mezze Window +
+Nebek +
+Quneitra +
+Raqa +
+Safita +
+Salamie +
+Soueida +
+Tartous +
+Tel Kalah +
+Zabadani +
+Todos los otros
+
+a|SYMZ +
+SYNK +
+SYQN +
+SYRQ +
+SYSA +
+SYLM +
+SYSW +
+SYTR +
+SYTK +
+SYZN +
+SYDX
+
+
+a|*RÉP. DÉM. DU CONGO* +
+*DEM. REP. OF THE CONGO* +
+*REP. DEM. DEL CONGO*
+
+a|OCPT – Office congolais des postes et télécommunications, Kinshasa
+
+a|CG- -
+
+a|Kinshasa +
+Kisangani +
+Lubumbashi +
+Todos los otros
+
+a|CGKA +
+CGKI +
+CGLI +
+CGKX
+
+
+a|*RÉP. POP. DÉM. DE CORÉE* +
+*DEM. PEOPLE'S REP. OF KOREA* +
+*REP. POP. DEM. DE COREA*
+
+a|GOVT – Ministry of Posts and Telecommunications, Pyongyang
+
+a|KP- -
+
+a|Phyongyang +
+Todos los otros
+
+a|KPPH +
+KPPX
+
+
+a|*RÉP. TCHEQUE* +
+*CZECH REP.* +
+*REP. CHECA*
+
+a|Unitel, Alteveer{blank}footnote:[véase el Boletín de Explotaciónde la UIT 911 del 1.VII.2008]
+
+a|CS- -
+
+a|PRAHA and all other destinations in the Czech Republic +
+All service messages
+
+a|CSXX +
+CSSV
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*RODRIGUES* +
+*RODRIGUES* +
+*RODRIGUES*
+
+a|Mauritius Telecom – Mauritius Telecom Ltd., Port Louis
+
+a|RO- -
+
+a|Todos los destinos
+
+a|ROYZ
+
+
+a|*ROUMANIE* +
+*ROMANIA* +
+*RUMANIA*
+
+a|Romtelecom – Régie autonome Romtelecom, Bucuresti
+
+a|RM- -
+
+a|Todos los destinos
+
+a|RMXX
+
+
+a|*ROYAUME-UNI* +
+*UNITED KINGDOM* +
+*REINO UNIDO*
+
+a|Unitel, Alteveer{blank}footnote:[El servicio de telegramas deja de aceptarse por BT plc – British Telecommunications Public Limited Company desde el 31.VII.2003 en Reino Unido. Véase el Boletín de Explotación de la UIT N.° 794 del 15.VIII.2003.]
+
+a|GB- -
+
+a|Todos los destinos
+
+a|GBXX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*RWANDA* +
+*RWANDA* +
+*RWANDA*
+
+a|Rwandatel S.A., Kigali
+
+a|RW- -
+
+a|Butare +
+Cyangugu +
+Gisenyi +
+Kigali +
+Ruhengeri +
+Todos los otros
+
+a|RWBU +
+RWCY +
+RWGI +
+RWKI +
+RWRU +
+RWKX
+
+
+a|*SAINT-MARIN* +
+*SAN MARINO* +
+*SAN MARINO*
+
+a|Intelcom – Intelcom San Marino +
+S.p.a., Rovereta
+
+a|SO{blank}footnote:[Los telegramas destinados a San Marino se encaminan por Italia. Conviene, pues, consultar la lista de ese país.] footnote:[SO se utiliza para el servicio télex.]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*SAINT-VINCENT-ET-LES GRENADINES* +
+*SAINT VINCENT AND THE GRENADINES* +
+*SAN VICENTE Y LAS GRANADINAS*
+
+a|C&W (WI) – Cable & Wireless (West Indies) Ltd, Kingstown
+
+a|VQ- -
+
+a|Todos los destinos
+
+a|VQST
+
+
+a|*SAO TOMÉ-ET-PRINCIPE* +
+*SAO TOME AND PRINCIPE* +
+*SANTO TOMÉ Y PRÍNCIPE*
+
+a|CST – Companhia Santomense de Telecomunicações, São Tomé
+
+a|ST- -
+
+a|Principe (Île) +
+S Tomé (Île) +
+Todos los otros
+
+a|STIM +
+STST +
+STSX
+
+
+a|*SAINTE-HÉLÈNE, ASCENSION ET TRISTAN DA CUNHA* +
+*SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA* +
+*SANTA ELENA, ASCENSION Y TRISTAN DA CUNHA*
+
+a|C&W – Cable & Wireless plc, The Briars
+
+a|HL- -
+
+a|Todos los destinos
+
+a|HLXX
+
+
+a|Ascension
+
+a|
+
+a|AV{blank}footnote:[El servico de telegramas deja de aceptarse y el indicador de destino ha sido suprimido. Sin embargo el código de dos letras AV sigue reservado para Ascension.]
+
+a|
+
+a|
+
+
+a|Tristan da Cunha
+
+a|GOVT – Tritan da Cunha, Administration of Telecommunications
+
+a|TD - -
+
+a|Todos los destinos
+
+a|TDCA
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*SAINT-KITTS-ET-NEVIS* +
+*SAINT KITTS AND NEVIS* +
+*SAN KITTS Y NIEVES*
+
+. S. Christophe
+
+.  Nevis
+
+a|SKANTEL – St. Kitts and Nevis Telocommunications Ltd, Basseterre
+
+a|KC- -
+
+a|Todos los destinos +
+Todos los destinos
+
+a|KCSK +
+KCNE
+
+
+a|*SAINTE-LUCIE* +
+*SAINT LUCIA* +
+*SANTA LUCIA*
+
+a|C&W (WI) – Cable & Wireless +
+(West Indies) Ltd, Castries
+
+a|LC- -
+
+a|Todos los destinos
+
+a|LCSL
+
+
+a|*SAINT-PIERRE-ET-MIQUELON* +
+*SAINT PIERRE AND MIQUELON* +
+*SAN PEDRO Y MIQUELÓN*
+
+a|France Télécom (FTRSI) – France Télécom Réseaux et Services Internationaux
+
+a|QN- -
+
+a|S Pierre Îles +
+Saint-Pierre-et-Miquelon +
+Todos los otros
+
+a|QNSP +
+QNSX
+
+
+a|*SALOMON (ÎLES)* +
+*SOLOMON ISLANDS* +
+*SALOMÓN(ISLAS)*
+
+a|Telekom – Solomon Telekom Company Limited, Honiara
+
+a|HQ- -
+
+a|Honiara +
+Todos los otros
+
+a|HQLO +
+HQLX
+
+
+a|*SAMOA AMÉRICAIN* +
+*AMERICAN SAMOA* +
+*SAMOA NORTEAMERICANA*
+
+a|GOVT – The Director of Communications, American Samoa Government, Pago Pago
+
+a|SB- -
+
+a|Pago Pago +
+Todos los otros
+
+a|SBJD +
+SBJX
+
+
+a|*SAMOA* +
+*SAMOA* +
+*SAMOA*
+
+a|Samoa Communications Limited, Apia
+
+a|SX- -
+
+a|Apia +
+Todos los otros
+
+a|SXAP +
+SXAX
+
+
+a|*SÉNÉGAL* +
+*SENEGAL* +
+*SENEGAL*
+
+a|SONATEL – Société nationale des télécommunications du Sénégal, Dakar
+
+a|SG- -
+
+a|Dakar +
+Todos los otros
+
+a|SGDR +
+SGDX
+
+
+a|*SERBIE* +
+*SERBIA* +
+*SERBIA*
+
+a|Unitel{blank}footnote:[véase el Boletín de Explotación de la UIT 900 del 15.I.2008]
+
+a|YU- -
+
+a|Beograd +
+Kragujevac +
+Nis +
+Novi Sad +
+Pristina +
+Titograd +
+Todos los otros
+
+a|YUBE +
+YUKR +
+YUNI +
+YUNS +
+YUPR +
+YUTG +
+YUBX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*SEYCHELLES* +
+*SEYCHELLES* +
+*SEYCHELLES*
+
+a|C&W(SEY)LTD – Cable and Wireless (Seychelles) Ltd, Victoria, Mahe
+
+a|SZ- -
+
+a|MAHE +
+PORT VICTORIA +
+SEYCHELLES -> MAHE +
+Todos los otros
+
+a|SZMA +
+SZVX
+
+
+a|*SIERRA LEONE* +
+*SIERRA LEONE* +
+*SIERRA LEONA*
+
+a|Sin encaminamiento +
+Sierratel – Sierra Leone Telecommunications Company, Freetown +
+SLET – Sierra Leone External Tele ommunications Ltd
+
+a|SQ- - +
+SE- - +
+SL- -
+
+a|Bo Sierra Leone +
+FREETOWN +
+Todos los otros
+
+a|--BO +
+--FN +
+--PX
+
+
+a|*SINGAPOUR* +
+*SINGAPORE* +
+*SINGAPUR*
+
+a|
+
+a|RS- -{blank}footnote:[El servicio de telegramas deja de aceptarse y los indicadores de destino de telegramas han sido suprimidos desde el 1.IV.2002. Sin embargo, el código de dos letras «RS» sigue reservado.]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*SLOVAQUIE* +
+*SLOVAKIA* +
+*ESLOVAQUIA*
+
+a|
+
+a|SK- -{blank}footnote:[El servicio de telegramas deja de aceptarse y el indicador de destino de telegramas ha sido suprimido desde el 1.XII.2006. Sin embargo, el código de dos letras «SK» sigue reservado.]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*SLOVÉNIE* +
+*SLOVENIA* +
+*ESLOVENIA*
+
+a|Pošta Slovenije d.o.o., Maribor
+
+a|SI- -
+
+a|Todos los destinos
+
+a|SIXX
+
+
+a|*SOMALIE* +
+*SOMALIA* +
+*SOMALIA*
+
+a|GOVT – Ministry of Posts and Telecommunications, Mogadishu
+
+a|SM- -
+
+a|Mogadishu +
+Todos los otros
+
+a|SMMO +
+SMMX
+
+
+a|*SOUDAN* +
+*SUDAN* +
+*SUDÁN*
+
+a|Sudatel – Sudan Telecom Co. Ltd, Khartoum
+
+a|SD- -
+
+a|Khartoum +
+Port Sudan +
+Todos los otros
+
+a|SDKM +
+SDPS +
+SDKX
+
+
+a|*SRI LANKA* +
+*SRI LANKA* +
+*SRI LANKA*
+
+a|Sri Lanka Telecom – Sri Lanka Telecom, Colombo
+
+a|CE- -
+
+a|Colombo +
+Todos los otros
+
+a|CECO +
+CECX
+
+
+a|*SUDAFRICAINE (RÉP.)* +
+*SOUTH AFRICA* +
+*SUDAFRICANA (REP.)* +
+(y compris – including – incluido: Bophuthatswana; Ciskei; Transkei; Venda)
+
+a|Telkom SA – Telkom SA Ltd, Pretoria
+
+a|SA- -
+
+a|Todos los destinos
+
+a|SAXX
+
+
+a|*SUÈDE* +
+*SWEDEN* +
+*SUECIA*
+
+a|Unitel, Alteveer{blank}footnote:[El servicio de telegramas deja de aceptarse por Telia AB desde el 1.V.2002. Véase el Boletín de Explotación de la UIT N.° 758 del 15.II.2002 y el Boletín de Explotación de la UIT N.° 764 del 15.V.2002.]
+
+a|SW- -
+
+a|Todos los destinos
+
+a|SWSX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*SUISSE* +
+*SWITZERLAND* +
+*SUIZA*
+
+a|Unitel, Alteveer{blank}footnote:[El servicio de telegramas deja de aceptarse por SWISSCOM desde el 1.V.2001 en Suiza. Véase el Boletín de Explotación de la UIT N.° 734 del 15.II.2001 y el Boletín de Explotación de la UIT N.° 751 del 1.XI.2001.]
+
+a|CH- -
+
+a|BERN RADIO +
+LAUSANNE +
+LUGANO +
+ZUERICH +
+ZURICH TELEX{blank}footnote:[Por telegramas recibidos por télex.]
+
+Todos los otros
+
+a|CHRM +
+CHVD +
+CHTI +
+CHZH +
+CHZR +
+CHBX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*SURINAME* +
+*SURINAME* +
+*SURINAME*
+
+a|
+
+a|SN- -{blank}footnote:[El servicio de telegramas deja de aceptarse y los indicadores de destino de telegramas han sido suprimidos desde el 1.IX.2001. Sin embargo, el código de dos letras «SN» sigue reservado.]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*SWAZILAND* +
+*SWAZILAND* +
+*SWAZILANDIA*
+
+a|SPTC – Swaziland Posts and Telecommunications Corporation, Mbabane
+
+a|WD- -
+
+a|Mbabane +
+Todos los otros
+
+a|WDMB +
+WDMX
+
+
+a|*TADJIKISTAN* +
+*TAJIKISTAN* +
+*TAYIKISTÁN*
+
+a|GOVT – Telecommunication Enterprise, Dushanbe
+
+a|TJ- -
+
+a|Todos los destinos
+
+a|TJXX
+
+
+a|*TANZANIE* +
+*TANZANIA* +
+*TANZANÍA*
+
+. Tanzanie continentale +
+Tanzanian Mainland +
+Tanzanía continental
+
+. Zanzibar
+
+
+a|TTCL – Tanzania Telecommunications Company Ltd, Dar-Es-Salaam
+
+a|TZ- -
+
+a|DAR-ES-SALAAM +
+DODOMA +
+Todos los otros +
+ +
+ZANZIBAR +
+Todos los otros
+
+a|TZDM +
+TZDO +
+TZDX +
+ +
+TZZR +
+TZZX
+
+
+a|*TCHAD* +
+*CHAD* +
+*CHAD*
+
+a|TIT – Société des télécommunications internationales du Tchad, N'Djamena
+
+a|KD- -
+
+a|N'Djamena +
+Todos los otros
+
+a|KDFL +
+KDFX
+
+
+a|*TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES* +
+*FRENCH SOUTHERN AND ANTARCTIC LANDS* +
+*TIERRAS AUSTRALES Y ANTÁRTICAS FRANCESAS*
+
+. Adélie (Terre) / Adelie (Land) / Adelia (Tierra)
+
+. Autres / Others / Otras +
+(Crozet – Kerguelen – S. Paul-et-Amsterdam)
+
+a|France Télécom (FTRSI) – France Télécom Réseaux et Services Internationaux +
+France Télécom (FTRSI) – France Télécom Réseaux et Services Internationaux
+
+a|DL- - +
+KB- -
+
+a|Todos los destinos +
+Todos los destinos
+
+a|DLTX +
+KBRF
+
+
+a|*THAÏLANDE* +
+*THAILAND* +
+*TAILANDÍA*
+
+a|
+
+a|TH- -{blank}footnote:[El servicio de telegramas deja de aceptarse y el indicador de destino de telegramas ha sido suprimido desde el 1.V.2008. Sin embargo, el código de dos letras «TH» sigue reservado.]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*TIMOR LESTE* +
+*LESTE TIMOR* +
+*LESTE ORIENTAL*
+
+a|GOVT – Timor Leste, Administration de télécommunications, Dili
+
+a|TI- -
+
+a|Dili +
+Todos los otros
+
+a|TIDI +
+TIDX
+
+
+a|*TOGO* +
+*TOGO* +
+*TOGO*
+
+a|TOGO TELECOM – Société des télécommunications du Togo, Lomé
+
+a|TG- -
+
+a|LOMÉ +
+Todos los otros
+
+a|TGLO +
+TGLX
+
+
+a|*TOKELAU* +
+*TOKELAU* +
+*TOKELAU*
+
+a|GOVT – Secretary for Tokelau Affairs, Apia (Western Samoa, Tokelau)
+
+a|TL- -
+
+a|Todos los destinos
+
+a|TLIX
+
+
+a|*TONGA* +
+*TONGA* +
+*TONGA*
+
+a|
+
+a|TS- -{blank}footnote:[El servicio de telegramas deja de aceptarse y el indicador de destino de telegramas ha sido suprimido desde el 15.V.1999. Sin embargo, el código de dos letras «TS» sigue reservado.]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*TRINITÉ-ET-TOBAGO* +
+*TRINIDAD AND TOBAGO* +
+*TRINIDAD Y TABAGO*
+
+a|
+
+a|WG- -{blank}footnote:[El servicio de telegramas deja de aceptarse y el indicador de destino de telegramas ha sido suprimido desde el 1.X.2006. Sin embargo, el código de dos letras «WG» sigue reservado.]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*TUNISIE* +
+*TUNISIA* +
+*TÚNEZ*
+
+a|TUNISIE TELECOM – Tunisie Telecom, Tunis
+
+a|TN- -
+
+a|Sfax +
+Sousse +
+Tunis +
+Todos los otros
+
+a|TNSF +
+TNSO +
+TNTS +
+TNTX
+
+
+a|*TURKMÉNISTAN* +
+*TURKMENISTAN* +
+*TURKMENISTÁN*
+
+a|Turkmentelekom – State Company of Telecommunications, "Turkmentelecom", Ashgabat
+
+a|TM- -
+
+a|Todos los destinos
+
+a|TMXX
+
+
+a|*TURQUES ET CAÏQUES (ÎLES)* +
+*TURKS AND CAICOS ISLANDS* +
+*TURQUESAS Y CAICOS (ISLAS)*
+
+a|C&W (WI) – Cable & Wireless +
+ (West Indies) Ltd, Grand Turk +
+
+a|TQ- -
+
+a|Todos los destinos
+
+a|TQTK
+
+
+a|*TURQUIE* +
+*TURKEY* +
+*TURQUÍA*
+
+a|Türk Telekomunikasyon – Türk Telekomünikasyon A.S., Ankara
+
+a|TR- -
+
+a|Adana +
+Ankara +
+Istanbul +
+Izmir +
+Todos los otros
+
+a|TRAA +
+TRAN +
+TRIS +
+TRIR +
+TRAX
+
+
+a|*TUVALU* +
+*TUVALU* +
+*TUVALU*
+
+a|GOVT – Ministry of Works, Communications and Energy, Funafuti
+
+a|TV- -
+
+a|Funafuti +
+Todos los otros
+
+a|TVFU +
+TVFX
+
+
+a|*UKRAINE* +
+*UKRAINE* +
+*UCRANIA*
+
+a|Ukrainian Telecom – Ukrainian State Telecommunications Corporation, Kyiv
+
+a|UX- -
+
+a|Cherkasy +
+Chernihiv +
+Chernivtsi +
+Dnipropetrovsk +
+Donetsk +
+Horlivka +
+Ivano-Frankivsk +
+Kharkiv +
+Kherson +
+Khmelnitskyi +
+Kirovohrad +
+Kramatorsk +
+Kryvyi Rih +
+Kyiv +
+Luhansk +
+Lutsk +
+Lviv +
+Mariupol +
+Mykolaiv +
+Odesa +
+Poltava +
+Rivne +
+Sevastopol +
+Simferopol +
+Sumy +
+Ternopil +
+Uzhhorod +
+Vinnytsia +
+Yalta +
+Zaporizhia +
+Zhytomyr +
+Todos los otros
+
+a|UXCK +
+UXCG +
+UXCV +
+UXDP +
+UXDC +
+UXGR +
+UXIF +
+UXHR +
+UXHS +
+UXHM +
+UXKG +
+UXKM +
+UXKR +
+UXKV +
+UXLK +
+UXLC +
+UXLV +
+UXMR +
+UXMK +
+UXOD +
+UXPL +
+UXRV +
+UXSV +
+UXSF +
+UXSU +
+UXTR +
+UXUG +
+UXVC +
+UXYL +
+UXZP +
+UXZT +
+UXKX
+
+
+a|*URUGUAY* +
+*URUGUAY* +
+*URUGUAY*
+
+a|ANTEL – Administración Nacional de Telecomunicaciones, Montevideo
+
+a|UY- -
+
+a|Artigas +
+Canelones +
+Colonia Uruguay +
+Melo Uruguay +
+Mercedes Uruguay +
+Montevideo +
+Paysandu +
+Punta del Este +
+Rivera Uruguay +
+Salto Uruguay +
+Treinta y Tres +
+Todos los otros
+
+a|UYAG +
+UYCL +
+UYCA +
+UYML +
+UYMS +
+UYMO +
+UYPU +
+UYPE +
+UYRV +
+UYSO +
+UYRR +
+UYMX
+
+
+a|*VANUATU* +
+*VANUATU* +
+*VANUATU*
+
+a|
+
+a|NH- -{blank}footnote:[El servicio de telegramas deja de aceptarse y indicador de destino de telegramas ha sido suprimido. Sin embargo, el código de dos letras NH sigue reservado]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*VATICAN* +
+*VATICAN* +
+*VATICANO*
+
+a|GOVT – Administration des PTT, Citta del Vaticano
+
+a|VA{blank}footnote:[Véase, bajo Italia, la oficina CITTA DEL VATICANO.] footnote:[VA se utiliza para el servicio télex.]
+
+a|
+
+a|
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*VENEZUELA* +
+*VENEZUELA* +
+*VENEZUELA*
+
+a|CANTV – Compañía Anónima Nacional Teléfonos de Venezuela, Caracas +
+IPOSTEL – Instituto Postal Telegráfico de Venezuela, Caracas
+
+a|VC {blank}footnote:[Télex solamente.]
+
+VE- -
+
+a|Caracas +
+Todos los otros
+
+a|VECA +
+VECX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*VIERGES AMÉRICAINES (ÎLES)* +
+*UNITED STATES VIRGIN ISLANDS* +
+*VÍRGENES AMERICANAS (ISLAS)*
+
+a|Graphnet – Graphnet, Inc.,
+
+a|VW- -
+
+a|Charlotte Amalie / S Thomas US Virgin Islands +
+Christiansted +
+S John US Virgin Islands +
+Todos los otros
+
+a|VWCH +
+VWCD +
+VWSJ +
+VWCX
+
+
+a|*VIERGES BRITANNIQUES (ÎLES)* +
+*BRITISH VIRGIN ISLANDS* +
+*VÍRGENES BRITÁNICAS (ISLAS)*
+
+a|C&W (WI) – Cable & Wireless (West Indies) Ltd, Tortola
+
+a|VB- -
+
+a|Anegada +
+Tortola +
+Virgin Gorda +
+Todos los otros
+
+a|VBAN +
+VBTO +
+VBVG +
+VBAX
+
+
+a|*VIET NAM* +
+*VIET NAM* +
+*VIET NAM*
+
+a|VNPT – Vietnam Posts and Telecommunications Corporation, Hanoi
+
+a|VT- -
+
+a|Ha Noi +
+Ho Chi Minh Ville +
+Todos los otros
+
+a|VTHA +
+VTHO +
+VTHX
+
+
+a|*WAKE (ÎLE)* +
+*WAKE ISLAND* +
+*WAKE (ISLA)*
+
+a|GOVT – Govt. Administration of Telecommunications, Wake Island
+
+a|WA- -
+
+a|Todos los destinos
+
+a|WAKM
+
+
+a|*WALLIS-ET-FUTUNA* +
+*WALLIS AND FUTUNA* +
+*WALLIS Y FUTUNA*
+
+a|FCR – France Câbles et Radio, Télécommunications extérieures de Wallis-et-Futuna, Mata-Utu
+
+a|WF- -
+
+a|Mata Utu +
+Todos los otros
+
+a|WFMU +
+WFGX
+
+
+a|*YÉMEN* +
+*YEMEN* +
+*YEMEN*
+
+a|Sin encaminamiento +
+PTC – Public Telecommunication Corporation, Sana'a +
+Unitel{blank}footnote:[vease el Boletín de Explotación de la UIT 958 15.VI.2010]
+
+a|YZ- - +
+YN- - +
+YE- -
+
+a|
+
+a|
+
+
+a|a) Sanaa
+
+a|
+
+a|
+
+a|Hodeidah +
+Sanaa +
+Taiz / Tayz +
+Todos los otros
+
+a|--HO +
+--SA +
+--TZ +
+--SX
+
+
+a|b) Aden
+
+a|Yementel – Yemen Telecommunications Corporation, Aden
+
+a|YD- -
+
+a|*ADEN* +
+Aden Radio +
+Mukalla +
+Seiyun +
+Todos los otros
+
+a|YDAN +
+YDAR +
+YDMK +
+YDSN +
+YDAX
+
+|===
+
+
+[%unnumbered,cols="5*"]
+|===
+^.^h|País / zona geográfica ^.^h|Red (administración/EER) ^.^h|Código de red ^.^h|Nombre de la oficina telegráfica ^.^h|Código de oficina
+^.^|1	^.^|2	^.^|3	^.^|4	^.^|5
+
+a|*ZAMBIE*
+*ZAMBIA*
+*ZAMBIA*
+
+a|Zamtel – Zambia Telecommunications Company Ltd, Ndola
+
+a|ZA- -
+
+a|Kitwe
+Lusaka
+Ndola
+Todos los otros
+
+a|ZAKE
+ZALU
+ZAND
+ZALX
+
+
+a|*ZIMBABWE*
+*ZIMBABWE*
+*ZIMBABWE*
+
+a|GOVT – Posts and Telecommunication Corporation, Harare
+
+a|ZW- -
+
+a|Bulawayo
+Harare
+Todos los otros
+
+a|ZWBU
+ZWHR
+ZWHX
+
+|===
+
+
+[appendix]
+== Indicador especial de origen para el sistema de retransmisión de telegramas
+
+[%unnumbered,cols="4*"]
+|===
+^.^h|País / zona geográfica	^.^h|Red (administración/EER)	^.^h|Código de red 	^.^h|Indicador especial de origen
+^.^|1	^.^|2	^.^|3	^.^|4
+
+a|*ARABIE SAOUDITE* +
+*SAUDI ARABIA* +
+*ARABIA SAUDITA*
+
+a|GOVT – Ministry of Communications and Information Technology, Riyadh
+
+a|SJ
+
+a|JP
+
+
+a|*AUSTRALIE* +
+*AUSTRALIA* +
+*AUSTRALIA*
+
+a|Matrix Omni Solutions Pty. Ltd (Matrix)
+
+a|AA
+
+a|SV +
+XQ +
+ZZ
+
+
+a|*BARBADE* +
+*BARBADOS* +
+*BARBADOS*
+
+a|C&W BET Ltd – Cable & Wireless +
+BET Ltd, Bridgetown
+
+a|WB
+
+a|SV
+
+
+a|*BELGIQUE* +
+*BELGIUM* +
+*BÉLGICA*
+
+a|BELGACOM – Société anonyme de droit public, Bruxelles
+
+a|BE
+
+a|SV
+
+
+a|*BRÉSIL* +
+*BRAZIL* +
+*BRASIL*
+
+a|EMBRATEL – Empresa Brasileira de Telecomunicações S.A., Rio de Janeiro
+
+a|BR
+
+a|BQ +
+SV +
+XQ
+
+
+a|*CANADA* +
+*CANADA* +
+*CANADÁ*
+
+a|AT&T Easylink Services, Bridgeton, Missouri (United States)
+
+a|CA
+
+a|SV +
+XQ
+
+
+a|*CHYPRE* +
+*CYPRUS* +
+*CHIPRE*
+
+a|CYTA – Cyprus Telecommunications Authority, Nicosia
+
+a|CY
+
+a|SU
+
+
+a|*CORÉE (RÉP. DE)* +
+*KOREA (REP. OF)* +
+*COREA (REP.* *DE)*
+
+a|KT Corporation, Seongnam City
+
+a|KR
+
+a|SV +
+XQ +
+ZZ +
+MV +
+YQ
+
+
+a|*ÉMIRATS ARABES UNIS* +
+*UNITED ARAB EMIRATES* +
+*EMIRATOS ÁRABES UNIDOS*
+
+a|Etisalat – The Emirates Telecommunications Corporation Ltd, Abu Dhabi
+
+a|EM
+
+a|SV +
+XQ
+
+
+a|*ÉTATS-UNIS* +
+*UNITED STATES* +
+*ESTADOS UNIDOS*
+
+a|AT&T – AT&T EasyLink Services
+
+a|UD +
+UI
+
+a|NX +
+SV +
+XQ +
+AW  AX +
+BC  BQ +
+CS +
+DL +
+FO  FS  FU +
+GA  GH  GM  GN  GX +
+HB +
+JB  JX +
+LA  LH +
+MA +
+PP  PW  PX +
+RB  RQ +
+SE  SS  SV  SW +
+TD  TO  TR  TW  WF  WN  WU +
+XQ +
+ZZ
+
+a|*ÉTATS-UNIS* +
+*UNITED STATES* +
+*ESTADOS UNIDOS*
+
+a|Graphnet, Inc.
+
+a|UB
+
+a|GN +
+SV +
+XQ
+
+
+a|
+
+a|MCI/WUI – MCI International/WUI, Inc.
+
+a|UR
+
+a|AC  AD  AI  AM  AR  AS  AT  AU  AW  AX +
+AZ +
+BQ  BV +
+CA  CH  CX +
+DB  DD  DF  DL  DO  DR  DV +
+EM  ES +
+FC  FF  FL  FS  FV +
+GM  GN  GW +
+HC  HT  HU +
+IM  IN  IT  IX +
+JX +
+KC +
+LA  LC  LH  LP +
+MA  MB  MF  MI  MM  MO  MP  MS  MW +
+NA  NB  NK  NL +
+NO  NR  NT  NV +
+PH  PM  PO  PP  PR  PT  PX +
+RQ +
+SD  SE  SH  SI  SK  SN  SP  SR  SS  ST +
+SV +
+TA  TL TN  TO  TP  TR  TS  TU  TX +
+UN  US +
+VF +
+WB  WD  WF  WL  WN  WR  WT  WU  WV +
+WW +
+XQ  XX +
+YQ
+
+
+a|
+
+a|MCI/WUI – MCI International/WUI, Inc. +
+TRT/FTC – TRT/FTC Communications, Inc. +
+TRT/FTC – TRT/FTC Communications, Inc.
+
+a|UW +
+UF +
+UT
+
+a|TC +
+XQ +
+ +
+FL +
+PR +
+ +
+SV +
+XQ +
+ +
+FL +
+PR +
+SV +
+XQ
+
+
+a|*FRANCE* +
+*FRANCE* +
+*FRANCIA*
+
+a|France Télécom (FTRSI) – France Télécom Réseaux et Services Internationaux, Paris
+
+a|FR
+
+a|SV +
+XQ
+
+
+a|*ITALIE* +
+*ITALY* +
+*ITALIA*
+
+a|GOVT – Ministry of Economic Development, Roma +
+Telecom Italia S.p.A., Roma
+
+a|IG +
+IT
+
+a|BB BD +
+DD +
+FF +
+TX +
+HQ +
+SV +
+XQ
+
+
+a|*JAPON* +
+*JAPAN* +
+*JAPÓN*
+
+a|Unitel, Alteveer
+
+a|JP
+
+a|AA  AB  AS +
+CH  CR  CS +
+DW +
+GN +
+HX +
+KL +
+NA  NL  NR  NT +
+OL  OP  OU +
+SV +
+TF  TL  TT  TU +
+XQ +
+YL
+
+
+a|*KOWEÏT* +
+*KUWAIT* +
+*KUWAIT*
+
+a|GOVT – Ministry of Communications, Safat
+
+a|KT
+
+a|SV
+
+
+a|*LETTONIE* +
+*LATVIA* +
+*LETONIA*
+
+a|Ellion Ettevõtted AS., Tallinn
+
+a|LV
+
+a|TC
+
+
+a|*NICARAGUA* +
+*NICARAGUA* +
+*NICARAGUA*
+
+a|Nicatelsat – Compañía Nicaragüense de Telecomunicaciones por Satélite, Managua
+
+a|NU
+
+a|XQ
+
+
+a|*NIGÉRIA* +
+*NIGERIA* +
+*NIGERIA*
+
+a|Nitel – Nigerian Telecommunications plc, Lagos
+
+a|NG
+
+a|FP +
+SV +
+XQ
+
+
+a|*OUGANDA* +
+*UGANDA* +
+*UGANDA*
+
+a|UPTC – Uganda Post and Telecommunications Corporation, Kampala
+
+a|UG
+
+a|ST +
+SV
+
+
+a|*PHILIPPINES* +
+*PHILIPPINES* +
+*FILIPINAS*
+
+a|PhilCom – Philippine Global Communications, Inc., Makati
+
+a|PH
+
+a|SV +
+XQ
+
+
+a|*ROYAUME-UNI* +
+*UNITED KINGDOM* +
+*REINO UNIDO*
+
+a|Unitel, Alteveer
+
+a|GB
+
+a|AA  AB  AC  AD  AE  AF  AG  AH AI  AJ +
+AK  AM  AP +
+BC  BM +
+CU +
+GC  GR  GS  GW +
+HQ +
+IS +
+LM  LX +
+MV +
+PA  PB  PC  PD  PH  PO  PR +
+RV +
+SH  SL  SV +
+TX +
+UA  UB  US
+
+
+a|*ROYAUME-UNI* +
+*UNITED KINGDOM* +
+*REINO UNIDO*
+
+a|
+
+a|
+
+a|XQ XX +
+YQ +
+ZZ
+
+
+a|*SUDAFRICAINE (RÉP.)* +
+*SOUTH AFRICA* +
+*SUDAFRICANA (REP.)*
+
+a|Telkom SA – Telkom SA Ltd, Pretoria
+
+a|SA
+
+a|SV +
+XQ
+
+|===
+
+
+
+[appendix]
+== Indicadores que han de utilizarse en el renglón de preámbulo de los telegramas de Estado para designar Organismos (de conformidad con la Recomendación UIT-T F.1, A218)
+
+
+
+[%unnumbered, cols="2*", options="header"]
+|===
+a|Código de red |Organismos
+a|1 |2
+
+a|XB  a|Banque interaméricaine de développement +
+Inter-American Development Bank +
+Banco Interamericano de Desarrollo
+
+a|XC  a|Fonds des Nations Unies pour l'enfance +
+United Nations Children Fund +
+Fondo de las Naciones Unidas para la Infancia
+
+a|XD a|Association internationale de développement +
+International Development Association +
+Asociación Internacional de Fomento
+
+a|XF a|Société financière internationale +
+International Finance Corporation +
+Sociedad Financiera Internacional
+
+a|XM a|Fonds monétaire international +
+International Monetary Fund +
+Fundo Monetario Internacional
+
+a|XO a|Organisation des Nations Unies +
+United Nations Organization +
+Organización de Naciones Unidas
+
+a|XP a|Union panaméricaine +
+Pan-American Union +
+Unión Panamericana
+
+a|XR a|Banque internationale pour la reconstruction et le développement +
+International Bank for Reconstruction and Development +
+Banco Internacional de Reconstrucción y Fomento
+
+|===
+
+
+[appendix]
+== Países o zonas geográficas para los cuales una información sobre a la cesación de servicio de telegramas ha sido publicada en el Boletín de Explotación de la UIT (N.º):
+
+[%unnumbered, cols="4*"]
+|===
+h|_BE N.°_ h|Países / Zonas geográficas h|_BE N.°_ h|Países / Zonas geográficas
+
+a|648 |Antigua y Barbuda |906 |Tailandia
+a|686 |Ascensión |919 |Malta
+a|692 |Tonga |926 |Luxemburgo
+a|694 |Fiji |957 |Vanuatu
+a|718 |Nueva Zelandia |958 |Madagascar
+a|751 |Singapur | |
+a|754 |Suriname | |
+a|758 |Groenlandia | |
+a|773 |Guyana | |
+a|773 |Polonia | |
+a|776 |Gibraltar | |
+a|789 |Nueva Caledonia | |
+a|792 |Indonesia | |
+a|800 |Hong kong, China | |
+a|806 |Curaçao | |
+a|814 |Feroe (Islas) | |
+a|832 |Bulgaria | |
+a|840 |Dinamarca | |
+a|852 |Pakistán | |
+a|873 |Trinidad y Tobago | |
+a|874 |Eslovaquia | |
+a|889 |Hungria | |
+
+|===
+
+[appendix]
+== Países o zonas geográficas para los cuales una información sobre a la cesación de servicio de telegrams ha sido publicada en el Boletín de Explotación de la UIT (N.°):
+
+
+=== ENMIENDAS
+
+[%unnumbered,cols="^,^,^"]
+|===
+h|Enmienda N.° h|Boletín de Explotación N.° h|País
+
+a|1 | |
+a|2 | |
+a|3 | |
+a|4 | |
+a|5 | |
+a|6 | |
+a|7 | |
+a|8 | |
+a|9 | |
+a|10 | |
+a|11 | |
+a|12 | |
+a|13 | |
+a|14 | |
+a|15 | |
+a|16 | |
+a|17 | |
+a|18 | |
+a|19 | |
+a|20 | |
+a|21 | |
+a|22 | |
+a|23 | |
+a|24 | |
+a|25 | |
+a|26 | |
+a|27 | |
+a|28 | |
+a|29 | |
+a|30 | |
+
+|===
+
+

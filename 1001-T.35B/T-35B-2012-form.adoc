@@ -1,0 +1,129 @@
+= Notification from Administration for the identification of the national authority designated to assign ITU-T Recommendation T.35 terminal provider codes
+
+[data-requirement]
+----
+iso-3166: import("iso-3166.yaml")
+
+national: {
+  country: select(import.iso-3166)
+  administration_name: string(constraint: length <= 100)
+  last_updated: date(iso-8601-1)
+  manufactures_h: boolean
+  manufactures_t: boolean
+  manufactures_v: boolean
+  comments: string
+
+  assignment_authority: {
+    organization: string
+    terminal_type: select_multiple({
+      h-series
+      t-series
+      v-series
+    })
+    contact_name: string
+    department: string
+    address: string
+    telephone: itu-e164
+    fax: itu-e164
+    email: email
+    related_links: link
+    last_updated: date(iso-8601-1)
+  }[0..*]
+}
+----
+
+[data-form]
+
+////
+NOTES:
+In a data form, we have labels mapped to inputs. There are description of fields. Description on how to enter values, sample values.
+////
+
+[submission]
+Please return this notification form to TSB, E-mail: mailto:tsbtson@itu.int[tsbtson@itu.int] or Fax: +41 22 730 5853
+
+[instructions]
+Please elaborate and provide as much detail as possible in response to these questions. If complete information cannot be related because it is proprietary or sensitive, please indicate this status. The responses received will be used to complete and update the list of national authorities for the assignment of ITU-T T.35 terminal provider codes.
+
+. Country and name of administration: {{national.country}}, {{national.administration_name}}
+
+. Within your country, are there manufacturers of products compliant with:
+
+* ITU-T H-Series Recommendations (video/multimedia conferencing)?
+** [ ] {{national.manufactures_h=true}} Yes
+** [ ] {{national.manufactures_h=false}} No
+
+* ITU-T T-Series Recommendations (data conferencing, fax equipment)?
+** [ ] {{national.manufactures_t=true}} Yes
+** [ ] {{national.manufactures_t=false}} No
+
+* ITU-T V-Series Recommendations (modems)?
+** [ ] {{national.manufactures_v=true}} Yes
+** [ ] {{national.manufactures_v=false}} No
+
+. Do you have any existing national body or other assignment authority designated to assign terminal provider codes in accordance with ITU-T Rec. T.35?
+** [ ] {{national.has_assignment_authority=true}} Yes
+** [ ] {{national.has_assignment_authority=false}} No
+
+{{if national.has_assignment_authority}}
+
+. As applicable, please provide the following information for *each* assignment authority (in case of different authorities for different terminal types):
+
+[national.assignment_authority[0..*]]
+
+Terminal type:: +
+Please tick all applicable boxes and list any "other category" +
++
+* [ ] {{assignment_authority.terminal_type[]=h-series}} H-Series
+* [ ] {{assignment_authority.terminal_type[]=t-series}} T-Series
+* [ ] {{assignment_authority.terminal_type[]=v-series}} V-Series
+* {{assignment_authority.other_category(string)}} Other category
+
+Contact name:: {{assignment_authority.contact_name}}
+Organization:: {{assignment_authority.organization}}
+Department:: {{assignment_authority.department}}
+Address:: {{assignment_authority.address}}
+Telephone:: {{assignment_authority.telephone}}
+Fax:: {{assignment_authority.fax}}
+E-mail:: {{assignment_authority.email}}
+Relevant website links:: {{assignment_authority.related_links}}
+Last updated:: {{assignment_authority.last_updated}}
+
+{{endif}}
+
+// TODO: add validation rules
+////
+
+
+Define data requirements:
+
+selection:
+- single select
+- multiple select
+////
+
+////
+Sample data
+# select one country from list iso-3166
+- country: iso-3166:de
+  administration_name: Federal Network Agency for Electricity, Gas, Telecommunication, Post and Railway
+  manufactures_htv: true
+  last_updated: 2006-03-10
+  assignment_authority:
+    - organization: Regulierungsbehörde für Telekommunikation und Post
+      terminal_type:
+        - h-series
+        - t-series
+        - v-series
+      contact_name: N/A
+      department: Nummernverwaltung
+      address: Postfach 80 01, 55003 Mainz, Germany
+      telephone: N/A
+      fax: +49 (0) 6131 18 5630
+      email: N/A
+      related_links: http://www.bundesnetzagentur.de/enid/99ac9212d8585c26271e444aa9cc3293,d0d2d85f7472636964092d0936333139/Zuteilungsregeln/Nummernart_1ew.html
+      last_updated: 2006-03-10
+////
+
+
+

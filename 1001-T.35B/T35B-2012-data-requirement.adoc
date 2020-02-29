@@ -1,0 +1,31 @@
+[data-requirement]
+----
+iso-3166: import("iso-3166.yaml")
+
+national: {
+  country: select(import.iso-3166)
+  administration_name: string(constraint: length <= 100)
+  last_updated: date(iso-8601-1)
+  manufactures_h: boolean
+  manufactures_t: boolean
+  manufactures_v: boolean
+  comments: string
+
+  assignment_authority: {
+    organization: string
+    terminal_type: select_multiple({
+      h-series
+      t-series
+      v-series
+    })
+    contact_name: string
+    department: string
+    address: string
+    telephone: itu-e164
+    fax: itu-e164
+    email: email
+    related_links: link
+    last_updated: date(iso-8601-1)
+  }[0..*]
+}
+----

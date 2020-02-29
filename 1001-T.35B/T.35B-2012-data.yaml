@@ -1,0 +1,350 @@
+---
+- country: iso-3166:de
+  administration_name: Federal Network Agency for Electricity, Gas, Telecommunication, Post and Railway
+  manufactures_htv: true
+  last_updated: 2006-03-10
+  assignment_authority:
+    - organization: Regulierungsbehörde für Telekommunikation und Post
+      terminal_type:
+        - h-series
+        - t-series
+        - v-series
+      contact_name: N/A
+      department: Nummernverwaltung
+      address: Postfach 80 01, 55003 Mainz, Germany
+      telephone: N/A
+      fax: +49 (0) 6131 18 5630
+      email: N/A
+      related_links: http://www.bundesnetzagentur.de/enid/99ac9212d8585c26271e444aa9cc3293,d0d2d85f7472636964092d0936333139/Zuteilungsregeln/Nummernart_1ew.html
+      last_updated: 2006-03-10
+
+- country: iso-3166:bw
+  administration_name: Botswana Telecommunications Authority
+  manufactures_htv: false
+  assignment_authority: None designated
+  last_updated: 2004-08-31
+
+- country: iso-3166:kh
+  administration_name: Ministry of Posts and Telecommunications
+  manufactures_htv: false
+  assignment_authority: None designated
+  last_updated: 2004-09-07
+
+- country: iso-3166:cn
+  administration_name: Ministry of Industry and Information Technology (MIIT)
+  manufactures_htv: true
+  last_updated: 2011-12-15
+  assignment_authority:
+    - organization: China Communication Standards Association (CCSA)
+      terminal_type:
+        - h-series
+        - t-series
+        - v-series
+      contact_name: Ms. Mei DENG, Mr. Shizhuo ZHAO
+      department:
+      address: CCSA 52#Hua Yuan Bei Road, Haidian District, Beijing China 100191
+      telephone: +86 10 8205 4513 (Ms. Mei DENG); +86 10 6230 2645 (Mr. Shizhuo ZHAO)
+      fax: +86 10 8205 4513
+      email: dengmei@ccsa.org.cn
+      related_links: http://www.ccsa.org.cn/english/[www.ccsa.org.cn/english/]
+      last_updated: 2011-12-15
+
+- country: iso-3166:cw
+  administration_name: Bureau of Telecommunication and Post
+  manufactures_htv: false
+  assignment_authority: None designated
+  last_updated: 2004-09-23
+
+- country: iso-3166:es
+  administration_name: Ministerio Industria, Turismo y Comercio
+  manufactures_htv: true
+  last_updated: January 2009
+  assignment_authority:
+    - organization: Dirección General de Telecomunicaciones
+      terminal_type:
+        - h-series
+        - t-series
+        - v-series
+      contact_name: Marta Serrano Clamarigand
+      department: Area de Normalización Técnica
+      address: C/Capitán Haya No 41
+      telephone: +34 9 1346 2805
+      fax: +34 9 1346 1566
+      email: Normalizacion_tecnica@mityc.es
+      related_links: http://www.mityc.es/telecomunicaciones/secciones/normalizacion
+      last_updated: January 2009
+
+- country: iso-3166:us
+  administration_name: U.S. Department of State
+  manufactures_htv: true
+  note: Both organizations are also responsible for the T.35 terminal provider code assignments in Canada.
+  last_updated: 2005-03-10
+  assignment_authority:
+    - organization: Telecommunications Industry Association (TIA)/Engineering Committee TR-30
+      terminal_type:
+        - t-series
+        - v-series
+      contact_name: Fred Lucas (TIA/TR-30 Chair)
+      department: N/A
+      address: 3421 Buttonwood Court, Reiserstown, MD 21136-4401, USA
+      telephone: +1 410 239 0248
+      fax: N/A
+      email: fred.lucas@worldnet.att.net
+      related_links: http://www.tiaonline.org/standards/committees/T35CodeAdministratorRegion2.cfm
+      last_updated: 2005-03-10
+
+    - organization: Delta Information Systems
+      terminal_type:
+        - h-series
+      contact_name: Gary Thom
+      department: N/A
+      address: 300 Welsh Road, Building 3, Horsham, PA 190044-2273, USA
+      telephone: N/A
+      fax: N/A
+      email: gthom@delta-info.com
+      related_links: http://www.delta-info.com/Protocol_Test/Manufacturer_codes.html
+      last_updated: 2004-11-12
+
+- country: iso-3166:fi
+  administration_name: Finnish Communications Regulatory Authority
+  manufactures_htv: true
+  last_updated: 2004-10-21
+  assignment_authority:
+    - organization: Finnish Communications Regulatory Authority
+      terminal_type:
+        - h-series
+        - t-series
+        - v-series
+      contact_name: Mr Antti Pokela
+      department: N/A
+      address: P.O. Box 313, FI-00181 Helsinki, Finland
+      telephone: +358 9 69 661
+      fax: +358 9 69 66410
+      email: antti.pokela@ficora.fi
+      related_links: http://www.ficora.fi/
+      last_updated: 2004-10-21
+
+- country: iso-3166:fr
+  administration_name: Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)
+  manufactures_htv: true
+  last_updated: 2003-11-03
+  assignment_authority:
+    - organization: Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)
+      terminal_type:
+        - h-series
+        - t-series
+        - v-series
+      contact_name: Jacques Senesse
+      department: SIN
+      address: 7, Square Max-Hymans, 75730 Paris Cedex 15, France
+      telephone: +33 1 40 47 71 46
+      fax: +33 1 40 47 71 88
+      email: jacques.senesse@art-telecom.fr
+      related_links: N/A
+      last_updated: 2003-11-03
+
+- country: iso-3166:ir
+  administration_name: Telecommunication Company of Iran (TCI)
+  manufactures_htv: false
+  assignment_authority: None designated
+  last_updated: 2004-09-13
+
+- country: iso-3166:it
+  administration_name: Ministerio delle Communicazioni – General Secretariat International Relations
+  manufactures_htv: true
+  assignment_authority: None designated
+  last_updated: 2004-11-04
+
+- country: iso-3166:jp
+  administration_name: Ministry of Internal Affairs and Communications
+  manufactures_htv: true
+  last_updated: 2003-10-27
+  assignment_authority:
+    - organization: Ministry of Internal Affairs and Communications
+      terminal_type:
+        - h-series
+        - t-series
+        - v-series
+      contact_name: Mr Manabu Kanaya, Director of Standardization Division
+      department: Information and Communications Policy Bureau
+      address: 1-2 Kasumigaseki 2-chome Chiyoda-ku, Tokyo 100-8926, Japan
+      telephone: +81 3 5353 5763
+      fax: +81 3 5253 5764
+      email: istd@soumu.go.jp
+      related_links: N/A
+      last_updated: 2003-10-27
+
+- country: iso-3166:kg
+  administration_name: State Communications Agency at Government of Kyrgyz Republic
+  manufactures_htv: false
+  last_updated: 2003-10-08
+  assignment_authority:
+    - organization: State Communications Agency at Government of Kyrgyz Republic
+      terminal_type:
+        - h-series
+        - t-series
+        - v-series
+      contact_name: Dergacheva Ekaterina Alexandrovna
+      department: Department of Standardization and Certification
+      address: Kyrgyzstan, Bishkek, Sovetskaya str. 7b
+      telephone: +996 312 54 41 07
+      fax: +996 312 54 41 05
+      email: nta@infotel.kg
+      related_links: N/A
+      last_updated: 2003-10-08
+
+- country: iso-3166:kw
+  administration_name: Ministry of Communications
+  manufactures_htv: false
+  assignment_authority: None designated
+  last_updated: 2004-01-05
+
+- country: iso-3166:mk
+  administration_name: Agency for Electronic Communications
+  manufactures_htv: false
+  last_updated: 2004-09-25
+  assignment_authority:
+    - organization: Telecommunications Directorate of The Former Yugoslav Republic of Macedonia
+      terminal_type:
+        - t-series
+      contact_name: Biljana Panovska-Gavrilova
+      department: Telecommunications Department
+      address: 1, Dame Gruev St, 1000 Skopje, Macedonia
+      telephone: +389 2 3289 203; +389 2 3224 511
+      fax: +389 2 3224 611
+      email: contact@dtk.gov.mk
+      related_links: N/A
+      last_updated: 2004-09-25
+
+- country: iso-3166:mu
+  administration_name: Information and Communication Technologies Authority
+  manufactures_htv: false
+  last_updated: 2003-10-28
+  assignment_authority:
+    - organization: Information and Communication Technologies Authority
+      terminal_type:
+        - h-series
+        - t-series
+        - v-series
+      contact_name: The Chairman
+      department: N/A
+      address: Jade House,1st Floor, Cnr Jummah Mosque & Remy Ollier Streets, Port Louis, Mauritius
+      telephone: +230 217 2222
+      fax: +230 217 7777
+      email: icta@intnet.mu
+      related_links: N/A
+      last_updated: 2003-10-28
+
+- country: iso-3166:no
+  administration_name: Norwegian Post and Telecommunications Authority
+  manufactures_htv: true
+  last_updated: 2012-02-28
+  assignment_authority:
+    - organization: Norwegian Post and Telecommunications Authority
+      terminal_type:
+        - h-series
+      contact_name: Anne Thomassen, Hege Johnson, Johannes M Vallesverd
+      department: Section for telephony and number management
+      address: Postbox 93, 4791 Lillesand, Norway
+      telephone: + 47 22 82 46 00
+      fax: + 47 22 82 46 40
+      email: firmapost@npt.no
+      related_links: http://www.npt.no/portal/page/portal/PG_NPT_NO_NO/PAG_NPT_NO_HOME/PAG_RESSURSER_TEKST?p_d_i=-121&p_d_c=&p_d_v=48006&menuid=11697
+      last_updated: 2012-02-28
+
+- country: iso-3166:pl
+  administration_name: Office of Electronic Communications (UKE)
+  manufactures_htv: false
+  last_updated: 2007-02-23
+  assignment_authority:
+    - organization: UKE
+      terminal_type: All
+      contact_name: Tomasz Karamon
+      department: Department of Technology
+      address: Kasprzaka 18/20, 01-211 Warsaw, Poland
+      telephone: +48 (0) 22 53 49 325
+      fax: +48 (0) 22 53 49 327
+      email: t.karamon@uke.gov.pl
+      related_links: N/A
+      last_updated: 2007-02-23
+
+- country: iso-3166:cz
+  administration_name: Czech Telecommunication Office
+  manufactures_htv: false
+  assignment_authority: None designated
+  last_updated: 2003-11-10
+
+- country: iso-3166:uk
+  administration_name: Office of Communications (Ofcom)
+  manufactures_htv: true
+  last_updated: 2004-11-26
+  assignment_authority:
+    - organization: Computency Limited
+      terminal_type:
+        - h-series
+        - t-series
+        - v-series
+      contact_name: Bill Pechey
+      department: N/A
+      address: Jays Lodge, Crays Pond, Reading, RG8 7QG, United Kingdom
+      telephone: +44 870 740 1123
+      fax: +44 870 432 1905
+      email: bpechey@computency.co.uk
+      related_links: http://www.cix.co.uk/%7Ebpechey/H221/
+      last_updated: 2004-11-26
+
+- country: iso-3166:si
+  administration_name: Post and Electronic Communications Agency of the Republic of Slovenia
+  manufactures_htv: true
+  last_updated: 2004-11-12
+  assignment_authority:
+    - organization: Post and Electronic Communications Agency
+      terminal_type:
+        - h-series
+      contact_name: Anton Kovacic
+      department: Numbering
+      address: Stegne 7, P.O. Box 418, SI-1001 Ljubljana, Slovenia
+      telephone: +386 1 583 63 00
+      fax: +386 1 511 11 01
+      email: anton.kovacic@apek.si
+      related_links: http://www.apek.si/
+      last_updated: 2004-11-12
+
+- country: iso-3166:ch
+  administration_name: Office fédéral de la communication (OFCOM)
+  manufactures_htv: true
+  last_updated: 2004-09-30
+  assignment_authority:
+    - organization: Service de télécommunication
+      terminal_type:
+        - h-series
+        - t-series
+        - v-series
+      contact_name: Laurent Scheggia
+      department: Numérotage et adressage
+      address: 44, rue de l'Avenir – Case postale – CH-2501 Bienne
+      telephone: +41 32 327 5877
+      fax: +41 32 327 55 49
+      email: laurent.scheggia@bakom.admin.ch
+      related_links:
+        - http://www.ofcom.ch
+        - http://www.e-ofcom.ch
+      last_updated: 2004-09-30
+
+- country: iso-3166:sr
+  administration_name: TELESUR – Paramaribo, Suriname
+  manufactures_htv: false
+  assignment_authority: None designated
+  last_updated: 2003-10-28
+
+- country: iso-3166:ve
+  administration_name: Comisión Nacional de Telecomunicaciones (Conatel)
+  manufactures_htv: false
+  assignment_authority: None designated
+  last_updated: 2004-12-24
+
+- country: iso-3166:zm
+  administration_name: Zambia Information & Communications Technology Authority (ZICTA)
+  manufactures_htv: false
+  assignment_authority: None designated
+  last_updated: 2004-09-06

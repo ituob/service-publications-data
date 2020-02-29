@@ -1,0 +1,27 @@
+---
+countries:
+  - en:
+      name: Andorra
+      status: The telex service is no longer provided.
+    fr:
+      name: Andorre
+      status: Le service télex n'est plus assuré.
+    es:
+      name: Andorra
+      status: El servicio télex está suprimido
+
+  - en:
+      name: Antigua and Barbuda
+      status: |
+        The telegram service is no longer provided.
+        Collect calls to mobile, payphone and audiotex numbers are not accepted
+    fr:
+      name: Antigua-et-Barbuda
+      status: |
+        Le service des télégrammes n'est plus assuré.
+        Les communications payables à l'arrivée à destination de numéros mobiles, de publiphones ou de numéros audiotex ne sont pas acceptées.
+    es:
+      name: Antigua y Barbuda
+      status: |
+        El servicio de telegramas está suprimido.
+        No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles, teléfonos públicos y audiotex

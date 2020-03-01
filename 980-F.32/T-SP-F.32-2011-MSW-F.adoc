@@ -16,10 +16,10 @@
 
 === Note du TSB
 
-. Par la Circulaire TSB 179 du 16 octobre 1995, le TSB annonçait l’approbation de la Recommandation UIT-T F.32 (10/1995) (antérieurement F.96), conformément aux dispositions de la Résolution 1, Section 8 de la CMNT (Helsinki, 1993) et, par la Circulaire TSB 104 du 23 mars 1998, il annonçait l’approbation de la Recommandation UIT-T F.1 (03/1998): «Disposi¬tions applicables à l’exploitation du service public international des télégrammes» dont le texte a été révisé par la Commission d’études 2 de l’UIT-T.
+. Par la Circulaire TSB 179 du 16 octobre 1995, le TSB annonçait l’approbation de la Recommandation UIT-T F.32 (10/1995) (antérieurement F.96), conformément aux dispositions de la Résolution 1, Section 8 de la CMNT (Helsinki, 1993) et, par la Circulaire TSB 104 du 23 mars 1998, il annonçait l’approbation de la Recommandation UIT-T F.1 (03/1998): «Dispositions applicables à l’exploitation du service public international des télégrammes» dont le texte a été révisé par la Commission d’études 2 de l’UIT-T.
 +
 --
-En conséquence, le TSB a établi une _Liste des indicateurs de destination des télégrammes_ attribués aux pays/zones géographiques ou réseaux (deux premières lettres) et aux bureaux télégraphiques de destination (troisième et quatrième lettres), conformément à la Recommandation UIT-T F.32 (10/1995). La Liste contient également les indicateurs spéciaux d’origine et les indicateurs qui désignent les organisations internationales dans la ligne de préambule des télé¬grammes d’État selon la disposition A218 de la Recommandation UIT-T F.1 (03/1998).
+En conséquence, le TSB a établi une _Liste des indicateurs de destination des télégrammes_ attribués aux pays/zones géographiques ou réseaux (deux premières lettres) et aux bureaux télégraphiques de destination (troisième et quatrième lettres), conformément à la Recommandation UIT-T F.32 (10/1995). La Liste contient également les indicateurs spéciaux d’origine et les indicateurs qui désignent les organisations internationales dans la ligne de préambule des télégrammes d’État selon la disposition A218 de la Recommandation UIT-T F.1 (03/1998).
 --
 
 . La nouvelle Liste publiée en annexe au Bulletin d’exploitation de l’UIT No 980 du 15 mai 2011 remplace celle publiée en annexe au Bulletin d’exploitation de l’UIT N° 879 du 1 mars 2007. Les pays ou zones géographiques pour lesquels des renseignements relatifs à la cessation du service des télégrammes ont été publiés dans le bulletin d'exploitation de l'UIT (No) sont ajoutés à cette liste.

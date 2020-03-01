@@ -1,0 +1,42 @@
+# NEW ZEALAND
+country_name:
+  en: NEW ZEALAND
+  fr: NOUVELLE-ZELANDE
+  es: NUEVA ZELANDIA
+
+type:
+  - POSTE/FAXLINK
+  - POSTE
+
+notes: 
+    - en: 1) Inward messages received by 1700 hours Monday-Friday are delivered the morning of the following day.
+      fr: 1) Du lundi au vendredi, les messages entrants reçus avant 1700 heures sont remis aux destinataires le lendemain matin.
+      es: 1) Los mensajes entrantes recibidos hasta las 1700 horas de lunes a viernes se entregan el día siguiente por la mañana.
+
+    - en: 2) Message for the upper north Island should be routed via the AUCKLAND gateway bureau.
+      fr: 2) Les messages destinés à la partie supérieure du nord de île doivent être acheminés par le bureau tête de ligne d' AUCKLAND.
+      es: 2) Los mensajes destinados a la zona septentrional del norte de la isla deben ser cursados por la oficina cabeza de línea de AUCKLAND.
+      
+    - en: 3) Messages for the south Island should be routed via the CHRISTCHURCH gateway bureau.
+      fr: 3) Les messages destinés à la partie sud de île doivent être acheminés par le bureau tête de ligne de CHRISTCHURCH.
+      es: 3) Los mensajes destinados a la zona meridional de la isla deben ser cursados por la oficina cabeza de línea de CHRISTCHURCH.
+      
+    - en: 4) Message for the lower north Island should be routed via the WELLINGTON gateway bureau.
+      fr: 4) Les messages destinés à la partie inférieure du nord de île doivent être acheminés par le bureau tête de ligne de WELLINGTON.
+      es: 4) Los mensajes destinados a la zona meridional del norte de la isla deben ser cursados por la oficina cabeza de línea de WELLINGTON.
+
+contact: |
+    Manager
+    International Postal Affairs
+    New Zealand Post Limited
+    Headquarters
+    Private Bag 39990
+    WELLINGTON
+    New Zealand
+
+fax: +64 4 496 4475
+gr: 3/2
+tf: +64 4 473 8498
+
+part2:
+    col_b: true

@@ -1,0 +1,34 @@
+# CANADA
+country_name:
+  en: CANADA
+  fr: CANADA
+  es: CANADA
+
+type:
+  - BUREAUFAX TELECOM
+  
+notes:
+    - en: 1) Local time: UTC -5
+      fr: 1) Heure locale: UTC -5
+      es: 1) Hora local: UTC -5
+
+contact: |
+    Telegrams Canada
+    PO/CP 29010
+    RPO Portsmouth
+    KINGSTON, Ontario
+    K7M 8W6 Canada
+
+tlx: 7151111 TGRAM CA
+fax: +1 416 946 1735
+gr: 3
+tf: +1 613 530 1088
+email: helpdesk@telegrams.ca
+
+part2:
+  col_a: true
+  col_b: true
+  col_c: true
+  col_t: true
+  
+last_modification: 15.IV.2005

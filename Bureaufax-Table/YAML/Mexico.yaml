@@ -1,0 +1,27 @@
+# MEXICO
+country_name:
+  en: MEXICO
+  fr: MEXIQUE
+  es: MEXICO
+
+type:
+  - BUREAUFAX
+  - EER
+
+contact: |
+    Telecomunicaciones de México
+    Lázaro Cardenas 567
+    onia Navarte, C.P. 03020
+    MEXICO D.F.
+    México
+
+tlx: 170920 otime
+fax: +52 55 5613 1125
+gr: 3
+tf: +52 55 5613 3104
+
+part2:
+    col_b: true
+    col_d: true
+    
+last_modification: 1.XII.2003

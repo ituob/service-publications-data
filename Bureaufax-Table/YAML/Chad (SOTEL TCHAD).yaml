@@ -1,0 +1,28 @@
+# CHAD (SOTEL TCHAD)
+country_name:
+  en: CHAD
+  fr: TCHAD
+  es: CHAD
+
+type:
+  - TELEFAX
+  - ER
+
+contact: |
+    Société des télécommunications internationales du Tchad (SOTEL Tchad)
+    B.P. 1132
+    N'DJAMENA
+    Tchad
+
+tg: TIT N'Djamena
+tlx: tit 5200 kd
+fax: +235 521 403
+gr: 3
+
+part2:
+    col_d: true
+    col_e: true
+    col_f: true
+    col_g: true
+    col_t: true
+    

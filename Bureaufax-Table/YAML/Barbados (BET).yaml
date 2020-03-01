@@ -1,0 +1,28 @@
+# BARBADOS (BET)
+country_name:
+  en: BARBADOS
+  fr: BARBADE
+  es: BARBADOS
+
+type:
+  - BUREAUFAX
+  - ER
+      
+contact: |
+    Barbados External Telecommunications Ltd (BET)
+    P.O. Box 32
+    Wildey
+    S Michael
+    BARBADOS
+    Barbados
+
+tg: Cablewire Barbados
+tlx: 2262 adminbar wb
+fax: +1 246 427 5808
+gr: 3/2
+tf: +1 246 427 5200
+    
+part2:
+  col_a: true
+  col_d: true
+  col_e: true

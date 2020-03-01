@@ -1,0 +1,28 @@
+# BANGLADESH
+country_name:
+  en: BANGLADESH
+  fr: BANGLADESH
+  es: BANGLADESH
+
+type:
+  - INTELPOST
+  - POSTE
+      
+contact: |
+    Director General
+    Bangladesh Post Office 
+    DHAKA
+    Bangladesh
+
+tg: Postgen Dhaka
+tlx: 642266 bpo bj
+fax: +880 2 956 2038
+gr: 3/2
+tf: +880 2 9562037
+    
+part2:
+  col_c: true
+  col_e: true
+  col_f: true
+  
+last_modification: 17.II.2008

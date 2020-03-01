@@ -1,0 +1,31 @@
+# GREECE
+country_name:
+  en: GREECE
+  fr: GRECE
+  es: GRECIA
+
+type: 
+  - POSTFAX
+  - POSTE
+      
+contact: |
+    Posts Helléniques
+    Service POSTFAX
+    GR-101 88 ATHENES
+    Grèce
+
+tg: Elta Athinai
+tlx: 224 316 elta gr
+fax: +30 21 032 18 201
+gr: 3
+tf: 
+  - +30 21 032 12 923
+  - +30 21 032 40 527
+
+part2:
+    col_a: true
+    col_b: true
+    col_c: true
+    col_d: true
+    col_e: true
+    col_f: true

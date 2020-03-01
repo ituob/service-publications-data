@@ -1,0 +1,31 @@
+# PHILIPPINES (GMCR)
+country_name:
+  en: PHILIPPINES
+  fr: PHILIPPINES
+  es: FILIPINAS
+
+type:
+  - ER
+
+notes: 
+    - en: 1) No service on Sunday. Holidays, opening hours : 0700-1900.
+      fr: 1) Pas de service le dimanche. Jours fériés, heures de service : 0700-1900.
+      es: 1) No servicio el sábado. Días festivos, horas de servicio : 0700-1900.
+
+contact: |
+    Globe-Mackay Cable and Radio Corporation (GMCR)
+    669 United Nations Avenue
+    1000 ERMITA MANILA
+    Philippines
+
+tg: Ittcar Manila
+tlx: 40199 oprns pm
+fax: +63 2 521 72 25
+gr: 3/2
+tf: +63 2 521 35 50
+
+part2:
+    col_a: true
+    col_d: true
+    col_e: true
+    col_g: true

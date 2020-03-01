@@ -1,0 +1,26 @@
+# HONDURAS
+country_name:
+  en: HONDURAS
+  fr: HONDURAS
+  es: HONDURAS
+
+type: 
+  - BUROFAX/SERVICIO FAX
+
+contact: |
+    Empresa Hondureña de Telecomunicaciones (HONDUTEL)
+    Edificio Palacio de Comunicaciones 
+    P.O. Box 1794
+    TEGUCIGALPA 
+    Honduras
+
+tg: Gentel Tegucigalpa
+tlx: 1343 gergen ho
+fax: +504 231 4882
+gr: 3/2
+tf: +504 232 7483
+
+part2:
+    col_d: true
+    col_e: true
+    col_g: true

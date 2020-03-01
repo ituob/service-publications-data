@@ -1,0 +1,31 @@
+# TURKMENISTAN
+country_name:
+  en: TURKMENISTAN
+  fr: TURKMENISTAN
+  es: TURKMENISTAN
+
+type:
+  - BUREAUFAX
+  - TELECOM
+
+notes: 
+    - en: 1) Information not available.
+      fr: 1) Information non disponible.
+      es: 1) Información no disponible.
+
+contact: |
+    State Telecommunication Company "Turkmentelecom"
+    10A Seidi Street
+    744000 ASHGABAT 
+    Turkmenistan
+
+tlx: 228129 pto tm
+fax: +993 1 2 510240
+gr: Information not available
+tf:
+ - +993 1 2 511277
+ - +993 1 2 512256
+email: admin@telekom.tm
+
+part2:
+    col_a: true

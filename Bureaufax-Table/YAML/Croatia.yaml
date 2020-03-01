@@ -1,0 +1,25 @@
+# CROATIA
+country_name:
+  en: CROATIA
+  fr: CROATIE
+  es: CROACIA
+
+type:
+  - POSTE
+
+contact: |
+    Croatian Post Inc.
+    Jurisiceva 13
+    HR -10000 ZAGREB
+    Croatia
+
+tg: HP Zagreb
+fax: +385 1 498 1299
+gr: 3/2
+tf: +385 1 498 1004
+
+part2:
+  col_b: true
+  col_e: true
+  
+last_modification: 23.XII.2003

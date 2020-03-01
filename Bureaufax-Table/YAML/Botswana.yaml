@@ -1,0 +1,31 @@
+# BOTSWANA
+country_name:
+  en: BOTSWANA
+  fr: BOTSWANA
+  es: BOTSWANA
+
+type:
+  - BUROFAX
+  - TELECOM
+  
+notes:
+    - en: 1) Receiving : continuous.
+      fr: 1) Réception : permanente.
+      es: 1) Entrega : permanente.
+
+contact: |
+    Botswana Telecommunications Corporations
+    P.O. Box 700
+    GABORONE
+    Botswana
+
+
+tg: Teletswana Gaborone
+tlx: 2252 telhq bd
+fax: +267 391 4000
+gr: 3/2
+tf: +267 395 8307
+
+part2:
+  col_d: true
+  col_e: true

@@ -1,0 +1,25 @@
+# EL SALVADOR
+country_name:
+  en: EL SALVADOR
+  fr: EL SALVADOR
+  es: EL SALVADOR
+
+type: 
+  - TELECOM
+      
+contact: |
+    Superintendencia General de Electricidad y     Telecomunicaciones (SIGET)
+    Sexta Décima Calle Poniente y 37 Av. Sur, N° 2001, Col. Flor Blanca
+    SAN SALVADOR
+    El Salvador
+
+fax: 
+  - +503 2257 4498
+  - +503 2257 4499
+gr: 3/2
+email: siget@siget.gob.sv
+
+part2:
+    col_f: true
+
+last_modification: 25.IV.2008

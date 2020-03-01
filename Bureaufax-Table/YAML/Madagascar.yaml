@@ -1,0 +1,25 @@
+# MADAGASCAR
+country_name:
+  en: MADAGASCAR
+  fr: MADAGASCAR
+  es: MADAGASCAR
+
+type:
+  - PAOSITRA MALAGASY
+  - TELECOM
+
+contact: |
+    Paositra Malagasy
+    Direction générale Antaninarenina
+    101 ANTANANARIVO
+    Madagascar
+
+fax: +261 20 22 358 94
+gr: 2
+tf: +261 20 22 225 74
+
+part2:
+    col_a: true
+    col_c: true
+    col_d: true
+    col_e: true

@@ -1,0 +1,41 @@
+# PAKISTAN
+country_name:
+  en: PAKISTAN
+  fr: PAKISTAN
+  es: PAKISTAN
+
+type:
+  - FAX MAIL SERVICE
+  - POSTE
+  
+notes:
+    - en: 1) Please note that in addition to the gateway bureaux listed in Part III, there are 74 other localities which have the BUREAUFAX service.
+      fr: 1) A titre d'information, en plus des bureaux têtes de ligne figurant dans la Partie III, il existe 74 autres localités disposant du service BUREAUFAX.
+      es: 1) Para información, ademas de las oficinas cabeza de línea que figuran en la Parte III, existen otras 74 localidades que disponen del servicio BUROFAX.
+      
+    - en: |
+        2) Opening hours:
+        0900-1600
+        no service on Friday and public holidays.
+      fr: |
+        2) Heures de service:
+        0900-1600
+        pas de service vendredi et jours fériés.
+      es: |
+        2) Horas de servicio:
+        0900-1600
+        no servicio el viernes y los días festivos.
+      
+contact: |
+    Pakistan Postal Services Corporation
+    ISLAMABAD 44000
+    Pakistan
+
+tg: Postgen Islamabad
+tlx: 54351 dgppo pk
+fax: +92 51 813418
+gr: 3
+tf: +92 51 813405
+
+part2:
+    col_b: true

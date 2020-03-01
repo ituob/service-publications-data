@@ -1,0 +1,27 @@
+# TONGA
+country_name:
+  en: TONGA
+  fr: TONGA
+  es: TONGA
+
+type:
+  - ER
+
+contact: |
+    Cable and Wireless Plc
+    Private Mail Bag No. 4
+    NUKU' ALOFA
+    Tonga
+
+tg: Cablewire Tonga
+tlx: 66222 cw adm ts
+fax: +676 22970
+gr: 3/2
+tf: +676 23499
+
+part2:
+    col_b: true
+    col_d: true
+    col_e: true
+    col_f: true
+    col_g: true

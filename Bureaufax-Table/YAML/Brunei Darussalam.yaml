@@ -1,0 +1,26 @@
+# BRUNEI DARUSSALAM
+country_name:
+  en: BRUNEI DARUSSALAM
+  fr: BRUNEI DARUSSALAM
+  es: BRUNEI DARUSSALAM
+
+type:
+  - BUREAUFAX
+  - TELECOM
+
+contact: |
+    Director of Telecommunications
+    Telephone House
+    BANDAR SERI BEGAWAN 2051
+    Brunei Darussalam
+
+tg: Dirtel Brunei
+tlx: bu 2277 jtbhq
+fax: +673 2 220812
+gr: 3/2
+tf: +673 2 220569
+
+part2:
+  col_a: true
+  col_b: true
+  col_d: true

@@ -1,0 +1,38 @@
+# AUSTRALIA
+country_name:
+  en: AUSTRALIA
+  fr: AUSTRALIE
+  es: AUSTRALIA
+
+type:
+  - FAXPOST
+  - POSTE
+  
+notes:
+    - en: 1) The international Gateway bureau receives incoming Bureaufax messages from participating countries and re-routes them to the appropriate domestic site closest to the addressee.
+      es: 1) La oficina cabeza de línea internacional recibe mensajes Burofax entrantes de los países participantes y los reencamina hacia el lugar nacional más cercano al destinatario.
+      fr: 1) Le bureau tête de ligne international reçoit les messages Bureaufax en provenance de pays participants et les réachemine vers les emplacements nationaux appropriés les plus proches des destinataires.
+      
+    - en: 2) Please note that in addition to the gateway bureau listed in Part III, there are 1600 post offices which have the BUREAUFAX service.    
+      es: 2) Para información, ademas de la oficina cabeza de línea que figura en la Parte III, existen otras 1600 oficinas postales que disponen del servicio BUROFAX.     
+      fr: 2) A titre d'information, en plus du bureau tête de ligne figurant dans la Partie III, il existe 1600 bureaux de poste disposant du service BUREAUFAX.
+
+contact: |
+    Australian Postal Corporation
+    EDIPOST UNIT
+    GPO Box 1777Q
+    MELBOURNE VIC 3001
+    Australia
+
+
+tlx: emphq aa34096
+fax:
+  - +61 3 9204 5249
+  - +61 3 9204 7881
+gr: 3/2
+tf: +61 3 9204 5240
+    
+part2:
+  col_a: true
+  col_e: true
+  col_f: true

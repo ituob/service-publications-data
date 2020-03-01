@@ -1,0 +1,35 @@
+# ROMANIA
+country_name:
+  en: ROMANIA
+  fr: ROUMANIE
+  es: RUMANIA
+
+type:
+  - POSTFAX
+  - POSTE
+
+notes:
+    - en: 1) Please note that in addition to the gateway bureau listed in Part III, there are 44 other localities which have the BUREAUFAX service.
+      fr: 1) A titre d'information, en plus du bureau tête de ligne figurant dans la Partie III, il existe 44 autres localités disposant du service BUREAUFAX.
+      es: 1) Para información, ademas de la oficina cabeza de línea que figuran en la Parte III, existen otras 44 localidades que disponen del servicio BUROFAX.
+
+contact: |
+    Compania Nationala POSTA ROMANA S.A.
+    Splaiul Unirii nr. 6, bl. B3A
+    BUCURESTI 040031
+    Roumanie
+
+tlx: r
+fax: +40 21 330 0305
+gr: 3
+tf: +40 21 330 0730
+email: international@posta-romana.ro
+
+part2:
+    col_a: true
+    col_b: true
+    col_d: true
+    col_e: true
+    col_f: true
+    
+last_modification: 25.III.04

@@ -1,0 +1,31 @@
+# THAILAND
+country_name:
+  en: THAILAND
+  fr: THAILANDE
+  es: TAILANDIA
+
+type:
+  - BUREAUFAX
+  - TELECOM
+
+contact: |
+    The Communications Authority of Thailand (CAT)
+    99 Chaeng Watthana Road
+    Thung Song Hong, Lak Si
+    BANGKOK 10002
+    Thailand
+
+tg: CATPOST Bangkok
+tlx: catpost th 70071
+fax: +66 2 233 7209
+gr: 3/2
+tf: +66 2 234 0801
+
+part2:
+    col_a: true
+    col_c: true
+    col_d: true
+    col_e: true
+    col_f: true
+
+last_modification: 20.VI.03

@@ -1,0 +1,26 @@
+# BURUNDI
+country_name:
+  en: BURUNDI
+  fr: BURUNDI
+  es: BURUNDI
+
+type:
+  - BUREAUFAX
+  - TELECOM
+
+contact: |
+    Office national des télécommunications (ONATEL)
+    B.P. 60
+    BUJUMBURA
+    Burundi
+
+tg: Dirgatel Onatel Bujumbura
+tlx: 5168 onatel bdi
+fax: +257 2 222 6917
+gr: 3
+tf: +257 2 222 3196
+
+part2:
+  col_e: true
+
+last_modification: 19.XI.2007

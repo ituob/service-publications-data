@@ -1,0 +1,30 @@
+# MAURITIUS
+country_name:
+  en: MAURITIUS
+  fr: MAURICE
+  es: MAURICIO
+
+type:
+  - BUREAUFAX
+  - ER
+
+contact: |
+    Mauritius Telecom
+    Telecom Tower
+    Edith Cavell Street
+    PORT LOUIS
+    Mauritius
+
+tg: Mautel PortLouisMauritius
+tlx: 4209 mtlho iw
+fax: +230 2081070
+gr: 3/2
+tf: +230 2083829
+
+part2:
+    col_a: true
+    col_b: true
+    col_d: true
+    col_g: true
+
+last_modification: 1.II.2006

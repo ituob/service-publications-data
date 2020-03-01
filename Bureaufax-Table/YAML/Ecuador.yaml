@@ -1,0 +1,30 @@
+# ECUADOR
+country_name:
+  en: ECUADOR
+  fr: EQUATEUR
+  es: ECUADOR
+
+type: 
+  - SERVICIO FAX AL
+  - PUBLICO
+  - TELECOM
+      
+contact: |
+    ANDINATEL S.A.
+    Av. Amazonas Y Veintimilla
+    Edificio Z
+    Casilla Postal 17-21-1446
+    QUITO
+    Ecuador
+
+tg: Andinatel Quito
+fax: +593 2 222 8751
+gr: 3/2
+tf: +593 2 222 9207
+
+part2:
+    col_d: true
+    col_e: true
+    col_g: true
+
+last_modification: 9.IX.2003

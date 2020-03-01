@@ -1,0 +1,30 @@
+# SAINT KITTS AND NEVIS
+country_name:
+  en: SAINT KITTS AND NEVIS
+  fr: SAINT-KITTS-ET-NEVIS
+  es: SAINT KITTS Y NEVIS
+
+type:
+  - BUREAUFAX
+  - TELECOM
+
+notes: 
+    - en: 1) Bureaufax service provided by the private International Service of SKANTEL has a chargeable fee of $ 5.00 (EC).
+      fr: 1) Le service Bureaufax assuré par le service international privé de SKANTEL est facturé 5 $ (EC).
+      es: 1) La prestación del servicio Burofax por el Servicio Internacional privado de SKANTEL está sujeta a una tasa de 5,00 $ (EC).
+
+contact: |
+    Government Headquarters
+    P.O. Box 186
+    BASSETERRE
+    Saint Kitts and Nevis
+
+tg: Postgen S Kitts
+tlx: 6820 external skbilcc
+fax: +1 869 465 5202
+gr: 3
+tf: +1 869 465 2521
+
+part2:
+    col_a: true
+    col_d: true

@@ -1,0 +1,57 @@
+# ISRAEL
+country_name:
+  en: ISRAEL
+  fr: ISRAEL
+  es: ISRAEL
+
+type: 
+  - POSTFAX
+  - ER
+  
+notes:
+    - en: 1) Please note that in addition to the gateway bureaux listed in Part III, there are 96 other localities which have the BUREAUFAX service.
+      fr: 1) A titre d'information, en plus des bureaux têtes de ligne figurant dans la Partie III, il existe 96 autres localités disposant du service BUREAUFAX.
+      es: 1) Para información, ademas de las oficinas cabeza de línea que figuran en la Parte III, existen otras 96 localidades que disponen del servicio BUROFAX.
+      
+    - en: |
+        2) Delivery modes admitted in all offices B, E, F, no delivery on Saturday and public holidays.
+        Mode B - Special delivery - Same day delivery is effected in:
+        - Jerusalem, Haifa, Tel Aviv, if documents are received by 1800 hours UTC from Sunday to Thursday, by 1100 hours UTC on Friday;
+        - all other localities (except localities in Mobile Post), if documents are received by 1500 hours UTC from Sunday to Thursday, by 0900 hours UTC on Friday.
+        Documents to localities deserved by Mobile Post are delivered within 24 hours.
+        Mode E - Counter lection with telephone advice to the indicated call number - Available within 1 hour in all post offices equipped with fax machines.
+        Mode F - Telefax (with call number and TSB group when known) - Available within 1 hour to every locality.
+      fr: |
+        2) Modes de distribution admis dans tous les bureaux B, E, F, mais pas de distribution le samedi et les jours fériés.
+        Mode B - Porteur spécial  - La distribution a lieu le jour même :
+        - à Jérusalem, Haifa, Tel Aviv, si les documents sont reçus avant 1800 heures UTC du dimanche au jeudi, et avant 1100 heures UTC le vendredi;
+        - dans toutes les autres localités (à l'exception des localités correspondant à un poste mobile), si les documents sont reçus avant 1500 heures UTC du dimanche au jeudi, et avant 0900 heures UTC le vendredi.
+        Les documents destinés à des localités desservies par un poste mobile sont distribués dans un délai de 24 heures.
+        Mode E - Retrait au guichet avec avis téléphonique au numéro indiqué - Disponible dans un délai d'une heure dans tous les bureaux de poste équipés de télécopieurs.
+        Mode F - Téléfax (avec numéro d'appel et, s'il est connu, groupe du TSB) - Disponible dans un délai d'une heure dans chaque localité.        
+      es: |
+        2) Modos de entrega admitidos en todas las oficinas: B, E, F, no hay entrega los sábados y días festivos.
+        Modo B - Entrega especial - La entrega se efectúa el mismo día en :
+        - Jerusalem, Haifa o Tel Aviv, si los documentos se reciben antes de las 1800 horas UTC  de domingo a jueves y antes de las 1100 horas UTC el viernes;
+        - todas las demás localidades (exceptuadas las de Correo Móvil), si los documentos se reciben antes de la 1500 horas UTC de domingo a jueves y antes de las 0900 horas UTC el viernes.
+        Los documentos destinados a localidades servidas por Correo Móvil se entregan dentro de las 24 horas.
+        Modo E - Recogida en ventanilla con aviso telefónico al número indicado - Disponible en el término de 1 hora en todas las oficinas de correos equipadas con aparato fax.
+        Modo F - Telefax (con número de llamada y grupo del TSB cuando se conozca) - Disponible en el término de 1 hora en todas las localidades.
+
+contact: |
+    Israel Postal Authority
+    Shoham Department
+    23 Rehov Yafo
+    91999 JERUSALEM
+    Israel
+
+tg: Dirpt JerusalemIsrael
+tlx: 26100 dirpt il
+fax: +972 2 6290 018
+gr: 3
+tf: +972 2 6290 008
+
+part2:
+    col_b: true
+    col_e: true
+    col_f: true

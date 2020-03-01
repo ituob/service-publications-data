@@ -1,0 +1,31 @@
+# TANZANIA
+country_name:
+  en: TANZANIA
+  fr: TANZANIE
+  es: TANZANIA
+
+type:
+  - TELECOM
+  
+contact: |
+    Tanzania Telecommunications Company Limited (TTCL)
+    Extelcoms House
+    Samora Avenue
+    P.O.Box. 9070
+    DAR-ES-SALAAM
+
+tg: Tanpostel DaresSalaam
+fax: +255 22 211 3232
+gr: 3
+tf: +255 22 214 2000
+
+part2:
+    col_a: true
+    col_b: true
+    col_d: true
+    col_e: true
+    col_f: true
+    col_g: true
+
+last_modification: 11.II.2008
+    

@@ -1,0 +1,27 @@
+# ANGUILLA
+country_name:
+  en: ANGUILLA
+  fr: ANGUILLA
+  es: ANGUILLA
+  
+type:
+  - BUREAUFAX
+  - TELECOM
+
+contact: |
+    Cable and Wireless (West Indies) Ltd.
+    P.O. Box 77
+    THE VALLEY
+    Anguilla
+    (West Indies)
+    
+tg: Cablewire Anguilla
+tlx: 9315 printgram la
+fax: 
+ - +1 264 497 2501
+ - +1 264 497 2502
+gr: 3
+tf: +1 264 497 3100
+
+part2:
+  col_e: true

@@ -1,0 +1,25 @@
+# VATICAN
+country_name:
+  en: VATICAN
+  fr: VATICAN
+  es: VATICANO
+
+type:
+  - BUREAUFAX
+  - TELECOM
+
+contact: |
+    Governatorato
+    Secrétariat général
+    Administration des PTT
+    CITTA DEL VATICANO
+    Vatican
+
+
+tg: Dirgentel CittadelVaticano
+tlx: 2024 dirgentel va
+fax: +39 06 6988 5378
+gr: 3
+
+part2:
+    col_b: true

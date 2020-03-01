@@ -1,0 +1,33 @@
+# TRINIDAD AND TOBAGO
+country_name:
+  en: TRINIDAD AND TOBAGO
+  fr: TRINITE-ET-TOBAGO
+  es: TRINIDAD Y TABAGO
+
+type:
+  - TEXFAX
+  - TELECOM
+
+notes: 
+    - en: 1) Local time: UTC -4.
+      fr: 1) Heure locale: UTC -4.
+      es: 1) Hora local: UTC -4.
+
+contact: |
+    Telecommunications Services of Trinidad and Tobago (TSTT)
+    1, Edward Street 
+    P.O. Box 917
+    PORT OF SPAIN
+    Trinidad and Tobago
+
+tg: TSTT PortofSpain
+tlx: 9002 tstt wg
+fax: +1 868 627 0856
+gr: 3/2
+tf: +1 868 625 4431
+
+part2:
+    col_a: true
+    col_b: true
+    col_d: true
+    col_e: true

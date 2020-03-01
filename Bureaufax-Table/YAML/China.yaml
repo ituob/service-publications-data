@@ -1,0 +1,43 @@
+# CHINA
+country_name:
+  en: CHINA
+  fr: CHINA
+  es: CHINA
+
+type:
+  - INTELPOST
+  - POSTE
+
+notes: 
+    - en: |
+        1) Opening hours (in local time): 
+           0800-1700 Monday to Sunday
+	       no service on  public holidays. 
+      fr: |
+        1) Heures de service (heure locale): 
+           0800-1700 lundi à dimanche
+	       pas de service les jours fériés.
+      es: |
+        1) Horas de servicio (en hora local): 
+           0800-1700 Lunes a Domingo
+	       no servicio los días festivos.
+
+contact: |
+    Postal Courier Service Department
+    General Posts,
+    Ministry of Posts and Telecommunications
+    13, Xichangan Street
+    BEIJING 100804
+    China
+
+fax: |
+    +86 10 6318 1868
+    +86 10 6318 4314
+gr: 3/2
+tf: +86 10 6318 4281
+
+part2:
+  col_c: true
+  col_d: true
+  col_e: true
+  col_f: true

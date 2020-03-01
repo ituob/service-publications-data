@@ -1,0 +1,27 @@
+# LIBERIA
+country_name:
+  en: LIBERIA
+  fr: LIBERIA
+  es: LIBERIA
+
+type:
+  - LIBTELCO
+  - ER
+
+contact: |
+    Liberia Telecommunications Corporation
+    P.O. Box 9039
+    MONROVIA
+    Liberia
+
+tg: Libtelco MonroviaLiberia
+tlx: 44330 telcom li
+fax: 
+  - +231 225217
+  - +231 225036
+gr: 3/2
+
+part2:
+    col_d: true
+    col_e: true
+    col_g: true

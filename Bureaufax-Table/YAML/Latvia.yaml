@@ -1,0 +1,31 @@
+# LATVIA
+country_name:
+  en: LATVIA
+  fr: LETTONIE
+  es: LETONIA
+
+type:
+  - POSTE
+
+contact: |
+    Latvia Post
+    Ziemelu iela 10, Lidosta  « Riga », 
+    Marupes pagasts
+    Rigas rajons LV-1000
+    Latvia
+
+tlx: (538) 161176 lpost lv
+fax: +371 6 7608301
+gr: 3
+tf: +371 6 701 8800
+email: info@pasts.lv
+
+part2:
+    col_a: true
+    col_b: true
+    col_d: true
+    col_e: true
+    col_f: true
+    col_g: true
+    
+last_modification: 24.I.2008

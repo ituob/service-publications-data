@@ -1,0 +1,30 @@
+# GHANA
+country_name:
+  en: GHANA
+  fr: GHANA
+  es: GHANA
+
+type: 
+  - BUREAUFAX
+  - TELECOM
+
+contact: |
+    Ghana Telecom
+    External Telecommunications Service
+    P.O. Box 32
+    ACCRA
+    Ghana
+
+tg: Gentel Accra
+tlx: 3010 enghq gh
+fax: 
+  - +233 21 665960
+  - +233 21 662680
+gr: 3/2
+tf: +233 21 666221
+
+part2:
+    col_b: true
+    col_d: true
+    col_e: true
+    col_g: true

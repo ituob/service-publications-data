@@ -1,0 +1,35 @@
+# PHILIPPINES (CAPWIRE)
+country_name:
+  en: PHILIPPINES
+  fr: PHILIPPINES
+  es: FILIPINAS
+
+type:
+  - CAPWIRE BUREAUFAX
+  - ER
+    
+contact: |
+    Capitol Wireless, Inc (CAPWIRE)
+    6/F Dolmar Gold Tower
+    107 Alvarado Street Legaspi Village
+    MAKATI METRO MANILA 
+    Philippines
+
+tg: Capwire Manila
+tlx: 14899 cwi hq ps
+fax: 
+  - +63 0 817 54 10
+  - +63 2 817 54 10
+gr: 3
+tf:
+  - +63 2 817 12 74
+  - +63 2 817 12 67
+
+part2:
+    col_a: true
+    col_b: true
+    col_c: true
+    col_d: true
+    col_e: true
+    col_f: true
+    col_g: true

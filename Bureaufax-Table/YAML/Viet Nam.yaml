@@ -1,0 +1,33 @@
+# VIET NAM
+country_name:
+  en: VIET NAM
+  fr: VIET NAM
+  es: VIET NAM
+
+type:
+  - TELECOM
+
+notes: 
+    - en: *) As from 1.III.1996.
+      fr: *) A partir du 1.III.1996.
+      es: *) A partir del 1.III.1996.
+
+contact: |
+    Viet Nam Posts and Telecommunications (VNPT) 
+    Management and Operation of the Network
+    18, Nguyên Du Str.
+    HANOI
+    Viet Nam
+
+tlx: 411017 vnpt vt
+fax: +84 4 8226861
+gr: 3/2
+tf: +84 4 8252465
+
+part2:
+    col_a: true
+    col_b: true
+    col_d: true
+    col_e: true
+    col_f: true
+    col_g: true

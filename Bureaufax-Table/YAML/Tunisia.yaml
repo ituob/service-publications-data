@@ -1,0 +1,47 @@
+# TUNISIA
+country_name:
+  en: TUNISIA
+  fr: TUNISIE
+  es: TUNEZ
+
+type:
+  - POSTFAX
+  - POSTE
+
+notes: 
+    - en: 1) For same-day delivery by special messenger, check receiving dealing : to be handed in by 1600 hours from Monday to Friday for offices working a continuous schedule and from Monday to Thursday for others. Saturday : to be handed in by 11 hours. (To be considered depending on the service required).
+      fr: 1) Pour la distribution le jour de dépôt, par porteur spécial, s'assurer de l'heure limite de réception : dépôt avant 1600 heures du lundi au vendredi pour les bureaux à temps continue et du lundi au jeudi pour les autres bureaux. Samedi : dépôt avant 1100 heures. (a considérer selon les services demandés)
+      es: 1) Para la distribución el día de depósito, por mensajero especial, cerciorarse de la hora límite de recepción : depósito antes de las 1600 horas, de lunes a viernes, para las oficinas de servicio continuo, y de lunes a jueves, para las demás. Sábado : depósito antes de las 1100 horas. (A considerar según los servicios silicitados).
+      
+    - en: 2) Receiving : continuous.
+      fr: 2) Réception : permanente.
+      es: 2) Entrega : permanente.
+      
+    - en: 3) Opening days: Monday to Thursday.
+      fr: 3) Jours de service: lundi à jeudi.
+      es: 3) Días de servicio: lunes a jueves.
+      
+    - en: 4) Opening days: Friday and Saturday. Local time: UTC +1.
+      fr: 4) Jours de service: vendredi et samedi. Heure locale : UTC +1
+      es: 4) Días de servicio: viernes y sábado. Hora local: UTC +1.
+
+
+contact: |
+    Direction des services postaux
+    1030 TUNIS
+    Tunisie
+
+tg: DGP Tunis
+tlx: 15220 dgp tn
+fax: +216 71 354 039
+gr: 3/2
+tf:
+  - +216 71 240 974
+  - +216 71 354 409
+
+part2:
+    col_c: true
+    col_d: true
+    col_e: true
+    
+last_modification: 28.III.03

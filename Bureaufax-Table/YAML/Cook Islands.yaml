@@ -1,0 +1,32 @@
+# COOK ISLANDS
+country_name:
+  en: COOK ISLANDS
+  fr: COOK (ILES)
+  es: COOK (ISLAS)
+
+type:
+  - ER
+
+notes:
+    - en: 1) By messenger.
+      fr: 1) Par messager.
+      es: 1) Por mensajero.
+
+contact: |
+    Telecom Cook Islands Ltd. (TCI)
+    P.O. Box 106
+    Avarua
+    RAROTONGA
+    Cook Islands
+
+fax: +682 29680
+gr: 3/2
+tf: +682 26171
+
+part2:
+  col_a: true
+  col_d: true
+  col_e: true
+  col_g: true
+  
+last_modification: 29.II.2008

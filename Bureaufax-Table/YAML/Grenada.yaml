@@ -1,0 +1,26 @@
+# GRENADA
+country_name:
+  en: GRENADA
+  fr: GRENADE
+  es: GRANADA
+
+type: 
+  - TELECOM
+      
+contact: |
+    Grenada Telecommunications Limited (GRENTEL)
+    P.O. Box 119
+    The Carenage
+    S GEORGE'S
+    Grenada
+
+tg: Grentel Grenada
+tlx: 3418 grentel ga
+fax: +1 473 440 2123
+gr: 3/2
+tf: +1 473 441 2215
+
+part2:
+    col_d: true
+    col_e: true
+    col_g: true

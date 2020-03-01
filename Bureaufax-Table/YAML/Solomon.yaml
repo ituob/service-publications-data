@@ -1,0 +1,26 @@
+# SOLOMON
+country_name:
+  en: SOLOMON
+  fr: SALOMON
+  es: SALOMON
+
+type:
+  - POSTE
+
+contact: |
+    Solomons Post
+    Ministry of Post & Communication
+    P.O. Box G25
+    HONIARA
+    Solomon Islands
+
+fax: +677 21472
+gr: 3
+tf: +677 21821 Ext 213
+
+part2:
+    col_a: true
+    col_c: true
+    col_d: true
+    col_f: true
+    

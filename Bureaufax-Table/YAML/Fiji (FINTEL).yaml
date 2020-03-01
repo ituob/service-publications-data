@@ -1,0 +1,43 @@
+# FIJI (FINTEL)
+country_name:
+  en: FIJI
+  fr: FIDJI
+  es: FIJI
+
+type: 
+  - FIJIFAX
+  - ER
+  
+notes:
+    - en: |
+        1) Opening hours:
+        0800-1630 Monday to Thursday
+        0800-1600 Friday.
+      fr: |
+        1) Heures de service:
+        0800-1630 lundi à jeudi
+        0800-1600 vendredi.
+      es: |
+        1) Horas de servicio:
+        0800-1630 lunes a jueves
+        0800-1600 viernes.
+      
+contact: |
+    Fiji International Telecommunications Ltd.
+    158 Victoria Parade
+    P.O. Box 59
+    SUVA
+    Fiji
+
+tg: Fintel Suva
+tlx: 2116 fintel fj
+fax: +679 330 1025
+gr: 3/2
+tf: +679 331 2933
+
+part2:
+    col_a: true
+    col_d: true
+    col_e: true
+
+last_modification: 6.II.2003

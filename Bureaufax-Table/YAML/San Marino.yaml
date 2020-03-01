@@ -1,0 +1,37 @@
+# SAN MARINO
+country_name:
+  en: SAN MARINO
+  fr: SAINT-MARIN
+  es: SAN MARINO
+
+type:
+  - BUREAUFAX
+  - TELECOM
+
+notes: 
+    - en: 1) Receiving : continuous.
+      fr: 1) Réception : permanente.
+      es: 1) Entrega : permanente.
+
+contact: |
+    Direzione Generale 
+    Poste e Telecomunicazioni
+    Contrada Omerelli, 17
+    SAN MARINO A-2
+    San Marino
+
+tg: Postel SanMarino
+tlx: 505 publitelex dir poste so
+fax: +378 0549 992461
+gr: 3/2
+tf: +378 0549 882555
+
+part2:
+    col_a: true
+    col_b: true
+    col_c: true
+    col_d: true
+    col_e: true
+    col_f: true
+    col_g: true
+    

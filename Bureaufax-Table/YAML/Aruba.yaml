@@ -1,0 +1,29 @@
+# ARUBA
+country_name:
+  en: ARUBA
+  fr: ARUBA
+  es: ARUBA
+
+type:
+  - BUREAUFAX
+  - TELECOM
+
+contact: |
+    SETAR
+    Hendrikstraat 20-22
+    ORANJESTAD
+    Aruba
+
+tg: Setar Aruba
+tlx: 5200 setar aw
+fax: +297 58 35878
+gr: 3/2
+tf: +244 22 239 5484 Ext. 254
+    
+part2:
+  col_b: true
+  col_e: true
+  col_f: true
+  col_g: true
+
+last_modification: 4.II.2003

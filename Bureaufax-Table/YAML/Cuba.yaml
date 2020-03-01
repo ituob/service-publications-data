@@ -1,0 +1,30 @@
+# CUBA
+country_name:
+  en: CUBA
+  fr: CUBA
+  es: CUBA
+
+type:
+  - TELECOM
+
+contact: |
+    Empresa de Telecomunicaciones Internacionales
+    Zanja 855 6to. piso esq.
+    San Francisco
+    HABANA
+    Cuba
+
+tg: Emtel Cuba(Habana)
+tlx: 511107 emtel cu
+fax: 53 762 5605
+gr: 3/2
+tf: 53 770 1737
+
+part2:
+  col_a: true
+  col_c: true
+  col_d: true
+  col_e: true
+  col_g: true
+
+last_modification: 2.III.2006

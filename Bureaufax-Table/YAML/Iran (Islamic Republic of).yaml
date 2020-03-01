@@ -1,0 +1,40 @@
+# IRAN (ISLAMIC REPUBLIC OF)
+country_name:
+  en: IRAN (ISLAMIC REPUBLIC OF)
+  fr: IRAN (REPUBLIQUE ISLAMIQUE D')
+  es: IRAN (REPUBLICA ISLAMICA DEL)
+
+type: 
+  - POSTE
+  
+notes:
+    - en: 1) Please note that in addition to the gateway bureau listed in Part III, there are 35 other localities which have the BUREAUFAX service.
+      fr: 1) A titre d'information, en plus du bureau tête de ligne figurant dans la Partie III, il existe 35 autres localités disposant du service BUREAUFAX.
+      es: 1) Para información, ademas de la oficina cabeza de línea que figuran en la Parte III, existen otras 35 localidades que disponen del servicio BUROFAX.
+
+contact: |
+    General Administration of Facsimile
+    Bahar-e-Shomali Ave No. 204
+    TEHERAN
+    Iran (Republic Islamic of)
+
+tg: Postgen Teheran
+tlx: 215700 post ir
+fax: 
+  - +98 21 6402299
+  - +98 21 6404899
+  - +98 21 6402999
+gr: 3
+tf: 
+  - +98 21 8601530
+  - +98 21 8601288
+
+part1:
+    en: Names of the countries/geographical areas with which the international Bureaufax service is open:
+    fr: Nom des pays/zones géographiques avec lesquels le service international Bureaufax est ouvert: Cameroun, Corée (Rép. de), Espagne, Pakistan, Suède, Turquie.
+    es: Nombre de los países/zonas geográficas con los que se explota el servicio Burofax internacional:
+
+part2:
+    col_b: true
+    col_e: true
+    col_f: true

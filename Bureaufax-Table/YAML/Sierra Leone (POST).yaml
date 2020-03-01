@@ -1,0 +1,34 @@
+# SIERRA LEONE (POST)
+country_name:
+  en: SIERRA LEONE
+  fr: SIERRA LEONE
+  es: SIERRA LEONA
+
+type:
+  - INTELPOST
+  - POSTE
+
+contact: |
+    Sierra Leone Postal Services Limited.
+    General Post Office Building
+    Siaka Stevens Street
+    FREETOWN
+    Sierra Leone
+
+tg: Postgen Freetown
+tlx:
+  - 3485 Postgen sl
+  - 3210 Booth sl
+fax: +232 22 225 228
+gr: 3
+tf: +232 22 225 621
+
+part2:
+    col_b: true
+    col_c: true
+    col_d: true
+    col_e: true
+    col_f: true
+    col_g: true
+
+last_modification: 23.XI.04

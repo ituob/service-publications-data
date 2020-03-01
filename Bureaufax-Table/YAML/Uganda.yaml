@@ -1,0 +1,41 @@
+# UGANDA
+country_name:
+  en: UGANDA
+  fr: OUGANDA
+  es: UGANDA
+
+type:
+  - BUREAUFAX
+  - TELECOM
+  
+notes:
+    - en: |
+        1) Opening days:
+        Saturday from 0800 to 1400 hours;
+        no service on Sundays or public holidays.
+      fr: |
+        1) Jours de service:
+        samedi de 0800 à 1400 heures;
+        pas de service le dimanche ni les jours fériés.
+      es: |
+        1) Días de servicio:
+        sábado de 0800 a 1400 horas;
+        ninguno servicio el domingo ni los días festivos.
+
+contact: |
+    Uganda Telecom Ltd.
+    P.O. Box 7171
+    KAMPALA 
+    Uganda
+
+tg: Postgen Kampala
+tlx: 61027 postel ug
+fax: +256 41 234 2762
+gr: 3
+tf: +256 41 234 6055
+
+part2:
+    col_d: true
+    col_e: true
+    
+last_modification: 1.II.2006

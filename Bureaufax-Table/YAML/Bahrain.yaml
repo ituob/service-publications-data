@@ -1,0 +1,40 @@
+# BAHRAIN
+country_name:
+  en: BAHRAIN
+  fr: BAHREIN
+  es: BAHREIN
+
+type:
+  - BUREAUFAX
+  - ER
+  
+notes:
+    - en: 1) These are for forwarding messages only, but may receive messages upon the availability and request of the customer.
+      fr: 1) Ces guichets servent uniquement à l'envoi des messages, mais ils peuvent recevoir des messages en cas de disponibilité et à la demande de l'usager.
+      es: 1) Se destinan sólo al envío de mensajes, pero pueden recibir mensajes si el abonado está disponible y lo desea.
+      
+    - en: 2) This counter is only operational during certain exhibitions being held at the Bahrain Exhibition Centre.
+      fr: 2) Ce guichet ne fonctionne que pendant certaines expositions organisées au Centre des expositions de Bahreïn "Bahrain Exhibition Centre".
+      es: 2) Este mostrador sólo funciona en el curso de ciertas exposiciones celebradas en el Centro de Exposiciones de Bahrein "Bahrain Exhibition Centre".
+      
+contact: |
+    Bahrain Telecommunications Company
+    International Record Services Controller
+    P.O. Box 14
+    MANAMA
+    Bahrein
+
+tg: Batelco Bahrain
+tlx: 82 btctcc bn
+fax:
+  - +973 17 88 34 51
+  - +973 17 26 11 52
+gr: 3
+tf: +973 17 88 18 81
+    
+part2:
+  col_a: true
+  col_d: true
+  col_e: true
+  
+last_modification: 4.XII.2003

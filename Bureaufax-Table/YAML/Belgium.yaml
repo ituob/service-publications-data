@@ -1,0 +1,34 @@
+# BELGIUM
+country_name:
+  en: BELGIUM
+  fr: BELGIQUE
+  es: BELGICA
+
+type:
+  - BUREAUFAX
+  - POSTE
+
+notes: 
+    - en: 1) Please note that in addition to the gateway bureaux listed in Part III, there are 114 other localities which have the BUREAUFAX service.
+      fr: 1) A titre d'information, en plus des bureaux têtes de ligne figurant dans la Partie III, il existe 114 autres localités disposant du service BUREAUFAX.
+      es: 1) Para información, ademas de las oficinas cabeza de línea que figuran en la Parte III, existen otras 114 localidades que disponen del servicio BUROFAX.
+
+contact: |
+    LA POSTE
+    Administration centrale
+    Centre Monnaie
+    14e étage
+    B-1000 BRUXELLES
+    Belgique
+
+tg: Postgen Bruxelles
+tlx: 24526 postgen b
+fax: +32 2 2176795
+gr: 3/2
+tf: +32 2 2193860
+    
+part2:
+  col_a: true
+  col_c: true
+  col_d: true
+  col_e: true

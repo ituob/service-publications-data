@@ -1,0 +1,33 @@
+# CHAD (ONPT)
+country_name:
+  en: CHAD
+  fr: TCHAD
+  es: CHAD
+
+type:
+  - TELEFAX
+  - TELECOM
+
+notes: 
+    - en: 1) All messages transit via Paris (France).
+      fr: 1) Tous les messages transitent par Paris (France).
+      es: 1) Todos los mensajes pasan en tránsito por París (Francia).
+
+contact: |
+    Office national des postes et télécommunications (ONPT)
+    N'DJAMENA
+    Tchad
+
+tg: Ofipostel N'Djamena
+tlx: dirtel 5256 kd
+fax: +235 51 58 84
+gr: 3
+
+part2:
+    col_a: true
+    col_c: true
+    col_d: true
+    col_e: true
+    col_f: true
+    col_g: true
+    

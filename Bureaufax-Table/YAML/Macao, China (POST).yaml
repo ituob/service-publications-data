@@ -1,0 +1,28 @@
+# MACAO, CHINA (POST)
+country_name:
+  en: MACAO, CHINA
+  fr: MACAO, CHINE
+  es: MACAO, CHINA
+
+type:
+  - CORREIO ELECTRONICO/INTELPOST
+  - POSTE
+
+contact: |
+    Direcçaõ dos Servicios de Correios 
+    Largo de Senado
+    MACAO
+    Macao, China
+
+tg: Telepostal Macao
+tlx: 88320 cttma om
+fax: +853 2855 0177
+gr: 3/2
+tf: +853 2857 4491 Ext. 517/518
+
+part2:
+    col_c: true
+    col_d: true
+    col_f: true
+    
+last_modification: 29.IX.2008

@@ -1,0 +1,29 @@
+# RWANDA
+country_name:
+  en: RWANDA
+  fr: RWANDA
+  es: RWANDA
+
+type:
+  - BUREAUFAX-SUPER EXPRESS
+  - POSTE
+
+contact: |
+    Office national des postes
+    B.P. 4 
+    KIGALI
+    Rwanda
+
+tg: Postgen Kigal
+tlx:
+  - 22521
+  - 22 504
+fax: +250 252 514091
+gr: 3
+tf: +250 252 82703
+
+part2:
+    col_d: true
+    col_e: true
+    
+last_modification: 23.III.2011

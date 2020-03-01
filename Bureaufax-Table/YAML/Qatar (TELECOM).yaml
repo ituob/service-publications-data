@@ -1,0 +1,46 @@
+# QATAR (TELECOM)
+country_name:
+  en: QATAR
+  fr: QATAR
+  es: QATAR 
+
+type:
+  - BUREAUFAX
+  - TELECOM
+
+notes: 
+    - en: |
+        1) Opening days: 
+        Saturday to Thursday from 0700 to 1400 hours;
+        Friday and public holidays: via DOHA FAX +974 4440 0491.
+      fr: |
+        1) Jours de service: 
+        samedi à jeudi de 0700 à 1400 heures;
+        vendredi et jours fériés: via DOHA FAX +974 4440 0491.
+      es: |
+        1) Días de servicio:
+        sábado a jueves de 0700 a 1400 horas;
+        viernes y días festivos: via DOHA FAX +974 4440 0491.
+
+contact: |
+    Qatar Public Telecommunications Corporation (Q-TEL)
+    Telegraph and Telematics Section
+    P.O. Box 217
+    DOHA
+    Qatar
+
+tg: Q-Tel Doha
+tlx: 4007 comops dh
+fax: +974 4442 6000
+gr: 3/2
+tf: |
+    pour/for/para:
+    DOHA +974 4440 0476	+974 4440 0404
+    ALKHOR +974 4472 0447
+
+part2:
+    col_d: true
+    col_e: true
+    col_g: true
+    
+last_modification: 1.VIII.2010

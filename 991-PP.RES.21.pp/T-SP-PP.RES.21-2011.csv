@@ -1,0 +1,132 @@
+﻿METADATA,,,
+title.en,Call-Back and alternative calling procedures (Res. 21 Rev. PP-2006),,
+title.fr,Systèmes de rappel (Call-Back) et procédures d'appel alternatives (Rés. 21 Rév. PP-2006),,
+title.es,Comunicaciones por intermediario (Call-Back) y procedimientos alternativos de llamada (Res. 21 Rev. PP-2006),,
+note.en,"Countries/geographical areas for which ""Call-Back and certain alternative calling procedures not in accordance with the relevant regulations"" are prohibited in their territory.",,
+note.fr,"Pays/zones géographiques pour lesquels les ""Systèmes de rappel (Call Back) et certaines procédures d'appel alternatives non conformes à la réglementation en vigueur"" sont interdits sur leur territoire.",,
+note.es,"Países/zonas geográficas para los cuales una información sobre las ""Comunicaciones por intermediario (Call Back) y ciertos procedimientos alternativos de llamada no conformes con la reglamentación vigente""",,
+locale.geographic_area.en,Country/Geographical area,,
+locale.geographic_area.fr,Países/Zonas geográficas,,
+locale.geographic_area.es,Pays/Zones géographiques,,
+,,,
+,,,
+DATA,,,
+number[integer],geographic_area.en,geographic_area.fr,geographic_area.es
+1,Afghanistan ,Afghanistan ,Afganistán
+2,Albania ,Albanie ,Albania
+3,Algeria ,Algérie ,Argelia
+4,Armenia ,Arménie ,Armenia
+5,Azerbaijan ,Azerbaïdjan ,Azerbaiyán
+6,Bahamas ,Bahreïn  ,Bahrein 
+7,Bahrain ,Bahamas ,Bahamas
+8,Belarus ,Bélarus ,Belarús
+9,Belize ,Belize ,Belice
+10,Benin ,Bénin ,Benin
+11,Bhutan ,Bhoutan ,Bután
+12,"Bonaire, Saint Eustatius and Saba ","Bonaire, Saint Eustatius et Saba ","Bonaire, San Eustatius y Saba"
+13,Bosnia and Herzegovina ,Bosnie-Herzégovine ,Bosnia y Herzegovina
+14,Brazil ,Brésil ,Brasil
+15,Brunei Darussalam ,Brunéi Darussalam ,Brunei Darussalam
+16,Burkina Faso ,Burkina Faso ,Burkina Faso
+17,Burundi ,Burundi ,Burundi 
+18,Cambodia ,Cambodge ,Camboya
+19,Cameroon ,Cameroun ,Camerún
+20,Central African Rep. ,Centrafricaine (Rép.) ,Centroafricana
+21,Chad ,Tchad,Chad
+22,China ,Chine ,China
+23,Colombia ,Colombie ,Colombia
+24,Comoros ,Comores ,Comoras
+25,Cook Islands ,Cook (Îles) ,Cook (Islas)
+26,Costa Rica ,Costa Rica ,Costa Rica
+27,Côte d'Ivoire ,Côte d'Ivoire ,Côte d'Ivoire
+28,Cuba ,Cuba  ,Cuba 
+29,Curaçao ,Curaçao ,Curaçao
+30,Cyprus ,Chypre ,Chipre
+31,Dem. Rep. of the Congo ,Rép. dém. du Congo,Rep. Dem. del Congo
+32,Djibouti ,Djibouti ,Djibouti
+33,Dominica ,Dominique ,Dominica
+34,Ecuador ,Equateur ,Ecuador
+35,Egypt ,Egypte ,Egipto
+36,Eritrea ,Erythrée ,Eritrea
+37,Ethiopia ,Ethiopie  ,Etiopía 
+38,Fiji ,Fidji ,Fiji
+39,Gabon ,Gabon ,Gabón
+40,Gambia ,Gambie ,Gambia
+41,Ghana ,Ghana ,Ghana
+42,Guinea ,Guinée ,Guinea
+43,Guyana ,Guyana ,Guyana
+44,Haiti ,Haïti ,Haití
+45,Honduras ,Honduras ,Honduras
+46,Hungary ,Hongrie ,Hungría
+47,India ,Inde ,India
+48,Indonesia ,Indonésie ,Indonesia
+49,Iran (Islamic Republic of) ,Iran (République islamique d') ,Irán (República Islámica del)
+50,Ireland ,Irlande ,Irlanda
+51,Israel ,Israël ,Israel
+52,Jamaica ,Jamaïque ,Jamaica
+53,Jordan ,Jordanie ,Jordania
+54,Kazakhstan ,Kazakhstan ,Kazajstán
+55,Kenya ,Kenya ,Kenya
+56,Kiribati ,Kiribati ,Kiribati
+57,Kuwait ,Koweït,Kuwait
+58,Kyrgyzstan ,Kirghizistan ,Kirguistán
+59,Latvia,Lettonie,Letonia
+60,Lebanon,Liban,Líbano 
+61,Lesotho,Lesotho,Lesotho
+62,Macao (China),Macao (Chine),Macao (China)
+63,Madagascar,Madagascar,Madagascar
+64,Malawi,Malawi,Malawi
+65,Malaysia,Malaisie,Malasia
+66,Mali,Mali,Malí
+67,Mauritania,Mauritanie,Mauritania
+68,Mauritius,Maurice,Mauricio
+69,Mexico,Mexique,México
+70,Moldova,Moldova,Moldova
+71,Monaco,Monaco ,Mónaco
+72,Morocco,Maroc,Marruecos
+73,Mozambique,Mozambique,Mozambique
+74,New Caledonia,Nouvelle-Calédonie,Nueva Caledonia
+75,Nicaragua,Nicaragua,Nicaragua
+76,Niger,Niger,Níger
+77,Nigeria,Nigéria,Nigeria
+78,Oman,Oman,Omán
+79,Pakistan,Pakistan,Pakistán
+80,Panama,Panama,Panamá
+81,Papua New Guinea,Papouasie-Nouvelle-Guinée,Papua Nueva Guinea
+82,Paraguay,Paraguay,Paraguay
+83,Peru,Pérou,Perú
+84,Philippines,Philippines,Filipinas
+85,Poland,Pologne,Polonia
+86,Qatar,Qatar,Qatar
+87,Romania,Roumanie,Rumania
+88,Samoa,Samoa,Samoa
+89,San Marino,Saint-Marin,San Marino
+90,Saudi Arabia,Arabie saoudite ,Arabia Saudita
+91,Seychelles,Seychelles,Seychelles
+92,Sint Maarten (Dutch part),Sint Maarten,Sint Maarten
+93,Slovakia,Slovaquie,Eslovaquia
+94,South Africa,Sudafricaine (Rép.),Sudafricana (Rep.)
+95,Sri Lanka,Sri Lanka,Sri Lanka
+96,Sudan,Soudan,Sudán
+97,Suriname,Suriname,Suriname
+98,Syrian Arab Republic,République arabe syrienne,República Árabe Siria
+99,Tanzania,Tanzanie,Tanzanía
+100,Thailand,Thaïlande ,Tailandia
+101,The Former Yugoslav Republic of Macedonia,L'ex-République yougoslave de Macédoine,La ex República Yugoslava de Macedonia
+102,Tonga,Tonga,Tonga
+103,Trinidad and Tobago,Trinidad-et-Tobago,Trinidad y Tabago
+104,Tunisia,Tunisie,Túnez
+105,Turkey,Turquie ,Turquía 
+106,Tuvalu,Tuvalu,Tuvalu
+107,Uganda,Ouganda,Uganda
+108,Ukraine,Ukraine,Ucrania
+109,United Arab Emirates,Emirats arabes unis ,Emiratos Árabes Unidos
+110,Vanuatu,,
+111,Venezuela,Venezuela,Venezuela
+112,Viet Nam ,Viet Nam,Viet Nam
+113,Wallis and Futuna,Wallis et Futuna,Wallis y Futuna
+114,Yemen,Yémen,Yemen
+115,Zambia,Zambie,Zambia
+116,Zimbabwe,Zimbabwe,Zimbabwe
+117,,Bulgarie ,
+118,,,Lituania

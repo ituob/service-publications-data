@@ -1,0 +1,62 @@
+﻿METADATA,,,,
+title.en,Countries or geographical areas for which information regarding cessation of telex service has been published in the ITU Operational Bulletin (No.),,,
+title.fr,Pays ou zones géographiques pour lesquels des renseignements relatifs à la cessation du service télex ont été publiés dans le bulletin d'exploitation de l'UIT (No),,,
+title.es,Países o zonas geográficas para los cuales una información sobre la cesación de servicio de télex ha sido publicada en el Boletín de Explotación de la UIT (N.),,,
+locale.ob_number.en,OB No.,,,
+locale.ob_number.fr,BE N.o,,,
+locale.ob_number.es,BE N.o,,,
+locale.telex_code.en,TNIC,,,
+locale.telex_code.fr,CIRT,,,
+locale.telex_code.es,CIRT,,,
+locale.geographic_area.en,Country/Geographical area,,,
+locale.geographic_area.fr,Países/Zonas geográficas,,,
+locale.geographic_area.es,Pays/Zones géographiques,,,
+,,,,
+DATA,,,,
+ob_number[integer],telex_code[string],geographic_area.en,geographic_area.fr,geographic_area.es
+681,RG,Cook Islands,Cook (Islas),Cook (Iles)
+692,TS,Tonga,Tonga,Tonga
+693,FJ,Fiji,Fiji,Fidji
+702,SX,Samoa,Samoa,Samoa
+724,NH,Vanuatu,Vanuatu,Vanuatu
+734,IS,Iceland,Islandia,Islande
+735,ST,Sao Tome and Principe,Santo Tomé y Príncipe,Sao Tomé-et-Principe
+749,A,Austria,Austria,Autriche
+754,NE,Papua New Guinea,Papua Nueva Guinea,Papouasie-Nouvelle-Guinée
+758,VA,Vatican,Vaticano,Vatican
+770,GY,Guyana,Guyana,Guyana
+770,HN,Haiti,Haití,Haïti
+772,MO,Mozambique,Mozambique,Mozambique
+773,PL,Poland,Polonia,Pologne
+775,AD,Andorra,Andorra,Andorre
+775,NM,New Caledonia,Nueva Caledonia,Nouvelle-Calédonie
+776,BH,Bosnia and Herzegovina,Bosnia y Herzegovina,Bosnie-Herzégovine
+799,HN,Hungary,Hungría,Hongrie
+806,NA,Curaçao (former Netherlands Antilles),Curacao ( anteriormente Antillas Neerlandesas),Curaçao (anciennement Antilles néerlandaises)
+806,FA,Faroe Islands (Denmark),Feroé (Islas) (Dinamarca),Féroé (Iles) (Danemark)
+835,DK,Denmark,Dinamarca,Danemark
+852,PK,Pakistan,Pakistán,Pakistan
+853,SK,Slovakia,Eslovaquia,Slovaquie
+859,SN,Suriname,Suriname,Suriname
+859,BJ,Bangladesh,Bangladesh,Bangladesh
+873,WG,Trinidad and Tobago,Trinidad y Tabago,Trinité-et-Tobago
+888,IW,Mauritius (via Swiss Telex),Mauricio (via Swiss Telex),Maurice (via Swiss Telex)
+889,RH,Croatia (Gentex via Swiss Telex),Croatia (Gentex via Swiss Telex),Croatie (Gentex via Swiss Telex)
+895,DK,Germany (via Swiss Telex),Alemania (via Swiss Telex),Allemagne (via Swiss Telex)
+900,YU,Serbia,Serbia,Serbie
+905,GY,United Kingdom (via Swiss Telex),Reino Unido de Gran Bretaña (via Swiss Telex),Royaume-Uni (via Swiss Telex)
+906,YE,Yemen,Yemen,Yémen
+911,CY,Cyprus (via Network Telex (UK)),Chipre (via Network Telex (UK)),Chypre (via Network Telex (UK))
+911,C,Czech,Checa,Tchèque
+918,HX,"Hong Kong, China (via EasyLink)","Hong Kong, China (via Easylink)","Hong Kong, Chine (via Easylink)"
+919,MW,Malta (Go plc),Malta (Go plc),Malte (Go plc)
+920,MF,Maldives (via Swiss Telex),Maldives (via Swiss Telex),Maldives (via Swiss Telex)
+921,I,Italy (via Swiss Telex),Italia (via Swiss Telex),Italie (via Swiss Telex)
+923,LU,Luxembourg,Luxemburgo,Luxembourg
+924,PN,Philippines (ETPI) (via Swiss Telex),Philippines (ETPI) (via Swiss Telex),Philippines (ETPI) (via Swiss Telex)
+931,RS,"Singapore, new operator AimsOne Pte Ltd (via Swiss Telex)","Singapur, nuevo operador AimsOne Pte Ltd (via Swiss Telex)","Singapour, nouvel opérateur AimsOne Pte Ltd (via Swiss Telex)"
+931,E,Spain (via Easy Link),Espana (via Easy Link),Espagne (via Easy Link)
+940,BG,Bulgaria,Bulgaria,Bulgarie
+941,F,France (via transit),Francia (via transit),France (via transit)
+959,BN,Bahrain (via Swiss Telex),Bahrein (via Swiss Telex),Bahreïn (via Swiss Telex)
+959,LT,Lithuania (via Telegraf OU (Estonia)),Lituania (via Telegraf OU (Estonia)),Lituanie (via Telegraf OU (Estonie))

@@ -1,0 +1,260 @@
+---
+metadata:
+  title:
+    en: Countries or geographical areas for which information regarding cessation
+      of telex service has been published in the ITU Operational Bulletin (No.)
+    fr: Pays ou zones géographiques pour lesquels des renseignements relatifs à la
+      cessation du service télex ont été publiés dans le bulletin d'exploitation de
+      l'UIT (No)
+    es: Países o zonas geográficas para los cuales una información sobre la cesación
+      de servicio de télex ha sido publicada en el Boletín de Explotación de la UIT
+      (N.)
+  locale:
+    ob_number:
+      en: OB No.
+      fr: BE N.o
+      es: BE N.o
+    telex_code:
+      en: TNIC
+      fr: CIRT
+      es: CIRT
+    geographic_area:
+      en: Country/Geographical area
+      fr: Países/Zonas geográficas
+      es: Pays/Zones géographiques
+data:
+  ob_number:
+    681:
+      telex_code: RG
+      geographic_area:
+        en: Cook Islands
+        fr: Cook (Islas)
+        es: Cook (Iles)
+    692:
+      telex_code: TS
+      geographic_area:
+        en: Tonga
+        fr: Tonga
+        es: Tonga
+    693:
+      telex_code: FJ
+      geographic_area:
+        en: Fiji
+        fr: Fiji
+        es: Fidji
+    702:
+      telex_code: SX
+      geographic_area:
+        en: Samoa
+        fr: Samoa
+        es: Samoa
+    724:
+      telex_code: NH
+      geographic_area:
+        en: Vanuatu
+        fr: Vanuatu
+        es: Vanuatu
+    734:
+      telex_code: IS
+      geographic_area:
+        en: Iceland
+        fr: Islandia
+        es: Islande
+    735:
+      telex_code: ST
+      geographic_area:
+        en: Sao Tome and Principe
+        fr: Santo Tomé y Príncipe
+        es: Sao Tomé-et-Principe
+    749:
+      telex_code: A
+      geographic_area:
+        en: Austria
+        fr: Austria
+        es: Autriche
+    754:
+      telex_code: NE
+      geographic_area:
+        en: Papua New Guinea
+        fr: Papua Nueva Guinea
+        es: Papouasie-Nouvelle-Guinée
+    758:
+      telex_code: VA
+      geographic_area:
+        en: Vatican
+        fr: Vaticano
+        es: Vatican
+    770:
+      telex_code: HN
+      geographic_area:
+        en: Haiti
+        fr: Haití
+        es: Haïti
+    772:
+      telex_code: MO
+      geographic_area:
+        en: Mozambique
+        fr: Mozambique
+        es: Mozambique
+    773:
+      telex_code: PL
+      geographic_area:
+        en: Poland
+        fr: Polonia
+        es: Pologne
+    775:
+      telex_code: NM
+      geographic_area:
+        en: New Caledonia
+        fr: Nueva Caledonia
+        es: Nouvelle-Calédonie
+    776:
+      telex_code: BH
+      geographic_area:
+        en: Bosnia and Herzegovina
+        fr: Bosnia y Herzegovina
+        es: Bosnie-Herzégovine
+    799:
+      telex_code: HN
+      geographic_area:
+        en: Hungary
+        fr: Hungría
+        es: Hongrie
+    806:
+      telex_code: FA
+      geographic_area:
+        en: Faroe Islands (Denmark)
+        fr: Feroé (Islas) (Dinamarca)
+        es: Féroé (Iles) (Danemark)
+    835:
+      telex_code: DK
+      geographic_area:
+        en: Denmark
+        fr: Dinamarca
+        es: Danemark
+    852:
+      telex_code: PK
+      geographic_area:
+        en: Pakistan
+        fr: Pakistán
+        es: Pakistan
+    853:
+      telex_code: SK
+      geographic_area:
+        en: Slovakia
+        fr: Eslovaquia
+        es: Slovaquie
+    859:
+      telex_code: BJ
+      geographic_area:
+        en: Bangladesh
+        fr: Bangladesh
+        es: Bangladesh
+    873:
+      telex_code: WG
+      geographic_area:
+        en: Trinidad and Tobago
+        fr: Trinidad y Tabago
+        es: Trinité-et-Tobago
+    888:
+      telex_code: IW
+      geographic_area:
+        en: Mauritius (via Swiss Telex)
+        fr: Mauricio (via Swiss Telex)
+        es: Maurice (via Swiss Telex)
+    889:
+      telex_code: RH
+      geographic_area:
+        en: Croatia (Gentex via Swiss Telex)
+        fr: Croatia (Gentex via Swiss Telex)
+        es: Croatie (Gentex via Swiss Telex)
+    895:
+      telex_code: DK
+      geographic_area:
+        en: Germany (via Swiss Telex)
+        fr: Alemania (via Swiss Telex)
+        es: Allemagne (via Swiss Telex)
+    900:
+      telex_code: YU
+      geographic_area:
+        en: Serbia
+        fr: Serbia
+        es: Serbie
+    905:
+      telex_code: GY
+      geographic_area:
+        en: United Kingdom (via Swiss Telex)
+        fr: Reino Unido de Gran Bretaña (via Swiss Telex)
+        es: Royaume-Uni (via Swiss Telex)
+    906:
+      telex_code: YE
+      geographic_area:
+        en: Yemen
+        fr: Yemen
+        es: Yémen
+    911:
+      telex_code: C
+      geographic_area:
+        en: Czech
+        fr: Checa
+        es: Tchèque
+    918:
+      telex_code: HX
+      geographic_area:
+        en: Hong Kong, China (via EasyLink)
+        fr: Hong Kong, China (via Easylink)
+        es: Hong Kong, Chine (via Easylink)
+    919:
+      telex_code: MW
+      geographic_area:
+        en: Malta (Go plc)
+        fr: Malta (Go plc)
+        es: Malte (Go plc)
+    920:
+      telex_code: MF
+      geographic_area:
+        en: Maldives (via Swiss Telex)
+        fr: Maldives (via Swiss Telex)
+        es: Maldives (via Swiss Telex)
+    921:
+      telex_code: I
+      geographic_area:
+        en: Italy (via Swiss Telex)
+        fr: Italia (via Swiss Telex)
+        es: Italie (via Swiss Telex)
+    923:
+      telex_code: LU
+      geographic_area:
+        en: Luxembourg
+        fr: Luxemburgo
+        es: Luxembourg
+    924:
+      telex_code: PN
+      geographic_area:
+        en: Philippines (ETPI) (via Swiss Telex)
+        fr: Philippines (ETPI) (via Swiss Telex)
+        es: Philippines (ETPI) (via Swiss Telex)
+    931:
+      telex_code: E
+      geographic_area:
+        en: Spain (via Easy Link)
+        fr: Espana (via Easy Link)
+        es: Espagne (via Easy Link)
+    940:
+      telex_code: BG
+      geographic_area:
+        en: Bulgaria
+        fr: Bulgaria
+        es: Bulgarie
+    941:
+      telex_code: F
+      geographic_area:
+        en: France (via transit)
+        fr: Francia (via transit)
+        es: France (via transit)
+    959:
+      telex_code: LT
+      geographic_area:
+        en: Lithuania (via Telegraf OU (Estonia))
+        fr: Lituania (via Telegraf OU (Estonia))
+        es: Lituanie (via Telegraf OU (Estonie))

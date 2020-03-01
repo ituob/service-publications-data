@@ -1,0 +1,2509 @@
+= 各主管部门为其业余电台和实验电台分配的 呼号的构成
+:bureau: T
+:docnumber: 
+:series: 不同国家业余电台之间的无线电通信状况（依据
+:series1: 《无线电规则》第25.1款可选规定）
+:series2: 以及
+:published-date: 2018-08-15
+:status: published
+:doctype: recommendation-status
+:keywords: 
+:imagesdir: images
+:docfile: T-SP-RR.25.1-2018-MSW-C.adoc
+:language: ch
+:mn-document-class: itu
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+:stem:
+
+[preface]
+== 无线电通信局的说明
+
+在2018年5月14日CR/430号通函中，无线电通信局请各主管部门向国际电联通报其目前有关《无线电规则》第25.1款的状况。该款涉及其业余业务和卫星业余业务电台与不同国家这类电台之间的无线电通信。通函还指出，若未从主管部门收到任何信息，则需假设相关主管部门对这类无线电通信没有异议。
+
+该通函还请各主管部门向无线电通信局通报其为业余和试验电台分配的呼号的构成。 
+
+2018年8月15日第1154期《操作公报》的此份附件将取消之前2014年7月1日第1055期《操作公报》的附件并取而代之。
+
+该附件考虑到从各主管部门获悉的、有关《无线电规则》第25.1款的信息。由于附件涉及到未从主管部门收到任何新信息的业余和试验电台分配到的呼号构成，因此采用了无线电通信局相关注册系统中的现有信息。该附件将随着国际电联《操作公报》公布的编号系列修正不断予以更新。此外，本附件所含信息亦公布在国际电联的主页 http://www.itu.int/pub/T-SP/e[http://www.itu.int/pub/T-SP/e]上，用户可通过远程接入查询。
+
+请各主管部门核对本附件所公布信息的准确性并将任何出入告知国际电联。所提供的信息如有修改应尽快通知无线电通信局。
+
+国际电信联盟 
+
+无线电通信局主任 
+
+Place des Nations 
+
+1211 GENEVA 20 
+
+Switzerland 
+
+电话： + 41 22 7305800 
+
+传真： + 41 22 7305785 
+
+电子邮件： brmail@itu.int
+
+NOTE: 本附件信息的呈现方式或数据的排列不意味着国际电联对影响各国和领土状况及边界事宜的认同或接受。
+
+
+
+== 业余电台之间的无线电通信（《无线电规则》第 25.1 款）
+
+[%unnumbered]
+|===
+.2+^.^| 国家主管部门或地理区域 2+^.^| 不同国家电台之间 .2+^.^| 备注和限制 ^.^| 呼号构成
+
+^.^| 准许 ^.^| 禁止 ^.^| 页码
+
+^.^| 1 ^.^| 2 ^.^| 3 ^.^| 4 ^.^| 5
+
+| 阿富汗 ^.^| x | | {blank}footnote:tab1[该主管部门未明确给出情况。按照磋商程序，我们认为该主管部门对该国业余电台和其他国家电台之间的无线电通信没有异议（见2018年5月14日第CR/430号通函）。] | 
+| 阿拉斯加（州） ^.^| x | | {blank}footnote:tab1[] ^.^| 43
+| 阿尔巴尼亚（共和国） ^.^| x | | {blank}footnote:tab1[] | 
+| 阿尔及利亚（人民民主共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 11
+| 美属萨摩亚 ^.^| x | | {blank}footnote:tab1[] ^.^| 43
+| 安道尔（公国） ^.^| x | | {blank}footnote:tab1[] | 
+| 安哥拉（共和国） ^.^| x | | {blank}footnote:tab1[] | 
+| 安圭拉 ^.^| x | | {blank}footnote:tab1[] ^.^| 42
+| 安提瓜和巴布达 ^.^| x | | {blank}footnote:tab1[] | 
+| 阿根廷共和国 ^.^| x | | {blank}footnote:tab1[] ^.^| 11
+| 亚美尼亚（共和国） ^.^| x | | {blank}footnote:tab1[] | 
+| 阿鲁巴 ^.^| x | | {blank}footnote:tab1[] ^.^| 11
+| 阿森松岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 42
+| 澳大利亚 ^.^| x | | ^.^| 11-12
+| 奥地利 ^.^| x | | {blank}footnote:tab1[] ^.^| 12
+| 阿塞拜疆（共和国） ^.^| x | | {blank}footnote:tab1[] | 
+| 亚速尔 ^.^| x | | {blank}footnote:tab1[] ^.^| 35-36
+| 巴哈马（国） ^.^| x | | {blank}footnote:tab1[] ^.^| 12
+| 巴林（王国） ^.^| x | | {blank}footnote:tab1[] ^.^| 12
+| 孟加拉（人民共和国） ^.^| x | | {blank}footnote:tab1[] | 
+| 巴巴多斯 ^.^| x | | {blank}footnote:tab1[] ^.^| 13
+| 白俄罗斯（共和国） ^.^| x | | ^.^| 13
+| 比利时 ^.^| x | | {blank}footnote:tab1[] ^.^| 13-14
+| 伯利兹 ^.^| x | | {blank}footnote:tab1[] ^.^| 14
+| 贝宁（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 14
+| 百慕大 ^.^| x | | {blank}footnote:tab1[] ^.^| 42
+| 不丹（王国） ^.^| x | | {blank}footnote:tab1[] ^.^| 14
+| （多民族）玻利维亚国 ^.^| x | | {blank}footnote:tab1[] ^.^| 14
+| 博内尔、圣尤斯特歇斯和萨巴 ^.^| x | | {blank}footnote:tab1[] ^.^| 14
+| 波黑 ^.^| x | | {blank}footnote:tab1[] | 
+| 博茨瓦纳（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 14
+| 布韦岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 33
+| 巴西（联邦共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 15-16
+| 英属维京群岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 42
+| 文莱达鲁萨兰国 ^.^| x | | {blank}footnote:tab1[] ^.^| 16
+| 保加利亚（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 16
+| 布基纳法索 ^.^| x | | {blank}footnote:tab1[] ^.^| 16
+| 布隆迪（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 16
+| 佛得角（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 16
+| 柬埔寨（王国） ^.^| x | | {blank}footnote:tab1[] ^.^| 
+| 喀麦隆（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 16
+| 加拿大 ^.^| x | | {blank}footnote:tab1[] ^.^| 16-17
+| 加那利群岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 39
+| 开曼群岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 42
+| 中非共和国 ^.^| x | | {blank}footnote:tab1[] ^.^| 17
+| 乍得（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 17
+| 查哥斯（印度洋） ^.^| x | | {blank}footnote:tab1[] ^.^| 42
+| 智利 ^.^| x | | {blank}footnote:tab1[] ^.^| 17
+| 中华人民共和国 ^.^| x | | {blank}footnote:tab1[] | 
+| 圣诞岛（印度洋） ^.^| x | | ^.^| 11-12
+| 克利珀顿岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 21
+| 科科斯群岛 ^.^| x | | ^.^| 11-12
+| 哥伦比亚（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 17
+| 科摩罗（联盟） ^.^| x | | {blank}footnote:tab1[] ^.^| 18
+| 刚果（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 18
+| 库克群岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 18
+| 哥斯达黎加 ^.^| x | | {blank}footnote:tab1[] ^.^| 18
+| 科特迪瓦（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 18
+| 克罗地亚（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 18
+| 克罗泽群岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 21
+| 古巴 ^.^| x | | {blank}footnote:tab1[] ^.^| 18
+| 库拉索 ^.^| x | | {blank}footnote:tab1[] ^.^| 18
+| 塞浦路斯（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 18
+| 捷克共和国 ^.^| x | | {blank}footnote:tab1[] ^.^| 19
+| 朝鲜民主人民共和国 | ^.^| x | {blank}footnote:tab1[] | 
+| 刚果民主共和国 ^.^| x | | {blank}footnote:tab1[] | 
+| 丹麦 ^.^| x | | {blank}footnote:tab1[] ^.^| 19
+| 迭戈加西亚 ^.^| x | | {blank}footnote:tab1[] ^.^| 42
+| 吉布提（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 19
+| 多米尼克国 ^.^| x | | {blank}footnote:tab1[] ^.^| 19
+| 多米尼加共和国 ^.^| x | | {blank}footnote:tab1[] ^.^| 19
+| 复活节岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 17
+| 厄瓜多尔 ^.^| x | | {blank}footnote:tab1[] ^.^| 19-20
+| 阿拉伯埃及共和国 ^.^| x | | {blank}footnote:tab1[] ^.^| 20
+| 萨尔瓦多（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 20
+| 赤道几内亚（共和国） ^.^| x | | {blank}footnote:tab1[] | 
+| 厄立特里亚 | ^.^| x | {blank}footnote:tab1[] | 
+| 爱沙尼亚（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 20
+| 埃塞俄比亚（联邦民主共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 21
+| 福克兰群岛（马尔维纳斯） ^.^| x | | {blank}footnote:tab1[] ^.^| 42
+| 法罗群岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 19
+| 斐济（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 21
+| 芬兰 ^.^| x | | {blank}footnote:tab1[] ^.^| 21
+| 法国 ^.^| x | | {blank}footnote:tab1[] ^.^| 21
+| 法属波利尼西亚 ^.^| x | | {blank}footnote:tab1[] ^.^| 21
+| 加蓬共和国 ^.^| x | | {blank}footnote:tab1[] ^.^| 21
+| 冈比亚（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 21
+| 格鲁吉亚 ^.^| x | | {blank}footnote:tab1[] ^.^| 21
+| 德意志（联邦共和国） ^.^| x | | ^.^| 22
+| 加纳 ^.^| x | | {blank}footnote:tab1[] ^.^| 23
+| 直布罗陀 ^.^| x | | {blank}footnote:tab1[] ^.^| 42
+| 希腊 ^.^| x | | {blank}footnote:tab1[] ^.^| 23
+| 格林兰 ^.^| x | | {blank}footnote:tab1[] ^.^| 19
+| 格林纳达 ^.^| x | | {blank}footnote:tab1[] | 
+| 瓜德罗普岛（法属） ^.^| x | | {blank}footnote:tab1[] ^.^| 21
+| 关岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 43
+| 危地马拉（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 23
+| 圭亚那（法属） ^.^| x | | {blank}footnote:tab1[] ^.^| 21
+| 几内亚（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 23
+| 几内亚比绍（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 23
+| 圭亚那 ^.^| x | | {blank}footnote:tab1[] ^.^| 24
+| 海地（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 24
+| 夏威夷（州） ^.^| x | | {blank}footnote:tab1[] ^.^| 43
+| 赫德岛和麦克唐纳群岛 ^.^| x | | ^.^| 11-12
+| 洪都拉斯（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 24
+| 香港（中国特别行政区） ^.^| x | | {blank}footnote:tab1[] | 
+| 豪兰岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 43
+| 匈牙利 ^.^| x | | {blank}footnote:tab1[] ^.^| 24
+| 冰岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 24
+| 印度（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 24
+| 印度尼西亚（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 24
+| 伊朗（伊斯兰共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 25
+| 伊拉克（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 25
+| 爱尔兰 ^.^| x | | {blank}footnote:tab1[] ^.^| 25
+| 以色列（国） ^.^| x | | {blank}footnote:tab1[] ^.^| 25
+| 意大利 ^.^| x | | {blank}footnote:tab1[] ^.^| 25-26
+| 牙买加 ^.^| x | | {blank}footnote:tab1[] ^.^| 26
+| 日本 ^.^| x | | {blank}footnote:tab1[] ^.^| 26
+| 贾维斯岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 43
+| 约翰斯顿岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 43
+| 约旦（哈西姆王国） ^.^| x | | {blank}footnote:tab1[] ^.^| 26
+| 哈萨克斯坦（共和国） ^.^| x | | {blank}footnote:tab1[] | 
+| 肯尼亚（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 26
+| 克尔格伦岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 21
+| 基里巴斯（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 27
+| 韩国 ^.^| x | | {blank}footnote:tab1[] ^.^| 27
+| 科威特（国） ^.^| x | | {blank}footnote:tab1[] ^.^| 27
+| 吉尔吉斯共和国 ^.^| x | | {blank}footnote:tab1[] ^.^| 27
+| 老挝人民民主共和国 ^.^| x | | {blank}footnote:tab1[] ^.^| 27
+| 拉脱维亚（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 27
+| 黎巴嫩 ^.^| x | | 以色列除外 ^.^| 27
+| 莱索托（王国） ^.^| x | | {blank}footnote:tab1[] ^.^| 27
+| 利比里亚（共和国） ^.^| x | | {blank}footnote:tab1[] | 
+| 利比亚 ^.^| x | | {blank}footnote:tab1[] ^.^| 28
+| 列支敦士登（公国） ^.^| x | | {blank}footnote:tab1[] ^.^| 28
+| 立陶宛（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 28
+| 卢森堡 ^.^| x | | {blank}footnote:tab1[] ^.^| 28
+| 澳门（中国特别行政区） ^.^| x | | {blank}footnote:tab1[] | 
+| 马达加斯加（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 28
+| 马德拉 ^.^| x | | {blank}footnote:tab1[] ^.^| 35
+| 马拉维 ^.^| x | | {blank}footnote:tab1[] ^.^| 28
+| 马来西亚 ^.^| x | | {blank}footnote:tab1[] ^.^| 29
+| 马尔代夫（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 29
+| 马里（共和国） ^.^| x | | {blank}footnote:tab1[] | 
+| 马耳他 ^.^| x | | {blank}footnote:tab1[] ^.^| 29
+| 马里恩岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 39
+| 马绍尔群岛（共和国） ^.^| x | | {blank}footnote:tab1[] | 
+| 马提尼克（法属） ^.^| x | | {blank}footnote:tab1[] ^.^| 21
+| 毛里塔尼亚（伊斯兰共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 29
+| 毛里求斯（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 29
+| 马约特（集体领地） ^.^| x | | {blank}footnote:tab1[] ^.^| 21
+| 墨西哥 ^.^| x | | {blank}footnote:tab1[] ^.^| 30
+| 密克罗尼西亚（联邦） ^.^| x | | {blank}footnote:tab1[] ^.^| 30
+| 中途岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 43
+| 摩尔多瓦（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 30-31
+| 摩纳哥（公国） ^.^| x | | {blank}footnote:tab1[] ^.^| 31
+| 蒙古 ^.^| x | | {blank}footnote:tab1[] | 
+| 黑山 ^.^| x | | {blank}footnote:tab1[] | 
+| 蒙特塞拉特 ^.^| x | | {blank}footnote:tab1[] ^.^| 42
+| 摩洛哥（王国） ^.^| x | | {blank}footnote:tab1[] ^.^| 31
+| 莫桑比克（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 31
+| 缅甸（联盟） ^.^| x | | {blank}footnote:tab1[] ^.^| 31
+| 纳米比亚（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 31
+| 瑙鲁（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 31
+| 尼泊尔（联邦民主共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 31
+| 荷兰（王国） ^.^| x | | {blank}footnote:tab1[] ^.^| 31
+| 新喀里多尼亚 ^.^| x | | {blank}footnote:tab1[] ^.^| 21
+| 新西兰 ^.^| x | | {blank}footnote:tab1[] ^.^| 32
+| 尼加拉瓜 ^.^| x | | {blank}footnote:tab1[] ^.^| 32
+| 尼日尔（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 33
+| 尼日利亚（联邦共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 33
+| 纽埃 ^.^| x | | {blank}footnote:tab1[] ^.^| 33
+| 诺福克岛 ^.^| x | | ^.^| 11-12
+| 北马里亚纳群岛（国） ^.^| x | | {blank}footnote:tab1[] ^.^| 43
+| 挪威 ^.^| x | | {blank}footnote:tab1[] ^.^| 33
+| 阿曼（苏丹国） ^.^| x | | {blank}footnote:tab1[] ^.^| 33
+| 巴基斯坦（伊斯兰共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 33
+| 帕劳（共和国） ^.^| x | | {blank}footnote:tab1[] | 
+| 巴尔米拉岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 43
+| 巴拿马（共和国） ^.^| x | | {blank}footnote:tab1[] | 
+| 巴布亚新几内亚 ^.^| x | | {blank}footnote:tab1[] ^.^| 34
+| 巴拉圭（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 34
+| 秘鲁 ^.^| x | | {blank}footnote:tab1[] ^.^| 34
+| 菲律宾（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 34
+| 菲尼克斯群岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 27
+| 皮特克恩岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 42
+| 波兰（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 34-35
+| 葡萄牙 ^.^| x | | {blank}footnote:tab1[] ^.^| 35-36
+| 波多黎各 ^.^| x | | {blank}footnote:tab1[] ^.^| 43
+| 卡塔尔（国） ^.^| x | | {blank}footnote:tab1[] ^.^| 36
+| 留尼旺（法属） ^.^| x | | {blank}footnote:tab1[] ^.^| 21
+| 罗得里格斯 ^.^| x | | {blank}footnote:tab1[] ^.^| 29
+| 罗马尼亚 ^.^| x | | {blank}footnote:tab1[] ^.^| 36
+| 俄罗斯联邦 ^.^| x | | {blank}footnote:tab1[] ^.^| 36-37
+| 卢旺达（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 37
+| 圣巴泰勒米岛（法属） ^.^| x | {blank}footnote:tab1[] | {blank}footnote:tab1[] ^.^| 21
+| 圣赫勒拿岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 42
+| 圣基茨和尼维斯（联邦） ^.^| x | | {blank}footnote:tab1[] | 
+| 圣卢西亚 ^.^| x | | {blank}footnote:tab1[] | 
+| 圣马丁（法属） ^.^| x | {blank}footnote:tab1[] | {blank}footnote:tab1[] ^.^| 21
+| 圣保罗和阿姆斯特丹岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 21
+| 圣皮埃尔和米克隆群岛（集体领地） ^.^| x | | {blank}footnote:tab1[] ^.^| 21
+| 圣文森特和格林纳迪斯 ^.^| x | | {blank}footnote:tab1[] | 
+| 萨摩亚（独立国） ^.^| x | | {blank}footnote:tab1[] ^.^| 37
+| 圣马力诺（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 37
+| 圣多美和普林西比（民主共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 37
+| 沙特阿拉伯（王国） ^.^| x | | {blank}footnote:tab1[] ^.^| 37
+| 塞内加尔（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 38
+| 塞尔维亚（共和国） ^.^| x | | {blank}footnote:tab1[] | 
+| 塞舌尔（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 38
+| 塞拉利昂 ^.^| x | | {blank}footnote:tab1[] ^.^| 38
+| 新加坡（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 38
+| 圣马丁（荷兰部分） ^.^| x | | {blank}footnote:tab1[] ^.^| 38
+| 斯洛伐克共和国 ^.^| x | | {blank}footnote:tab1[] ^.^| 38
+| 斯洛文尼亚（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 38
+| 所罗门群岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 38
+| 索马里（联邦共和国） ^.^| x | | {blank}footnote:tab1[] | 
+| 南非（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 39
+| 南苏丹（共和国） ^.^| x | | {blank}footnote:tab1[] | 
+| 西班牙 ^.^| x | | {blank}footnote:tab1[] ^.^| 39
+| 斯里兰卡（民主社会主义共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 39
+| 苏丹（共和国） ^.^| x | | {blank}footnote:tab1[] | 
+| 苏里南（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 39
+| 天鹅群岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 24
+| 斯威士兰（王国） ^.^| x | | {blank}footnote:tab1[] ^.^| 39
+| 瑞典 ^.^| x | | {blank}footnote:tab1[] ^.^| 39
+| 瑞士（联邦） ^.^| x | | {blank}footnote:tab1[] ^.^| 40
+| 阿拉伯叙利亚共和国 ^.^| x | | 以色列除外 ^.^| 40
+| 塔吉克斯坦（共和国） ^.^| x | | {blank}footnote:tab1[] | 
+| 坦桑尼亚（联合共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 40
+| 泰国 ^.^| x | | {blank}footnote:tab1[] ^.^| 40
+| 前南斯拉夫马其顿共和国 ^.^| x | | {blank}footnote:tab1[] | 
+| 东帝汶（民主共和国） ^.^| x | | {blank}footnote:tab1[] | 
+| 多哥共和国 ^.^| x | | {blank}footnote:tab1[] | 
+| 托克劳 ^.^| x | | {blank}footnote:tab1[] ^.^| 32
+| 汤加（王国） ^.^| x | | {blank}footnote:tab1[] ^.^| 40
+| 特立尼达和多巴哥 ^.^| x | | {blank}footnote:tab1[] ^.^| 40
+| 特里斯坦-达库尼亚 ^.^| x | | {blank}footnote:tab1[] ^.^| 42
+| 突尼斯 ^.^| x | | {blank}footnote:tab1[] ^.^| 41
+| 土耳其 ^.^| x | | {blank}footnote:tab1[] ^.^| 41
+| 土库曼斯坦 ^.^| x | | {blank}footnote:tab1[] | 
+| 特克斯和凯科斯群岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 42
+| 图瓦卢 ^.^| x | | {blank}footnote:tab1[] ^.^| 41
+| 乌干达（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 41
+| 乌克兰 ^.^| x | | {blank}footnote:tab1[] ^.^| 41
+| 阿拉伯联合酋长国 ^.^| x | | {blank}footnote:tab1[] ^.^| 41
+| 大不列颠及北爱尔兰联合王国 ^.^| x | | {blank}footnote:tab1[] ^.^| 41-42
+| 美利坚合众国 ^.^| x | | {blank}footnote:tab1[] ^.^| 43
+| 美国维京群岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 43
+| 乌拉圭（东共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 43
+| 乌兹别克斯坦（共和国） ^.^| x | | {blank}footnote:tab1[] | 
+| 瓦努阿图（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 43
+| 梵蒂冈城国 ^.^| x | | {blank}footnote:tab1[] ^.^| 43
+| 委内瑞拉（玻利瓦尔共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 43
+| 越南（社会主义共和国） ^.^| x | | 卫星业余业务电台之间除外 ^.^| 43
+| 威克岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 43
+| 瓦利斯和富图纳群岛 ^.^| x | | {blank}footnote:tab1[] ^.^| 21
+| 也门（共和国） ^.^| x | | {blank}footnote:tab1[] | 
+| 赞比亚（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 43
+| 津巴布韦（共和国） ^.^| x | | {blank}footnote:tab1[] ^.^| 43
+
+|===
+
+
+
+== 各主管部门为其业余和试验电台分配的呼号的构成
+
+=== 阿尔及利亚（人民民主共和国）
+
+业余电台:: 7X0、7X2、7X3、7X4和7X5后为2或3个字母
+
+试验电::  7X6和7X7后为2或3个字母
+
+*阿根廷共和国*
+
+业余电台:: AY、AZ、LU、LW后为1位数字（0-9）和2或3个字母，第一个字母表示电台所在省。
+
+表示省的字母:: A-B和C –  联邦首都 
++
+D-E –  Buenos Aires省 
++
+F –  Santa Fé省 
++
+GA–GOZ –  Chaco省 
++
+GP–GZZ –  Formosa省 
++
+H –  Córdoba省 
++
+I –  Misiones省 
++
+J –  Entre Ríos省 
++
+K –  Tucumán省 
++
+L –  Corrientes省 
++
+M –  Mendoza省 
++
+N –  Santiago del Estero省 
++
+O –  Salta省 
++
+P –  San Juan省 
++
+Q –  San Luis省 
++
+R –  Catamarca省 
++
+S –  La Rioja省 
++
+T –  Jujuy省 
++
+U –  La Pampa省 
++
+V –  Rio Negro省 
++
+W –  Chubut省 
++
+XA–XOZ –  Santa Cruz省 
++
+XP–XZZ –  Tierra del Fuego, Antarctic省和南大西洋岛 Atlantic省
++
+Y –  Neuquén省 
++
+Z –  南极洲
+
+
+NOTE:: 新手必须使用前缀AZ。
+
+=== 阿鲁巴
+
+业余电台:: P43或P49后为不超过3个字母的组合
+
+
+[NOTE] 
+====
+. 外国业余爱好者在一年时间内将使用其主管部门分配给他们的呼号加一斜线 (/)，之后是P4。
+
+. 前缀P40或P41后为不超过3个字母的组合，用于为期不超过一个月的特殊活动。
+====
+
+=== 澳大利亚
+
+业余电台:: VK，AX{blank}footnote:a1[用于对国家或州/地方具有特殊意义的活动。] 
+或VI{blank}footnote:a1[]
+后为1位数字（表明电台所在国家或领土）和2、3或4个字母 对于后缀为3或4个字母的呼号，首字母表示许可类别。
++
+"高级"业务电台用后缀为2个字母3个字母的呼号表示，其中首字母为A、B、C、D、E、F、G、I、J、K、S、T、U、W、X、Y或Z。
++
+"标准"业余电台用后缀为3个字母的呼号表示，其中首字母为H、L、M、N、P或V。
++
+"基础"业余电台用后缀为4个字母的呼号表示，其中首字母为F。
+
+
+试验电:: AX后为1位数字（2-9）和3个字母，首字母表示电台所处国家或领地。
+
+
+[%unnumbered]
+|===
+.2+^.^| 电台 10+^.^| 国家或领地
+
+^.^| 澳大利亚 首都直辖区 ^.^| 新南 威尔士 ^.^| 维多利亚 ^.^| 昆士兰 ^.^| 南澳大 利亚 ^.^| 西澳大 利亚 ^.^| 塔斯马 尼亚 ^.^| 北领地 ^.^| 澳大利亚 海外领地 ^.^| 南极地区 
+
+| 业余 ^.^| 1 ^.^| 2 ^.^| 3 ^.^| 4 ^.^| 5 ^.^| 6 ^.^| 7 ^.^| 8 ^.^| 9 ^.^| –
+
+| 试验 ^.^| A ^.^| N ^.^| V ^.^| Q ^.^| S ^.^| W ^.^| T ^.^| D ^.^| – ^.^| –
+
+|===
+
+=== 奥地利
+
+业余电台:: OE后为1位数字（0-9，表示电台所处省或地区）和2或3个字母
+
+试验电::  OE后为1位数字（2-9，表示电台所处省）和2个字母（QA-QZ）
+
+数字表示的省或区域:: 1 – Vienna（仅限业余电台） 
++
+2 – Salzburg 
++
+3 – Vienna（仅限试验电台）和Lower Austria 
++
+4 – Burgenland 
++
+5 – Upper Austria 
++
+6 – Styria 
++
+7 – Tyrol 
++
+8 – Carinthia 
++
+9 – Vorarlberg 
++
+0 – 不受管辖区域 
++
+» – 船载或机载
+
+
+=== 巴哈马（国）
+
+业余电台和 试验电:: C62AA-C69ZZ
+
+=== 巴林（王国）
+
+业余电台:: A9后为1位数字（0至9），然后是2、3或4个字符，最后一个字符需为字母。
+
+[%unnumbered]
+|===
+^.^h| 前缀 ^.^h| 数字 ^.^h| 后缀
+^.^| A9 ^.^| 0-9 ^.^| 最多4个字符，最后一个需为字母
+
+|===
+
+
+=== 巴巴多斯
+
+业余电台:: 8P6AA-8P6ZZ {blank}footnote:[用于国内无线电业务爱好者。] 
++
+8P9AA-8P9ZZ {blank}footnote:[用于外国无线电业余爱好者、访客和短期持证者。]
+
+
+=== 白俄罗斯 （共和国）
+
+业余电台:: EU、EV或EW，后面加一位数（1-4，6-8，说明台站所在城市或地区（州）以及一个、两个或三个字母
+
+表示城市或地区的数字:: 1) 明斯克市
++
+2) 明斯克地区
++
+3) Brest地区
++
+4) Grodno地区
++
+5) Vitebsk地区
++
+6) Mogilev地区
++
+7) Gomel地区
+
+呼号包含:: 4个字符 – A级（拥有CEPT执照、HAREC证书的操作员）
++
+5个字符 – A级和B级（拥有CEPT执照、HAREC证书的操作员）
++
+6个字符 – C级（拥有新执照、ARNEC证书的操作员）
++
+5个字符–第四个字符为W、X、Z的表示为俱乐部台站
+
+试验电::  EU1A00R-EU8Z99R（不包括EU5A00R–EU5Z99R） –  中继器 
++
+EU1A00B-EU8Z99B（不包括EU5A00B–EU5Z99B） –  无线电信标 
++
+EU10S-EU89S –  卫星
++
+EV0AA-EV9ZZ –  用于在无线电竞赛中操作的台站
++
+EV10ISS-EV89ISS –  用于空基设施的探险活动
++
+EV0ANA-EV0ANZ –  用于在南极操作的台站
++
+EV0A-EV9999Z –  用于在特殊国内和国际活动期间操作的台站
+
+EU5、EV5、EW5之后加一个字母 – 仅针对国际短波和超短波无线电通信大赛中的参赛者（最长一年）。
+
+NOTE:: 拥有执照的外国业余无线电爱好者必须在EW之后加斜线（/）及自己的呼号。
+
+
+=== 比利时
+
+[%unnumbered]
+|===
+2+^.^| 业余电台
+| ON0AA-ON0ZZ +
+ON0AAA-ON0ZZZ | 自动电台
+| ON1AA-ON1ZZ +
+ON1AAA-ON1ZZZ | 2类电台
+| ON2AA-ON2ZZ +
+ON2AAA-ON2ZZZ | 目前未使用
+| ON3AA-ON3ZZ +
+ON3AAA-ON3ZZZ | 3类电台
+| ON4AA-ON4ZZ +
+ON4AAA-ON4ZZZ +
+ON5AA-ON5ZZ +
+ON5AAA-ON5ZZZ +
+ON6AA-ON6ZZ +
+ON6AAA-ON6ZZZ +
+ON7AA-ON7ZZ +
+ON7AAA-ON7ZZZ +
+ON8AA-ON8ZZ +
+ON8AAA-ON8ZZZ | 1类电台
+| ON9AAA-ON9AZZ | 外国人使用的3类电台
+| ON9BAA-ON9BZZ | 外国人使用的2类电台
+| ON9CAA-ON9CZZ | 外国人使用的1类电台
+| OP0LE和OP0OL | 南极洲俱乐部电台
+| OR3AA-OR3ZZ +
+OR3AAA-OR3ZZZ | 南极洲临时3类电台
+| OR4AA-OR4ZZ +
+OR4AAA-OR4ZZZ | 南极洲临时1类电台
+| OR4ISS | 船载ISS
+| OO0A-OO9Z +
+OP0A-OP9Z +
+OQ0A-OQ9Z +
+OR0A-OR4Z +
+OR6A-OR9Z +
+OS0A-OS9Z +
+OT0A-OT4Z +
+OT6A-OT9Z | 1类电台的补充呼号
+| OR5A-OR5Z +
+OT5A-OT5Z | 高功率比赛电台
+
+|===
+
+=== 伯利兹
+
+业余电台:: V31AA-V31ZZ  –  1类许可 
++
+V32AA-V32ZZ  –  2类许可
+
+=== 贝宁（共和国）
+
+业余电台:: TY后为1位数字（1-9）和2个字母
+
+=== 不丹（王国）
+
+业余电台:: A50AA-A50ZZ {blank}footnote:[用于业余俱乐部和电台。] 
++
+A51AA-A51ZZ {blank}footnote:[用于国内无线电业余爱好者。]
++
+A52AA-A52ZZ {blank}footnote:[用于来访无线电业余爱好者。]
+
+
+=== （多民族）玻利维亚国
+
+业余电台:: CP1AA-CP9ZZ
+
+数字表示各省:: 1 – La Paz 
++
+2 – Chuquisaca 
++
+3 – Oruro 
++
+4 – Potosí 
++
+5 – Cochabamba 
++
+6 – Santa Cruz 
++
+7 – Tarija 
++
+8 – Beni 
++
+9 – Pando
+
+在以下情况下，呼号后可能有字母"M"、"MA"、"MF"、"MM"、"S"或"C"：
+
+M:: 代表移动地球站， 
+
+MA:: 代表移动航空电台， 
+
+MF:: 代表移动河流电台， 
+
+MM:: 代表移动水上电台， 
+
+S:: 代表2类电台， 
+
+C:: 代表临时电台。
+
+
+=== 博内尔、圣尤斯特歇斯和萨巴
+
+业余电台:: PJ4AA-PJ4ZZZ –  Bonaire 
++
+PJ5AA-PJ5ZZZ –  S.Eustatius 
++
+PJ6AA-PJ6ZZZ –  Saba
+
+=== 博茨瓦纳（共和国）
+
+业余电台:: A22AA-A22ZZ
+
+=== 巴西（联邦共和国）
+
+[%unnumbered]
+|===
+6+^.^| 业余电台
+^.^| 州 4+^.^| A和B类 ^.^| C类
+.2+| Acre | PT8AA-PT8ZZ 2+| PT8AAA-PT8ZZZ 2+| PU8JAA-PU8LZZ
+2+| {blank}footnote:b1[特殊呼号：用于国家和国际比赛及探险。] ZZ8HA-ZZ8MZ 3+| ZZ8HAA-ZZ8MZZ
+.2+| Alagoas | PP7AA-PP7ZZ 2+| PP7AAA-PP7ZZZ 2+| PU7AAA-PU7DZZ
+2+| {blank}footnote:b1[] ZZ7AA-ZZ7ZZ 3+| ZZ7AAA-ZZ7ZZZ
+.2+| Amapá | PQ8AA-PQ8ZZ 2+| PQ8AAA-PQ8YZZ 2+| PU8GAA-PU8IZZ
+2+| {blank}footnote:b1[] ZV8AA-ZV8ZZ 3+| ZV8AAA-ZV8YZZ
+.2+| Amazonas | PP8AA-PP8ZZ 2+| PP8AAA-PP8YZZ 2+| PU8AAA-PU8CZZ
+2+| {blank}footnote:b1[] ZZ8AA-ZZ8GZ 3+| ZZ8AAA-ZZ8GZZ
+.2+| Bahia | PY6AA-PY6ZZ 2+| PY6AAA-PY6YZZ 2+| PU6JAA-PU6YZZ
+2+| {blank}footnote:b1[] ZY6AA-ZY6ZZ 3+| ZY6AAA-ZY6YZZ
+.2+| Ceará | PT7AA-PT7ZZ 2+| PT7AAA-PT7YZZ 2+| PU7MAA-PU7PZZ
+2+| {blank}footnote:b1[] ZV7AA-ZV7ZZ 3+| ZV7AAA-ZV7YZZ
+.2+| Distrito Federal | PT2AA-PT2ZZ 2+| PT2AAA-PT2YZZ 2+| PU2AAA-PU2EZZ
+2+| {blank}footnote:b1[] ZV2AA-ZV2ZZ 3+| ZV2AAA-ZV2YZZ
+.2+| Espírito Santo | PPlAA-PPlZZ 2+| PP1AAA-PP1YZZ 2+| PU1AAA-PU1IZZ
+2+| {blank}footnote:b1[] ZZ1AA-ZZlZZ 3+| ZZlAAA-ZZlYZZ
+.2+| Goiás | PP2AA-PP2ZZ 2+| PP2AAA-PP2YZZ 2+| PU2FAA-PU2HZZ
+2+| {blank}footnote:b1[] ZZ2AA-ZZ2ZZ 3+| ZZ2AAA-ZZ2YZZ
+.2+| Maranhão | PR8AA-PR8ZZ 2+| PR8AAA-PR8YZZ 2+| PU8MAA-PU8OZZ
+2+| {blank}footnote:b1[] ZX8AA-ZX8ZZ 3+| ZX8AAA-ZX8YZZ
+.2+| Mato Grosso | PY9AA-PY9ZZ 2+| PY9AAA-PY9YZZ 2+| PU9OAA-PU9YZZ
+2+| {blank}footnote:b1[] ZY9AA-ZY9ZZ 3+| ZY9AAA-ZY9YZZ
+.2+| Mato Grosso do Sul | PT9AA-PT9ZZ 2+| PT9AAA-PT9YZZ 2+| PU9AAA-PU9NZZ
+2+| {blank}footnote:b1[] ZV9AA-ZV9ZZ 3+| ZV9AAA-ZV9YZZ
+.2+| Minas Gerais | PY4AA-PY4ZZ 2+| PY4AAA-PY4YZZ 2+| PU4AAA-PU4YZZ
+2+| {blank}footnote:b1[] ZY4AA-ZY4ZZ 3+| ZY4AAA-ZY4YZZ
+.2+| Pará | PY8AA-PY8ZZ 2+| PY8AAA-PY8YZZ 2+| PU8WAA-PU8YZZ
+2+| {blank}footnote:b1[] ZY8AA-ZY8ZZ 3+| ZY8AAA-ZY8YZZ
+.2+| Paraíba | PR7AA-PR7ZZ 2+| PR7AAA-PR7YZZ 2+| PU7EAA-PU7HZZ
+2+| {blank}footnote:b1[] ZX7AA-ZX7ZZ 3+| ZX7AAA-ZX7YZZ
+.2+| Paraná | PY5AA-PY5ZZ 2+| PY5AAA-PY5YZZ 2+| PU5MAA-PU5YZZ
+2+| {blank}footnote:b1[] ZY5AA-ZY5ZZ 3+| ZY5AAA-ZY5YZZ
+.2+| Pernambuco | PY7AA-PY7ZZ 2+| PY7AAA-PY7YZZ 2+| PU7RAA-PU7YZZ
+2+| {blank}footnote:b1[] ZY7AA-ZY7ZZ 3+| ZY7AAA-ZY7YZZ
+.2+| Piauí | PS8AA-PS8ZZ 2+| PS8AAA-PS8YZZ 2+| PU8PAA-PU8SZZ
+2+| {blank}footnote:b1[] ZW8AA-ZW8ZZ 3+| ZW8AAA-ZW8YZZ
+.2+| Rio de Janeiro | PYlAA-PYlZZ 2+| PYlAAA-PYlYZZ 2+| PUlJAA-PUlYZZ
+2+| {blank}footnote:b1[] ZYlAA-ZYlZZ 3+| ZYlAAA-ZYlYZZ
+.2+| Rio Grande do Norte | PS7AA-PS7ZZ 2+| PS7AAA-PS7YZZ 2+| PU7IAA-PU7LZZ
+2+| {blank}footnote:b1[] ZW7AA-ZW7ZZ 3+| ZW7AAA-ZW7YZZ
+.2+| Rio Grande do Sul | PY3AA-PY3ZZ 2+| PY3AAA-PY3YZZ 2+| PU3AAA-PU3YZZ
+2+| {blank}footnote:b1[]ZY3AA-ZY3ZZ 3+| ZY3AAA-ZY3YZZ
+.2+h| Rondônia h| PW8AA-PW8ZZ 2+h| PW8AAA-PW8YZZ h| PU8DAA-PU8FZZ
+2+| {blank}footnote:b1[] ZZ8NA-ZZ8SZ 2+| ZZ8NAA-ZZ8SZZ
+.2+| Roraima | PV8AA-PV8ZZ 2+| PV8AAA-PV8YZZ | PU8TAA-PU8VZZ
+2+| {blank}footnote:b1[]ZZ8TA-ZZ8ZZ 2+| ZZ8AAA-ZZ8YZZ
+.2+| Santa Catarina | PP5AA-PP5ZZ 2+| PP5AAA-PP5YZZ | PU5AAA-PU5LZZ
+2+| {blank}footnote:b1[] ZZ5AA-ZZ5ZZ 2+| ZZ5AAA-ZZ5YZZ
+.2+| São Paulo | PY2AA-PY2ZZ 2+| PY2AAA-PY2YZZ | PU2KAA-PU2YZZ
+2+| {blank}footnote:b1[] ZY2AA-ZY2ZZ 2+| ZY2AAA-ZY2YZZ
+.2+| Sergipe | PP6AA-PP6ZZ 2+| PP6AAA-PP6YZZ | PU6AAA-PU6IZZ
+2+| {blank}footnote:b1[] ZZ6AA-ZZ6ZZ 2+| ZZ6AAA-ZZ6YZZ
+.2+| Tocantins | PQ2AA-PQ2ZZ 2+| PQ2AAA-PQ2YZZ | PU2IAA-PU2JZZ
+2+| {blank}footnote:b1[] ZX2AA-ZX2ZZ 2+| ZX2AAA-ZX2YZZ
+.2+| Islas Marítimas | PY0AA-PY0ZZ 2+| PY0AAA-PY0ZZZ | PU0AAA-PU0ZZZ
+2+| {blank}footnote:b1[] ZY0AA-ZY0ZZ 2+| ZY0AAA-ZY0ZZZ
+
+|===
+
+
+=== 文莱达鲁萨兰国
+
+业余电台:: V85后为2或3个字母，用于HF和VHF通信
++
+V85后为1个字母，仅用于VHF通信
+
+=== 保加利亚（共和国）
+
+业余电台:: LZ1-LZ9后为不超过3个字母的组合
+
+=== 布基纳法索
+
+业余电台和 试验电::  XT2或XT3后为2个字母
+
+=== 布隆迪（共和国）
+
+业余电台:: 9U5后为2个字母
+
+=== 佛得角（共和国）
+
+业余电台:: D44AA-D44ZZ
+
+=== 喀麦隆（共和国）
+
+业余电台:: TJ1后为2个字母
+
+=== 加拿大
+
+业余电台:: VE1, VA1后为1、2或3个字母 – Nova Scotia和New Brunswick省
++
+VE2, VA2后为1、2或3个字母 – Quebec省
++
+VE3, VA3后为1、2或3个字母 – Ontario省
++
+VE4, VA4后为1、2或3个字母 – Manitoba省
++
+VE5, VA5后为1、2或3个字母 – Saskatchewan省
++
+VE6、VA6后为1、2或3个字母 – Alberta省
++
+VE7、VA7后为1、2或3个字母 – British Columbia省
++
+VE8后为1、2或3个字母 – Northwest领地（不包括Nunavut）
++
+VE9后为1、2或3个字母 – New Brunswick省
++
+VE0 {blank}footnote:[VE0旨在用于在国际航行船只上工作的业余无线电电台。] 后为1、2或3个字母 – 船载业余电台
++
+VO1后为1、2或3个字母 – Newfoundland省（不包括Labrador）
++
+VO2后为1、2或3个字母 – Labrador
++
+VY0后为1、2或3个字母 – Nunavut领地
++
+VY1后为1、2或3个字母 – Yukon领地
++
+VY2后为1、2或3个字母 – Prince Edward Island省
+
+
+试验电::  VX9后为2或3个字母  –  加拿大（所有省和领地）
+
+=== 中非共和国
+
+业余电台和 试验电::  TL8后为2或3个字母
+
+=== 乍得（共和国）
+
+业余电台和 试验电::  TT8后为2个字母，其中第一个字母为A
+
+=== 智利
+
+业余电台:: CE或XQ后为1位数字（表示该电台所处地带）和2或3个字母
++
+CE1-CE8 后为2或3个字母 –  智利大陆 
++
+CE9 后为2或3个字母 –  南极地区 
++
+CE0Y 后为2或3个字母 –  Easter岛 
++
+CE0Z 后为2个字母 –  Juan Fernández和San Félix 群岛
+
+=== 哥伦比亚（共和国）
+
+业余电台:: HJ或HK后为1位数字（0-9，表示无线电业务爱好者所处地带）和1、2或3个字母
+
+数字表示的区域:: 0 – Insular 哥伦比亚领地和水上移动业务 
++
+1 – Atlántico、Bolívar、Córdoba和Sucre省 
++
+2 – Guajira、Magdalena、Cesar和North of Santander省 
++
+3 – Cundinamarca、Meta和Vichada省 
++
+4 – Antioquia和Chocó省 
++
+5 – Cauca和Valle del Cauca省 
++
+6 – Caldas、Tolima、Risaralda、Quindío和Huila省 
++
+7 – Santander、Boyacá、Arauca和Casanare省 
++
+8 – Nariño、Caquetá和Putumayo省 
++
+9 – Amazonas、Vaupés、Guainía和Guaviare省
+
+NOTE:: 5J或5K后为1位数字（0-9）和1、2或3个字母，临时授权用于比赛或特别活动中的业务电台。
+
+=== 科摩罗（联盟）
+
+业余电台:: D68后为2个字母 {blank}footnote:[2个字母代表运营商身份。]
+
+
+=== 刚果（共和国）
+
+业务电台和 试验电::  TN8AA-TN8ZZ
+
+=== 库克群岛
+
+业余电台:: ZK1后为2个字母
+
+=== 哥斯达黎加
+
+业余电台:: TE或TI后为1位数字和不超过3个字母的组合
+
+=== 科特迪瓦 （共和国）
+
+业余电台:: TU2AA-TU2ZZ
+
+试验电::  TU3AA-TU3ZZ
+
+=== 克罗地亚（共和国）
+
+业余电台:: 9A后为1位数字和1、2或3个字母
+
+=== 古巴
+
+业余电台:: T4, CL, CM或CO后为1位数字（表示电台所处省或地带）和1、2或3个字母
+
+数字表示有关省或地带:: 1 – Pinar del Río省 
++
+2 – Havana City省 
++
+3 – Havana省 
++
+4 – Isla de la Juventud市 
++
+5 – Matanzas省 
++
+6 – Villa Clara、Cienfuegos和Sancti Spíritus省 
++
+7 – Ciego de Ávila和Camagüey省 
++
+8 – Santiago de Cuba、Granma、Holguín、Las Tunas和 Guantánamo省
+
+=== 库拉索
+
+业余电台:: PJ2AA-PJ2ZZZ
+
+=== 塞浦路斯 （共和国）
+
+业余电台:: 5B4AAA-5B4ZZZ
+
+NOTE:: 外国业余爱好者将临时使用其主管部门分配给他们的呼号加 (/) 和5B4。
+
+=== 捷克共和国
+
+业余电台:: OK0-OK8后为1、2或3个字母 
++
+OL0-OL9后为1、2或3个字母
++
+OK8后为2或3个字母，用于外国人自捷克共和国领土的发射
++
+OK0后为2或3个字母，在例外情况下使用
++
+OL0-OL9后为1个字母，仅用于国际业余爱好者的比赛
++
+OL0-OL9后为2或3个字母，用于例外情况，仅在此情况持续范围内使用
+
+试验电:: OK9后为2或3个字母
+
+=== 丹麦
+
+[%unnumbered]
+|===
+4+^.^| 业余电台
+^.^| 区域 ^.^| 前缀 ^.^| 数字 ^.^| 后缀
+| 丹麦 ^.^| OU、OV、OZ、5P、5Q ^.^| 0-9 | 最多4个字符，最后一个字符需为字母
+| 法罗群岛 ^.^| OY ^.^| 1-9 | 1、2或3个字母
+| 格陵兰 ^.^| OX ^.^| 1-9 | 2或3个字母
+
+|===
+
+
+=== 吉布提（共和国）
+
+业余电台:: J28AA-J28ZZ {blank}footnote:[代表长期操作的业余电台。] 
++
+J20AA-J20ZZ {blank}footnote:[代表临时操作的业余电台。]
+
+NOTE:: 在特殊活动中，无线电业余爱好者将使用J20后加 3个字母的组合。
+
+=== 多米尼克（国）
+
+业余电台和 试验电::  J73AA-J73ZZ
+
+=== 多米尼加共和国
+
+业余电台:: HI后为1位数字（表示电台所处地带）和不超过3个字母的组合
+
+数字表示相关地带:: 1 – Beata岛 
++
+2 – Saona岛 
++
+3 – 中心Cibao区 
++
+4 – Northwest Line区 
++
+5 – 西南区 
++
+6 – 中南区 
++
+7 – 东区 
++
+8 – 南区 
++
+9 – 西北区
+
+=== 厄瓜多尔
+
+业余电台:: HC或HD后为1位数字（1-8，表示电台所处省）和1、2或3个字母
++
+入门者必须在表示有关省的数字后使用字母N。
+
+
+数字表示相关省:: 1 – Carchi、Imbabura 和Pichincha省 
++
+2 – Guayas（海岸）和Los Ríos省 
++
+3 – El Oro（海岸）和Loja省 
++
+4 – Manabí（海岸）和Esmeraldas (Coast)省 
++
+5 – Chimborazo、Cañar和Azuay省 
++
+6 – Cotopaxi、Tungurahua 和Bolívar省 
++
+7 – Napo、Pastaza、Morona Santiago、Zamora和Sucumbios省 
++
+8 – Galápagos（群岛）省
+
+试验电::  HD9后为3个字母
+
+NOTE:: 比赛中操作电台的无线电业余爱好者必须临时使用HD9和后面的1个字母。
+
+=== 埃及（阿拉伯共和国）
+
+业余电台:: SU后为1位数字和2个字母
+
+=== 圣萨尔瓦多（共和国）
+
+业余电台:: YS后为1位数字（1-9，表示电台所处地带）和一个不超过3个字母的组合
+
+数字表示相关地带:: 1 – San Salvador省 
++
+2 – Santa Ana省 
++
+3 – San Miguel省 
++
+4 – La Libertad省 
++
+5 – La Paz、Cuscatlán和Chalatenango省 
++
+6 – Usulután、San Vicente和Cabañas省 
++
+7 – Sonsonate省 
++
+8 – Ahuachapán省 
++
+9 – Morazán和La Unión省
+
+试验电:: HU9后为2个字母
+
+NOTE:: 外国无线电爱好者必须使用YS和后面的1位数字（1-9，表示工作地带），然后是一斜线 (/) 和自己的呼号。
+
+=== 爱沙尼亚（共和国）
+
+业余电台:: ES后为1位数字（0-9，表示电台所处区）和1、2或3个字母
+
+数字表示相关区:: 0 – Hiiumaa、Saaremaa和所有Väinamere小岛屿行政区 
++
+1 – Tallinn 
++
+2 – Harjumaa行政区 
++
+3 – Lääne、Rapla和Järvamaa行政区 
++
+4 – Lääne-Virumaa和Ida-Virumaa行政区 
++
+5 – Jõgeva和Tartumaa行政区 
++
+6 – Põlva、Valga和Võrumaa行政区 
++
+7 – Viljandimaa行政区 
++
+8 – Pärnumaa行政区 
++
+9 – 非直辖区（由爱沙尼亚业余无线电联盟使用）
+
+当业余电台作为手机或移动电台操作时，在以下情况下，他们的呼号后为斜线 (/) 和字母"MM"、"AM"、"M"或"P"：
+
+* 如电台工作在国际海域上的爱沙尼亚船只时，"MM" 
+
+* 当电台工作在爱沙尼亚飞机上时，"AM" 
+
+* 如电台工作在一些其他船只，包括在国内水域上的船只上时，"M" 
+
+* 当电台手持时，"P"
+
+外国无线电业余爱好者在访问爱沙尼亚时必须使用ES，后为1位数字（0-8），表示电台所处区，然后是斜线 (/) 和自己的呼号。
+
+
+=== 埃塞俄比亚（联邦民主共和国）
+
+业余电台:: ET3AA-ET3ZZ 
++
+9E3AA-9F3ZZ
+
+=== 斐济 （共和国）
+
+业余电台:: 3D2后为2个字母
+
+试验电::  3D3后为2个字母
+
+=== 芬兰
+
+业余电台和 试验电::  OF、OG、OH、OI或OJ后为1位数字和不超过4个字符的组合，最后一 
++
+个字符必须为字母。
+
+=== 法国
+
+[%unnumbered]
+|===
+4+^.^| 业余电台
+
+^.^| F {blank}footnote:[F后为1个字母（A、B、C、D或E），表明无线电业余爱好者所属小组，之后为F，表示一个无线电俱乐部电台。] ^.^| 0-9 {blank}footnote:[1位数字0至9（数字1除外）。] ^.^| AA-ZZZ {blank}footnote:c3[2或3个字母，表示无线电业务爱好者的特点。] ^.^| 法国（大陆）
+
+| | | ^.^| 科西嘉、海外属地和领地（新喀里多尼亚除外）：
+^.^| FG ^.^| 1-5 {blank}footnote:[1位数字表示无线电业余爱好者所属小组（1：A组、2：B组、3：C组、4：D组和5：E组），数字0表示无线电俱乐部电台。] ^.^| AA-ZZZ {blank}footnote:c3[] | Guadeloupe
+^.^| FH ^.^| » ^.^| » | Mayotte
+^.^| FJ ^.^| » ^.^| » | Saint Bartholomew
+^.^| FM ^.^| » ^.^| » | Martinique
+^.^| FO ^.^| » ^.^| » | French Polynesia
+^.^| FP ^.^| » ^.^| » | Saint Pierre和Miquelon
+^.^| FR ^.^| » ^.^| » | Reunion
+^.^| FT ^.^| » ^.^| » | Southern和Antarctic Lands
+^.^| FW ^.^| » ^.^| » | Wallis和Futuna
+^.^| FY ^.^| » ^.^| » | Guiana
+^.^| TK ^.^| » ^.^| » | Corsica
+^.^| FK ^.^| 8 ^.^| AA-ZZZ {blank}footnote:[2或3个字母，表示无线电通信局业余爱好者的特点，K作为第一个字母表示无线电俱乐部电台。] | New Caledonia
+
+|===
+
+
+=== 加蓬共和国
+
+业余电台:: TR8AA-TR8ZZ
+
+=== 冈比亚（共和国）
+
+业余电台:: C53AA-C53ZZ
+
+=== 格鲁吉亚
+
+业余电台:: 4L后为一个数字和1、2或3个字母
+
+
+=== 德意志（联邦共和国）
+
+[%unnumbered]
+|===
+3+^.^| 业余电台::
+^.^| 呼号 ^.^| 用途 ^.^| 类别
+^.^| 1 ^.^| 2 ^.^| 3
+| DA0A-DA0ZZZ | 俱乐部电台 ^.^| A
+| DA1A-DA1Z {blank}footnote:d1[仅用于SOFA（部队地位协议）人员。] | 俱乐部电台 ^.^| A
+| DA1AA-DA1ZZZ {blank}footnote:d1[] | 个人电台、俱乐部电台、中继器、信标 ^.^| A
+| DA2A-DA3Z | 俱乐部电台 ^.^| A
+| DA2AA-DA2ZZZ | 个人电台、俱乐部电台、中继器、信标 ^.^| A
+| DA4A-DA4Z | 作为俱乐部电台进行特别实验研究 ^.^| E
+| DA4AA-DA4ZZZ {blank}footnote:d2[亦用于SOFA（部队地位协议）人员。] | 作为个人电台进行特别实验研究 ^.^| E
+| DA5A-DA5Z | 作为俱乐部电台进行特别实验研究 ^.^| A
+| DA5AA-DA5ZZZ {blank}footnote:d2[] | 作为个人电台进行特别实验研究 ^.^| A
+| DA6A-DA6Z {blank}footnote:d1[] | 俱乐部电台 ^.^| E
+| DA6AA-DA6ZZZ {blank}footnote:d1[] | 个人电台、俱乐部电台、中继器、信标 ^.^| E
+| DA7A-DA9Z | 俱乐部电台 ^.^| E
+| DB0A-DD9Z | 俱乐部电台 ^.^| A
+| DB0AA-DB0ZZZ | 中继器、信标 ^.^| A
+| DB1AA- DD9ZZZ | 个人电台 ^.^| A
+| DF0A-DH9Z | 俱乐部电台 ^.^| A
+| DF0AA-DF0ZZZ | 俱乐部电台 ^.^| A
+| DF1AA- DH9ZZZ | 个人电台 ^.^| A
+| DJ0A-DM9Z | 俱乐部电台 ^.^| A
+| DJ0AA-DJ9ZZZ | 个人电台 ^.^| A
+| DK0AA-DK0ZZZ | 俱乐部电台 ^.^| A
+| DK1AA-DK9ZZZ | 个人电台 ^.^| A
+| DL0AA-DL0ZZZ | 俱乐部电台 ^.^| A
+| DL1AA-DL9ZZZ | 个人电台 ^.^| A
+| DM0AA-DM0ZZZ | 中继器、信标（DM0ZA-DM0ZZZ：采用新技术的中继器） ^.^| A
+| DM1AA-DM9ZZZ | 个人电台 ^.^| A
+| DN0A-DN0ZZZ | 俱乐部电台 ^.^| E
+| DN1AA-DN6ZZZ {blank}footnote:d2[] | 用于发送无线电操作指示的电台 ^.^| A
+| DN7AA-DN8ZZZ {blank}footnote:d2[] | 用于发送无线电操作指示的电台 ^.^| E
+| DO0A-DO9Z | 俱乐部电台 ^.^| E
+| DO0AA-DO0ZZZ | 中继器、信标（DO0ZA-DO0ZZZ：采用新技术的中继器） ^.^| E
+| DO1AA-DO9ZZZ | 个人电台 ^.^| E
+| DP0A-DP1Z | 俱乐部电台（管辖外地点） ^.^| A
+| DP0AA-DP1ZZZ | 俱乐部电台、中继器、信标特别实验研究（管辖外地点） ^.^| A
+| DP2A-DP2Z | 俱乐部电台（管辖外地点） ^.^| E
+| DP2AA-DP2ZZZ | 俱乐部电台、中继器、信标特别实验研究（管辖外地点） ^.^| E
+| DP3A- DR9Z | 俱乐部电台 ^.^| A
+
+|===
+
+
+NOTE: 非德国长居外国无线电爱好者将使用DL加斜线（/）及其国内A类呼号，或DO加斜线（/）及其国内E类呼号，或个人规则呼号。
+
+实验电台:: DI2AA-DI2ZZ
+
+=== 加纳
+
+业余电台:: 9G1后为2个或更多字母 {blank}footnote:[用于国内无线电业余爱好者。]
++
+9G5后为2个或更多字母 {blank}footnote:[用于外国无线电业余爱好者。]
+
+实验电台:: 9G2后为2个字母
+
+=== 希腊
+
+业余电台和 实验电台:: SV {blank}footnote:[1类。]
+或SW {blank}footnote:[2类。]
+后为1位数字字（表示电台所处区域）和2或3个字母
+
+数字表示相关区域:: 1 – Sterea Hellas 
++
+2 – Central和Western Macedonia 
++
+3 – Peloponnese 
++
+4 – Thessaly 
++
+5 – Dodecanese地区 
++
+6 – Epirus 
++
+7 – Eastern Macedonia and Thrace 
++
+8 – 所有岛屿属于Cretian地区和Dodecanese地区的岛屿除外 
++
+9 – Cretian地区用岛屿
+
+
+[NOTE]
+====
+. SV0或SW0加2或3个字母已分配给具有外国许可的希腊无线电业务爱好者和具有长期居留权的外国无线电业余爱好者。
+
+. 前缀J4、SX或SY已作为特别呼号分配给希腊无线电业余爱好者联盟、希腊无线电爱好者小组、希腊无线电爱好者和外国无线电爱好者。
+
+. 前缀SZ已分配给希腊无线电业余爱好者联盟和希腊大学无线通信领域的大学实验室。
+====
+
+=== 危地马拉（共和国）
+
+业余电台:: TG后为1位数字字（4-9，表示电台所处省）和2个字母
+
+数字表示相关省:: 4 – Sololá、Chimaltenango、Suchitepéquez、Escuintla和Santa Rosa 
++
+5 – Huehuetenango、Quiché和Totonicapán 
++
+6 – Zacapa、Chiquimula和Jutiapa 
++
+7 – Petén、Alta Verapaz和Izabal 
++
+8 – San Marcos、Quetzaltenango和Retalhuleu 
++
+9 – Guatemala、Jalapa、El Progreso、Baja Verapaz和Sacatepéquez
+
+实验电台:: TD9A-TD9Z
+
+
+=== 几内亚（共和国）
+
+业余电台:: 3X0AA-3X9ZZ
+
+实验电台:: 3X2AAA-3X9ZZZ
+
+=== 几内亚比绍（共和国）
+
+业余电台:: J52UAB-J52UAI
+
+
+=== 圭亚那
+
+业余电台和 实验电台:: 8R1AAA-8R1ZZZ –  Demerara 
++
+8R2AAA-8R2ZZZ –  Berbice 
++
+8R3AAA-8R3ZZZ –  Essequibo
+
+=== 海地（共和国）
+
+业余电台:: HH后为1位数字（表示电台所处地带）和2个字母
+
+=== 洪都拉斯（共和国）
+
+业余电台:: HR后为1位数字（1-9，表示所处地带）和：
+
+* 表示20年或更长久高品质服务的高级类别的1个字母 
+
+* 表示服务不足20年的高级类别的2个字母 
+
+* 表示高级和一般类别的3个字母
+
++
+
+HQ后为1位数字（1-9，表示电台所处地带）和：
+
+* 表示由本地和来自签署互惠协议的主管部门的外国无线电业余爱好者参加的国内和国际特殊活动的1个字母
+
+* 表示新手类别的3个字母。
+
+=== 匈牙利
+
+业余电台:: HA或HG后为1位数字（0-9）和不超过四个字符的组合，最后一个字符须为一个字母。
+
+=== 冰岛
+
+业余电台:: TF后为1位数字（表示电台所处区域）和1、2或3个字母
++
+对于新持证者，最后一个字母必须是N。
+
+呼号后为斜线（/）和字母"M"或"P"，用于以下情况：
+
+* 字母"M"表示移动电台， 
+
+* 字母"P"表示便携电台。
+
+=== 印度（共和国）
+
+业余电台:: VU2或VU3后为2或3个字母 – 印度大陆 
++
+VU4或VU7后为2或3个字母 – 国内岛屿
+
+实验电台:: VU4后为2个字母
+
+=== 印度尼西亚（共和国）
+
+业余电台:: YB或YE后为一个数字（0-9）和1 {blank}footnote:[1个字母的后缀不得用于个人呼号，仅用于开展特殊活动的机构电台。]、2或3个字母 – 高级许可 
++
+YC或YF后为1位数字字（0-9）和1\*、2或3个字母 – 一般许可 
++
+YD、YG或YH后为1位数字字（0-9）和1\*、2或3个字母 – 新手许可
+
+
+=== 伊朗（伊斯兰共和国）
+
+业余电台:: EP1AA-EP9ZZ
+
+=== 伊拉克（共和国）
+
+业余电台:: YI1后为3个字母
+
+=== 冰岛
+
+业余电台:: EI后为1位数字（2-9）和一个不超过3个字母的组合
+
+=== 以色列（国）
+
+业余电台:: 4X1后为2或3个字母 
++
+4X4后为2或3个字母 
++
+4X6后为2或3个字母 
++
+4X8后为2或3个字母 
++
+4Z1后为2或3个字母 
++
+4Z4后为2或3个字母 
++
+4Z5后为2或3个字母 
++
+4Z7后为2或3个字母 
++
+4Z9后为2或3个字母
+
+=== 意大利
+
+业余电台:: I0或IK0后为2或3个字母– Lazio和Umbria
++
+I1或IK1后为2或3个字母 – Liguria、Piemonte和Novara省
++
+I2或IK2后为2或3个字母 – Lombardia和Mantova省
++
+I3或IK3后为2或3个字母 – Veneto和Rovigo省
++
+I4或IK4后为2或3个字母 – Emilia-Romagna和Piacenza省
++
+I5或IK5后为2或3个字母 – Toscana
++
+I6或IK6后为2或3个字母 – Marche和Abruzzi
++
+I7或IK7后为2或3个字母 – Puglie和Matera省
++
+I8或IK8后为2或3个字母 – Campania、Molise、Calabria和Potenza省
++
+IA5后为2或3个字母 – Toscane"岛（Capraia、Cerboli、Elba、Formica di Burano、Formiche di Grosseto、Giannutri、Giglio、Gorgona、Montecristo、Pianosa、Scoglio d'Affrica）
++
+IB0后为2或3个字母 – "Ponziane"岛（Palmarola、Ponza、Scoglio della Botte、Santo Stefano、Ventotene、Zanone）
++
+IC8后为2或3个字母 – "Napoletane"岛（Capri、Ischia、Li Galli、Procida、Vivara）
++
+ID9后为2或3个字母 – "Eolie"岛（Alicudi、Basiluzzo、Dino、Filicudi、Formiche、Lipari、Lisca Bianca、Panarea、Salina、San Pietro a Canna、Stromboli、Strombolicchio、Vulcano）
++
+IE9后为2或3个字母 – Ustica岛
++
+IF9后为2或3个字母 – "Egadi"岛（Asinelli、Favignana、La Formica、Levanzo、Maraone、Marettimo、Stagnone）
++
+IG9后为2或3个字母 – "Pelagie"岛（Lampedusa、Lampione、Linosa）
++
+IH9后为2或3个字母 – Pantelleria岛
++
+IJ7后为2或3个字母 – "Cheradi"群岛
++
+IL7后为2或3个字母 – "Tremiti"岛（Caprara、Pianosa、San Domino、San Nicola）
++
+IM0后为2或3个字母 – "Sardegna"岛（Asinara、Bisce、Budelli、Carbonara、Caprera、Cavoli、Corcelli、Cretaccio、Foradada、Il Catalano、Il Toro、Il Vitello、La Maddalena、La Vacca、Mal di Ventre、Molara、Mortorio、Nibani、Ogliastra、Pan di Zucchero、Piana、Quirra、Razzoli、Rossa、Ruglia、S. Antioco、S. Pietro、S. Macario、S. Maria、Serpentara、Soffi、Spargi、Su Giudeu、Tavolara）
++
+IN3后为2或3个字母 – Trentino-Alto Adige
++
+IP1后为2或3个字母 – "Liguria"岛
++
+IS0后为2或3个字母 – Sardegna
++
+IT9后为2或3个字母 – Sicilia
++
+IV3后为2或3个字母 – Friuli和Venezia Giulia
++
+IW0后为2或3个字母 – 特别许可
++
+IX1后为2或3个字母 – Aosta山谷
+
+=== 牙买加
+
+业余电台和 实验电台:: 6Y5AA-6Y5ZZ
+
+
+NOTE: 外国业余爱好者将使用其主管部门分配给他们的呼号加斜线（/）之后为6Y5。
+
+=== 日本国
+
+业余电台:: JAnAA-JAnZZ (n = 0-9)
++
+JR6AA-JR6NZ
++
+JRnVA-JRnWZ (n = 0-9)
++
+JR6YA-JR6YZ
++
+JxnAAA-JxnQQZ (x = A、E-S) (n = 0-9)
++
+JxnQUA-JxnZZZ (x = A、E-S) (n = 0-9)
++
+JD1AAA-JD1QQZ
++
+JD1QUA-JD1ZZZ
++
+7JnAAA-7JnBZZ (n = 0、4、5、7-9)
++
+7JnAAA-7JnCZZ (n = 2、3、6)
++
+7J1AAA-7J1DZZ
++
+7JnYAA-7JnYMZ (n = 0-5、7-9)
++
+7J6YAA-7J6YQZ
++
+7xnAAA-7xnQQZ (x = K-N) (n = 1-4)
++
+7xnQUA-7xnZZZ (x = K-N) (n = 1-4)
++
+8xnAAA-8xnQZZ (x = J、N) (n = 0-9)
++
+8xnQUA-8xnZZZ (x = J、N) (n = 0-9)
+
+实验电台:: JxnA-JxnZ (x = B、G、J、O、S) (n = 2-9) 
++
+JxnAA-JxnZZ (x= B、G、J、O、S) (n = 2-9)
+
+=== 约旦（哈希姆王国）
+
+业余电台:: JY1AA-JY9ZZ
+
+=== 肯尼亚（共和国）
+
+业余电台:: 5Z4AA-5Z4ZZ
+
+实验电台:: 5Z5AA-5Z5ZZ
+
+
+=== 基里巴斯（共和国）
+
+业余电台:: T3后为1位数字（0-9）和一个不超过3个字母的组合
+
+实验电台:: T3后为1位数字（0或1除外）和一个不超过3个字母的组合
+
+=== 韩国
+
+业余电台:: 1) . HL1AA-HL9ZZ 
++
+HL1AAA-HL9ZZZ
++
+2) HL0后为2或3个字母（业余小组）
+
+
+实验电台:: 6M2AA-6M2ZZ 
++
+6N2AA-6N2ZZ
+
+NOTE: 临时分配给特殊活动的DS、DT、D7、D8、D9、6K、6L、6M、6N加1位数字和2或3个字母。
+
+=== 科威特（国）
+
+业余电台:: 9K2后为1或2个字母 
++
+9K9后为一个字母
+
+=== 吉尔吉斯共和国
+
+业余电台:: EX后为1位数字（0-9）和1或2个字母
+
+NOTE: 外国无线电业余爱好者将使用EX加斜线（/）及其本国呼号。
+
+=== 老挝（人民民主共和国）
+
+业余电台:: XW8AA-XW8DZ
+
+实验电台:: XW8EA-XW8EZ
+
+=== 拉脱维亚（共和国）
+
+业余电台和 实验电台:: YL后为1位数字和1、2或3个字母
+
+=== 黎巴嫩
+
+业余电台:: OD5后为2个字母
+
+实验电台:: OD9后为2个字母
+
+=== 莱索托（王国）
+
+业余电台和 实验电台:: 7P8后为不超过3个字母的组合
+
+=== 利比亚
+
+业余电台:: 5A后为1位数字（0-9）和一个不超过3个字母的组合
+
+实验电台:: 5A后为1位数字（0或1除外）和一个不超过3个字母的组合
+
+=== 列支敦士登（公国）
+
+业余电台:: HB0AAA-HB0XXX 
++
+HB0YAA-HB0YZZ  –  新手许可 
++
+HB0ZAA-HB0ZZZ
+
+=== 立陶宛（共和国）
+
+业余电台和 实验电台:: LY后为1位数字（1-4）和1至4个字母
+
+NOTE: LY加2至4位数字再加1字母，仅授权用于临时无线电呼号的构成。
+
+=== 卢森堡
+
+[%unnumbered]
+|===
+| LX0A-LX0ZZZZ | 中继器、信标、团体电台
+| LX1A-LX1ZZZZ .3+| 持有HAREC证明的个人电台
+| LX2A-LX2ZZZZ
+| LX3A-LX3ZZZZ
+| LX4A-LX4ZZZZ | 团体电台
+| LX5A-LX5ZZZZ | 团体电台、实验电台
+| LX6A-LX6ZZZZ | 初学者操作的个人电台
+| LX7A-LX7ZZZZ | 比赛中操作的个人电台
+| LX8A-LX8ZZZZ .2+| 团体电台
+| LX9A-LX9ZZZZ
+
+|===
+
+NOTE: 持有临时许可的外国无线电业余爱好者必须使用LX加斜线（/）及本国呼号。
+
+=== 马达加斯加（共和国）
+
+业余电台:: 5R8后为一个不超过3个字母的组合
+
+实验电台:: 5S6后为一个不超过3个字母的组合
+
+=== 马拉维
+
+业余电台:: 7Q7后为2个字母
+
+=== 马来西亚
+
+[%unnumbered]
+|===
+3+^.^| 业余电台
+^.^| 呼号 ^.^| 类别 ^.^| 地域
+| 9M2AAA-9M2ZZZ ^.^| A .2+^.^| 马来半岛
+| 9W2AAA-9W2ZZZ ^.^| B
+| 9M6AAA-9M6ZZZ ^.^| A .2+^.^| 沙巴
+| 9W6AAA-9W6ZZZ ^.^| B
+| 9M8AAA-9M8ZZZ ^.^| A .2+^.^| 沙捞越
+| 9W8AAA-9W8ZZZ ^.^| B
+3+^.^| 实验电台
+3+| 9M4EAA-9M4EZZ
+
+|===
+
+
+=== 马尔代夫（共和国）
+
+业余电台:: 8Q7AA-8Q7ZZ
+
+=== 马耳他
+
+[%unnumbered]
+|===
+3+^.^| 业余电台
+^.^| 呼号 ^.^| 类别 ^.^| 地区
+| 9H1A-9H1ZZ ^.^| A | Malta
+| 9H4A-9H4ZZ ^.^| A | Gozo岛
+| 9H5A-9H5ZZ ^.^| B | Malta和Gozo岛
+3+^.^| 实验电台
+3+| 9H3A-9H3ZZ {blank}footnote:[亦用于临时电台。]
+
+|===
+
+
+=== 毛里塔尼亚（伊斯兰共和国）
+
+业余电台:: 5T5后为2个字母
+
+实验电台:: 5T2后为2个字母
+
+=== 毛里求斯（共和国）
+
+业余电台:: 3B6后为2个字母 –  Agalega 
++
+3B7后为2个字母 –  S. Brandon 
++
+3B8后为2个字母 –  Mauritius 
++
+3B9后为2个字母 –  Rodrigues
+
+NOTE: 持有访客许可的外国无线电业余爱好者必须使用3B8加斜线（/）及其本国呼号。
+
+
+=== 墨西哥
+
+[%unnumbered]
+|===
+2+^.^| 业余电台
+2+| 大陆部分 
+2+| XE0A-XE0ZZZ 
+| XE1A-XE1ZZZ | 地带1：Distrito Federal、Colima、Guanajuato、Hidalgo、Jalisco、Estado de México、Michoacán、Morélos、Nayarit、Puebla、Querétaro、Tlaxcala和Veracruz
+| XE2A-XE2ZZZ | 地带2：Aguascalientes、Baja California Norte、Baja California Sur、Coahuila、Chihuahua、Durango、Nuevo León、San Luis Potosí、Sinaloa、Sonora、Tamaulipas和Zacatecas
+| XE3A-XE3ZZZ | 地带3：Campeche、Chiapas、Guerrero、Oaxaca、Quintana Roo、Tabasco和Yucatán
+2+| 岛屿部分 
+2+| XF0A-XF0ZZZ 
+| XF1A-XF1ZZZ | 地带1：Baja California Norte、Baja California Sur、Sonora、Sinaloa和Nayarit
+| XF2A-XF2ZZZ | 地带2：Tamaulipas、Veracruz、Tabasco和Campeche
+| XF3A-XF3ZZZ | 地带3：Yucatán和Quintana Roo
+| XF4A-XF4ZZZ | 地带4：Jalisco、Colima、Michoacán、Guerrero、Oaxaca和Chiapas
+
+|===
+
+[NOTE]
+====
+. 在大陆部分操作的外国无线电业余爱好者将使用XE1、XE2或XE3加斜线（/）和本国呼号。
+
+. 无线电业余爱好者将仅在特殊活动中使用XA、XB、XC、XD、XE、XF、XG、XH、XI、4A、4B、4C、6D、6E、6F或6J加1位数字和一个不超过3个字母的组合。
+====
+
+=== 密克罗尼西亚（联邦）
+
+业余电台:: V63后为2个字母
+
+实验电台:: V62后为字母X和2个字母
+
+=== 摩尔多瓦（共和国）
+
+业余电台:: ER1 – ER5后为1、2或3个字母
+
+后缀构成:: 
+* 2或3个字母用于个人电台（字母K禁止作为首字母）
+
+* 3个字母用于俱乐部电台（字母为字母K）
+
+* 1、2、3或更多数字和/或字母用于特别呼号、信标和中继器。
+
+呼号包括:: 4个字符 – A类；
++
+5个字符 – A类和B类；
++
+6个字符 – C类。
++
+ER6 – ER0后加2或更多位数字，用于分配给特殊活动的特殊呼号。
++
+ER1 – ER0后加2或更多位数字可分配给：
+
+* 一个居民 – 摩尔多瓦共和国公民；
+
+* 外国公民或在摩尔多瓦共和国长期居住的外国公民或贵族（经相关文件确 认）；
+
+* 摩尔多瓦的合法居民。
+
+
+以下情况下使用呼号加斜线（/）和字母"MM"、"AM"、"M"和"P"：
+
+MM:: 表示水上或河流移动电台，
+
+AM:: 表示航空移动电台，
+
+M:: 表示地面移动电台，
+
+P:: 表示地面便携电台。
+
+NOTE: 经授权的外国无线电业余爱好者将使用ER加斜线（/）及其本国呼号。
+
+=== 摩纳哥（公国）
+
+业余电台:: 3A2AA-3A2ZZ – 1类 – 一般许可
++
+3A1AA-3A1ZZ – 2类 – 许可仅限于144-146 MHz和430-440 MHz。
++
+3A2AAA-3A2ZZZ – 无线电俱乐部
+
+实验电台:: 3A9A-3A9Z
+
+=== 摩洛哥（王国）
+
+业余电台:: CN2AA-CN2ZZ 
++
+CN8AA-CN8ZZ
+
+实验电台:: CN4AA-CN4ZZ
+
+=== 莫桑比克（共和国）
+
+业余电台:: C9后为1位数字（表示电台所处省）和一个不超过3个字母的组合
+
+数字表示相关省:: 1 – Maputo 
++
+2 – Gaza-Inhambane 
++
+3 – Sofala-Manica 
++
+4 – Zambezia-Nampula 
++
+5 – Tete-Niassa 
++
+6 – C. Delgado
+
+=== 缅甸（联邦）
+
+业余电台和 实验电台:: XZ2AA-XZ2ZZ
+
+=== 纳米比亚（共和国）
+
+业余电台:: V50A-V50ZZZ – 有限许可电台 
++
+V51A-V51ZZZ – 全面许可电台 
++
+V5后加现有呼号 – 访客电台
+
+实验电台:: V59A-V59ZZZ
+
+=== 瑙鲁（共和国）
+
+业余电台:: C2后为表示类别的1位数字，再加2个字母
+
+=== 尼泊尔
+
+业余电台:: 9N1AA-9N1ZZZ
+
+=== 荷兰（王国）
+
+业余电台:: PA0、PA1、PA6、PI4、PI6、PI7或PI8后为2或3个字母 
++
+PA2、PA3、PB0、PD0、PE0、PE1、PI1、PI2或PI3后为3个字母
+
+实验电台:: PI5或PI9后为2或3个字母
+
+=== 新西兰
+
+[%unnumbered]
+|===
+2+^.^| 业余电台和实验电台
+^.^| 呼号 ^.^| 地区
+^.^| 1 ^.^| 2
+| ZL1AA-ZL4WZ +
+ZL1AAA-ZL4WZZ +
+ZL1AAAA-ZL4WZZZ | 新西兰
+| ZK0A-ZK9ZZZZ +
+ZL0A-ZL0ZZZZ +
+ZL1A-ZL4W +
+ZM0A-ZM0ZZZZ +
+ZM1A-ZM9ZZZZ {blank}footnote:[业余爱好者将使用前缀ZM，而不是ZL用于比赛和其它特殊活动。] | 新西兰的特殊活动
+| ZL5AA-ZL5WZ +
+ZL5AAA-ZL5WZZ +
+ZL5AAAA-ZL5WZZZ | 南极
+| ZL5A-ZL5W | 南极的特别活动
+| ZL6AA-ZL6WZ +
+ZL6AAA-ZL6WZZ +
+ZL6AAAA-ZL6WZZZ | NZART {blank}footnote:ch[新西兰无线电发射机协会（NZART）。]
+| ZL6A-ZL6W | NZART {blank}footnote:ch[] 的特殊活动
+| ZL7AA-ZL7WZ +
+ZL7AAA-ZL7WZZ +
+ZL7AAAA-ZL7WZZZ | Chatham岛
+| ZL7A-ZL7W | Chatham岛的特殊活动
+| ZL8AA-ZL8WZ +
+ZL8AAA-ZL8WZZ +
+ZL8AAAA-ZL8WZZZ | Kermadec岛
+| ZL8A-ZL8W | Kermadec岛的特殊活动
+| ZL9AA-ZL9WZ +
+ZL9AAA-ZL9WZZ +
+ZL9AAAA-ZL9WZZZ | Auckland/Campbell岛
+| ZL9A-ZL9W | Auckland/Campbell岛的特殊活动
+
+|===
+
+
+=== 尼加拉瓜
+
+业余电台:: YN后为1位数字（表示电台所处地带）和2或3个字母
+
+数字表示有关地带:: 1 – Managua 
++
+2 – Granada 
++
+3 – León 
++
+4 – Zelaya 
++
+5 – Carazo和Rivas 
++
+6 – Chinandega 
++
+7 – Masaya 
++
+8 – Estelí、Madrizt和Nueva Segovia 
++
+9 – Matagalpa、Jinotega、Boaco、Chontales和Río San Juan
+
+
+=== 尼日尔（共和国）
+
+业余电台和 实验电台:: 5U2-5U9后为字母V和1或2个字母
+
+当电台作为固定电台时，其呼号后为字母"F"。
+
+当电台作为移动电台时，其呼号后为字母"MOB"。
+
+=== 尼日利亚（联邦共和国）
+
+业余电台:: 5N后为1位数字（表示电台所处地带）和3个字母
+
+数字表示的地带:: 0 – Lagos州和联邦首都区 
++
+1 – Ogun、Oyo、Ondo和Ekiti州 
++
+2 – Osun、Kwara、Kogi和Niger州 
++
+3 – Edo、Delta、Bayelsa和Anambra州 
++
+4 – Enugu、Abia、Ebonyi和Rivers州 
++
+5 – Imo、Akwa lbom和Cross River州 
++
+6 – Benue、Plateau、Nassarawa和Taraba州 
++
+7 – Bauchi、Gombe、Adamawa和Borno州 
++
+8 – Jigawa、Kano、Yobe和Katsina州 
++
+9 – Zamfara、Sokoto、Kaduna和Kebbi州
+
+实验电台:: 5N2XA-5N2ZZ 
++
+5N3EA-5N3EZ 
++
+5N4XA-5N4ZZ 
++
+5N5EA-5N5EZ 
++
+5N6XA-5N6ZZ 
++
+5N7EA-5N7EZ 
++
+5N8XA-5N8ZZ 
++
+5N9EA-5N9EZ
+
+=== 纽埃
+
+业余电台:: ZK2后为2个字母
+
+=== 挪威
+
+业余电台:: JW0AAA-JW9ZZZ 
++
+JX0AAA-JX0ZZZ 
++
+LA0AAA-LA9ZZZ 
++
+LB0AAA-LB9ZZZ 
++
+LC0AAA-LC9ZZZ 
++
+LD0AAA-LD9ZZZ 
++
+3Y0AAA-3Y9ZZZ
+
+实验电台:: LF2AAA-LF9ZZZ
+
+=== 阿曼（苏丹国）
+
+业余电台:: A40AA-A48ZZ
+
+实验电台:: A49AA-A49ZZ
+
+=== 巴基斯坦（伊斯兰共和国）
+
+业余电台和 实验电台:: AP2-AP9后为一个不超过3个字母的组合
+
+=== 巴布亚新几内亚
+
+业余电台:: P29BAA-P29BZZ –  信标 
++
+P29CAA-P29CZZ –  俱乐部电台 
++
+P29KAA-P29KZZ –  综合许可 
++
+P29NAA-P29NZZ –  新手许可 
++
+P29RAA-P29RZZ –  中继器 
++
+P29ZAA-P29ZZZ –  有限许可
+
+=== 巴拉圭（共和国）
+
+业余电台:: ZP后为1位数字（1-9，表示电台所处地带）和2或3个字母，表示无线电业余爱好者的特性（首字母不得是I、O或Q）
+
+数字表示有关地带:: 1 – Alto Paraguay和Boquerón省 
++
+2 – Presidente Hayes省 
++
+3 – Concepción和Amambay省 
++
+4 – San Pedro和Canindeyú省 
++
+5 – Asunción（首都） –Asunción的首都 
++
+6 – Cordillera、Paraguari和Central省 
++
+7 – Guairá、Caaguazú和Caazapá省 
++
+8 – Misiones和Neembucú省 
++
+9 – Itapúa和Alto Paraná省
+
+NOTE: 数字0在特殊时期分配给业余电台。
+
+=== 秘鲁
+
+业余电台:: OA后为1位数字（0-9，表示电台所处地带）和1、2或3个字母
+
+数字表示相关地带:: 0 – peruvian Antarctic 
++
+1 – Tumbes、Piura、Lambayeque 
++
+2 – Cajamarca、La Libertad 
++
+3 – Huánuco、Ancash 
++
+4 – Lima、Pasco Junín 
++
+5 – Ica、Ayacucho、Apurímac、Huancavelica 
++
+6 – Arequipa、Moquegua、Tacna 
++
+7 – Cuzco、Puno、Madre de Dios 
++
+8 – Loreto、Ucayali 
++
+9 – Amazonas、San Martín
+
+NOTE: 前缀4T是临时分配的。
+
+=== 菲律宾（共和国）
+
+业余电台:: DU {blank}footnote:[A类无线电业余爱好者可选择用4D、4E或4F取代DU。] 后为1位数字（1-9，表示电台所处区）和一个不超过3个字母的组合 – 
++
+A、B或C类
++
+DY后为1位数字（1-9，表示电台所处区）和1个不超过3个字母的组合 – D类
++
+DX或DZ后为1位数字（1-9，表示电台所处区）和1个不超过3个字母的组合 – 俱乐部电台
+
+=== 波兰（共和国）
+
+业余电台:: HF、SN、SO、SP、SQ或3Z后为1位数字（1-9，表示电台所处省）和一个不超过4个字符的组合，最后一个字符须为一个字母。
++
+SO后为1位数字（1-9，表示电台所处省）和一个不超过4个字符的组合，最后一个字符须为字母 – 用于访问波兰的外国无线电爱好者。
++
+SR后为1位数字（1-9，表示该电台所处省）和一个不超过4个字符的组合，最后一个字符须为一个字母 – 用于无人（自动）业余电台（中继器、信标、数字电台）。
++
+HF、SN、SO、SP、SQ或3Z后为1位数字（1-9，表示电台所处省或0）和一组字符（按要求） – 用于特殊活动电台或业余爱好者在比赛和竞赛期间操作的电台（最长一年）。
+
+数字表示相关省:: 1 – Zachodniopomorskie省 
++
+2 – Pomorskie和Kujawsko-Pomorskie省 
++
+3 – Wielkopolskie和Lubuskie省 
++
+4 – Warminsko-Mazurskie和Podlaskie省 
++
+5 – Mazowieckie省 
++
+6 – Dolnoslaskie和Opolskie省 
++
+7 – Lodzkie和Swietokrzyskie省 
++
+8 – Lubelskie和Podkarpackie省 
++
+9 – Slaskie和Malopolskie省
+
+=== 葡萄牙
+
+[%unnumbered]
+|===
+5+^.^| 业余电台
+^.^| 前缀 ^.^| 后缀 ^.^| 类别 ^.^| 地理区域 ^.^| 注
+^.^| 1 ^.^| 2 ^.^| 3 ^.^| 4 ^.^| 5
+^.^| CQ0 ^.^| 2至4个字符 ^.^| – ^.^| Portugal ^.^| {blank}footnote:g2[分配给业余爱好者协会业余电台的呼号（中继器）。]
+^.^| CQ1 ^.^| 2至4个字符 ^.^| – ^.^| Azores ^.^| {blank}footnote:g2[]
+^.^| CQ2 ^.^| 2至4个字符 ^.^| – ^.^| Madeira ^.^| {blank}footnote:g2[]
+^.^| CR0 ^.^| 1至4个字符 ^.^| – ^.^| Portugal、Madeira、Azores ^.^| {blank}footnote:[分配给公共保护和赈灾组织业余电台的呼号。]
+^.^| CR7 ^.^| 3个字母 ^.^| 3 ^.^| Portugal ^.^| –
+^.^| CR8 ^.^| 3个字母 ^.^| 3 ^.^| Azores ^.^| –
+^.^| CR9 ^.^| 3个字母 ^.^| 3 ^.^| Madeira ^.^| –
+^.^| CS0 ^.^| 3个字母 ^.^| – ^.^| Portugal ^.^| {blank}footnote:g3[分配给业余爱好者协会业余电台的呼号（非中继器）。]
+^.^| CS1 ^.^| 3个字母 ^.^| – ^.^| Portugal ^.^| {blank}footnote:g3[]
+^.^| CS3 ^.^| 1至4个字符 ^.^| – ^.^| Madeira ^.^| {blank}footnote:g3[]
+^.^| CS4 ^.^| 1至4个字符 ^.^| – ^.^| Azores ^.^| {blank}footnote:g3[]
+^.^| CS5 ^.^| 1至4个字符 ^.^| – ^.^| Portugal ^.^| {blank}footnote:g3[]
+^.^| CS6 ^.^| 3个字母 ^.^| – ^.^| Portugal ^.^| {blank}footnote:g3[]
+^.^| CS7 ^.^| 3个字母 ^.^| 2 ^.^| Portugal ^.^| –
+^.^| CS8 ^.^| 3个字母 ^.^| 2 ^.^| Azores ^.^| –
+^.^| CS9 ^.^| 3个字母 ^.^| 2 ^.^| Madeira ^.^| –
+^.^| CT1 ^.^| 2至3个字母 ^.^| A和B ^.^| Portugal ^.^| {blank}footnote:g3[]
+^.^| CT2 ^.^| 2至3个字母 ^.^| B ^.^| Portugal ^.^| –
+^.^| CT3 ^.^| 2至3个字母 ^.^| A、B和C ^.^| Madeira ^.^| –
+^.^| CT4 ^.^| 2至3个字母 ^.^| A和B ^.^| Portugal ^.^| –
+^.^| CT5 ^.^| 3个字母 ^.^| C ^.^| Portugal ^.^| –
+^.^| CT6 ^.^| 3个字母 ^.^| – ^.^| Portugal ^.^| {blank}footnote:g3[]
+^.^| CT7 ^.^| 3个字母 ^.^| 1 ^.^| Portugal ^.^| –
+^.^| CT8 ^.^| 3个字母 ^.^| 1 ^.^| Azores ^.^| –
+^.^| CT9 ^.^| 3个字母 ^.^| 1 ^.^| Madeira ^.^| –
+^.^| CU0 ^.^| 3个字母 ^.^| C ^.^| Azores（所有岛） ^.^| –
+^.^| CU1 ^.^| 2至3个字母 ^.^| A和B ^.^| Azores (Santa Maria) ^.^| {blank}footnote:g3[]
+^.^| CU2 ^.^| 2至3个字母 ^.^| A和B ^.^| Azores (São Miguel) ^.^| {blank}footnote:g3[]
+^.^| CU3 ^.^| 2至3个字母 ^.^| A和B ^.^| Azores (Terceira) ^.^| {blank}footnote:g3[]
+^.^| CU4 ^.^| 2至3个字母 ^.^| A和B ^.^| Azores (Graciosa) ^.^| {blank}footnote:g3[]
+^.^| CU5 ^.^| 2至3个字母 ^.^| A和B ^.^| Azores (São Jorge) ^.^| {blank}footnote:g3[]
+^.^| CU6 ^.^| 2至3个字母 ^.^| A和B ^.^| Azores (Pico) ^.^| {blank}footnote:g3[]
+^.^| CU7 ^.^| 2至3个字母 ^.^| A和B ^.^| Azores (Faial) ^.^| {blank}footnote:g3[]
+^.^| CU8 ^.^| 2至3个字母 ^.^| A和B ^.^| Azores (Flores) ^.^| {blank}footnote:g3[]
+^.^| CU9 ^.^| 2至3个字母 ^.^| A和B ^.^| Azores (Corvo) ^.^| –
+
+|===
+
+
+[NOTE]
+====
+短期呼号（例如比赛）和实验电台使用以下前缀：
+
+* Portugal: CQ7、CR5、CR6和CS2； 
+
+* Azores: CQ8、CR1和CR2； 
+
+* Madeira: CQ3、CQ9和CR3。
+====
+
+=== 卡塔尔（国）
+
+业余电台:: A71AA-A71ZZ
+
+实验电台:: A73AA-A73ZZ
+
+=== 罗马尼亚
+
+业余电台:: 
+. 个人
++
+YO后为1位数字和一个不超过3个字母的组合（首字母不得为字母K）
+
+. 俱乐部
++
+YO后为1位数字和一个不超过3个字母的组合（首字母为字母K）
+
+NOTE: YP、YQ和YR后为1位数字和一个不超过3个字母的组合，分配用于比赛或特殊活动期间操作的业余电台。
+
+=== 俄罗斯联邦
+
+[%unnumbered]
+|===
+2+^.^| 业余和实验电台
+a| RA0AA – RZ9ZZ +
+UA0AA – UI9ZZ +
+R0AA – R9ZZ {blank}footnote:[条件是业余电台使用不少于25年。] 
+
+RA0A – RZ9Z {blank}footnote:[条件是过去五年中参加了十场以上国际或所有俄罗斯无线电通信比赛。] 
+
+UA0A – UI9Z | 以HAREC证书操作的一类资格电台
+| R0AAA – R9ZZZ +
+RA0AAA – RZ9ZZZ +
+UA0AAA – UA9ZZZ | 以HAREC证书操作的二类资格电台
+| UB0AAA – UD9ZZZ +
+UF0AAA – UG9ZZZ | 以HAREC证书操作的三类资格电台（新手许可）
+| UE0AAA – UE9ZZZ +
+UH0AAA – UI9ZZZ | 四类资格电台（初级）
+| RR0AA – RR9ZZ +
+RR0AAA – RR9ZZZ | 中继器
+| RB0AA – RB9ZZ | 无线电信标
+| RS0S – RS9S +
+RS10S – RS99S | 卫星业余业余电台
+| R0AAAA – R9ZZZZ +
+R00AAA – R99ZZZ +
+R000A – R999Z +
+R000AA – R999ZZ +
+R0000A – R9999Z +
+RA00A – RZ99Z +
+RA00AA – RZ99ZZ +
+RA00AAA – RZ99ZZZ +
+RA000A – RZ999Z +
+RA000AA – RZ999ZZ | 特殊情况下临时使用
+| R0A – R9Z +
+R00A – R99Z +
+R00AA – R99ZZ {blank}footnote:[专门分配给在北冰洋浮冰上操作的极地探险业余电台的R00SP – R99SR系列呼号除外。] | 参加内部各轮比赛的电台
+
+|===
+
+
+=== 卢旺达（共和国）
+
+业余电台:: 9X5AA-9X5ZZ
+
+=== 萨摩亚（独立国）
+
+业余电台:: 5W后为1位数字和2个字母
+
+=== 圣马力诺（共和国）
+
+业余电台:: T72AA-T72ZZ {blank}footnote:[VHF和更高频段] 
++
+T77AA-T77ZZ {blank}footnote:h2[所有频段。]
++
+无线电俱乐部：T70A {blank}footnote:h2[]
++
+临时无线电俱乐部：T71CE {blank}footnote:h2[]
+
+=== 圣多美和普林西比（民主共和国）
+
+业余电台:: S92AA-S92ZZ
+
+=== 沙特阿拉伯（王国）
+
+业余电台和 实验电台:: 7Z后为1位数字和2个字母
+
+=== 塞内加尔（共和国）
+
+业余电台:: 6W1AA-6W1ZZ
+
+实验电台:: 6V3AA-6V3ZZ
+
+=== 塞舌尔（共和国）
+
+业余电台:: S79AAA-S79ZZZ
+
+实验电台:: S78AA-S78AZ
+
+=== 塞拉利昂
+
+业余电台:: 9L后为1位数字（0-8，表示电台所处地区或省）和2个字母
+
+数字表示有关地区或省:: 0 – 小型和近海岛屿 
++
+1 – 西区 
++
+2 – 北省 
++
+3 – 南省 
++
+4 – 东省 
++
+7 – 新手许可 
++
+8 – B类许可（VHF/UHF）
+
+NOTE: 持有临时许可的外国无线电业余爱好者必须使用9L加斜线（/）及其本国的呼号。
+
+=== 新加坡（共和国）
+
+业余电台:: 9V1AA-9V1ZZ
+
+实验电台:: 9V2A-9V2ZZ
+
+NOTE: 9V0加2或3个字母已授权给特殊活动中的业余电台。
+
+=== 圣马丁（荷兰部分）
+
+业余电台:: PJ7AA-PJ7ZZZ
+
+=== 斯洛伐克共和国
+
+业余电台:: OM0AA-OM8ZZZ 
++
+OM0A-OM9Z {blank}footnote:[用于国际业余爱好者的比赛。]
++
+OM9AA-OM9ZZ {blank}footnote:[用于例外情况并仅限于该用途。]
++
+OM9AAA-OM9SZZ {blank}footnote:[用于从斯洛伐克共和国领土发射的外国人。]
+
+
+实验电台:: OM9TAA-OM9ZZZ
+
+=== 斯洛文尼亚（共和国）
+
+业余电台:: S5后为1位数字和1、2或3个字母
+
+=== 所罗门群岛
+
+业余电台和 实验电台:: H44AA-H44ZZ
+
+=== 南非（共和国）
+
+业余电台:: ZR{blank}footnote:[全面许可（VHF除外）。]、ZS {blank}footnote:[全面许可。] 或ZU {blank}footnote:[新手许可。] 后为1位数字（表示电台所处省）和1、2或3个字母，表示无线电业余爱好者的特点
+
+数字表示相关省:: 1 – Western Cape 
++
+2 – Eastern Cape 
++
+3 – Northern Cape 
++
+4 – 无许可州 
++
+5 – Kwazulu-Natal 
++
+6 – Gauteng、North-West 省、Mpumalanga、Northern省 
++
+7 – Sanae Antarctica 
++
+8 – Marion岛 
++
+9 – Namibia 
++
+0 – DIG repeaters和bulletins boards
+
+
+实验电台:: ZT后为1位数字和1、2或3个字母
+
+=== 西班牙
+
+业余电台:: EA、EB或EC组合之一后为1位数字（表示固定电台所处省或移动电台许可持有人居住地省）和一个不超过3个字母的组合。
++
+EA、EB和EC组合中的第二字母表示该电台分别为A、B或C类。
+
+临时呼号:: ED、EE和EF组合取代EA、EB和EC，第二个字母D、E或F与字母A、B和C含义相同（许可类别）。
+
+=== 斯里兰卡（民主社会主义共和国）
+
+业余电台:: 4S5后为2或3个字母 – 新手类别B（仅限VHF） 
++
+4S6后为2或3个字母 – 新手类别A 
++
+4S7后为2或3个字母 – 一般/高级类别
+
+实验电台:: 4P3后为2个字母
+
+
+[NOTE]
+====
+. 通过上交外国主管部门颁发的许可获得许可的本地无线电业余爱好者将使用4S7加3个字母，最后一个字母为R。
+
+. 无线电业余爱好者将使用4S7加本国呼号。
+
+. 来自签署互惠协议的主管部门的外国无线电业余爱好者将使用4S7加3个字母，最后一个字母为G。
+====
+
+=== 苏里南（共和国）
+
+业余电台和 实验电台:: PZ后为1位数字（2-9）和一个不超过3个字母的组合
+
+=== 斯威士兰（王国）
+
+业余电台:: 3DA0后为2个字母 – 全面许可 
++
+3DA1后为2个字母 – 有限许可
+
+=== 瑞典
+
+业余电台:: SA、SI、SJ、SK、SL或SM（偶尔使用7S或8S）后为1位数字和1、2或3个字母
++
+SH后为1位数字和3个字母
+
+=== 瑞士（联邦）
+
+业余电台:: HB9或HB3 {blank}footnote:[新手许可。] 后为4个字符，最后一个字符须为一个字母
+
+
+=== 阿拉伯叙利亚共和国
+
+业余电台和 实验电台:: YK后为1位数字（表示电台所处地带）和1、2或3个字母
+
+数字表示有关地带:: 1 – 南区
++
+2 – 北区
++
+3 – 东区
++
+4 – 西区
++
+8 – 信标
++
+9 – 外国无线电业余爱好者小组
++
+0 – 俱乐部电台
+
+[NOTE]
+====
+. 外国个人无线电业余爱好者将使用YK加斜线（/）及其本国呼号。
+
+. 仅在特殊活动中，无线电业余爱好者才使用6C加1位数字和一个不超过3个字母的组合。
+====
+
+=== 坦桑尼亚（联合共和国）
+
+业余电台:: 5H3AA-5H3ZZ  –  大陆 
++
+5H1AA-5H1ZZ  –  Zanzibar
+
+=== 泰国
+
+业余电台:: E2或HS后为1位数字（表示电台所处地区）和2或3个字母
+
+数字表示相关区域:: 0、1– Bangkok、Samut Prakan、Pathum Thani、Nonthaburi、Phra Nakhon Si Ayutthaya、Angthong、Saraburi、Lop Buri、Sing Buri、Chainat
++
+2 – Chon Buri、Rayong、Chanthaburi、Trat、Chachoengsao、Nakhon Nayok、Prachin Buri、Srakaew
++
+3 – Nakhon Ratchasima、Chaiyaphum、Buriram、Surin、Sisaket、Ubon Ratchathani、Yasothon、Amnat Chareon
++
+4 – Khon Kaen、Loei、Nong Khai、Udon Thani、Maha Sarakham、Kalasin、Sakon Nakhon、Mukdahan、Nakhon Phanom、Roi Et、Nong Bua Lum Phu
++
+5 – Mae Hong Son、Chiang Mai、Lamphun、Lampang、Phrae、Uttaradit、Nan、Chiang Rai、Phayao
++
+6 – Nakhon Sawan、Uthai Thani、Kamphaeng Phet、Tak、Phichit、Sukhothai、Phitsanulok、Phetchabun
++
+7 – Ratchaburi、Samut Sokhon、Samut Songkhram、Nakhon Pathom、Suphan Buri、Kanchanaburi、Phetchaburi、Prachuap Khiri Khan
++
+8 – Nakhon Si Thammarat、Krabi、Phangnga、Ranong、Surat Thani、Chumphon、Phuket
++
+9 – Songkhla、Pattani、Yala、Narathiwat、Trang、Phatthalung、Satun
+
+实验电台:: E22AAA-E22AZZ
+
+=== 汤加（王国）
+
+业余电台:: A35后为2个字母
+
+实验电台:: A35后为3个字母，首字母须为字母X
+
+=== 特立尼达和多巴哥
+
+业余电台和 实验电台:: 9Y4AA-9Y4ZZ
+
+=== 突尼斯
+
+业余电台:: 3V8AA-3V8ZZ
+
+实验电台:: TS8AA-TS8ZZ
+
+=== 土耳其
+
+业余电台:: TA后为1位数字和一个不超过3个字母的组合
+
+=== 图瓦卢
+
+业余电台:: T20AA-T29ZZ
+
+实验电台:: T22AA-T29ZZ
+
+=== 乌干达（共和国）
+
+业余电台:: 5X5AA-5X5ZZ
+
+=== 乌克兰
+
+业余电台和 实验电台:: UR、US、UT、UU、UV、UW、UX、UY、UZ、EM、EN或EO后为1位数字 （0-9）和2或3个字母
+
+=== 阿拉伯联合酋长国
+
+业余电台:: A61后为一个不超过3个字母的组合
+
+实验电台:: A62后为一个不超过3个字母的组合
+
+=== 大不列颠及北爱尔兰联合王国
+
+[%unnumbered]
+|===
+2+^.^| 业余和实验电台
+^.^| 许可类型 ^.^| 呼号构成
+.2+| 全面/高级/俱乐部 {blank}footnote:i1[如持证者主电台地址或特殊比赛电台地址在下列地点并在此地址操作，按照以下详细清单，在上表呼号首字符后插入一个字母，以便对相关呼号予以修正：
+
+无 – England 
+
+U – Guernsey 
+
+D – Isle of Man 
+
+J – Jersey 
+
+I – Northern Ireland 
+
+M – Scotland 
+
+W – Wales] {blank}footnote:[如俱乐部呼号是在以下所列地点发布的，按照以下详细清单，在上表所述呼号首字符之后插入一个字母，以便对相关呼号予以修正：
+
+X – England 
+
+P – Guernsey 
+
+T – Isle of Man 
+
+H – Jersey 
+
+N – Northern Ireland 
+
+S – Scotland 
+
+C – Wales] | G后为1位数字 （1-8） 和2或3个字母
+| M后为1位数字 （0、1、5） 和3个字母
+| 中介 {blank}footnote:[当持证者主电台地址位于注1)所列地点并在该地点操作时，按照注1)详述清单，通过对上表所述呼号第2个字符的替代对相关呼号予以修正，但规定不对英格兰地址予以替代。] | 2E后为1位数字 （0、1） 和3个字母
+| 基础 {blank}footnote:i1[] | M3后为3个字母
+| 中继器电台 | GB3后为2个字母
+| 信标电台 | GB3后为3个字母
+| 数据分组节点电台 | GB7后为2个字母
+| 数据分组邮箱电台 | GB7后为3个字母
+| 自动位置报告系统出口局电台 | MB7U后为2个字母
+| 单工互联网出口局（无人职守）电台 | MB7I后为2个字母
+| 特殊活动电台（临时） | GB后为1位数字 （0-2、4-6、8） 和2或3个字母
+| 特殊 – 特殊活动电台（临时） | GB后为2或3位数 （0-9） 和2或3个字母
+| 特殊比赛电台（临时） | G后为1位数字 （0-9） 和1个字母 +
+M后为1位数字（0-9）和1个字母
+| Anguilla | VP2E后为2个字母
+| Montserrat | VP2M后为2个字母
+| British Virgin 群岛 | VP2V后为2个字母
+| Turks和Caicos岛 | VP5后为3个字母
+| Pitcairn岛及属地（Henderson、Ducie和Oeno岛） | VP6后为3个字母
+| Falkland群岛（Malvinas） 和属地 （South Georgia、South Sandwich岛） +
+南极领地
+| VP8后为3个字母 –  全面许可 +
+VP8后为4个字母 –  特殊许可 （144-146 MHz仅供本国使用，无审查）
+| Bermuda | VP9后为3个字母
+| Turks和Caicos岛 | VQ5后为3个字母
+| Cayman岛 | VQ6后为3个字母
+| 英国印度洋领地 （BIOT） （Diego Garcia和Chagos Archipelago） | VQ9后为3个字母
+| Gibraltar | ZB0、ZB2或ZB3后为3个字母
+| 英国主管部门基地，塞浦路斯 （Akrotiri和Dhekelia） | ZC4后为3个字母
+| Saint Helena | ZD7后为1至3个字母
+| Ascension岛 | ZD8后为1至3个字母
+| Tristan da Cunha和Gough岛 | ZD9后为1至3个字母
+| Cayman岛 – Grand Cayman | ZF1或ZF2后为3个字母
+| Cayman岛 – Little Cayman | ZF8后为3个字母
+| Cayman岛 – Cayman Brac | ZF9后为3个字母
+
+|===
+
+
+=== 美利坚合众国
+
+[%unnumbered]
+|===
+2+^.^| 业余电台
+| K0A-K9Z +
+N0A-N9Z +
+W0A-W9Z | 数字后字母X除外
+| K0AA-K9ZZZ +
+N0AA-N9ZZZ +
+W0AA-W9ZZZ .2+| 
+| AA0A-AL9ZZ +
+KA0A-KZ9ZZ +
+NA0A-NZ9ZZ +
+WA0A-WZ9ZZ
+| KA0AAA-KZ9ZZZ +
+WA0AAA-WZ9ZZZ | 数字后字母X除外
+2+^.^| 实验电台
+| AA2XAA-AE9XZZ +
+AL2XAA-AL9XZZ +
+KA2XAA-KZ9XZZ +
+WA2XAA-WZ9XZZ | 
+
+|===
+
+=== 乌拉圭（东岸共和国）
+
+业余电台:: CX后为1位数字（1-9）和一个不超过3个字母的组合，首字母表示电台 
++
+所处省
+
+实验电台:: CV、CW或CX后为1位数字（1-9）和一个不超过3个字母的组合
+
+=== 瓦努阿图（共和国）
+
+业余电台:: YJ8 后为2个字母（通常是许可无线电业余爱好者的姓名首字母） 
++
+YJ8N {blank}footnote:[用于入门者操作的业余电台。] 后为2个字母 
++
+YJ8V {blank}footnote:[用于有限许可持有者的业余电台（VHF）。] 后为2个字母
+
+=== 梵蒂冈城国
+
+业余电台:: HV后为1位数字和2个字母
+
+=== 委内瑞拉（玻利瓦尔共和国）
+
+业余电台:: YV、YX或4M后为1位数字和3个字母
+
+=== 越南（社会主义共和国）
+
+业余电台:: XV或3W后为1位数字（2-9，表示电台所处地区）和1至4个字母
+
+=== 赞比亚（共和国）
+
+业余电台:: 9J2后为2个字符，最后一个字符须为字母
+
+=== 津巴布韦（共和国）
+
+业余电台:: Z21AA-Z29ZZ
+
+<<<
+
+== 修正
+
+[%unnumbered]
+|===
+^.^h| 修正编号 ^.^h| 操作公报期号 ^.^h| 主管部门
+^.^| 1 | | 
+^.^| 2 | | 
+^.^| 3 | | 
+^.^| 4 | | 
+^.^| 5 | | 
+^.^| 6 | | 
+^.^| 7 | | 
+^.^| 8 | | 
+^.^| 9 | | 
+^.^| 10 | | 
+^.^| 11 | | 
+^.^| 12 | | 
+^.^| 13 | | 
+^.^| 14 | | 
+^.^| 15 | | 
+^.^| 16 | | 
+^.^| 17 | | 
+^.^| 18 | | 
+^.^| 19 | | 
+^.^| 20 | | 
+^.^| 21 | | 
+^.^| 22 | | 
+^.^| 23 | | 
+^.^| 24 | | 
+^.^| 25 | | 
+^.^| 26 | | 
+^.^| 27 | | 
+^.^| 28 | | 
+^.^| 29 | | 
+^.^| 30 | | 
+
+|===
+

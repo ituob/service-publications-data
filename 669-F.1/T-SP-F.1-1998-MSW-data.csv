@@ -1,7 +1,7 @@
 ﻿METADATA,,,,,,,,
 title.en,Countries or geographical areas for which information regarding cessation of telex service has been published in the ITU Operational Bulletin (No.),,,,,,,
 title.fr,Pays ou zones géographiques pour lesquels des renseignements relatifs à la cessation du service télex ont été publiés dans le bulletin d'exploitation de l'UIT (No),,,,,,,
-title.es,Países o zonas geográficas para los cuales una información sobre la cesación de servicio de télex ha sido publicada en el Boletín de Explotación de la UIT (N.),,,,,,,
+title.es,Países o zonas geográficas para los cuales una información sobre la cesación de servicio de télex ha sido publicada en el Boletín de Explotación de la UIT (No),,,,,,,
 locale.coding.en,Coding,,,,,,,
 locale.coding.fr,Codage,,,,,,,
 locale.coding.es,SCODIFICACIÓN,,,,,,,
@@ -24,44 +24,44 @@ locale.circulation.en,CIRCULATION,,,,,,,
 locale.circulation.fr,ADRESSES,,,,,,,
 locale.circulation.es,CIRCULATION,,,,,,,
 locale.delay.en,DELAY,,,,,,,
-locale.delay.es,,,,,,,,
-locale.delay.fr,,,,,,,,
+locale.delay.es,RETRASO,,,,,,,
+locale.delay.fr,RETARD,,,,,,,
 locale.delivery.en,DELIVERY,,,,,,,
-locale.delivery.es,,,,,,,,
-locale.delivery.fr,,,,,,,,
+locale.delivery.es,ENTREGA,,,,,,,
+locale.delivery.fr,REMISE,,,,,,,
 locale.disposal.en,DISPOSAL,,,,,,,
-locale.disposal.es,,,,,,,,
-locale.disposal.fr,,,,,,,,
+locale.disposal.es,ENCAMINAMIENTO,,,,,,,
+locale.disposal.fr,ACHEMINEMENT,,,,,,,
 locale.duplications.en,DUPLICATIONS,,,,,,,
-locale.duplications.es,,,,,,,,
-locale.duplications.fr,,,,,,,,
+locale.duplications.es,DUPLICADOS,,,,,,,
+locale.duplications.fr,DUPLICATA,,,,,,,
 locale.enquiries.en,ENQUIRIES,,,,,,,
-locale.enquiries.es,,,,,,,,
-locale.enquiries.fr,,,,,,,,
+locale.enquiries.es,ENCUESTAS,,,,,,,
+locale.enquiries.fr,ENQUÊTES,,,,,,,
 locale.errors_mutilations_omissions.en,"ERRORS, MUTILATIONS, OMISSIONS",,,,,,,
-locale.errors_mutilations_omissions.es,,,,,,,,
-locale.errors_mutilations_omissions.fr,,,,,,,,
+locale.errors_mutilations_omissions.es,"ERRORES, ALTERACIONES, OMISIONES",,,,,,,
+locale.errors_mutilations_omissions.fr,"ERREURS, ALTÉRATIONS, OMISSIONS",,,,,,,
 locale.miscellaneous.en,MISCELLANEOUS,,,,,,,
-locale.miscellaneous.es,,,,,,,,
-locale.miscellaneous.fr,,,,,,,,
+locale.miscellaneous.es,VARIOS,,,,,,,
+locale.miscellaneous.fr,DIVERS,,,,,,,
 locale.refunds.en,REFUNDS,,,,,,,
-locale.refunds.es,,,,,,,,
-locale.refunds.fr,,,,,,,,
+locale.refunds.es,REEMBOLSOS,,,,,,,
+locale.refunds.fr,REMBOURSEMENTS,,,,,,,
 locale.registered_addresses.en,REGISTERED ADDRESSES,,,,,,,
-locale.registered_addresses.es,,,,,,,,
-locale.registered_addresses.fr,,,,,,,,
+locale.registered_addresses.es,DIRECCIONES REGISTRADAS,,,,,,,
+locale.registered_addresses.fr,ADRESSES ENREGISTREES,,,,,,,
 locale.repetitions_and_corrections.en,REPETITIONS AND CORRECTIONS,,,,,,,
-locale.repetitions_and_corrections.es,,,,,,,,
-locale.repetitions_and_corrections.fr,,,,,,,,
+locale.repetitions_and_corrections.es,REPETICIONES Y CORRECCIONES,,,,,,,
+locale.repetitions_and_corrections.fr,RÉPÉTITIONS ET CORRECTIONS,,,,,,,
 locale.restrictions.en,RESTRICTIONS,,,,,,,
-locale.restrictions.es,,,,,,,,
-locale.restrictions.fr,,,,,,,,
+locale.restrictions.es,RESTRICCIONES,,,,,,,
+locale.restrictions.fr,RESTRICTIONS,,,,,,,
 locale.telex.en,TELEX,,,,,,,
-locale.telex.es,,,,,,,,
-locale.telex.fr,,,,,,,,
+locale.telex.es,TÉLEX,,,,,,,
+locale.telex.fr,TELEX,,,,,,,
 locale.word_counts.en,WORD COUNTS,,,,,,,
-locale.word_counts.es,,,,,,,,
-locale.word_counts.fr,,,,,,,,
+locale.word_counts.es,COMPUTO DE PALABRAS,,,,,,,
+locale.word_counts.fr,COMPTE DES MOTS,,,,,,,
 ,,,,,,,,
 DATA,,,,,,,,
 code,section,field,field_desc.en,field_desc.fr,field_desc.es,message.en,message.fr,message.es
@@ -235,173 +235,173 @@ WOBAJ,decoding,,,,,Please obtain sender's name and address from the addressee.,P
 WOBMO,decoding,,,,,Sender cannot be found.,Expéditeur introuvable.,No podemos encontrar al expedidor.
 XEROJ,decoding,,,,,Your service advice not understood.,Votre avis de service non compris.,No comprendemos su aviso de servicio.
 YALRU,decoding,,,,,Telex subscriber __________ no longer in service.,Abonné télex __________ n’est plus en service.,Abonado télex __________ no está ya en servicio.
-APHAD,coding,accounts,,,,We are debiting you.,,
-PAJAV,coding,acknowledgement_of_receipt,,,,Addressee acknowledges receipt.,TODO,TODO
-PALAM,coding,acknowledgement_of_receipt,,,,Get addressee's acknowledgement of receipt.,,
-PALIL,coding,acknowledgement_of_receipt,,,,Good delivery receipt held for __________.,,
-ASSUM,coding,addresses,Address(es),Adresse(s),Dirección(es),Cannot give better address.,,
-ATFIX,coding,addresses,Address(es),Adresse(s),Dirección(es),Give full address.,,
-ATHAS,coding,addresses,Address(es),Adresse(s),Dirección(es),State name and address of sender.,,
-AYGUM,coding,addresses,Address(es),Adresse(s),Dirección(es),Please have address confirmed by sender.,,
-AZBIN,coding,addresses,Address(es),Adresse(s),Dirección(es),Sender's contact address is __________,,
-ATJAW,coding,addresses,Addressee,Destinataire,Destinatario,Give name of addressee.,,
-AYHAW,coding,addresses,Addressee,Destinataire,Destinatario,Read name of addressee __________.,,
-AYJET,coding,addresses,Destination,Destination,Punto de destino,Read telegraph office of destination as __________.,,
-AZFOP,coding,cancellations,Blank,Manque,Falta,"__________ blank, diverted.",,
-BACYS,coding,cancellations,Blank,Manque,Falta,Blank numbers __________.,,
-AZGUN,coding,cancellations,Cancellations,Annulations,Anulaciones,Cancel __________ for abstract and accounting purposes.,,
-AZJEW,coding,cancellations,Cancellations,Annulations,Anulaciones,"Cancel, error of service.",,
-AZKEG,coding,cancellations,Cancellations,Annulations,Anulaciones,Cancel our number __________.,,
-AZRED,coding,cancellations,Cancellations,Annulations,Anulaciones,"Cancel, misrouted.",,
-BABBA,coding,cancellations,Cancellations,Annulations,Anulaciones,Cancel at sender's request.,,
-BABSO,coding,cancellations,Cancellations,Annulations,Anulaciones,Telegram (or service telegram/advice) number __________ cancelled.,,
-BADPO,coding,cancellations,Cancellations,Annulations,Anulaciones,Shall we cancel?,,
-ENRAM,coding,circulation,,,,Propose diverting __________ traffic via you. Advice if you can clear without delay.,,
-EVLOW,coding,circulation,,,,"Your apparently miscirculated to us, message held awaiting your instructions.",,
-GYLIL,coding,delay,,,,Complaint of delay. Give time received and delivered (reforwarded) and explain any delay.,,
-HAGAS,coding,delay,,,,"Confirm time of acceptance __________, complaint of delay.",,
-HAPIG,coding,delay,,,,Delay due to __________.,,
-HETIN,coding,delay,,,,Explain delay.,,
-HOMAT,coding,delay,,,,No delay.,,
-JIHAW,coding,delivery,Non-delivery,,,Delivery office closed.,,
-JUFAR,coding,delivery,Non-delivery,,,__________ is a reply to your __________. Can you now deliver?,,
-OLMAD,coding,delivery,Non-delivery,,,"Address insufficient, we try delivery to __________. Correct if necessary.",,
-OLWAY,coding,delivery,Non-delivery,,,"Address unregistered, we try delivery to __________. Correct if necessary.",,
-ONKEY,coding,delivery,Non-delivery,,,Message unacknowledged after __________ transmissions. Please advise.,,
-OPBUN,coding,delivery,Non-delivery,,,__________ sender received advice by another route that message undelivered. Please investigate and reply quickly.,,
-OMKEW,coding,delivery,Complaints,,,Complaint of non-delivery. Give full particulars of delivery and say if addressee acknowledges receipt.,,
-JIDEW,coding,delivery,Effected delivery,,,Delivered to and accepted by __________.,,
-JIFAG,coding,delivery,Effected delivery,,,Delivered to registered address __________.,,
-JIJAY,coding,delivery,Effected delivery,,,Duly delivered.,,
-JUJEW,coding,delivery,Effected delivery,,,Message has been called for.,,
-JUKIT,coding,delivery,Effected delivery,,,Message received at __________ and delivered at __________.,,
-JYBAG,coding,delivery,Effected delivery,,,"Now delivered, called for.",,
-JYDOT,coding,delivery,Effected delivery,,,Now delivered to and accepted by __________. (_complete address_),,
-JYGUS,coding,delivery,Effected delivery,,,Now cleared to ship. Cancel advice of non-delivery.,,
-PYSAT,coding,delivery,Effected delivery,,,Delivered subsequently. Cancel advice of non-delivery.,,
-JAJAR,coding,delivery,Instructions of delivery,,,Can you now deliver?,,
-JAMEG,coding,delivery,Instructions of delivery,,,"__________ claimed registered address good, messages previously sent to same address duly delivered.",,
-JEHAT,coding,delivery,Instructions of delivery,,,Deliver to __________.,,
-JYSUM,coding,delivery,Instructions of delivery,,,Re-tender and advise.,,
-JARAG,coding,delivery,Misdelivery,,,__________ claims misdelivered. Give particulars of delivery.,,
-JOHAY,coding,delivery,Particulars of delivery,,,Give particulars of receipt and delivery.,,
-JOKID,coding,delivery,Particulars of delivery,,,State date and time of delivery.,,
-MAHPO,coding,delivery,Particulars of delivery,,,Why was it not delivered?,,
-OPKID,coding,delivery,Undelivered messages,,,Treat as non-delivery.,,
-OPSOP,coding,delivery,Undelivered messages,,,"Undelivered, addressee cannot be found.",,
-OPWIG,coding,delivery,Undelivered messages,,,"Undelivered, refused by addressee.",,
-ORDAD,coding,delivery,Undelivered messages,,,"Undelivered, addressee not on board.",,
-ORMAT,coding,delivery,Undelivered messages,,,"Undelivered, house closed; notice mailed.",,
-ORWON,coding,delivery,Undelivered messages,,,"Undelivered, owing to __________.",,
-OSHAT,coding,delivery,Undelivered messages,,,"Undelivered, returned by postal service, unclaimed.",,
-OSJOG,coding,delivery,Undelivered messages,,,"Undelivered, returned by postal service, unknown.",,
-OSMAW,coding,delivery,Undelivered messages,,,"Undelivered, several firms of that name.",,
-OSSUP,coding,delivery,Undelivered messages,,,"Undelivered, several streets of that name, district required.",,
-OTTAB,coding,delivery,Undelivered messages,,,"Undelivered, unable to contact telephone number.",,
-RACYB,coding,delivery,Undelivered messages,,,Still undelivered.,,
-RAFIS,coding,delivery,Undelivered messages,,,"Undelivered, not called for.",,
-RAFUJ,coding,delivery,Undelivered messages,,,"Undelivered, addressee absent.",,
-RAHOT,coding,delivery,Undelivered messages,,,"Undelivered, addressee left, forwarded by post to __________.",,
-RAJAJ,coding,delivery,Undelivered messages,,,"Undelivered, addressee unknown.",,
-RAJEV,coding,delivery,Undelivered messages,,,"Undelivered, addressee left for __________.",,
-RAJFU,coding,delivery,Undelivered messages,,,"Undelivered, addressee left without leaving address.",,
-REGAD,coding,delivery,Undelivered messages,,,"Undelivered, several persons of the same name.",,
-REJAB,coding,delivery,Undelivered messages,,,"Undelivered, ship out of range.",,
-REKEG,coding,delivery,Undelivered messages,,,"Undelivered, address insufficient.",,
-RICOD,coding,delivery,Undelivered messages,,,"Undelivered, address no longer registered.",,
-RIJAG,coding,delivery,Undelivered messages,,,"Undelivered, address not registered.",,
-RISOB,coding,delivery,Undelivered messages,,,"Undelivered, no house of that number.",,
-ROCOG,coding,delivery,Undelivered messages,,,"Undelivered, place, street, road, etc. unknown.",,
-ROFAB,coding,delivery,Undelivered messages,,,"Undelivered, not claimed on board.",,
-ROFER,coding,delivery,Undelivered messages,,,"Undelivered, ship already left.",,
-ROFJO,coding,delivery,Undelivered messages,,,"Undelivered, ship did not communicate.",,
-ROSOP,coding,delivery,Undelivered messages,,,Undelivered. Several ships of the same name. Please supply Nationality and/or Call sign.,,
-RUCMU,coding,delivery,Undelivered messages,,,"Undelivered, telephone number given in address does not correspond with the name of addressee.",,
-RUCOS,coding,delivery,Undelivered messages,,,"Undelivered, hotel, house, firm, etc. no longer exists.",,
-MANAG,coding,disposal,Information of forwarding,,,Forwarding by mail.,,
-MATIS,coding,disposal,Information of forwarding,,,__________ still on hand as communication not established since receipt. Message(s) will be retained for further trial unless otherwise instructed.,,
-MATMU,coding,disposal,Information of forwarding,,,Instruct us how to dispose of __________.,,
-MEGLA,coding,disposal,Information of forwarding,,,__________ was forwarded to __________ at __________.,,
-MAJPA,coding,disposal,Instructions of forwarding,,,Forward by mail.,,
-MEROW,coding,duplications,Duplications,,,__________ are identical.,,
-METAB,coding,duplications,Duplications,,,Duplicate delivered.,,
-MIHYT,coding,duplications,Duplications,,,Message number __________ is not duplicate of message number __________.,,
-MIJNU,coding,duplications,Duplications,,,We have two different messages under number __________. Give new number.,,
-MIHOB,coding,duplications,Cancellation of duplications,,,Message number __________ appears to have been received also under number __________. Shall we cancel latter copy?,,
-MIJEM,coding,duplications,Cancellation of duplications,,,Uncertain if following message (service advice)has been sent to you before. If previously received under another number cancel this copy and report.,,
-PASCA,coding,duplications,Cancellation of duplications,,,Transmitted twice; cancel second transmission.,,
-MIRZU,coding,enquiries,Questions,,,Can you explain?,,
-MOBAY,coding,enquiries,Questions,,,Can you trace?,,
-MOPYD,coding,enquiries,Questions,,,What is the name of the coast station?,,
-MORUG,coding,enquiries,Questions,,,What is the name of the ship station?,,
-MOYES,coding,enquiries,Enquiries,,,Give telegraph office of origin.,,
-MYBEG,coding,enquiries,Enquiries,,,Enquire and advise us.,,
-MYJUG,coding,enquiries,Enquiries,,,"Please report present status of enquiry, we are being pressed for a reply.",,
-MODAB,coding,enquiries,Replies,,,Case now closed.,,
-MOPOH,coding,enquiries,Replies,,,Following received from __________.,,
-NACBA,coding,enquiries,Replies,,,"We are enquiring, will reply as soon as possible.",,
-NACNE,coding,enquiries,Replies,,,We are enable to trace.,,
-NAFAC,coding,errors_mutilations_omissions,Errors,,,Addressee claims incorrect.,,
-NEDYF,coding,errors_mutilations_omissions,Errors,,,Error(s) made here and will be dealt with.,,
-NEFAT,coding,errors_mutilations_omissions,Errors,,,Error of service.,,
-NEMYD,coding,errors_mutilations_omissions,Errors,,,Place of destination unknown; we forwarded to __________. Correct if necessary.,,
-NODHE,coding,errors_mutilations_omissions,Errors,,,Sender's error.,,
-NIBYP,coding,errors_mutilations_omissions,Mutilations,,,Mutilated. Please repeat.,,
-NEDIB,coding,errors_mutilations_omissions,Omissions,,,Place of destination incomplete; there are several. Advise.,,
-NISER,coding,errors_mutilations_omissions,Omissions,,,Omitted.,,
-PEZES,coding,refunds,,,,We are refunding.,,
-PEZIH,coding,refunds,,,,Refund is authorized.,,
-PEZJU,coding,refunds,,,,Refund is not authorized.,,
-PEZVE,coding,refunds,,,,Telegram service not at fault.,,
-PEZYV,coding,refunds,,,,Refund of charges are in order for any special service relating to the radiotelegram that have not been carried out.,,
-PIDUD,coding,refunds,,,,Sender applies for refund of message charges. Please authorize.,,
-PAMNO,coding,registered_addresses,,,,__________ is registered for __________.,,
-PATAB,coding,registered_addresses,,,,Supply unpacked address for __________.,,
-PITUG,coding,repetitions_and_corrections,Confirmations,,,Sender's confirmation.,,
-POSRA,coding,repetitions_and_corrections,Copies,,,Herewith copy __________.,,
-POFIH,coding,repetitions_and_corrections,Corrections,,,Correct if necessary.,,
-POHCO,coding,repetitions_and_corrections,Corrections,,,Correction made by sender.,,
-POHEG,coding,repetitions_and_corrections,Corrections,,,Correct on our copy.,,
-POMDU,coding,repetitions_and_corrections,Corrections,,,Delete CTF (Correction to follow) in service instructions.,,
-POMZO,coding,repetitions_and_corrections,Corrections,,,"__________ forwarded ""subject to correction"" for __________.",,
-PONEB,coding,repetitions_and_corrections,Corrections,,,Forward (or deliver) correction.,,
-PUFOB,coding,repetitions_and_corrections,Corrections,,,"Is this message still ""subject to correction""?",,
-RAMUZ,coding,repetitions_and_corrections,Corrections,,,Subject to correction.,,
-ROFUN,coding,repetitions_and_corrections,Corrections,,,Your BQ makes no correction.,,
-ROKEW,coding,repetitions_and_corrections,Corrections,,,Your service advice corrected and forwarded.,,
-POSAG,coding,repetitions_and_corrections,"Reference to sender, etc.",,,Consult sender.,,
-PUCUD,coding,repetitions_and_corrections,"Reference to sender, etc.",,,Indistinctly written.,,
-PYBIN,coding,repetitions_and_corrections,"Reference to sender, etc.",,,Office of addressees closed.,,
-POHOC,coding,repetitions_and_corrections,Repetitions,,,Do not understand your service advice. Repeat references.,,
-RAFSO,coding,repetitions_and_corrections,Reminder (non-reply),,,Second application.,,
-RATEB,coding,repetitions_and_corrections,Reminder (non-reply),,,Third application.,,
-BINZA,coding,restrictions,,,,Recognized Operating Agency (ROA) does not admit this class of traffic.,,
-YALRU,coding,telex,,,,Telex subscriber __________ no longer in service.,,
-CEPAD,coding,word_counts,,,,In our number __________ number of words __________ correct.,,
-CESAP,coding,word_counts,,,,Wrong number of words __________ actuals received.,,
-CODUN,coding,word_counts,,,,Read number of words in __________ as __________.,,
-TUHRU,coding,miscellaneous,Agreement,,,Say if in agreement.,,
-TUNHO,coding,miscellaneous,Agreement,,,We are in agreement.,,
-TUNVU,coding,miscellaneous,Agreement,,,We are not in agreement.,,
-UDFOG,coding,miscellaneous,Attention,,,Please have it attended to immediately.,,
-UGJAW,coding,miscellaneous,Complaints / Enquiries,,,Complaint has been made.,,
-USLEG,coding,miscellaneous,Complaints / Enquiries,,,"Case under investigation, will reply as soon as possible.",,
-USTIN,coding,miscellaneous,Complaints / Enquiries,,,Please investigate and reply as soon as possible.,,
-UHYON,coding,miscellaneous,Copy/Copies,,,Missing __________. Please supply copy quickly.,,
-UJDUD,coding,miscellaneous,Copy/Copies,,,__________ missing. Please supply copy quickly preceded by reference of this service advice.,,
-UPBAG,coding,miscellaneous,Information,,,For your information.,,
-WAJGU,coding,miscellaneous,References,,,Give reference.,,
-WALAG,coding,miscellaneous,References,,,Reference is correct.,,
-WALEM,coding,miscellaneous,References,,,Reference is wrong.,,
-WALOS,coding,miscellaneous,References,,,Referring to our __________.,,
-WALPU,coding,miscellaneous,References,,,Referring to your __________.,,
-WEJYV,coding,miscellaneous,References,,,"Reference incorrect. Give number, date, time of handing in, and say by which channel/route sent.",,
-TOPMO,coding,miscellaneous,Various,,,Acknowledge this notification.,,
-UKTAB,coding,miscellaneous,Various,,,Have you any record of such a message having been filed (received)?,,
-UTCOD,coding,miscellaneous,Various,,,Use the code.,,
-VEBET,coding,miscellaneous,Various,,,Please do needful.,,
-VUSOB,coding,miscellaneous,Various,,,Read telegraph office of origin __________.,,
-WAJEJ,coding,miscellaneous,Various,,,Please give prefix number or channel sequence number under which the transit telegram referred to was sent forward to its destination or next transit point.,,
-WOBAJ,coding,miscellaneous,Various,,,Please obtain sender's name and address from the addressee.,,
-WOBMO,coding,miscellaneous,Various,,,Sender cannot be found.,,
-XEROJ,coding,miscellaneous,Various,,,Your service advice not understood.,,
+APHAD,coding,accounts,,,,We are debiting you.,Nous vous débitons.,Les cargamos en cuenta.
+PAJAV,coding,acknowledgement_of_receipt,,,,Addressee acknowledges receipt.,Destinataire accuse réception.,Destinatario acusa recibo.
+PALAM,coding,acknowledgement_of_receipt,,,,Get addressee's acknowledgement of receipt.,Demandez accusé de réception au destinataire.,Pidan acuse de recibo al destinatario.
+PALIL,coding,acknowledgement_of_receipt,,,,Good delivery receipt held for __________.,Avons accusé de réception pour __________.,Tenemos acuse recibo para __________.
+ASSUM,coding,addresses,Address(es),Adresse(s),Dirección(es),Cannot give better address.,Ne pouvons donner meilleure adresse.,No podemos dar mejor dirección.
+ATFIX,coding,addresses,Address(es),Adresse(s),Dirección(es),Give full address.,Donnez adresse complète.,Comuniquen dirección completa.
+ATHAS,coding,addresses,Address(es),Adresse(s),Dirección(es),State name and address of sender.,Communiquez nom et adresse de l’expéditeur.,Comuniquen nombre y dirección del expedidor.
+AYGUM,coding,addresses,Address(es),Adresse(s),Dirección(es),Please have address confirmed by sender.,Prière faire confirmer adresse par l’expéditeur.,Rogamos hagan confirmar la dirección al expedidor.
+AZBIN,coding,addresses,Address(es),Adresse(s),Dirección(es),Sender's contact address is __________,Expéditeur peut être touché à l’adresse __________.,Puede encontrarse al expedidor en __________.
+ATJAW,coding,addresses,Addressee,Destinataire,Destinatario,Give name of addressee.,Donnez le nom du destinataire.,Comuniquen nombre del destinatario.
+AYHAW,coding,addresses,Addressee,Destinataire,Destinatario,Read name of addressee __________.,Lire nom du destinataire __________.,Lean el nombre del destinatario __________.
+AYJET,coding,addresses,Destination,Destination,Punto de destino,Read telegraph office of destination as __________.,Lire bureau télégraphique de destination __________.,Lean oficina telegráfica de destino __________.
+AZFOP,coding,cancellations,Blank,Manque,Falta,"__________ blank, diverted.","__________ manque, dévié.","__________ falta, desviado."
+BACYS,coding,cancellations,Blank,Manque,Falta,Blank numbers __________.,Manquent les numéros __________.,Faltan los números __________.
+AZGUN,coding,cancellations,Cancellations,Annulations,Anulaciones,Cancel __________ for abstract and accounting purposes.,Annulez __________ pour la comptabilité.,Anulen __________ para contabilidad.
+AZJEW,coding,cancellations,Cancellations,Annulations,Anulaciones,"Cancel, error of service.","Annulez, erreur de service.","Anulen, error de servicio."
+AZKEG,coding,cancellations,Cancellations,Annulations,Anulaciones,Cancel our number __________.,Annulez notre numéro __________.,Anulen nuestro número __________.
+AZRED,coding,cancellations,Cancellations,Annulations,Anulaciones,"Cancel, misrouted.","Annulez, erreur d’acheminement.",Anulen. Error de encaminamiento.
+BABBA,coding,cancellations,Cancellations,Annulations,Anulaciones,Cancel at sender's request.,Annulez sur demande de l’expéditeur.,Anulen a petición del expedidor.
+BABSO,coding,cancellations,Cancellations,Annulations,Anulaciones,Telegram (or service telegram/advice) number __________ cancelled.,Télégramme (ou télégramme de service/avis de service) numéro __________ annulé.,Telegrama (o telegrama de servicio/aviso de servicio) número __________ anulado.
+BADPO,coding,cancellations,Cancellations,Annulations,Anulaciones,Shall we cancel?,Devons-nous annuler?,?Debemos anular?
+ENRAM,coding,circulation,,,,Propose diverting __________ traffic via you. Advice if you can clear without delay.,Proposons de dévier __________ trafic sur vous; faites savoir si pouvez acheminer sans délai.,Proponemos desviación tráfico __________ hacia ustedes; avisen si pueden encaminarlo sin retraso.
+EVLOW,coding,circulation,,,,"Your apparently miscirculated to us, message held awaiting your instructions.","Votre __________semble avoir été dirigé sur nous par erreur, message en instance en attendant vos instructions.","Su __________ parece dirigido a nosotros por error, detenemos mensaje en espera sus instrucciones."
+GYLIL,coding,delay,,,,Complaint of delay. Give time received and delivered (reforwarded) and explain any delay.,Plainte pour retard. Donnez heure de réception et de remise (ou de retransmission) et expliquez tout retard.,Reclamación por retraso. Indiquen hora de recepción y entrega (o de retransmisión) y expliquen el retraso.
+HAGAS,coding,delay,,,,"Confirm time of acceptance __________, complaint of delay.","Confirmez heure de dépôt __________, plainte pour retard.","Confirmen hora depósito __________, reclamación por retraso."
+HAPIG,coding,delay,,,,Delay due to __________.,Retard dû à __________.,Retraso debido a __________.
+HETIN,coding,delay,,,,Explain delay.,Expliquez retard.,Expliquen retraso.
+HOMAT,coding,delay,,,,No delay.,Pas de retard.,Sin retraso.
+JIHAW,coding,delivery,Non-delivery,Non-remise,No entrega,Delivery office closed.,Bureau de distribution fermé.,Oficina de distribución cerrada.
+JUFAR,coding,delivery,Non-delivery,Non-remise,No entrega,__________ is a reply to your __________. Can you now deliver?,__________ est une réponse à votre __________. Pouvez-vous remettre maintenant?,__________ es respuesta a su __________. ¿Pueden entregarlo ahora? 
+OLMAD,coding,delivery,Non-delivery,Non-remise,No entrega,"Address insufficient, we try delivery to __________. Correct if necessary.","Adresse insuffisante, nous essayons de remettre à __________. Corrigez si nécessaire.","Dirección insuficiente, intentamos su entrega a  __________. Rectifiquen si es necesario."
+OLWAY,coding,delivery,Non-delivery,Non-remise,No entrega,"Address unregistered, we try delivery to __________. Correct if necessary.","Adresse non enregistrée, nous essayons de remettre à __________. Corrigez si nécessaire.","Dirección no registrada, intentamos su entrega a  __________. Rectifiquen si es necesario"
+ONKEY,coding,delivery,Non-delivery,Non-remise,No entrega,Message unacknowledged after __________ transmissions. Please advise.,Pas reçu accusé de réception après __________transmissions. Prière renseigner.,No recibido acuse recibo después de __________transmisiones. Sírvanse informar.
+OPBUN,coding,delivery,Non-delivery,Non-remise,No entrega,__________ sender received advice by another route that message undelivered. Please investigate and reply quickly.,__________ expéditeurs ont reçu avis par autre voie que message non-remis. Prière enquêter et répondre rapidement.,
+OMKEW,coding,delivery,Complaints,Réclamations,Reclamaciones,Complaint of non-delivery. Give full particulars of delivery and say if addressee acknowledges receipt.,Réclamation pour non-remise. Donnez tous détails sur remise et dites si le destinataire accuse réception.,__________ expedidores han recibido aviso por otra ruta de que su mensaje no ha sido entregado. Rogamos investiguen y respondan urgentemente.
+JIDEW,coding,delivery,Effected delivery,Remis effectuée,Entrega efectuada,Delivered to and accepted by __________.,Remis à et accepté par ___________.,Entregado y aceptado por ___________.
+JIFAG,coding,delivery,Effected delivery,Remis effectuée,Entrega efectuada,Delivered to registered address __________.,Remis à  l’adresse  enregistrée __________.,Entregado en la dirección registrada __________.
+JIJAY,coding,delivery,Effected delivery,Remis effectuée,Entrega efectuada,Duly delivered.,Dûment remis.,Debidamente entregado.
+JUJEW,coding,delivery,Effected delivery,Remis effectuée,Entrega efectuada,Message has been called for.,Message a été réclamé.,Se ha reclamado mensaje.
+JUKIT,coding,delivery,Effected delivery,Remis effectuée,Entrega efectuada,Message received at __________ and delivered at __________.,Message reçu à __________ et remis à __________.,Telegrama recibido a las __________ y entregado a las __________.
+JYBAG,coding,delivery,Effected delivery,Remis effectuée,Entrega efectuada,"Now delivered, called for.","Maintenant remis, réclamé.","Entregado ya, reclamado."
+JYDOT,coding,delivery,Effected delivery,Remis effectuée,Entrega efectuada,Now delivered to and accepted by __________. (_complete address_),Maintenant remis et accepté par __________. (adresse complète),Entregado ya y aceptado por __________. (dirección completa)
+JYGUS,coding,delivery,Effected delivery,Remis effectuée,Entrega efectuada,Now cleared to ship. Cancel advice of non-delivery.,Maintenant transmis au navire. Annulez l’avis de non-remise.,Ya transmitido al barco. Anule aviso de no entrega.
+PYSAT,coding,delivery,Effected delivery,Remis effectuée,Entrega efectuada,Delivered subsequently. Cancel advice of non-delivery.,Remis postérieurement. Annulez avis de non-remise.,Entregado posteriormente. Anulen aviso de no entrega.
+JAJAR,coding,delivery,Instructions of delivery,Instructions  de remise,Instrucciones de entrega,Can you now deliver?,Le télégramme peut-il maintenant être remis?,¿Pueden entregar ahora el telegrama?
+JAMEG,coding,delivery,Instructions of delivery,Instructions  de remise,Instrucciones de entrega,"__________ claimed registered address good, messages previously sent to same address duly delivered.","__________ déclare adresse enregistrée bonne, messages précédemment expédiés même adresse dûment remis.","__________ declara que la dirección registrada es correcta, telegramas anteriores enviados misma dirección se entregaron debidamente."
+JEHAT,coding,delivery,Instructions of delivery,Instructions  de remise,Instrucciones de entrega,Deliver to __________.,Remettez à __________.,Entreguen a __________.
+JYSUM,coding,delivery,Instructions of delivery,Instructions  de remise,Instrucciones de entrega,Re-tender and advise.,Présentez de nouveau et avisez.,Vuelvan a presentarlo e informen.
+JARAG,coding,delivery,Misdelivery,Erreurs de remise,Errores de entrega,__________ claims misdelivered. Give particulars of delivery.,__________déclare mal remis. Donnez détails sur remise.,__________declara mal entregado. Den detalles entrega.
+JOHAY,coding,delivery,Particulars of delivery,Détails de remise,Detalles de entrega,Give particulars of receipt and delivery.,Donnez détails de réception et de remise.,Den detalles de recepción y entrega.
+JOKID,coding,delivery,Particulars of delivery,Détails de remise,Detalles de entrega,State date and time of delivery.,Communiquez date et heure de remise.,Comuniquen fecha y hora de entrega.
+MAHPO,coding,delivery,Particulars of delivery,Détails de remise,Detalles de entrega,Why was it not delivered?,Pourquoi n’a-t-il pas été remis?,¿Por qué no ha sido entregado?
+OPKID,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,Treat as non-delivery.,Traitez comme une «non-remise».,Considérenle como no entregado.
+OPSOP,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, addressee cannot be found.","Non remis, destinataire introuvable.","No entregado, no se encuentra al destinatario"
+OPWIG,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, refused by addressee.","Non remis, refusé par le destinataire.","No entregado, no se encuentra al destinatario"
+ORDAD,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, addressee not on board.","Non remis, destinataire pas à  bord.","No entregado, destinatario no se halla a bordo."
+ORMAT,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, house closed; notice mailed.","Non remis, maison fermée; avis envoyé par poste.","No entregado, casa cerrada, enviado aviso postal."
+ORWON,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, owing to __________.",Non remis à cause de __________.,No entregado a causa de __________.
+OSHAT,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, returned by postal service, unclaimed.","Non remis, renvoyé par service postal, non réclamé.","No entregado, devuelto por correos, no reclamado."
+OSJOG,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, returned by postal service, unknown.","Non remis, renvoyé par service postal, inconnu.","No entregado, devuelto por correos, desconocido."
+OSMAW,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, several firms of that name.","Non remis, plusieurs firmes de ce nom.","No entregado, varias firmas con el mismo nombre."
+OSSUP,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, several streets of that name, district required.","Non remis, plusieurs rues de ce nom; indiquez arrondissement (ou quartier, district, etc.).","No entregado, varias calles del mismo nombre. Indiquen distrito (o barrio, etc.)."
+OTTAB,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, unable to contact telephone number.","Non remis, impossible atteindre numéro de téléphone.","No entregado, imposible comunicar con número teléfono."
+RACYB,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,Still undelivered.,Toujours non remis.,Continúa sin entregar.
+RAFIS,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, not called for.","Non remis, pas réclamé.","Sin entregar, no reclamado."
+RAFUJ,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, addressee absent.","Non remis, destinataire absent.","No entregado, destinatario ausente."
+RAHOT,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, addressee left, forwarded by post to __________.","Non remis, destinataire parti, réexpédié par poste à __________.","No entregado, destinatario marchó, reexpedido por correo a __________."
+RAJAJ,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, addressee unknown.","Non remis, destinataire inconnu.","No entregado, destinatario desconocido."
+RAJEV,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, addressee left for __________.","Non remis, destinataire parti pour __________.","No entregado, destinatario marchó a __________."
+RAJFU,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, addressee left without leaving address.","Non remis, destinataire parti sans laisser d’adresse.","No entregado, destinatario marchó sin dejar señas."
+REGAD,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, several persons of the same name.","Non remis, plusieurs personnes de ce nom.","No entregado, varias personas del mismo nombre."
+REJAB,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, ship out of range.","Non remis, navire hors d’atteinte.","No entregado,  barco fuera de alcance."
+REKEG,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, address insufficient.","Non remis, adresse insuffisante.","No entregado, dirección insuficiente"
+RICOD,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, address no longer registered.","Non remis, adresse n’est plus enregistrée.","No entregado, dirección caducada."
+RIJAG,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, address not registered.","Non remis, adresse pas enregistrée.","No entregado, dirección no registrada."
+RISOB,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, no house of that number.","Non remis, numéro de maison n’existe pas.","No entregado, no existe tal número de casa."
+ROCOG,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, place, street, road, etc. unknown.","Non remis, place, rue, avenue, etc., inconnue.","No entregado, plaza, calle, avenida, etc., desconocida."
+ROFAB,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, not claimed on board.","Non remis, non réclamé à bord.","No entregado, no reclamado a bordo."
+ROFER,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, ship already left.","Non remis, navire déjà parti.","No entregado, barco ya zarpado."
+ROFJO,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, ship did not communicate.","Non remis, navire ne s’est pas annoncé.","No entregado, el barco no se ha anunciado."
+ROSOP,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,Undelivered. Several ships of the same name. Please supply Nationality and/or Call sign.,Non remis. Plusieurs bateaux de même nom. Prière fournir nationalité et/ou indicatif d’appel.,"No entregado. Hay varios barcos de igual nombre. Sírvanse indicar nacionalidad, distintivo de llamada o ambas cosas."
+RUCMU,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, telephone number given in address does not correspond with the name of addressee.","Non remis, numéro de téléphone indiqué dans l’adresse ne correspond pas au nom du destinataire.","No entregado, número de teléfono indicado en dirección no corresponde al nombre del destinatario."
+RUCOS,coding,delivery,Undelivered messages,Message de non-remise,Mensaje de no entrega ,"Undelivered, hotel, house, firm, etc. no longer exists.","Non remis, hôtel, maison, firme, etc., n’existe plus.","No entregado, ya no existe el hotel (casa, firma, etc.)."
+MANAG,coding,disposal,Information of forwarding,Information de retransmission,Información de retransmisión,Forwarding by mail.,Faisons suivre par poste.,Se cursa por correo.
+MATIS,coding,disposal,Information of forwarding,Information de retransmission,Información de retransmisión,__________ still on hand as communication not established since receipt. Message(s) will be retained for further trial unless otherwise instructed.,__________ toujours en mains aucun contact n’a été établi depuis réception.  Message(s) sera(seront) conservé(s) pour nouvel essai à  moins d’instructions différentes.,__________ todavía por cursa ya que no se ha establecido la comunicación desde su recepción. El (los) mensaje(s) se guarda(n) para otros intentos a menos que se reciban otras instrucciones.
+MATMU,coding,disposal,Information of forwarding,Information de retransmission,Información de retransmisión,Instruct us how to dispose of __________.,Dites-nous que faire de __________?,Digan cómo curso __________.
+MEGLA,coding,disposal,Information of forwarding,Information de retransmission,Información de retransmisión,__________ was forwarded to __________ at __________.,__________ a été acheminé sur __________ à __________.,__________ fue cursado a  __________ a las __________.
+MAJPA,coding,disposal,Instructions of forwarding,Instructions de retransmission,Instrucciones de retransmisión,Forward by mail.,Faites suivre par poste.,Cursen por correo.
+MEROW,coding,duplications,Duplications,Duplicata,Duplicados,__________ are identical.,__________ sont identiques.,__________ son idénticos.
+METAB,coding,duplications,Duplications,Duplicata,Duplicados,Duplicate delivered.,Duplicata remis.,Entregado duplicado.
+MIHYT,coding,duplications,Duplications,Duplicata,Duplicados,Message number __________ is not duplicate of message number __________.,Message numéro __________ n’est pas duplicata du message numéro __________.,Mensaje número __________ no es duplicado del mensaje número __________.
+MIJNU,coding,duplications,Duplications,Duplicata,Duplicados,We have two different messages under number __________. Give new number.,Nous avons deux messages différents sous le numéro __________. Donnez nouveau numéro.,Tenemos dos mensajes distintos con el número __________. Sírvanse dar nuevo número.
+MIHOB,coding,duplications,Cancellation of duplications,Annulation de duplicata,Anulación de duplicados,Message number __________ appears to have been received also under number __________. Shall we cancel latter copy?,Message numéro __________ semble avoir été également reçu sous numéro __________. Devons-nous annuler cette dernière réception?,Mensaje número __________ parece haberse recibido también bajo el número __________. ¿Debemos anularlo?
+MIJEM,coding,duplications,Cancellation of duplications,Annulation de duplicata,Anulación de duplicados,Uncertain if following message (service advice)has been sent to you before. If previously received under another number cancel this copy and report.,"Ne sommes pas certains que ce message (cet avis de service) vous a déjà été transmis. Si vous l’avez reçu précédemment sous un autre numéro, annulez cette copie. Donnez réponse.",No sabemos si mensaje (aviso de servicio) siguiente se les ha cursado ya. Si lo han recibido ya con otro número anulen esta copia y avisen. 
+PASCA,coding,duplications,Cancellation of duplications,Annulation de duplicata,Anulación de duplicados,Transmitted twice; cancel second transmission.,Transmis deux fois; annulez deuxième transmission.,Transmitido dos veces; anulen segunda transmisión.
+MIRZU,coding,enquiries,Questions,Questions,Preguntas,Can you explain?,Pouvez-vous expliquer?,¿Pueden explicar?
+MOBAY,coding,enquiries,Questions,Questions,Preguntas,Can you trace?,Pouvez-vous retrouver?,¿Pueden investigar?
+MOPYD,coding,enquiries,Questions,Questions,Preguntas,What is the name of the coast station?,Quel est le nom de la station côtière?,¿Cómo se llama la estación costera?
+MORUG,coding,enquiries,Questions,Questions,Preguntas,What is the name of the ship station?,Quel est le nom de la station de navire?,¿Cómo se llama la estación de barco?
+MOYES,coding,enquiries,Enquiries,Enquêtes,Encuestas,Give telegraph office of origin.,Indiquez bureau télégraphique d’origine.,Indiquen oficina telegráfica de origen.
+MYBEG,coding,enquiries,Enquiries,Enquêtes,Encuestas,Enquire and advise us.,Informez-vous (ou enquêtez) et avisez-nous.,Averigüen e informen.
+MYJUG,coding,enquiries,Enquiries,Enquêtes,Encuestas,"Please report present status of enquiry, we are being pressed for a reply.",Où en est l’enquête? On nous presse de répondre.,¿Que han averiguado? Nos piden respuesta.
+MODAB,coding,enquiries,Replies,Réponses,Respuestas,Case now closed.,Affaire terminée.,Asunto resuelto.
+MOPOH,coding,enquiries,Replies,Réponses,Respuestas,Following received from __________.,Reçu ce qui suit de __________.,Recibido de __________lo siguiente.
+NACBA,coding,enquiries,Replies,Réponses,Respuestas,"We are enquiring, will reply as soon as possible.","Enquêtons, répondrons aussitôt que possible.","Indagamos, contestaremos en cuanto sea posible."
+NACNE,coding,enquiries,Replies,Réponses,Respuestas,We are enable to trace.,Ne pouvons retrouver.,No podemos localizar.
+NAFAC,coding,errors_mutilations_omissions,Errors,Erreurs,Errores,Addressee claims incorrect.,Destinataire prétend incorrect.,Destinatario pretende que es incorrecto.
+NEDYF,coding,errors_mutilations_omissions,Errors,Erreurs,Errores,Error(s) made here and will be dealt with.,Erreur(s) faite(s) ici. Mesures seront prises.,Error(es) cometido(s) aquí. Se subsanará(n).
+NEFAT,coding,errors_mutilations_omissions,Errors,Erreurs,Errores,Error of service.,Erreur de service.,Error de servicio.
+NEMYD,coding,errors_mutilations_omissions,Errors,Erreurs,Errores,Place of destination unknown; we forwarded to __________. Correct if necessary.,Lieu de destination inconnu; nous dirigeons sur __________. Rectifiez si utile.,Punto de destino desconocido. Cursamos a  __________. Rectifiquen si es necesario.
+NODHE,coding,errors_mutilations_omissions,Errors,Erreurs,Errores,Sender's error.,Erreur de l’expéditeur.,Error del expedidor.
+NIBYP,coding,errors_mutilations_omissions,Mutilations,Altérations,Alteraciones,Mutilated. Please repeat.,Mutilé. Prière répéter.,Mutilado. Rogamos repitan.
+NEDIB,coding,errors_mutilations_omissions,Omissions,Omissions,Omisiones,Place of destination incomplete; there are several. Advise.,"Lieu de destination incomplet, il y en a plusieurs. Renseignez.","Lugar de destino incompleto, existen varios. Sírvanse informar."
+NISER,coding,errors_mutilations_omissions,Omissions,Omissions,Omisiones,Omitted.,Omis.,Omitido.
+PEZES,coding,refunds,,,,We are refunding.,Nous remboursons.,Reembolsamos.
+PEZIH,coding,refunds,,,,Refund is authorized.,Remboursement autorisé.,Autorizado reembolso.
+PEZJU,coding,refunds,,,,Refund is not authorized.,Remboursement non autorisé.,No se autoriza el reembolso.
+PEZVE,coding,refunds,,,,Telegram service not at fault.,Service télégraphique pas en faute.,No es culpa servicio telegráfico.
+PEZYV,coding,refunds,,,,Refund of charges are in order for any special service relating to the radiotelegram that have not been carried out.,Remboursement des taxes est en règle en ce qui concerne les services spéciaux non rendus relatifs aux radiotélégrammes.,Se acepta el reembolso de las tasas en lo que respecta a los servicios especiales no efectuados relativos a los radiotelegramas.
+PIDUD,coding,refunds,,,,Sender applies for refund of message charges. Please authorize.,Expéditeur demande remboursement des taxes du message. Prière autoriser.,Expedidor pide reembolso importe mensaje. Rogamos autorización.
+PAMNO,coding,registered_addresses,,,,__________ is registered for __________.,__________ est enregistré pour __________.,__________ registrada para __________.
+PATAB,coding,registered_addresses,,,,Supply unpacked address for __________.,Fournissez adresse développée de __________.,Comuniquen dirección completa de __________.
+PITUG,coding,repetitions_and_corrections,Confirmations,Confirmation,Confirmaciones,Sender's confirmation.,Confirmation donnée par l’expéditeur.,Confirmación dada por el expedidor.
+POSRA,coding,repetitions_and_corrections,Copies,Copies,Copias,Herewith copy __________.,Voici copie __________.,He aquí copia __________.
+POFIH,coding,repetitions_and_corrections,Corrections,Corrections,Correcciones,Correct if necessary.,Rectifiez si nécessaire.,Rectifiquen si es necesario.
+POHCO,coding,repetitions_and_corrections,Corrections,Corrections,Correcciones,Correction made by sender.,Correction faite par l’expéditeur.,Corrección hecha por el expedidor.
+POHEG,coding,repetitions_and_corrections,Corrections,Corrections,Correcciones,Correct on our copy.,Correct sur notre copie.,Correcto en nuestra copia.
+POMDU,coding,repetitions_and_corrections,Corrections,Corrections,Correcciones,Delete CTF (Correction to follow) in service instructions.,Biffer CTF (Rectification suivra) dans les mentions de service.,Borren CTF (Seguirá rectificación) en las menciones de servicio.
+POMZO,coding,repetitions_and_corrections,Corrections,Corrections,Correcciones,"__________ forwarded ""subject to correction"" for __________.",__________ est transmis «sujet à correction» pour __________.,__________ cursado «sujeto a corrección» para __________.
+PONEB,coding,repetitions_and_corrections,Corrections,Corrections,Correcciones,Forward (or deliver) correction.,Voici copie __________.,Cursen (entreguen) corrección.
+PUFOB,coding,repetitions_and_corrections,Corrections,Corrections,Correcciones,"Is this message still ""subject to correction""?",Ce message est-il toujours «sujet à correction»?,¿Sigue este telegrama «sujeto a corrección»?
+RAMUZ,coding,repetitions_and_corrections,Corrections,Corrections,Correcciones,Subject to correction.,Sujet à correction.,Sujeto a corrección.
+ROFUN,coding,repetitions_and_corrections,Corrections,Corrections,Correcciones,Your BQ makes no correction.,Votre BQ ne fait pas de correction.,Su BQ no rectifica nada.
+ROKEW,coding,repetitions_and_corrections,Corrections,Corrections,Correcciones,Your service advice corrected and forwarded.,Votre avis de service corrigé et retransmis.,Su aviso de servicio corregido y cursado.
+POSAG,coding,repetitions_and_corrections,"Reference to sender, etc.","Référence à l’expéditeur, etc.","Referencia al expedidor, etc.",Consult sender.,Consultez l’expéditeur.,Consulten al expedidor.
+PUCUD,coding,repetitions_and_corrections,"Reference to sender, etc.","Référence à l’expéditeur, etc.","Referencia al expedidor, etc.",Indistinctly written.,Écriture douteuse.,Consulten al expedidor.
+PYBIN,coding,repetitions_and_corrections,"Reference to sender, etc.","Référence à l’expéditeur, etc.","Referencia al expedidor, etc.",Office of addressees closed.,Bureau des destinataires fermé.,Oficina del destinatario cerrada.
+POHOC,coding,repetitions_and_corrections,Repetitions,Répétitions,Repeticiones,Do not understand your service advice. Repeat references.,Ne comprenons pas votre avis de service. Répétez les références.,No comprendemos su aviso de servicio. Sírvanse repetir referencias.
+RAFSO,coding,repetitions_and_corrections,Reminder (non-reply),Rappel (non-réponse),Recordatorio (No respuesta),Second application.,Deuxième demande.,Segunda petición.
+RATEB,coding,repetitions_and_corrections,Reminder (non-reply),Rappel (non-réponse),Recordatorio (No respuesta),Third application.,Troisième demande.,Tercera petición.
+BINZA,coding,restrictions,,,,Recognized Operating Agency (ROA) does not admit this class of traffic.,Exploitation reconnue (ER) n’admet pas cette catégorie de trafic.,Empresa de explotación reconocida (EER) no admite esta categoría de tráfico.
+YALRU,coding,telex,,,,Telex subscriber __________ no longer in service.,Abonné télex __________ n’est plus en service.,Abonado télex __________ no está ya en servicio.
+CEPAD,coding,word_counts,,,,In our number __________ number of words __________ correct.,Dans notre numéro __________nombre des mots __________ correct.,En nuestro número __________cómputo de palabras __________ correcto.
+CESAP,coding,word_counts,,,,Wrong number of words __________ actuals received.,Nombre des mots inexact __________ en fait reçu __________.,Número de palabras erróneo __________ recibidas ___________.
+CODUN,coding,word_counts,,,,Read number of words in __________ as __________.,En notre __________ lire le nombre des mots __________.,Cuenten __________ palabras en __________.
+TUHRU,coding,miscellaneous,Agreement,Accord,Acuerdo,Say if in agreement.,Prière dire si d’accord.,Digan si están de acuerdo.
+TUNHO,coding,miscellaneous,Agreement,Accord,Acuerdo,We are in agreement.,Nous sommes d’accord.,Estamos de acuerdo.
+TUNVU,coding,miscellaneous,Agreement,Accord,Acuerdo,We are not in agreement.,Nous ne sommes pas d’accord.,No estamos de acuerdo.
+UDFOG,coding,miscellaneous,Attention,Attention,Atención,Please have it attended to immediately.,Prière faire nécessaire immédiatement.,Rogamos lo atiendan inmediatamente.
+UGJAW,coding,miscellaneous,Complaints / Enquiries,Réclamations/enquêtes,Reclamaciones/encuestas,Complaint has been made.,Réclamation a été déposée.,Presentada reclamación
+USLEG,coding,miscellaneous,Complaints / Enquiries,Réclamations/enquêtes,Reclamaciones/encuestas,"Case under investigation, will reply as soon as possible.","Affaire sous enquête, répondrons dès que possible.","Se estudia el caso, responderemos lo antes posible."
+USTIN,coding,miscellaneous,Complaints / Enquiries,Réclamations/enquêtes,Reclamaciones/encuestas,Please investigate and reply as soon as possible.,Prière enquêter et répondre aussitôt que possible.,Rogamos investiguen y respondan lo antes posible.
+UHYON,coding,miscellaneous,Copy/Copies,Copie/Copies,Copia/Copias,Missing __________. Please supply copy quickly.,Manque __________. Prière donner rapidement copie.,Extraviado __________. Faciliten copia rápidamente.
+UJDUD,coding,miscellaneous,Copy/Copies,Copie/Copies,Copia/Copias,__________ missing. Please supply copy quickly preceded by reference of this service advice.,"Manque __________. Prière donner rapidement copie, précédée par référence de cet avis de service.","__________ extraviado, sírvanse facilitarnos una copia rápidamente precedida por la referencia de este aviso de servicio."
+UPBAG,coding,miscellaneous,Information,Renseignements,Información,For your information.,Pour votre information.,Para su conocimiento.
+WAJGU,coding,miscellaneous,References,Référence,Referencia,Give reference.,Donnez référence.,Sírvanse dar referencia.
+WALAG,coding,miscellaneous,References,Référence,Referencia,Reference is correct.,Référence est correcte.,La referencia es correcta.
+WALEM,coding,miscellaneous,References,Référence,Referencia,Reference is wrong.,Référence est fausse.,La referencia es errónea.
+WALOS,coding,miscellaneous,References,Référence,Referencia,Referring to our __________.,Se référant à notre __________.,Con referencia a nuestro __________.
+WALPU,coding,miscellaneous,References,Référence,Referencia,Referring to your __________.,Se référant à votre __________.,Con referencia a su __________.
+WEJYV,coding,miscellaneous,References,Référence,Referencia,"Reference incorrect. Give number, date, time of handing in, and say by which channel/route sent.","Référence fausse. Donnez numéro, date, heure de dépôt et dites par quel canal/voie transmis.","Referencia errónea. Indiquen número, fecha y hora de depósito, y digan por qué canal/ruta se transmitió."
+TOPMO,coding,miscellaneous,Various,Divers,Varios,Acknowledge this notification.,Accusez réception de cette notification.,Acusen recibo de esta comunicación.
+UKTAB,coding,miscellaneous,Various,Divers,Varios,Have you any record of such a message having been filed (received)?,Pouvez-vous voir si un tel message a été déposé (reçu)?,¿Pueden comprobar si se ha depositado (recibido) tal mensaje?
+UTCOD,coding,miscellaneous,Various,Divers,Varios,Use the code.,"Utilisez le code, s.v.p.!",Utilicen el código.
+VEBET,coding,miscellaneous,Various,Divers,Varios,Please do needful.,Prière faire le nécessaire.,Rogamos hagan lo necesario.
+VUSOB,coding,miscellaneous,Various,Divers,Varios,Read telegraph office of origin __________.,Lisez bureau télégraphique d’origine __________.,Lean oficina telegráfica de origen __________.
+WAJEJ,coding,miscellaneous,Various,Divers,Varios,Please give prefix number or channel sequence number under which the transit telegram referred to was sent forward to its destination or next transit point.,"Prière indiquer le préfixe ou le numéro de série sur voie attribué pour ce télégramme en transit, lors de son acheminement au point de transit suivant ou à son point de destination.",Sírvase indicar prefijo o número de serie del canal utilizado para este telegrama en tránsito para su encaminamiento al punto de tránsito siguiente o a su lugar de destino.
+WOBAJ,coding,miscellaneous,Various,Divers,Varios,Please obtain sender's name and address from the addressee.,Prière obtenir du destinataire nom et adresse de l’expéditeur.,Rogamos pidan destinatario nombre y dirección expedidor.
+WOBMO,coding,miscellaneous,Various,Divers,Varios,Sender cannot be found.,Expéditeur introuvable.,No podemos encontrar al expedidor.
+XEROJ,coding,miscellaneous,Various,Divers,Varios,Your service advice not understood.,Votre avis de service non compris.,No comprendemos su aviso de servicio.

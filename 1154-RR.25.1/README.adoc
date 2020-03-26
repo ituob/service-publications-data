@@ -1,0 +1,220 @@
+= OB 1154 RR.25.1 YAML schema
+
+== Basic schema
+
+Each YAML file represents the schema of one country.
+
+== Root keys: `groups`, `codelists`
+
+There are 2 root keys:
+
+`groups`:: the call sign patterns.
+There are 2 supported sub-keys: `amateur` and `experimental`.
+Each of these items could be either be a single object or an array.
+
+e.g.
+
+[source,yaml]
+----
+groups:
+  amateur:
+  # Single call-sign schema
+    regex: OE[:amateur_area:][:upper:]{2,3}
+    1: OE
+    2:
+      codelist: amateur_area
+    3:
+      from: A
+      to: Z
+      cardinality: 2-3
+----
+
+[source,yaml]
+----
+groups:
+  amateur:
+  # Array of call-sign schemas
+    - name: Class 1 licence
+      regex: V31[:upper]{2}
+
+    - name: Class 2 licence
+      regex: V32[:upper]{2}
+----
+
+
+`codelists`:: call sign code lists. Call signs in some countries
+refer to code lists to designate regions or usage.
+The structure of this is a dictionary of `{pattern}: {purpose}`.
+There can be multiple code lists in the same country.
+
+e.g.
+
+[source,yaml]
+----
+codelists:
+  city_region:
+    1: City of Minsk
+  2: Minsk Region
+  3: Brest Region
+  4: Grodno Region
+  5: Vitebsk Region
+  6: Mogilev Region
+  7: Gomel Region
+----
+
+[source,yaml]
+----
+codelists:
+  amateur_area:
+    1: Vienna (amateur stations only)
+    ...
+    0: extraterritorial (on board ships or on board aircraft)
+
+  experimental_area:
+    2: Salzburg
+    ...
+    9: Vorarlberg
+----
+
+
+
+== Call-sign schema objects
+
+A call-sign schema object is like this:
+
+[source,yaml]
+----
+name: Automatic stations
+regex: ON0[:upper:]{2,3}
+----
+
+Or
+
+[source,yaml]
+----
+name: Foreign radio amateurs, visitors and short-term licence holders.
+regex: 8P9[:upper:]{2}
+criteria:
+  1: 8P6
+  2:
+    from: A
+    to: Z
+    cardinality: 2
+----
+
+If a call-sign schema has no name, just omit it:
+
+(`bahrain.yaml`)
+[source,yaml]
+----
+regex: A9[:digit:][0-9A-Z]{2,4}
+criteria:
+  1: A9
+  2:
+    from: 0
+    to: 9
+  3:
+    - from: 0
+      to: 9
+    - from: A
+      to: Z
+    cardinality: 2-4
+----
+
+
+The call-sign schema contains these keys:
+
+`name`:: Name of the schema. Omit if empty.
+
+`criteria`:: The criteria of the schema.
+
+== Criteria objects
+
+e.g.
+[source,yaml]
+----
+groups:
+  amateur:
+    - name: National radio amateurs
+      regex: 8P6[:upper:]{2}
+      criteria:
+        1: 8P6
+        2:
+          from: A
+          to: Z
+          cardinality: 2
+----
+
+There are two types of criteria objects:
+
+`regex`:: The regular expression (RegEx) that expresses the call-sign schema. The regex groups of `[:digit:]` (0 to 9), `[:upper:]` (A to Z) are often used. Reference to code-lists can be made using regex groups using the name of the code-list, e.g. `[:city_region:]` for a code-list named `city_region`.
+
+If there are two regexes, split the object:
+
+[source,yaml]
+----
+- name: Supplementary call signs for class 1 stations (1)
+  regex: O[OPQS]0[:upper:]
+
+- name: Supplementary call signs for class 1 stations (2)
+  regex: O[RT][0-46-9][:upper:]
+----
+
+
+`{digits}`:: This is the "`expanded`" form of the pattern in `regex` for easier parsing.
+The keys inside each criteria object are numbers to indicate the order of groups.
+
+Each matching group is either:
+
+* a string
+* a matching object that contains `from:`, `to:` (optional), `cardinality:` (optional)
+* a codelist
+* an array of matching groups
+
+e.g. the regex `8P9[:upper:]{2}` is expanded into:
+
+[source,yaml]
+----
+regex: 8P9[:upper:]{2}
+criteria:
+  1: 8P6
+  2:
+    from: A
+    to: Z
+    cardinality: 2
+----
+
+e.g. to refer to code-lists
+[source,yaml]
+----
+criteria:
+  1: OE
+  2:
+    codelist: amateur_area
+  3:
+    from: A
+    to: Z
+    cardinality: 2-3
+----
+
+e.g. string ranges
+[source,yaml]
+----
+criteria:
+  1:
+    - VK
+    - AX
+    - VI
+  2:
+    codelist: amateur_area
+  3:
+    - A-G
+    - I-K
+    - S-U
+    - W-Z
+  4:
+    from: A
+    to: Z
+    cardinality: 2-3
+----
+

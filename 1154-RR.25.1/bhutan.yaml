@@ -1,0 +1,20 @@
+---
+# Bhutan (Kingdom of)
+# Amateur stations:
+#   A50AA-A50ZZ*
+#   A51AA-A51ZZ**
+#   A52AA-A52ZZ***
+#   *  For amateur clubs and stations.
+#   **  For national radio amateurs.
+#   ***  For visiting radio amateurs.
+
+groups:
+  amateur:
+    - name: amateur clubs and stations
+      regex: A50[:upper]{2}
+
+    - name: national radio amateurs
+      regex: A51[:upper]{2}
+
+    - name: visiting radio amateurs
+      regex: A52[:upper]{2}

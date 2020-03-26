@@ -1,0 +1,99 @@
+---
+# Belarus (Republic of)
+# Amateur stations:  EU, EV, or EW, followed by a digit (1-4,
+# 6-8 indicating the city or region (oblast) where the station is
+# located) and one, two or three letters.
+#   Numbers indicating city or region:  1. City of Minsk
+#     2. Minsk Region
+#     3. Brest Region
+#     4. Grodno Region
+#     5. Vitebsk Region
+#     6. Mogilev Region
+#     7. Gomel Region
+#   Call sign containing:  4 characters –  class A (operator
+# with CEPT licence, HAREC certificate)
+#     5 characters –  class A and class B (operator with
+# CEPT licence, HAREC certificate)
+#     6 characters –  class C (operator with novice
+# licence, ARNEC certificate)
+#     5 characters –  the fourth symbol is W, X, Z for
+# club stations
+# Experimental stations:  EU1A00R-EU8Z99R (except
+# EU5A00R–EU5Z99R)  –  repeaters
+#     EU1A00B-EU8Z99B (except EU5A00B–EU5Z99B)  –
+# radiobeacons
+#     EU10S-EU89S  –  satellites
+#     EV0AA-EV9ZZ  –  for stations operating in radio
+# contests
+#     EV10ISS-EV89ISS    –  for expeditions to
+# space-based facilities
+#     EV0ANA-EV0ANZ    –  for stations operating
+# in the Antartic
+#     EV0A-EV9999Z    –  for stations operating
+# on days of special national and international events
+# EU5, EV5, EW5 followed by one letter – only for participants in
+# international SW and USW radio communication competitions (up to
+# one year).
+# Note: Foreign radio amateurs with a licence must use EW followed by
+# slash (/) and their own call sign.
+
+groups:
+
+  amateur:
+
+    # regex: E(U|V|W)[:city_region:][:upper:]{1-3}
+    - name: class A (operator with CEPT licence, HAREC certificate)
+      regex: E(U|V|W)[:city_region:][:upper:]{1}
+
+    - name: Class A and class B (operator with CEPT licence, HAREC certificate)
+      regex: E(U|V|W)[:city_region:][:upper:]{2}
+
+    - name: Class C (operator with novice licence, ARNEC certificate)
+      regex: E(U|V|W)[:city_region:][:upper:]{3}
+
+    - name: Club stations
+      regex: E(U|V|W)[:city_region:](W|X|Z)[:upper:]{1}
+
+    - name: Foreign radio amateurs
+      regex: EW/.*
+
+      notes:
+        - Foreign radio amateurs with a licence must use EW followed by slash (/) and their own call sign.
+
+
+  experimental:
+    - name: repeaters
+      regex: EU[1-4|6-8][:digit:]{2}R
+
+    - name: radiobeacons
+      regex: EU[1-4|6-8][:digit:]{2}B
+
+    - name: satellites
+      regex: EU[1-8][:digit:]S
+
+    - name: stations operating in radio contests
+      regex: EV[:digit:][:upper:]{2}
+
+    - name: expeditions to space-based facilities
+      regex: EV[1-8][:digit:]ISS
+
+    - name: stations operating in the Antartic
+      regex: EV0AN[:upper:]
+
+    - name: stations operating on days of special national and international events
+      regex: EV[:digit:]{1-4}[:upper:]
+
+    - name: participants in international SW and USW radio communication competitions (up to one year)
+      regex: E(U|V|W)5[:upper:]
+
+
+codelists:
+  city_region:
+    1: City of Minsk
+  2: Minsk Region
+  3: Brest Region
+  4: Grodno Region
+  5: Vitebsk Region
+  6: Mogilev Region
+  7: Gomel Region
+

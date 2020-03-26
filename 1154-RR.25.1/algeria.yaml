@@ -1,0 +1,37 @@
+---
+# Algeria (People’s Democratic Republic of)
+# Amateur stations:  7X0, 7X2, 7X3, 7X4 and 7X5 followed by 2 or 3 letters
+# Experimental stations:  7X6 and 7X7 followed by 2 or 3 letters
+
+# amateur:
+#   -
+# experimental:
+#   -
+
+groups:
+  amateur:
+    regex: 7X(0|2-5)[A-Z]{2,3}
+
+    criteria:
+      1: 7X
+      2:
+        - 0
+        - from: 2
+          to: 5
+      3:
+        from: A
+        to: Z
+        cardinality: 2-3
+
+  experimental:
+    regex: 7X(6-7)[A-Z]{2,3}
+
+    criteria:
+      1: 7X
+      2:
+        from: 6
+        to: 7
+      3:
+        from: A
+        to: Z
+        cardinality: 2-3

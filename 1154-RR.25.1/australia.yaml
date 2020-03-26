@@ -1,0 +1,119 @@
+---
+# Amateur stations:  VK, AX* or VI* followed by a digit (indicating
+# the state or territory in which the station is situated) and by 2,
+# 3 or 4 letters.
+#     For call signs with suffixes of 3 or 4 letters, the first
+# letter indicates the licence category.
+#     “Advanced” amateur stations are indicated by call signs with
+# suffixes of 2 letters and suffixes of 3 letters where the first
+# letter is A, B, C, D, E, F, G, I, J, K, S, T, U, W, X, Y or Z.
+#     “Standard” amateur stations are indicated by call signs with
+# suffixes of 3 letters where the first letter is H, L, M, N, P or V.
+#     “Foundation” amateur stations are indicated by call signs
+# with suffixes of 4 letters where the first letter is F.
+#   *  For occasions of special national or state/local
+# significance.
+#
+# Experimental stations:  AX followed by a digit (2-9) and by 3
+# letters, the first one indicating the state or territory in which
+# the station is situated.
+
+# [VK|AX|VI][:area:][A-Z]{2-4}
+
+groups:
+
+  amateur:
+    - name: Advanced license
+      regex: [VK|AX|VI][:amateur_area:][A-GI-KS-UW-Z][A-Z]{2,3}
+      criteria:
+        1:
+          - VK
+          - AX
+          - VI
+        2:
+          codelist: amateur_area
+        3:
+          - A-G
+          - I-K
+          - S-U
+          - W-Z
+        4:
+          from: A
+          to: Z
+          cardinality: 2-3
+
+    - name: Standard license
+      regex: [VK|AX|VI][:amateur_area:][HLMNPV][A-Z]{2}
+      criteria:
+        1:
+          - VK
+          - AX
+          - VI
+        2:
+          codelist: amateur_area
+        3:
+          - H
+          - L
+          - M
+          - P
+          - V
+        4:
+          from: A
+          to: Z
+          cardinality: 2
+
+    - name: Foundation license
+      regex: [VK|AX|VI][:amateur_area:][F][A-Z]{3}
+      criteria:
+        1:
+          - VK
+          - AX
+          - VI
+        2:
+          codelist: amateur_area
+        3:
+          - F
+        4:
+          from: A
+          to: Z
+          cardinality: 3
+
+  experimental:
+    regex: AX[:digit:][:experimental_area:][:upper:]{2}
+    criteria:
+      1: AX
+      2:
+        from: 0
+        to: 9
+      3:
+        codelist: experimental_area
+      4:
+        from: A
+        to: Z
+        cardinality: 2
+
+codelists:
+
+  amateur_area:
+    1: Australian Capital Territory
+    2: New South Wales
+    3: Victoria
+    4: Queensland
+    5: South Australia
+    6: Western Australia
+    7: Tasmania
+    8: Northern Territory
+    9: Australian External Territories
+
+  # Experimental
+  # AX[:digit:][:area:][:upper:]{2}
+  experimental_area:
+    A: Australian Capital Territory
+    N: New South Wales
+    V: Victoria
+    Q: Queensland
+    S: South Australia
+    W: Western Australia
+    T: Tasmania
+    D: Northern Territory
+

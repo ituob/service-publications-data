@@ -1,0 +1,63 @@
+---
+# Amateur stations:  OE followed by a digit (0-9, indicating the province or the area in which the station is situated) and by 2 or 3 letters
+# Experimental stations:  OE followed by a digit (2-9, indicating the province in which the station is situated) and by 2 letters (QA-QZ)
+#   Digits indicating the provinces
+#      or areas:
+# 1  –  Vienna (amateur stations only)
+# 2  –  Salzburg
+# 3  –  Vienna (experimental stations only) and Lower Austria
+# 4  –  Burgenland
+# 5  –  Upper Austria
+# 6  –  Styria
+# 7  –  Tyrol
+# 8  –  Carinthia
+# 9  –  Vorarlberg
+# 0  –  extraterritorial » on board ships or on board aircraft
+
+groups:
+  amateur:
+    regex: OE[:amateur_area:][:upper:]{2,3}
+    criteria:
+      1: OE
+      2:
+        codelist: amateur_area
+      3:
+        from: A
+        to: Z
+        cardinality: 2-3
+
+  experimental:
+    regex: OE[:experimental_area:]Q[:upper:]
+    criteria:
+      1: OE
+      2:
+        codelist: experimental_area
+      3: Q
+      4:
+        from: A
+        to: Z
+        cardinality: 1
+
+codelists:
+
+  amateur_area:
+    1: Vienna (amateur stations only)
+    2: Salzburg
+    3: Vienna (experimental stations only) and Lower Austria
+    4: Burgenland
+    5: Upper Austria
+    6: Styria
+    7: Tyrol
+    8: Carinthia
+    9: Vorarlberg
+    0: extraterritorial (on board ships or on board aircraft)
+
+  experimental_area:
+    2: Salzburg
+    3: Vienna (experimental stations only) and Lower Austria
+    4: Burgenland
+    5: Upper Austria
+    6: Styria
+    7: Tyrol
+    8: Carinthia
+    9: Vorarlberg

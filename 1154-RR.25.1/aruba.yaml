@@ -1,0 +1,26 @@
+---
+# Amateur stations:  P43 or P49 followed by a group of not more
+# than 3 letters
+#
+# Notes:
+# i)  Foreign amateurs will use the call sign assigned to
+# them by their administration followed by a stroke (/) and then P4
+# for a duration of one year.
+# ii)  The prefix P40 or P41 followed by a group of not
+# more than 3 letters is assigned during special events for not more
+# than one month.
+
+#
+
+groups:
+  amateur:
+    regex: [P43|P49][A-Z]{2,3}
+    criteria:
+      1:
+        - P43
+        - P49
+      2:
+        from: A
+        to: Z
+        cardinality: 2-3
+

@@ -1,0 +1,27 @@
+---
+# Bahamas (Commonwealth of the)
+# Amateur stations and experimental stations:  C62AA-C69ZZ
+groups:
+  amateur:
+    regex: C6[2-9][:upper:]{2}
+    criteria:
+      1: C6
+      2:
+        from: 2
+        to: 9
+      3:
+        from: A
+        to: Z
+        cardinality: 2
+
+  experimental:
+    regex: C6[2-9][:upper:]{2}
+    criteria:
+      1: C6
+      2:
+        from: 2
+        to: 9
+      3:
+        from: A
+        to: Z
+        cardinality: 2

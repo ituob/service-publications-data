@@ -1,0 +1,25 @@
+---
+# Barbados
+# Amateur stations:  8P6AA-8P6ZZ*
+# 8P9AA-8P9ZZ**
+#   *  For national radio amateurs.
+#   **  For foreign radio amateurs, visitors and short-term licence holders.
+
+groups:
+  amateur:
+    - name: National radio amateurs
+      regex: 8P6[:upper:]{2}
+      criteria:
+        1: 8P6
+        2:
+          from: A
+          to: Z
+          cardinality: 2
+    - name: Foreign radio amateurs, visitors and short-term licence holders.
+      regex: 8P9[:upper:]{2}
+      criteria:
+        1: 8P6
+        2:
+          from: A
+          to: Z
+          cardinality: 2

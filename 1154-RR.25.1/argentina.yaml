@@ -1,0 +1,161 @@
+---
+# Amateur stations:  AY, AZ, LU, LW followed by a digit (0-9)
+# and by 2 or 3 letters, the first indicating the province in which
+# the station is situated
+#
+# Letters indicating the provinces:
+# A-B and C  –  Federal Capital
+# D-E –  Province of Buenos Aires
+# F  –  Province of Santa Fé
+# GA–GOZ  –  Province of Chaco
+# GP–GZZ  –  Province of Formosa
+# H  –  Province of Córdoba
+# I  –  Province of Misiones
+# J  –  Province of Entre Ríos
+# K  –  Province of Tucumán
+# L  –  Province of Corrientes
+# M  –  Province of Mendoza
+# N  –  Province of Santiago del Estero
+# O  –  Province of Salta
+# P  –  Province of San Juan
+# Q  –  Province of San Luis
+# R  –  Province of Catamarca
+# S  –  Province of La Rioja
+# T  –  Province of Jujuy
+# U  –  Province of La Pampa
+# V  –  Province of Rio Negro
+# W  –  Province of Chubut
+# XA–XOZ  –  Province of Santa Cruz
+# XP–XZZ  –  Province of Tierra del Fuego, Antarctic and Islands of South Atlantic
+# Y  –  Neuquén
+# Z  –  Antarctic
+# Note:  The beginners have to use the prefix AZ.
+
+
+groups:
+  amateur:
+    regex: [(AY,AZ,LU,LW)][:digit:][:province:][A-Z]
+
+    criteria:
+      1:
+        - AY
+        - AZ
+        - LU
+        - LW
+      2:
+        from: 0
+        to: 9
+      3:
+        codelist: province
+      4:
+        from: A
+        to: Z
+
+codelists:
+  - name: province
+    list:
+      - name: Federal Capital
+        code:
+          from: A
+          to: C
+
+       - name: Province of Buenos Aires
+         code:
+           from: D
+           to: E
+
+       - name: Province of Santa Fé
+         code:
+           from: F
+
+       - name: Province of Chaco
+         code:
+           from: GA
+           to: GO
+
+       - name: Province of Formosa
+         code:
+           from: GP
+           to: GZ
+
+       - name: Province of Córdoba
+         code:
+           from: H
+
+       - name: Province of Misiones
+         code:
+           from: I
+
+       - name: Province of Entre Ríos
+         code:
+           from: J
+
+       - name: Province of Tucumán
+         code:
+           from: K
+
+       - name: Province of Corrientes
+         code:
+           from: L
+
+       - name: Province of Mendoza
+         code:
+           from: M
+
+       - name: Province of Santiago del Estero
+         code:
+           from: N
+
+       - name: Province of Salta
+         code:
+           from: O
+
+       - name: Province of San Juan
+         code:
+           from: P
+
+       - name: Province of San Luis
+         code:
+           from: Q
+
+       - name: Province of Catamarca
+         code:
+           from: R
+
+       - name: Province of La Rioja
+         code:
+           from: S
+
+       - name: Province of Jujuy
+         code:
+           from: T
+
+       - name: Province of La Pampa
+         code:
+           from: U
+
+       - name: Province of Rio Negro
+         code:
+           from: V
+
+       - name: Province of Chubut
+         code:
+           from: W
+
+       - name: Province of Santa Cruz
+         code:
+           from: XA
+           to: XO
+
+       - name: Province of Tierra del Fuego, Antarctic and Islands of South Atlantic
+         code:
+           from: XP
+           to: XZ
+
+       - name: Neuquén
+         code:
+           from: Y
+
+       - name: Antarctic
+         code:
+           from: Z

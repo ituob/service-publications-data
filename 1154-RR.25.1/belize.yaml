@@ -1,0 +1,13 @@
+---
+# Belize
+# Amateur stations:
+# V31AA-V31ZZ  –  Class 1 licence
+# V32AA-V32ZZ  –  Class 2 licence
+
+groups:
+  amateur:
+    - name: Class 1 licence
+      regex: V31[:upper]{2}
+
+    - name: Class 2 licence
+      regex: V32[:upper]{2}

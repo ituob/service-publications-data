@@ -1,0 +1,46 @@
+---
+
+# Bolivia (Plurinational State of)
+# Amateur stations:  CP1AA-CP9ZZ
+# Digits indicating the departments:
+# 1  –  La Paz
+# 2  –  Chuquisaca
+# 3  –  Oruro
+# 4  –  Potosí
+# 5  –  Cochabamba
+# 6  –  Santa Cruz
+# 7  –  Tarija
+# 8  –  Beni
+# 9  –  Pando
+#
+# The call sign may be followed by the letters “M”, “MA”, “MF”, “MM”, “S” or “C” in the following cases:
+# M:  for mobile earth stations,
+# MA:  for mobile aeronautical stations,
+# MF:  for mobile river stations,
+# MM:  for mobile maritime stations,
+# S:  for second category stations,
+# C:  for stations operating on a temporary basis.
+
+groups:
+  amateur:
+    regex: CP[:departments:][:upper:]{2}[:labels:]?
+
+codelists:
+  departments:
+    1: La Paz
+    2: Chuquisaca
+    3: Oruro
+    4: Potosí
+    5: Cochabamba
+    6: Santa Cruz
+    7: Tarija
+    8: Beni
+    9: Pando
+
+  labels:
+    M: for mobile earth stations
+    MA: for mobile aeronautical stations
+    MF: for mobile river stations
+    MM: for mobile maritime stations
+    S: for second category stations
+    C: for stations operating on a temporary basis

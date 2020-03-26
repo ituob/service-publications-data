@@ -1,0 +1,90 @@
+---
+# Belgium
+#
+# Amateur stations
+# ON0AA-ON0ZZ
+# ON0AAA-ON0ZZZ  Automatic stations
+# ON1AA-ON1ZZ
+# ON1AAA-ON1ZZZ  Class 2 stations
+# ON2AA-ON2ZZ
+# ON2AAA-ON2ZZZ  Currently not in use
+# ON3AA-ON3ZZ
+# ON3AAA-ON3ZZZ  Class 3 stations
+# ON4AA-ON4ZZ
+# ON4AAA-ON4ZZZ
+# ON5AA-ON5ZZ
+# ON5AAA-ON5ZZZ
+# ON6AA-ON6ZZ
+# ON6AAA-ON6ZZZ
+# ON7AA-ON7ZZ
+# ON7AAA-ON7ZZZ
+# ON8AA-ON8ZZ
+# ON8AAA-ON8ZZZ  Class 1 stations
+# ON9AAA-ON9AZZ  Class 3 stations for foreigners
+# ON9BAA-ON9BZZ  Class 2 stations for foreigners
+# ON9CAA-ON9CZZ  Class 1 stations for foreigners
+# OP0LE and OP0OL  Club stations in Antarctica
+# OR3AA-OR3ZZ
+# OR3AAA-OR3ZZZ  Temporary class 3 stations in Antarctica
+# OR4AA-OR4ZZ
+# OR4AAA-OR4ZZZ  Temporary class 1 stations in Antarctica
+# OR4ISS  On board ISS
+# OO0A-OO9Z
+# OP0A-OP9Z
+# OQ0A-OQ9Z
+# OR0A-OR4Z
+# OR6A-OR9Z
+# OS0A-OS9Z
+# OT0A-OT4Z
+# OT6A-OT9Z  Supplementary call signs for class 1 stations
+# OR5A-OR5Z
+# OT5A-OT5Z  Stations for high power contests
+
+groups:
+  amateur:
+
+    - name: Automatic stations
+      regex: ON0[:upper:]{2,3}
+
+    - name: Class 2 stations
+      regex: ON1[:upper:]{2,3}
+
+    - name: Currently not in use
+      regex: ON2[:upper:]{2,3}
+
+    - name: Class 3 stations
+      regex: ON3[:upper:]{2,3}
+
+    - name: Class 1 stations
+      regex: ON[4-8][:upper:]{2,3}
+
+    - name: Class 3 stations for foreigners
+      regex: ON9A[:upper:]{2}
+
+    - name: Class 2 stations for foreigners
+      regex: ON9B[:upper:]{2}
+
+    - name: Class 1 stations for foreigners
+      regex: ON9C[:upper:]{2}
+
+    - name: Club stations in Antarctica
+      regex: OP0(LE|OL)
+
+    - name: Temporary class 3 stations in Antarctica
+      regex: OR3C[:upper:]{2,3}
+
+    - name: Temporary class 1 stations in Antarctica
+      regex: OR4C[:upper:]{2,3}
+
+    - name: On board ISS
+      regex: OR4ISS
+
+    - name: Supplementary call signs for class 1 stations
+      regex: O[OPQS]0[:upper:]
+
+    - name: Supplementary call signs for class 1 stations
+      regex: O[RT][0-46-9][:upper:]
+
+    - name: Stations for high power contests
+      regex: O[RT]5[:upper:]
+

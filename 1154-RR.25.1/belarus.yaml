@@ -90,10 +90,9 @@ groups:
 codelists:
   city_region:
     1: City of Minsk
-  2: Minsk Region
-  3: Brest Region
-  4: Grodno Region
-  5: Vitebsk Region
-  6: Mogilev Region
-  7: Gomel Region
-
+    2: Minsk Region
+    3: Brest Region
+    4: Grodno Region
+    5: Vitebsk Region
+    6: Mogilev Region
+    7: Gomel Region

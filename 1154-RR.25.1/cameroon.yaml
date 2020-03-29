@@ -1,8 +1,9 @@
+---
 #Cameroon (Republic of)
-#Amateur stations:	
+#Amateur stations:
 #TJ1 followed by 2 letters
 
 groups:
   amateur:
     - name: Cameroon
-      regex: TJ1{2}
+      regex: TJ1[:upper:]{2}

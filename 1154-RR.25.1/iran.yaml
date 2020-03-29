@@ -1,0 +1,8 @@
+---
+#Iran (Islamic Republic of)
+#Amateur stations:	EP1AA-EP9ZZ
+
+groups:
+  amateur:
+    - name: Iran
+      regex: EP[:digit:][:upper:]{2}

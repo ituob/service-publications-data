@@ -1,0 +1,8 @@
+---
+#Niue
+#Amateur stations:	ZK2 followed by 2 letters
+
+groups:
+  amateur:
+    - name: Niue
+      regex: ZK2[:upper:]{2}

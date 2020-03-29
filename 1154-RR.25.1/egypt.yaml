@@ -1,0 +1,8 @@
+---
+#Egypt (Arab Republic of)
+#Amateur stations: SU followed by a digit and 2 letters
+
+groups:
+  amateur:
+    - name: Egypt
+      regex: SU[:digit:][:upper:]{2}

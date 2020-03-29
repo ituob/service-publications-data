@@ -1,0 +1,8 @@
+---
+#Guinea-Bissau (Republic of)
+#Amateur stations: J52UAB-J52UAI
+
+groups:
+  amateur:
+    - name: Guinea-Bissau
+      regex: J52UA[B-I]

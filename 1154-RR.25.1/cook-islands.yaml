@@ -1,0 +1,8 @@
+---
+#Cook Islands
+#Amateur stations: ZK1 followed by 2 letters
+
+groups:
+  amateur:
+    - name: Congo
+      regex: ZK1[:upper:]{2}

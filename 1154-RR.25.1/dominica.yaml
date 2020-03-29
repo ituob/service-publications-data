@@ -1,0 +1,9 @@
+---
+#Dominica (Commonwealth of)
+#Amateur stations and
+#experimental stations:	J73AA-J73ZZ
+
+groups:
+  amateur:
+    - name: Dominica
+      regex: J73[:upper:]{2}

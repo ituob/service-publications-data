@@ -1,0 +1,8 @@
+---
+#Iraq (Republic of)
+#Amateur stations:	YI1 followed by 3 letters
+
+groups:
+  amateur:
+    - name: Iraq
+      regex: YI1[:upper:]{3}

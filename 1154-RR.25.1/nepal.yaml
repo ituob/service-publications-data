@@ -1,0 +1,8 @@
+---
+#Nepal (Federal Democratic Republic of)
+#Amateur stations:	9N1AA-9N1ZZZ
+
+groups:
+  amateur:
+    - name: Nepal
+      regex: 9N1[:upper:]{2,3}

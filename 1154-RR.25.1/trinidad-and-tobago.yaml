@@ -1,0 +1,12 @@
+---
+#Trinidad and Tobago
+#Amateur stations and experimental stations:	9Y4AA-9Y4ZZ
+
+groups:
+  amateur:
+    - name: Trinidad and Tobago
+      regex: 9Y4[:upper:]{2}
+
+  experimental:
+    - name: Trinidad and Tobago
+      regex: 9Y4[:upper:]{2}

@@ -1,0 +1,13 @@
+---
+#Tonga (Kingdom of)
+#Amateur stations:	A35 followed by 2 letters
+#Experimental stations:	A35 followed by 3 letters, the first of which shall be the letter X
+
+groups:
+  amateur:
+    - name: Tonga
+      regex: A35[:upper:]{2}
+
+  experimental:
+    - name: Tonga
+      regex: A35X[:upper:]{2}

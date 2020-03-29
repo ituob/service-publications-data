@@ -1,0 +1,8 @@
+---
+#Uganda (Republic of)
+#Amateur stations:	5X5AA-5X5ZZ
+
+groups:
+  amateur:
+    - name: Uganda
+      regex: 5X5[:upper:]{2}

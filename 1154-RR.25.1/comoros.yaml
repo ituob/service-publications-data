@@ -1,0 +1,9 @@
+---
+#Comoros (Union of the)
+#Amateur stations:	D68 followed by 2 letters*
+#	*	The 2 letters are the operator identity.
+
+groups:
+  amateur:
+    - name: The 2 letters are the operator identity.
+      regex: D68[:upper:]{2}

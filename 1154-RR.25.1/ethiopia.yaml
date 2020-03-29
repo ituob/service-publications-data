@@ -1,0 +1,13 @@
+---
+#Ethiopia (Federal Democratic Republic of)
+#Amateur stations:	
+#ET3AA-ET3ZZ
+#9E3AA-9F3ZZ
+
+groups:
+  amateur:
+    - name: Ethiopia
+      regex: ET3[:upper:]{2}
+    
+    - name: Ethiopia
+      regex: 9[E-F]3[:upper:]{2}

@@ -1,0 +1,8 @@
+---
+#Gambia (Republic of the)
+#Amateur stations:	C53AA-C53ZZ
+
+groups:
+  amateur:
+    - name: Gambia
+      regex: C53[:upper:]{2}

@@ -1,0 +1,8 @@
+---
+#Vatican City State
+#Amateur stations: HV followed by a digit and 2 letters
+
+groups:
+  amateur:
+    - name: Vatican
+      regex: HV[:digit:][:upper:]{2}

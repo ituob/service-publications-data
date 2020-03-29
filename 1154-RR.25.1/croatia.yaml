@@ -1,0 +1,9 @@
+---
+#Croatia (Republic of)
+#Amateur stations:	9A followed by a digit and by 1, 2 or 3 letters
+
+
+groups:
+  amateur:
+    - name: Croatia
+      regex: 9A[:digit:][:upper:]{1,3}

@@ -1,0 +1,27 @@
+---
+#Korea (Republic of)
+#Amateur stations:	
+#1. HL1AA-HL9ZZ
+#HL1AAA-HL9ZZZ
+#2.	HL0 followed by 2 or 3 letters (amateur group)
+#Experimental stations:	
+#6M2AA-6M2ZZ
+#6N2AA-6N2ZZ
+
+groups:
+  amateur:
+    - name: Korea
+      regex: HL[:digit:][:upper:]{2}
+
+    - name: Korea
+      regex: HL[:digit:][:upper:]{3}
+
+    - name: Korea
+      regex: HL0[:upper:]{2,3}
+
+  experimental:
+    - name: Korea
+      regex: GM2[:upper:]{2}
+
+    - name: Korea
+      regex: GN2[:upper:]{2}

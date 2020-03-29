@@ -1,0 +1,8 @@
+---
+#Ireland
+#Amateur stations:	EI followed by a digit (2-9) and a group of not more than 3 letters
+
+groups:
+  amateur:
+    - name: Iraq
+      regex: EI[2-9][:upper:]{1,3}

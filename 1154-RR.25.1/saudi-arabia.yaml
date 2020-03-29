@@ -1,0 +1,12 @@
+---
+#Saudi Arabia (Kingdom of)
+#Amateur stations and experimental stations:	7Z followed by a digit and 2 letters
+
+groups:
+  amateur:
+    - name: Saudi Arabia
+      regex: 7Z[:digit:][:upper:]{2}
+
+  experimental:
+    - name: Saudi Arabia
+      regex: 7Z[:digit:][:upper:]{2}

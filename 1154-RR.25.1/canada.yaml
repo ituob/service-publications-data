@@ -1,0 +1,72 @@
+#Canada
+#Amateur stations:	
+#VE1, VA1 followed by 1, 2 or 3 letters	–	Provinces of Nova Scotia and New Brunswick
+#VE2, VA2 followed by 1, 2 or 3 letters	–	Province of Quebec
+#VE3, VA3 followed by 1, 2 or 3 letters	–	Province of Ontario
+#VE4, VA4 followed by 1, 2 or 3 letters	–	Province of Manitoba
+#VE5, VA5 followed by 1, 2 or 3 letters	–	Province of Saskatchewan
+#VE6, VA6 followed by 1, 2 or 3 letters	–	Province of Alberta
+#VE7, VA7 followed by 1, 2 or 3 letters	–	Province of British Columbia
+#VE8 followed by 1, 2 or 3 letters	–	Northwest Territories (excluding Nunavut)
+#VE9 followed by 1, 2 or 3 letters	–	Province of New Brunswick
+#VE0* followed by 1, 2 or 3 letters	–	Amateur station on board a ship
+#VO1 followed by 1, 2 or 3 letters	–	Province of Newfoundland (excluding Labrador)
+#VO2 followed by 1, 2 or 3 letters	–	Labrador
+#VY0 followed by 1, 2 or 3 letters	–	Nunavut Territory
+#VY1 followed by 1, 2 or 3 letters	–	Yukon Territory
+#VY2 followed by 1, 2 or 3 letters	–	Province of Prince Edward Island
+#**	VE0 is intended for use when the amateur radio station is operated from a vessel that makes international voyages.
+
+#Experimental stations:	
+#VX9 followed by 2 or 3 letters  –  Canada (all provinces and territories)
+
+groups:
+  amateur:
+    - name: Provinces of Nova Scotia and New Brunswick
+      regex: V[E|A][1]{1-3}
+
+    - name: Province of Quebec
+      regex: V[E|A][2]{1-3}
+
+    - name: Province of Ontario
+      regex: V[E|A][3]{1-3}
+
+    - name: Province of Manitoba
+      regex: V[E|A][4]{1-3}
+
+    - name: Province of Saskatchewan
+      regex: V[E|A][5]{1-3}
+
+    - name: Province of Alberta
+      regex: V[E|A][6]{1-3}
+
+    - name: Province of British Columbia
+      regex: V[E|A][7]{1-3}
+
+    - name: Northwest Territories (excluding Nunavut)
+      regex: VE8{1-3}
+
+    - name: Province of New Brunswick
+      regex: VE9{1-3}
+
+    - name: Amateur station on board a ship
+      regex: VE0{1-3}
+
+    - name: Province of Newfoundland (excluding Labrador)
+      regex: VO1{1-3}
+
+    - name: Labrador
+      regex: VO2{1-3}
+
+    - name: Nunavut Territory
+      regex: VY0{1-3}
+
+    - name: Yukon Territory
+      regex: VY1{1-3}
+
+    - name: Province of Prince Edward Island
+      regex: VY2{1-3}
+
+experimental:
+    - name: Canada (all provinces and territories)
+      regex: VX9{2-3}

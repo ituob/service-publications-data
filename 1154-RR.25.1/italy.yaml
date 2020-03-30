@@ -1,0 +1,111 @@
+---
+#Italy
+#Amateur stations:	
+#I0 or IK0 followed by 2 or 3 letters	–	Lazio and Umbria
+#I1 or IK1 followed by 2 or 3 letters	–	Liguria, Piemonte and the Province of Novara
+#I2 or IK2 followed by 2 or 3 letters	–	Lombardia and the Province of Mantova
+#I3 or IK3 followed by 2 or 3 letters	–	Veneto and the Province of Rovigo
+#I4 or IK4 followed by 2 or 3 letters	–	Emilia-Romagna and the Province of Piacenza
+#I5 or IK5 followed by 2 or 3 letters	–	Toscana
+#I6 or IK6 followed by 2 or 3 letters	–	Marche and Abruzzi
+#I7 or IK7 followed by 2 or 3 letters	–	Puglie and the Province of Matera
+#I8 or IK8 followed by 2 or 3 letters	–	Campania, Molise, Calabria and the Province of Potenza
+#IA5 followed by 2 or 3 letters	–	“Toscane” Islands (Capraia, Cerboli, Elba, Formica di Burano, Formiche di Grosseto, Giannutri, Giglio, Gorgona, Montecristo, Pianosa, Scoglio d’Affrica)
+#IB0 followed by 2 or 3 letters	–	“Ponziane” Islands (Palmarola, Ponza, Scoglio della Botte, Santo Stefano, Ventotene, Zanone)
+#IC8 followed by 2 or 3 letters	–	“Napoletane” Islands (Capri, Ischia, Li Galli, Procida, Vivara)
+#ID9 followed by 2 or 3 letters	–	“Eolie” Islands (Alicudi, Basiluzzo, Dino, Filicudi, Formiche, Lipari, Lisca Bianca, Panarea, Salina, San Pietro a Canna, Stromboli, Strombolicchio, Vulcano)
+#IE9 followed by 2 or 3 letters	–	Island of Ustica
+#IF9 followed by 2 or 3 letters	–	“Egadi” Islands (Asinelli, Favignana, La Formica, Levanzo, Maraone, Marettimo, Stagnone)
+#IG9 followed by 2 or 3 letters	–	“Pelagie” Islands (Lampedusa, Lampione, Linosa)
+#IH9 followed by 2 or 3 letters	–	Island of Pantelleria
+#IJ7 followed by 2 or 3 letters	–	Archipelago of “Cheradi”
+#IL7 followed by 2 or 3 letters	–	“Tremiti” Islands (Caprara, Pianosa, San Domino, San Nicola)
+#IM0 followed by 2 or 3 letters	–	“Sardegna” Islands (Asinara, Bisce, Budelli, Carbonara, Caprera, Cavoli, Corcelli, Cretaccio, Foradada, Il Catalano, Il Toro, Il Vitello, La Maddalena, La Vacca, Mal di Ventre, Molara, Mortorio, Nibani, Ogliastra, Pan di Zucchero, Piana, Quirra, Razzoli, Rossa, Ruglia, S. Antioco, S. Pietro, S. Macario, S. Maria, Serpentara, Soffi, Spargi, Su Giudeu, Tavolara)
+#IN3 followed by 2 or 3 letters	–	Trentino-Alto Adige
+#IP1 followed by 2 or 3 letters	–	“Liguria” Islands
+#IS0 followed by 2 or 3 letters	–	Sardegna
+#IT9 followed by 2 or 3 letters	–	Sicilia
+#IV3 followed by 2 or 3 letters	–	Friuli and Venezia Giulia
+#IW0 followed by 2 or 3 letters	–	Special licences
+#IX1 followed by 2 or 3 letters	–	Aosta Valley
+
+groups:
+  amateur:
+    - name: Lazio and Umbria
+      regex: I[0|K0][:upper:]{2,3}
+      
+    - name: Liguria, Piemonte and the Province of Novara
+      regex: I[1|K1][:upper:]{2,3}
+      
+    - name: Lombardia and the Province of Mantova
+      regex: I[2|K2][:upper:]{2,3}
+      
+    - name: Veneto and the Province of Rovigo
+      regex: I[3|K3][:upper:]{2,3}
+      
+    - name: Emilia-Romagna and the Province of Piacenza
+      regex: I[4|K4][:upper:]{2,3}
+      
+    - name: Toscana
+      regex: I[5|K5][:upper:]{2,3}
+      
+    - name: Marche and Abruzzi
+      regex: I[6|K6][:upper:]{2,3}
+      
+    - name: Puglie and the Province of Matera
+      regex: I[7|K7][:upper:]{2,3}
+      
+    - name: Campania, Molise, Calabria and the Province of Potenza
+      regex: I[8|K8][:upper:]{2,3}
+      
+    - name: “Toscane” Islands (Capraia, Cerboli, Elba, Formica di Burano, Formiche di Grosseto, Giannutri, Giglio, Gorgona, Montecristo, Pianosa, Scoglio d’Affrica)
+      regex: IA5[:upper:]{2,3}
+      
+    - name: “Ponziane” Islands (Palmarola, Ponza, Scoglio della Botte, Santo Stefano, Ventotene, Zanone)
+      regex: IB0[:upper:]{2,3}
+      
+    - name: “Napoletane” Islands (Capri, Ischia, Li Galli, Procida, Vivara)
+      regex: IC8[:upper:]{2,3}
+      
+    - name: “Eolie” Islands (Alicudi, Basiluzzo, Dino, Filicudi, Formiche, Lipari, Lisca Bianca, Panarea, Salina, San Pietro a Canna, Stromboli, Strombolicchio, Vulcano)
+      regex: ID9[:upper:]{2,3}
+      
+    - name: Island of Ustica
+      regex: IE9[:upper:]{2,3}
+      
+    - name: “Egadi” Islands (Asinelli, Favignana, La Formica, Levanzo, Maraone, Marettimo, Stagnone)
+      regex: IF9[:upper:]{2,3}
+      
+    - name: “Pelagie” Islands (Lampedusa, Lampione, Linosa)
+      regex: IG9[:upper:]{2,3}
+      
+    - name: Island of Pantelleria
+      regex: IH9[:upper:]{2,3}
+      
+    - name: Archipelago of “Cheradi”
+      regex: IJ7[:upper:]{2,3}
+      
+    - name: “Tremiti” Islands (Caprara, Pianosa, San Domino, San Nicola)
+      regex: IL7[:upper:]{2,3}
+      
+    - name: “Sardegna” Islands (Asinara, Bisce, Budelli, Carbonara, Caprera, Cavoli, Corcelli, Cretaccio, Foradada, Il Catalano, Il Toro, Il Vitello, La Maddalena, La Vacca, Mal di Ventre, Molara, Mortorio, Nibani, Ogliastra, Pan di Zucchero, Piana, Quirra, Razzoli, Rossa, Ruglia, S. Antioco, S. Pietro, S. Macario, S. Maria, Serpentara, Soffi, Spargi, Su Giudeu, Tavolara)
+      regex: IM0[:upper:]{2,3}
+      
+    - name: Trentino-Alto Adige
+      regex: IN3[:upper:]{2,3}
+      
+    - name: Sardegna
+      regex: IS0[:upper:]{2,3}
+      
+    - name: Sicilia
+      regex: IT9[:upper:]{2,3}
+      
+    - name: Friuli and Venezia Giulia
+      regex: IV3[:upper:]{2,3}
+      
+    - name: Special licences
+      regex: IW0[:upper:]{2,3}
+      
+    - name: Aosta Valley
+      regex: IX1[:upper:]{2,3}
+      

@@ -7,6 +7,7 @@
 #Experimental stations:	
 #6M2AA-6M2ZZ
 #6N2AA-6N2ZZ
+#Note: DS, DT, D7, D8, D9, 6K, 6L, 6M, 6N followed by a digit and by 2 or 3 letters are assigned on a temporary basis on special occasions.
 
 groups:
   amateur:
@@ -25,3 +26,6 @@ groups:
 
     - name: Korea
       regex: GN2[:upper:]{2}
+
+      notes:
+        - DS, DT, D7, D8, D9, 6K, 6L, 6M, 6N followed by a digit and by 2 or 3 letters are assigned on a temporary basis on special occasions.

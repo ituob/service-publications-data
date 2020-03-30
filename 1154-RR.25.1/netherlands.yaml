@@ -8,7 +8,11 @@
 groups:
   amateur:
     - name: Netherlands
-      regex: P[A|I][0|1|6|4|7|8][:upper:]{2,3}
+      regex: P[A0|A1|A6|I6|I7|I8][:upper:]{2,3}
       
     - name: Netherlands
-      regex: P[A|I][0|1|6|4|7|8][:upper:]{2,3}
+      regex: P[A2|A3|B0|D0|E0|E1|I1|I2|I3][:upper:]{2,3}
+
+  experimental:
+    - name: Netherlands
+      regex: PI[5|9][:upper:]{2,3}

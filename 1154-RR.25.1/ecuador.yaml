@@ -2,7 +2,7 @@
 #Ecuador
 #Amateur stations: HC or HD followed by a digit (1-8, indicating the province in which the station is situated) and by 1, 2 or 3 letters
 #The beginners have to use the letter N after the digit indicating the province
-#Digits indicating the provinces:	
+#Digits indicating the provinces: 
 #1 – Provinces of Carchi, Imbabura and Pichincha
 #2 – Provinces of Guayas (Coast) and Los Ríos
 #3 – Provinces of El Oro (Coast) and Loja
@@ -11,7 +11,7 @@
 #6 – Provinces of Cotopaxi, Tungurahua and Bolívar
 #7 – Provinces of Napo, Pastaza, Morona Santiago, Zamora and Sucumbios
 #8 – Province of the Galápagos (Islands)
-#Experimental stations:	HD9 followed by 3 letters
+#Experimental stations: HD9 followed by 3 letters
 
 groups:
   amateur:
@@ -41,7 +41,7 @@ codelists:
     1: Provinces of Carchi, Imbabura and Pichincha
     2: Provinces of Guayas (Coast) and Los Ríos
     3: Provinces of El Oro (Coast) and Loja
-    4: Provinces of Manabí (Coast) and Esmeraldas (Coast)	
+    4: Provinces of Manabí (Coast) and Esmeraldas (Coast) 
     5: Provinces of Chimborazo, Cañar and Azuay
     6: Provinces of Cotopaxi, Tungurahua and Bolívar
     7: Provinces of Napo, Pastaza, Morona Santiago, Zamora and Sucumbios

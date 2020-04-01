@@ -4,5 +4,4 @@
 
 groups:
   amateur:
-    - name: Congo
-      regex: ZK1[:upper:]{2}
+    regex: ZK1[:upper:]{2}

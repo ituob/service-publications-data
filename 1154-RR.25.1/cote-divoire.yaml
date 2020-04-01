@@ -1,13 +1,11 @@
 ---
 #Côte d'Ivoire (Republic of)
-#Amateur stations:	TU2AA-TU2ZZ
-#Experimental stations:	TU3AA-TU3ZZ
+#Amateur stations: TU2AA-TU2ZZ
+#Experimental stations: TU3AA-TU3ZZ
 
 groups:
   amateur:
-    - name: Côte d'Ivoire
-      regex: TU2[:upper:]{2}
+    regex: TU2[:upper:]{2}
 
   experimential:
-    - name: Côte d'Ivoire
-      regex: TU3[:upper:]{2}
+    regex: TU3[:upper:]{2}

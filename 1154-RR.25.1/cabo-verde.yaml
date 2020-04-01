@@ -1,9 +1,8 @@
 ---
 #Cabo Verde (Republic of)
-#Amateur stations:	
+#Amateur stations:
 #D44AA-D44ZZ
 
 groups:
   amateur:
-    - name: Cabo Verde
-      regex: D44[:upper:]{2}
+    regex: D44[:upper:]{2}

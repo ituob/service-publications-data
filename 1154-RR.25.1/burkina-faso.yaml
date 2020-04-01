@@ -1,13 +1,11 @@
 ---
 #Burkina Faso
 #Amateur stations and
-#experimental stations:	XT2 or XT3 followed by 2 letters
+#experimental stations: XT2 or XT3 followed by 2 letters
 
 groups:
   amateur:
-    - name: Burkina Faso
-      regex: XT[2-3][:upper:]{2}
+    regex: XT[2-3][:upper:]{2}
 
   experimental:
-    - name: Burkina Faso
-      regex: XT[2-3][:upper:]{2}
+    regex: XT[2-3][:upper:]{2}

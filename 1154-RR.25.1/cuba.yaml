@@ -1,16 +1,16 @@
 ---
 #Cuba
-#Amateur stations:	
+#Amateur stations: 
 #T4, CL, CM or CO followed by a digit (indicating the province or zone in which the station is situated) and by 1, 2 or 3 letters
-#	Digits indicating the provinces or zones:	
-# 1	–	Province of Pinar del Río	
-#	2	–	Province of Havana City	
-#	3	–	Province of Havana	
-#	4	–	Municipality of Isla de la Juventud	
-#	5	–	Province of Matanzas	
-#	6	–	Provinces of Villa Clara, Cienfuegos and Sancti Spíritus	
-#	7	–	Provinces of Ciego de Ávila and Camagüey	
-#	8	–	Provinces of Santiago de Cuba, Granma, Holguín, Las Tunas and Guantánamo
+# Digits indicating the provinces or zones: 
+# 1 – Province of Pinar del Río 
+# 2 – Province of Havana City 
+# 3 – Province of Havana 
+# 4 – Municipality of Isla de la Juventud 
+# 5 – Province of Matanzas 
+# 6 – Provinces of Villa Clara, Cienfuegos and Sancti Spíritus 
+# 7 – Provinces of Ciego de Ávila and Camagüey 
+# 8 – Provinces of Santiago de Cuba, Granma, Holguín, Las Tunas and Guantánamo
 
 groups:
   amateur:
@@ -31,9 +31,9 @@ groups:
 codelists:
   amateur_area:
     1: Province of Pinar del Río
-    2: Province of Havana City	
+    2: Province of Havana City 
     3: Province of Havana
-    4: Municipality of Isla de la Juventud	
+    4: Municipality of Isla de la Juventud 
     5: Province of Matanzas
     6: Provinces of Villa Clara, Cienfuegos and Sancti Spíritus
     7: Provinces of Ciego de Ávila and Camagüey

@@ -1,9 +1,8 @@
 ---
 #Burundi (Republic of)
-#Amateur stations:	
+#Amateur stations:
 #9U5 followed by 2 letters
 
 groups:
   amateur:
-    - name: Burundi
-      regex: 9U5[:upper:]{2}
+    regex: 9U5[:upper:]{2}

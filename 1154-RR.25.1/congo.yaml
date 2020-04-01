@@ -1,13 +1,11 @@
 ---
 #Congo (Republic of the)
 #Amateur stations and
-#experimental stations:	TN8AA-TN8ZZ
+#experimental stations: TN8AA-TN8ZZ
 
 groups:
   amateur:
-    - name: Congo
-      regex: TN8[:upper:]{2}
+    regex: TN8[:upper:]{2}
 
   experimental:
-    - name: Congo
-      regex: TN8[:upper:]{2}
+    regex: TN8[:upper:]{2}

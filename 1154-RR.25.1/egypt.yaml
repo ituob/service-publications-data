@@ -4,5 +4,4 @@
 
 groups:
   amateur:
-    - name: Egypt
-      regex: SU[:digit:][:upper:]{2}
+    regex: SU[:digit:][:upper:]{2}

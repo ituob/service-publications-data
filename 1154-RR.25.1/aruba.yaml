@@ -10,17 +10,32 @@
 # more than 3 letters is assigned during special events for not more
 # than one month.
 
-#
-
 groups:
   amateur:
-    regex: [P43|P49][A-Z]{2,3}
-    criteria:
-      1:
-        - P43
-        - P49
-      2:
-        from: A
-        to: Z
-        cardinality: 2-3
+    - name: Amateur stations
+      regex: P4[39][A-Z]{2,3}
+      criteria:
+        1: P4
+        2:
+          - 3
+          - 9
+        3:
+          from: A
+          to: Z
+          cardinality: 2-3
 
+    - name: Special events (see Note 2)
+      regex: P4[01][A-Z]{1,3}
+      criteria:
+        1: P4
+        2:
+          - 0
+          - 1
+        3:
+          from: A
+          to: Z
+          cardinality: 1-3
+
+notes:
+  - i)  Foreign amateurs will use the call sign assigned to them by their administration followed by a stroke (/) and then P4 for a duration of one year.
+  - ii)  The prefix P40 or P41 followed by a group of not more than 3 letters is assigned during special events for not more than one month.

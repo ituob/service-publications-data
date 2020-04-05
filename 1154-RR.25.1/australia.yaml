@@ -24,7 +24,7 @@ groups:
 
   amateur:
     - name: Advanced license
-      regex: [VK|AX|VI][:amateur_area:][A-GI-KS-UW-Z][A-Z]{2,3}
+      regex: (VK|AX|VI)[:amateur_area:][A-GI-KS-UW-Z][A-Z]{2,3}
       criteria:
         1:
           - VK
@@ -43,7 +43,7 @@ groups:
           cardinality: 2-3
 
     - name: Standard license
-      regex: [VK|AX|VI][:amateur_area:][HLMNPV][A-Z]{2}
+      regex: (VK|AX|VI)[:amateur_area:][HLMNPV][A-Z]{2}
       criteria:
         1:
           - VK
@@ -63,7 +63,7 @@ groups:
           cardinality: 2
 
     - name: Foundation license
-      regex: [VK|AX|VI][:amateur_area:][F][A-Z]{3}
+      regex: (VK|AX|VI)[:amateur_area:][F][A-Z]{3}
       criteria:
         1:
           - VK

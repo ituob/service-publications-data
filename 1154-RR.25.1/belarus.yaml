@@ -42,18 +42,18 @@ groups:
 
   amateur:
 
-    # regex: E(U|V|W)[:city_region:][:upper:]{1-3}
+    # regex: E[UVW][:city_region:][:upper:]{1-3}
     - name: class A (operator with CEPT licence, HAREC certificate)
-      regex: E(U|V|W)[:city_region:][:upper:]{1}
+      regex: E[UVW][:city_region:][:upper:]{1}
 
     - name: Class A and class B (operator with CEPT licence, HAREC certificate)
-      regex: E(U|V|W)[:city_region:][:upper:]{2}
+      regex: E[UVW][:city_region:][:upper:]{2}
 
     - name: Class C (operator with novice licence, ARNEC certificate)
-      regex: E(U|V|W)[:city_region:][:upper:]{3}
+      regex: E[UVW][:city_region:][:upper:]{3}
 
     - name: Club stations
-      regex: E(U|V|W)[:city_region:](W|X|Z)[:upper:]{1}
+      regex: E[UVW][:city_region:](W|X|Z)[:upper:]{1}
 
     - name: Foreign radio amateurs
       regex: EW/.*
@@ -81,8 +81,7 @@ groups:
       regex: EV[:digit:]{1-4}[:upper:]
 
     - name: participants in international SW and USW radio communication competitions (up to one year)
-      regex: E(U|V|W)5[:upper:]
-
+      regex: E[UVW]5[:upper:]
 
 codelists:
   city_region:

@@ -5,7 +5,7 @@
 #OF, OG, OH, OI or OJ followed by a digit and a group of not more than 4 characters, the last of which shall be a letter
 
 groups:
-  amateur:
-    regex: O[FGHIJ][:digit:][0-9A-Z]{3}[:upper:]{1}
-  experimental:
-    regex: O[FGHIJ][:digit:][0-9A-Z]{3}[:upper:]{1}
+  amateur: &general
+    regex: O[F-J][:digit:][0-9A-Z]{3}[:upper:]{1}
+
+  experimental: *general

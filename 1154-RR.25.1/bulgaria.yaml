@@ -5,5 +5,4 @@
 
 groups:
   amateur:
-    - name: Bulgaria
-      regex: LZ[1-9][:upper:]{1,3}
+    regex: LZ[1-9][:upper:]{1,3}

@@ -15,6 +15,7 @@ groups:
           from: A
           to: Z
           cardinality: 2
+
     - name: Foreign radio amateurs, visitors and short-term licence holders.
       regex: 8P9[:upper:]{2}
       criteria:

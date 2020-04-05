@@ -34,7 +34,7 @@
 
 groups:
   amateur:
-    regex: [(AY,AZ,LU,LW)][:digit:][:province:][A-Z]
+    regex: "(AY|AZ|LU|LW)[:digit:][:province:][A-Z]"
 
     criteria:
       1:

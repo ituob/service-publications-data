@@ -23,54 +23,36 @@
 
 groups:
   amateur:
-    - name: Provinces of Nova Scotia and New Brunswick
-      regex: V[EA]1[:upper:]{1,3}
-
-    - name: Province of Quebec
-      regex: V[EA][:upper:]{1,3}
-
-    - name: Province of Ontario
-      regex: V[EA][:upper:]{1,3}
-
-    - name: Province of Manitoba
-      regex: V[EA][:upper:]{1,3}
-
-    - name: Province of Saskatchewan
-      regex: V[EA][:upper:]{1,3}
-
-    - name: Province of Alberta
-      regex: V[EA][:upper:]{1,3}
-
-    - name: Province of British Columbia
-      regex: V[EA][:upper:]{1,3}
-
-    - name: Northwest Territories (excluding Nunavut)
-      regex: VE8[:upper:]{1,3}
-
-    - name: Province of New Brunswick
-      regex: VE9[:upper:]{1,3}
-
-    - name: Amateur station on board a ship
-      regex: VE0[:upper:]{1,3}
-
-    - name: Province of Newfoundland (excluding Labrador)
-      regex: VO1[:upper:]{1,3}
-
-    - name: Labrador
-      regex: VO2[:upper:]{1,3}
-
-    - name: Nunavut Territory
-      regex: VY0[:upper:]{1,3}
-
-    - name: Yukon Territory
-      regex: VY1[:upper:]{1,3}
-
-    - name: Province of Prince Edward Island
-      regex: VY2[:upper:]{1,3}
+    regex: V[:province_or_area:][:upper:]{1,3}
 
   experimental:
     - name: Canada (all provinces and territories)
       regex: VX9[:upper:]{2,3}
+
+codelists:
+  provide_or_area:
+    E1: Provinces of Nova Scotia and New Brunswick
+    A1: Provinces of Nova Scotia and New Brunswick
+    E2: Province of Quebec
+    A2: Province of Quebec
+    E3: Province of Ontario
+    A3: Province of Ontario
+    E4: Province of Manitoba
+    A4: Province of Manitoba
+    E5: Province of Saskatchewan
+    A5: Province of Saskatchewan
+    E6: Province of Alberta
+    A6: Province of Alberta
+    E7: Province of British Columbia
+    A7: Province of British Columbia
+    E8: Northwest Territories (excluding Nunavut)
+    E9: Province of New Brunswick
+    E0: Amateur station on board a ship
+    O1: Province of Newfoundland (excluding Labrador)
+    O2: Labrador
+    Y0: Nunavut Territory
+    Y1: Yukon Territory
+    Y2: Province of Prince Edward Island
 
 notes:
   - VE0 is intended for use when the amateur radio station is operated from a vessel that makes international voyages.

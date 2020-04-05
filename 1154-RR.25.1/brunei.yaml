@@ -6,8 +6,8 @@
 
 groups:
   amateur:
-  - name: communications HF and VHF
-    regex: V85[:upper:]{2,3}
+    - name: communications HF and VHF
+      regex: V85[:upper:]{2,3}
 
-  - name: communications VHF only
-    regex: V85[:upper:]
+    - name: communications VHF only
+      regex: V85[:upper:]

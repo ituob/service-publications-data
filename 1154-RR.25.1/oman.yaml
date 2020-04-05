@@ -1,0 +1,11 @@
+---
+#Oman (Sultanate of)
+#Amateur stations: A40AA-A48ZZ
+#Experimental stations: A49AA-A49ZZ
+
+groups:
+  amateur:
+    regex: A4[0-8][:upper:]{2}
+
+  experimental:
+    regex: A49[:upper:]{2}

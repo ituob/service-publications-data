@@ -1,0 +1,7 @@
+---
+#Haiti (Republic of)
+#Amateur stations: HH followed by a digit (indicating the zone in which the station is situated) and by 2 letters
+
+groups:
+  amateur:
+    regex: HH[:digit:][:upper:]{2}

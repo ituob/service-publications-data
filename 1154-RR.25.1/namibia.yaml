@@ -1,0 +1,21 @@
+---
+#Namibia (Republic of)
+#Amateur stations:
+#V50A-V50ZZZ – Restricted licence station
+#V51A-V51ZZZ – Full licence station
+#V5 followed with existing call sign – Guest station
+#Experimental stations: V59A-V59ZZZ
+
+groups:
+  amateur:
+    - name: Restricted licence station
+      regex: V50[:upper:]{1,3}
+
+    - name: Full licence station
+      regex: V51[:upper:]{1,3}
+
+    # - name: Guest station
+    #   regex: V5 ??????????
+
+  experimental:
+    regex: V59[:upper:]{1,3}

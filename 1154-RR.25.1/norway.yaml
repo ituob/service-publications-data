@@ -1,0 +1,23 @@
+---
+#Norway
+#Amateur stations:
+#JW0AAA-JW9ZZZ
+#JX0AAA-JX0ZZZ
+#LA0AAA-LA9ZZZ
+#LB0AAA-LB9ZZZ
+#LC0AAA-LC9ZZZ
+#LD0AAA-LD9ZZZ
+#3Y0AAA-3Y9ZZZ
+#Experimental stations: LF2AAA-LF9ZZZ
+
+groups:
+  amateur:
+    - name: Pattern 1
+      regex: "[JW|LA|LB|LC|LD|3Y][:digit:][:upper:]{3}"
+
+    - name: Pattern 2
+      regex: JX0[:upper:]{3}
+
+  experimental:
+    - name: Norway
+      regex: LF[:digit:][:upper:]{3}

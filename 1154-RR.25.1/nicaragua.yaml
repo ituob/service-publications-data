@@ -1,0 +1,37 @@
+---
+#Nicaragua
+#Amateur stations: YN followed by a digit (indicating the zone in which the station is situated) and by 2 or 3 letters
+#Digits indicating the zones:
+#1 – Managua
+#2 – Granada
+#3 – León
+#4 – Zelaya
+#5 – Carazo and Rivas
+#6 – Chinandega
+#7 – Masaya
+#8 – Estelí, Madriz and Nueva Segovia
+#9 – Matagalpa, Jinotega, Boaco, Chontales and Río San Juan
+
+groups:
+  amateur:
+    regex: YN[:zone:][:upper:]{2,3}
+    criteria:
+      1: YN
+      2:
+        codelist: zone
+      3:
+        from: A
+        to: Z
+        cardinality: 2-3
+
+codelists:
+  zone:
+    1: Managua
+    2: Granada
+    3: León
+    4: Zelaya
+    5: Carazo and Rivas
+    6: Chinandega
+    7: Masaya
+    8: Estelí, Madriz and Nueva Segovia
+    9: Matagalpa, Jinotega, Boaco, Chontales and Río San Juan

@@ -1,0 +1,7 @@
+---
+#Maldives (Republic of)
+#Amateur stations: 8Q7AA-8Q7ZZ
+
+groups:
+  amateur:
+    regex: 8Q7[:upper:]{2}

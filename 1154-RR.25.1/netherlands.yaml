@@ -1,0 +1,18 @@
+---
+#Netherlands (Kingdom of the)
+#Amateur stations:
+#PA0, PA1, PA6, PI4, PI6, PI7 or PI8 followed by 2 or 3 letters
+#PA2, PA3, PB0, PD0, PE0, PE1, PI1, PI2 or PI3 followed by 3 letters
+#Experimental stations: PI5 or PI9 followed by 2 or 3 letters
+
+groups:
+  amateur:
+    - name: Netherlands
+      regex: P[A0|A1|A6|I6|I7|I8][:upper:]{2,3}
+
+    - name: Netherlands
+      regex: P[A2|A3|B0|D0|E0|E1|I1|I2|I3][:upper:]{3}
+
+  experimental:
+    - name: Netherlands
+      regex: PI[59][:upper:]{2,3}

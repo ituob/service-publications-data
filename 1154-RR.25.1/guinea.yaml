@@ -1,0 +1,11 @@
+---
+#Guinea (Republic of)
+#Amateur stations: 3X0AA-3X9ZZ
+#Experimental stations: 3X2AAA-3X9ZZZ
+
+groups:
+  amateur:
+    regex: 3X[:digit:][:upper:]{2}
+
+  experimental:
+    regex: 3X[2-9][:upper:]{3}

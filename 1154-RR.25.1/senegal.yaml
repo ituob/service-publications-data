@@ -1,0 +1,11 @@
+---
+#Senegal (Republic of)
+#Amateur stations: 6W1AA-6W1ZZ
+#Experimental stations: 6V3AA-6V3ZZ
+
+groups:
+  amateur:
+    regex: 6W1[:upper:]{2}
+
+  amateur:
+    regex: 6V3[:upper:]{2}

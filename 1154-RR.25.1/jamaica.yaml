@@ -1,0 +1,13 @@
+---
+#Jamaica
+#Amateur stations and experimental stations: 6Y5AA-6Y5ZZ
+#Note: Foreign amateurs will use the call sign assigned to them by their administration followed by a stroke (/) and then 6Y5.
+
+groups:
+  amateur: &general
+    regex: 6Y5[:upper:]{2}
+
+  experimental: *general
+
+notes:
+  - Foreign amateurs will use the call sign assigned to them by their administration followed by a stroke (/) and then 6Y5.

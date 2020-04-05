@@ -1,0 +1,11 @@
+---
+#Micronesia (Federated States of)
+#Amateur stations: V63 followed by 2 letters
+#Experimental stations: V62 followed by the letter X and by 2 letters
+
+groups:
+  amateur:
+    regex: V63[:upper:]{2}
+
+  experimental:
+    regex: V62X[:upper:]{2}

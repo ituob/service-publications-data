@@ -1,0 +1,7 @@
+---
+#Rwanda (Republic of)
+#Amateur stations: 9X5AA-9X5ZZ
+
+groups:
+  amateur:
+    regex: 9X5[:upper:]{2}

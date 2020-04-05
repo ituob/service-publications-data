@@ -1,0 +1,25 @@
+---
+#Chile
+#Amateur stations:
+#CE or XQ followed by a digit (indicating the zone in which the station is situated) and by 2 or 3 letters
+#CE1-CE8 followed by 2 or 3 letters – Mainland Chile
+#CE9 followed by 2 or 3 letters – Antarctic
+#CE0Y followed by 2 or 3 letters – Easter Island
+#CE0Z followed by 2 letters – Juan Fernández and San Félix Islands
+
+groups:
+  amateur:
+    - name: Chile
+      regex: (CE|XQ)[:digit:][:upper:]{2,3}
+
+    - name: Mainland Chile
+      regex: CE[1-8][:upper:]{2,3}
+
+    - name: Antarctic
+      regex: CE9[:upper:]{2,3}
+
+    - name: Easter Island
+      regex: CE0Y[:upper:]{2,3}
+
+    - name: Juan Fernández and San Félix Islands
+      regex: CE0Z[:upper:]{2}

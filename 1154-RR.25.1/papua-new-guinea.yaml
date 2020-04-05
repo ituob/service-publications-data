@@ -1,0 +1,29 @@
+---
+#Papua New Guinea
+#Amateur stations:
+#P29BAA-P29BZZ –  Beacons
+#P29CAA-P29CZZ –  Club stations
+#P29KAA-P29KZZ –  Combined licences
+#P29NAA-P29NZZ –  Novice licence
+#P29RAA-P29RZZ –  Repeaters
+#P29ZAA-P29ZZZ –  Limited licence
+
+groups:
+  amateur:
+    - name: Beacons
+      regex: P29B[:upper:]{2}
+
+    - name: Club stations
+      regex: P29C[:upper:]{2}
+
+    - name: Combined licences
+      regex: P29K[:upper:]{2}
+
+    - name: Novice licence
+      regex: P29N[:upper:]{2}
+
+    - name: Repeaters
+      regex: P29R[:upper:]{2}
+
+    - name: Limited licence
+      regex: P29Z[:upper:]{2}

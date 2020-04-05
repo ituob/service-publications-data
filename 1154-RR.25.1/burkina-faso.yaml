@@ -5,9 +5,7 @@
 
 groups:
   amateur:
-    - name: Burkina Faso
-      regex: XT[2-3][:upper:]{2}
+    regex: XT[2-3][:upper:]{2}
 
   experimental:
-    - name: Burkina Faso
-      regex: XT[2-3][:upper:]{2}
+    regex: XT[2-3][:upper:]{2}

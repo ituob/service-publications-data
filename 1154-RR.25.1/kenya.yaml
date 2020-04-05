@@ -1,0 +1,11 @@
+---
+#Kenya (Republic of)
+#Amateur stations: 5Z4AA-5Z4ZZ
+#Experimental stations: 5Z5AA-5Z5ZZ
+
+groups:
+  amateur:
+    regex: 5Z4[:upper:]{2}
+
+  experimental:
+    regex: 5Z5[:upper:]{2}

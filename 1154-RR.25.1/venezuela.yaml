@@ -1,0 +1,7 @@
+---
+#Venezuela (Bolivarian Republic of)
+#Amateur stations: YV, YX or 4M followed by a digit and 3 letters
+
+groups:
+  amateur:
+    regex: "[YV|YX|4M][:digit:][:upper:]{3}"

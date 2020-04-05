@@ -3,7 +3,8 @@
 # Amateur stations:  EU, EV, or EW, followed by a digit (1-4,
 # 6-8 indicating the city or region (oblast) where the station is
 # located) and one, two or three letters.
-#   Numbers indicating city or region:  1. City of Minsk
+#   Numbers indicating city or region:
+#     1. City of Minsk
 #     2. Minsk Region
 #     3. Brest Region
 #     4. Grodno Region
@@ -57,10 +58,6 @@ groups:
     - name: Foreign radio amateurs
       regex: EW/.*
 
-      notes:
-        - Foreign radio amateurs with a licence must use EW followed by slash (/) and their own call sign.
-
-
   experimental:
     - name: repeaters
       regex: EU[1-4|6-8][:digit:]{2}R
@@ -96,3 +93,6 @@ codelists:
     5: Vitebsk Region
     6: Mogilev Region
     7: Gomel Region
+
+notes:
+  - Foreign radio amateurs with a licence must use EW followed by slash (/) and their own call sign.

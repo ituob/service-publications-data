@@ -1,0 +1,28 @@
+---
+#Slovak Republic
+#Amateur stations:
+#OM0AA-OM8ZZZ
+#OM0A-OM9Z*
+#OM9AA-OM9ZZ**
+#OM9AAA-OM9SZZ***
+# * For international amateur contests.
+# ** For extraordinary purposes and for period of persistence of such purposes only.
+# *** For foreigners transmitting from the Slovak Republic territory.
+#Experimental stations: OM9TAA-OM9ZZZ
+
+groups:
+  amateur:
+    - name: Amateur stations
+      regex: OM[0-8][:upper:]{2,3}
+
+    - name: For international amateur contests
+      regex: OM[:digit:]Z
+
+    - name: For extraordinary purposes and for period of persistence of such purposes only
+      regex: OM9[:upper:]{2}
+
+    - name: For foreigners transmitting from the Slovak Republic territory
+      regex: OM9[A-S][:upper:]{2}
+
+  experimental:
+    regex: OM9[T-Z][:upper:]{2}

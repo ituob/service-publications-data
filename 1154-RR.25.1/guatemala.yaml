@@ -1,0 +1,36 @@
+---
+#Guatemala (Republic of)
+#Amateur stations: TG followed by a digit (4-9, indicating the department in which the station is situated) and by 2 letters
+#Digits indicating the departments:
+#4 – Sololá, Chimaltenango, Suchitepéquez, Escuintla and Santa Rosa
+#5 – Huehuetenango, Quiché and Totonicapán
+#6 – Zacapa, Chiquimula and Jutiapa
+#7 – Petén, Alta Verapaz and Izabal
+#8 – San Marcos, Quetzaltenango and Retalhuleu
+#9 – Guatemala, Jalapa, El Progreso, Baja Verapaz and Sacatepéquez
+#Experimental stations: TD9A-TD9Z
+
+groups:
+  amateur:
+    regex: TG[:departments:][:upper:]{2}
+    criteria:
+      1: TG
+      2:
+        codelist: departments
+      3:
+        from: A
+        to: Z
+        cardinality: 2
+
+  experimental:
+    name: Ecuador
+    regex: TD9[:upper:]
+
+codelists:
+  departments:
+    4: Sololá, Chimaltenango, Suchitepéquez, Escuintla and Santa Rosa
+    5: Huehuetenango, Quiché and Totonicapán
+    6: Zacapa, Chiquimula and Jutiapa
+    7: Petén, Alta Verapaz and Izabal
+    8: San Marcos, Quetzaltenango and Retalhuleu
+    9: Guatemala, Jalapa, El Progreso, Baja Verapaz and Sacatepéquez

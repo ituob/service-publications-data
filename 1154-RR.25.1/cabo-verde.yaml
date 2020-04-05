@@ -5,5 +5,4 @@
 
 groups:
   amateur:
-    - name: Cabo Verde
-      regex: D44[:upper:]{2}
+    regex: D44[:upper:]{2}

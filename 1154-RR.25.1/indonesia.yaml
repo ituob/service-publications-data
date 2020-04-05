@@ -1,0 +1,21 @@
+---
+#Indonesia (Republic of)
+#Amateur stations:
+#YB or YE followed by a digit (0-9) and by 1*, 2 or 3 letters  –  Advanced licence
+#YC or YF followed by a digit (0-9) and by 1*, 2 or 3 letters  –  General licence
+#YD, YG or YH followed by a digit (0-9) and by 1*, 2 or 3 letters  –  Novice licence
+#* The 1 letter suffix is not for personal call sign use, but only for organizational stations with special event activities.
+
+groups:
+  amateur:
+    - name: Advanced licence
+      regex: Y[BE][:digit:][:upper:]{1,3}
+
+    - name: General licence
+      regex: Y[CF][:digit:][:upper:]{1,3}
+
+    - name: Novice licence
+      regex: Y[DGH][:digit:][:upper:]{1,3}
+
+notes:
+  - The 1 letter suffix is not for personal call sign use, but only for organizational stations with special event activities.

@@ -1,0 +1,11 @@
+---
+#Kyrgyz Republic
+#Amateur stations: EX followed by a digit (0-9) and 1 or 2 letters
+#Note: Foreign radio amateurs will use EX followed by a stroke (/) and their home call sign.
+
+groups:
+  amateur:
+    regex: EX[:digit:][:upper:]{1,2}
+
+notes:
+  - Foreign radio amateurs will use EX followed by a stroke (/) and their home call sign.

@@ -1,0 +1,74 @@
+---
+#Italy
+#Amateur stations:
+#I0 or IK0 followed by 2 or 3 letters – Lazio and Umbria
+#I1 or IK1 followed by 2 or 3 letters – Liguria, Piemonte and the Province of Novara
+#I2 or IK2 followed by 2 or 3 letters – Lombardia and the Province of Mantova
+#I3 or IK3 followed by 2 or 3 letters – Veneto and the Province of Rovigo
+#I4 or IK4 followed by 2 or 3 letters – Emilia-Romagna and the Province of Piacenza
+#I5 or IK5 followed by 2 or 3 letters – Toscana
+#I6 or IK6 followed by 2 or 3 letters – Marche and Abruzzi
+#I7 or IK7 followed by 2 or 3 letters – Puglie and the Province of Matera
+#I8 or IK8 followed by 2 or 3 letters – Campania, Molise, Calabria and the Province of Potenza
+#IA5 followed by 2 or 3 letters – “Toscane” Islands (Capraia, Cerboli, Elba, Formica di Burano, Formiche di Grosseto, Giannutri, Giglio, Gorgona, Montecristo, Pianosa, Scoglio d’Affrica)
+#IB0 followed by 2 or 3 letters – “Ponziane” Islands (Palmarola, Ponza, Scoglio della Botte, Santo Stefano, Ventotene, Zanone)
+#IC8 followed by 2 or 3 letters – “Napoletane” Islands (Capri, Ischia, Li Galli, Procida, Vivara)
+#ID9 followed by 2 or 3 letters – “Eolie” Islands (Alicudi, Basiluzzo, Dino, Filicudi, Formiche, Lipari, Lisca Bianca, Panarea, Salina, San Pietro a Canna, Stromboli, Strombolicchio, Vulcano)
+#IE9 followed by 2 or 3 letters – Island of Ustica
+#IF9 followed by 2 or 3 letters – “Egadi” Islands (Asinelli, Favignana, La Formica, Levanzo, Maraone, Marettimo, Stagnone)
+#IG9 followed by 2 or 3 letters – “Pelagie” Islands (Lampedusa, Lampione, Linosa)
+#IH9 followed by 2 or 3 letters – Island of Pantelleria
+#IJ7 followed by 2 or 3 letters – Archipelago of “Cheradi”
+#IL7 followed by 2 or 3 letters – “Tremiti” Islands (Caprara, Pianosa, San Domino, San Nicola)
+#IM0 followed by 2 or 3 letters – “Sardegna” Islands (Asinara, Bisce, Budelli, Carbonara, Caprera, Cavoli, Corcelli, Cretaccio, Foradada, Il Catalano, Il Toro, Il Vitello, La Maddalena, La Vacca, Mal di Ventre, Molara, Mortorio, Nibani, Ogliastra, Pan di Zucchero, Piana, Quirra, Razzoli, Rossa, Ruglia, S. Antioco, S. Pietro, S. Macario, S. Maria, Serpentara, Soffi, Spargi, Su Giudeu, Tavolara)
+#IN3 followed by 2 or 3 letters – Trentino-Alto Adige
+#IP1 followed by 2 or 3 letters – “Liguria” Islands
+#IS0 followed by 2 or 3 letters – Sardegna
+#IT9 followed by 2 or 3 letters – Sicilia
+#IV3 followed by 2 or 3 letters – Friuli and Venezia Giulia
+#IW0 followed by 2 or 3 letters – Special licences
+#IX1 followed by 2 or 3 letters – Aosta Valley
+
+groups:
+  amateur:
+    regex: I[:region:][:upper:]{2,3}
+
+codelists:
+  region:
+    0: Lazio and Umbria
+    1: Liguria, Piemonte and the Province of Novara
+    2: Lombardia and the Province of Mantova
+    3: Veneto and the Province of Rovigo
+    4: Emilia-Romagna and the Province of Piacenza
+    5: Toscana
+    6: Marche and Abruzzi
+    7: Puglie and the Province of Matera
+    8: Campania, Molise, Calabria and the Province of Potenza
+
+    K0: Lazio and Umbria
+    K1: Liguria, Piemonte and the Province of Novara
+    K2: Lombardia and the Province of Mantova
+    K3: Veneto and the Province of Rovigo
+    K4: Emilia-Romagna and the Province of Piacenza
+    K5: Toscana
+    K6: Marche and Abruzzi
+    K7: Puglie and the Province of Matera
+    K8: Campania, Molise, Calabria and the Province of Potenza
+
+    A5: “Toscane” Islands (Capraia, Cerboli, Elba, Formica di Burano, Formiche di Grosseto, Giannutri, Giglio, Gorgona, Montecristo, Pianosa, Scoglio d’Affrica)
+    B0: “Ponziane” Islands (Palmarola, Ponza, Scoglio della Botte, Santo Stefano, Ventotene, Zanone)
+    C8: “Napoletane” Islands (Capri, Ischia, Li Galli, Procida, Vivara)
+    D9: “Eolie” Islands (Alicudi, Basiluzzo, Dino, Filicudi, Formiche, Lipari, Lisca Bianca, Panarea, Salina, San Pietro a Canna, Stromboli, Strombolicchio, Vulcano)
+    E9: Island of Ustica
+    F9: “Egadi” Islands (Asinelli, Favignana, La Formica, Levanzo, Maraone, Marettimo, Stagnone)
+    G9: “Pelagie” Islands (Lampedusa, Lampione, Linosa)
+    H9: Island of Pantelleria
+    J7: Archipelago of “Cheradi”
+    L7: “Tremiti” Islands (Caprara, Pianosa, San Domino, San Nicola)
+    M0: “Sardegna” Islands (Asinara, Bisce, Budelli, Carbonara, Caprera, Cavoli, Corcelli, Cretaccio, Foradada, Il Catalano, Il Toro, Il Vitello, La Maddalena, La Vacca, Mal di Ventre, Molara, Mortorio, Nibani, Ogliastra, Pan di Zucchero, Piana, Quirra, Razzoli, Rossa, Ruglia, S. Antioco, S. Pietro, S. Macario, S. Maria, Serpentara, Soffi, Spargi, Su Giudeu, Tavolara)
+    N3: Trentino-Alto Adige
+    S0: Sardegna
+    T9: Sicilia
+    V3: Friuli and Venezia Giulia
+    W0: Special licences
+    X1: Aosta Valley

@@ -1,0 +1,8 @@
+---
+#Chad (Republic of)
+#Amateur stations and
+#experimental stations: TT8 followed by 2 letters, the first of which is letter A
+
+groups:
+  amateur:
+    regex: TT8A[:upper:]{1}

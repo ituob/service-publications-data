@@ -1,0 +1,13 @@
+---
+#Lithuania (Republic of)
+#Amateur stations and experimental stations: LY followed by a digit (1-4) and by 1 to 4 letters
+#Note: LY followed by 2 to 4 digits and by 1 letter is authorized only for the formation of occasional radio call signs.
+
+groups:
+  amateur: &general
+    regex: LY[1-4][:upper:]{1,4}
+
+  experimental: *general
+
+notes:
+  - LY followed by 2 to 4 digits and by 1 letter is authorized only for the formation of occasional radio call signs.

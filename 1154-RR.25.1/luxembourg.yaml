@@ -1,0 +1,33 @@
+---
+#Luxembourg
+#LX0A-LX0ZZZZ Repeaters, beacons, group stations
+#LX1A-LX1ZZZZ Individual stations operating with a HAREC certificate
+#LX2A-LX2ZZZZ
+#LX3A-LX3ZZZZ
+#LX4A-LX4ZZZZ Group stations
+#LX5A-LX5ZZZZ Group stations, experimental stations
+#LX6A-LX6ZZZZ Individual stations operated by beginners
+#LX7A-LX7ZZZZ Individual stations operated during competitions
+#LX8A-LX8ZZZZ Group stations
+#LX9A-LX9ZZZZ
+#Note: Foreign radio amateurs with temporary licence must use LX followed by a stroke (/) and their own call sign.
+
+groups:
+  amateur:
+    regex: LX[:station_types:][:upper:]{1,4}
+
+codelists:
+  station_types:
+    0: Repeaters, beacons, group stations
+    1: Individual stations operating with a HAREC certificate
+    2: Individual stations operating with a HAREC certificate
+    3: Individual stations operating with a HAREC certificate
+    4: Group stations
+    5: Group stations, experimental stations
+    6: Individual stations operated by beginners
+    7: Individual stations operated during competitions
+    8: Group stations
+    9: Group stations
+
+notes:
+  - Foreign radio amateurs with temporary licence must use LX followed by a stroke (/) and their own call sign.

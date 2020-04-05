@@ -1,0 +1,17 @@
+---
+#Denmark
+#Amateur stations
+#Denmark, OU, OV, OZ, 5P, 5Q, 0-9, Up to 4 characters, the last of which shall be a letter
+#Faroe Islands, OY, 1-9, 1, 2 or 3 letters
+#Greenland, OX, 1-9, 2 or 3 letters
+
+groups:
+  amateur:
+    - name: Denmark
+      regex: (OU|OV|OZ|5P|5Q)[:digit:][0-9A-Z]{3}[:upper:]
+
+    - name: Faroe Islands
+      regex: OY[1-9][:upper:]{1,3}
+
+    - name: Greenland
+      regex: OX[1-9][:upper:]{2,3}

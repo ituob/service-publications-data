@@ -1,0 +1,20 @@
+---
+#Ghana
+#Amateur stations:
+#9G1 followed by 2 or more letters*
+#9G5 followed by 2 or more letters**
+#Experimental stations:
+#9G2 followed by 2 letters
+# * For national radio amateurs.
+# ** For foreign radio amateurs.
+
+groups:
+  amateur:
+    - name: For national radio amateurs
+      regex: 9G1[:upper:]{2,}
+
+    - name: For foreign radio amateurs
+      regex: 9G5[:upper:]{2,}
+
+  experimental:
+    regex: 9G2[:upper:]{2}

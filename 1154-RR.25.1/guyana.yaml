@@ -1,0 +1,19 @@
+---
+#Guyana
+#Amateur stations and
+#experimental stations:
+#8R1AAA-8R1ZZZ –  Demerara
+#8R2AAA-8R2ZZZ –  Berbice
+#8R3AAA-8R3ZZZ –  Essequibo
+
+groups:
+  amateur: &general
+    regex: 8R[:region:][:upper:]{3}
+
+  experimental: *general
+
+codelists:
+  region:
+    1: Demerara
+    2: Berbice
+    3: Essequibo

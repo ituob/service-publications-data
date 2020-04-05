@@ -1,0 +1,9 @@
+---
+#Myanmar (Union of)
+#Amateur stations and experimental stations: XZ2AA-XZ2ZZ
+
+groups:
+  amateur: &general
+    regex: XZ2[:upper:]{2}
+
+  experimental: *general

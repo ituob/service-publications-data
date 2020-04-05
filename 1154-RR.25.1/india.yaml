@@ -1,0 +1,18 @@
+---
+#India (Republic of)
+#Amateur stations:
+#VU2 or VU3 followed by 2 or 3 letters  –  Mainland India
+#VU4 or VU7 followed by 2 or 3 letters  –  National Islands
+#Experimental stations: VU4 followed by 2 letters
+
+groups:
+  amateur:
+    - name: Mainland India
+      regex: VU[23][:upper:]{2,3}
+
+    - name: National Islands
+      regex: VU[47][:upper:]{2,3}
+
+  experimental:
+    - name: India
+      regex: VU4[:upper:]{2}

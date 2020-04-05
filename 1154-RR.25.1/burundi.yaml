@@ -5,5 +5,4 @@
 
 groups:
   amateur:
-    - name: Burundi
-      regex: 9U5[:upper:]{2}
+    regex: 9U5[:upper:]{2}

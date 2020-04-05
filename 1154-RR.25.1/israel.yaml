@@ -1,0 +1,23 @@
+---
+#Israel (State of)
+#Amateur stations:
+#4X1 followed by 2 or 3 letters
+#4X4 followed by 2 or 3 letters
+#4X6 followed by 2 or 3 letters
+#4X8 followed by 2 or 3 letters
+#4Z1 followed by 2 or 3 letters
+#4Z4 followed by 2 or 3 letters
+#4Z5 followed by 2 or 3 letters
+#4Z7 followed by 2 or 3 letters
+#Z9 followed by 2 or 3 letters
+
+groups:
+  amateur:
+    - name: Pattern 1
+      regex: 4X[1468][:upper:]{2,3}
+
+    - name: Pattern 2
+      regex: 4Z[1457][:upper:]{2,3}
+
+    - name: Pattern 3
+      regex: Z9[:upper:]{2,3}

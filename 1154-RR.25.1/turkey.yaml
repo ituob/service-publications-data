@@ -1,0 +1,7 @@
+---
+#Turkey
+#Amateur stations: TA followed by a digit and a group of not more than 3 letters
+
+groups:
+  amateur:
+    regex: TA[:digit:][:upper:]{1,3}

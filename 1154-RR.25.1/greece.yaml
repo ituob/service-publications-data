@@ -1,0 +1,63 @@
+---
+#Greece
+#Amateur stations and experimental stations: SV* or SW** followed by a digit (indicating the region in which the station is situated) and by 2 or 3 letters
+#Digits indicating the regions:
+#1 – Sterea Hellas
+#2 – Central and Western Macedonia
+#3 – Peloponnese
+#4 – Thessaly
+#5 – Dodecanese Prefecture
+#6 – Epirus
+#7 – Eastern Macedonia and Thrace
+#8 – All the islands (except those belonging to Cretian Prefectures and to Dodecanese Prefecture)
+#9 – Cretian Prefectures and their islands
+#* Class 1.
+#** Class 2.
+#Notes:
+#i) SV0 or SW0 followed by 2 or 3 letters is assigned to Greek radio amateurs with a foreign licence and to foreign radio amateurs with permanent residence.
+#ii) The prefix J4, SX or SY is assigned as a special call sign to Greek unions of radio amateurs, Greek teams of radio amateurs, Greek radio amateurs and foreign radio amateurs.
+#iii) The prefix SZ is assigned to the Greek Radio Amateur Union and Greek university laboratories in the area of wireless telecommunications.
+
+groups:
+  amateur: &general
+    - name: Class 1
+      regex: SV[:regions:][:upper:]{2,3}
+      criteria:
+        1: SV
+        2:
+          codelist: regions
+        3:
+          from: A
+          to: Z
+          cardinality: 2-3
+
+    - name: Class 2
+      regex: SW[:regions:][:upper:]{2,3}
+      criteria:
+        1: SW
+        2:
+          codelist: regions
+        3:
+          from: A
+          to: Z
+          cardinality: 2-3
+
+  experimental: *general
+
+codelists:
+  regions:
+    0: For radio amateurs with a foreign licence and to foreign radio amateurs with permanent residence
+    1: Sterea Hellas
+    2: Central and Western Macedonia
+    3: Peloponnese
+    4: Thessaly
+    5: Dodecanese Prefecture
+    6: Epirus
+    7: Eastern Macedonia and Thrace
+    8: All the islands (except those belonging to Cretian Prefectures and to Dodecanese Prefecture)
+    9: Cretian Prefectures and their islands
+
+notes:
+  - i) SV0 or SW0 followed by 2 or 3 letters is assigned to Greek radio amateurs with a foreign licence and to foreign radio amateurs with permanent residence.
+  - ii) The prefix J4, SX or SY is assigned as a special call sign to Greek unions of radio amateurs, Greek teams of radio amateurs, Greek radio amateurs and foreign radio amateurs.
+  - iii) The prefix SZ is assigned to the Greek Radio Amateur Union and Greek university laboratories in the area of wireless telecommunications.

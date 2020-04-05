@@ -1,0 +1,22 @@
+---
+#Romania
+#Amateur stations:
+#a) individual
+#  YO followed by a digit and a group of not more than 3 letters (the first of which is not letter K)
+#b) club
+#  YO followed by a digit and a group of not more than 3 letters (the first of which is letter K)
+#Note: YP, YQ and YR followed by a digit and a group of not more than 3 letters are assigned to amateur stations operating during contests or special events.
+
+groups:
+  amateur:
+    - name: Individual
+      regex: YO[:digit:][:upper:]{1,3}
+
+    - name: Club
+      regex: YO[:digit:]K[:upper:]{1,2}
+
+    - name: Temporary, contests or special events
+      regex: Y[PQR][:digit:]K[:upper:]{1,2}
+
+notes:
+  - YP, YQ and YR followed by a digit and a group of not more than 3 letters are assigned to amateur stations operating during contests or special events.

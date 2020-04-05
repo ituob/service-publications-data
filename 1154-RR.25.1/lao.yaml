@@ -1,0 +1,11 @@
+---
+#Lao People’s Democratic Republic
+#Amateur stations: XW8AA-XW8DZ
+#Experimental stations: XW8EA-XW8EZ
+
+groups:
+  amateur:
+    regex: XW8[A-D][:upper:]
+
+  experimental:
+    regex: XW8E[:upper:]

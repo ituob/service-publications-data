@@ -1,0 +1,37 @@
+---
+#Dominican Republic
+#Amateur stations: HI followed by a digit (indicating the zone in which the station is situated) and a group of not more than 3 letters
+#Digits indicating the zones: 
+#1 – Beata Island
+#2 –Saona Iland
+#3 – Central Cibao Region
+#4 – Northwest Line Region
+#5 – Southwest Region
+#6 – South Central Region
+#7 – East Region
+#8 – South Region
+#9 – Northwest Region
+
+groups:
+  amateur:
+    regex: HI[:amateur_area:][:upper:]{1,3}
+    criteria:
+      1: HI
+      2:
+        codelist: amateur_area
+      3:
+        from: A
+        to: Z
+        cardinality: 1-3
+
+codelists:
+  amateur_area:
+    1: Beata Island
+    2: Saona Island
+    3: Central Cibao Region
+    4: Northwest Line Region 
+    5: Southwest Region
+    6: South Central Region
+    7: East Region
+    8: South Region
+    9: Northwest Region

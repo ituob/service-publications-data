@@ -1,0 +1,7 @@
+---
+#Curaçao
+#Amateur stations: PJ2AA-PJ2ZZZ
+
+groups:
+  amateur:
+    regex: PJ2[:upper:]{2,3}

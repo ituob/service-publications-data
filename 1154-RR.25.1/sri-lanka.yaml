@@ -1,0 +1,27 @@
+---
+#Sri Lanka (Democratic Socialist Republic of)
+#Amateur stations:
+#4S5 followed by 2 or 3 letters - Novice class B (VHF only)
+#4S6 followed by 2 or 3 letters - Novice class A
+#4S7 followed by 2 or 3 letters - General/Advanced class
+#Experimental stations: 4P3 followed by 2 letters
+#Notes:
+#i) Local radio amateurs who have received licence by submitting licences issued from foreign administrations will use 4S7 followed by 3 letters with last letter as R.
+#ii) Visiting radio amateurs will use 4S7 followed by home call sign.
+#iii) Foreign radio amateurs from administrations having reciprocal agreement will use 4S7 followed by 3 letters with last letter as G.
+
+groups:
+  amateur:
+    - name: Novice class B (VHF only)
+      regex: 4S5[:upper:]{2,3}
+
+    - name: Novice class A
+      regex: 4S6[:upper:]{2,3}
+
+    - name: General/Advanced class
+      regex: 4S7[:upper:]{2,3}
+
+notes:
+  - i) Local radio amateurs who have received licence by submitting licences issued from foreign administrations will use 4S7 followed by 3 letters with last letter as R.
+  - ii) Visiting radio amateurs will use 4S7 followed by home call sign.
+  - iii) Foreign radio amateurs from administrations having reciprocal agreement will use 4S7 followed by 3 letters with last letter as G.

@@ -1,0 +1,7 @@
+---
+#Jordan (Hashemite Kingdom of)
+#Amateur stations: JY1AA-JY9ZZ
+
+groups:
+  amateur:
+    regex: JY[:digit:][:upper:]{2}

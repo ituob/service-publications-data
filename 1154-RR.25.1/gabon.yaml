@@ -1,0 +1,7 @@
+---
+#Gabonese Republic
+#Amateur stations: TR8AA-TR8ZZ
+
+groups:
+  amateur:
+    regex: TR8[:upper:]{2}

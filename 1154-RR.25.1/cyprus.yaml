@@ -1,0 +1,11 @@
+---
+#Cyprus (Republic of)
+#Amateur stations: 5B4AAA-5B4ZZZ
+#Note: Foreign amateurs will use the call sign assigned to them by their administration followed by a stroke (/) and then 5B4 on a temporary basis.
+
+groups:
+  amateur:
+    regex: 5B4[:upper:]{3}
+
+notes:
+  - Foreign amateurs will use the call sign assigned to them by their administration followed by a stroke (/) and then 5B4 on a temporary basis.

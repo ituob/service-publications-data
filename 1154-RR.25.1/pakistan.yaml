@@ -1,0 +1,9 @@
+---
+#Pakistan (Islamic Republic of)
+#Amateur stations and experimental stations: AP2-AP9 followed by a group of not more than 3 letters
+
+groups:
+  amateur: &general
+    regex: AP[2-9][:upper:]{1,3}
+
+  experimental: *general

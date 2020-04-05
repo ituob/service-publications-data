@@ -1,0 +1,11 @@
+---
+#Tunisia
+#Amateur stations: 3V8AA-3V8ZZ
+#Experimental stations: TS8AA-TS8ZZ
+
+groups:
+  amateur:
+    regex: 3V8[:upper:]{2}
+
+  experimental:
+    regex: TS8[:upper:]{2}

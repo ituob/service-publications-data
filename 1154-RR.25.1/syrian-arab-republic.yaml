@@ -1,0 +1,64 @@
+---
+#Syrian Arab Republic
+#Amateur stations and experimental stations: YK followed by a digit (indicating the zone in which the station is situated) and by 1, 2 or 3 letters
+#Digits indicating the zones:
+#1 – Southern Region
+#2 – Northern Region
+#3 – Eastern Region
+#4 – Western Region
+#8 – Beacons
+#9 – Groups of foreign radio amateurs
+#0 – Club stations
+#Notes:
+#i) Foreign individual radio amateurs will use YK followed by a stroke (/) and their home call sign.
+#ii) Only for special events the radio amateurs will use 6C followed by a digit and by a group of not more than 3 letters.
+
+groups:
+  amateur:
+    - name: Amateur stations
+      regex: YK[:zone:][:upper:]{1,3}
+      criteria:
+        1: YK
+        2:
+          codelist: zone
+        3:
+          from: A
+          to: Z
+          cardinality: 1-3
+
+    - name: Special events
+      regex: 6C[:digit:][:upper:]{1,3}
+      criteria:
+        1: 6C
+        2:
+          from: 0
+          to: 9
+        3:
+          from: A
+          to: Z
+          cardinality: 1-3
+
+  experimental:
+    regex: YK[:zone:][:upper:]{1,3}
+    criteria:
+      1: YK
+      2:
+        codelist: zone
+      3:
+        from: A
+        to: Z
+        cardinality: 1-3
+
+codelists:
+  zone:
+    1: Southern Region
+    2: Northern Region
+    3: Eastern Region
+    4: Western Region
+    8: Beacons
+    9: Groups of foreign radio amateurs
+    0: Club stations
+
+notes:
+  - i) Foreign individual radio amateurs will use YK followed by a stroke (/) and their home call sign.
+  - ii) Only for special events the radio amateurs will use 6C followed by a digit and by a group of not more than 3 letters.

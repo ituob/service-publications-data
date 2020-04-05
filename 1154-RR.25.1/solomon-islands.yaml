@@ -1,0 +1,9 @@
+---
+#Solomon Islands
+#Amateur stations and experimental stations: H44AA-H44ZZ
+
+groups:
+  amateur: &general
+    regex: H44[:upper:]{2}
+
+  experimental: *general

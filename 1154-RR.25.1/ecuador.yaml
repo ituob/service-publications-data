@@ -1,0 +1,49 @@
+---
+#Ecuador
+#Amateur stations: HC or HD followed by a digit (1-8, indicating the province in which the station is situated) and by 1, 2 or 3 letters
+#The beginners have to use the letter N after the digit indicating the province
+#Digits indicating the provinces:
+#1 – Provinces of Carchi, Imbabura and Pichincha
+#2 – Provinces of Guayas (Coast) and Los Ríos
+#3 – Provinces of El Oro (Coast) and Loja
+#4 – Provinces of Manabí (Coast) and Esmeraldas (Coast)
+#5 – Provinces of Chimborazo, Cañar and Azuay
+#6 – Provinces of Cotopaxi, Tungurahua and Bolívar
+#7 – Provinces of Napo, Pastaza, Morona Santiago, Zamora and Sucumbios
+#8 – Province of the Galápagos (Islands)
+#Experimental stations: HD9 followed by 3 letters
+
+groups:
+  amateur:
+    regex: H[CD][:province:][:upper:]{1,3}
+    criteria:
+      1: H
+      2:
+        - C
+        - D
+      3:
+        codelist: province
+      4:
+        from: A
+        to: Z
+        cardinality: 1-3
+
+  experimental:
+    name: Ecuador
+    regex: HD9[:upper:]{3}
+
+codelists:
+  province:
+    1: Provinces of Carchi, Imbabura and Pichincha
+    2: Provinces of Guayas (Coast) and Los Ríos
+    3: Provinces of El Oro (Coast) and Loja
+    4: Provinces of Manabí (Coast) and Esmeraldas (Coast)
+    5: Provinces of Chimborazo, Cañar and Azuay
+    6: Provinces of Cotopaxi, Tungurahua and Bolívar
+    7: Provinces of Napo, Pastaza, Morona Santiago, Zamora and Sucumbios
+    8: South Region
+    9: Province of the Galápagos (Islands)
+
+notes:
+  - The radio amateurs operating during competitions have to use HD9 followed by 1 letter on a temporary basis.
+  - The beginners have to use the letter N after the digit indicating the province.

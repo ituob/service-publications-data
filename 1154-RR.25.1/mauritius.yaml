@@ -1,0 +1,22 @@
+---
+#Mauritius (Republic of)
+#Amateur stations:
+#3B6 followed by 2 letters –  Agalega
+#3B7 followed by 2 letters –  S. Brandon
+#3B8 followed by 2 letters –  Mauritius
+#3B9 followed by 2 letters –  Rodrigues
+#Note: Foreign radio amateurs with visitor licence must use 3B8 followed by a stroke (/) and their own call sign.
+
+groups:
+  amateur:
+    regex: 3B[:area:][:upper:]{2}
+
+codelists:
+  area:
+    6: Agalega
+    7: S. Brandon
+    8: Mauritius
+    9: Rodrigues
+
+notes:
+  - Foreign radio amateurs with visitor licence must use 3B8 followed by a stroke (/) and their own call sign.

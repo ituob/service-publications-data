@@ -1,0 +1,8 @@
+---
+#Cabo Verde (Republic of)
+#Amateur stations:
+#D44AA-D44ZZ
+
+groups:
+  amateur:
+    regex: D44[:upper:]{2}

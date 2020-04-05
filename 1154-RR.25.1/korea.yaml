@@ -1,0 +1,28 @@
+---
+#Korea (Republic of)
+#Amateur stations:
+#1. HL1AA-HL9ZZ
+#HL1AAA-HL9ZZZ
+#2. HL0 followed by 2 or 3 letters (amateur group)
+#Experimental stations:
+#6M2AA-6M2ZZ
+#6N2AA-6N2ZZ
+#Note: DS, DT, D7, D8, D9, 6K, 6L, 6M, 6N followed by a digit and by 2 or 3 letters are assigned on a temporary basis on special occasions.
+
+groups:
+  amateur:
+    - name: Pattern 1
+      regex: HL[:digit:][:upper:]{2,3}
+
+    - name: Pattern 2
+      regex: HL0[:upper:]{2,3}
+
+  experimental:
+    - name: General
+      regex: 6[MN]2[:upper:]{2}
+
+    - name: Temporary for special occasions
+      regex: (D[ST7-9]|6[KLMN])\d[A-Z]{2,3}
+
+notes:
+  - DS, DT, D7, D8, D9, 6K, 6L, 6M, 6N followed by a digit and by 2 or 3 letters are assigned on a temporary basis on special occasions.

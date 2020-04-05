@@ -1,0 +1,7 @@
+---
+#Samoa (Independent State of)
+#Amateur stations: 5W followed by a digit and 2 letters
+
+groups:
+  amateur:
+    regex: 5W[:digit:][:upper:]{2}

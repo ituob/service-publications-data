@@ -1,0 +1,7 @@
+---
+#Costa Rica
+#Amateur stations: TE or TI followed by a digit and by a group of not more than 3 letters
+
+groups:
+  amateur:
+    regex: T[EI][:digit:][:upper:]{1,3}

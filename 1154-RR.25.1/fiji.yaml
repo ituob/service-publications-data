@@ -1,0 +1,11 @@
+---
+#Fiji (Republic of)
+#Amateur stations: 3D2 followed by 2 letters
+#Experimental stations: 3D3 followed by 2 letters
+
+groups:
+  amateur:
+    regex: 3D2[:upper:]{2}
+
+  experimental:
+    regex: 3D3[:upper:]{2}

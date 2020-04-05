@@ -1,0 +1,11 @@
+---
+#Kiribati (Republic of)
+#Amateur stations: T3 followed by a digit (0-9) and by a group of not more than 3 letters
+#Experimental stations: T3 followed by a digit (other than 0 or 1) and by a group of not more than 3 letters
+
+groups:
+  amateur:
+    regex: T3[:digit:][:upper:]{1,3}
+
+  experimental:
+    regex: T3[2-9][:upper:]{1,3}

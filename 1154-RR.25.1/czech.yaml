@@ -1,0 +1,33 @@
+---
+#Czech Republic
+#Amateur stations:
+#OK0-OK8 followed by 1, 2 or 3 letters
+#OL0-OL9 followed by 1, 2 or 3 letters
+#OK8 followed by 2 or 3 letters for foreigners transmitting from territory of the Czech Republic
+#OK0 followed by 2 or 3 letters exceptionally for extraordinary purposes
+#OL0-OL9 followed by 1 letter for purposes of international amateur contests only
+#OL0-OL9 followed by 2 or 3 letters for extraordinary purposes and for period of persistence of such purposes only
+#Experimental stations: OK9 followed by 2 or 3 letters
+
+groups:
+  amateur:
+    - name: Amateur stations
+      regex: OK[0-8][:upper:]{1,3}
+
+    - name: Amateur stations
+      regex: OL[:digit:][:upper:]{1,3}
+
+    - name: for foreigners transmitting from territory of the Czech Republic
+      regex: OK8[:upper:]{2,3}
+
+    - name: exceptionally for extraordinary purposes
+      regex: OK0[:upper:]{2,3}
+
+    - name: for purposes of international amateur contests only
+      regex: OL[:digit:][:upper:]
+
+    - name: for extraordinary purposes and for period of persistence of such purposes only
+      regex: OL[:digit:][:upper:]{2,3}
+
+  expeerimental:
+    - regex: OK9[:upper:]{2,3}

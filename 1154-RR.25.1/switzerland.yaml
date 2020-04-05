@@ -1,0 +1,12 @@
+---
+#Switzerland (Confederation of)
+#Amateur stations: HB9 or HB3* followed by 4 characters, the last of which shall be a letter
+#* Novice licence.
+
+groups:
+  amateur:
+    - name: Amateur stations
+      regex: HB9[0-9A-Z]{3}[:upper:]
+
+    - name: Novice licence
+      regex: HB3[0-9A-Z]{3}[:upper:]

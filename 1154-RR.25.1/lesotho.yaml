@@ -1,0 +1,9 @@
+---
+#Lesotho (Kingdom of)
+#Amateur stations and experimental stations: 7P8 followed by a group of not more than 3 letters
+
+groups:
+  amateur: &general
+    regex: 7P8[:upper:]{1,3}
+
+  experimental: *general

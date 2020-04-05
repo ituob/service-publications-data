@@ -1,0 +1,7 @@
+---
+#Viet Nam (Socialist Republic of)
+#Amateur stations: XV or 3W followed by a digit (2-9, indicating the area in which the station is located) and by 1 to 4 letters
+
+groups:
+  amateur:
+    regex: "[XV|3W][2-9][:upper:]{1,4}"

@@ -1,0 +1,7 @@
+---
+#Nauru (Republic of)
+#Amateur stations: C2 followed by a digit identifying the category and by 2 letters
+
+groups:
+  amateur:
+    regex: C2[:digit:][:upper:]{2}

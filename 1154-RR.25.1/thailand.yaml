@@ -1,0 +1,45 @@
+---
+#Thailand
+#Amateur stations: E2 or HS followed by a digit (indicating the area in which the station is situated) and by 2 or 3 letters
+#Digits indicating the areas:
+#0, 1 – Bangkok, Samut Prakan, Pathum Thani, Nonthaburi, Phra Nakhon Si Ayutthaya, Angthong, Saraburi, Lop Buri, Sing Buri, Chainat
+#2 – Chon Buri, Rayong, Chanthaburi, Trat, Chachoengsao, Nakhon Nayok, Prachin Buri, Srakaew
+#3 – Nakhon Ratchasima, Chaiyaphum, Buriram, Surin, Sisaket, Ubon Ratchathani, Yasothon, Amnat Chareon
+#4 – Khon Kaen, Loei, Nong Khai, Udon Thani, Maha Sarakham, Kalasin, Sakon Nakhon, Mukdahan, Nakhon Phanom, Roi Et, Nong Bua Lum Phu
+#5 – Mae Hong Son, Chiang Mai, Lamphun, Lampang, Phrae, Uttaradit, Nan, Chiang Rai, Phayao
+#6 – Nakhon Sawan, Uthai Thani, Kamphaeng Phet, Tak, Phichit, Sukhothai, Phitsanulok, Phetchabun
+#7 – Ratchaburi, Samut Sokhon, Samut Songkhram, Nakhon Pathom, Suphan Buri, Kanchanaburi, Phetchaburi, Prachuap Khiri Khan
+#8 – Nakhon Si Thammarat, Krabi, Phangnga, Ranong, Surat Thani, Chumphon, Phuket
+#9 – Songkhla, Pattani, Yala, Narathiwat, Trang, Phatthalung, Satun
+#Experimental stations: E22AAA-E22AZZ
+
+groups:
+  amateur:
+    regex: "[E2|HS][:area:][:upper:]{2,3}"
+    criteria:
+      1:
+        - E2
+        - HS
+      2:
+        codelist: area
+      3:
+        from: A
+        to: Z
+        cardinality: 2-3
+
+  experimental:
+    name: Thailand
+    regex: E22A[:upper:]{2}
+
+codelists:
+  area:
+    0: Bangkok, Samut Prakan, Pathum Thani, Nonthaburi, Phra Nakhon Si Ayutthaya, Angthong, Saraburi, Lop Buri, Sing Buri, Chainat
+    1: Bangkok, Samut Prakan, Pathum Thani, Nonthaburi, Phra Nakhon Si Ayutthaya, Angthong, Saraburi, Lop Buri, Sing Buri, Chainat
+    2: Chon Buri, Rayong, Chanthaburi, Trat, Chachoengsao, Nakhon Nayok, Prachin Buri, Srakaew
+    3: Nakhon Ratchasima, Chaiyaphum, Buriram, Surin, Sisaket, Ubon Ratchathani, Yasothon, Amnat Chareon
+    4: Khon Kaen, Loei, Nong Khai, Udon Thani, Maha Sarakham, Kalasin, Sakon Nakhon, Mukdahan, Nakhon Phanom, Roi Et, Nong Bua Lum Phu
+    5: Mae Hong Son, Chiang Mai, Lamphun, Lampang, Phrae, Uttaradit, Nan, Chiang Rai, Phayao
+    6: Nakhon Sawan, Uthai Thani, Kamphaeng Phet, Tak, Phichit, Sukhothai, Phitsanulok, Phetchabun
+    7: Ratchaburi, Samut Sokhon, Samut Songkhram, Nakhon Pathom, Suphan Buri, Kanchanaburi, Phetchaburi, Prachuap Khiri Khan
+    8: Nakhon Si Thammarat, Krabi, Phangnga, Ranong, Surat Thani, Chumphon, Phuket
+    9: Songkhla, Pattani, Yala, Narathiwat, Trang, Phatthalung, Satun

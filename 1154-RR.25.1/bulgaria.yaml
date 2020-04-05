@@ -1,0 +1,9 @@
+---
+#Bulgaria (Republic of)
+#Amateur stations:
+#LZ1-LZ9 followed by a group of not more than 3 letters
+
+groups:
+  amateur:
+    - name: Bulgaria
+      regex: LZ[1-9][:upper:]{1,3}

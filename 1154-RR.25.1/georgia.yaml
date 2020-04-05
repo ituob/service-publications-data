@@ -1,0 +1,7 @@
+---
+#Georgia
+#Amateur stations: 4L followed by a digit and by 1, 2 or 3 letters
+
+groups:
+  amateur:
+    regex: 4L[:digit:][:upper:]{1,3}

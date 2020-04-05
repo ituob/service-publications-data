@@ -1,0 +1,13 @@
+---
+#Tanzania (United Republic of)
+#Amateur stations:
+#5H3AA-5H3ZZ  –  Mainland
+#5H1AA-5H1ZZ  –  Zanzibar
+
+groups:
+  amateur:
+    - name: Mainland
+      regex: 5H3[:upper:]{2}
+
+    - name: Zanzibar
+      regex: 5H1[:upper:]{2}

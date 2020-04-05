@@ -1,0 +1,9 @@
+---
+#Latvia (Republic of)
+#Amateur stations and experimental stations: YL followed by a digit and by 1, 2 or 3 letters
+
+groups:
+  amateur: &general
+    regex: YL[:digit:][:upper:]{1,3}
+
+  experimental: *general

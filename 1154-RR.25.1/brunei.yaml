@@ -1,0 +1,13 @@
+---
+#Brunei Darussalam
+#Amateur stations:
+#V85 followed by 2 or 3 letters for the communications HF and VHF
+#V85 followed by 1 letter for the communications VHF only
+
+groups:
+  amateur:
+    - name: communications HF and VHF
+      regex: V85[:upper:]{2,3}
+
+    - name: communications VHF only
+      regex: V85[:upper:]

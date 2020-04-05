@@ -1,0 +1,8 @@
+---
+#Botswana (Republic of)
+#Amateur stations:
+#A22AA-A22ZZ
+
+groups:
+  amateur:
+    regex: A22[:upper:]{2}

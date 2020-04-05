@@ -1,0 +1,70 @@
+---
+#South Africa (Republic of)
+#Amateur stations: ZR*, ZS** or ZU*** followed by a digit (indicating the province in which the station is situated) and by 1, 2 or 3 letters characterizing the radio amateur
+#Digits indicating the provinces:
+#1 – Western Cape
+#2 – Eastern Cape
+#3 – Northern Cape
+#4 – Free State
+#5 – Kwazulu-Natal
+#6 – Gauteng, North-West Province, Mpumalanga, Northern Province
+#7 – Sanae Antarctica
+#8 – Marion Island
+#9 – Namibia
+#0 – DIG repeaters and bulletins boards
+#* Full licence except VHF.
+#** Full licence.
+#*** Novice licence.
+#Experimental stations: ZT followed by a digit and 1, 2 or 3 letters
+
+groups:
+  amateur:
+    - name: Full licence except VHF
+      regex: ZR[:province:][:upper:]{1,3}
+      criteria:
+        1: ZR
+        2:
+          codelist: province
+        3:
+          from: A
+          to: Z
+          cardinality: 1-3
+
+    - name: Full licence
+      regex: ZS[:province:][:upper:]{1,3}
+      criteria:
+        1: ZS
+        2:
+          codelist: province
+        3:
+          from: A
+          to: Z
+          cardinality: 1-3
+
+    - name: Novice licence
+      regex: ZU[:province:][:upper:]{1,3}
+      criteria:
+        1: ZU
+        2:
+          codelist: province
+        3:
+          from: A
+          to: Z
+          cardinality: 1-3
+
+  experimental:
+    name: South Africa
+    regex: ZT[:digit:][:upper:]{1,3}
+
+codelists:
+  province:
+    1: Western Cape
+    2: Eastern Cape
+    3: Northern Cape
+    4: Free State
+    5: Kwazulu-Natal
+    6: Gauteng, North-West Province, Mpumalanga, Northern Province
+    7: Sanae Antarctica
+    8: Marion Island
+    9: Namibia
+    0: DIG repeaters and bulletins boards

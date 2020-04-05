@@ -1,0 +1,21 @@
+---
+#Singapore (Republic of)
+#Amateur stations: 9V1AA-9V1ZZ
+#Experimental stations: 9V2A-9V2ZZ
+#Note: 9V0 followed by 2 or 3 letters is authorised to amateur stations on special occasions.
+
+groups:
+  amateur:
+    - name: Amateur
+      regex: 9V1[:upper:]{2}
+
+    - name: Special occasions
+      regex: 9V0[:upper:]{2,3}
+
+  experimental:
+    - name: Singapore
+      regex: 9V2[:upper:]{1,2}
+
+notes:
+  - 9V0 followed by 2 or 3 letters is authorised to amateur stations on special occasions.
+

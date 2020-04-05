@@ -1,0 +1,17 @@
+---
+#Liechtenstein (Principality of)
+#Amateur stations:
+#HB0AAA-HB0XXX
+#HB0YAA-HB0YZZ  –  Novice licence
+#HB0ZAA-HB0ZZZ
+
+groups:
+  amateur:
+    - name: Pattern 1
+      regex: HB0[A-X]{3}
+
+    - name: Pattern 2
+      regex: HB0Z[:upper:]{2}
+
+    - name: Novice licence
+      regex: HB0Y[:upper:]{2}

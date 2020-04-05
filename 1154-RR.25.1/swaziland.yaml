@@ -1,0 +1,13 @@
+---
+#Swaziland (Kingdom of)
+#Amateur stations:
+#3DA0 followed by 2 letters  –  Full licence
+#3DA1 followed by 2 letters  –  Restricted licence
+
+groups:
+  amateur:
+    - name: Full licence
+      regex: 3DA0[:upper:]{2}
+
+    - name: Restricted licence
+      regex: 3DA1[:upper:]{2}

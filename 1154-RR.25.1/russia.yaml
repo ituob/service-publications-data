@@ -1,0 +1,114 @@
+---
+#Russian Federation
+#Amateur and experimental stations
+#RA0AA – RZ9ZZ Stations in the first qualification category operating with a HAREC certificate
+#UA0AA – UI9ZZ
+#R0AA – R9ZZ*
+#RA0A – RZ9Z**
+#UA0A – UI9Z
+#R0AAA – R9ZZZ Stations in the second qualification category operating with a HAREC certificate
+#RA0AAA – RZ9ZZZ
+#UA0AAA – UA9ZZZ
+#UB0AAA – UD9ZZZ Stations in the third qualification category operating with an ARNEC certificate (novice licence)
+#UF0AAA – UG9ZZZ
+#UE0AAA – UE9ZZZ Stations in the fourth qualification category (initial level)
+#UH0AAA – UI9ZZZ
+#RR0AA – RR9ZZ Repeaters
+#RR0AAA – RR9ZZZ
+#RB0AA – RB9ZZ Radiobeacons
+#RS0S – RS9S Stations of the amateur-satellite service
+#RS10S – RS99S
+#R0AAAA – R9ZZZZ Temporary use in special circumstances
+#R00AAA – R99ZZZ
+#R000A – R999Z
+#R000AA – R999ZZ
+#R0000A – R9999Z
+#RA00A – RZ99Z
+#RA00AA – RZ99ZZ
+#RA00AAA – RZ99ZZZ
+#RA000A – RZ999Z
+#RA000AA – RZ999ZZ
+#R0A – R9Z Stations participating in internal rounds of competitions
+#R00A – R99Z
+#R00AA – R99ZZ***
+#* Subject to use of the amateur station for a period of not less than 25 calendar years.
+#** Subject to participation over the past five years in no fewer than ten international or all Russian wireless    communication contests.
+#*** With the exclusion of call signs in the series R00SP - R99SP exclusively assigned to amateur stations of polar    expeditions operating on the drift-ice of the Arctic Ocean.
+
+groups:
+  amateur: &general
+    - name: Stations in the first qualification category operating with a HAREC certificate
+      regex: R[:upper:][:digit:][:upper:]{2}
+
+    - name: Stations in the first qualification category operating with a HAREC certificate
+      regex: U[A-I][:digit:][:upper:]{2}
+
+    - name: Stations in the first qualification category operating with a HAREC certificate (see Note 1)
+      regex: R[:digit:][:upper:]{2}
+
+    - name: Stations in the first qualification category operating with a HAREC certificate (see Note 2)
+      regex: R[:upper:][:digit:][:upper:]
+
+    - name: Stations in the first qualification category operating with a HAREC certificate
+      regex: U[A-I][:digit:][:upper:]
+
+    - name: Stations in the first qualification category operating with a HAREC certificate
+      regex: U[A-I][:digit:][:upper:]
+
+    - name: Stations in the second qualification category operating with a HAREC certificate
+      regex: R[:digit:][:upper:]{3}
+
+    - name: Stations in the second qualification category operating with a HAREC certificate
+      regex: R[:upper:][:digit:][:upper:]{3}
+
+    - name: Stations in the second qualification category operating with a HAREC certificate
+      regex: UA[:digit:][:upper:]{3}
+
+    - name: Stations in the third qualification category operating with an ARNEC certificate (novice licence)
+      regex: U[B-DF-G][:digit:][:upper:]{3}
+
+    - name: Stations in the fourth qualification category (initial level)
+      regex: U[EH-I][:digit:][:upper:]{3}
+
+    - name: Repeaters
+      regex: RR[:digit:][:upper:]{2,3}
+
+    - name: Radiobeacons
+      regex: RB[:digit:][:upper:]{3}
+
+    - name: Stations of the amateur-satellite service
+      regex: RS[1-9]?[:digit:]S
+
+    - name: Temporary use in special circumstances
+      regex: R[:digit:][:upper:]{4}
+
+    - name: Temporary use in special circumstances
+      regex: R[:digit:]{2}[:upper:]{3}
+
+    - name: Temporary use in special circumstances
+      regex: R[:digit:]{3,4}[:upper:]
+
+    - name: Temporary use in special circumstances
+      regex: R[:digit:]{3}[:upper:]{2}
+
+    - name: Temporary use in special circumstances
+      regex: R[:upper:][:digit:]{2}[:upper:]{1,3}
+
+    - name: Temporary use in special circumstances
+      regex: R[:upper:][:digit:]{3}[:upper:]{1,2}
+
+    - name: Stations participating in internal rounds of competitions
+      regex: R[:digit:]{1,2}[:upper:]
+
+    - name: Stations participating in internal rounds of competitions (see Note 3)
+      regex: R[:digit:]{2}[:upper:]{2}
+
+    - name: Amateur stations of polar expeditions operating on the drift-ice of the Arctic Ocean
+      regex: R[:digit:]{2}SP
+
+  experimental: *general
+
+notes:
+  - Subject to use of the amateur station for a period of not less than 25 calendar years.
+  - Subject to participation over the past five years in no fewer than ten international or all Russian wireless communication contests.
+  - With the exclusion of call signs in the series R00SP - R99SP exclusively assigned to amateur stations of polar expeditions operating on the drift-ice of the Arctic Ocean.

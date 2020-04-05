@@ -1,0 +1,18 @@
+---
+# Bonaire, Sint Eustatius and Saba
+# Amateur stations:
+# PJ4AA-PJ4ZZZ –  Bonaire
+# PJ5AA-PJ5ZZZ –  S. Eustatius
+# PJ6AA-PJ6ZZZ –  Saba
+
+groups:
+  amateur:
+    - name: Bonaire
+      regex: PJ4[:upper]{2,3}
+
+    - name: S. Eustatius
+      regex: PJ5[:upper]{2,3}
+
+    - name: Saba
+      regex: PJ6[:upper]{2,3}
+

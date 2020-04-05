@@ -1,0 +1,31 @@
+---
+#Mozambique (Republic of)
+#Amateur stations: C9 followed by a digit (indicating the province in which the station is situated) and by a group of not more than 3 letters
+#Digits indicating the provinces:
+#1 – Maputo
+#2 – Gaza-Inhambane
+#3 – Sofala-Manica
+#4 – Zambezia-Nampula
+#5 – Tete-Niassa
+#6 – C. Delgado
+
+groups:
+  amateur:
+    regex: C9[:province:][:upper:]{1,3}
+    criteria:
+      1: C9
+      2:
+        codelist: province
+      3:
+        from: A
+        to: Z
+        cardinality: 1-3
+
+codelists:
+  province:
+    1: Maputo
+    2: Gaza-Inhambane
+    3: Sofala-Manica
+    4: Zambezia-Nampula
+    5: Tete-Niassa
+    6: C. Delgado

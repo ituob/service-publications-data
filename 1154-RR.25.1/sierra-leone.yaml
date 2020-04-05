@@ -1,0 +1,37 @@
+---
+#Sierra Leone
+#Amateur stations: 9L followed by a digit (0-8, indicating the area or the province in which the station is situated) and by 2 letters
+#Digits indicating the areas or provinces:
+#0 – Small craft and off-shore islands
+#1 – Western area
+#2 – Northern province
+#3 – Southern province
+#4 – Eastern province
+#7 – Novice licence
+#8 – Class B licence (VHF/UHF)
+#Note: Foreign radio amateurs with temporary licence must use 9L followed by a stroke (/) and their own call sign.
+
+groups:
+  amateur:
+    regex: 9L[:area_or_province:][:upper:]{2}
+    criteria:
+      1: 9L
+      2:
+        codelist: area_or_province
+      3:
+        from: A
+        to: Z
+        cardinality: 2
+
+codelists:
+  area_or_province:
+    0: Small craft and off-shore islands
+    1: Western area
+    2: Northern province
+    3: Southern province
+    4: Eastern province
+    7: Novice licence
+    8: Class B licence (VHF/UHF)
+
+notes:
+  - Foreign radio amateurs with temporary licence must use 9L followed by a stroke (/) and their own call sign.

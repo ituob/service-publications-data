@@ -1,0 +1,7 @@
+---
+#Zimbabwe (Republic of)
+#Amateur stations: Z21AA-Z29ZZ
+
+groups:
+  amateur:
+    regex: Z2[:digit:][:upper:]{2}

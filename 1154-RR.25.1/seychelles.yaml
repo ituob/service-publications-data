@@ -1,0 +1,11 @@
+---
+#Seychelles (Republic of)
+#Amateur stations: S79AAA-S79ZZZ
+#Experimental stations: S78AA-S78AZ
+
+groups:
+  amateur:
+    regex: S79[:upper:]{3}
+
+  experimental:
+    regex: S78A[:upper:]

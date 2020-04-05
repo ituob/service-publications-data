@@ -1,0 +1,7 @@
+---
+#Ukraine
+#Amateur stations and experimental stations: UR, US, UT, UU, UV, UW, UX, UY, UZ, EM, EN or EO followed by a digit (0-9) and by 2 or 3 letters
+
+groups:
+  amateur:
+    regex: "[UR|US|UT|UU|UV|UW|UX|UY|UZ|EM|EN|EO][:digit:][:upper:]{2,3}"

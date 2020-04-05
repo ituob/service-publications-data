@@ -1,0 +1,7 @@
+---
+#Slovenia (Republic of)
+#Amateur stations: S5 followed by a digit and by 1, 2 or 3 letters
+
+groups:
+  amateur:
+    regex: S5[:digit:][:upper:]{1,3}

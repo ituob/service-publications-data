@@ -1,0 +1,8 @@
+---
+#Burundi (Republic of)
+#Amateur stations:
+#9U5 followed by 2 letters
+
+groups:
+  amateur:
+    regex: 9U5[:upper:]{2}

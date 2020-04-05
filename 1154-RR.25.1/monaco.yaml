@@ -1,0 +1,22 @@
+---
+#Monaco (Principality of)
+#Amateur stations:
+#3A2AA-3A2ZZ – Class 1 – General licence
+#3A1AA-3A1ZZ – Class 2 – Licence restricted to bands 144-146 MHz and 430-440 MHz
+#3A2AAA-3A2ZZZ – Radio Club
+#Experimental stations: 3A9A-3A9Z
+
+groups:
+  amateur:
+    - name: Class 1 - General licence
+      regex: 3A2[:upper:]{2}
+
+    - name: Class 2 - Licence restricted to bands 144-146 MHz and 430-440 MHz
+      regex: 3A1[:upper:]{2}
+
+    - name: Radio Club
+      regex: 3A2[:upper:]{3}
+
+  experimental:
+    - name: Monaco
+      regex: 3A9[:upper:]

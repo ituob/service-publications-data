@@ -1,0 +1,55 @@
+---
+#c (Federal Republic of)
+#Amateur stations: 5N followed by a digit (indicating the zone in which the station is situated) and by 3 letters
+#Digits indicating the zones:
+#0 – Lagos State and Federal Capital Territory
+#1 – Ogun, Oyo, Ondo and Ekiti States
+#2 – Osun, Kwara, Kogi and Niger States
+#3 – Edo, Delta, Bayelsa and Anambra States
+#4 – Enugu, Abia, Ebonyi and Rivers States
+#5 – Imo, Akwa lbom and Cross River States
+#6 – Benue, Plateau, Nassarawa and Taraba States
+#7 – Bauchi, Gombe, Adamawa and Borno States
+#8 – Jigawa, Kano, Yobe and Katsina States
+#9 – Zamfara, Sokoto, Kaduna and Kebbi States
+#Experimental stations:
+#5N2XA-5N2ZZ
+#5N3EA-5N3EZ
+#5N4XA-5N4ZZ
+#5N5EA-5N5EZ
+#5N6XA-5N6ZZ
+#5N7EA-5N7EZ
+#5N8XA-5N8ZZ
+#5N9EA-5N9EZ
+
+groups:
+  amateur:
+    regex: 5N[:zone:][:upper:]{3}
+    criteria:
+      1: 5N
+      2:
+        codelist: zone
+      3:
+        from: A
+        to: Z
+        cardinality: 3
+
+  experimental:
+    name: Pattern 1
+    regex: 5N[2468][X-Z][:upper:]
+
+    name: Pattern 2
+    regex: 5N[3579]E[:upper:]
+
+codelists:
+  zone:
+    0: Lagos State and Federal Capital Territory
+    1: Ogun, Oyo, Ondo and Ekiti States
+    2: Osun, Kwara, Kogi and Niger States
+    3: Edo, Delta, Bayelsa and Anambra States
+    4: Enugu, Abia, Ebonyi and Rivers States
+    5: Imo, Akwa lbom and Cross River States
+    6: Benue, Plateau, Nassarawa and Taraba States
+    7: Bauchi, Gombe, Adamawa and Borno States
+    8: Jigawa, Kano, Yobe and Katsina States
+    9: Zamfara, Sokoto, Kaduna and Kebbi States

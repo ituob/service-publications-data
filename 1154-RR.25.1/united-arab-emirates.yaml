@@ -1,0 +1,11 @@
+---
+#United Arab Emirates
+#Amateur stations: A61 followed by a group of not more than 3 letters
+#Experimental stations: A62 followed by a group of not more than 3 letters
+
+groups:
+  amateur:
+    regex: A61[:upper:]{1,3}
+
+  experimental:
+    regex: A62[:upper:]{1,3}

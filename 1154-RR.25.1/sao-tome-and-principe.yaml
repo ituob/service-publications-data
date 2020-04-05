@@ -1,8 +1,7 @@
 ---
 #Sao Tome and Principe (Democratic Republic of)
-#Amateur stations:	S92AA-S92ZZ
+#Amateur stations: S92AA-S92ZZ
 
 groups:
   amateur:
-    - name: Sao Tome and Principe
-      regex: S92[:upper:]{2}
+    regex: S92[:upper:]{2}

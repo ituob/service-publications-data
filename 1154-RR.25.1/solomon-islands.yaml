@@ -3,10 +3,7 @@
 #Amateur stations and experimental stations: H44AA-H44ZZ
 
 groups:
-  amateur:
-    - name: Solomon Islands
-      regex: H44[:upper:]{2}
+  amateur: &general
+    regex: H44[:upper:]{2}
 
-  experimental:
-    - name: Solomon Islands
-      regex: H44[:upper:]{2}
+  experimental: *general

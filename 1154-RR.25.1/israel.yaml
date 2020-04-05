@@ -1,6 +1,6 @@
 ---
 #Israel (State of)
-#Amateur stations:	
+#Amateur stations:
 #4X1 followed by 2 or 3 letters
 #4X4 followed by 2 or 3 letters
 #4X6 followed by 2 or 3 letters
@@ -13,29 +13,11 @@
 
 groups:
   amateur:
-    - name: Israel
-      regex: 4X1[:upper:]{2,3}
+    - name: Pattern 1
+      regex: 4X[1468][:upper:]{2,3}
 
-    - name: Israel
-      regex: 4X4[:upper:]{2,3}
+    - name: Pattern 2
+      regex: 4Z[1457][:upper:]{2,3}
 
-    - name: Israel
-      regex: 4X6[:upper:]{2,3}
-
-    - name: Israel
-      regex: 4X8[:upper:]{2,3}
-
-    - name: Israel
-      regex: 4Z1[:upper:]{2,3}
-
-    - name: Israel
-      regex: 4Z4[:upper:]{2,3}
-
-    - name: Israel
-      regex: 4Z5[:upper:]{2,3}
-
-    - name: Israel
-      regex: 4Z7[:upper:]{2,3}
-
-    - name: Israel
+    - name: Pattern 3
       regex: Z9[:upper:]{2,3}

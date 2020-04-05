@@ -4,5 +4,4 @@
 
 groups:
   amateur:
-    - name: Guinea-Bissau
-      regex: J52UA[B-I]
+    regex: J52UA[B-I]

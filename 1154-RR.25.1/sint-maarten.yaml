@@ -1,8 +1,7 @@
 ---
 #Sint Maarten (Dutch part)
-#Amateur stations:	PJ7AA-PJ7ZZZ
+#Amateur stations: PJ7AA-PJ7ZZZ
 
 groups:
   amateur:
-    - name: Sint Maarten
-      regex: PJ7[:upper:]{2,3}
+    regex: PJ7[:upper:]{2,3}

@@ -1,11 +1,11 @@
 ---
 #Finland
-#Amateur stations and	
-#experimental stations:	
+#Amateur stations and
+#experimental stations:
 #OF, OG, OH, OI or OJ followed by a digit and a group of not more than 4 characters, the last of which shall be a letter
 
 groups:
   amateur:
-    - name: Finland
-      regex: O[F|G|H|I|J][:digit:][0-9A-Z]{3}[:upper:]{1}
-    
+    regex: O[FGHIJ][:digit:][0-9A-Z]{3}[:upper:]{1}
+  experimental:
+    regex: O[FGHIJ][:digit:][0-9A-Z]{3}[:upper:]{1}

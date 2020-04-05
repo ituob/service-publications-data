@@ -1,13 +1,11 @@
 ---
 #Tunisia
-#Amateur stations:	3V8AA-3V8ZZ
-#Experimental stations:	TS8AA-TS8ZZ
+#Amateur stations: 3V8AA-3V8ZZ
+#Experimental stations: TS8AA-TS8ZZ
 
 groups:
   amateur:
-    - name: Tunisia
-      regex: 3V8[:upper:]{2}
+    regex: 3V8[:upper:]{2}
 
   experimental:
-    - name: Tunisia
-      regex: TS8[:upper:]{2}
+    regex: TS8[:upper:]{2}

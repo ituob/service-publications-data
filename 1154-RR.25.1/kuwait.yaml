@@ -1,13 +1,9 @@
 ---
 #Kuwait (State of)
-#Amateur stations:	
+#Amateur stations:
 #9K2 followed by 1 or 2 letters
 #9K9 followed by 1 letter
 
 groups:
   amateur:
-    - name: Kuwait
-      regex: 9K2[:upper:]{1,2}
-
-    - name: Kuwait
-      regex: 9K9[:upper:]
+    regex: 9K[29][:upper:]{1,2}

@@ -1,18 +1,18 @@
 ---
 #San Marino (Republic of)
-#Amateur stations:	
+#Amateur stations:
 #T72AA-T72ZZ*
 #T77AA-T77ZZ**
 #Radio Club: T70A**
 #Temporary Radio Club: T71CE**
-#*	VHF and above VHF.
-#**	All bands.
+#* VHF and above VHF.
+#** All bands.
 
 groups:
   amateur:
-    - name: VHF and above VHF.
+    - name: VHF and above VHF
       regex: T72[:upper:]{2}
-    - name: All bands.
+    - name: All bands
       regex: T77[:upper:]{2}
     - name: Radio Club
       regex: T70A

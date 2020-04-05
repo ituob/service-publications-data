@@ -1,8 +1,7 @@
 ---
 #Malawi
-#Amateur stations:	7Q7 followed by 2 letters
+#Amateur stations: 7Q7 followed by 2 letters
 
 groups:
   amateur:
-    - name: Malawi
-      regex: 7Q7[:upper:]{2}
+    regex: 7Q7[:upper:]{2}

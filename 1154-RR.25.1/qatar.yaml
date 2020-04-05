@@ -1,13 +1,11 @@
 ---
 #Qatar (State of)
-#Amateur stations:	A71AA-A71ZZ
-#Experimental stations:	A73AA-A73ZZ
+#Amateur stations: A71AA-A71ZZ
+#Experimental stations: A73AA-A73ZZ
 
 groups:
   amateur:
-    - name: Qatar
-      regex: A71[:upper:]{2}
+    regex: A71[:upper:]{2}
 
   experimental:
-    - name: Qatar
-      regex: A73[:upper:]{2}
+    regex: A73[:upper:]{2}

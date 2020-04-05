@@ -4,5 +4,4 @@
 
 groups:
   amateur:
-    - name: Ukraine
-      regex: [UR|US|UT|UU|UV|UW|UX|UY|UZ|EM|EN|EO][:digit:][:upper:]{2,3}
+    regex: "[UR|US|UT|UU|UV|UW|UX|UY|UZ|EM|EN|EO][:digit:][:upper:]{2,3}"

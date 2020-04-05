@@ -1,13 +1,11 @@
 ---
 #Tuvalu
-#Amateur stations:	T20AA-T29ZZ
-#Experimental stations:	T22AA-T29ZZ
+#Amateur stations: T20AA-T29ZZ
+#Experimental stations: T22AA-T29ZZ
 
 groups:
   amateur:
-    - name: Tuvalu
-      regex: T2[:digit:][:upper:]{2}
+    regex: T2[:digit:][:upper:]{2}
 
   experimental:
-    - name: Tuvalu
-      regex: T2[2-9][:upper:]{2}
+    regex: T2[2-9][:upper:]{2}

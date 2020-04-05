@@ -52,7 +52,6 @@ groups:
 
     - name: Amateur station on board a ship
       regex: VE0[:upper:]{1,3}
-      note: VE0 is intended for use when the amateur radio station is operated from a vessel that makes international voyages.
 
     - name: Province of Newfoundland (excluding Labrador)
       regex: VO1[:upper:]{1,3}
@@ -72,3 +71,6 @@ groups:
   experimental:
     - name: Canada (all provinces and territories)
       regex: VX9[:upper:]{2,3}
+
+notes:
+  - VE0 is intended for use when the amateur radio station is operated from a vessel that makes international voyages.

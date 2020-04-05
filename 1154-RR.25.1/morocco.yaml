@@ -1,17 +1,13 @@
 ---
 #Morocco (Kingdom of)
-#Amateur stations:	
+#Amateur stations:
 #CN2AA-CN2ZZ
 #CN8AA-CN8ZZ
-#Experimental stations:	CN4AA-CN4ZZ
+#Experimental stations: CN4AA-CN4ZZ
 
 groups:
   amateur:
-    - name: Morocco
-      regex: CN2[:upper:]{2}
-
-    - name: Morocco
-      regex: CN6[:upper:]{2}
+    regex: CN[28][:upper:]{2}
 
   experimental:
     - name: Morocco

@@ -1,6 +1,6 @@
 ---
 #Djibouti (Republic of)
-#Amateur stations: 
+#Amateur stations:
 #J28AA-J28ZZ*
 #J20AA-J20ZZ**
 # ** For amateur stations operating on a permanent basis.
@@ -15,5 +15,8 @@ groups:
     - name: For amateur stations operating on a temporary basis.
       regex: J20[:upper:]{2}
 
-    notes:
-      - For special events the radio amateurs will use J20 followed by a group of 3 letters.
+    - name: For special events (see Note 1)
+      regex: J20[:upper:]{3}
+
+notes:
+  - For special events the radio amateurs will use J20 followed by a group of 3 letters.

@@ -4,5 +4,4 @@
 
 groups:
   amateur:
-    - name: Vatican
-      regex: HV[:digit:][:upper:]{2}
+    regex: HV[:digit:][:upper:]{2}

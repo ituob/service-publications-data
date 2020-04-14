@@ -1,0 +1,3435 @@
+---
+metadata:
+  title:
+    en: List of Data Network Identification Codes (DNIC)
+    es: Lista de códigos de identificación de red de datos (CIRD)
+    fr: Liste des codes d'identification de réseau pour données (CIRD)
+  locale:
+    country_or_area:
+      en: Country/Area
+      fr: Pays/Zone
+      es: País/Zona
+    dnic_number:
+      en: DNIC No.
+      fr: CIRD N°
+      es: CIRD N.°
+    network_name:
+      en: Name of network to which a DNIC is allocated
+      fr: Nom du réseau auquel un CIRD est attribué
+      es: Nombre de la red a la cual se ha atribuido el CIRD
+data:
+  603 0:
+    dnic_number: 603 0
+    country_or_area:
+      en: ALGERIA
+      es: ARGELIA
+      fr: ALGÉRIE
+    network_name: DZ PAC (Réseau public de données à commutation par paquet)
+  213 5:
+    dnic_number: 213 5
+    country_or_area:
+      en: ANDORRA
+      es: ANDORRA
+      fr: ANDORRE
+    network_name: ANDORPAC
+  631 5:
+    dnic_number: 631 5
+    country_or_area:
+      en: ANGOLA
+      es: ANGOLA
+      fr: ANGOLA
+    network_name: ANGOPAC
+  344 3:
+    dnic_number: 344 3
+    country_or_area:
+      en: ANTIGUA AND BARBUDA
+      es: ANTIGUA Y BARBUDA
+      fr: ANTIGUA-ET-BARBUDA
+    network_name: Antigua Packet Switched Service
+  722 1:
+    dnic_number: 722 1
+    country_or_area:
+      en: ARGENTINA
+      es: ARGENTINA
+      fr: ARGENTINE
+    network_name: Nodo Internacional de Datos – TELINTAR
+  722 2:
+    dnic_number: 722 2
+    country_or_area:
+      en: ARGENTINA
+      es: ARGENTINA
+      fr: ARGENTINE
+    network_name: ARPAC (ENTEL)
+  722 3:
+    dnic_number: 722 3
+    country_or_area:
+      en: ARGENTINA
+      es: ARGENTINA
+      fr: ARGENTINE
+    network_name: EASYGATE (ATT)
+  283 0:
+    dnic_number: 283 0
+    country_or_area:
+      en: ARMENIA
+      es: ARMENIA
+      fr: ARMÉNIE
+    network_name: ArmPac
+  505 2:
+    dnic_number: 505 2
+    country_or_area:
+      en: AUSTRALIA
+      es: AUSTRALIA
+      fr: AUSTRALIE
+    network_name: Telstra Corporation Ltd. – AUSTPAC packet switching network
+  505 3:
+    dnic_number: 505 3
+    country_or_area:
+      en: AUSTRALIA
+      es: AUSTRALIA
+      fr: AUSTRALIE
+    network_name: Telstra Corporation Ltd. – AUSTPAC International
+  505 7:
+    dnic_number: 505 7
+    country_or_area:
+      en: AUSTRALIA
+      es: AUSTRALIA
+      fr: AUSTRALIE
+    network_name: Australian Private Networks
+  232 2:
+    dnic_number: 232 2
+    country_or_area:
+      en: AUSTRIA
+      es: AUSTRIA
+      fr: AUTRICHE
+    network_name: Dataswitch (DATAKOM)
+    note: use internally, see OB 971
+  232 9:
+    dnic_number: 232 9
+    country_or_area:
+      en: AUSTRIA
+      es: AUSTRIA
+      fr: AUTRICHE
+    network_name: Radausdata (DATAKOM)
+  400 1:
+    dnic_number: 400 1
+    country_or_area:
+      en: AZERBAIJAN
+      es: AZERBAIYÁN
+      fr: AZERBAÏDJAN
+    network_name: AZPAK (Azerbaijan Public Packet Switched Data Network)
+  400 2:
+    dnic_number: 400 2
+    country_or_area:
+      en: AZERBAIJAN
+      es: AZERBAIYÁN
+      fr: AZERBAÏDJAN
+    network_name: "«AzEuroTel» Joint Venture"
+  426 0:
+    dnic_number: 426 0
+    country_or_area:
+      en: BAHRAIN
+      es: BAHREIN
+      fr: BAHREÏN
+    network_name: Batelco GSM Service
+  426 2:
+    dnic_number: 426 2
+    country_or_area:
+      en: BAHRAIN
+      es: BAHREIN
+      fr: BAHREÏN
+    network_name: Bahrain Managed Data Network (MADAN)
+  426 3:
+    dnic_number: 426 3
+    country_or_area:
+      en: BAHRAIN
+      es: BAHREIN
+      fr: BAHREÏN
+    network_name: Batelco Packet Switched Node
+  342 2:
+    dnic_number: 342 2
+    country_or_area:
+      en: BARBADOS
+      es: BARBADOS
+      fr: BARBADE
+    network_name: CARIBNET
+  342 3:
+    dnic_number: 342 3
+    country_or_area:
+      en: BARBADOS
+      es: BARBADOS
+      fr: BARBADE
+    network_name: International Data Base Access Service (IDAS)
+  257 0:
+    dnic_number: 257 0
+    country_or_area:
+      en: BELARUS
+      es: BELARÚS
+      fr: BÉLARUS
+    network_name: BELPAK
+  206 2:
+    dnic_number: 206 2
+    country_or_area:
+      en: BELGIUM
+      es: BÉLGICA
+      fr: BELGIQUE
+    network_name: Réseau de transmission de données à commutation par paquets (DCS)
+  206 4:
+    dnic_number: 206 4
+    country_or_area:
+      en: BELGIUM
+      es: BÉLGICA
+      fr: BELGIQUE
+    network_name: CODENET
+  206 5:
+    dnic_number: 206 5
+    country_or_area:
+      en: BELGIUM
+      es: BÉLGICA
+      fr: BELGIQUE
+    network_name: "(Le code est utilisé au niveau national pour le réseau DCS)"
+  206 6:
+    dnic_number: 206 6
+    country_or_area:
+      en: BELGIUM
+      es: BÉLGICA
+      fr: BELGIQUE
+    network_name: Unisource Belgium X.25 Service
+  206 7:
+    dnic_number: 206 7
+    country_or_area:
+      en: BELGIUM
+      es: BÉLGICA
+      fr: BELGIQUE
+    network_name: MOBISTAR
+  206 8:
+    dnic_number: 206 8
+    country_or_area:
+      en: BELGIUM
+      es: BÉLGICA
+      fr: BELGIQUE
+    network_name: Accès au réseau DCS via le réseau télex commuté national
+  206 9:
+    dnic_number: 206 9
+    country_or_area:
+      en: BELGIUM
+      es: BÉLGICA
+      fr: BELGIQUE
+    network_name: Accès au réseau DCS via le réseau téléphonique commuté national
+  350 2:
+    dnic_number: 350 2
+    country_or_area:
+      en: BERMUDA
+      es: BERMUDAS
+      fr: BERMUDES
+    network_name: Cable and Wireless Data Communications Node
+  350 3:
+    dnic_number: 350 3
+    country_or_area:
+      en: BERMUDA
+      es: BERMUDAS
+      fr: BERMUDES
+    network_name: Cable and Wireless Packet Switched Node
+  218 0:
+    dnic_number: 218 0
+    country_or_area:
+      en: BOSNIA AND HERZEGOVINA
+      es: BOSNIA Y HERZEGOVINA
+      fr: BOSNIE-HERZÉGOVINE
+    network_name: BIHPAK
+  724 0:
+    dnic_number: 724 0
+    country_or_area:
+      en: BRAZIL
+      es: BRASIL
+      fr: BRÉSIL
+    network_name: International Packet Switching Data Communication Service (INTERDATA)
+  724 1:
+    dnic_number: 724 1
+    country_or_area:
+      en: BRAZIL
+      es: BRASIL
+      fr: BRÉSIL
+    network_name: National Packet Switching Data Communication Service (RENPAC)
+  724 2:
+    dnic_number: 724 2
+    country_or_area:
+      en: BRAZIL
+      es: BRASIL
+      fr: BRÉSIL
+    network_name: RIOPAC
+  724 3:
+    dnic_number: 724 3
+    country_or_area:
+      en: BRAZIL
+      es: BRASIL
+      fr: BRÉSIL
+    network_name: MINASPAC
+  724 4:
+    dnic_number: 724 4
+    country_or_area:
+      en: BRAZIL
+      es: BRASIL
+      fr: BRÉSIL
+    network_name: TRANSPAC
+  724 5:
+    dnic_number: 724 5
+    country_or_area:
+      en: BRAZIL
+      es: BRASIL
+      fr: BRÉSIL
+    network_name: Fac Simile Service (DATA FAX)
+  724 6:
+    dnic_number: 724 6
+    country_or_area:
+      en: BRAZIL
+      es: BRASIL
+      fr: BRÉSIL
+    network_name: BRAZILIAN PRIVATE NETWORKS
+  724 7:
+    dnic_number: 724 7
+    country_or_area:
+      en: BRAZIL
+      es: BRASIL
+      fr: BRÉSIL
+    network_name: DATASAT BI
+  725 1:
+    dnic_number: 725 1
+    country_or_area:
+      en: BRAZIL
+      es: BRASIL
+      fr: BRÉSIL
+    network_name: S.PPAC
+  725 2:
+    dnic_number: 725 2
+    country_or_area:
+      en: BRAZIL
+      es: BRASIL
+      fr: BRÉSIL
+    network_name: TELEST PUBLIC PACKET DATA NETWORK
+  725 3:
+    dnic_number: 725 3
+    country_or_area:
+      en: BRAZIL
+      es: BRASIL
+      fr: BRÉSIL
+    network_name: TELEMIG Public Switched Packet Data Network
+  725 4:
+    dnic_number: 725 4
+    country_or_area:
+      en: BRAZIL
+      es: BRASIL
+      fr: BRÉSIL
+    network_name: PACPAR
+  725 5:
+    dnic_number: 725 5
+    country_or_area:
+      en: BRAZIL
+      es: BRASIL
+      fr: BRÉSIL
+    network_name: CRT/CTMR
+  725 6:
+    dnic_number: 725 6
+    country_or_area:
+      en: BRAZIL
+      es: BRASIL
+      fr: BRÉSIL
+    network_name: Western and Midwestern Public Switched Packet Data Network
+  725 7:
+    dnic_number: 725 7
+    country_or_area:
+      en: BRAZIL
+      es: BRASIL
+      fr: BRÉSIL
+    network_name: TELEBAHIA and TELERGIPE Public Switched Packet Data Network
+  725 8:
+    dnic_number: 725 8
+    country_or_area:
+      en: BRAZIL
+      es: BRASIL
+      fr: BRÉSIL
+    network_name: Northeastern Public Switched Packet Data Network
+  725 9:
+    dnic_number: 725 9
+    country_or_area:
+      en: BRAZIL
+      es: BRASIL
+      fr: BRÉSIL
+    network_name: Northern Public Switched Packet Data Network
+  613 2:
+    dnic_number: 613 2
+    country_or_area:
+      en: BURKINA FASO
+      es: BURKINA FASO
+      fr: BURKINA FASO
+    network_name: FASOPAC
+  624 2:
+    dnic_number: 624 2
+    country_or_area:
+      en: CAMEROON
+      es: CAMERÚN
+      fr: CAMEROUN
+    network_name: CAMPAC
+  302 0:
+    dnic_number: 302 0
+    country_or_area:
+      en: CANADA
+      es: CANADÁ
+      fr: CANADA
+    network_name: Telecom Canada Datapak Network
+  302 1:
+    dnic_number: 302 1
+    country_or_area:
+      en: CANADA
+      es: CANADÁ
+      fr: CANADA
+    network_name: Telecom Canada PSTN Access
+  302 2:
+    dnic_number: 302 2
+    country_or_area:
+      en: CANADA
+      es: CANADÁ
+      fr: CANADA
+    network_name: Stentor Private Packet Switched Data Network Gateway
+  302 3:
+    dnic_number: 302 3
+    country_or_area:
+      en: CANADA
+      es: CANADÁ
+      fr: CANADA
+    network_name: Stentor ISDN Identification
+  302 4:
+    dnic_number: 302 4
+    country_or_area:
+      en: CANADA
+      es: CANADÁ
+      fr: CANADA
+    network_name: Teleglobe Canada – Globedat-C Circuit Switched Data Transmission
+  302 5:
+    dnic_number: 302 5
+    country_or_area:
+      en: CANADA
+      es: CANADÁ
+      fr: CANADA
+    network_name: Teleglobe Canada – Globedat-P Packed Switched Data Transmission
+  302 6:
+    dnic_number: 302 6
+    country_or_area:
+      en: CANADA
+      es: CANADÁ
+      fr: CANADA
+    network_name: AT&T Canada Long Distance Services – FasPac
+  302 8:
+    dnic_number: 302 8
+    country_or_area:
+      en: CANADA
+      es: CANADÁ
+      fr: CANADA
+    network_name: AT&T Canada Long Distance Services – Packet Switched Public Data
+      Network    (PSPDN)
+  303 6:
+    dnic_number: 303 6
+    country_or_area:
+      en: CANADA
+      es: CANADÁ
+      fr: CANADA
+    network_name: Sprint Canada Frame Relay Service – Packet-Switched Network
+  303 7:
+    dnic_number: 303 7
+    country_or_area:
+      en: CANADA
+      es: CANADÁ
+      fr: CANADA
+    network_name: TMI Communications, Limited Partnership – Mobile Data Service (MDS)
+      X.25 public switched data network
+  303 8:
+    dnic_number: 303 8
+    country_or_area:
+      en: CANADA
+      es: CANADÁ
+      fr: CANADA
+    network_name: Canada Post – POSTpac – X.25 Packet Switched Data Network
+  303 9:
+    dnic_number: 303 9
+    country_or_area:
+      en: CANADA
+      es: CANADÁ
+      fr: CANADA
+    network_name: Telesat Canada – Anikom 200
+  625 5:
+    dnic_number: 625 5
+    country_or_area:
+      en: CAPE VERDE
+      es: CABO VERDE
+      fr: CAP-VERT
+    network_name: CVDATA
+  346 3:
+    dnic_number: 346 3
+    country_or_area:
+      en: CAYMAN ISLANDS
+      es: CAIMANES (ISLAS)
+      fr: CAYMAN (ILES)
+    network_name: Cable and Wireless Packet Switching Node
+  622 2:
+    dnic_number: 622 2
+    country_or_area:
+      en: CHAD
+      es: CHAD
+      fr: TCHAD
+    network_name: TCHADPAC
+  730 2:
+    dnic_number: 730 2
+    country_or_area:
+      en: CHILE
+      es: CHILE
+      fr: CHILI
+    network_name: Red nacional de transmisión de datos
+  460 1:
+    dnic_number: 460 1
+    country_or_area:
+      en: CHINA
+      es: CHINA
+      fr: CHINE
+    network_name: Teletex and low speed data network
+  460 200-207:
+    dnic_number: 460 200-207
+    country_or_area:
+      en: CHINA
+      es: CHINA
+      fr: CHINE
+    network_name: China CAAC privileged data network
+  460 3:
+    dnic_number: 460 3
+    country_or_area:
+      en: CHINA
+      es: CHINA
+      fr: CHINE
+    network_name: CHINAPAC
+  460 4:
+    dnic_number: 460 4
+    country_or_area:
+      en: CHINA
+      es: CHINA
+      fr: CHINE
+    network_name: Reserved for public mobile data service
+  460 5:
+    dnic_number: 460 5
+    country_or_area:
+      en: CHINA
+      es: CHINA
+      fr: CHINE
+    network_name: Public data network
+  460 6:
+    dnic_number: 460 6
+    country_or_area:
+      en: CHINA
+      es: CHINA
+      fr: CHINE
+    network_name: Dedicated network
+  460 7:
+    dnic_number: 460 7
+    country_or_area:
+      en: CHINA
+      es: CHINA
+      fr: CHINE
+    network_name: Dedicated network
+  460 8:
+    dnic_number: 460 8
+    country_or_area:
+      en: CHINA
+      es: CHINA
+      fr: CHINE
+    network_name: Dedicated network
+  460 9:
+    dnic_number: 460 9
+    country_or_area:
+      en: CHINA
+      es: CHINA
+      fr: CHINE
+    network_name: China Railcom PAC
+  732 1:
+    dnic_number: 732 1
+    country_or_area:
+      en: COLOMBIA
+      es: COLOMBIA
+      fr: COLOMBIE
+    network_name: RED DE ALTA VELOCIDAD
+  712 0:
+    dnic_number: 712 0
+    country_or_area:
+      en: COSTA RICA
+      es: COSTA RICA
+      fr: COSTA RICA
+    network_name: RACSADATOS
+  612 2:
+    dnic_number: 612 2
+    country_or_area:
+      en: CÔTE D'IVOIRE
+      es: CÔTE D'IVOIRE
+      fr: CÔTE D'IVOIRE
+    network_name: SYTRANPAC
+  219 1:
+    dnic_number: 219 1
+    country_or_area:
+      en: CROATIA
+      es: CROACIA
+      fr: CROATIE
+    network_name: CROAPAK (Croatian Packet Switching Data Network)
+  368 0:
+    dnic_number: 368 0
+    country_or_area:
+      en: CUBA
+      es: CUBA
+      fr: CUBA
+    network_name: Servicios de información por conmutación de paquetes del IDICT
+  362 0:
+    dnic_number: 362 0
+    country_or_area:
+      en: CURAÇAO
+      es: CURAÇAO
+      fr: CURAÇAO
+    network_name: TELEMATIC NETWORK
+  362 1:
+    dnic_number: 362 1
+    country_or_area:
+      en: CURAÇAO
+      es: CURAÇAO
+      fr: CURAÇAO
+    network_name: DATANET CURACAO
+  280 2:
+    dnic_number: 280 2
+    country_or_area:
+      en: CYPRUS
+      es: CHIPRE
+      fr: CHYPRE
+    network_name: CYTAPAC – PSDN, subscribers with direct access
+  280 8:
+    dnic_number: 280 8
+    country_or_area:
+      en: CYPRUS
+      es: CHIPRE
+      fr: CHYPRE
+    network_name: CYTAPAC – PSDN, subscribers with access via telex
+  280 9:
+    dnic_number: 280 9
+    country_or_area:
+      en: CYPRUS
+      es: CHIPRE
+      fr: CHYPRE
+    network_name: CYTAPAC – PSDN, subscribers with access via PSTN – X.28, X.32
+  230 1:
+    dnic_number: 230 1
+    country_or_area:
+      en: CZECH REP.
+      es: REP. CHECA
+      fr: RÉP. TCHÈQUE
+    network_name: Telefónica O2 Czech Repubic
+  230 30:
+    dnic_number: 230 30
+    country_or_area:
+      en: CZECH REP.
+      es: REP. CHECA
+      fr: RÉP. TCHÈQUE
+    network_name: G-NET
+  230 40-44:
+    dnic_number: 230 40-44
+    country_or_area:
+      en: CZECH REP.
+      es: REP. CHECA
+      fr: RÉP. TCHÈQUE
+    network_name: RadioNET
+  238 0:
+    dnic_number: 238 0
+    country_or_area:
+      en: DENMARK
+      es: DINAMARCA
+      fr: DANEMARK
+    network_name: Tele Danmark A/S
+  238 1:
+    dnic_number: 238 1
+    country_or_area:
+      en: DENMARK
+      es: DINAMARCA
+      fr: DANEMARK
+    network_name: DATEX (Circuit Switched Network)
+  238 2:
+    dnic_number: 238 2
+    country_or_area:
+      en: DENMARK
+      es: DINAMARCA
+      fr: DANEMARK
+    network_name: DATAPAK (Packet Switched Network)
+  238 3:
+    dnic_number: 238 3
+    country_or_area:
+      en: DENMARK
+      es: DINAMARCA
+      fr: DANEMARK
+    network_name: DATAPAK (Packet Switched Network)
+  238 4:
+    dnic_number: 238 4
+    country_or_area:
+      en: DENMARK
+      es: DINAMARCA
+      fr: DANEMARK
+    network_name: Transpac
+  238 5:
+    dnic_number: 238 5
+    country_or_area:
+      en: DENMARK
+      es: DINAMARCA
+      fr: DANEMARK
+    network_name: SONOFON GSM
+  370 6:
+    dnic_number: 370 6
+    country_or_area:
+      en: DOMINICAN REP.
+      es: DOMINICANA (REP.)
+      fr: DOMINICAINE (RÉP.)
+    network_name: All America Cables and Radio Inc.
+  602 6:
+    dnic_number: 602 6
+    country_or_area:
+      en: EGYPT
+      es: EGIPTO
+      fr: ÉGYPTE
+    network_name: EGYPTNET
+  248 0:
+    dnic_number: 248 0
+    country_or_area:
+      en: ESTONIA
+      es: ESTONIA
+      fr: ESTONIE
+    network_name: ESTPAK
+  288 1:
+    dnic_number: 288 1
+    country_or_area:
+      en: FAROE ISLANDS
+      es: FEROE (ISLAS)
+      fr: FÉROE (ILES)
+    network_name: FAROEPAC
+  542 0:
+    dnic_number: 542 0
+    country_or_area:
+      en: FIJI
+      es: FIJI
+      fr: FIDJI
+    network_name: FIJPAK
+  542 1:
+    dnic_number: 542 1
+    country_or_area:
+      en: FIJI
+      es: FIJI
+      fr: FIDJI
+    network_name: FIJINET
+  244 2:
+    dnic_number: 244 2
+    country_or_area:
+      en: FINLAND
+      es: FINLANDIA
+      fr: FINLANDE
+    network_name: Sonera Carrier Networks Oy
+  244 3:
+    dnic_number: 244 3
+    country_or_area:
+      en: FINLAND
+      es: FINLANDIA
+      fr: FINLANDE
+    network_name: Elisa Oyj
+  244 4:
+    dnic_number: 244 4
+    country_or_area:
+      en: FINLAND
+      es: FINLANDIA
+      fr: FINLANDE
+    network_name: Song Networks Oy
+  208 0:
+    dnic_number: 208 0
+    country_or_area:
+      en: FRANCE
+      es: FRANCIA
+      fr: FRANCE
+    network_name: Réseau de transmission de données à commutation par paquets TRANSPAC
+  208 1:
+    dnic_number: 208 1
+    country_or_area:
+      en: FRANCE
+      es: FRANCIA
+      fr: FRANCE
+    network_name: France de transit international
+  208 2:
+    dnic_number: 208 2
+    country_or_area:
+      en: FRANCE
+      es: FRANCIA
+      fr: FRANCE
+    network_name: Grands services publics
+  208 3:
+    dnic_number: 208 3
+    country_or_area:
+      en: FRANCE
+      es: FRANCIA
+      fr: FRANCE
+    network_name: Administrations
+  208 4:
+    dnic_number: 208 4
+    country_or_area:
+      en: FRANCE
+      es: FRANCIA
+      fr: FRANCE
+    network_name: Air France
+  208 5:
+    dnic_number: 208 5
+    country_or_area:
+      en: FRANCE
+      es: FRANCIA
+      fr: FRANCE
+    network_name: SIRIS
+  208 6:
+    dnic_number: 208 6
+    country_or_area:
+      en: FRANCE
+      es: FRANCIA
+      fr: FRANCE
+    network_name: BT France
+  208 9:
+    dnic_number: 208 9
+    country_or_area:
+      en: FRANCE
+      es: FRANCIA
+      fr: FRANCE
+    network_name: Interconnexion entre le réseau public de transmission de données
+      Transpac et    d'autres réseaux publics français, pour des services offerts
+      en mode synchrone
+  547 0:
+    dnic_number: 547 0
+    country_or_area:
+      en: FRENCH POLYNESIA
+      es: POLINESIA FRANCESA
+      fr: POLYNÉSIE FRANÇAISE
+    network_name: Transpac – Polynésie et opérateur public local
+  628 0:
+    dnic_number: 628 0
+    country_or_area:
+      en: GABON
+      es: GABÓN
+      fr: GABON
+    network_name: GABONPAC (Réseau de transmission de données à commutation par paquets)
+  628 2:
+    dnic_number: 628 2
+    country_or_area:
+      en: GABON
+      es: GABÓN
+      fr: GABON
+    network_name: GABONPAC2
+  607 0:
+    dnic_number: 607 0
+    country_or_area:
+      en: GAMBIA
+      es: GAMBIA
+      fr: GAMBIE
+    network_name: GAMNET
+  282 1:
+    dnic_number: 282 1
+    country_or_area:
+      en: GEORGIA
+      es: GEORGIA
+      fr: GÉORGIE
+    network_name: IBERIAPAC
+  262 1:
+    dnic_number: 262 1
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: ISDN/X.25
+  262 2:
+    dnic_number: 262 2
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: Circuit Switched Data Service (DATEX-L)
+  262 4:
+    dnic_number: 262 4
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: Packet Switched Data Service (DATEX-P)
+  262 5:
+    dnic_number: 262 5
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: Satellite Services
+  262 7:
+    dnic_number: 262 7
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: Teletex
+  262 9:
+    dnic_number: 262 9
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: D2-Mannesmann
+  263 1:
+    dnic_number: 263 1
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: CoNetP
+  263 2:
+    dnic_number: 263 2
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: RAPNET
+  263 3:
+    dnic_number: 263 3
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: DPS
+  263 4:
+    dnic_number: 263 4
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: EkoNet
+  263 6:
+    dnic_number: 263 6
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: ARCOR/PSN-1
+  264 0:
+    dnic_number: 264 0
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: DETECON
+  264 1:
+    dnic_number: 264 1
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: SCN
+  264 2:
+    dnic_number: 264 2
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: INFO AG NWS
+  264 4:
+    dnic_number: 264 4
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: IDNS
+  264 5:
+    dnic_number: 264 5
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: ARCOR/otelo-net1
+  264 6:
+    dnic_number: 264 6
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: EuroDATA
+  264 7:
+    dnic_number: 264 7
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: ARCOR/otelo-net2
+  264 8:
+    dnic_number: 264 8
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: SNSPac
+  264 9:
+    dnic_number: 264 9
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: MMONET
+  265 1:
+    dnic_number: 265 1
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: WestLB X.25 Net
+  265 2:
+    dnic_number: 265 2
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: PSN/FSINFOSYSBW
+  265 3:
+    dnic_number: 265 3
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: ARCOR/PSN-2
+  265 4:
+    dnic_number: 265 4
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: TNET
+  265 5:
+    dnic_number: 265 5
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: ISIS_DUS
+  265 6:
+    dnic_number: 265 6
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: RWE TELPAC
+  265 7:
+    dnic_number: 265 7
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: DTN/AutoFüFmNLw
+  265 8:
+    dnic_number: 265 8
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: DRENET
+  265 9:
+    dnic_number: 265 9
+    country_or_area:
+      en: GERMANY
+      es: ALEMANIA
+      fr: ALLEMAGNE
+    network_name: GCN (Geno Communication Network)
+  620 2:
+    dnic_number: 620 2
+    country_or_area:
+      en: GHANA
+      es: GHANA
+      fr: GHANA
+    network_name: DATATEL
+  202 3:
+    dnic_number: 202 3
+    country_or_area:
+      en: GREECE
+      es: GRECIA
+      fr: GRÈCE
+    network_name: Packet Switched Public Data Network (HELLASPAC)
+  202 7:
+    dnic_number: 202 7
+    country_or_area:
+      en: GREECE
+      es: GRECIA
+      fr: GRÈCE
+    network_name: LAN-NET
+  290 1:
+    dnic_number: 290 1
+    country_or_area:
+      en: GREENLAND
+      es: GROENLANDIA
+      fr: GROËNLAND
+    network_name: DATAPAK (Packet Switched Network)
+  352 2:
+    dnic_number: 352 2
+    country_or_area:
+      en: GRENADA
+      es: GRANADA
+      fr: GRENADE
+    network_name: CARIBNET
+  535 1:
+    dnic_number: 535 1
+    country_or_area:
+      en: GUAM
+      es: GUAM
+      fr: GUAM
+    network_name: The Pacific Connection, Inc. – Pacnet Public Packet Switching Service
+  738 0:
+    dnic_number: 738 0
+    country_or_area:
+      en: GUYANA
+      es: GUYANA
+      fr: GUYANA
+    network_name: GT&T PAC
+  708 0:
+    dnic_number: 708 0
+    country_or_area:
+      en: HONDURAS
+      es: HONDURAS
+      fr: HONDURAS
+    network_name: HONDUPAQ
+  453 8:
+    dnic_number: 453 8
+    country_or_area:
+      en: HONG KONG, CHINA
+      es: HONG KONG, CHINA
+      fr: HONG KONG, CHINE
+    network_name: Cable & Wireless Regional Businesses (Kong Kong) Limited
+  454 0:
+    dnic_number: 454 0
+    country_or_area:
+      en: HONG KONG, CHINA
+      es: HONG KONG, CHINA
+      fr: HONG KONG, CHINE
+    network_name: Public Switched Document Transfer Service
+  454 1:
+    dnic_number: 454 1
+    country_or_area:
+      en: HONG KONG, CHINA
+      es: HONG KONG, CHINA
+      fr: HONG KONG, CHINE
+    network_name: Hutchison Global Crossing Limited
+  454 3:
+    dnic_number: 454 3
+    country_or_area:
+      en: HONG KONG, CHINA
+      es: HONG KONG, CHINA
+      fr: HONG KONG, CHINE
+    network_name: New T&T
+  454 5:
+    dnic_number: 454 5
+    country_or_area:
+      en: HONG KONG, CHINA
+      es: HONG KONG, CHINA
+      fr: HONG KONG, CHINE
+    network_name: DATAPAK
+  454 6:
+    dnic_number: 454 6
+    country_or_area:
+      en: HONG KONG, CHINA
+      es: HONG KONG, CHINA
+      fr: HONG KONG, CHINE
+    network_name: iAsiaWorks (HK) Service
+  454 7:
+    dnic_number: 454 7
+    country_or_area:
+      en: HONG KONG, CHINA
+      es: HONG KONG, CHINA
+      fr: HONG KONG, CHINE
+    network_name: New World Telephone Limited
+  454 8:
+    dnic_number: 454 8
+    country_or_area:
+      en: HONG KONG, CHINA
+      es: HONG KONG, CHINA
+      fr: HONG KONG, CHINE
+    network_name: KDD Telecomet Hong Kong Ltd.
+  216 1:
+    dnic_number: 216 1
+    country_or_area:
+      en: HUNGARY
+      es: HUNGRÍA
+      fr: HONGRIE
+    network_name: Packet Switched Data Service
+    note: use internally, see OB 965
+  274 0:
+    dnic_number: 274 0
+    country_or_area:
+      en: ICELAND
+      es: ISLANDIA
+      fr: ISLANDE
+    network_name: ISPAK/ICEPAC
+  404 1:
+    dnic_number: 404 1
+    country_or_area:
+      en: INDIA
+      es: INDIA
+      fr: INDE
+    network_name: RABMN
+  404 2:
+    dnic_number: 404 2
+    country_or_area:
+      en: INDIA
+      es: INDIA
+      fr: INDE
+    network_name: International Gateway Packet Switching System (GPSS)
+  404 3:
+    dnic_number: 404 3
+    country_or_area:
+      en: INDIA
+      es: INDIA
+      fr: INDE
+    network_name: INET (Packet Switched Public Data Network)
+  404 5:
+    dnic_number: 404 5
+    country_or_area:
+      en: INDIA
+      es: INDIA
+      fr: INDE
+    network_name: HVnet
+  404 6:
+    dnic_number: 404 6
+    country_or_area:
+      en: INDIA
+      es: INDIA
+      fr: INDE
+    network_name: Shared DNIC for VSAT Based Private Data Networks
+  510 1:
+    dnic_number: 510 1
+    country_or_area:
+      en: INDONESIA
+      es: INDONESIA
+      fr: INDONÉSIE
+    network_name: SKDP Packet Switched Service (Sambungan Komunikasi Data Paket)
+  111 1:
+    dnic_number: 111 1
+    country_or_area:
+      en: INMARSAT
+      es: INMARSAT
+      fr: INMARSAT
+    network_name: Atlantic Ocean-East
+  111 2:
+    dnic_number: 111 2
+    country_or_area:
+      en: INMARSAT
+      es: INMARSAT
+      fr: INMARSAT
+    network_name: Pacific Ocean
+  111 3:
+    dnic_number: 111 3
+    country_or_area:
+      en: INMARSAT
+      es: INMARSAT
+      fr: INMARSAT
+    network_name: Indian Ocean
+  111 4:
+    dnic_number: 111 4
+    country_or_area:
+      en: INMARSAT
+      es: INMARSAT
+      fr: INMARSAT
+    network_name: Atlantic Ocean-West
+  432 1:
+    dnic_number: 432 1
+    country_or_area:
+      en: IRAN (ISLAMIC REPUBLIC OF)
+      es: IRÁN (REPÚBLICA ISLÁMICA DEL)
+      fr: IRAN (RÉPUBLIQUE ISLAMIQUE D')
+    network_name: IranPac
+  272 1:
+    dnic_number: 272 1
+    country_or_area:
+      en: IRELAND
+      es: IRLANDA
+      fr: IRLANDE
+    network_name: International Packet Switched Service
+  272 3:
+    dnic_number: 272 3
+    country_or_area:
+      en: IRELAND
+      es: IRLANDA
+      fr: IRLANDE
+    network_name: EURONET
+  272 4:
+    dnic_number: 272 4
+    country_or_area:
+      en: IRELAND
+      es: IRLANDA
+      fr: IRLANDE
+    network_name: EIRPAC (Packet Switched Data Networks)
+  272 8:
+    dnic_number: 272 8
+    country_or_area:
+      en: IRELAND
+      es: IRLANDA
+      fr: IRLANDE
+    network_name: PostNET (PostGEM Packet Switched Data Network)
+  425 1:
+    dnic_number: 425 1
+    country_or_area:
+      en: ISRAEL
+      es: ISRAEL
+      fr: ISRAËL
+    network_name: ISRANET
+  222 1:
+    dnic_number: 222 1
+    country_or_area:
+      en: ITALY
+      es: ITALIA
+      fr: ITALIE
+    network_name: Rete Telex-Dati (Amministrazione P.T. / national)
+  222 2:
+    dnic_number: 222 2
+    country_or_area:
+      en: ITALY
+      es: ITALIA
+      fr: ITALIE
+    network_name: ITAPAC X.25
+  222 3:
+    dnic_number: 222 3
+    country_or_area:
+      en: ITALY
+      es: ITALIA
+      fr: ITALIE
+    network_name: PAN (Packet Network)
+  222 6:
+    dnic_number: 222 6
+    country_or_area:
+      en: ITALY
+      es: ITALIA
+      fr: ITALIE
+    network_name: ITAPAC – X.32 PSTN, X.28, D channel
+  222 7:
+    dnic_number: 222 7
+    country_or_area:
+      en: ITALY
+      es: ITALIA
+      fr: ITALIE
+    network_name: ITAPAC International
+  223 3:
+    dnic_number: 223 3
+    country_or_area:
+      en: ITALY
+      es: ITALIA
+      fr: ITALIE
+    network_name: ALBADATA X.25
+  223 4:
+    dnic_number: 223 4
+    country_or_area:
+      en: ITALY
+      es: ITALIA
+      fr: ITALIE
+    network_name: Trasmissione dati a commutazione di pacchetto X.25 (UNISOURCE ITALIA
+      S.p.A.)
+  223 5:
+    dnic_number: 223 5
+    country_or_area:
+      en: ITALY
+      es: ITALIA
+      fr: ITALIE
+    network_name: Trasmissione dati a commutazione di pacchetto X.25 (INFOSTRADA S.p.A.)
+  223 6:
+    dnic_number: 223 6
+    country_or_area:
+      en: ITALY
+      es: ITALIA
+      fr: ITALIE
+    network_name: Trasmissione dati a commutazione di pacchetto X.25 (WIND Telecomunicazioni
+      S.p.A.)
+  223 7:
+    dnic_number: 223 7
+    country_or_area:
+      en: ITALY
+      es: ITALIA
+      fr: ITALIE
+    network_name: Trasmissione dati a commutazione di pacchetto X.25 (Atlanet S.p.A.)
+  440 0:
+    dnic_number: 440 0
+    country_or_area:
+      en: JAPAN
+      es: JAPÓN
+      fr: JAPON
+    network_name: GLOBALNET (Network of the Global VAN Japan Incorporation)
+  440 2:
+    dnic_number: 440 2
+    country_or_area:
+      en: JAPAN
+      es: JAPÓN
+      fr: JAPON
+    network_name: NEC-NET (NEC Corporation)
+  440 3:
+    dnic_number: 440 3
+    country_or_area:
+      en: JAPAN
+      es: JAPÓN
+      fr: JAPON
+    network_name: JENSNET (JENS Corporation)
+  440 4:
+    dnic_number: 440 4
+    country_or_area:
+      en: JAPAN
+      es: JAPÓN
+      fr: JAPON
+    network_name: JAIS-NET (Japan Research Institute Ltd.)
+  440 5:
+    dnic_number: 440 5
+    country_or_area:
+      en: JAPAN
+      es: JAPÓN
+      fr: JAPON
+    network_name: NCC-VAN (NRI Co., Ltd.)
+  440 6:
+    dnic_number: 440 6
+    country_or_area:
+      en: JAPAN
+      es: JAPÓN
+      fr: JAPON
+    network_name: TYMNET-JAPAN (JAPAN TELECOM COMMUNICATIONS SERVICES CO.,    LTD.)
+  441 2:
+    dnic_number: 441 2
+    country_or_area:
+      en: JAPAN
+      es: JAPÓN
+      fr: JAPON
+    network_name: Sprintnet (Global One Communications, INC.)
+  441 3:
+    dnic_number: 441 3
+    country_or_area:
+      en: JAPAN
+      es: JAPÓN
+      fr: JAPON
+    network_name: KYODO NET (UNITED NET Corp)
+  441 5:
+    dnic_number: 441 5
+    country_or_area:
+      en: JAPAN
+      es: JAPÓN
+      fr: JAPON
+    network_name: FENICS (FUJITSU LIMITED)
+  441 6:
+    dnic_number: 441 6
+    country_or_area:
+      en: JAPAN
+      es: JAPÓN
+      fr: JAPON
+    network_name: HINET (HITACHI Information Network, Ltd.)
+  441 7:
+    dnic_number: 441 7
+    country_or_area:
+      en: JAPAN
+      es: JAPÓN
+      fr: JAPON
+    network_name: TIS-Net (TOYO Information Systems Co., Ltd.)
+  441 8:
+    dnic_number: 441 8
+    country_or_area:
+      en: JAPAN
+      es: JAPÓN
+      fr: JAPON
+    network_name: TG-VAN (TOSHIBA Corporation)
+  442 0:
+    dnic_number: 442 0
+    country_or_area:
+      en: JAPAN
+      es: JAPÓN
+      fr: JAPON
+    network_name: Pana-Net (MATSUSHITA ELECTRIC INDUSTRIAL CO. LTD.)
+  442 2:
+    dnic_number: 442 2
+    country_or_area:
+      en: JAPAN
+      es: JAPÓN
+      fr: JAPON
+    network_name: CTC-P (CHUBU TELECOMMUNICATIONS CO., INC.)
+  442 3:
+    dnic_number: 442 3
+    country_or_area:
+      en: JAPAN
+      es: JAPÓN
+      fr: JAPON
+    network_name: JENSNET (JENS Corporation)
+  442 4:
+    dnic_number: 442 4
+    country_or_area:
+      en: JAPAN
+      es: JAPÓN
+      fr: JAPON
+    network_name: SITA NETWORK
+  442 5:
+    dnic_number: 442 5
+    country_or_area:
+      en: JAPAN
+      es: JAPÓN
+      fr: JAPON
+    network_name: GLOBAL MANAGED DATA SERVICE (Cable & Wireless IDC-Si)
+  442 6:
+    dnic_number: 442 6
+    country_or_area:
+      en: JAPAN
+      es: JAPÓN
+      fr: JAPON
+    network_name: ECHO-NET (HITAHC INFORMATION SYSTEMS LTD.)
+  442 7:
+    dnic_number: 442 7
+    country_or_area:
+      en: JAPAN
+      es: JAPÓN
+      fr: JAPON
+    network_name: U-net (NIHON UNYSYS INFORMATION SYSTEMS LTD.)
+  401 0:
+    dnic_number: 401 0
+    country_or_area:
+      en: KAZAKHSTAN
+      es: KAZAJSTÁN
+      fr: KAZAKHSTAN
+    network_name: KazNet X.25
+  401 1:
+    dnic_number: 401 1
+    country_or_area:
+      en: KAZAKHSTAN
+      es: KAZAJSTÁN
+      fr: KAZAKHSTAN
+    network_name: BankNet X.25
+  639 0:
+    dnic_number: 639 0
+    country_or_area:
+      en: KENYA
+      es: KENYA
+      fr: KENYA
+    network_name: KENPAC – Telkom Kenya Ltd.
+  450 0:
+    dnic_number: 450 0
+    country_or_area:
+      en: KOREA (REP. OF)
+      es: COREA (REP. DE)
+      fr: CORÉE (RÉP. DE)
+    network_name: HiNET-P (KOREA TELECOM)
+  450 1:
+    dnic_number: 450 1
+    country_or_area:
+      en: KOREA (REP. OF)
+      es: COREA (REP. DE)
+      fr: CORÉE (RÉP. DE)
+    network_name: DACOM-NET
+  450 2:
+    dnic_number: 450 2
+    country_or_area:
+      en: KOREA (REP. OF)
+      es: COREA (REP. DE)
+      fr: CORÉE (RÉP. DE)
+    network_name: CSDN (attribué seulement au télétex/only assigned to Teletex/atribuido
+         solamente al teletex)
+  419 5:
+    dnic_number: 419 5
+    country_or_area:
+      en: KUWAIT
+      es: KUWAIT
+      fr: KOWEÏT
+    network_name: Qualitynet
+  247 1:
+    dnic_number: 247 1
+    country_or_area:
+      en: LATVIA
+      es: LETONIA
+      fr: LETTONIE
+    network_name: Latvijas mobilais telefons
+  247 2:
+    dnic_number: 247 2
+    country_or_area:
+      en: LATVIA
+      es: LETONIA
+      fr: LETTONIE
+    network_name: Tele2
+  247 3:
+    dnic_number: 247 3
+    country_or_area:
+      en: LATVIA
+      es: LETONIA
+      fr: LETTONIE
+    network_name: Telekom Baltija
+  247 4:
+    dnic_number: 247 4
+    country_or_area:
+      en: LATVIA
+      es: LETONIA
+      fr: LETTONIE
+    network_name: MDBA
+  247 5:
+    dnic_number: 247 5
+    country_or_area:
+      en: LATVIA
+      es: LETONIA
+      fr: LETTONIE
+    network_name: Rigatta
+  247 6:
+    dnic_number: 247 6
+    country_or_area:
+      en: LATVIA
+      es: LETONIA
+      fr: LETTONIE
+    network_name: Rixtel
+  247 7:
+    dnic_number: 247 7
+    country_or_area:
+      en: LATVIA
+      es: LETONIA
+      fr: LETTONIE
+    network_name: Advem
+  247 8:
+    dnic_number: 247 8
+    country_or_area:
+      en: LATVIA
+      es: LETONIA
+      fr: LETTONIE
+    network_name: AWA Baltic
+  415 5:
+    dnic_number: 415 5
+    country_or_area:
+      en: LEBANON
+      es: LÍBANO
+      fr: LIBAN
+    network_name: Réseau public de transmission de données par paquets
+  246 2:
+    dnic_number: 246 2
+    country_or_area:
+      en: LITHUANIA
+      es: LITUANIA
+      fr: LITUANIE
+    network_name: Vilnius DATAPAK
+  246 3:
+    dnic_number: 246 3
+    country_or_area:
+      en: LITHUANIA
+      es: LITUANIA
+      fr: LITUANIE
+    network_name: Omnitel
+  270 2:
+    dnic_number: 270 2
+    country_or_area:
+      en: LUXEMBOURG
+      es: LUXEMBURGO
+      fr: LUXEMBOURG
+    network_name: CODENET
+  270 3:
+    dnic_number: 270 3
+    country_or_area:
+      en: LUXEMBOURG
+      es: LUXEMBURGO
+      fr: LUXEMBOURG
+    network_name: RAPNET (Regional ATS Packet Switched Network)
+  270 4:
+    dnic_number: 270 4
+    country_or_area:
+      en: LUXEMBOURG
+      es: LUXEMBURGO
+      fr: LUXEMBOURG
+    network_name: LUXPAC (réseau de transmission de données à commutation par paquets)
+  270 5:
+    dnic_number: 270 5
+    country_or_area:
+      en: LUXEMBOURG
+      es: LUXEMBURGO
+      fr: LUXEMBOURG
+    network_name: LUXNET (interconnection entre le réseau public de transmission de
+      données et d'autres réseaux publics luxembourgeois)
+  270 9:
+    dnic_number: 270 9
+    country_or_area:
+      en: LUXEMBOURG
+      es: LUXEMBURGO
+      fr: LUXEMBOURG
+    network_name: LUXPAC (accès X.28 et  X.32 au réseau téléphonique commuté)
+  455 0:
+    dnic_number: 455 0
+    country_or_area:
+      en: MACAU, CHINA
+      es: MACAO, CHINA
+      fr: MACAO, CHINE
+    network_name: MACAUPAC
+  646 0:
+    dnic_number: 646 0
+    country_or_area:
+      en: MADAGASCAR
+      es: MADAGASCAR
+      fr: MADAGASCAR
+    network_name: INFOPAC
+  502 0:
+    dnic_number: 502 0
+    country_or_area:
+      en: MALAYSIA
+      es: MALASIA
+      fr: MALAISIE
+    network_name: COINS Global Frame Relay
+  502 1:
+    dnic_number: 502 1
+    country_or_area:
+      en: MALAYSIA
+      es: MALASIA
+      fr: MALAISIE
+    network_name: Malaysian Public Packet Switched Public Data Network (MAYPAC)
+  502 3:
+    dnic_number: 502 3
+    country_or_area:
+      en: MALAYSIA
+      es: MALASIA
+      fr: MALAISIE
+    network_name: Corporate Information Networks
+  502 4:
+    dnic_number: 502 4
+    country_or_area:
+      en: MALAYSIA
+      es: MALASIA
+      fr: MALAISIE
+    network_name: ACASIA-ASEAN Managed Overlay Network
+  502 6:
+    dnic_number: 502 6
+    country_or_area:
+      en: MALAYSIA
+      es: MALASIA
+      fr: MALAISIE
+    network_name: Mutiara Frame Relay Network
+  502 7:
+    dnic_number: 502 7
+    country_or_area:
+      en: MALAYSIA
+      es: MALASIA
+      fr: MALAISIE
+    network_name: Mobile Public Data Network (WAVENET)
+  502 8:
+    dnic_number: 502 8
+    country_or_area:
+      en: MALAYSIA
+      es: MALASIA
+      fr: MALAISIE
+    network_name: Global Management Data Services (GMDS)
+  472 0:
+    dnic_number: 472 0
+    country_or_area:
+      en: MALDIVES
+      es: MALDIVAS
+      fr: MALDIVES
+    network_name: DATANET (Maldives Packet Switching Service)
+  278 2:
+    dnic_number: 278 2
+    country_or_area:
+      en: MALTA
+      es: MALTA
+      fr: MALTE
+    network_name: MALTAPAC (Packet Switching Service)
+  334 0:
+    dnic_number: 334 0
+    country_or_area:
+      en: MEXICO
+      es: MÉXICO
+      fr: MEXIQUE
+    network_name: TELEPAC
+  334 1:
+    dnic_number: 334 1
+    country_or_area:
+      en: MEXICO
+      es: MÉXICO
+      fr: MEXIQUE
+    network_name: UNITET
+  334 2:
+    dnic_number: 334 2
+    country_or_area:
+      en: MEXICO
+      es: MÉXICO
+      fr: MEXIQUE
+    network_name: IUSANET
+  334 3:
+    dnic_number: 334 3
+    country_or_area:
+      en: MEXICO
+      es: MÉXICO
+      fr: MEXIQUE
+    network_name: TEI
+  334 4:
+    dnic_number: 334 4
+    country_or_area:
+      en: MEXICO
+      es: MÉXICO
+      fr: MEXIQUE
+    network_name: OPTEL
+  334 5:
+    dnic_number: 334 5
+    country_or_area:
+      en: MEXICO
+      es: MÉXICO
+      fr: MEXIQUE
+    network_name: TELNORPAC
+  334 6:
+    dnic_number: 334 6
+    country_or_area:
+      en: MEXICO
+      es: MÉXICO
+      fr: MEXIQUE
+    network_name: TYMPAQ
+  334 7:
+    dnic_number: 334 7
+    country_or_area:
+      en: MEXICO
+      es: MÉXICO
+      fr: MEXIQUE
+    network_name: SINFRARED
+  334 8:
+    dnic_number: 334 8
+    country_or_area:
+      en: MEXICO
+      es: MÉXICO
+      fr: MEXIQUE
+    network_name: INTERVAN
+  334 9:
+    dnic_number: 334 9
+    country_or_area:
+      en: MEXICO
+      es: MÉXICO
+      fr: MEXIQUE
+    network_name: INTELCOMNET
+  335 0:
+    dnic_number: 335 0
+    country_or_area:
+      en: MEXICO
+      es: MÉXICO
+      fr: MEXIQUE
+    network_name: AVANTEL, S.A.
+  335 1:
+    dnic_number: 335 1
+    country_or_area:
+      en: MEXICO
+      es: MÉXICO
+      fr: MEXIQUE
+    network_name: ALESTRA, S. DE R.L. DE C.V.
+  550 1:
+    dnic_number: 550 1
+    country_or_area:
+      en: MICRONESIA
+      es: MICRONESIA
+      fr: MICRONÉSIE
+    network_name: FSMTC Packet Switched Network
+  604 1:
+    dnic_number: 604 1
+    country_or_area:
+      en: MOROCCO
+      es: MARRUECOS
+      fr: MAROC
+    network_name: MAGHRIPAC
+  604 2:
+    dnic_number: 604 2
+    country_or_area:
+      en: MOROCCO
+      es: MARRUECOS
+      fr: MAROC
+    network_name: MAGHRIPAC X.32
+  604 9:
+    dnic_number: 604 9
+    country_or_area:
+      en: MOROCCO
+      es: MARRUECOS
+      fr: MAROC
+    network_name: MAGHRIPAC RTC PAD
+  643 5:
+    dnic_number: 643 5
+    country_or_area:
+      en: MOZAMBIQUE
+      es: MOZAMBIQUE
+      fr: MOZAMBIQUE
+    network_name: COMPAC (Packet Switching Public Data Network)
+  414 1:
+    dnic_number: 414 1
+    country_or_area:
+      en: MYANMAR
+      es: MYANMAR
+      fr: Myanmar
+    network_name: MYANMARP
+  649 0:
+    dnic_number: 649 0
+    country_or_area:
+      en: NAMIBIA
+      es: NAMIBIA
+      fr: NAMIBIE
+    network_name: SWANET (Public Packet Switched Network)
+  429 0:
+    dnic_number: 429 0
+    country_or_area:
+      en: NEPAL
+      es: NEPAL
+      fr: NÉPAL
+    network_name: NEPPAK (Nepal Packet Switched Public Data Network)
+  204 1:
+    dnic_number: 204 1
+    country_or_area:
+      en: NETHERLANDS
+      es: PAÍSES BAJOS
+      fr: PAYS-BAS
+    network_name: Datanet 1 X.25 access
+  204 4:
+    dnic_number: 204 4
+    country_or_area:
+      en: NETHERLANDS
+      es: PAÍSES BAJOS
+      fr: PAYS-BAS
+    network_name: Unisource/Unidata
+  204 6:
+    dnic_number: 204 6
+    country_or_area:
+      en: NETHERLANDS
+      es: PAÍSES BAJOS
+      fr: PAYS-BAS
+    network_name: Unisource/VPNS
+  205 2:
+    dnic_number: 205 2
+    country_or_area:
+      en: NETHERLANDS
+      es: PAÍSES BAJOS
+      fr: PAYS-BAS
+    network_name: NV CasTel
+  205 3:
+    dnic_number: 205 3
+    country_or_area:
+      en: NETHERLANDS
+      es: PAÍSES BAJOS
+      fr: PAYS-BAS
+    network_name: Global One Communications BV
+  205 5:
+    dnic_number: 205 5
+    country_or_area:
+      en: NETHERLANDS
+      es: PAÍSES BAJOS
+      fr: PAYS-BAS
+    network_name: Rabofacet BV
+  205 7:
+    dnic_number: 205 7
+    country_or_area:
+      en: NETHERLANDS
+      es: PAÍSES BAJOS
+      fr: PAYS-BAS
+    network_name: Trionet v.o.f.
+  546 0:
+    dnic_number: 546 0
+    country_or_area:
+      en: NEW CALEDONIA
+      es: NUEVA CALEDONIA
+      fr: NOUVELLE-CALÉDONIE
+    network_name: Transpac – Nouvelle Calédonie et opérateur public local
+  530 1:
+    dnic_number: 530 1
+    country_or_area:
+      en: NEW ZEALAND
+      es: NUEVA ZELANDIA
+      fr: NOUVELLE-ZÉLANDE
+    network_name: PACNET Packet Switching Network
+  710 0:
+    dnic_number: 710 0
+    country_or_area:
+      en: NICARAGUA
+      es: NICARAGUA
+      fr: NICARAGUA
+    network_name: NicaPac
+  242 1:
+    dnic_number: 242 1
+    country_or_area:
+      en: NORWAY
+      es: NORUEGA
+      fr: NORVÈGE
+    network_name: DATEX (Circuit Switched Network, CSDN)
+  242 2:
+    dnic_number: 242 2
+    country_or_area:
+      en: NORWAY
+      es: NORUEGA
+      fr: NORVÈGE
+    network_name: DATAPAK (Packet Switched Network, PSDN)
+  242 9:
+    dnic_number: 242 9
+    country_or_area:
+      en: NORWAY
+      es: NORUEGA
+      fr: NORVÈGE
+    network_name: Shared by private data networks, for PNIC allocation
+  410 1:
+    dnic_number: 410 1
+    country_or_area:
+      en: PAKISTAN
+      es: PAKISTÁN
+      fr: PAKISTAN
+    network_name: TRANSLINK
+  714 1:
+    dnic_number: 714 1
+    country_or_area:
+      en: PANAMA
+      es: PANAMÁ
+      fr: PANAMA
+    network_name: Red de transmisión de datos con conmutación de paquetes (INTELPAQ)
+  714 4:
+    dnic_number: 714 4
+    country_or_area:
+      en: PANAMA
+      es: PANAMÁ
+      fr: PANAMA
+    network_name: CWP DATA NETWORK
+  744 0:
+    dnic_number: 744 0
+    country_or_area:
+      en: PARAGUAY
+      es: PARAGUAY
+      fr: PARAGUAY
+    network_name: PARABAN
+  744 7:
+    dnic_number: 744 7
+    country_or_area:
+      en: PARAGUAY
+      es: PARAGUAY
+      fr: PARAGUAY
+    network_name: ANTELPAC
+  744 8:
+    dnic_number: 744 8
+    country_or_area:
+      en: PARAGUAY
+      es: PARAGUAY
+      fr: PARAGUAY
+    network_name: PARAPAQ
+  716 0:
+    dnic_number: 716 0
+    country_or_area:
+      en: PERU
+      es: PERÚ
+      fr: PÉROU
+    network_name: MEGANET (PERUNET)
+  716 1:
+    dnic_number: 716 1
+    country_or_area:
+      en: PERU
+      es: PERÚ
+      fr: PÉROU
+    network_name: MEGANET
+  515 1:
+    dnic_number: 515 1
+    country_or_area:
+      en: PHILIPPINES
+      es: FILIPINAS
+      fr: PHILIPPINES
+    network_name: CWI DATANET – Capitol Wireless, Inc. (CAPWIRE)
+  515 2:
+    dnic_number: 515 2
+    country_or_area:
+      en: PHILIPPINES
+      es: FILIPINAS
+      fr: PHILIPPINES
+    network_name: Philippine Global Communications, Inc. (PHILCOM)
+  515 4:
+    dnic_number: 515 4
+    country_or_area:
+      en: PHILIPPINES
+      es: FILIPINAS
+      fr: PHILIPPINES
+    network_name: Globe-Mackay Cable and Radio Corp. (GMCR)
+  515 6:
+    dnic_number: 515 6
+    country_or_area:
+      en: PHILIPPINES
+      es: FILIPINAS
+      fr: PHILIPPINES
+    network_name: Eastern Telecommunications Philippines, Inc. (ETPI)
+  515 7:
+    dnic_number: 515 7
+    country_or_area:
+      en: PHILIPPINES
+      es: FILIPINAS
+      fr: PHILIPPINES
+    network_name: DATAPAC
+  260 1:
+    dnic_number: 260 1
+    country_or_area:
+      en: POLAND
+      es: POLONIA
+      fr: POLOGNE
+    network_name: POLPAK
+  260 3:
+    dnic_number: 260 3
+    country_or_area:
+      en: POLAND
+      es: POLONIA
+      fr: POLOGNE
+    network_name: EXATEL
+  260 4:
+    dnic_number: 260 4
+    country_or_area:
+      en: POLAND
+      es: POLONIA
+      fr: POLOGNE
+    network_name: POLPAK-T
+  260 621:
+    dnic_number: 260 621
+    country_or_area:
+      en: POLAND
+      es: POLONIA
+      fr: POLOGNE
+    network_name: DATACOM
+  260 622:
+    dnic_number: 260 622
+    country_or_area:
+      en: POLAND
+      es: POLONIA
+      fr: POLOGNE
+    network_name: MNI
+  260 6301:
+    dnic_number: 260 6301
+    country_or_area:
+      en: POLAND
+      es: POLONIA
+      fr: POLOGNE
+    network_name: INTERNET GROUP
+  260 6303:
+    dnic_number: 260 6303
+    country_or_area:
+      en: POLAND
+      es: POLONIA
+      fr: POLOGNE
+    network_name: INTERNET TECHNOLOGIES
+  260 6304:
+    dnic_number: 260 6304
+    country_or_area:
+      en: POLAND
+      es: POLONIA
+      fr: POLOGNE
+    network_name: INTERTELE
+  260 641:
+    dnic_number: 260 641
+    country_or_area:
+      en: POLAND
+      es: POLONIA
+      fr: POLOGNE
+    network_name: PAGI
+  260 642:
+    dnic_number: 260 642
+    country_or_area:
+      en: POLAND
+      es: POLONIA
+      fr: POLOGNE
+    network_name: CROWLEY DATA POLAND
+  260 651:
+    dnic_number: 260 651
+    country_or_area:
+      en: POLAND
+      es: POLONIA
+      fr: POLOGNE
+    network_name: MEDIATEL
+  260 661:
+    dnic_number: 260 661
+    country_or_area:
+      en: POLAND
+      es: POLONIA
+      fr: POLOGNE
+    network_name: KOLPAK
+  260 662:
+    dnic_number: 260 662
+    country_or_area:
+      en: POLAND
+      es: POLONIA
+      fr: POLOGNE
+    network_name: ENERGIS POLSKA
+  260 672:
+    dnic_number: 260 672
+    country_or_area:
+      en: POLAND
+      es: POLONIA
+      fr: POLOGNE
+    network_name: VPN SERVICE
+  260 681:
+    dnic_number: 260 681
+    country_or_area:
+      en: POLAND
+      es: POLONIA
+      fr: POLOGNE
+    network_name: EXATEL
+  260 691:
+    dnic_number: 260 691
+    country_or_area:
+      en: POLAND
+      es: POLONIA
+      fr: POLOGNE
+    network_name: NETIA
+  260 7:
+    dnic_number: 260 7
+    country_or_area:
+      en: POLAND
+      es: POLONIA
+      fr: POLOGNE
+    network_name: CUPAK
+  268 0:
+    dnic_number: 268 0
+    country_or_area:
+      en: PORTUGAL
+      es: PORTUGAL
+      fr: PORTUGAL
+    network_name: PrimeNet
+  268 1:
+    dnic_number: 268 1
+    country_or_area:
+      en: PORTUGAL
+      es: PORTUGAL
+      fr: PORTUGAL
+    network_name: OniSolutions -Infocomunicações, S.A.
+  268 2:
+    dnic_number: 268 2
+    country_or_area:
+      en: PORTUGAL
+      es: PORTUGAL
+      fr: PORTUGAL
+    network_name: CPRM-Marconi
+  268 3:
+    dnic_number: 268 3
+    country_or_area:
+      en: PORTUGAL
+      es: PORTUGAL
+      fr: PORTUGAL
+    network_name: Eastécnica, Electrónica e Técnica, S.A.
+  268 4:
+    dnic_number: 268 4
+    country_or_area:
+      en: PORTUGAL
+      es: PORTUGAL
+      fr: PORTUGAL
+    network_name: PrimeNet
+  268 5:
+    dnic_number: 268 5
+    country_or_area:
+      en: PORTUGAL
+      es: PORTUGAL
+      fr: PORTUGAL
+    network_name: Global One – Comunicações, S.A.
+  268 6:
+    dnic_number: 268 6
+    country_or_area:
+      en: PORTUGAL
+      es: PORTUGAL
+      fr: PORTUGAL
+    network_name: HLC, Telecomunicações & Multimédia, S.A.
+  268 7:
+    dnic_number: 268 7
+    country_or_area:
+      en: PORTUGAL
+      es: PORTUGAL
+      fr: PORTUGAL
+    network_name: Jazztel Portugal – Serviços de Telecomunicações, S.A.
+  330 2:
+    dnic_number: 330 2
+    country_or_area:
+      en: PUERTO RICO
+      es: PUERTO RICO
+      fr: PUERTO RICO
+    network_name: ATM Broadband Network
+  330 3:
+    dnic_number: 330 3
+    country_or_area:
+      en: PUERTO RICO
+      es: PUERTO RICO
+      fr: PUERTO RICO
+    network_name: TDNet Puerto Rico
+  427 1:
+    dnic_number: 427 1
+    country_or_area:
+      en: QATAR
+      es: QATAR
+      fr: QATAR
+    network_name: DOHPAK
+  226 0:
+    dnic_number: 226 0
+    country_or_area:
+      en: ROMANIA
+      es: RUMANIA
+      fr: ROUMANIE
+    network_name: ROMPAC
+  250 0:
+    dnic_number: 250 0
+    country_or_area:
+      en: RUSSIAN FEDERATION
+      es: FEDERACIÓN DE RUSIA
+      fr: FÉDÉRATION DE RUSSIE
+    network_name: Rospac-RT
+  250 1:
+    dnic_number: 250 1
+    country_or_area:
+      en: RUSSIAN FEDERATION
+      es: FEDERACIÓN DE RUSIA
+      fr: FÉDÉRATION DE RUSSIE
+    network_name: SPRINT Networks
+  250 2:
+    dnic_number: 250 2
+    country_or_area:
+      en: RUSSIAN FEDERATION
+      es: FEDERACIÓN DE RUSIA
+      fr: FÉDÉRATION DE RUSSIE
+    network_name: IASNET
+  250 3:
+    dnic_number: 250 3
+    country_or_area:
+      en: RUSSIAN FEDERATION
+      es: FEDERACIÓN DE RUSIA
+      fr: FÉDÉRATION DE RUSSIE
+    network_name: MMTEL
+  250 4:
+    dnic_number: 250 4
+    country_or_area:
+      en: RUSSIAN FEDERATION
+      es: FEDERACIÓN DE RUSIA
+      fr: FÉDÉRATION DE RUSSIE
+    network_name: INFOTEL
+  250 6:
+    dnic_number: 250 6
+    country_or_area:
+      en: RUSSIAN FEDERATION
+      es: FEDERACIÓN DE RUSIA
+      fr: FÉDÉRATION DE RUSSIE
+    network_name: ROSNET
+  250 7:
+    dnic_number: 250 7
+    country_or_area:
+      en: RUSSIAN FEDERATION
+      es: FEDERACIÓN DE RUSIA
+      fr: FÉDÉRATION DE RUSSIE
+    network_name: ISTOK-K
+  250 8:
+    dnic_number: 250 8
+    country_or_area:
+      en: RUSSIAN FEDERATION
+      es: FEDERACIÓN DE RUSIA
+      fr: FÉDÉRATION DE RUSSIE
+    network_name: TRANSINFORM
+  250 9:
+    dnic_number: 250 9
+    country_or_area:
+      en: RUSSIAN FEDERATION
+      es: FEDERACIÓN DE RUSIA
+      fr: FÉDÉRATION DE RUSSIE
+    network_name: LENFINCOM
+  251 0:
+    dnic_number: 251 0
+    country_or_area:
+      en: RUSSIAN FEDERATION
+      es: FEDERACIÓN DE RUSIA
+      fr: FÉDÉRATION DE RUSSIE
+    network_name: SOVAMNET
+  251 1:
+    dnic_number: 251 1
+    country_or_area:
+      en: RUSSIAN FEDERATION
+      es: FEDERACIÓN DE RUSIA
+      fr: FÉDÉRATION DE RUSSIE
+    network_name: EDITRANS
+  251 2:
+    dnic_number: 251 2
+    country_or_area:
+      en: RUSSIAN FEDERATION
+      es: FEDERACIÓN DE RUSIA
+      fr: FÉDÉRATION DE RUSSIE
+    network_name: TECOS
+  251 3:
+    dnic_number: 251 3
+    country_or_area:
+      en: RUSSIAN FEDERATION
+      es: FEDERACIÓN DE RUSIA
+      fr: FÉDÉRATION DE RUSSIE
+    network_name: PTTNET
+  251 4:
+    dnic_number: 251 4
+    country_or_area:
+      en: RUSSIAN FEDERATION
+      es: FEDERACIÓN DE RUSIA
+      fr: FÉDÉRATION DE RUSSIE
+    network_name: BCLNET
+  251 5:
+    dnic_number: 251 5
+    country_or_area:
+      en: RUSSIAN FEDERATION
+      es: FEDERACIÓN DE RUSIA
+      fr: FÉDÉRATION DE RUSSIE
+    network_name: SPTNET
+  251 6:
+    dnic_number: 251 6
+    country_or_area:
+      en: RUSSIAN FEDERATION
+      es: FEDERACIÓN DE RUSIA
+      fr: FÉDÉRATION DE RUSSIE
+    network_name: AS Sirena-3 Data Communication System
+  251 7:
+    dnic_number: 251 7
+    country_or_area:
+      en: RUSSIAN FEDERATION
+      es: FEDERACIÓN DE RUSIA
+      fr: FÉDÉRATION DE RUSSIE
+    network_name: TELSYCOM
+  292 2:
+    dnic_number: 292 2
+    country_or_area:
+      en: SAN MARINO
+      es: SAN MARINO
+      fr: SAINT-MARIN
+    network_name: X-Net SMR
+  420 1:
+    dnic_number: 420 1
+    country_or_area:
+      en: SAUDI ARABIA
+      es: ARABIA SAUDITA
+      fr: ARABIE SAOUDITE
+    network_name: ALWASEET – Public Packet Switched Data Network
+  608 1:
+    dnic_number: 608 1
+    country_or_area:
+      en: SENEGAL
+      es: SENEGAL
+      fr: SÉNÉGAL
+    network_name: SENPAC
+  220 1:
+    dnic_number: 220 1
+    country_or_area:
+      en: SERBIA
+      es: SERBIA
+      fr: SERBIE
+    network_name: YUPAC (Yugoslav Packet Switched Public Data Network)
+  633 1:
+    dnic_number: 633 1
+    country_or_area:
+      en: SEYCHELLES
+      es: SEYCHELLES
+      fr: SEYCHELLES
+    network_name: Infolink
+  525 0:
+    dnic_number: 525 0
+    country_or_area:
+      en: SINGAPORE
+      es: SINGAPUR
+      fr: SINGAPOUR
+    network_name: International telephone prefix
+  525 1:
+    dnic_number: 525 1
+    country_or_area:
+      en: SINGAPORE
+      es: SINGAPUR
+      fr: SINGAPOUR
+    network_name: Inmarsat service
+  525 2:
+    dnic_number: 525 2
+    country_or_area:
+      en: SINGAPORE
+      es: SINGAPUR
+      fr: SINGAPOUR
+    network_name: TELEPAC (Public Packet Switching Data Network)
+  525 3:
+    dnic_number: 525 3
+    country_or_area:
+      en: SINGAPORE
+      es: SINGAPUR
+      fr: SINGAPOUR
+    network_name: High speed data/long packet service
+  525 4:
+    dnic_number: 525 4
+    country_or_area:
+      en: SINGAPORE
+      es: SINGAPUR
+      fr: SINGAPOUR
+    network_name: Public Data Network
+  525 5:
+    dnic_number: 525 5
+    country_or_area:
+      en: SINGAPORE
+      es: SINGAPUR
+      fr: SINGAPOUR
+    network_name: Public Data Network
+  525 8:
+    dnic_number: 525 8
+    country_or_area:
+      en: SINGAPORE
+      es: SINGAPUR
+      fr: SINGAPOUR
+    network_name: Telex
+  525 7:
+    dnic_number: 525 7
+    country_or_area:
+      en: SINGAPORE
+      es: SINGAPUR
+      fr: SINGAPOUR
+    network_name: ISDN packet switching service
+  525 9:
+    dnic_number: 525 9
+    country_or_area:
+      en: SINGAPORE
+      es: SINGAPUR
+      fr: SINGAPOUR
+    network_name: PSTN access (dial-in/out)
+  231 1:
+    dnic_number: 231 1
+    country_or_area:
+      en: SLOVAKIA
+      es: ESLOVAQUIA
+      fr: SLOVAQUIE
+    network_name: EuroTel
+  293 1:
+    dnic_number: 293 1
+    country_or_area:
+      en: SLOVENIA
+      es: ESLOVENIA
+      fr: SLOVÉNIE
+    network_name: SIPAX.25
+  540 0:
+    dnic_number: 540 0
+    country_or_area:
+      en: SOLOMON ISLANDS
+      es: SALOMÓN (ISLAS)
+      fr: SALOMON (ILES)
+    network_name: DATANET
+  655 0:
+    dnic_number: 655 0
+    country_or_area:
+      en: SOUTH AFRICA
+      es: SUDAFRICANA (REP.)
+      fr: SUDAFRICAINE (RÉP.)
+    network_name: Saponet – P
+  214 0:
+    dnic_number: 214 0
+    country_or_area:
+      en: SPAIN
+      es: ESPAÑA
+      fr: ESPAGNE
+    network_name: Administración Pública
+  214 1:
+    dnic_number: 214 1
+    country_or_area:
+      en: SPAIN
+      es: ESPAÑA
+      fr: ESPAGNE
+    network_name: Nodo internacional de datos
+  214 2:
+    dnic_number: 214 2
+    country_or_area:
+      en: SPAIN
+      es: ESPAÑA
+      fr: ESPAGNE
+    network_name: RETEVISIÓN
+  214 5:
+    dnic_number: 214 5
+    country_or_area:
+      en: SPAIN
+      es: ESPAÑA
+      fr: ESPAGNE
+    network_name: Red IBERPAC
+  214 7:
+    dnic_number: 214 7
+    country_or_area:
+      en: SPAIN
+      es: ESPAÑA
+      fr: ESPAGNE
+    network_name: France Telecom Redes y Servicios
+  214 9:
+    dnic_number: 214 9
+    country_or_area:
+      en: SPAIN
+      es: ESPAÑA
+      fr: ESPAGNE
+    network_name: MegaRed
+  413 2:
+    dnic_number: 413 2
+    country_or_area:
+      en: SRI LANKA
+      es: SRI LANKA
+      fr: SRI LANKA
+    network_name: Lanka Communication Services (Pvt) Limited
+  413 3:
+    dnic_number: 413 3
+    country_or_area:
+      en: SRI LANKA
+      es: SRI LANKA
+      fr: SRI LANKA
+    network_name: Electroteks (Pvt) Limited
+  413 62:
+    dnic_number: 413 62
+    country_or_area:
+      en: SRI LANKA
+      es: SRI LANKA
+      fr: SRI LANKA
+    network_name: MTT Network (Pvt) Limited
+  413 63:
+    dnic_number: 413 63
+    country_or_area:
+      en: SRI LANKA
+      es: SRI LANKA
+      fr: SRI LANKA
+    network_name: DPMC Electronics (Pvt) Limited
+  240 2:
+    dnic_number: 240 2
+    country_or_area:
+      en: SWEDEN
+      es: SUECIA
+      fr: SUÈDE
+    network_name: WM-data Infrastructur
+  240 3:
+    dnic_number: 240 3
+    country_or_area:
+      en: SWEDEN
+      es: SUECIA
+      fr: SUÈDE
+    network_name: Datapak (Packet Switched Public Data Network) – TeliaSonera AB
+  240 6:
+    dnic_number: 240 6
+    country_or_area:
+      en: SWEDEN
+      es: SUECIA
+      fr: SUÈDE
+    network_name: Flex25 (Public Packet Switched Data Network)
+  240 7:
+    dnic_number: 240 7
+    country_or_area:
+      en: SWEDEN
+      es: SUECIA
+      fr: SUÈDE
+    network_name: Private X.25 Networks (DNIC allocated for a group of private networks)
+      –    TeliaSonera AB
+  228 0:
+    dnic_number: 228 0
+    country_or_area:
+      en: SWITZERLAND
+      es: SUIZA
+      fr: SUISSE
+    network_name: ISDNPac
+  228 2:
+    dnic_number: 228 2
+    country_or_area:
+      en: SWITZERLAND
+      es: SUIZA
+      fr: SUISSE
+    network_name: Transpac-CH
+  228 3:
+    dnic_number: 228 3
+    country_or_area:
+      en: SWITZERLAND
+      es: SUIZA
+      fr: SUISSE
+    network_name: Bebbicel
+  228 4:
+    dnic_number: 228 4
+    country_or_area:
+      en: SWITZERLAND
+      es: SUIZA
+      fr: SUISSE
+    network_name: Telepac
+  228 5:
+    dnic_number: 228 5
+    country_or_area:
+      en: SWITZERLAND
+      es: SUIZA
+      fr: SUISSE
+    network_name: Telepac (accès de réseaux privés)
+  228 6:
+    dnic_number: 228 6
+    country_or_area:
+      en: SWITZERLAND
+      es: SUIZA
+      fr: SUISSE
+    network_name: DataRail
+  228 7:
+    dnic_number: 228 7
+    country_or_area:
+      en: SWITZERLAND
+      es: SUIZA
+      fr: SUISSE
+    network_name: Spack
+  520 2:
+    dnic_number: 520 2
+    country_or_area:
+      en: THAILAND
+      es: TAILANDIA
+      fr: THAÏLANDE
+    network_name: THAIPAK 2 – Value Added Public Packet Switched Data Network
+  520 3:
+    dnic_number: 520 3
+    country_or_area:
+      en: THAILAND
+      es: TAILANDIA
+      fr: THAÏLANDE
+    network_name: CAT Store and Forward Fax Network
+  520 9:
+    dnic_number: 520 9
+    country_or_area:
+      en: THAILAND
+      es: TAILANDIA
+      fr: THAÏLANDE
+    network_name: TOT ISDN
+  294 0:
+    dnic_number: 294 0
+    country_or_area:
+      en: THE FORMER YUGOSLAV REP. OF MACEDONIA
+      es: LA EX REP. YUGOSLAVA DE MACEDONIA
+      fr: L'EX-RÉP. YOUGOSLAVE DE MACÉDOINE
+    network_name: MAKPAK
+  539 0:
+    dnic_number: 539 0
+    country_or_area:
+      en: TONGA
+      es: TONGA
+      fr: TONGA
+    network_name: TONGAPAK
+  374 0:
+    dnic_number: 374 0
+    country_or_area:
+      en: TRINIDAD AND TOBAGO
+      es: TRINIDAD Y TABAGO
+      fr: TRINITÉ-ET-TOBAGO
+    network_name: TEXDAT
+  374 5:
+    dnic_number: 374 5
+    country_or_area:
+      en: TRINIDAD AND TOBAGO
+      es: TRINIDAD Y TABAGO
+      fr: TRINITÉ-ET-TOBAGO
+    network_name: DATANETT
+  286 0:
+    dnic_number: 286 0
+    country_or_area:
+      en: TURKEY
+      es: TURQUÍA
+      fr: TURQUIE
+    network_name: TELETEX
+  286 1:
+    dnic_number: 286 1
+    country_or_area:
+      en: TURKEY
+      es: TURQUÍA
+      fr: TURQUIE
+    network_name: DATEX-L
+  286 3:
+    dnic_number: 286 3
+    country_or_area:
+      en: TURKEY
+      es: TURQUÍA
+      fr: TURQUIE
+    network_name: Turkish Packet Switched Data Network (TURPAK)
+  286 4:
+    dnic_number: 286 4
+    country_or_area:
+      en: TURKEY
+      es: TURQUÍA
+      fr: TURQUIE
+    network_name: TURPAK
+  376 3:
+    dnic_number: 376 3
+    country_or_area:
+      en: TURKS AND CAICOS ISLANDS
+      es: TURQUESAS Y CAICOS (ISLAS)
+      fr: TURKS ET CAICOS (ILES)
+    network_name: Cable and Wireless Packet Switched Node
+  376 4:
+    dnic_number: 376 4
+    country_or_area:
+      en: TURKS AND CAICOS ISLANDS
+      es: TURQUESAS Y CAICOS (ISLAS)
+      fr: TURKS ET CAICOS (ILES)
+    network_name: IslandCom
+  255 0:
+    dnic_number: 255 0
+    country_or_area:
+      en: UKRAINE
+      es: UCRANIA
+      fr: UKRAINE
+    network_name: UkrPack
+  255 1:
+    dnic_number: 255 1
+    country_or_area:
+      en: UKRAINE
+      es: UCRANIA
+      fr: UKRAINE
+    network_name: bkcNET
+  255 5:
+    dnic_number: 255 5
+    country_or_area:
+      en: UKRAINE
+      es: UCRANIA
+      fr: UKRAINE
+    network_name: GTNET
+  255 6:
+    dnic_number: 255 6
+    country_or_area:
+      en: UKRAINE
+      es: UCRANIA
+      fr: UKRAINE
+    network_name: UkrPack
+  424 1:
+    dnic_number: 424 1
+    country_or_area:
+      en: UNITED ARAB EMIRATES
+      es: EMIRATOS ÁRABES UNIDOS
+      fr: ÉMIRATS ARABES UNIS
+    network_name: EMDAN Teletex Network
+  424 3:
+    dnic_number: 424 3
+    country_or_area:
+      en: UNITED ARAB EMIRATES
+      es: EMIRATOS ÁRABES UNIDOS
+      fr: ÉMIRATS ARABES UNIS
+    network_name: EMDAN X.25 and X.28 Terminals
+  234 0:
+    dnic_number: 234 0
+    country_or_area:
+      en: UNITED KINGDOM
+      es: REINO UNIDO
+      fr: ROYAUME-UNI
+    network_name: BT
+  234 1:
+    dnic_number: 234 1
+    country_or_area:
+      en: UNITED KINGDOM
+      es: REINO UNIDO
+      fr: ROYAUME-UNI
+    network_name: International Packet Switching Service (IPSS)
+  234 2:
+    dnic_number: 234 2
+    country_or_area:
+      en: UNITED KINGDOM
+      es: REINO UNIDO
+      fr: ROYAUME-UNI
+    network_name: Packet Switched Service (PSS)
+  234 3:
+    dnic_number: 234 3
+    country_or_area:
+      en: UNITED KINGDOM
+      es: REINO UNIDO
+      fr: ROYAUME-UNI
+    network_name: BT Concert Packet Network
+  234 4:
+    dnic_number: 234 4
+    country_or_area:
+      en: UNITED KINGDOM
+      es: REINO UNIDO
+      fr: ROYAUME-UNI
+    network_name: BT Concert Packet Network
+  234 7:
+    dnic_number: 234 7
+    country_or_area:
+      en: UNITED KINGDOM
+      es: REINO UNIDO
+      fr: ROYAUME-UNI
+    network_name: BT
+  234 8:
+    dnic_number: 234 8
+    country_or_area:
+      en: UNITED KINGDOM
+      es: REINO UNIDO
+      fr: ROYAUME-UNI
+    network_name: BT
+  234 9:
+    dnic_number: 234 9
+    country_or_area:
+      en: UNITED KINGDOM
+      es: REINO UNIDO
+      fr: ROYAUME-UNI
+    network_name: Barclays Technology Services
+  235 0:
+    dnic_number: 235 0
+    country_or_area:
+      en: UNITED KINGDOM
+      es: REINO UNIDO
+      fr: ROYAUME-UNI
+    network_name: C&W X.25 Service, International Packet Gateway
+    note: use internally, see OB 879
+  235 1:
+    dnic_number: 235 1
+    country_or_area:
+      en: UNITED KINGDOM
+      es: REINO UNIDO
+      fr: ROYAUME-UNI
+    network_name: C & W X.25 Service
+    note: use internally, see OB 879
+  235 2:
+    dnic_number: 235 2
+    country_or_area:
+      en: UNITED KINGDOM
+      es: REINO UNIDO
+      fr: ROYAUME-UNI
+    network_name: Kingston Communications (Hull) PLC.
+  235 3:
+    dnic_number: 235 3
+    country_or_area:
+      en: UNITED KINGDOM
+      es: REINO UNIDO
+      fr: ROYAUME-UNI
+    network_name: Vodaphone, Packet Network Service
+  235 4:
+    dnic_number: 235 4
+    country_or_area:
+      en: UNITED KINGDOM
+      es: REINO UNIDO
+      fr: ROYAUME-UNI
+    network_name: Nomura Computer Systems Europe Ltd. (NCC-E)
+  235 5:
+    dnic_number: 235 5
+    country_or_area:
+      en: UNITED KINGDOM
+      es: REINO UNIDO
+      fr: ROYAUME-UNI
+    network_name: JAIS Europe Ltd.
+  235 7:
+    dnic_number: 235 7
+    country_or_area:
+      en: UNITED KINGDOM
+      es: REINO UNIDO
+      fr: ROYAUME-UNI
+    network_name: FEDEX UK
+  235 8:
+    dnic_number: 235 8
+    country_or_area:
+      en: UNITED KINGDOM
+      es: REINO UNIDO
+      fr: ROYAUME-UNI
+    network_name: Reuters
+  235 9:
+    dnic_number: 235 9
+    country_or_area:
+      en: UNITED KINGDOM
+      es: REINO UNIDO
+      fr: ROYAUME-UNI
+    network_name: BT
+  236 0:
+    dnic_number: 236 0
+    country_or_area:
+      en: UNITED KINGDOM
+      es: REINO UNIDO
+      fr: ROYAUME-UNI
+    network_name: AT&T ISTEL
+  237 0:
+    dnic_number: 237 0
+    country_or_area:
+      en: UNITED KINGDOM
+      es: REINO UNIDO
+      fr: ROYAUME-UNI
+    network_name: GlobalOne (France Telecom)
+  237 8:
+    dnic_number: 237 8
+    country_or_area:
+      en: UNITED KINGDOM
+      es: REINO UNIDO
+      fr: ROYAUME-UNI
+    network_name: Racal Telecom
+  310 1:
+    dnic_number: 310 1
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: PTN-1 Western Union Packet Switching Network
+  310 2:
+    dnic_number: 310 2
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: MCI Public Data Network (ResponseNet)
+  310 3:
+    dnic_number: 310 3
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: ITT UDTS Network
+  310 4:
+    dnic_number: 310 4
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: MCI Public Data Network (International Gateway)
+  310 5:
+    dnic_number: 310 5
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: WUI Leased Channel Network
+  310 6:
+    dnic_number: 310 6
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Tymnet Network
+  310 7:
+    dnic_number: 310 7
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: ITT Datel Network
+  310 8:
+    dnic_number: 310 8
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: ITT Short Term Voice/Data Transmission Network
+  310 9:
+    dnic_number: 310 9
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: RCAG DATEL II
+  311 0:
+    dnic_number: 311 0
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Telenet Communications Corporation
+  311 1:
+    dnic_number: 311 1
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: RCAG DATEL I (Switched Alternate Voice-Data Service)
+  311 2:
+    dnic_number: 311 2
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Western Union Teletex Service
+  311 3:
+    dnic_number: 311 3
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: RCAG Remote Global Computer Access Service (Low Speed)
+  311 4:
+    dnic_number: 311 4
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Western Union Infomaster
+  311 5:
+    dnic_number: 311 5
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Graphnet Interactive Network
+  311 6:
+    dnic_number: 311 6
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Graphnet Store and Forward Network
+  311 7:
+    dnic_number: 311 7
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: WUI Telex Network
+  311 8:
+    dnic_number: 311 8
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Graphnet Data Network
+  311 9:
+    dnic_number: 311 9
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: TRT Packet Switching Network (IPSS)
+  312 0:
+    dnic_number: 312 0
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: ITT Low Speed Network
+  312 1:
+    dnic_number: 312 1
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: FTCC Circuit Switched Network
+  312 2:
+    dnic_number: 312 2
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: FTCC Telex
+  312 3:
+    dnic_number: 312 3
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: FTCC Domestic Packet Switched Transmission (PST) Service
+  312 4:
+    dnic_number: 312 4
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: FTCC International PST Service
+  312 5:
+    dnic_number: 312 5
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: UNINET
+  312 6:
+    dnic_number: 312 6
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: ADP Autonet
+  312 7:
+    dnic_number: 312 7
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: GTE Telenet Communications Corporation
+  312 8:
+    dnic_number: 312 8
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: TRT Mail/Telex Network
+  312 9:
+    dnic_number: 312 9
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: TRT Circuit Switch Data (ICSS)
+  313 0:
+    dnic_number: 313 0
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: TRT Digital Data Network
+  313 1:
+    dnic_number: 313 1
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: RCAG Telex Network
+  313 2:
+    dnic_number: 313 2
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Compuserve Network Services
+  313 3:
+    dnic_number: 313 3
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: RCAG XNET Service
+  313 4:
+    dnic_number: 313 4
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: AT+T/ACCUNET Packet Switched Capability
+  313 5:
+    dnic_number: 313 5
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: ALASCOM/ALASKANET Service
+  313 6:
+    dnic_number: 313 6
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Geisco Data Network
+  313 7:
+    dnic_number: 313 7
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: International Information Network Services – INFONET Service
+  313 8:
+    dnic_number: 313 8
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Fedex International Transmission Corporation – International Document
+         Transmission Service
+  313 9:
+    dnic_number: 313 9
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: KDD America, Inc. – Public Data Network
+  314 0:
+    dnic_number: 314 0
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Southern New England Telephone Company – Public Packet Network
+  314 1:
+    dnic_number: 314 1
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Bell Atlantic Telephone Companies – Advance Service
+  314 2:
+    dnic_number: 314 2
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Bellsouth Corporation – Pulselink Servie
+  314 3:
+    dnic_number: 314 3
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Ameritech Operating Companies – Public Packet Data Networks
+  314 4:
+    dnic_number: 314 4
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Nynex Telephone Companies – Nyex Infopath Service
+  314 5:
+    dnic_number: 314 5
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Pacific Telesis Public Packet Switching Service
+  314 6:
+    dnic_number: 314 6
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Southwestern Bell Telephone Co. – Microlink II Public Packet Switching
+      Service
+  314 7:
+    dnic_number: 314 7
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: U.S. West, Inc. – Public Packet Switching Service
+  314 8:
+    dnic_number: 314 8
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: United States Telephone Association – to be shared by local exchange
+      telephone    companies
+  314 9:
+    dnic_number: 314 9
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Cable & Wireless Communications, Inc. – Public Network
+  315 0:
+    dnic_number: 315 0
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Globenet, Inc. – Globenet Network Packet Switching Service
+  315 1:
+    dnic_number: 315 1
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Cable & Wireless Communications, Inc. – Public Network
+  315 2:
+    dnic_number: 315 2
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: GTE Hawaiian Telephone Company, Inc. – Public Data Network
+  315 3:
+    dnic_number: 315 3
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: JAIS USA-NET Public Packet Switching Service
+  315 4:
+    dnic_number: 315 4
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Nomura Computer Systems America, Inc. – NCC-A VAN public packet
+      switching    service
+  315 5:
+    dnic_number: 315 5
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Aeronautical Radio, Inc. – GLOBALINK
+  315 6:
+    dnic_number: 315 6
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: American Airlines, Inc. – AANET
+  315 7:
+    dnic_number: 315 7
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: COMSAT Mobile Communications – C-LINK
+  315 8:
+    dnic_number: 315 8
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Schlumberger Information Network (SINET)
+  315 9:
+    dnic_number: 315 9
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Westinghouse Communications – Westinghouse Packet Network
+  316 0:
+    dnic_number: 316 0
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Network Users Group, Ltd. – WDI NET packet
+  316 1:
+    dnic_number: 316 1
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: United States Department of State, Diplomatic Telecommunications
+      Service, Black Packet Switched Data Network
+  316 2:
+    dnic_number: 316 2
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Transaction Network Services, Inc. – TNS Public Packet-switched
+      Network
+  316 6:
+    dnic_number: 316 6
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: U.S. Department of Treasury Wide Area Data Network
+  316 8:
+    dnic_number: 316 8
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: BT North America packet-switched data network
+  316 9:
+    dnic_number: 316 9
+    country_or_area:
+      en: UNITED STATES
+      es: ESTADOS UNIDOS
+      fr: ÉTATS-UNIS
+    network_name: Tenzing Communications Inc. – Inflight Network
+  748 2:
+    dnic_number: 748 2
+    country_or_area:
+      en: URUGUAY
+      es: URUGUAY
+      fr: URUGUAY
+    network_name: URUPAC – Servicio público de transmisión de datos con conmutación
+      de    paquetes
+  748 8:
+    dnic_number: 748 8
+    country_or_area:
+      en: URUGUAY
+      es: URUGUAY
+      fr: URUGUAY
+    network_name: URUPAC – Interfuncionamiento con la red télex
+  748 9:
+    dnic_number: 748 9
+    country_or_area:
+      en: URUGUAY
+      es: URUGUAY
+      fr: URUGUAY
+    network_name: URUPAC – Interfuncionamiento con la red telefónica
+  434 1:
+    dnic_number: 434 1
+    country_or_area:
+      en: UZBEKISTAN
+      es: UZBEKISTÁN
+      fr: OUZBÉKISTAN
+    network_name: UzPAK
+  541 0:
+    dnic_number: 541 0
+    country_or_area:
+      en: VANUATU
+      es: VANUATU
+      fr: VANUATU
+    network_name: VIAPAC (Vanuatu International Access for Packets)
+  225 0:
+    dnic_number: 225 0
+    country_or_area:
+      en: VATICAN
+      es: VATICANO
+      fr: VATICAN
+    network_name: Packet Switching Data Network (PSDN) of Vatican City State
+  645 1:
+    dnic_number: 645 1
+    country_or_area:
+      en: ZAMBIA
+      es: ZAMBIA
+      fr: ZAMBIE
+    network_name: ZAMPAK
+  648 4:
+    dnic_number: 648 4
+    country_or_area:
+      en: ZIMBABWE
+      es: ZIMBABWE
+      fr: ZIMBABWE
+    network_name: ZIMNET

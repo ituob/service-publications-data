@@ -1,0 +1,125 @@
+---
+metadata:
+  locale:
+    applicant:
+      en: Applicant
+      fr: Requérant
+      es: Solicitante
+      ru: Заявитель
+      zh: 申请人
+      ar: مقدم الطلب
+    network:
+      en: Network
+      fr: Réseau
+      es: Red
+      ru: Сеть
+      zh: 网络
+      ar: الشبكة
+    cc_ic:
+      en: Country Code and Identification Code
+      fr: Indicatif de pays et Code d'identification
+      es: Indicativo de país y Código de Identificación
+      ru: Код страны и код идентификации
+      zh: 国家代码和识别码
+      ar: |-
+        الرمز الدليلي للبلد
+        ورمز تعرف الهوية
+    status:
+      en: Status
+      fr: Situation
+      es: Situación
+      ru: Состояние
+      zh: 状态
+      ar: الوضع
+data:
+  MediaLincc Ltd:
+    applicant: MediaLincc Ltd
+    network: MediaLincc Ltd
+    cc_ic: "+883 100"
+    status: Assigned
+  Aicent Inc.:
+    applicant: Aicent Inc.
+    network: Aicent Inc.
+    cc_ic: "+883 110"
+    status: Assigned
+  Telenor Connexion AB:
+    applicant: Telenor Connexion AB
+    network: Telenor Connexion AB
+    cc_ic: "+883 120"
+    status: Assigned
+  Orange:
+    applicant: Orange
+    network: Orange
+    cc_ic: "+883 130"
+    status: Assigned
+    formerly: France Telecom Orange
+  Multiregional TransitTelecom (MTT):
+    applicant: Multiregional TransitTelecom (MTT)
+    network: Multiregional TransitTelecom (MTT)
+    cc_ic: "+883 140"
+    status: Assigned
+  BodyTrace Netherlands B.V.:
+    applicant: BodyTrace Netherlands B.V.
+    network: BodyTrace Netherlands B.V.
+    cc_ic: "+883 150"
+    status: Assigned
+  DCN Hub ehf:
+    applicant: DCN Hub ehf
+    network: DCN Hub ehf
+    cc_ic: "+883 160"
+    status: Assigned
+  EMnify GmbH:
+    applicant: EMnify GmbH
+    network: EMnify GmbH
+    cc_ic: "+883 170"
+    status: Assigned
+  Ooredoo:
+    applicant: Ooredoo
+    network: Ooredoo
+    cc_ic: "+883 180"
+    status: Assigned
+  Com4 Sweden AB:
+    applicant: Com4 Sweden AB
+    network: Com4 Sweden AB
+    cc_ic: "+883 190"
+    status: Assigned
+  Manx Telecom Trading Ltd.:
+    applicant: Manx Telecom Trading Ltd.
+    network: Manx Telecom Trading Ltd.
+    cc_ic: "+883 200"
+    status: Assigned
+  Voxbone SA:
+    applicant: Voxbone SA
+    network: Voxbone SA
+    cc_ic: "+883 5100"
+    status: Assigned
+  Bandwidth.com Inc:
+    applicant: Bandwidth.com Inc
+    network: Bandwidth.com Inc
+    cc_ic: "+883 5110"
+    status: Assigned
+  MTX Connect:
+    applicant: MTX Connect
+    network: MTX Connect
+    cc_ic: "+883 5120"
+    status: Assigned
+  SIPME Ltd:
+    applicant: SIPME Ltd
+    network: SIPME Ltd
+    cc_ic: "+883 5130"
+    status: Assigned
+  Ellipsat Inc:
+    applicant: Ellipsat Inc
+    network: Ellipsat Inc
+    cc_ic: "+883 5140"
+    status: Assigned
+  Wins Limited:
+    applicant: Wins Limited
+    network: Wins Limited
+    cc_ic: "+883 5150"
+    status: Assigned
+  Tel2tel kft.:
+    applicant: Tel2tel kft.
+    network: Tel2tel kft.
+    cc_ic: "+883 5160"
+    status: Assigned

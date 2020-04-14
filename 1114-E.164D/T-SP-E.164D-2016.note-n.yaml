@@ -1,0 +1,39 @@
+---
+metadata:
+  locale:
+    network:
+      en: Network
+      fr: Réseau
+      es: Red
+      ru: Сеть
+      zh: 网络
+      ar: الشبكة
+    cc_ic:
+      en: Country Code and Identification Code
+      fr: Indicatif de pays et Code d'identification
+      es: Indicativo de país y Código de Identificación
+      ru: Код страны и код идентификации
+      zh: 国家代码和识别码
+      ar: |-
+        الرمز الدليلي للبلد
+        ورمز تعرف الهوية
+    status:
+      en: Status
+      fr: Situation
+      es: Situación
+      ru: Состояние
+      zh: 状态
+      ar: الوضع
+data:
+- network: Iridium Communications Inc.
+  cc_ic: "+881 6"
+  status: Assigned
+- network: Iridium Communications Inc.
+  cc_ic: "+881 7"
+  status: Assigned
+- network: Globalstar
+  cc_ic: "+881 8"
+  status: Assigned
+- network: Globalstar
+  cc_ic: "+881 9"
+  status: Assigned

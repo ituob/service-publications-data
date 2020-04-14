@@ -1,0 +1,3429 @@
+---
+metadata:
+  title:
+    en: List of Rec. ITU-T E.164 assigned country codes
+    fr: LISTE DES INDICATIFS DE PAYS DE LA RECOMMANDATION UIT-T E.164 ATTRIBUÉS
+    es: LISTA DE INDICATIVOS DE PAÍS DE LA RECOMENDACIÓN UIT-T E.164 ASIGNADOS
+    ru: СПИСОК ПРИСВОЕННЫХ КОДОВ СТРАНЫ СОГЛАСНО РЕКОМЕНДАЦИИ МСЭ-Т E.164
+    zh: ITU-T E.164建议书分配国家代码列表
+    ar: "قائمة بالرموز الدليلية للبلدان المخصصة \nوفقاً للتوصية ITU-T E.164"
+  locale:
+    country_code:
+      en: Country code
+      fr: Indicatif de pays
+      es: Indicativo de país
+      ru: Код страны
+      zh: 国家代码
+      ar: الرمز الدليلي للبلد
+    country_area_or_service:
+      en: Country, Geographical area or Global service
+      fr: Pays, Zone géographique ou Service mondial
+      es: País, Zona geográfica o Servicio mundial
+      ru: Страна, географическая зона или глобальная услуга
+      zh: 国家、地理区域或全球性业务
+      ar: البلد أو المنطقة الجغرافية أو الخدمة العالمية
+    note:
+      en: Note
+      fr: Note
+      es: Nota
+      ru: Примечание
+      zh: 注
+      ar: ملاحظة
+data:
+- country_code: '0'
+  country_area_or_service:
+    en: Reserved
+    fr: Réservé
+    es: Reservado
+    ru: Зарезервирован
+    zh: 预留
+    ar: محجوز
+- country_code: '1'
+  country_area_or_service:
+    en: American Samoa
+    fr: Anguilla
+    es: Anguila
+    ru: Американское Самоа
+    zh: 美属萨摩亚
+    ar: ساموا الأمريكية
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: Anguilla
+    fr: Antigua-et-Barbuda
+    es: Antigua y Barbuda
+    ru: Ангилья
+    zh: 安圭拉岛
+    ar: أنغويلا
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: Antigua and Barbuda
+    fr: Bahamas (Commonwealth des)
+    es: Bahamas (Commonwealth de las)
+    ru: Антигуа и Барбуда
+    zh: 安提瓜和巴布达
+    ar: أنتيغوا وبربودا
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: Bahamas (Commonwealth of the)
+    fr: Barbade
+    es: Barbados
+    ru: Багамские Острова (Содружество)
+    zh: 巴哈马国
+    ar: كومنولث البهاما
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: Barbados
+    fr: Bermudes
+    es: Bermudas
+    ru: Барбадос
+    zh: 巴巴多斯
+    ar: بربادوس
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: Bermuda
+    fr: Caïmanes (Iles)
+    es: Caimán (Islas)
+    ru: Бермудские острова
+    zh: 百慕大
+    ar: برمودا
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: British Virgin Islands
+    fr: Canada
+    es: Canadá
+    ru: Британские Виргинские острова
+    zh: 英属维京群岛
+    ar: الجزر العذراء البريطانية
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: Canada
+    fr: Dominicaine (République)
+    es: Dominica (Commonwealth de)
+    ru: Канада
+    zh: 加拿大
+    ar: كندا
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: Cayman Islands
+    fr: Dominique (Commonwealth de la)
+    es: Dominicana (República)
+    ru: Каймановы острова
+    zh: 开曼群岛
+    ar: جزر كايمان
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: Dominica (Commonwealth of)
+    fr: Etats-Unis d'Amérique
+    es: Estados Unidos de América
+    ru: Доминика (Содружество)
+    zh: 多米尼克国
+    ar: كومنولث دومينيكا
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: Dominican Republic
+    fr: Grenade
+    es: Granada
+    ru: Доминиканская Республика
+    zh: 多米尼加共和国
+    ar: الجمهورية الدومينيكية
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: Grenada
+    fr: Guam
+    es: Guam
+    ru: Гренада
+    zh: 格林纳达
+    ar: غرينادا
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: Guam
+    fr: Jamaïque
+    es: Jamaica
+    ru: Гуам
+    zh: 关岛
+    ar: غوام
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: Jamaica
+    fr: Mariannes du Nord (Iles) (Commonwealth des)
+    es: Marianas del Norte (Islas) (Commonwealth de las)
+    ru: Ямайка
+    zh: 牙买加
+    ar: جامايكا
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: Montserrat
+    fr: Montserrat
+    es: Montserrat
+    ru: Монтсеррат
+    zh: 蒙特塞拉特岛
+    ar: مونسيرات
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: Northern Mariana Islands (Commonwealth of the)
+    fr: Puerto Rico
+    es: Puerto Rico
+    ru: Северные Марианские острова (Содружество)
+    zh: 北马里亚纳群岛（联邦共和国）
+    ar: كومنولث جزر ماريانا الشمالية
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: Puerto Rico
+    fr: Sainte-Lucie
+    es: Saint Kitts y Nevis
+    ru: Пуэрто-Рико
+    zh: 波多黎各
+    ar: بورتوريكو
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: Saint Kitts and Nevis
+    fr: Saint-Kitts-et-Nevis
+    es: Samoa Americana
+    ru: Сент-Китс и Невис
+    zh: 圣基茨和尼维斯
+    ar: سانت كيتس ونيفيس
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: Saint Lucia
+    fr: Saint-Martin (partie néerlandaise)
+    es: San Martín (parte neerlandesa)
+    ru: Сент-Люсия
+    zh: 圣卢西亚
+    ar: سانت لوسيا
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: Saint Vincent and the Grenadines
+    fr: Saint-Vincent-et-les Grenadines
+    es: San Vicente y las Granadinas
+    ru: Сент-Винсент и Гренадины
+    zh: 圣文森特和格林纳丁斯
+    ar: سانت فنسنت وغرينادين
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: Sint Maarten (Dutch part)
+    fr: Samoa américaines
+    es: Santa Lucía
+    ru: Синт-Мартен (Нидерланды)
+    zh: 圣马丁岛（荷属部分）
+    ar: سينت مارتن (الجزء الهولندي)
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: Trinidad and Tobago
+    fr: Trinité-et-Tobago
+    es: Trinidad y Tabago
+    ru: Тринидад и Тобаго
+    zh: 特立尼达和多巴哥
+    ar: ترينيداد وتوباغو
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: Turks and Caicos Islands
+    fr: Turks-et-Caïcos (Iles)
+    es: Turcas y Caicos (Islas)
+    ru: Острова Тёркс и Кайкос
+    zh: 特克斯和凯科斯群岛
+    ar: جزر تركس وكايكوس
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: United States of America
+    fr: Vierges américaines (Iles)
+    es: Vírgenes Británicas (Islas)
+    ru: Соединенные Штаты Америки
+    zh: 美利坚合众国
+    ar: الولايات المتحدة الأمريكية
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '1'
+  country_area_or_service:
+    en: United States Virgin Islands
+    fr: Vierges britanniques (Iles)
+    es: Vírgenes de los Estados Unidos (Islas)
+    ru: Виргинские острова (США)
+    zh: 美属维京群岛
+    ar: جزر فرجن التابعة للولايات المتحدة
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '20'
+  country_area_or_service:
+    en: Egypt (Arab Republic of)
+    fr: Egypte (République arabe d')
+    es: Egipto (República Arabe de)
+    ru: Египет (Арабская Республика)
+    zh: 阿拉伯埃及共和国
+    ar: جمهورية مصر العربية
+- country_code: '210'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '211'
+  country_area_or_service:
+    en: South Sudan (Republic of)
+    fr: Soudan du Sud (République du)
+    es: Sudán del Sur (República de)
+    ru: Южный Судан (Республика)
+    zh: 南苏丹（共和国）
+    ar: جنوب السودان (جمهورية)
+- country_code: '212'
+  country_area_or_service:
+    en: Morocco (Kingdom of)
+    fr: Maroc (Royaume du)
+    es: Marruecos (Reino de)
+    ru: Марокко (Королевство)
+    zh: 摩洛哥（王国）
+    ar: المملكة المغربية
+- country_code: '213'
+  country_area_or_service:
+    en: Algeria (People's Democratic Republic of)
+    fr: Algérie (République algérienne démocratique et populaire)
+    es: Argelia (República Argelina Democrática y Popular)
+    ru: Алжир (Народная Демократическая Республика)
+    zh: 阿尔及利亚 （民主人民共和国）
+    ar: جمهورية الجزائر الديمقراطية الشعبية
+- country_code: '214'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '215'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '216'
+  country_area_or_service:
+    en: Tunisia
+    fr: Tunisie
+    es: Túnez
+    ru: Тунис
+    zh: 突尼斯
+    ar: تونس
+- country_code: '217'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '218'
+  country_area_or_service:
+    en: Libya
+    fr: Libye
+    es: Libia
+    ru: Ливия
+    zh: 利比亚
+    ar: ليبيا
+- country_code: '219'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '220'
+  country_area_or_service:
+    en: Gambia (Republic of the)
+    fr: Gambie (République de)
+    es: Gambia (República de)
+    ru: Гамбия (Республика)
+    zh: 冈比亚（共和国）
+    ar: جمهورية غامبيا
+- country_code: '221'
+  country_area_or_service:
+    en: Senegal (Republic of)
+    fr: Sénégal (République du)
+    es: Senegal (República del)
+    ru: Сенегал (Республика)
+    zh: 塞内加尔（共和国）
+    ar: جمهورية السنغال
+- country_code: '222'
+  country_area_or_service:
+    en: Mauritania (Islamic Republic of)
+    fr: Mauritanie (République islamique de)
+    es: Mauritania (República Islámica de)
+    ru: Мавритания (Исламская Республика)
+    zh: 毛里塔尼亚（伊斯兰共和国）
+    ar: جمهورية موريتانيا الإسلامية
+- country_code: '223'
+  country_area_or_service:
+    en: Mali (Republic of)
+    fr: Mali (République du)
+    es: Malí (República de)
+    ru: Мали (Республика)
+    zh: 马里（共和国）
+    ar: جمهورية مالي
+- country_code: '224'
+  country_area_or_service:
+    en: Guinea (Republic of)
+    fr: Guinée (République de)
+    es: Guinea (República de)
+    ru: Гвинея (Республика)
+    zh: 几内亚（共和国）
+    ar: جمهورية غينيا
+- country_code: '225'
+  country_area_or_service:
+    en: Côte d'Ivoire (Republic of)
+    fr: Côte d'Ivoire (République de)
+    es: Côte d'Ivoire (República de)
+    ru: Кот-д'Ивуар (Республика)
+    zh: 科特迪瓦（共和国）
+    ar: جمهورية كوت ديفوار
+- country_code: '226'
+  country_area_or_service:
+    en: Burkina Faso
+    fr: Burkina Faso
+    es: Burkina Faso
+    ru: Буркина-Фасо
+    zh: 布基纳法索
+    ar: بوركينا فاصو
+- country_code: '227'
+  country_area_or_service:
+    en: Niger (Republic of the)
+    fr: Niger (République du)
+    es: Níger (República del)
+    ru: Нигер (Республика)
+    zh: 尼日尔（共和国）
+    ar: جمهورية النيجر
+- country_code: '228'
+  country_area_or_service:
+    en: Togolese Republic
+    fr: Togolaise (République)
+    es: Togolesa (República)
+    ru: Тоголезская Республика
+    zh: 多哥共和国
+    ar: جمهورية توغو
+- country_code: '229'
+  country_area_or_service:
+    en: Benin (Republic of)
+    fr: Bénin (République du)
+    es: Benin (República de)
+    ru: Бенин (Республика)
+    zh: 贝宁（共和国）
+    ar: جمهورية بنن
+- country_code: '230'
+  country_area_or_service:
+    en: Mauritius (Republic of)
+    fr: Maurice (République de)
+    es: Mauricio (República de)
+    ru: Маврикий (Республика)
+    zh: 毛里求斯（共和国）
+    ar: جمهورية موريشيوس
+- country_code: '231'
+  country_area_or_service:
+    en: Liberia (Republic of)
+    fr: Libéria (République du)
+    es: Liberia (República de)
+    ru: Либерия (Республика)
+    zh: 利比里亚（共和国）
+    ar: جمهورية ليبيريا
+- country_code: '232'
+  country_area_or_service:
+    en: Sierra Leone
+    fr: Sierra Leone
+    es: Sierra Leona
+    ru: Сьерра-Леоне
+    zh: 塞拉利昂
+    ar: سيراليون
+- country_code: '233'
+  country_area_or_service:
+    en: Ghana
+    fr: Ghana
+    es: Ghana
+    ru: Гана
+    zh: 加纳
+    ar: غانا
+- country_code: '234'
+  country_area_or_service:
+    en: Nigeria (Federal Republic of)
+    fr: Nigéria (République fédérale du)
+    es: Nigeria (República Federal de)
+    ru: Нигерия (Федеративная Республика)
+    zh: 尼日利亚 （联邦共和国）
+    ar: جمهورية نيجيريا الاتحادية
+- country_code: '235'
+  country_area_or_service:
+    en: Chad (Republic of)
+    fr: Tchad (République du)
+    es: Chad (República del)
+    ru: Чад (Республика)
+    zh: 乍得（共和国）
+    ar: جمهورية تشاد
+- country_code: '236'
+  country_area_or_service:
+    en: Central African Republic
+    fr: Centrafricaine (République)
+    es: Centroafricana (República)
+    ru: Центральноафриканская Республика
+    zh: 中非共和国
+    ar: جمهورية إفريقيا الوسطى
+- country_code: '237'
+  country_area_or_service:
+    en: Cameroon (Republic of)
+    fr: Cameroun (République du)
+    es: Camerún (República de)
+    ru: Камерун (Республика)
+    zh: 喀麦隆（共和国）
+    ar: جمهورية الكاميرون
+- country_code: '238'
+  country_area_or_service:
+    en: Cabo Verde (Republic of)
+    fr: Cabo Verde (République de)
+    es: Cabo Verde (República de)
+    ru: Кабо-Верде (Республика)
+    zh: 佛得角（共和国）
+    ar: جمهورية كابو فيردي
+- country_code: '239'
+  country_area_or_service:
+    en: Sao Tome and Principe (Democratic Republic of)
+    fr: Sao Tomé-et-Principe (République démocratique de)
+    es: Santo Tomé y Príncipe (República Democrática de)
+    ru: Сан-Томе и Принсипи (Демократическая Республика)
+    zh: 圣多美和普林西比（民主共和国）
+    ar: جمهورية سان تومي وبرينسيبي الديمقراطية
+- country_code: '240'
+  country_area_or_service:
+    en: Equatorial Guinea (Republic of)
+    fr: Guinée équatoriale (République de)
+    es: Guinea Ecuatorial (República de)
+    ru: Экваториальная Гвинея (Республика)
+    zh: 赤道几内亚（共和国）
+    ar: جمهورية غينيا الاستوائية
+- country_code: '241'
+  country_area_or_service:
+    en: Gabonese Republic
+    fr: Gabonaise (République)
+    es: Gabonesa (República)
+    ru: Габонская Республика
+    zh: 加蓬共和国
+    ar: الجمهورية الغابونية
+- country_code: '242'
+  country_area_or_service:
+    en: Congo (Republic of the)
+    fr: Congo (République du)
+    es: Congo (República del)
+    ru: Конго (Республика)
+    zh: 刚果（共和国）
+    ar: جمهورية الكونغو
+- country_code: '243'
+  country_area_or_service:
+    en: Democratic Republic of the Congo
+    fr: République démocratique du Congo
+    es: República Democrática del Congo
+    ru: Демократическая Республика Конго
+    zh: 刚果民主共和国
+    ar: جمهورية الكونغو الديمقراطية
+- country_code: '244'
+  country_area_or_service:
+    en: Angola (Republic of)
+    fr: Angola (République d')
+    es: Angola (República de)
+    ru: Ангола (Республика)
+    zh: 安哥拉（共和国）
+    ar: جمهورية أنغولا
+- country_code: '245'
+  country_area_or_service:
+    en: Guinea-Bissau (Republic of)
+    fr: Guinée-Bissau (République de)
+    es: Guinea-Bissau (República de)
+    ru: Гвинея-Бисау (Республика)
+    zh: 几内亚比绍（共和国）
+    ar: جمهورية غينيا - بيساو
+- country_code: '246'
+  country_area_or_service:
+    en: Diego Garcia
+    fr: Diego Garcia
+    es: Diego García
+    ru: Диего-Гарсия
+    zh: 迪戈加西亚岛
+    ar: ديغو غارسيا
+- country_code: '247'
+  country_area_or_service:
+    en: Saint Helena, Ascension and Tristan da Cunha
+    fr: Sainte-Hélène, Ascension et Tristan da Cunha
+    es: Santa Elena, Ascension y Tristan da Cunha
+    ru: Острова Св. Елены, Вознесения и Тристан-да-Кунья
+    zh: 圣赫勒拿、阿森松和特里斯坦-达库尼亚
+    ar: سانت هيلانة وأسانسيون وتريستان دا كونها
+  note:
+    en: Ascension is using country code +247and Saint Helena and Tristan da Cuhna
+      country code +290.
+    fr: L’indicatif de pays d’Ascension est +247 et pour Sainte-Hélène et Tristan
+      da Cunha +290.
+    es: Indicativo de país de Ascension es +247; y Santa Elena y Tristan da Cunha
+      +290.
+    ru: Остров Вознесения использует код страны +247, а острова Св. Елены и Тристан-да-Кунья
+      − код страны +290.
+    zh: 阿森松使用国家代码+247，圣赫勒拿和特里斯坦 – 达库尼亚使用国家代码+290。
+    ar: تستخدم أسانسيون الرمز الدليلي +247 وتستخدم سانت هيلانة وتريستان دا كونها الرمز
+      +290.
+- country_code: '248'
+  country_area_or_service:
+    en: Seychelles (Republic of)
+    fr: Seychelles (République des)
+    es: Seychelles (República de)
+    ru: Сейшельские Острова (Республика)
+    zh: 塞舌尔（共和国）
+    ar: جمهورية سيشيل
+- country_code: '249'
+  country_area_or_service:
+    en: Sudan (Republic of the)
+    fr: Soudan (République du)
+    es: Sudán (República del)
+    ru: Судан (Республика)
+    zh: 苏丹（共和国）
+    ar: جمهورية السودان
+- country_code: '250'
+  country_area_or_service:
+    en: Rwanda (Republic of)
+    fr: Rwanda (République du)
+    es: Rwanda (República de)
+    ru: Руанда (Республика)
+    zh: 卢旺达（共和国）
+    ar: جمهورية رواندا
+- country_code: '251'
+  country_area_or_service:
+    en: Ethiopia (Federal Democratic Republic of)
+    fr: Ethiopie (République fédérale démocratique d')
+    es: Etiopía (República Democrática Federal de)
+    ru: Эфиопия (Федеративная Демократическая Республика)
+    zh: 埃塞俄比亚（联邦民主共和国）
+    ar: جمهورية إثيوبيا الاتحادية الديمقراطية
+- country_code: '252'
+  country_area_or_service:
+    en: Somalia (Federal Republic of)
+    fr: Somalie (République fédérale de)
+    es: Somalia (República Federal de)
+    ru: Сомали (Федеративная Республика)
+    zh: 索马里（联邦共和国）
+    ar: جمهورية الصومال الاتحادية
+- country_code: '253'
+  country_area_or_service:
+    en: Djibouti (Republic of)
+    fr: Djibouti (République de)
+    es: Djibouti (República de)
+    ru: Джибути (Республика)
+    zh: 吉布提（共和国）
+    ar: جمهورية جيبوتي
+- country_code: '254'
+  country_area_or_service:
+    en: Kenya (Republic of)
+    fr: Kenya (République du)
+    es: Kenya (República de)
+    ru: Кения (Республика)
+    zh: 肯尼亚（共和国）
+    ar: جمهورية كينيا
+- country_code: '255'
+  country_area_or_service:
+    en: Tanzania (United Republic of)
+    fr: Tanzanie (République-Unie de)
+    es: Tanzanía (República Unida de)
+    ru: Танзания (Объединенная Республика)
+    zh: 坦桑尼亚（联合共和国）
+    ar: جمهورية تنزانيا المتحدة
+- country_code: '256'
+  country_area_or_service:
+    en: Uganda (Republic of)
+    fr: Ouganda (République de l')
+    es: Uganda (República de)
+    ru: Уганда (Республика)
+    zh: 乌干达（共和国）
+    ar: جمهورية أوغندا
+- country_code: '257'
+  country_area_or_service:
+    en: Burundi (Republic of)
+    fr: Burundi (République du)
+    es: Burundi (República de)
+    ru: Бурунди (Республика)
+    zh: 布隆迪（共和国）
+    ar: جمهورية بوروندي
+- country_code: '258'
+  country_area_or_service:
+    en: Mozambique (Republic of)
+    fr: Mozambique (République du)
+    es: Mozambique (República de)
+    ru: Мозамбик (Республика)
+    zh: 莫桑比克（共和国）
+    ar: جمهورية موزامبيق
+- country_code: '259'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '260'
+  country_area_or_service:
+    en: Zambia (Republic of)
+    fr: Zambie (République de)
+    es: Zambia (República de)
+    ru: Замбия (Республика)
+    zh: 赞比亚（共和国）
+    ar: جمهورية زامبيا
+- country_code: '261'
+  country_area_or_service:
+    en: Madagascar (Republic of)
+    fr: Madagascar (République de)
+    es: Madagascar (República de)
+    ru: Мадагаскар (Республика)
+    zh: 马达加斯加（共和国）
+    ar: جمهورية مدغشقر
+- country_code: '262'
+  country_area_or_service:
+    en: French Departments and Territories in the Indian Ocean
+    fr: France de l'Océan indien
+    es: Departamentos y territorios franceses del Océano Indico
+    ru: Французские департаменты и территории в Индийском океане
+    zh: 印度洋法属海外省和领地
+    ar: المقاطعات والأراضي الفرنسية في المحيط الهندي
+  note:
+    en: "French departments and territories in the Indian Ocean include Reunion, the
+      Southern and Antartic territories and\n\tother islands."
+    fr: France de l’Océan indien comprend la Réunion, les Terres Australes et Antartiques
+      françaises et d’autres îles.
+    es: Los departamentos y territorios franceses del Océano Indico incluyen la Reunión,
+      las Tierras Australes y Antárticas y otras islas.
+    ru: Французские департаменты и территории в Индийском океане включают Реюньон,
+      южные и антарктические территории и другие острова.
+    zh: 印度洋法属海外省和领地，包括留尼汪、南方和南极领地及其他岛屿。
+    ar: الإمارات العربية المتحدة هي أبوظبي، وعجمان، ودبي، والفجيرة، ورأس الخيمة، والشارقة،
+      وأم القيوين.
+- country_code: '263'
+  country_area_or_service:
+    en: Zimbabwe (Republic of)
+    fr: Zimbabwe (République du)
+    es: Zimbabwe (República de)
+    ru: Зимбабве (Республика)
+    zh: 津巴布韦（共和国）
+    ar: جمهورية زيمبابوي
+- country_code: '264'
+  country_area_or_service:
+    en: Namibia (Republic of)
+    fr: Namibie (République de)
+    es: Namibia (República de)
+    ru: Намибия (Республика)
+    zh: 纳米比亚（共和国）
+    ar: جمهورية ناميبيا
+- country_code: '265'
+  country_area_or_service:
+    en: Malawi
+    fr: Malawi
+    es: Malawi
+    ru: Малави
+    zh: 马拉维
+    ar: ملاوي
+- country_code: '266'
+  country_area_or_service:
+    en: Lesotho (Kingdom of)
+    fr: Lesotho (Royaume du)
+    es: Lesotho (Reino de)
+    ru: Лесото (Королевство)
+    zh: 莱索托（王国）
+    ar: مملكة ليسوتو
+- country_code: '267'
+  country_area_or_service:
+    en: Botswana (Republic of)
+    fr: Botswana (République du)
+    es: Botswana (República de)
+    ru: Ботсвана (Республика)
+    zh: 博茨瓦纳（共和国）
+    ar: جمهورية بوتسوانا
+- country_code: '268'
+  country_area_or_service:
+    en: Swaziland (Kingdom of)
+    fr: Swaziland (Royaume du)
+    es: Swazilandia (Reino de)
+    ru: Свазиленд (Королевство)
+    zh: 斯威士兰（王国）
+    ar: مملكة سوازيلاند
+- country_code: '269'
+  country_area_or_service:
+    en: Comoros (Union of the)
+    fr: Comores (Union des)
+    es: Comoras (Unión de las)
+    ru: Коморские Острова (Союз)
+    zh: 科摩罗（联盟）
+    ar: اتحاد جزر القمر
+- country_code: '27'
+  country_area_or_service:
+    en: South Africa (Republic of)
+    fr: Sudafricaine (République)
+    es: Sudafricana (República)
+    ru: Южно-Африканская Республика
+    zh: 南非（共和国）
+    ar: جمهورية جنوب إفريقيا
+- country_code: '280'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '281'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '282'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '283'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '284'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '285'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '286'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '287'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '288'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '289'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '290'
+  country_area_or_service:
+    en: Saint Helena, Ascension and Tristan da Cunha
+    fr: Sainte-Hélène, Ascension et Tristan da Cunha
+    es: Santa Elena, Ascension y Tristan da Cunha
+    ru: Острова Св. Елены, Вознесения и Тристан-да-Кунья
+    zh: 圣赫勒拿、阿森松和特里斯坦-达库尼亚
+    ar: سانت هيلانة وأسانسيون وتريستان دا كونها
+  note:
+    en: Ascension is using country code +247and Saint Helena and Tristan da Cuhna
+      country code +290.
+    fr: L’indicatif de pays d’Ascension est +247 et pour Sainte-Hélène et Tristan
+      da Cunha +290.
+    es: Indicativo de país de Ascension es +247; y Santa Elena y Tristan da Cunha
+      +290.
+    ru: Остров Вознесения использует код страны +247, а острова Св. Елены и Тристан-да-Кунья
+      − код страны +290.
+    zh: 阿森松使用国家代码+247，圣赫勒拿和特里斯坦 – 达库尼亚使用国家代码+290。
+    ar: تستخدم أسانسيون الرمز الدليلي +247 وتستخدم سانت هيلانة وتريستان دا كونها الرمز
+      +290.
+- country_code: '291'
+  country_area_or_service:
+    en: Eritrea
+    fr: Erythrée
+    es: Eritrea
+    ru: Эритрея
+    zh: 厄立特里亚
+    ar: إريتريا
+- country_code: '292'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '293'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '294'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '295'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '296'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '297'
+  country_area_or_service:
+    en: Aruba
+    fr: Aruba
+    es: Aruba
+    ru: Аруба
+    zh: 阿鲁巴岛
+    ar: آروبا
+- country_code: '298'
+  country_area_or_service:
+    en: Faroe Islands
+    fr: Féroé (Iles)
+    es: Feroe (Islas)
+    ru: Фарерские острова
+    zh: 法罗群岛
+    ar: جزر فارويه
+- country_code: '299'
+  country_area_or_service:
+    en: Greenland (Denmark)
+    fr: Groenland (Danemark)
+    es: Groenlandia (Dinamarca)
+    ru: Гренландия (Дания)
+    zh: 格陵兰（丹麦）
+    ar: غرينلاند (الدانمارك)
+- country_code: '30'
+  country_area_or_service:
+    en: Greece
+    fr: Grèce
+    es: Grecia
+    ru: Греция
+    zh: 希腊
+    ar: اليونان
+- country_code: '31'
+  country_area_or_service:
+    en: Netherlands (Kingdom of the)
+    fr: Pays-Bas (Royaume des)
+    es: Países Bajos (Reino de los)
+    ru: Нидерланды (Королевство)
+    zh: 荷兰（王国）
+    ar: مملكة هولندا
+- country_code: '32'
+  country_area_or_service:
+    en: Belgium
+    fr: Belgique
+    es: Bélgica
+    ru: Бельгия
+    zh: 比利时
+    ar: بلجيكا
+- country_code: '33'
+  country_area_or_service:
+    en: France
+    fr: France
+    es: Francia
+    ru: Франция
+    zh: 法国
+    ar: فرنسا
+- country_code: '34'
+  country_area_or_service:
+    en: Spain
+    fr: Espagne
+    es: España
+    ru: Испания
+    zh: 西班牙
+    ar: إسبانيا
+- country_code: '350'
+  country_area_or_service:
+    en: Gibraltar
+    fr: Gibraltar
+    es: Gibraltar
+    ru: Гибралтар
+    zh: 直布罗陀
+    ar: جبل طارق
+- country_code: '351'
+  country_area_or_service:
+    en: Portugal
+    fr: Portugal
+    es: Portugal
+    ru: Португалия
+    zh: 葡萄牙
+    ar: البرتغال
+- country_code: '352'
+  country_area_or_service:
+    en: Luxembourg
+    fr: Luxembourg
+    es: Luxemburgo
+    ru: Люксембург
+    zh: 卢森堡
+    ar: لكسمبرغ
+- country_code: '353'
+  country_area_or_service:
+    en: Ireland
+    fr: Irlande
+    es: Irlanda
+    ru: Ирландия
+    zh: 爱尔兰
+    ar: أيرلندا
+- country_code: '354'
+  country_area_or_service:
+    en: Iceland
+    fr: Islande
+    es: Islandia
+    ru: Исландия
+    zh: 冰岛
+    ar: أيسلندا
+- country_code: '355'
+  country_area_or_service:
+    en: Albania (Republic of)
+    fr: Albanie (République d')
+    es: Albania (República de)
+    ru: Албания (Республика)
+    zh: 阿尔巴尼亚（共和国）
+    ar: جمهورية ألبانيا
+- country_code: '356'
+  country_area_or_service:
+    en: Malta
+    fr: Malte
+    es: Malta
+    ru: Мальта
+    zh: 马耳他
+    ar: مالطة
+- country_code: '357'
+  country_area_or_service:
+    en: Cyprus (Republic of)
+    fr: Chypre (République de)
+    es: Chipre (República de)
+    ru: Кипр (Республика)
+    zh: 塞浦路斯（共和国）
+    ar: جمهورية قبرص
+- country_code: '358'
+  country_area_or_service:
+    en: Finland
+    fr: Finlande
+    es: Finlandia
+    ru: Финляндия
+    zh: 芬兰
+    ar: فنلندا
+- country_code: '359'
+  country_area_or_service:
+    en: Bulgaria (Republic of)
+    fr: Bulgarie (République de)
+    es: Bulgaria (República de)
+    ru: Болгария (Республика)
+    zh: 保加利亚（共和国）
+    ar: جمهورية بلغاريا
+- country_code: '36'
+  country_area_or_service:
+    en: Hungary
+    fr: Hongrie
+    es: Hungría
+    ru: Венгрия
+    zh: 匈牙利
+    ar: هنغاريا
+- country_code: '370'
+  country_area_or_service:
+    en: Lithuania (Republic of)
+    fr: Lituanie (République de)
+    es: Lituania (República de)
+    ru: Литва (Республика)
+    zh: 立陶宛（共和国）
+    ar: جمهورية ليتوانيا
+- country_code: '371'
+  country_area_or_service:
+    en: Latvia (Republic of)
+    fr: Lettonie (République de)
+    es: Letonia (República de)
+    ru: Латвия (Республика)
+    zh: 拉脱维亚（共和国）
+    ar: جمهورية لاتفيا
+- country_code: '372'
+  country_area_or_service:
+    en: Estonia (Republic of)
+    fr: Estonie (République d')
+    es: Estonia (República de)
+    ru: Эстония (Республика)
+    zh: 爱沙尼亚（共和国）
+    ar: جمهورية إستونيا
+- country_code: '373'
+  country_area_or_service:
+    en: Moldova (Republic of)
+    fr: Moldova (République de)
+    es: Moldova (República de)
+    ru: Молдова (Республика)
+    zh: 摩尔多瓦（共和国）
+    ar: جمهورية مولدوفا
+- country_code: '374'
+  country_area_or_service:
+    en: Armenia (Republic of)
+    fr: Arménie (République d')
+    es: Armenia (República de)
+    ru: Армения (Республика)
+    zh: 亚美尼亚（共和国）
+    ar: جمهورية أرمينيا
+- country_code: '375'
+  country_area_or_service:
+    en: Belarus (Republic of)
+    fr: Bélarus (République du)
+    es: Belarús (República de)
+    ru: Беларусь (Республика)
+    zh: 白俄罗斯（共和国）
+    ar: جمهورية بيلاروس
+- country_code: '376'
+  country_area_or_service:
+    en: Andorra (Principality of)
+    fr: Andorre (Principauté d')
+    es: Andorra (Principado de)
+    ru: Андорра (Княжество)
+    zh: 安道尔（公国）
+    ar: إمارة أندورا
+- country_code: '377'
+  country_area_or_service:
+    en: Monaco (Principality of)
+    fr: Monaco (Principauté de)
+    es: Mónaco (Principado de)
+    ru: Монако (Княжество)
+    zh: 摩纳哥（公国）
+    ar: إمارة موناكو
+- country_code: '378'
+  country_area_or_service:
+    en: San Marino (Republic of)
+    fr: Saint-Marin (République de)
+    es: San Marino (República de)
+    ru: Сан-Марино Республика)
+    zh: 圣马力诺（共和国）
+    ar: جمهورية سان مارينو
+- country_code: '379'
+  country_area_or_service:
+    en: Vatican City State
+    fr: Cité du Vatican (Etat de la)
+    es: Ciudad del Vaticano (Estado de la)
+    ru: Государство-город Ватикан
+    zh: 梵蒂冈城国
+    ar: دولة مدينة الفاتيكان
+  note:
+    en: Reserved for future use.
+    fr: Réservé pour une utilisation ultérieure.
+    es: Reservado para utilización futura.
+    ru: Зарезервирован для будущего использования.
+    zh: 预留用于未来使用。
+    ar: محجوز لاستخدامه في المستقبل.
+- country_code: '380'
+  country_area_or_service:
+    en: Ukraine
+    fr: Ukraine
+    es: Ucrania
+    ru: Украина
+    zh: 乌克兰
+    ar: أوكرانيا
+- country_code: '381'
+  country_area_or_service:
+    en: Serbia (Republic of)
+    fr: Serbie (République de)
+    es: Serbia (República de)
+    ru: Сербия (Республика)
+    zh: 塞尔维亚（共和国）
+    ar: جمهورية صربيا
+- country_code: '382'
+  country_area_or_service:
+    en: Montenegro
+    fr: Monténégro
+    es: Montenegro
+    ru: Черногория
+    zh: 黑山
+    ar: الجبل الأسود
+- country_code: '383'
+  country_area_or_service:
+    en: Kosovo*
+    fr: Kosovo*
+    es: Kosovo*
+    ru: Косово*
+    zh: 科索沃*
+    ar: كوسوفو*
+  note:
+    en: This designation is without prejudice to positions on status, and is in line
+      with UNSCR 1244 and the ICJ Opinion on the Kosovo declaration of independence.
+    fr: Cette désignation est sans préjudice des positions sur le statut et est conforme
+      à la Résolution 1244 du Conseil de sécurité des Nations Unies ainsi qu'à l'avis
+      de la CIJ sur la déclaration d'indépendance du Kosovo.
+    es: Esta designación es sin perjuicio de las posiciones sobre la situación, y
+      corresponde a UNSCR 1244 y la opinión ICJ sobre la declaración de independencia
+      de Kosovo.
+    ru: Это обозначение не умаляет положений о состоянии и соответствует резолюции
+      1244 Совета безопасности ООН и мнению Международного Суда по декларации о независимости
+      Косово.
+    zh: 该标识不影响有关地位的立场且符合联合国安理会第1244号决议以及国际法院有关科索沃宣布独立的意见。
+    ar: لا تمس هذه التسمية بأي من المواقف المتعلقة بوضع كوسوفو، وتتوافق مع قرار مجلس
+      الأمن 1244 ومع رأي محكمة العدل الدولية بشأن إعلان استقلال كوسوفو.
+- country_code: '384'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '385'
+  country_area_or_service:
+    en: Croatia (Republic of)
+    fr: Croatie (République de)
+    es: Croacia (República de)
+    ru: Хорватия (Республика)
+    zh: 克罗地亚（共和国）
+    ar: جمهورية كرواتيا
+- country_code: '386'
+  country_area_or_service:
+    en: Slovenia (Republic of)
+    fr: Slovénie (République de)
+    es: Eslovenia (República de)
+    ru: Словения (Республика)
+    zh: 斯洛文尼亚（共和国）
+    ar: جمهورية سلوفينيا
+- country_code: '387'
+  country_area_or_service:
+    en: Bosnia and Herzegovina
+    fr: Bosnie-Herzégovine
+    es: Bosnia y Herzegovina
+    ru: Босния и Герцеговина
+    zh: 波斯尼亚与黑塞哥维那
+    ar: البوسنة والهرسك
+- country_code: '388'
+  country_area_or_service:
+    en: Group of countries, shared code
+    fr: Groupe de pays, indicatif partagé
+    es: Grupo de países, indicativo compartido
+    ru: Группа стран, общий код
+    zh: 一组国家共用代码
+    ar: مجموعة بلدان، رمز مشترك
+- country_code: '389'
+  country_area_or_service:
+    en: The Former Yugoslav Republic of Macedonia
+    fr: L'ex-République yougoslave de Macédoine
+    es: La ex República Yugoslava de Macedonia
+    ru: бывшая югославская Республика Македония
+    zh: 前南斯拉夫马其顿共和国
+    ar: جمهورية مقدونيا اليوغوسلافية السابقة
+- country_code: '39'
+  country_area_or_service:
+    en: Italy
+    fr: Cité du Vatican (Etat de la)
+    es: Ciudad del Vaticano (Estado de la)
+    ru: Италия
+    zh: 意大利
+    ar: إيطاليا
+- country_code: '39'
+  country_area_or_service:
+    en: Vatican City State
+    fr: Italie
+    es: Italia
+    ru: Государство-город Ватикан
+    zh: 梵蒂冈 城国
+    ar: دولة مدينة الفاتيكان
+- country_code: '40'
+  country_area_or_service:
+    en: Romania
+    fr: Roumanie
+    es: Rumania
+    ru: Румыния
+    zh: 罗马尼亚
+    ar: رومانيا
+- country_code: '41'
+  country_area_or_service:
+    en: Switzerland (Confederation of)
+    fr: Suisse (Confédération)
+    es: Suiza (Confederación)
+    ru: Швейцария (Конфедерация)
+    zh: 瑞士（联邦）
+    ar: الاتحاد السويسري
+- country_code: '420'
+  country_area_or_service:
+    en: Czech Republic
+    fr: République tchèque
+    es: República Checa
+    ru: Чешская Республика
+    zh: 捷克共和国
+    ar: الجمهورية التشيكية
+- country_code: '421'
+  country_area_or_service:
+    en: Slovak Republic
+    fr: République slovaque
+    es: República Eslovaca
+    ru: Словацкая Республика
+    zh: 斯洛伐克共和国
+    ar: الجمهورية السلوفاكية
+- country_code: '422'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '423'
+  country_area_or_service:
+    en: Liechtenstein (Principality of)
+    fr: Liechtenstein (Principauté de)
+    es: Liechtenstein (Principado de)
+    ru: Лихтенштейн (Княжество)
+    zh: 列支敦士登（公国）
+    ar: إمارة ليختنشتاين
+- country_code: '424'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '425'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '426'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '427'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '428'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '429'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '43'
+  country_area_or_service:
+    en: Austria
+    fr: Autriche
+    es: Austria
+    ru: Австрия
+    zh: 奥地利
+    ar: النمسا
+- country_code: '44'
+  country_area_or_service:
+    en: United Kingdom of Great Britain and Northern Ireland
+    fr: Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+    es: Reino Unido de Gran Bretaña e Irlanda del Norte
+    ru: Соединенное Королевство Великобритании и Северной Ирландии
+    zh: 大不列颠及北爱尔兰联合王国
+    ar: المملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية
+- country_code: '45'
+  country_area_or_service:
+    en: Denmark
+    fr: Danemark
+    es: Dinamarca
+    ru: Дания
+    zh: 丹麦
+    ar: الدانمارك
+- country_code: '46'
+  country_area_or_service:
+    en: Sweden
+    fr: Suède
+    es: Suecia
+    ru: Швеция
+    zh: 瑞典
+    ar: السويد
+- country_code: '47'
+  country_area_or_service:
+    en: Norway
+    fr: Norvège
+    es: Noruega
+    ru: Норвегия
+    zh: 挪威
+    ar: النرويج
+- country_code: '48'
+  country_area_or_service:
+    en: Poland (Republic of)
+    fr: Pologne (République de)
+    es: Polonia (República de)
+    ru: Польша (Республика)
+    zh: 波兰（共和国）
+    ar: جمهورية بولندا
+- country_code: '49'
+  country_area_or_service:
+    en: Germany (Federal Republic of)
+    fr: Allemagne (République fédérale d')
+    es: Alemania (República Federal de)
+    ru: Германия (Федеративная Республика)
+    zh: 德国（联邦共和国）
+    ar: جمهورية ألمانيا الاتحادية
+- country_code: '500'
+  country_area_or_service:
+    en: Falkland Islands (Malvinas)
+    fr: Falkland (Iles) (Malvinas)
+    es: Malvinas (Islas) (Falkland)
+    ru: Фолклендские (Мальвинские) острова
+    zh: 福克兰群岛（马尔维纳斯群岛）
+    ar: جزر فوكلاند (مالفيناس)
+- country_code: '501'
+  country_area_or_service:
+    en: Belize
+    fr: Belize
+    es: Belice
+    ru: Белиз
+    zh: 伯利兹
+    ar: بليز
+- country_code: '502'
+  country_area_or_service:
+    en: Guatemala (Republic of)
+    fr: Guatemala (République du)
+    es: Guatemala (República de)
+    ru: Гватемала (Республика)
+    zh: 危地马拉（共和国）
+    ar: جمهورية غواتيمالا
+- country_code: '503'
+  country_area_or_service:
+    en: El Salvador (Republic of)
+    fr: El Salvador (République d')
+    es: El Salvador (República de)
+    ru: Эль-Сальвадор (Республика)
+    zh: 萨尔瓦多（共和国）
+    ar: جمهورية السلفادور
+- country_code: '504'
+  country_area_or_service:
+    en: Honduras (Republic of)
+    fr: Honduras (République du)
+    es: Honduras (República de)
+    ru: Гондурас (Республика)
+    zh: 洪都拉斯（共和国）
+    ar: جمهورية هندوراس
+- country_code: '505'
+  country_area_or_service:
+    en: Nicaragua
+    fr: Nicaragua
+    es: Nicaragua
+    ru: Никарагуа
+    zh: 尼加拉瓜
+    ar: نيكاراغوا
+- country_code: '506'
+  country_area_or_service:
+    en: Costa Rica
+    fr: Costa Rica
+    es: Costa Rica
+    ru: Коста-Рика
+    zh: 哥斯达黎加
+    ar: كوستاريكا
+- country_code: '507'
+  country_area_or_service:
+    en: Panama (Republic of)
+    fr: Panama (République du)
+    es: Panamá (República de)
+    ru: Панама (Республика)
+    zh: 巴拿马（共和国）
+    ar: جمهورية بنما
+- country_code: '508'
+  country_area_or_service:
+    en: Saint Pierre and Miquelon (Collectivité territoriale de la République française)
+    fr: Saint-Pierre-et-Miquelon (Collectivité territoriale de la République française)
+    es: San Pedro y Miquelón (Collectivité territoriale de la République française)
+    ru: Сен-Пьер и Микелон (территориальная единица Французской Республики)
+    zh: 圣皮埃尔岛和密克隆岛（法属领土）
+    ar: سان بيير وميكيلون (أراض جماعية للجمهورية الفرنسية)
+- country_code: '509'
+  country_area_or_service:
+    en: Haiti (Republic of)
+    fr: Haïti (République d')
+    es: Haití (República de)
+    ru: Гаити (Республика)
+    zh: 海地（共和国）
+    ar: جمهورية هايتي
+- country_code: '51'
+  country_area_or_service:
+    en: Peru
+    fr: Pérou
+    es: Perú
+    ru: Перу
+    zh: 秘鲁
+    ar: بيرو
+- country_code: '52'
+  country_area_or_service:
+    en: Mexico
+    fr: Mexique
+    es: México
+    ru: Мексика
+    zh: 墨西哥
+    ar: المكسيك
+- country_code: '53'
+  country_area_or_service:
+    en: Cuba
+    fr: Cuba
+    es: Cuba
+    ru: Куба
+    zh: 古巴
+    ar: كوبا
+- country_code: '54'
+  country_area_or_service:
+    en: Argentine Republic
+    fr: Argentine (République)
+    es: Argentina (República)
+    ru: Аргентинская Республика
+    zh: 阿根廷共和国
+    ar: جمهورية الأرجنتين
+- country_code: '55'
+  country_area_or_service:
+    en: Brazil (Federative Republic of)
+    fr: Brésil (République fédérative du)
+    es: Brasil (República Federativa del)
+    ru: Бразилия (Федеративная Республика)
+    zh: 巴西（联邦共和国）
+    ar: جمهورية البرازيل الاتحادية
+- country_code: '56'
+  country_area_or_service:
+    en: Chile
+    fr: Chili
+    es: Chile
+    ru: Чили
+    zh: 智利
+    ar: شيلي
+- country_code: '57'
+  country_area_or_service:
+    en: Colombia (Republic of)
+    fr: Colombie (République de)
+    es: Colombia (República de)
+    ru: Колумбия (Республика)
+    zh: 哥伦比亚（共和国）
+    ar: جمهورية كولومبيا
+- country_code: '58'
+  country_area_or_service:
+    en: Venezuela (Bolivarian Republic of)
+    fr: Venezuela (République bolivarienne du)
+    es: Venezuela (República Bolivariana de)
+    ru: Венесуэла (Боливарианская Республика)
+    zh: 委内瑞拉（玻利瓦尔共和国）
+    ar: جمهورية فنزويلا البوليفارية
+- country_code: '590'
+  country_area_or_service:
+    en: Guadeloupe (French Department of)
+    fr: Guadeloupe (Département français de la)
+    es: Guadalupe (Departamento francés de la)
+    ru: Гваделупа (Департамент Франции)
+    zh: 法属瓜德罗普省
+    ar: مقاطعة غوادلوب الفرنسية
+- country_code: '591'
+  country_area_or_service:
+    en: Bolivia (Plurinational State of)
+    fr: Bolivie (État plurinational de)
+    es: Bolivia (Estado Plurinacional de)
+    ru: Боливия (Многонациональное Государство)
+    zh: 玻利维亚（多民族国）
+    ar: دولة بوليفيا المتعددة القوميات
+- country_code: '592'
+  country_area_or_service:
+    en: Guyana
+    fr: Guyana
+    es: Guyana
+    ru: Гайана
+    zh: 圭亚那
+    ar: غُيانا
+- country_code: '593'
+  country_area_or_service:
+    en: Ecuador
+    fr: Equateur
+    es: Ecuador
+    ru: Эквадор
+    zh: 厄瓜多尔
+    ar: إكوادور
+- country_code: '594'
+  country_area_or_service:
+    en: French Guiana (French Department of)
+    fr: Guyane française (Département français de la)
+    es: Guayana francesa (Departamento francés de la)
+    ru: Французская Гвиана (Департамент Франции)
+    zh: 法属圭亚那
+    ar: مقاطعة غويانا الفرنسية
+- country_code: '595'
+  country_area_or_service:
+    en: Paraguay (Republic of)
+    fr: Paraguay (République du)
+    es: Paraguay (República del)
+    ru: Парагвай (Республика)
+    zh: 巴拉圭（共和国）
+    ar: جمهورية باراغواي
+- country_code: '596'
+  country_area_or_service:
+    en: Martinique (French Department of)
+    fr: Martinique (Département français de la)
+    es: Martinica (Departamento francés de la)
+    ru: Мартиника (Департамент Франции)
+    zh: 法属马提尼克
+    ar: مقاطعة المارتينيك الفرنسية
+- country_code: '597'
+  country_area_or_service:
+    en: Suriname (Republic of)
+    fr: Suriname (République du)
+    es: Suriname (República de)
+    ru: Суринам (Республика)
+    zh: 苏里南（共和国）
+    ar: جمهورية سورينام
+- country_code: '598'
+  country_area_or_service:
+    en: Uruguay (Eastern Republic of)
+    fr: Uruguay (République orientale de l')
+    es: Uruguay (República Oriental del)
+    ru: Уругвай (Восточная Республика)
+    zh: 乌拉圭（东岸共和国）
+    ar: جمهورية أوروغواي الشرقية
+- country_code: '599'
+  country_area_or_service:
+    en: Bonaire, Sint Eustatius and Saba
+    fr: Bonaire, Saint-Eustache et Saba
+    es: Bonaire, San Eustaquio y Saba
+    ru: Бонэйр, Синт-Эстатиус и Саба
+    zh: 博内尔岛、圣尤斯特歇斯岛和萨巴岛
+    ar: جزر بونير وسان يوستايتوس وسابا
+  note:
+    en: Code shared between Curaçao and Bonaire, Sint Eustatius and Saba.
+    fr: Indicatif utilisé en partage par Curaçao et Bonaire, Saint-Eustache et Saba.
+    es: Indicativo compartido por Curaçao y Bonaire, San Eustaquio y Saba
+    ru: Код используется совместно Кюрасао и Бонэйром, Синт-Эстатиусом и Сабой.
+    zh: 库拉索岛与博内尔岛、圣尤斯特歇斯岛和萨巴岛共享的代码。
+    ar: رمز دليلي مشترك بين كوراساو وجزر بونير وسان يوستايتوس وسابا.
+- country_code: '599'
+  country_area_or_service:
+    en: Curaçao
+    fr: Curaçao
+    es: Curaçao
+    ru: Кюрасао
+    zh: 库拉索岛
+    ar: كوراساو
+  note:
+    en: Code shared between Curaçao and Bonaire, Sint Eustatius and Saba.
+    fr: Indicatif utilisé en partage par Curaçao et Bonaire, Saint-Eustache et Saba.
+    es: Indicativo compartido por Curaçao y Bonaire, San Eustaquio y Saba
+    ru: Код используется совместно Кюрасао и Бонэйром, Синт-Эстатиусом и Сабой.
+    zh: 库拉索岛与博内尔岛、圣尤斯特歇斯岛和萨巴岛共享的代码。
+    ar: رمز دليلي مشترك بين كوراساو وجزر بونير وسان يوستايتوس وسابا.
+- country_code: '60'
+  country_area_or_service:
+    en: Malaysia
+    fr: Malaisie
+    es: Malasia
+    ru: Малайзия
+    zh: 马来西亚
+    ar: ماليزيا
+- country_code: '61'
+  country_area_or_service:
+    en: Australia
+    fr: Australie
+    es: Australia
+    ru: Австралия
+    zh: 澳大利亚
+    ar: أستراليا
+  note:
+    en: Including Christmas Island and Cocos-Keeling Islands.
+    fr: Y compris Christmas (Ile) et Cocos-Keeling (Iles).
+    es: Comprendidas Christmas (Isla) y Cocos-Keeling (Islas).
+    ru: Включая остров Рождества и Кокосовые (или Килинг) острова.
+    zh: 包括圣诞岛和科科斯（基林）群岛。
+    ar: بما في ذلك أراضي أنتاركتيكا الأسترالية، وجزيرة نورفولك.
+- country_code: '62'
+  country_area_or_service:
+    en: Indonesia (Republic of)
+    fr: Indonésie (République d')
+    es: Indonesia (República de)
+    ru: Индонезия (Республика)
+    zh: 印度尼西亚（共和国）
+    ar: جمهورية إندونيسيا
+- country_code: '63'
+  country_area_or_service:
+    en: Philippines (Republic of the)
+    fr: Philippines (République des)
+    es: Filipinas (República de)
+    ru: Филиппины (Республика)
+    zh: 菲律宾（共和国）
+    ar: جمهورية الفلبين
+- country_code: '64'
+  country_area_or_service:
+    en: New Zealand
+    fr: Nouvelle-Zélande
+    es: Nueva Zelandia
+    ru: Новая Зеландия
+    zh: 新西兰
+    ar: نيوزيلندا
+- country_code: '65'
+  country_area_or_service:
+    en: Singapore (Republic of)
+    fr: Singapour (République de)
+    es: Singapur (República de)
+    ru: Сингапур (Республика)
+    zh: 新加坡（共和国）
+    ar: جمهورية سنغافورة
+- country_code: '66'
+  country_area_or_service:
+    en: Thailand
+    fr: Thaïlande
+    es: Tailandia
+    ru: Таиланд
+    zh: 泰国
+    ar: تايلاند
+- country_code: '670'
+  country_area_or_service:
+    en: Timor-Leste (Democratic Republic of)
+    fr: Timor-Leste (République démocratique du)
+    es: Timor-Leste (República Democrática de)
+    ru: Тимор-Лешти (Демократическая Республика)
+    zh: 东帝汶（民主共和国）
+    ar: جمهورية تيمور لستي الديمقراطية
+- country_code: '671'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '672'
+  country_area_or_service:
+    en: Australian External Territories
+    fr: Territoires extérieurs de l'Australie
+    es: Territorios exteriores de Australia
+    ru: Внешние территории Австралии
+    zh: 澳大利亚境外领土
+    ar: الأراضي الأسترالية الخارجية
+  note:
+    en: Including Australian Antarctic Territory, and Norfolk Island.
+    fr: Y compris le territoire australien de l'Antarctique, et Norfolk (Ile de).
+    es: Comprendidos el territorio australiano del Antártico, y Norfolk (Isla de).
+    ru: Включая  Австралийскую антарктическую территорию и остров Норфолк.
+    zh: 包括澳大利亚南极领土和诺福克群岛。
+    ar: محجوز لاستخدامه في المستقبل.
+- country_code: '673'
+  country_area_or_service:
+    en: Brunei Darussalam
+    fr: Brunéi Darussalam
+    es: Brunei Darussalam
+    ru: Бруней-Даруссалам
+    zh: 文莱达鲁萨兰国
+    ar: بروني دار السلام
+- country_code: '674'
+  country_area_or_service:
+    en: Nauru (Republic of)
+    fr: Nauru (République de)
+    es: Nauru (República de)
+    ru: Науру (Республика)
+    zh: 瑙鲁（共和国）
+    ar: جمهورية ناورو
+- country_code: '675'
+  country_area_or_service:
+    en: Papua New Guinea
+    fr: Papouasie-Nouvelle-Guinée
+    es: Papua Nueva Guinea
+    ru: Папуа-Новая Гвинея
+    zh: 巴布亚新几内亚
+    ar: بابوا - غينيا الجديدة
+- country_code: '676'
+  country_area_or_service:
+    en: Tonga (Kingdom of)
+    fr: Tonga (Royaume des)
+    es: Tonga (Reino de)
+    ru: Тонга (Королевство)
+    zh: 汤加（王国）
+    ar: مملكة تونغا
+- country_code: '677'
+  country_area_or_service:
+    en: Solomon Islands
+    fr: Salomon (Iles)
+    es: Salomón (Islas)
+    ru: Соломоновы Острова
+    zh: 所罗门群岛
+    ar: جزر سليمان
+- country_code: '678'
+  country_area_or_service:
+    en: Vanuatu (Republic of)
+    fr: Vanuatu (République de)
+    es: Vanuatu (República de)
+    ru: Вануату (Республика)
+    zh: 瓦努阿图 （共和国）
+    ar: جمهورية فانواتو
+- country_code: '679'
+  country_area_or_service:
+    en: Fiji (Republic of)
+    fr: Fidji (République de)
+    es: Fiji (República de)
+    ru: Фиджи (Республика)
+    zh: 斐济（共和国）
+    ar: جمهورية فيجي
+- country_code: '680'
+  country_area_or_service:
+    en: Palau (Republic of)
+    fr: Palaos (République des)
+    es: Palau (República de)
+    ru: Палау (Республика)
+    zh: 帕劳（共和国）
+    ar: جمهورية بالاو
+- country_code: '681'
+  country_area_or_service:
+    en: Wallis and Futuna (Territoire français d'outre-mer)
+    fr: Wallis-et-Futuna (Territoire français d'outre-mer)
+    es: Wallis y Futuna (Territoire français d'outre-mer)
+    ru: Уоллис и Футуна (Французские заморские территории)
+    zh: 瓦利斯和富图纳群岛（法国海外领地）
+    ar: جزر واليس وفوتونا (إقليم فرنسي فيما وراء البحار)
+- country_code: '682'
+  country_area_or_service:
+    en: Cook Islands
+    fr: Cook (Iles)
+    es: Cook (Islas)
+    ru: Острова Кука
+    zh: 库克群岛
+    ar: جزر كوك
+- country_code: '683'
+  country_area_or_service:
+    en: Niue
+    fr: Niue
+    es: Niue
+    ru: Ниуэ
+    zh: 纽埃岛
+    ar: نيوي
+- country_code: '684'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '685'
+  country_area_or_service:
+    en: Samoa (Independent State of)
+    fr: Samoa (Etat indépendant du)
+    es: Samoa (Estado Independiente de)
+    ru: Самоа (Независимое Государство)
+    zh: 萨摩亚（独立国）
+    ar: دولة ساموا المستقلة
+- country_code: '686'
+  country_area_or_service:
+    en: Kiribati (Republic of)
+    fr: Kiribati (République de)
+    es: Kiribati (República de)
+    ru: Кирибати (Республика)
+    zh: 基里巴斯（共和国）
+    ar: جمهورية كيريباتي
+- country_code: '687'
+  country_area_or_service:
+    en: New Caledonia (Territoire français d'outre-mer)
+    fr: Nouvelle-Calédonie (Territoire français d'outre-mer)
+    es: Nueva Caledonia (Territoire français d'outre-mer)
+    ru: Новая Каледония (Французские заморские территории)
+    zh: 新喀里多尼亚（法国海外领地）
+    ar: كاليدونيا الجديدة (إقليم فرنسي فيما وراء البحار)
+- country_code: '688'
+  country_area_or_service:
+    en: Tuvalu
+    fr: Tuvalu
+    es: Tuvalu
+    ru: Тувалу
+    zh: 图瓦卢
+    ar: توفالو
+- country_code: '689'
+  country_area_or_service:
+    en: French Polynesia (Territoire français d'outre-mer)
+    fr: Polynésie française (Territoire français d'outre-mer)
+    es: Polinesia francesa (Territoire français d'outre-mer)
+    ru: Французская Полинезия (Французские заморские территории)
+    zh: 法属波利尼西亚
+    ar: بولينيزيا الفرنسية (إقليم فرنسي فيما وراء البحار)
+- country_code: '690'
+  country_area_or_service:
+    en: Tokelau
+    fr: Tokélau
+    es: Tokelau
+    ru: Токелау
+    zh: 托克劳
+    ar: توكيلاو
+- country_code: '691'
+  country_area_or_service:
+    en: Micronesia (Federated States of)
+    fr: Micronésie (Etats fédérés de)
+    es: Micronesia (Estados federados de)
+    ru: Микронезия (Федеративные Штаты)
+    zh: 密克罗尼西亚 （联邦）
+    ar: ولايات ميكرونيزيا الموحدة
+- country_code: '692'
+  country_area_or_service:
+    en: Marshall Islands (Republic of the)
+    fr: Marshall (République des Iles)
+    es: Marshall (República de las Islas)
+    ru: Маршалловы Острова (Республика)
+    zh: 马绍尔群岛 （共和国）
+    ar: جمهورية جزر مارشال
+- country_code: '693'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '694'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '695'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '696'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '697'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '698'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '699'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '7'
+  country_area_or_service:
+    en: Kazakhstan (Republic of)
+    fr: Kazakhstan (République du)
+    es: Kazajstán (República de)
+    ru: Казахстан (Республика)
+    zh: 哈萨克斯坦（共和国）
+    ar: جمهورية كازاخستان
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '7'
+  country_area_or_service:
+    en: Russian Federation
+    fr: Russie (Fédération de)
+    es: Rusia (Federación de)
+    ru: Российская Федерация
+    zh: 俄罗斯联邦
+    ar: الاتحاد الروسي
+  note:
+    en: Integrated numbering plan.
+    fr: Plan de numérotage intégré.
+    es: Plan de numeración integrado.
+    ru: План сводной нумерации.
+    zh: 综合编号方案。
+    ar: خطة ترقيم متكاملة.
+- country_code: '800'
+  country_area_or_service:
+    en: International Freephone Service
+    fr: Service de Libre-appel international
+    es: Servicio de llamada gratuita internacional
+    ru: Услуга международного бесплатного вызова
+    zh: 国际免费电话业务
+    ar: خدمة الهواتف المجانية الدولية
+- country_code: '801'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Will be allocated, only after all three digit codes from groups of ten are
+      exhausted.
+    fr: Ne seront attribués qu'après épuisement des groupes de dix indicatifs à trois
+      chiffres actuels.
+    es: Sólo se atribuirá una vez que se hayan asignado todos los indicativos de tres
+      cifras de las décadas de indicativos en funcionamiento.
+    ru: Будет распределен только после того, как будут исчерпаны все трехзначные коды
+      из групп десятков.
+    zh: 只有在所有每组十个的三位代码用尽后才会分配。
+    ar: سيوزَّع فقط بعد استنفاد جميع الرموز الدليلية المكونة من ثلاثة أرقام من مجموعات
+      من عشرة.
+- country_code: '802'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Will be allocated, only after all three digit codes from groups of ten are
+      exhausted.
+    fr: Ne seront attribués qu'après épuisement des groupes de dix indicatifs à trois
+      chiffres actuels.
+    es: Sólo se atribuirá una vez que se hayan asignado todos los indicativos de tres
+      cifras de las décadas de indicativos en funcionamiento.
+    ru: Будет распределен только после того, как будут исчерпаны все трехзначные коды
+      из групп десятков.
+    zh: 只有在所有每组十个的三位代码用尽后才会分配。
+    ar: سيوزَّع فقط بعد استنفاد جميع الرموز الدليلية المكونة من ثلاثة أرقام من مجموعات
+      من عشرة.
+- country_code: '803'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Will be allocated, only after all three digit codes from groups of ten are
+      exhausted.
+    fr: Ne seront attribués qu'après épuisement des groupes de dix indicatifs à trois
+      chiffres actuels.
+    es: Sólo se atribuirá una vez que se hayan asignado todos los indicativos de tres
+      cifras de las décadas de indicativos en funcionamiento.
+    ru: Будет распределен только после того, как будут исчерпаны все трехзначные коды
+      из групп десятков.
+    zh: 只有在所有每组十个的三位代码用尽后才会分配。
+    ar: سيوزَّع فقط بعد استنفاد جميع الرموز الدليلية المكونة من ثلاثة أرقام من مجموعات
+      من عشرة.
+- country_code: '804'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Will be allocated, only after all three digit codes from groups of ten are
+      exhausted.
+    fr: Ne seront attribués qu'après épuisement des groupes de dix indicatifs à trois
+      chiffres actuels.
+    es: Sólo se atribuirá una vez que se hayan asignado todos los indicativos de tres
+      cifras de las décadas de indicativos en funcionamiento.
+    ru: Будет распределен только после того, как будут исчерпаны все трехзначные коды
+      из групп десятков.
+    zh: 只有在所有每组十个的三位代码用尽后才会分配。
+    ar: سيوزَّع فقط بعد استنفاد جميع الرموز الدليلية المكونة من ثلاثة أرقام من مجموعات
+      من عشرة.
+- country_code: '805'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Will be allocated, only after all three digit codes from groups of ten are
+      exhausted.
+    fr: Ne seront attribués qu'après épuisement des groupes de dix indicatifs à trois
+      chiffres actuels.
+    es: Sólo se atribuirá una vez que se hayan asignado todos los indicativos de tres
+      cifras de las décadas de indicativos en funcionamiento.
+    ru: Будет распределен только после того, как будут исчерпаны все трехзначные коды
+      из групп десятков.
+    zh: 只有在所有每组十个的三位代码用尽后才会分配。
+    ar: سيوزَّع فقط بعد استنفاد جميع الرموز الدليلية المكونة من ثلاثة أرقام من مجموعات
+      من عشرة.
+- country_code: '806'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Will be allocated, only after all three digit codes from groups of ten are
+      exhausted.
+    fr: Ne seront attribués qu'après épuisement des groupes de dix indicatifs à trois
+      chiffres actuels.
+    es: Sólo se atribuirá una vez que se hayan asignado todos los indicativos de tres
+      cifras de las décadas de indicativos en funcionamiento.
+    ru: Будет распределен только после того, как будут исчерпаны все трехзначные коды
+      из групп десятков.
+    zh: 只有在所有每组十个的三位代码用尽后才会分配。
+    ar: سيوزَّع فقط بعد استنفاد جميع الرموز الدليلية المكونة من ثلاثة أرقام من مجموعات
+      من عشرة.
+- country_code: '807'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Will be allocated, only after all three digit codes from groups of ten are
+      exhausted.
+    fr: Ne seront attribués qu'après épuisement des groupes de dix indicatifs à trois
+      chiffres actuels.
+    es: Sólo se atribuirá una vez que se hayan asignado todos los indicativos de tres
+      cifras de las décadas de indicativos en funcionamiento.
+    ru: Будет распределен только после того, как будут исчерпаны все трехзначные коды
+      из групп десятков.
+    zh: 只有在所有每组十个的三位代码用尽后才会分配。
+    ar: سيوزَّع فقط بعد استنفاد جميع الرموز الدليلية المكونة من ثلاثة أرقام من مجموعات
+      من عشرة.
+- country_code: '808'
+  country_area_or_service:
+    en: International Shared Cost Service (ISCS)
+    fr: Service de coût partagé international (ISCS)
+    es: Servicio internacional de pago compartido (ISCS)
+    ru: Международная услуга с долевой оплатой (ISCS)
+    zh: 国际费用分担服务（ISCS）
+    ar: خدمة تقاسم التكاليف الدولية (ISCS)
+- country_code: '809'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Will be allocated, only after all three digit codes from groups of ten are
+      exhausted.
+    fr: Ne seront attribués qu'après épuisement des groupes de dix indicatifs à trois
+      chiffres actuels.
+    es: Sólo se atribuirá una vez que se hayan asignado todos los indicativos de tres
+      cifras de las décadas de indicativos en funcionamiento.
+    ru: Будет распределен только после того, как будут исчерпаны все трехзначные коды
+      из групп десятков.
+    zh: 只有在所有每组十个的三位代码用尽后才会分配。
+    ar: سيوزَّع فقط بعد استنفاد جميع الرموز الدليلية المكونة من ثلاثة أرقام من مجموعات
+      من عشرة.
+- country_code: '81'
+  country_area_or_service:
+    en: Japan
+    fr: Japon
+    es: Japón
+    ru: Япония
+    zh: 日本
+    ar: اليابان
+- country_code: '82'
+  country_area_or_service:
+    en: Korea (Republic of)
+    fr: Corée (République de)
+    es: Corea (República de)
+    ru: Корея (Республика)
+    zh: 大韩民国
+    ar: جمهورية كوريا
+- country_code: '830'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '831'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '832'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '833'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '834'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '835'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '836'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '837'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '838'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '839'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '84'
+  country_area_or_service:
+    en: Viet Nam (Socialist Republic of)
+    fr: Viet Nam (République socialiste du)
+    es: Viet Nam (República Socialista de)
+    ru: Вьетнам (Социалистическая Республика)
+    zh: 越南（社会主义共和国）
+    ar: جمهورية فيتنام الاشتراكية
+- country_code: '850'
+  country_area_or_service:
+    en: Democratic People's Republic of Korea
+    fr: République populaire démocratique de Corée
+    es: República Popular Democrática de Corea
+    ru: Корейская Народно-Демократическая Республика
+    zh: 朝鲜民主主义人民共和国
+    ar: جمهورية كوريا الشعبية الديمقراطية
+- country_code: '851'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '852'
+  country_area_or_service:
+    en: Hong Kong, China
+    fr: Hong Kong, Chine
+    es: Hong Kong, China
+    ru: Гонконг, Китай
+    zh: 中国香港
+    ar: هونغ كونغ، الصين
+- country_code: '853'
+  country_area_or_service:
+    en: Macao, China
+    fr: Macao, Chine
+    es: Macao, China
+    ru: Макао, Китай
+    zh: 中国澳门
+    ar: ماكاو، الصين
+- country_code: '854'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '855'
+  country_area_or_service:
+    en: Cambodia (Kingdom of)
+    fr: Cambodge (Royaume du)
+    es: Camboya (Reino de)
+    ru: Камбоджа (Королевство)
+    zh: 柬埔寨（王国）
+    ar: مملكة كمبوديا
+- country_code: '856'
+  country_area_or_service:
+    en: Lao People's Democratic Republic
+    fr: Lao (République démocratique populaire)
+    es: Lao (República Democrática Popular)
+    ru: Лаосская Народно-Демократическая Республика
+    zh: 老挝（人民民主共和国）
+    ar: جمهورية لاو الديمقراطية الشعبية
+- country_code: '857'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '858'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '859'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '86'
+  country_area_or_service:
+    en: China (People's Republic of)
+    fr: Chine (République populaire de)
+    es: China (República Popular de)
+    ru: Китайская Народная Республика
+    zh: 中华人民共和国
+    ar: جمهورية الصين الشعبية
+- country_code: '870'
+  country_area_or_service:
+    en: Inmarsat SNAC
+    fr: Inmarsat SNAC
+    es: Inmarsat SNAC
+    ru: Inmarsat SNAC
+    zh: Inmarsat SNAC
+    ar: Inmarsat SNAC
+- country_code: '871'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '872'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '873'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '874'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '875'
+  country_area_or_service:
+    en: Reserved - Maritime Mobile Service Applications
+    fr: Réservé pour des applications du service mobile maritime
+    es: Reservado para aplicaciones del servicio móvil maritimo
+    ru: Зарезервирован − Применения морской подвижной службы
+    zh: 预留 – 水上移动业务应用
+    ar: محجوز لتطبيقات الخدمة المتنقلة البحرية
+- country_code: '876'
+  country_area_or_service:
+    en: Reserved - Maritime Mobile Service Applications
+    fr: Réservé pour des applications du service mobile maritime
+    es: Reservado para aplicaciones del servicio móvil maritimo
+    ru: Зарезервирован − Применения морской подвижной службы
+    zh: 预留 – 水上移动业务应用
+    ar: محجوز لتطبيقات الخدمة المتنقلة البحرية
+- country_code: '877'
+  country_area_or_service:
+    en: Reserved - Maritime Mobile Service Applications
+    fr: Réservé pour des applications du service mobile maritime
+    es: Reservado para aplicaciones del servicio móvil maritimo
+    ru: Зарезервирован − Применения морской подвижной службы
+    zh: 预留 – 水上移动业务应用
+    ar: محجوز لتطبيقات الخدمة المتنقلة البحرية
+- country_code: '878'
+  country_area_or_service:
+    en: Universal Personal Telecommunication Service (UPT)
+    fr: Service de télécommunications universelles personelles (UPT)
+    es: Servicio de telecomunicación personal universal (UPT)
+    ru: Универсальная служба персональной электросвязи (UPT)
+    zh: 通用个人电信业务（UPT）
+    ar: خدمة الاتصالات الشخصية العالمية (UPT)
+  note:
+    en: Associated with shared country code 878 for Universal personal telecommunications
+      (UPT), the identification code 10 has been assigned to the network of VISIONng,
+      +878 10.
+    fr: Associé à l’indicatif de pays 878, en partage pour le service de télécommunications
+      universelles personelles (UPT), le code d’identification «10» a été attribué
+      au réseau VISIONng, +878 10
+    es: Asociado con el indicativo de país 878 compartido para el servicio de telecomunicación
+      personal universal (UPT), el código de identificación «10» se ha asignado por
+      la red de VISIONng, +878 10 .
+- country_code: '879'
+  country_area_or_service:
+    en: Reserved for national non-commercial purposes
+    fr: Réservé à des besoins nationaux non commerciaux
+    es: Reservado para fines nacionales no comerciales
+    ru: Зарезервирован для национальных некоммерческих целей
+    zh: 预留 用于国内非商业用途
+    ar: محجوز لأغراض وطنية غير تجارية
+- country_code: '880'
+  country_area_or_service:
+    en: Bangladesh (People's Republic of)
+    fr: Bangladesh (République populaire du)
+    es: Bangladesh (República Popular de)
+    ru: Бангладеш (Народная Республика)
+    zh: 孟加拉（人民共和国）
+    ar: جمهورية بنغلاديش الشعبية
+- country_code: '881'
+  country_area_or_service:
+    en: Global Mobile Satellite System (GMSS), shared code
+    fr: Service mobile mondial par satellite (GMSS), indicatif partagé
+    es: Sistema móvil mundial por satelite (GMSS), indicativo compartido
+    ru: Глобальная система подвижной спутниковой связи (ГСПСС), общий код
+    zh: 全球移动卫星系统（GMSS），共享代码
+    ar: نظام الخدمة الساتلية المتنقلة العالمية (GMSS)، رمز مشترك
+  note:
+    en: Associated with shared country code 881, the following one-digit identification
+      code reservations or assignments have been made for the GMSS networks
+    fr: 'Associés à l''indicatif de pays 881 attribué en partage, les codes d''identification
+      à un chiffre ci-après, ont été réservés/attribués aux réseaux GMSS:'
+    es: 'Asociados con el indicativo de país 881 compartido, se han reservado/asignado
+      los siguientes códigos de identificación de una cifra para las redes GMSS:'
+    ru: 'Были выполнены следующие резервирования или присвоения однозначного кода
+      идентификации, связанного с общим кодом страны 881, для сетей ГСПСС:'
+    zh: 有关共享国家代码881，已为GMSS网络预留或分配了以下一位识别代码：
+    ar: 'القُطري المشترك 881، لشبكات نظام الخدمة الساتلية المتنقلة العالمية (GMSS):'
+- country_code: '882'
+  country_area_or_service:
+    en: International Networks, shared code
+    fr: Réseaux internationaux, indicatif partagé
+    es: Redes internacionales, indicativo compartido
+    ru: Международные сети, общий код
+    zh: 国际网络，共享代码
+    ar: الشبكات الدولية، رمز مشترك
+  note:
+    en: Associated with shared country code 882, the following two-digit identification
+      code reservations or assignments have been made for the international networks
+      of
+    fr: 'Associés à l''indicatif de pays 882 attribué en partage, les codes d''identification
+      à deux chiffres ci-après ont été réservés pour les / ou attribués aux réseaux
+      internationaux suivants:'
+    es: 'Asociados con el indicativo de país 882 compartido, se han reservado / o
+      asignado los siguientes códigos de identificación de dos cifras para las redes
+      internacionales siguientes:'
+    ru: 'Были выполнены следующие резервирования или присвоения двузначного кода идентификации,
+      связанного с общим кодом страны 882, для международных сетей:'
+    zh: 有关共享国家代码882，已为下述国际网络预留或分配了以下两位识别代码：
+    ar: 'تمت حالات الحجز أو التخصيص التالية المتعلقة برمز تعرف الهوية المكون من رقمين،
+      والمرتبط بالرمز الدليلي القُطري المشترك 882، للشبكات الدولية:'
+- country_code: '883'
+  country_area_or_service:
+    en: International Networks, shared code
+    fr: Réseaux internationaux, indicatif partagé
+    es: Redes internacionales, indicativo compartido
+    ru: Международные сети, общий код
+    zh: 国际网络，共享代码
+    ar: الشبكات الدولية، رمز مشترك
+  note:
+    en: Associated with shared country code 883, the following three-digit and four-digit
+      identification code reservations or assignments have been made for the international
+      networks of
+    fr: 'Associés à l''indicatif de pays 883 attribué en partage, les codes d''identification
+      à trois chiffres ci-après ont été réservés pour les / ou attribués aux réseaux
+      internationaux suivants:'
+    es: 'Asociados con el indicativo de país 883 compartido, se han reservado / o
+      asignado los siguientes códigos de identificación de tres cifras para las redes
+      internacionales siguientes:'
+    ru: 'Были выполнены следующие резервирования или присвоения трехзначного кода
+      идентификации, связанного с общим кодом страны 883, для международных сетей:'
+    zh: 有关共享国家代码883，已为下述国际网络预留或分配了以下三位识别代码：
+    ar: 'تمت حالات الحجز أو التخصيص التالية المتعلقة برمز تعرف الهوية المكون من ثلاثة
+      أرقام والمرتبط بالرمز الدليلي القُطري المشترك 883، للشبكات الدولية:'
+- country_code: '884'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '885'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '886'
+  country_area_or_service:
+    en: Taiwan, China
+    fr: Taiwan, Chine
+    es: Taiwán, China
+    ru: Тайвань, Китай
+    zh: 中国台湾
+    ar: تايوان، الصين
+- country_code: '887'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '888'
+  country_area_or_service:
+    en: Telecommunications for Disaster Relief (TDR)
+    fr: Opérations de secours en cas de catastrophe (TDR)
+    es: Telecomunicaciones para las Operaciones de Socorro en caso de catástrofe (TDR)
+    ru: Электросвязь для оказания помощи при бедствиях (TDR)
+    zh: 救灾通信（TDR）
+    ar: الاتصالات من أجل الإغاثة في حالات الكوارث (TDR)
+  note:
+    en: "United Nations Office of the Coordinator for Humanitarian Affairs (OCHA),
+      for the purpose of facilitating disaster\n\trelief activities."
+    fr: Bureau de la coordination des affaires humanitaires des Nations Unies (OCHA)
+      afin de faciliter les opérations de secours en cas de catastrophe.
+    es: La Oficina para la Coordinación de Asuntos Humanitarios (OCHA) a fin de facilitar
+      las operaciones de socorro.
+    ru: Управление Организации Объединенных Наций по координации гуманитарных вопросов
+      (УКГВ), в целях содействия деятельности по оказанию помощи при бедствиях.
+    zh: 联合国人道事务协调厅（OCHA），用于协助救灾活动。
+    ar: مكتب الأمم المتحدة لتنسيق الشؤون الإنسانية (OCHA)، لغرض تيسير أنشطة الإغاثة
+      في حالات الكوارث.
+- country_code: '889'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '890'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '891'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '892'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '893'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '894'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '895'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '896'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '897'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '898'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '899'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+  note:
+    en: Reserved for E.164 country code expansion.
+    fr: Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T
+      E.164.
+    es: Reservado para la expansión de indicativos de país de la Recomendación UIT-T
+      E.164.
+    ru: Зарезервирован для расширения кода страны E.164.
+    zh: 预留用于扩展E.164国家代码。
+    ar: محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+- country_code: '90'
+  country_area_or_service:
+    en: Turkey
+    fr: Turquie
+    es: Turquía
+    ru: Турция
+    zh: 土耳其
+    ar: تركيا
+- country_code: '91'
+  country_area_or_service:
+    en: India (Republic of)
+    fr: Inde (République de l')
+    es: India (República de la)
+    ru: Индия (Республика)
+    zh: 印度（共和国）
+    ar: جمهورية الهند
+- country_code: '92'
+  country_area_or_service:
+    en: Pakistan (Islamic Republic of)
+    fr: Pakistan (République islamique du)
+    es: Pakistán (República Islámica del)
+    ru: Пакистан (Исламская Республика)
+    zh: 巴基斯坦（伊斯兰共和国）
+    ar: جمهورية باكستان الإسلامية
+- country_code: '93'
+  country_area_or_service:
+    en: Afghanistan
+    fr: Afghanistan
+    es: Afganistán
+    ru: Афганистан
+    zh: 阿富汗
+    ar: أفغانستان
+- country_code: '94'
+  country_area_or_service:
+    en: Sri Lanka (Democratic Socialist Republic of)
+    fr: Sri Lanka (République socialiste démocratique de)
+    es: Sri Lanka (República Socialista Democrática de)
+    ru: Шри-Ланка (Демократическая Социалистическая  Республика)
+    zh: 斯里兰卡（民主社会主义共和国）
+    ar: جمهورية سري لانكا الاشتراكية الديمقراطية
+- country_code: '95'
+  country_area_or_service:
+    en: Myanmar (the Republic of the Union of)
+    fr: Myanmar (République de l'Union du)
+    es: Myanmar (República de la Unión de)
+    ru: Республика Союза Мьянма
+    zh: 缅甸（联邦共和国）
+    ar: جمهورية اتحاد ميانمار
+- country_code: '960'
+  country_area_or_service:
+    en: Maldives (Republic of)
+    fr: Maldives (République des)
+    es: Maldivas (República de)
+    ru: Мальдивская Республика
+    zh: 马尔代夫（共和国）
+    ar: جمهورية ملديف
+- country_code: '961'
+  country_area_or_service:
+    en: Lebanon
+    fr: Liban
+    es: Líbano
+    ru: Ливан
+    zh: 黎巴嫩
+    ar: لبنان
+- country_code: '962'
+  country_area_or_service:
+    en: Jordan (Hashemite Kingdom of)
+    fr: Jordanie (Royaume hachémite de)
+    es: Jordania (Reino Hachemita de)
+    ru: Иордания (Хашимитское Королевство)
+    zh: 约旦（哈希姆王国）
+    ar: المملكة الأردنية الهاشمية
+- country_code: '963'
+  country_area_or_service:
+    en: Syrian Arab Republic
+    fr: République arabe syrienne
+    es: República Árabe Siria
+    ru: Сирийская Арабская Республика
+    zh: 阿拉伯叙利亚共和国
+    ar: الجمهورية العربية السورية
+- country_code: '964'
+  country_area_or_service:
+    en: Iraq (Republic of)
+    fr: Iraq (République d')
+    es: Iraq (República del)
+    ru: Ирак (Республика)
+    zh: 伊拉克（共和国）
+    ar: الجمهورية العراقية
+- country_code: '965'
+  country_area_or_service:
+    en: Kuwait (State of)
+    fr: Koweït (Etat du)
+    es: Kuwait (Estado de)
+    ru: Кувейт (Государство)
+    zh: 科威特（国）
+    ar: دولة الكويت
+- country_code: '966'
+  country_area_or_service:
+    en: Saudi Arabia (Kingdom of)
+    fr: Arabie saoudite (Royaume d')
+    es: Arabia Saudita (Reino de)
+    ru: Саудовская Аравия (Королевство)
+    zh: 沙特阿拉伯（王国）
+    ar: المملكة العربية السعودية
+- country_code: '967'
+  country_area_or_service:
+    en: Yemen (Republic of)
+    fr: Yémen (République du)
+    es: Yemen (República del)
+    ru: Йемен (Республика)
+    zh: 也门（共和国）
+    ar: الجمهورية اليمنية
+- country_code: '968'
+  country_area_or_service:
+    en: Oman (Sultanate of)
+    fr: Oman (Sultanat d')
+    es: Omán (Sultanía de)
+    ru: Оман (Султанат)
+    zh: 阿曼（苏丹国）
+    ar: سلطنة عُمان
+- country_code: '969'
+  country_area_or_service:
+    en: Reserved - reservation currently under investigation
+    fr: Réservé - réservation en cours d'examen
+    es: Reservado - actualmente objeto de investigación
+    ru: Зарезервирован − Резервирование в настоящее время исследуется
+    zh: 预留 – 目前正在调研的预留
+    ar: محجوز- يجري حالياً النظر في حالة الحجز هذه
+- country_code: '970'
+  country_area_or_service:
+    en: Reserved
+    fr: Réservé
+    es: Reservado
+    ru: Зарезервирован
+    zh: 预留
+    ar: محجوز
+  note:
+    en: Reserved for the Palestinian Authority.
+    fr: Réservé pour l’Autorité palestinienne.
+    es: Reservado para la Autoridad Palestina.
+    ru: Зарезервирован для Палестинского органа.
+    zh: 预留用于巴勒斯坦当局。
+    ar: محجوز للسلطة الفلسطينية.
+- country_code: '971'
+  country_area_or_service:
+    en: United Arab Emirates
+    fr: Emirats arabes unis
+    es: Emiratos Árabes Unidos
+    ru: Объединенные Арабские Эмираты
+    zh: 阿拉伯联合酋长国
+    ar: الإمارات العربية المتحدة
+  note:
+    en: 'U.A.E.: Abu Dhabi, Ajman, Dubai, Fujeirah, Ras Al Khaimah, Sharjah, Umm Al
+      Qaiwain.'
+    fr: 'E.A.U: Abu Dhabi, Ajman, Dubai, Fujeirah, Ras Al Khaimah, Sharjah, Umm Al
+      Qaiwain.'
+    es: 'E.A.U.: Abu Dhabi, Ajman, Dubai, Fujeirah, Ras Al Khaimah, Sharjah, Umm Al
+      Qaiwain.'
+    ru: 'ОАЭ: Абу-Даби, Аджман, Дубай, Фуджейра, Рас-эль-Хайма, Шарджа и Умм-эль-Кайвайн.'
+    zh: 阿联酋：阿布扎比、阿治曼、迪拜、富查伊拉、哈伊马角、沙迦、乌姆盖万。
+    ar: محجوز للسلطة الفلسطينية.
+- country_code: '972'
+  country_area_or_service:
+    en: Israel (State of)
+    fr: Israël (Etat d')
+    es: Israel (Estado de)
+    ru: Израиль (Государство)
+    zh: 以色列（国）
+    ar: دولة إسرائيل
+- country_code: '973'
+  country_area_or_service:
+    en: Bahrain (Kingdom of)
+    fr: Bahreïn (Royaume de)
+    es: Bahrein (Reino de)
+    ru: Бахрейн (Королевство)
+    zh: 巴林（王国）
+    ar: مملكة البحرين
+- country_code: '974'
+  country_area_or_service:
+    en: Qatar (State of)
+    fr: Qatar (Etat du)
+    es: Qatar (Estado de)
+    ru: Катар (Государство)
+    zh: 卡塔尔（国）
+    ar: دولة قطر
+- country_code: '975'
+  country_area_or_service:
+    en: Bhutan (Kingdom of)
+    fr: Bhoutan (Royaume du)
+    es: Bhután (Reino de)
+    ru: Бутан (Королевство)
+    zh: 不丹（王国）
+    ar: مملكة بوتان
+- country_code: '976'
+  country_area_or_service:
+    en: Mongolia
+    fr: Mongolie
+    es: Mongolia
+    ru: Монголия
+    zh: 蒙古
+    ar: منغوليا
+- country_code: '977'
+  country_area_or_service:
+    en: Nepal (Federal Democratic Republic of)
+    fr: Népal (République fédérale démocratique du)
+    es: Nepal (República Democrática Federal de)
+    ru: Непал (Федеративная Демократическая Республика)
+    zh: 尼泊尔
+    ar: جمهورية نيبال الاتحادية الديمقراطية
+- country_code: '978'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '979'
+  country_area_or_service:
+    en: International Premium Rate Service (IPRS)
+    fr: Service kiosque international (IPRS)
+    es: Servicio internacional con recargo (IPRS)
+    ru: Международная услуга "вызов с оплатой по повышенному тарифу" (IPRS)
+    zh: 目国际附加费率业务（IPRS）
+    ar: خدمة الأسعار المميزة الدولية (IPRS)
+- country_code: '98'
+  country_area_or_service:
+    en: Iran (Islamic Republic of)
+    fr: Iran (République islamique d')
+    es: Irán (República Islámica del)
+    ru: Иран (Исламская Республика)
+    zh: 伊朗（伊斯兰共和国）
+    ar: جمهورية إيران الإسلامية
+- country_code: '990'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '991'
+  country_area_or_service:
+    en: Trial of a proposed new international telecommunication public correspondence
+      service, shared code
+    fr: Essai d'un nouveau service proposé de correspondance publique de télécommunications
+      internationales, indicatif partagé
+    es: Ensayo de un nuevo servicio internacional propuesto de correspondencia pública
+      de telecomunicaciones, indicativo compartido
+    ru: Испытание предлагаемой новой услуги международной электросвязи для общественной
+      корреспонденции, общий код
+    zh: 拟议新国际电信公众通信业务试验，共享代码
+    ar: تجربة خدمة مقترحة جديدة للمراسلات العمومية للاتصالات الدولية، رمز مشترك
+- country_code: '992'
+  country_area_or_service:
+    en: Tajikistan (Republic of)
+    fr: Tadjikistan (République du)
+    es: Tayikistán (República de)
+    ru: Таджикистан (Республика)
+    zh: 塔吉克斯坦（共和国）
+    ar: جمهورية طاجيكستان
+- country_code: '993'
+  country_area_or_service:
+    en: Turkmenistan
+    fr: Turkménistan
+    es: Turkmenistán
+    ru: Туркменистан
+    zh: 土库曼斯坦
+    ar: تركمانستان
+- country_code: '994'
+  country_area_or_service:
+    en: Azerbaijan (Republic of)
+    fr: Azerbaïdjan (République d')
+    es: Azerbaiyán (República de)
+    ru: Азербайджан (Республика)
+    zh: 阿塞拜疆（共和国）
+    ar: جمهورية أذربيجان
+- country_code: '995'
+  country_area_or_service:
+    en: Georgia
+    fr: Géorgie
+    es: Georgia
+    ru: Грузия
+    zh: 格鲁吉亚
+    ar: جورجيا
+- country_code: '996'
+  country_area_or_service:
+    en: Kyrgyz Republic
+    fr: République kirghize
+    es: República Kirguisa
+    ru: Кыргызская Республика
+    zh: 吉尔吉斯共和国
+    ar: جمهورية قيرغيزستان
+- country_code: '997'
+  country_area_or_service:
+    en: Spare code
+    fr: Indicatif de réserve
+    es: Indicativo de reserva
+    ru: Резервный код
+    zh: 备用代码
+    ar: رمز احتياطي
+- country_code: '998'
+  country_area_or_service:
+    en: Uzbekistan (Republic of)
+    fr: Ouzbékistan (République d')
+    es: Uzbekistán (República de)
+    ru: Узбекистан (Республика)
+    zh: 乌兹别克斯坦（共和国）
+    ar: جمهورية أوزبكستان
+- country_code: '999'
+  country_area_or_service:
+    en: Reserved for future global service
+    fr: Réservé au service mondial ultérieur
+    es: Reservado para el futuro servicio mundial
+    ru: Зарезервирован для будущей глобальной услуги
+    zh: 预留用于未来全球性业务
+    ar: محجوز للخدمة العالمية المستقبلية

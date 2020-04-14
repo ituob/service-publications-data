@@ -1,0 +1,158 @@
+---
+metadata:
+  locale:
+    applicant:
+      en: Applicant
+      fr: Requérant
+      es: Solicitante
+      ru: Заявитель
+      zh: 申请人
+      ar: مقدم الطلب
+    network:
+      en: Network
+      fr: Réseau
+      es: Red
+      ru: Сеть
+      zh: 网络
+      ar: الشبكة
+    cc_ic:
+      en: Country Code and Identification Code
+      fr: Indicatif de pays et Code d'identification
+      es: Indicativo de país y Código de Identificación
+      ru: Код страны и код идентификации
+      zh: 国家代码和识别码
+      ar: |-
+        الرمز الدليلي للبلد
+        ورمز تعرف الهوية
+    status:
+      en: Status
+      fr: Situation
+      es: Situación
+      ru: Состояние
+      zh: 状态
+      ar: الوضع
+data:
+  British Telecommunications plc:
+    applicant: British Telecommunications plc
+    network: Global Office Application
+    cc_ic: "+882 10"
+    status: Assigned
+  MCI (Verizon):
+    applicant: MCI (Verizon)
+    network: HyperStream International (HSI) Data Network
+    cc_ic: "+882 12"
+    status: Assigned
+  Telespazio S.p.A.:
+    applicant: Telespazio S.p.A.
+    network: EMS Regional Mobile Satellite System
+    cc_ic: "+882 13"
+    status: Assigned
+  Telstra:
+    applicant: Telstra
+    network: Global international ATM Network
+    cc_ic: "+882 15"
+    status: Assigned
+    formerly: REACH
+  Thuraya:
+    applicant: Thuraya
+    network: Thuraya RMSS Network
+    cc_ic: "+882 16"
+    status: Assigned
+  Cable & Wireless plc:
+    applicant: Cable & Wireless plc
+    network: Cable & Wireless Global Network
+    cc_ic: "+882 22"
+    status: Assigned
+  Sita-Equant Joint Venture:
+    applicant: Sita-Equant Joint Venture
+    network: Sita-Equant Network
+    cc_ic: "+882 23"
+    status: Assigned
+  Deutsche Telekom AG:
+    applicant: Deutsche Telekom AG
+    network: Deutsche Telekom's Next Generation Network
+    cc_ic: "+882 28"
+    status: Assigned
+  Telekom Malaysia:
+    applicant: Telekom Malaysia
+    network: Global International ATM Network
+    cc_ic: "+882 31"
+    status: Assigned
+  Telenor for Maritime Communications Partner (MCP) A.S.:
+    applicant: Telenor for Maritime Communications Partner (MCP) A.S.
+    network: MCP network
+    cc_ic: "+882 32"
+    status: Assigned
+  Oration Technologies Inc.:
+    applicant: Oration Technologies Inc.
+    network: Oration Technologies Network
+    cc_ic: "+882 33"
+    status: Assigned
+  BebbiCell AG:
+    applicant: BebbiCell AG
+    network: BebbiCell AG
+    cc_ic: "+882 34"
+    status: Assigned
+    formerly: Global Networks Switzerland AG
+  Jasper Technologies Inc.:
+    applicant: Jasper Technologies Inc.
+    network: Jasper Systems
+    cc_ic: "+882 35"
+    status: Assigned
+    formerly: Jasper Wireless, Inc
+  Jersey Telecom:
+    applicant: Jersey Telecom
+    network: Jersey Telecom
+    cc_ic: "+882 36"
+    status: Assigned
+  AT&T:
+    applicant: AT&T
+    network: Cingular Wireless network
+    cc_ic: "+882 37"
+    status: Assigned
+  Vodafone Malta (Vodafone Group):
+    applicant: Vodafone Malta (Vodafone Group)
+    network: Vodafone Malta
+    cc_ic: "+882 39"
+    status: Assigned
+  Intermatica:
+    applicant: Intermatica
+    network: Intermatica
+    cc_ic: "+882 41"
+    status: Assigned
+  Telecom Italia:
+    applicant: Telecom Italia
+    network: Telecom Italia
+    cc_ic: "+882 45"
+    status: Assigned
+  Tyntec Limited:
+    applicant: Tyntec Limited
+    network: Tyntec Limited
+    cc_ic: "+882 46"
+    status: Assigned
+  TRANSATEL:
+    applicant: TRANSATEL
+    network: Transatel
+    cc_ic: "+882 47"
+    status: Assigned
+  Sawatch Limited:
+    applicant: Sawatch Limited
+    network: EchoStar Mobile Limited
+    cc_ic: "+882 48"
+    status: Assigned
+  Smart Communications, Inc:
+    applicant: Smart Communications, Inc
+    network: Smart Communications Inc
+    cc_ic: "+882 97"
+    status: Assigned
+  OnAir N.V.:
+    applicant: OnAir N.V.
+    network: Onair GSM services
+    cc_ic: "+882 98"
+    status: Assigned
+    formerly: SITA on behalf of Onair
+  AeroMobile AS:
+    applicant: AeroMobile AS
+    network: AeroMobile AS
+    cc_ic: "+882 99"
+    status: Assigned

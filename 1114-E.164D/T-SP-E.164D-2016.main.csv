@@ -1,0 +1,387 @@
+﻿METADATA,,,,,,,,,,,,
+title.en,List of Rec. ITU-T E.164 assigned country codes ,,,,,,,,,,,
+title.fr,LISTE DES INDICATIFS DE PAYS DE LA RECOMMANDATION UIT-T E.164 ATTRIBUÉS,,,,,,,,,,,
+title.es,LISTA DE INDICATIVOS DE PAÍS DE LA RECOMENDACIÓN UIT-T E.164 ASIGNADOS,,,,,,,,,,,
+title.ru,СПИСОК ПРИСВОЕННЫХ КОДОВ СТРАНЫ СОГЛАСНО РЕКОМЕНДАЦИИ МСЭ-Т E.164,,,,,,,,,,,
+title.zh,ITU-T E.164建议书分配国家代码列表,,,,,,,,,,,
+title.ar,"قائمة بالرموز الدليلية للبلدان المخصصة 
+وفقاً للتوصية ITU-T E.164
+",,,,,,,,,,,
+locale.country_code.en,Country code,,,,,,,,,,,
+locale.country_area_or_service.en,"Country, Geographical area or Global service",,,,,,,,,,,
+locale.note.en,Note,,,,,,,,,,,
+locale.country_code.fr,Indicatif de pays,,,,,,,,,,,
+locale.country_area_or_service.fr,"Pays, Zone géographique ou Service mondial",,,,,,,,,,,
+locale.note.fr,Note,,,,,,,,,,,
+locale.country_code.es,Indicativo de país,,,,,,,,,,,
+locale.country_area_or_service.es,"País, Zona geográfica o Servicio mundial",,,,,,,,,,,
+locale.note.es,Nota,,,,,,,,,,,
+locale.country_code.ru,Код страны,,,,,,,,,,,
+locale.country_area_or_service.ru,"Страна, географическая зона или глобальная услуга ",,,,,,,,,,,
+locale.note.ru,Примечание,,,,,,,,,,,
+locale.country_code.zh,国家代码,,,,,,,,,,,
+locale.country_area_or_service.zh,国家、地理区域或全球性业务,,,,,,,,,,,
+locale.note.zh,注,,,,,,,,,,,
+locale.country_code.ar,الرمز الدليلي للبلد,,,,,,,,,,,
+locale.country_area_or_service.ar,البلد أو المنطقة الجغرافية أو الخدمة العالمية,,,,,,,,,,,
+locale.note.ar,ملاحظة,,,,,,,,,,,
+,,,,,,,,,,,,
+DATA,type=array;name=main,,,,,,,,,,,
+country_code,country_area_or_service.en,country_area_or_service.fr,country_area_or_service.es,country_area_or_service.ru,country_area_or_service.zh,country_area_or_service.ar,note.en,note.fr,note.es,note.ru,note.zh,note.ar
+0,Reserved,Réservé,Reservado,Зарезервирован,预留,محجوز,,,,,,
+1,American Samoa,Anguilla,Anguila,Американское Самоа ,美属萨摩亚,ساموا الأمريكية,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,Anguilla,Antigua-et-Barbuda,Antigua y Barbuda,Ангилья ,安圭拉岛,أنغويلا ,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,Antigua and Barbuda,Bahamas (Commonwealth des),Bahamas (Commonwealth de las),Антигуа и Барбуда ,安提瓜和巴布达,أنتيغوا وبربودا,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,Bahamas (Commonwealth of the),Barbade,Barbados,Багамские Острова (Содружество),巴哈马国,كومنولث البهاما,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,Barbados,Bermudes,Bermudas,Барбадос,巴巴多斯,بربادوس,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,Bermuda,Caïmanes (Iles),Caimán (Islas),Бермудские острова ,百慕大,برمودا,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,British Virgin Islands,Canada,Canadá,Британские Виргинские острова ,英属维京群岛,الجزر العذراء البريطانية,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,Canada,Dominicaine (République),Dominica (Commonwealth de),Канада,加拿大,كندا,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,Cayman Islands,Dominique (Commonwealth de la),Dominicana (República),Каймановы острова ,开曼群岛,جزر كايمان,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,Dominica (Commonwealth of),Etats-Unis d'Amérique,Estados Unidos de América,Доминика (Содружество),多米尼克国,كومنولث دومينيكا,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,Dominican Republic,Grenade,Granada,Доминиканская Республика,多米尼加共和国,الجمهورية الدومينيكية,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,Grenada,Guam,Guam,Гренада,格林纳达,غرينادا,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,Guam,Jamaïque,Jamaica,Гуам,关岛,غوام,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,Jamaica,Mariannes du Nord (Iles) (Commonwealth des),Marianas del Norte (Islas) (Commonwealth de las),Ямайка,牙买加,جامايكا,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,Montserrat,Montserrat,Montserrat,Монтсеррат ,蒙特塞拉特岛,مونسيرات,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,Northern Mariana Islands (Commonwealth of the),Puerto Rico,Puerto Rico,Северные Марианские острова (Содружество),北马里亚纳群岛（联邦共和国）,كومنولث جزر ماريانا الشمالية,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,Puerto Rico,Sainte-Lucie,Saint Kitts y Nevis,Пуэрто-Рико,波多黎各,بورتوريكو,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,Saint Kitts and Nevis,Saint-Kitts-et-Nevis,Samoa Americana,Сент-Китс и Невис ,圣基茨和尼维斯,سانت كيتس ونيفيس,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,Saint Lucia,Saint-Martin (partie néerlandaise),San Martín (parte neerlandesa),Сент-Люсия,圣卢西亚,سانت لوسيا,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,Saint Vincent and the Grenadines,Saint-Vincent-et-les Grenadines,San Vicente y las Granadinas,Сент-Винсент и Гренадины ,圣文森特和格林纳丁斯,سانت فنسنت وغرينادين,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,Sint Maarten (Dutch part),Samoa américaines,Santa Lucía,Синт-Мартен (Нидерланды) ,圣马丁岛（荷属部分）,سينت مارتن (الجزء الهولندي),Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,Trinidad and Tobago,Trinité-et-Tobago,Trinidad y Tabago,Тринидад и Тобаго ,特立尼达和多巴哥,ترينيداد وتوباغو,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,Turks and Caicos Islands,Turks-et-Caïcos (Iles),Turcas y Caicos (Islas),Острова Тёркс и Кайкос ,特克斯和凯科斯群岛,جزر تركس وكايكوس,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,United States of America,Vierges américaines (Iles),Vírgenes Británicas (Islas),Соединенные Штаты Америки,美利坚合众国,الولايات المتحدة الأمريكية,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+1,United States Virgin Islands,Vierges britanniques (Iles),Vírgenes de los Estados Unidos (Islas),Виргинские острова (США) ,美属维京群岛,جزر فرجن التابعة للولايات المتحدة,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+20,Egypt (Arab Republic of),Egypte (République arabe d'),Egipto (República Arabe de),Египет (Арабская Республика),阿拉伯埃及共和国,جمهورية مصر العربية,,,,,,
+210,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+211,South Sudan (Republic of),Soudan du Sud (République du),Sudán del Sur (República de),Южный Судан (Республика),南苏丹（共和国）,جنوب السودان (جمهورية),,,,,,
+212,Morocco (Kingdom of),Maroc (Royaume du),Marruecos (Reino de),Марокко (Королевство),摩洛哥（王国）,المملكة المغربية,,,,,,
+213,Algeria (People's Democratic Republic of),Algérie (République algérienne démocratique et populaire),Argelia (República Argelina Democrática y Popular),Алжир (Народная Демократическая Республика),阿尔及利亚 （民主人民共和国）,جمهورية الجزائر الديمقراطية الشعبية,,,,,,
+214,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+215,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+216,Tunisia,Tunisie,Túnez,Тунис,突尼斯,تونس,,,,,,
+217,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+218,Libya,Libye,Libia,Ливия,利比亚,ليبيا,,,,,,
+219,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+220,Gambia (Republic of the),Gambie (République de),Gambia (República de),Гамбия (Республика),冈比亚（共和国）,جمهورية غامبيا,,,,,,
+221,Senegal (Republic of),Sénégal (République du),Senegal (República del),Сенегал (Республика),塞内加尔（共和国）,جمهورية السنغال,,,,,,
+222,Mauritania (Islamic Republic of),Mauritanie (République islamique de),Mauritania (República Islámica de),Мавритания (Исламская Республика),毛里塔尼亚（伊斯兰共和国）,جمهورية موريتانيا الإسلامية,,,,,,
+223,Mali (Republic of),Mali (République du),Malí (República de),Мали (Республика),马里（共和国）,جمهورية مالي,,,,,,
+224,Guinea (Republic of),Guinée (République de),Guinea (República de),Гвинея (Республика),几内亚（共和国）,جمهورية غينيا,,,,,,
+225,Côte d'Ivoire (Republic of),Côte d'Ivoire (République de),Côte d'Ivoire (República de),Кот-д'Ивуар (Республика),科特迪瓦（共和国）,جمهورية كوت ديفوار,,,,,,
+226,Burkina Faso,Burkina Faso,Burkina Faso,Буркина-Фасо,布基纳法索,بوركينا فاصو,,,,,,
+227,Niger (Republic of the),Niger (République du),Níger (República del),Нигер (Республика),尼日尔（共和国）,جمهورية النيجر,,,,,,
+228,Togolese Republic,Togolaise (République),Togolesa (República),Тоголезская Республика,多哥共和国,جمهورية توغو,,,,,,
+229,Benin (Republic of),Bénin (République du),Benin (República de),Бенин (Республика),贝宁（共和国）,جمهورية بنن,,,,,,
+230,Mauritius (Republic of),Maurice (République de),Mauricio (República de),Маврикий (Республика),毛里求斯（共和国）,جمهورية موريشيوس,,,,,,
+231,Liberia (Republic of),Libéria (République du),Liberia (República de),Либерия (Республика),利比里亚（共和国）,جمهورية ليبيريا,,,,,,
+232,Sierra Leone,Sierra Leone,Sierra Leona,Сьерра-Леоне,塞拉利昂,سيراليون,,,,,,
+233,Ghana,Ghana,Ghana,Гана,加纳,غانا,,,,,,
+234,Nigeria (Federal Republic of),Nigéria (République fédérale du),Nigeria (República Federal de),Нигерия (Федеративная Республика),尼日利亚 （联邦共和国）,جمهورية نيجيريا الاتحادية,,,,,,
+235,Chad (Republic of),Tchad (République du),Chad (República del),Чад (Республика),乍得（共和国）,جمهورية تشاد,,,,,,
+236,Central African Republic,Centrafricaine (République),Centroafricana (República),Центральноафриканская Республика,中非共和国,جمهورية إفريقيا الوسطى,,,,,,
+237,Cameroon (Republic of),Cameroun (République du),Camerún (República de),Камерун (Республика),喀麦隆（共和国）,جمهورية الكاميرون,,,,,,
+238,Cabo Verde (Republic of),Cabo Verde (République de),Cabo Verde (República de),Кабо-Верде (Республика),佛得角（共和国）,جمهورية كابو فيردي,,,,,,
+239,Sao Tome and Principe (Democratic Republic of),Sao Tomé-et-Principe (République démocratique de),Santo Tomé y Príncipe (República Democrática de),Сан-Томе и Принсипи (Демократическая Республика),圣多美和普林西比（民主共和国）,جمهورية سان تومي وبرينسيبي الديمقراطية,,,,,,
+240,Equatorial Guinea (Republic of),Guinée équatoriale (République de),Guinea Ecuatorial (República de),Экваториальная Гвинея (Республика),赤道几内亚（共和国）,جمهورية غينيا الاستوائية,,,,,,
+241,Gabonese Republic,Gabonaise (République),Gabonesa (República),Габонская Республика,加蓬共和国,الجمهورية الغابونية,,,,,,
+242,Congo (Republic of the),Congo (République du),Congo (República del),Конго (Республика),刚果（共和国）,جمهورية الكونغو,,,,,,
+243,Democratic Republic of the Congo,République démocratique du Congo,República Democrática del Congo,Демократическая Республика Конго,刚果民主共和国,جمهورية الكونغو الديمقراطية,,,,,,
+244,Angola (Republic of),Angola (République d'),Angola (República de),Ангола (Республика),安哥拉（共和国）,جمهورية أنغولا,,,,,,
+245,Guinea-Bissau (Republic of),Guinée-Bissau (République de),Guinea-Bissau (República de),Гвинея-Бисау (Республика),几内亚比绍（共和国）,جمهورية غينيا - بيساو,,,,,,
+246,Diego Garcia,Diego Garcia,Diego García,Диего-Гарсия ,迪戈加西亚岛,ديغو غارسيا,,,,,,
+247,"Saint Helena, Ascension and Tristan da Cunha","Sainte-Hélène, Ascension et Tristan da Cunha","Santa Elena, Ascension y Tristan da Cunha","Острова Св. Елены, Вознесения и Тристан-да-Кунья ",圣赫勒拿、阿森松和特里斯坦-达库尼亚,سانت هيلانة وأسانسيون وتريستان دا كونها,Ascension is using country code +247and Saint Helena and Tristan da Cuhna country code +290.,L’indicatif de pays d’Ascension est +247 et pour Sainte-Hélène et Tristan da Cunha +290.,Indicativo de país de Ascension es +247; y Santa Elena y Tristan da Cunha +290.,"Остров Вознесения использует код страны +247, а острова Св. Елены и Тристан-да-Кунья − код страны +290.",阿森松使用国家代码+247，圣赫勒拿和特里斯坦 – 达库尼亚使用国家代码+290。,تستخدم أسانسيون الرمز الدليلي +247 وتستخدم سانت هيلانة وتريستان دا كونها الرمز +290.
+248,Seychelles (Republic of),Seychelles (République des),Seychelles (República de),Сейшельские Острова (Республика),塞舌尔（共和国）,جمهورية سيشيل,,,,,,
+249,Sudan (Republic of the),Soudan (République du),Sudán (República del),Судан (Республика),苏丹（共和国）,جمهورية السودان,,,,,,
+250,Rwanda (Republic of),Rwanda (République du),Rwanda (República de),Руанда (Республика),卢旺达（共和国）,جمهورية رواندا,,,,,,
+251,Ethiopia (Federal Democratic Republic of),Ethiopie (République fédérale démocratique d'),Etiopía (República Democrática Federal de),Эфиопия (Федеративная Демократическая Республика),埃塞俄比亚（联邦民主共和国）,جمهورية إثيوبيا الاتحادية الديمقراطية,,,,,,
+252,Somalia (Federal Republic of),Somalie (République fédérale de),Somalia (República Federal de),Сомали (Федеративная Республика),索马里（联邦共和国）,جمهورية الصومال الاتحادية,,,,,,
+253,Djibouti (Republic of),Djibouti (République de),Djibouti (República de),Джибути (Республика),吉布提（共和国）,جمهورية جيبوتي,,,,,,
+254,Kenya (Republic of),Kenya (République du),Kenya (República de),Кения (Республика),肯尼亚（共和国）,جمهورية كينيا,,,,,,
+255,Tanzania (United Republic of),Tanzanie (République-Unie de),Tanzanía (República Unida de),Танзания (Объединенная Республика),坦桑尼亚（联合共和国）,جمهورية تنزانيا المتحدة,,,,,,
+256,Uganda (Republic of),Ouganda (République de l'),Uganda (República de),Уганда (Республика),乌干达（共和国）,جمهورية أوغندا,,,,,,
+257,Burundi (Republic of),Burundi (République du),Burundi (República de),Бурунди (Республика),布隆迪（共和国）,جمهورية بوروندي,,,,,,
+258,Mozambique (Republic of),Mozambique (République du),Mozambique (República de),Мозамбик (Республика),莫桑比克（共和国）,جمهورية موزامبيق,,,,,,
+259,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+260,Zambia (Republic of),Zambie (République de),Zambia (República de),Замбия (Республика),赞比亚（共和国）,جمهورية زامبيا,,,,,,
+261,Madagascar (Republic of),Madagascar (République de),Madagascar (República de),Мадагаскар (Республика),马达加斯加（共和国）,جمهورية مدغشقر,,,,,,
+262,French Departments and Territories in the Indian Ocean,France de l'Océan indien,Departamentos y territorios franceses del Océano Indico,Французские департаменты и территории в Индийском океане,印度洋法属海外省和领地,المقاطعات والأراضي الفرنسية في المحيط الهندي,"French departments and territories in the Indian Ocean include Reunion, the Southern and Antartic territories and
+	other islands.","France de l’Océan indien comprend la Réunion, les Terres Australes et Antartiques françaises et d’autres îles.","Los departamentos y territorios franceses del Océano Indico incluyen la Reunión, las Tierras Australes y Antárticas y otras islas.","Французские департаменты и территории в Индийском океане включают Реюньон, южные и антарктические территории и другие острова.  ",印度洋法属海外省和领地，包括留尼汪、南方和南极领地及其他岛屿。,"الإمارات العربية المتحدة هي أبوظبي، وعجمان، ودبي، والفجيرة، ورأس الخيمة، والشارقة، وأم القيوين."
+263,Zimbabwe (Republic of),Zimbabwe (République du),Zimbabwe (República de),Зимбабве (Республика),津巴布韦（共和国）,جمهورية زيمبابوي,,,,,,
+264,Namibia (Republic of),Namibie (République de),Namibia (República de),Намибия (Республика),纳米比亚（共和国）,جمهورية ناميبيا,,,,,,
+265,Malawi,Malawi,Malawi,Малави,马拉维,ملاوي,,,,,,
+266,Lesotho (Kingdom of),Lesotho (Royaume du),Lesotho (Reino de),Лесото (Королевство),莱索托（王国）,مملكة ليسوتو,,,,,,
+267,Botswana (Republic of),Botswana (République du),Botswana (República de),Ботсвана (Республика),博茨瓦纳（共和国）,جمهورية بوتسوانا,,,,,,
+268,Swaziland (Kingdom of),Swaziland (Royaume du),Swazilandia (Reino de),Свазиленд (Королевство),斯威士兰（王国）,مملكة سوازيلاند,,,,,,
+269,Comoros (Union of the),Comores (Union des),Comoras (Unión de las),Коморские Острова (Союз) ,科摩罗（联盟）,اتحاد جزر القمر,,,,,,
+27,South Africa (Republic of),Sudafricaine (République),Sudafricana (República),Южно-Африканская Республика,南非（共和国）,جمهورية جنوب إفريقيا,,,,,,
+280,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+281,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+282,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+283,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي ,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+284,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+285,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+286,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+287,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+288,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+289,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي ,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+290,"Saint Helena, Ascension and Tristan da Cunha","Sainte-Hélène, Ascension et Tristan da Cunha","Santa Elena, Ascension y Tristan da Cunha","Острова Св. Елены, Вознесения и Тристан-да-Кунья",圣赫勒拿、阿森松和特里斯坦-达库尼亚,سانت هيلانة وأسانسيون وتريستان دا كونها,Ascension is using country code +247and Saint Helena and Tristan da Cuhna country code +290.,L’indicatif de pays d’Ascension est +247 et pour Sainte-Hélène et Tristan da Cunha +290.,Indicativo de país de Ascension es +247; y Santa Elena y Tristan da Cunha +290.,"Остров Вознесения использует код страны +247, а острова Св. Елены и Тристан-да-Кунья − код страны +290.",阿森松使用国家代码+247，圣赫勒拿和特里斯坦 – 达库尼亚使用国家代码+290。,تستخدم أسانسيون الرمز الدليلي +247 وتستخدم سانت هيلانة وتريستان دا كونها الرمز +290.
+291,Eritrea,Erythrée,Eritrea,Эритрея,厄立特里亚,إريتريا,,,,,,
+292,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+293,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+294,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+295,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+296,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+297,Aruba,Aruba,Aruba,Аруба ,阿鲁巴岛,آروبا,,,,,,
+298,Faroe Islands,Féroé (Iles),Feroe (Islas),Фарерские острова,法罗群岛,جزر فارويه,,,,,,
+299,Greenland (Denmark),Groenland (Danemark),Groenlandia (Dinamarca),Гренландия (Дания),格陵兰（丹麦）,غرينلاند (الدانمارك),,,,,,
+30,Greece,Grèce,Grecia,Греция,希腊,اليونان,,,,,,
+31,Netherlands (Kingdom of the),Pays-Bas (Royaume des),Países Bajos (Reino de los),Нидерланды (Королевство),荷兰（王国）,مملكة هولندا,,,,,,
+32,Belgium,Belgique,Bélgica,Бельгия,比利时,بلجيكا,,,,,,
+33,France,France,Francia,Франция,法国,فرنسا,,,,,,
+34,Spain,Espagne,España,Испания,西班牙,إسبانيا,,,,,,
+350,Gibraltar,Gibraltar,Gibraltar,Гибралтар ,直布罗陀,جبل طارق,,,,,,
+351,Portugal,Portugal,Portugal,Португалия ,葡萄牙,البرتغال,,,,,,
+352,Luxembourg,Luxembourg,Luxemburgo,Люксембург ,卢森堡,لكسمبرغ,,,,,,
+353,Ireland,Irlande,Irlanda,Ирландия ,爱尔兰,أيرلندا,,,,,,
+354,Iceland,Islande,Islandia,Исландия ,冰岛,أيسلندا,,,,,,
+355,Albania (Republic of),Albanie (République d'),Albania (República de),Албания (Республика),阿尔巴尼亚（共和国）,جمهورية ألبانيا,,,,,,
+356,Malta,Malte,Malta,Мальта,马耳他,مالطة,,,,,,
+357,Cyprus (Republic of),Chypre (République de),Chipre (República de),Кипр (Республика),塞浦路斯（共和国）,جمهورية قبرص,,,,,,
+358,Finland,Finlande,Finlandia,Финляндия ,芬兰,فنلندا,,,,,,
+359,Bulgaria (Republic of),Bulgarie (République de),Bulgaria (República de),Болгария (Республика),保加利亚（共和国）,جمهورية بلغاريا,,,,,,
+36,Hungary,Hongrie,Hungría,Венгрия ,匈牙利,هنغاريا,,,,,,
+370,Lithuania (Republic of),Lituanie (République de),Lituania (República de),Литва (Республика),立陶宛（共和国）,جمهورية ليتوانيا,,,,,,
+371,Latvia (Republic of),Lettonie (République de),Letonia (República de),Латвия (Республика),拉脱维亚（共和国）,جمهورية لاتفيا,,,,,,
+372,Estonia (Republic of),Estonie (République d'),Estonia (República de),Эстония (Республика),爱沙尼亚（共和国）,جمهورية إستونيا,,,,,,
+373,Moldova (Republic of),Moldova (République de),Moldova (República de),Молдова (Республика),摩尔多瓦（共和国）,جمهورية مولدوفا,,,,,,
+374,Armenia (Republic of),Arménie (République d'),Armenia (República de),Армения (Республика),亚美尼亚（共和国）,جمهورية أرمينيا,,,,,,
+375,Belarus (Republic of),Bélarus (République du),Belarús (República de),Беларусь (Республика),白俄罗斯（共和国）,جمهورية بيلاروس,,,,,,
+376,Andorra (Principality of),Andorre (Principauté d'),Andorra (Principado de),Андорра (Княжество),安道尔（公国）,إمارة أندورا,,,,,,
+377,Monaco (Principality of),Monaco (Principauté de),Mónaco (Principado de),Монако (Княжество),摩纳哥（公国）,إمارة موناكو,,,,,,
+378,San Marino (Republic of),Saint-Marin (République de),San Marino (República de),Сан-Марино Республика),圣马力诺（共和国）,جمهورية سان مارينو,,,,,,
+379,Vatican City State,Cité du Vatican (Etat de la),Ciudad del Vaticano (Estado de la),Государство-город Ватикан ,梵蒂冈城国,دولة مدينة الفاتيكان,Reserved for future use.,Réservé pour une utilisation ultérieure.,Reservado para utilización futura.,Зарезервирован для будущего использования.,预留用于未来使用。,محجوز لاستخدامه في المستقبل.
+380,Ukraine,Ukraine,Ucrania,Украина ,乌克兰,أوكرانيا,,,,,,
+381,Serbia (Republic of),Serbie (République de),Serbia (República de),Сербия (Республика),塞尔维亚（共和国）,جمهورية صربيا,,,,,,
+382,Montenegro,Monténégro,Montenegro,Черногория ,黑山,الجبل الأسود,,,,,,
+383,Kosovo*,Kosovo*,Kosovo*,Косово*,科索沃*,كوسوفو*,"This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo declaration of independence.",Cette désignation est sans préjudice des positions sur le statut et est conforme à la Résolution 1244 du Conseil de sécurité des Nations Unies ainsi qu'à l'avis de la CIJ sur la déclaration d'indépendance du Kosovo.,"Esta designación es sin perjuicio de las posiciones sobre la situación, y corresponde a UNSCR 1244 y la opinión ICJ sobre la declaración de independencia de Kosovo.",Это обозначение не умаляет положений о состоянии и соответствует резолюции 1244 Совета безопасности ООН и мнению Международного Суда по декларации о независимости Косово. ,该标识不影响有关地位的立场且符合联合国安理会第1244号决议以及国际法院有关科索沃宣布独立的意见。,"لا تمس هذه التسمية بأي من المواقف المتعلقة بوضع كوسوفو، وتتوافق مع قرار مجلس الأمن 1244 ومع رأي محكمة العدل الدولية بشأن إعلان استقلال كوسوفو."
+384,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+385,Croatia (Republic of),Croatie (République de),Croacia (República de),Хорватия (Республика),克罗地亚（共和国）,جمهورية كرواتيا,,,,,,
+386,Slovenia (Republic of),Slovénie (République de),Eslovenia (República de),Словения (Республика),斯洛文尼亚（共和国）,جمهورية سلوفينيا,,,,,,
+387,Bosnia and Herzegovina,Bosnie-Herzégovine,Bosnia y Herzegovina,Босния и Герцеговина ,波斯尼亚与黑塞哥维那,البوسنة والهرسك,,,,,,
+388,"Group of countries, shared code","Groupe de pays, indicatif partagé","Grupo de países, indicativo compartido","Группа стран, общий код",一组国家共用代码,"مجموعة بلدان، رمز مشترك",,,,,,
+389,The Former Yugoslav Republic of Macedonia,L'ex-République yougoslave de Macédoine,La ex República Yugoslava de Macedonia,бывшая югославская Республика Македония ,前南斯拉夫马其顿共和国,جمهورية مقدونيا اليوغوسلافية السابقة,,,,,,
+39,Italy,Cité du Vatican (Etat de la),Ciudad del Vaticano (Estado de la),Италия,意大利,إيطاليا,,,,,,
+39,Vatican City State,Italie,Italia,Государство-город Ватикан,梵蒂冈 城国,دولة مدينة الفاتيكان,,,,,,
+40,Romania,Roumanie,Rumania,Румыния ,罗马尼亚,رومانيا,,,,,,
+41,Switzerland (Confederation of),Suisse (Confédération),Suiza (Confederación),Швейцария (Конфедерация),瑞士（联邦）,الاتحاد السويسري,,,,,,
+420,Czech Republic,République tchèque,República Checa,Чешская Республика,捷克共和国,الجمهورية التشيكية,,,,,,
+421,Slovak Republic,République slovaque,República Eslovaca,Словацкая Республика,斯洛伐克共和国,الجمهورية السلوفاكية,,,,,,
+422,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+423,Liechtenstein (Principality of),Liechtenstein (Principauté de),Liechtenstein (Principado de),Лихтенштейн (Княжество),列支敦士登（公国）,إمارة ليختنشتاين,,,,,,
+424,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+425,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+426,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+427,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+428,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+429,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+43,Austria,Autriche,Austria,Австрия ,奥地利,النمسا,,,,,,
+44,United Kingdom of Great Britain and Northern Ireland,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,Reino Unido de Gran Bretaña e Irlanda del Norte,Соединенное Королевство Великобритании и Северной Ирландии ,大不列颠及北爱尔兰联合王国,المملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية,,,,,,
+45,Denmark,Danemark,Dinamarca,Дания,丹麦,الدانمارك,,,,,,
+46,Sweden,Suède,Suecia,Швеция,瑞典,السويد,,,,,,
+47,Norway,Norvège,Noruega,Норвегия ,挪威,النرويج,,,,,,
+48,Poland (Republic of),Pologne (République de),Polonia (República de),Польша (Республика),波兰（共和国）,جمهورية بولندا,,,,,,
+49,Germany (Federal Republic of),Allemagne (République fédérale d'),Alemania (República Federal de),Германия (Федеративная Республика),德国（联邦共和国）,جمهورية ألمانيا الاتحادية,,,,,,
+500,Falkland Islands (Malvinas),Falkland (Iles) (Malvinas),Malvinas (Islas) (Falkland),Фолклендские (Мальвинские) острова ,福克兰群岛（马尔维纳斯群岛）,جزر فوكلاند (مالفيناس),,,,,,
+501,Belize,Belize,Belice,Белиз,伯利兹,بليز,,,,,,
+502,Guatemala (Republic of),Guatemala (République du),Guatemala (República de),Гватемала (Республика),危地马拉（共和国）,جمهورية غواتيمالا,,,,,,
+503,El Salvador (Republic of),El Salvador (République d'),El Salvador (República de),Эль-Сальвадор (Республика),萨尔瓦多（共和国）,جمهورية السلفادور,,,,,,
+504,Honduras (Republic of),Honduras (République du),Honduras (República de),Гондурас (Республика),洪都拉斯（共和国）,جمهورية هندوراس,,,,,,
+505,Nicaragua,Nicaragua,Nicaragua,Никарагуа,尼加拉瓜,نيكاراغوا,,,,,,
+506,Costa Rica,Costa Rica,Costa Rica,Коста-Рика,哥斯达黎加,كوستاريكا,,,,,,
+507,Panama (Republic of),Panama (République du),Panamá (República de),Панама (Республика),巴拿马（共和国）,جمهورية بنما,,,,,,
+508,Saint Pierre and Miquelon (Collectivité territoriale de la République française),Saint-Pierre-et-Miquelon (Collectivité territoriale de la République française),San Pedro y Miquelón (Collectivité territoriale de la République française),Сен-Пьер и Микелон (территориальная единица Французской Республики)  ,圣皮埃尔岛和密克隆岛（法属领土）,سان بيير وميكيلون (أراض جماعية للجمهورية الفرنسية),,,,,,
+509,Haiti (Republic of),Haïti (République d'),Haití (República de),Гаити (Республика),海地（共和国）,جمهورية هايتي,,,,,,
+51,Peru,Pérou,Perú,Перу,秘鲁,بيرو,,,,,,
+52,Mexico,Mexique,México,Мексика ,墨西哥,المكسيك,,,,,,
+53,Cuba,Cuba,Cuba,Куба,古巴,كوبا,,,,,,
+54,Argentine Republic,Argentine (République),Argentina (República),Аргентинская Республика,阿根廷共和国,جمهورية الأرجنتين,,,,,,
+55,Brazil (Federative Republic of),Brésil (République fédérative du),Brasil (República Federativa del),Бразилия (Федеративная Республика),巴西（联邦共和国）,جمهورية البرازيل الاتحادية,,,,,,
+56,Chile,Chili,Chile,Чили,智利,شيلي,,,,,,
+57,Colombia (Republic of),Colombie (République de),Colombia (República de),Колумбия (Республика),哥伦比亚（共和国）,جمهورية كولومبيا,,,,,,
+58,Venezuela (Bolivarian Republic of),Venezuela (République bolivarienne du),Venezuela (República Bolivariana de),Венесуэла (Боливарианская Республика),委内瑞拉（玻利瓦尔共和国）,جمهورية فنزويلا البوليفارية,,,,,,
+590,Guadeloupe (French Department of),Guadeloupe (Département français de la),Guadalupe (Departamento francés de la),Гваделупа (Департамент Франции),法属瓜德罗普省,مقاطعة غوادلوب الفرنسية,,,,,,
+591,Bolivia (Plurinational State of),Bolivie (État plurinational de),Bolivia (Estado Plurinacional de),Боливия (Многонациональное Государство),玻利维亚（多民族国）,دولة بوليفيا المتعددة القوميات,,,,,,
+592,Guyana,Guyana,Guyana,Гайана,圭亚那,غُيانا,,,,,,
+593,Ecuador,Equateur,Ecuador,Эквадор ,厄瓜多尔,إكوادور,,,,,,
+594,French Guiana (French Department of),Guyane française (Département français de la),Guayana francesa (Departamento francés de la),Французская Гвиана (Департамент Франции),法属圭亚那,مقاطعة غويانا الفرنسية,,,,,,
+595,Paraguay (Republic of),Paraguay (République du),Paraguay (República del),Парагвай (Республика),巴拉圭（共和国）,جمهورية باراغواي,,,,,,
+596,Martinique (French Department of),Martinique (Département français de la),Martinica (Departamento francés de la),Мартиника (Департамент Франции),法属马提尼克,مقاطعة المارتينيك الفرنسية,,,,,,
+597,Suriname (Republic of),Suriname (République du),Suriname (República de),Суринам (Республика),苏里南（共和国）,جمهورية سورينام,,,,,,
+598,Uruguay (Eastern Republic of),Uruguay (République orientale de l'),Uruguay (República Oriental del),Уругвай (Восточная Республика),乌拉圭（东岸共和国）,جمهورية أوروغواي الشرقية,,,,,,
+599,"Bonaire, Sint Eustatius and Saba","Bonaire, Saint-Eustache et Saba","Bonaire, San Eustaquio y Saba","Бонэйр, Синт-Эстатиус и Саба",博内尔岛、圣尤斯特歇斯岛和萨巴岛,جزر بونير وسان يوستايتوس وسابا,"Code shared between Curaçao and Bonaire, Sint Eustatius and Saba.","Indicatif utilisé en partage par Curaçao et Bonaire, Saint-Eustache et Saba.","Indicativo compartido por Curaçao y Bonaire, San Eustaquio y Saba","Код используется совместно Кюрасао и Бонэйром, Синт-Эстатиусом и Сабой. ",库拉索岛与博内尔岛、圣尤斯特歇斯岛和萨巴岛共享的代码。,رمز دليلي مشترك بين كوراساو وجزر بونير وسان يوستايتوس وسابا.
+599,Curaçao,Curaçao,Curaçao,Кюрасао ,库拉索岛,كوراساو,"Code shared between Curaçao and Bonaire, Sint Eustatius and Saba.","Indicatif utilisé en partage par Curaçao et Bonaire, Saint-Eustache et Saba.","Indicativo compartido por Curaçao y Bonaire, San Eustaquio y Saba","Код используется совместно Кюрасао и Бонэйром, Синт-Эстатиусом и Сабой. ",库拉索岛与博内尔岛、圣尤斯特歇斯岛和萨巴岛共享的代码。,رمز دليلي مشترك بين كوراساو وجزر بونير وسان يوستايتوس وسابا.
+60,Malaysia,Malaisie,Malasia,Малайзия,马来西亚,ماليزيا,,,,,,
+61,Australia,Australie,Australia,Австралия ,澳大利亚,أستراليا,Including Christmas Island and Cocos-Keeling Islands.,Y compris Christmas (Ile) et Cocos-Keeling (Iles).,Comprendidas Christmas (Isla) y Cocos-Keeling (Islas).,Включая остров Рождества и Кокосовые (или Килинг) острова. ,包括圣诞岛和科科斯（基林）群岛。,"بما في ذلك أراضي أنتاركتيكا الأسترالية، وجزيرة نورفولك."
+62,Indonesia (Republic of),Indonésie (République d'),Indonesia (República de),Индонезия (Республика),印度尼西亚（共和国）,جمهورية إندونيسيا,,,,,,
+63,Philippines (Republic of the),Philippines (République des),Filipinas (República de),Филиппины (Республика),菲律宾（共和国）,جمهورية الفلبين,,,,,,
+64,New Zealand,Nouvelle-Zélande,Nueva Zelandia,Новая Зеландия ,新西兰,نيوزيلندا,,,,,,
+65,Singapore (Republic of),Singapour (République de),Singapur (República de),Сингапур (Республика),新加坡（共和国）,جمهورية سنغافورة,,,,,,
+66,Thailand,Thaïlande,Tailandia,Таиланд,泰国,تايلاند,,,,,,
+670,Timor-Leste (Democratic Republic of),Timor-Leste (République démocratique du),Timor-Leste (República Democrática de),Тимор-Лешти (Демократическая Республика),东帝汶（民主共和国）,جمهورية تيمور لستي الديمقراطية,,,,,,
+671,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+672,Australian External Territories,Territoires extérieurs de l'Australie,Territorios exteriores de Australia,Внешние территории Австралии,澳大利亚境外领土,الأراضي الأسترالية الخارجية,"Including Australian Antarctic Territory, and Norfolk Island.","Y compris le territoire australien de l'Antarctique, et Norfolk (Ile de).","Comprendidos el territorio australiano del Antártico, y Norfolk (Isla de).",Включая  Австралийскую антарктическую территорию и остров Норфолк. ,包括澳大利亚南极领土和诺福克群岛。,محجوز لاستخدامه في المستقبل.
+673,Brunei Darussalam,Brunéi Darussalam,Brunei Darussalam,Бруней-Даруссалам ,文莱达鲁萨兰国,بروني دار السلام,,,,,,
+674,Nauru (Republic of),Nauru (République de),Nauru (República de),Науру (Республика),瑙鲁（共和国）,جمهورية ناورو,,,,,,
+675,Papua New Guinea,Papouasie-Nouvelle-Guinée,Papua Nueva Guinea,Папуа-Новая Гвинея ,巴布亚新几内亚,بابوا - غينيا الجديدة,,,,,,
+676,Tonga (Kingdom of),Tonga (Royaume des),Tonga (Reino de),Тонга (Королевство),汤加（王国）,مملكة تونغا,,,,,,
+677,Solomon Islands,Salomon (Iles),Salomón (Islas),Соломоновы Острова,所罗门群岛,جزر سليمان,,,,,,
+678,Vanuatu (Republic of),Vanuatu (République de),Vanuatu (República de),Вануату (Республика),瓦努阿图 （共和国）,جمهورية فانواتو,,,,,,
+679,Fiji (Republic of),Fidji (République de),Fiji (República de),Фиджи (Республика),斐济（共和国）,جمهورية فيجي,,,,,,
+680,Palau (Republic of),Palaos (République des),Palau (República de),Палау (Республика),帕劳（共和国）,جمهورية بالاو,,,,,,
+681,Wallis and Futuna (Territoire français d'outre-mer),Wallis-et-Futuna (Territoire français d'outre-mer),Wallis y Futuna (Territoire français d'outre-mer),Уоллис и Футуна (Французские заморские территории),瓦利斯和富图纳群岛（法国海外领地）,جزر واليس وفوتونا (إقليم فرنسي فيما وراء البحار),,,,,,
+682,Cook Islands,Cook (Iles),Cook (Islas),Острова Кука,库克群岛,جزر كوك,,,,,,
+683,Niue,Niue,Niue,Ниуэ,纽埃岛,نيوي,,,,,,
+684,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+685,Samoa (Independent State of),Samoa (Etat indépendant du),Samoa (Estado Independiente de),Самоа (Независимое Государство) ,萨摩亚（独立国）,دولة ساموا المستقلة,,,,,,
+686,Kiribati (Republic of),Kiribati (République de),Kiribati (República de),Кирибати (Республика),基里巴斯（共和国）,جمهورية كيريباتي,,,,,,
+687,New Caledonia (Territoire français d'outre-mer),Nouvelle-Calédonie (Territoire français d'outre-mer),Nueva Caledonia (Territoire français d'outre-mer),Новая Каледония (Французские заморские территории),新喀里多尼亚（法国海外领地）,كاليدونيا الجديدة (إقليم فرنسي فيما وراء البحار),,,,,,
+688,Tuvalu,Tuvalu,Tuvalu,Тувалу,图瓦卢,توفالو,,,,,,
+689,French Polynesia (Territoire français d'outre-mer),Polynésie française (Territoire français d'outre-mer),Polinesia francesa (Territoire français d'outre-mer),Французская Полинезия (Французские заморские территории),法属波利尼西亚,بولينيزيا الفرنسية (إقليم فرنسي فيما وراء البحار),,,,,,
+690,Tokelau,Tokélau,Tokelau,Токелау,托克劳,توكيلاو,,,,,,
+691,Micronesia (Federated States of),Micronésie (Etats fédérés de),Micronesia (Estados federados de),Микронезия (Федеративные Штаты),密克罗尼西亚 （联邦）,ولايات ميكرونيزيا الموحدة,,,,,,
+692,Marshall Islands (Republic of the),Marshall (République des Iles),Marshall (República de las Islas),Маршалловы Острова (Республика),马绍尔群岛 （共和国）,جمهورية جزر مارشال,,,,,,
+693,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+694,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+695,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+696,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+697,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+698,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+699,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+7,Kazakhstan (Republic of),Kazakhstan (République du),Kazajstán (República de),Казахстан (Республика),哈萨克斯坦（共和国）,جمهورية كازاخستان,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+7,Russian Federation,Russie (Fédération de),Rusia (Federación de),Российская Федерация ,俄罗斯联邦,الاتحاد الروسي,Integrated numbering plan.,Plan de numérotage intégré.,Plan de numeración integrado.,План сводной нумерации.,综合编号方案。,خطة ترقيم متكاملة.
+800,International Freephone Service,Service de Libre-appel international,Servicio de llamada gratuita internacional,Услуга международного бесплатного вызова,国际免费电话业务,خدمة الهواتف المجانية الدولية,,,,,,
+801,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,"Will be allocated, only after all three digit codes from groups of ten are exhausted.",Ne seront attribués qu'après épuisement des groupes de dix indicatifs à trois chiffres actuels.,Sólo se atribuirá una vez que se hayan asignado todos los indicativos de tres cifras de las décadas de indicativos en funcionamiento.,"Будет распределен только после того, как будут исчерпаны все трехзначные коды из групп десятков. ",只有在所有每组十个的三位代码用尽后才会分配。,سيوزَّع فقط بعد استنفاد جميع الرموز الدليلية المكونة من ثلاثة أرقام من مجموعات من عشرة. 
+802,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,"Will be allocated, only after all three digit codes from groups of ten are exhausted.",Ne seront attribués qu'après épuisement des groupes de dix indicatifs à trois chiffres actuels.,Sólo se atribuirá una vez que se hayan asignado todos los indicativos de tres cifras de las décadas de indicativos en funcionamiento.,"Будет распределен только после того, как будут исчерпаны все трехзначные коды из групп десятков. ",只有在所有每组十个的三位代码用尽后才会分配。,سيوزَّع فقط بعد استنفاد جميع الرموز الدليلية المكونة من ثلاثة أرقام من مجموعات من عشرة. 
+803,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,"Will be allocated, only after all three digit codes from groups of ten are exhausted.",Ne seront attribués qu'après épuisement des groupes de dix indicatifs à trois chiffres actuels.,Sólo se atribuirá una vez que se hayan asignado todos los indicativos de tres cifras de las décadas de indicativos en funcionamiento.,"Будет распределен только после того, как будут исчерпаны все трехзначные коды из групп десятков. ",只有在所有每组十个的三位代码用尽后才会分配。,سيوزَّع فقط بعد استنفاد جميع الرموز الدليلية المكونة من ثلاثة أرقام من مجموعات من عشرة. 
+804,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,"Will be allocated, only after all three digit codes from groups of ten are exhausted.",Ne seront attribués qu'après épuisement des groupes de dix indicatifs à trois chiffres actuels.,Sólo se atribuirá una vez que se hayan asignado todos los indicativos de tres cifras de las décadas de indicativos en funcionamiento.,"Будет распределен только после того, как будут исчерпаны все трехзначные коды из групп десятков. ",只有在所有每组十个的三位代码用尽后才会分配。,سيوزَّع فقط بعد استنفاد جميع الرموز الدليلية المكونة من ثلاثة أرقام من مجموعات من عشرة. 
+805,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,"Will be allocated, only after all three digit codes from groups of ten are exhausted.",Ne seront attribués qu'après épuisement des groupes de dix indicatifs à trois chiffres actuels.,Sólo se atribuirá una vez que se hayan asignado todos los indicativos de tres cifras de las décadas de indicativos en funcionamiento.,"Будет распределен только после того, как будут исчерпаны все трехзначные коды из групп десятков. ",只有在所有每组十个的三位代码用尽后才会分配。,سيوزَّع فقط بعد استنفاد جميع الرموز الدليلية المكونة من ثلاثة أرقام من مجموعات من عشرة. 
+806,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,"Will be allocated, only after all three digit codes from groups of ten are exhausted.",Ne seront attribués qu'après épuisement des groupes de dix indicatifs à trois chiffres actuels.,Sólo se atribuirá una vez que se hayan asignado todos los indicativos de tres cifras de las décadas de indicativos en funcionamiento.,"Будет распределен только после того, как будут исчерпаны все трехзначные коды из групп десятков. ",只有在所有每组十个的三位代码用尽后才会分配。,سيوزَّع فقط بعد استنفاد جميع الرموز الدليلية المكونة من ثلاثة أرقام من مجموعات من عشرة. 
+807,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,"Will be allocated, only after all three digit codes from groups of ten are exhausted.",Ne seront attribués qu'après épuisement des groupes de dix indicatifs à trois chiffres actuels.,Sólo se atribuirá una vez que se hayan asignado todos los indicativos de tres cifras de las décadas de indicativos en funcionamiento.,"Будет распределен только после того, как будут исчерпаны все трехзначные коды из групп десятков. ",只有在所有每组十个的三位代码用尽后才会分配。,سيوزَّع فقط بعد استنفاد جميع الرموز الدليلية المكونة من ثلاثة أرقام من مجموعات من عشرة. 
+808,International Shared Cost Service (ISCS),Service de coût partagé international (ISCS),Servicio internacional de pago compartido (ISCS),Международная услуга с долевой оплатой (ISCS),国际费用分担服务（ISCS）,خدمة تقاسم التكاليف الدولية (ISCS),,,,,,
+809,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,"Will be allocated, only after all three digit codes from groups of ten are exhausted.",Ne seront attribués qu'après épuisement des groupes de dix indicatifs à trois chiffres actuels.,Sólo se atribuirá una vez que se hayan asignado todos los indicativos de tres cifras de las décadas de indicativos en funcionamiento.,"Будет распределен только после того, как будут исчерпаны все трехзначные коды из групп десятков. ",只有在所有每组十个的三位代码用尽后才会分配。,سيوزَّع فقط بعد استنفاد جميع الرموز الدليلية المكونة من ثلاثة أرقام من مجموعات من عشرة. 
+81,Japan,Japon,Japón,Япония,日本,اليابان,,,,,,
+82,Korea (Republic of),Corée (République de),Corea (República de),Корея (Республика),大韩民国,جمهورية كوريا,,,,,,
+830,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+831,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+832,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+833,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+834,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+835,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+836,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+837,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+838,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+839,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+84,Viet Nam (Socialist Republic of),Viet Nam (République socialiste du),Viet Nam (República Socialista de),Вьетнам (Социалистическая Республика),越南（社会主义共和国）,جمهورية فيتنام الاشتراكية,,,,,,
+850,Democratic People's Republic of Korea,République populaire démocratique de Corée,República Popular Democrática de Corea,Корейская Народно-Демократическая Республика ,朝鲜民主主义人民共和国,جمهورية كوريا الشعبية الديمقراطية,,,,,,
+851,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+852,"Hong Kong, China","Hong Kong, Chine","Hong Kong, China","Гонконг, Китай ",中国香港,"هونغ كونغ، الصين",,,,,,
+853,"Macao, China","Macao, Chine","Macao, China","Макао, Китай",中国澳门,"ماكاو، الصين",,,,,,
+854,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+855,Cambodia (Kingdom of),Cambodge (Royaume du),Camboya (Reino de),Камбоджа (Королевство),柬埔寨（王国）,مملكة كمبوديا,,,,,,
+856,Lao People's Democratic Republic,Lao (République démocratique populaire),Lao (República Democrática Popular),Лаосская Народно-Демократическая Республика ,老挝（人民民主共和国）,جمهورية لاو الديمقراطية الشعبية,,,,,,
+857,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+858,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+859,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+86,China (People's Republic of),Chine (République populaire de),China (República Popular de),Китайская Народная Республика ,中华人民共和国,جمهورية الصين الشعبية,,,,,,
+870,Inmarsat SNAC,Inmarsat SNAC,Inmarsat SNAC,Inmarsat SNAC,Inmarsat SNAC,Inmarsat SNAC,,,,,,
+871,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+872,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+873,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+874,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+875,Reserved - Maritime Mobile Service Applications,Réservé pour des applications du service mobile maritime,Reservado para aplicaciones del servicio móvil maritimo,Зарезервирован − Применения морской подвижной службы,预留 – 水上移动业务应用,محجوز لتطبيقات الخدمة المتنقلة البحرية,,,,,,
+876,Reserved - Maritime Mobile Service Applications,Réservé pour des applications du service mobile maritime,Reservado para aplicaciones del servicio móvil maritimo,Зарезервирован − Применения морской подвижной службы,预留 – 水上移动业务应用,محجوز لتطبيقات الخدمة المتنقلة البحرية,,,,,,
+877,Reserved - Maritime Mobile Service Applications,Réservé pour des applications du service mobile maritime,Reservado para aplicaciones del servicio móvil maritimo,Зарезервирован − Применения морской подвижной службы,预留 – 水上移动业务应用,محجوز لتطبيقات الخدمة المتنقلة البحرية,,,,,,
+878,Universal Personal Telecommunication Service (UPT),Service de télécommunications universelles personelles (UPT),Servicio de telecomunicación personal universal (UPT),Универсальная служба персональной электросвязи (UPT),通用个人电信业务（UPT）,خدمة الاتصالات الشخصية العالمية (UPT),"Associated with shared country code 878 for Universal personal telecommunications (UPT), the identification code 10 has been assigned to the network of VISIONng, +878 10.","Associé à l’indicatif de pays 878, en partage pour le service de télécommunications universelles personelles (UPT), le code d’identification «10» a été attribué au réseau VISIONng, +878 10","Asociado con el indicativo de país 878 compartido para el servicio de telecomunicación personal universal (UPT), el código de identificación «10» se ha asignado por la red de VISIONng, +878 10 . ",,,
+879,Reserved for national non-commercial purposes,Réservé à des besoins nationaux non commerciaux,Reservado para fines nacionales no comerciales,Зарезервирован для национальных некоммерческих целей ,预留 用于国内非商业用途,محجوز لأغراض وطنية غير تجارية,,,,,,
+880,Bangladesh (People's Republic of),Bangladesh (République populaire du),Bangladesh (República Popular de),Бангладеш (Народная Республика),孟加拉（人民共和国）,جمهورية بنغلاديش الشعبية,,,,,,
+881,"Global Mobile Satellite System (GMSS), shared code","Service mobile mondial par satellite (GMSS), indicatif partagé","Sistema móvil mundial por satelite (GMSS), indicativo compartido","Глобальная система подвижной спутниковой связи (ГСПСС), общий код",全球移动卫星系统（GMSS），共享代码,"نظام الخدمة الساتلية المتنقلة العالمية (GMSS)، رمز مشترك","Associated with shared country code 881, the following one-digit identification code reservations or assignments have been made for the GMSS networks","Associés à l'indicatif de pays 881 attribué en partage, les codes d'identification à un chiffre ci-après, ont été réservés/attribués aux réseaux GMSS:","Asociados con el indicativo de país 881 compartido, se han reservado/asignado los siguientes códigos de identificación de una cifra para las redes GMSS:","Были выполнены следующие резервирования или присвоения однозначного кода идентификации, связанного с общим кодом страны 881, для сетей ГСПСС:",有关共享国家代码881，已为GMSS网络预留或分配了以下一位识别代码：,"القُطري المشترك 881، لشبكات نظام الخدمة الساتلية المتنقلة العالمية (GMSS):"
+882,"International Networks, shared code","Réseaux internationaux, indicatif partagé","Redes internacionales, indicativo compartido","Международные сети, общий код",国际网络，共享代码,"الشبكات الدولية، رمز مشترك ","Associated with shared country code 882, the following two-digit identification code reservations or assignments have been made for the international networks of","Associés à l'indicatif de pays 882 attribué en partage, les codes d'identification à deux chiffres ci-après ont été réservés pour les / ou attribués aux réseaux internationaux suivants:","Asociados con el indicativo de país 882 compartido, se han reservado / o asignado los siguientes códigos de identificación de dos cifras para las redes internacionales siguientes:","Были выполнены следующие резервирования или присвоения двузначного кода идентификации, связанного с общим кодом страны 882, для международных сетей:",有关共享国家代码882，已为下述国际网络预留或分配了以下两位识别代码：,"تمت حالات الحجز أو التخصيص التالية المتعلقة برمز تعرف الهوية المكون من رقمين، والمرتبط بالرمز الدليلي القُطري المشترك 882، للشبكات الدولية:"
+883,"International Networks, shared code","Réseaux internationaux, indicatif partagé","Redes internacionales, indicativo compartido","Международные сети, общий код",国际网络，共享代码,"الشبكات الدولية، رمز مشترك ","Associated with shared country code 883, the following three-digit and four-digit identification code reservations or assignments have been made for the international networks of","Associés à l'indicatif de pays 883 attribué en partage, les codes d'identification à trois chiffres ci-après ont été réservés pour les / ou attribués aux réseaux internationaux suivants:","Asociados con el indicativo de país 883 compartido, se han reservado / o asignado los siguientes códigos de identificación de tres cifras para las redes internacionales siguientes:","Были выполнены следующие резервирования или присвоения трехзначного кода идентификации, связанного с общим кодом страны 883, для международных сетей: ",有关共享国家代码883，已为下述国际网络预留或分配了以下三位识别代码：,"تمت حالات الحجز أو التخصيص التالية المتعلقة برمز تعرف الهوية المكون من ثلاثة أرقام والمرتبط بالرمز الدليلي القُطري المشترك 883، للشبكات الدولية:"
+884,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+885,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+886,"Taiwan, China","Taiwan, Chine","Taiwán, China","Тайвань, Китай ",中国台湾,"تايوان، الصين",,,,,,
+887,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+888,Telecommunications for Disaster Relief (TDR),Opérations de secours en cas de catastrophe (TDR),Telecomunicaciones para las Operaciones de Socorro en caso de catástrofe (TDR),Электросвязь для оказания помощи при бедствиях (TDR),救灾通信（TDR）,الاتصالات من أجل الإغاثة في حالات الكوارث (TDR),"United Nations Office of the Coordinator for Humanitarian Affairs (OCHA), for the purpose of facilitating disaster
+	relief activities.",Bureau de la coordination des affaires humanitaires des Nations Unies (OCHA) afin de faciliter les opérations de secours en cas de catastrophe.,La Oficina para la Coordinación de Asuntos Humanitarios (OCHA) a fin de facilitar las operaciones de socorro.,"Управление Организации Объединенных Наций по координации гуманитарных вопросов (УКГВ), в целях содействия деятельности по оказанию помощи при бедствиях. ",联合国人道事务协调厅（OCHA），用于协助救灾活动。,"مكتب الأمم المتحدة لتنسيق الشؤون الإنسانية (OCHA)، لغرض تيسير أنشطة الإغاثة في حالات الكوارث."
+889,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+890,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+891,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+892,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+893,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+894,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+895,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+896,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+897,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+898,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+899,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,Reserved for E.164 country code expansion.,Réservé pour l’expansion des indicatifs de pays de la Recommandation UIT-T E.164.,Reservado para la expansión de indicativos de país de la Recomendación UIT-T E.164.,Зарезервирован для расширения кода страны E.164.,预留用于扩展E.164国家代码。,محجوز لتوسيع الرموز الدليلية للبلدان الواردة في التوصية E.164.
+90,Turkey,Turquie,Turquía,Турция,土耳其,تركيا,,,,,,
+91,India (Republic of),Inde (République de l'),India (República de la),Индия (Республика),印度（共和国）,جمهورية الهند,,,,,,
+92,Pakistan (Islamic Republic of),Pakistan (République islamique du),Pakistán (República Islámica del),Пакистан (Исламская Республика),巴基斯坦（伊斯兰共和国）,جمهورية باكستان الإسلامية,,,,,,
+93,Afghanistan,Afghanistan,Afganistán,Афганистан ,阿富汗,أفغانستان,,,,,,
+94,Sri Lanka (Democratic Socialist Republic of),Sri Lanka (République socialiste démocratique de),Sri Lanka (República Socialista Democrática de),Шри-Ланка (Демократическая Социалистическая  Республика),斯里兰卡（民主社会主义共和国）,جمهورية سري لانكا الاشتراكية الديمقراطية,,,,,,
+95,Myanmar (the Republic of the Union of),Myanmar (République de l'Union du),Myanmar (República de la Unión de),Республика Союза Мьянма ,缅甸（联邦共和国）,جمهورية اتحاد ميانمار ,,,,,,
+960,Maldives (Republic of),Maldives (République des),Maldivas (República de),Мальдивская Республика,马尔代夫（共和国）,جمهورية ملديف,,,,,,
+961,Lebanon,Liban,Líbano,Ливан,黎巴嫩,لبنان,,,,,,
+962,Jordan (Hashemite Kingdom of),Jordanie (Royaume hachémite de),Jordania (Reino Hachemita de),Иордания (Хашимитское Королевство),约旦（哈希姆王国）,المملكة الأردنية الهاشمية,,,,,,
+963,Syrian Arab Republic,République arabe syrienne,República Árabe Siria,Сирийская Арабская Республика,阿拉伯叙利亚共和国,الجمهورية العربية السورية,,,,,,
+964,Iraq (Republic of),Iraq (République d'),Iraq (República del),Ирак (Республика),伊拉克（共和国）,الجمهورية العراقية,,,,,,
+965,Kuwait (State of),Koweït (Etat du),Kuwait (Estado de),Кувейт (Государство),科威特（国）,دولة الكويت,,,,,,
+966,Saudi Arabia (Kingdom of),Arabie saoudite (Royaume d'),Arabia Saudita (Reino de),Саудовская Аравия (Королевство),沙特阿拉伯（王国）,المملكة العربية السعودية,,,,,,
+967,Yemen (Republic of),Yémen (République du),Yemen (República del),Йемен (Республика),也门（共和国）,الجمهورية اليمنية,,,,,,
+968,Oman (Sultanate of),Oman (Sultanat d'),Omán (Sultanía de),Оман (Султанат),阿曼（苏丹国）,سلطنة عُمان,,,,,,
+969,Reserved - reservation currently under investigation,Réservé - réservation en cours d'examen,Reservado - actualmente objeto de investigación,Зарезервирован − Резервирование в настоящее время исследуется ,预留 – 目前正在调研的预留,محجوز- يجري حالياً النظر في حالة الحجز هذه,,,,,,
+970,Reserved,Réservé,Reservado,Зарезервирован,预留,محجوز,Reserved for the Palestinian Authority.,Réservé pour l’Autorité palestinienne.,Reservado para la Autoridad Palestina.,Зарезервирован для Палестинского органа.,预留用于巴勒斯坦当局。,محجوز للسلطة الفلسطينية.
+971,United Arab Emirates,Emirats arabes unis,Emiratos Árabes Unidos,Объединенные Арабские Эмираты ,阿拉伯联合酋长国,الإمارات العربية المتحدة,"U.A.E.: Abu Dhabi, Ajman, Dubai, Fujeirah, Ras Al Khaimah, Sharjah, Umm Al Qaiwain.","E.A.U: Abu Dhabi, Ajman, Dubai, Fujeirah, Ras Al Khaimah, Sharjah, Umm Al Qaiwain.","E.A.U.: Abu Dhabi, Ajman, Dubai, Fujeirah, Ras Al Khaimah, Sharjah, Umm Al Qaiwain.","ОАЭ: Абу-Даби, Аджман, Дубай, Фуджейра, Рас-эль-Хайма, Шарджа и Умм-эль-Кайвайн. ",阿联酋：阿布扎比、阿治曼、迪拜、富查伊拉、哈伊马角、沙迦、乌姆盖万。,محجوز للسلطة الفلسطينية.
+972,Israel (State of),Israël (Etat d'),Israel (Estado de),Израиль (Государство),以色列（国）,دولة إسرائيل,,,,,,
+973,Bahrain (Kingdom of),Bahreïn (Royaume de),Bahrein (Reino de),Бахрейн (Королевство),巴林（王国）,مملكة البحرين,,,,,,
+974,Qatar (State of),Qatar (Etat du),Qatar (Estado de),Катар (Государство),卡塔尔（国）,دولة قطر,,,,,,
+975,Bhutan (Kingdom of),Bhoutan (Royaume du),Bhután (Reino de),Бутан (Королевство),不丹（王国）,مملكة بوتان,,,,,,
+976,Mongolia,Mongolie,Mongolia,Монголия,蒙古,منغوليا,,,,,,
+977,Nepal (Federal Democratic Republic of),Népal (République fédérale démocratique du),Nepal (República Democrática Federal de),Непал (Федеративная Демократическая Республика),尼泊尔,جمهورية نيبال الاتحادية الديمقراطية,,,,,,
+978,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+979,International Premium Rate Service (IPRS),Service kiosque international (IPRS),Servicio internacional con recargo (IPRS),"Международная услуга ""вызов с оплатой по повышенному тарифу"" (IPRS)",目国际附加费率业务（IPRS）,خدمة الأسعار المميزة الدولية (IPRS),,,,,,
+98,Iran (Islamic Republic of),Iran (République islamique d'),Irán (República Islámica del),Иран (Исламская Республика),伊朗（伊斯兰共和国）,جمهورية إيران الإسلامية,,,,,,
+990,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+991,"Trial of a proposed new international telecommunication public correspondence service, shared code","Essai d'un nouveau service proposé de correspondance publique de télécommunications internationales, indicatif partagé","Ensayo de un nuevo servicio internacional propuesto de correspondencia pública de telecomunicaciones, indicativo compartido","Испытание предлагаемой новой услуги международной электросвязи для общественной корреспонденции, общий код",拟议新国际电信公众通信业务试验，共享代码,"تجربة خدمة مقترحة جديدة للمراسلات العمومية للاتصالات الدولية، رمز مشترك",,,,,,
+992,Tajikistan (Republic of),Tadjikistan (République du),Tayikistán (República de),Таджикистан (Республика),塔吉克斯坦（共和国）,جمهورية طاجيكستان,,,,,,
+993,Turkmenistan,Turkménistan,Turkmenistán,Туркменистан,土库曼斯坦,تركمانستان,,,,,,
+994,Azerbaijan (Republic of),Azerbaïdjan (République d'),Azerbaiyán (República de),Азербайджан (Республика),阿塞拜疆（共和国）,جمهورية أذربيجان,,,,,,
+995,Georgia,Géorgie,Georgia,Грузия,格鲁吉亚,جورجيا,,,,,,
+996,Kyrgyz Republic,République kirghize,República Kirguisa,Кыргызская Республика,吉尔吉斯共和国,جمهورية قيرغيزستان,,,,,,
+997,Spare code,Indicatif de réserve,Indicativo de reserva,Резервный код,备用代码,رمز احتياطي,,,,,,
+998,Uzbekistan (Republic of),Ouzbékistan (République d'),Uzbekistán (República de),Узбекистан (Республика),乌兹别克斯坦（共和国）,جمهورية أوزبكستان,,,,,,
+999,Reserved for future global service,Réservé au service mondial ultérieur,Reservado para el futuro servicio mundial,Зарезервирован для будущей глобальной услуги ,预留用于未来全球性业务,محجوز للخدمة العالمية المستقبلية ,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

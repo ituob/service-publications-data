@@ -22,588 +22,705 @@ metadata:
       fr: Países/Zonas geográficas
       es: Pays/Zones géographiques
 data:
-  number:
-    1:
-      geographic_area:
-        en: Afghanistan
-        fr: Afghanistan
-        es: Afganistán
-    2:
-      geographic_area:
-        en: Albania
-        fr: Albanie
-        es: Albania
-    3:
-      geographic_area:
-        en: Algeria
-        fr: Algérie
-        es: Argelia
-    4:
-      geographic_area:
-        en: Armenia
-        fr: Arménie
-        es: Armenia
-    5:
-      geographic_area:
-        en: Azerbaijan
-        fr: Azerbaïdjan
-        es: Azerbaiyán
-    6:
-      geographic_area:
-        en: Bahamas
-        fr: Bahreïn
-        es: Bahrein
-    7:
-      geographic_area:
-        en: Bahrain
-        fr: Bahamas
-        es: Bahamas
-    8:
-      geographic_area:
-        en: Belarus
-        fr: Bélarus
-        es: Belarús
-    9:
-      geographic_area:
-        en: Belize
-        fr: Belize
-        es: Belice
-    10:
-      geographic_area:
-        en: Benin
-        fr: Bénin
-        es: Benin
-    11:
-      geographic_area:
-        en: Bhutan
-        fr: Bhoutan
-        es: Bután
-    12:
-      geographic_area:
-        en: Bonaire, Saint Eustatius and Saba
-        fr: Bonaire, Saint Eustatius et Saba
-        es: Bonaire, San Eustatius y Saba
-    13:
-      geographic_area:
-        en: Bosnia and Herzegovina
-        fr: Bosnie-Herzégovine
-        es: Bosnia y Herzegovina
-    14:
-      geographic_area:
-        en: Brazil
-        fr: Brésil
-        es: Brasil
-    15:
-      geographic_area:
-        en: Brunei Darussalam
-        fr: Brunéi Darussalam
-        es: Brunei Darussalam
-    16:
-      geographic_area:
-        en: Burkina Faso
-        fr: Burkina Faso
-        es: Burkina Faso
-    17:
-      geographic_area:
-        en: Burundi
-        fr: Burundi
-        es: Burundi
-    18:
-      geographic_area:
-        en: Cambodia
-        fr: Cambodge
-        es: Camboya
-    19:
-      geographic_area:
-        en: Cameroon
-        fr: Cameroun
-        es: Camerún
-    20:
-      geographic_area:
-        en: Central African Rep.
-        fr: Centrafricaine (Rép.)
-        es: Centroafricana
-    21:
-      geographic_area:
-        en: Chad
-        fr: Tchad
-        es: Chad
-    22:
-      geographic_area:
-        en: China
-        fr: Chine
-        es: China
-    23:
-      geographic_area:
-        en: Colombia
-        fr: Colombie
-        es: Colombia
-    24:
-      geographic_area:
-        en: Comoros
-        fr: Comores
-        es: Comoras
-    25:
-      geographic_area:
-        en: Cook Islands
-        fr: Cook (Îles)
-        es: Cook (Islas)
-    26:
-      geographic_area:
-        en: Costa Rica
-        fr: Costa Rica
-        es: Costa Rica
-    27:
-      geographic_area:
-        en: Côte d'Ivoire
-        fr: Côte d'Ivoire
-        es: Côte d'Ivoire
-    28:
-      geographic_area:
-        en: Cuba
-        fr: Cuba
-        es: Cuba
-    29:
-      geographic_area:
-        en: Curaçao
-        fr: Curaçao
-        es: Curaçao
-    30:
-      geographic_area:
-        en: Cyprus
-        fr: Chypre
-        es: Chipre
-    31:
-      geographic_area:
-        en: Dem. Rep. of the Congo
-        fr: Rép. dém. du Congo
-        es: Rep. Dem. del Congo
-    32:
-      geographic_area:
-        en: Djibouti
-        fr: Djibouti
-        es: Djibouti
-    33:
-      geographic_area:
-        en: Dominica
-        fr: Dominique
-        es: Dominica
-    34:
-      geographic_area:
-        en: Ecuador
-        fr: Equateur
-        es: Ecuador
-    35:
-      geographic_area:
-        en: Egypt
-        fr: Egypte
-        es: Egipto
-    36:
-      geographic_area:
-        en: Eritrea
-        fr: Erythrée
-        es: Eritrea
-    37:
-      geographic_area:
-        en: Ethiopia
-        fr: Ethiopie
-        es: Etiopía
-    38:
-      geographic_area:
-        en: Fiji
-        fr: Fidji
-        es: Fiji
-    39:
-      geographic_area:
-        en: Gabon
-        fr: Gabon
-        es: Gabón
-    40:
-      geographic_area:
-        en: Gambia
-        fr: Gambie
-        es: Gambia
-    41:
-      geographic_area:
-        en: Ghana
-        fr: Ghana
-        es: Ghana
-    42:
-      geographic_area:
-        en: Guinea
-        fr: Guinée
-        es: Guinea
-    43:
-      geographic_area:
-        en: Guyana
-        fr: Guyana
-        es: Guyana
-    44:
-      geographic_area:
-        en: Haiti
-        fr: Haïti
-        es: Haití
-    45:
-      geographic_area:
-        en: Honduras
-        fr: Honduras
-        es: Honduras
-    46:
-      geographic_area:
-        en: Hungary
-        fr: Hongrie
-        es: Hungría
-    47:
-      geographic_area:
-        en: India
-        fr: Inde
-        es: India
-    48:
-      geographic_area:
-        en: Indonesia
-        fr: Indonésie
-        es: Indonesia
-    49:
-      geographic_area:
-        en: Iran (Islamic Republic of)
-        fr: Iran (République islamique d')
-        es: Irán (República Islámica del)
-    50:
-      geographic_area:
-        en: Ireland
-        fr: Irlande
-        es: Irlanda
-    51:
-      geographic_area:
-        en: Israel
-        fr: Israël
-        es: Israel
-    52:
-      geographic_area:
-        en: Jamaica
-        fr: Jamaïque
-        es: Jamaica
-    53:
-      geographic_area:
-        en: Jordan
-        fr: Jordanie
-        es: Jordania
-    54:
-      geographic_area:
-        en: Kazakhstan
-        fr: Kazakhstan
-        es: Kazajstán
-    55:
-      geographic_area:
-        en: Kenya
-        fr: Kenya
-        es: Kenya
-    56:
-      geographic_area:
-        en: Kiribati
-        fr: Kiribati
-        es: Kiribati
-    57:
-      geographic_area:
-        en: Kuwait
-        fr: Koweït
-        es: Kuwait
-    58:
-      geographic_area:
-        en: Kyrgyzstan
-        fr: Kirghizistan
-        es: Kirguistán
-    59:
-      geographic_area:
-        en: Latvia
-        fr: Lettonie
-        es: Letonia
-    60:
-      geographic_area:
-        en: Lebanon
-        fr: Liban
-        es: Líbano
-    61:
-      geographic_area:
-        en: Lesotho
-        fr: Lesotho
-        es: Lesotho
-    62:
-      geographic_area:
-        en: Macao (China)
-        fr: Macao (Chine)
-        es: Macao (China)
-    63:
-      geographic_area:
-        en: Madagascar
-        fr: Madagascar
-        es: Madagascar
-    64:
-      geographic_area:
-        en: Malawi
-        fr: Malawi
-        es: Malawi
-    65:
-      geographic_area:
-        en: Malaysia
-        fr: Malaisie
-        es: Malasia
-    66:
-      geographic_area:
-        en: Mali
-        fr: Mali
-        es: Malí
-    67:
-      geographic_area:
-        en: Mauritania
-        fr: Mauritanie
-        es: Mauritania
-    68:
-      geographic_area:
-        en: Mauritius
-        fr: Maurice
-        es: Mauricio
-    69:
-      geographic_area:
-        en: Mexico
-        fr: Mexique
-        es: México
-    70:
-      geographic_area:
-        en: Moldova
-        fr: Moldova
-        es: Moldova
-    71:
-      geographic_area:
-        en: Monaco
-        fr: Monaco
-        es: Mónaco
-    72:
-      geographic_area:
-        en: Morocco
-        fr: Maroc
-        es: Marruecos
-    73:
-      geographic_area:
-        en: Mozambique
-        fr: Mozambique
-        es: Mozambique
-    74:
-      geographic_area:
-        en: New Caledonia
-        fr: Nouvelle-Calédonie
-        es: Nueva Caledonia
-    75:
-      geographic_area:
-        en: Nicaragua
-        fr: Nicaragua
-        es: Nicaragua
-    76:
-      geographic_area:
-        en: Niger
-        fr: Niger
-        es: Níger
-    77:
-      geographic_area:
-        en: Nigeria
-        fr: Nigéria
-        es: Nigeria
-    78:
-      geographic_area:
-        en: Oman
-        fr: Oman
-        es: Omán
-    79:
-      geographic_area:
-        en: Pakistan
-        fr: Pakistan
-        es: Pakistán
-    80:
-      geographic_area:
-        en: Panama
-        fr: Panama
-        es: Panamá
-    81:
-      geographic_area:
-        en: Papua New Guinea
-        fr: Papouasie-Nouvelle-Guinée
-        es: Papua Nueva Guinea
-    82:
-      geographic_area:
-        en: Paraguay
-        fr: Paraguay
-        es: Paraguay
-    83:
-      geographic_area:
-        en: Peru
-        fr: Pérou
-        es: Perú
-    84:
-      geographic_area:
-        en: Philippines
-        fr: Philippines
-        es: Filipinas
-    85:
-      geographic_area:
-        en: Poland
-        fr: Pologne
-        es: Polonia
-    86:
-      geographic_area:
-        en: Qatar
-        fr: Qatar
-        es: Qatar
-    87:
-      geographic_area:
-        en: Romania
-        fr: Roumanie
-        es: Rumania
-    88:
-      geographic_area:
-        en: Samoa
-        fr: Samoa
-        es: Samoa
-    89:
-      geographic_area:
-        en: San Marino
-        fr: Saint-Marin
-        es: San Marino
-    90:
-      geographic_area:
-        en: Saudi Arabia
-        fr: Arabie saoudite
-        es: Arabia Saudita
-    91:
-      geographic_area:
-        en: Seychelles
-        fr: Seychelles
-        es: Seychelles
-    92:
-      geographic_area:
-        en: Sint Maarten (Dutch part)
-        fr: Sint Maarten
-        es: Sint Maarten
-    93:
-      geographic_area:
-        en: Slovakia
-        fr: Slovaquie
-        es: Eslovaquia
-    94:
-      geographic_area:
-        en: South Africa
-        fr: Sudafricaine (Rép.)
-        es: Sudafricana (Rep.)
-    95:
-      geographic_area:
-        en: Sri Lanka
-        fr: Sri Lanka
-        es: Sri Lanka
-    96:
-      geographic_area:
-        en: Sudan
-        fr: Soudan
-        es: Sudán
-    97:
-      geographic_area:
-        en: Suriname
-        fr: Suriname
-        es: Suriname
-    98:
-      geographic_area:
-        en: Syrian Arab Republic
-        fr: République arabe syrienne
-        es: República Árabe Siria
-    99:
-      geographic_area:
-        en: Tanzania
-        fr: Tanzanie
-        es: Tanzanía
-    100:
-      geographic_area:
-        en: Thailand
-        fr: Thaïlande
-        es: Tailandia
-    101:
-      geographic_area:
-        en: The Former Yugoslav Republic of Macedonia
-        fr: L'ex-République yougoslave de Macédoine
-        es: La ex República Yugoslava de Macedonia
-    102:
-      geographic_area:
-        en: Tonga
-        fr: Tonga
-        es: Tonga
-    103:
-      geographic_area:
-        en: Trinidad and Tobago
-        fr: Trinidad-et-Tobago
-        es: Trinidad y Tabago
-    104:
-      geographic_area:
-        en: Tunisia
-        fr: Tunisie
-        es: Túnez
-    105:
-      geographic_area:
-        en: Turkey
-        fr: Turquie
-        es: Turquía
-    106:
-      geographic_area:
-        en: Tuvalu
-        fr: Tuvalu
-        es: Tuvalu
-    107:
-      geographic_area:
-        en: Uganda
-        fr: Ouganda
-        es: Uganda
-    108:
-      geographic_area:
-        en: Ukraine
-        fr: Ukraine
-        es: Ucrania
-    109:
-      geographic_area:
-        en: United Arab Emirates
-        fr: Emirats arabes unis
-        es: Emiratos Árabes Unidos
-    110:
-      geographic_area:
-        en: Vanuatu
-    111:
-      geographic_area:
-        en: Venezuela
-        fr: Venezuela
-        es: Venezuela
-    112:
-      geographic_area:
-        en: Viet Nam
-        fr: Viet Nam
-        es: Viet Nam
-    113:
-      geographic_area:
-        en: Wallis and Futuna
-        fr: Wallis et Futuna
-        es: Wallis y Futuna
-    114:
-      geographic_area:
-        en: Yemen
-        fr: Yémen
-        es: Yemen
-    115:
-      geographic_area:
-        en: Zambia
-        fr: Zambie
-        es: Zambia
-    116:
-      geographic_area:
-        en: Zimbabwe
-        fr: Zimbabwe
-        es: Zimbabwe
-    117:
-      geographic_area:
-        fr: Bulgarie
-    118:
-      geographic_area:
-        es: Lituania
+  '1':
+    number: 1
+    geographic_area:
+      en: Afghanistan
+      fr: Afghanistan
+      es: Afganistán
+  '2':
+    number: 2
+    geographic_area:
+      en: Albania
+      fr: Albanie
+      es: Albania
+  '3':
+    number: 3
+    geographic_area:
+      en: Algeria
+      fr: Algérie
+      es: Argelia
+  '4':
+    number: 4
+    geographic_area:
+      en: Armenia
+      fr: Arménie
+      es: Armenia
+  '5':
+    number: 5
+    geographic_area:
+      en: Azerbaijan
+      fr: Azerbaïdjan
+      es: Azerbaiyán
+  '6':
+    number: 6
+    geographic_area:
+      en: Bahamas
+      fr: Bahreïn
+      es: Bahrein
+  '7':
+    number: 7
+    geographic_area:
+      en: Bahrain
+      fr: Bahamas
+      es: Bahamas
+  '8':
+    number: 8
+    geographic_area:
+      en: Belarus
+      fr: Bélarus
+      es: Belarús
+  '9':
+    number: 9
+    geographic_area:
+      en: Belize
+      fr: Belize
+      es: Belice
+  '10':
+    number: 10
+    geographic_area:
+      en: Benin
+      fr: Bénin
+      es: Benin
+  '11':
+    number: 11
+    geographic_area:
+      en: Bhutan
+      fr: Bhoutan
+      es: Bután
+  '12':
+    number: 12
+    geographic_area:
+      en: Bonaire, Saint Eustatius and Saba
+      fr: Bonaire, Saint Eustatius et Saba
+      es: Bonaire, San Eustatius y Saba
+  '13':
+    number: 13
+    geographic_area:
+      en: Bosnia and Herzegovina
+      fr: Bosnie-Herzégovine
+      es: Bosnia y Herzegovina
+  '14':
+    number: 14
+    geographic_area:
+      en: Brazil
+      fr: Brésil
+      es: Brasil
+  '15':
+    number: 15
+    geographic_area:
+      en: Brunei Darussalam
+      fr: Brunéi Darussalam
+      es: Brunei Darussalam
+  '16':
+    number: 16
+    geographic_area:
+      en: Burkina Faso
+      fr: Burkina Faso
+      es: Burkina Faso
+  '17':
+    number: 17
+    geographic_area:
+      en: Burundi
+      fr: Burundi
+      es: Burundi
+  '18':
+    number: 18
+    geographic_area:
+      en: Cambodia
+      fr: Cambodge
+      es: Camboya
+  '19':
+    number: 19
+    geographic_area:
+      en: Cameroon
+      fr: Cameroun
+      es: Camerún
+  '20':
+    number: 20
+    geographic_area:
+      en: Central African Rep.
+      fr: Centrafricaine (Rép.)
+      es: Centroafricana
+  '21':
+    number: 21
+    geographic_area:
+      en: Chad
+      fr: Tchad
+      es: Chad
+  '22':
+    number: 22
+    geographic_area:
+      en: China
+      fr: Chine
+      es: China
+  '23':
+    number: 23
+    geographic_area:
+      en: Colombia
+      fr: Colombie
+      es: Colombia
+  '24':
+    number: 24
+    geographic_area:
+      en: Comoros
+      fr: Comores
+      es: Comoras
+  '25':
+    number: 25
+    geographic_area:
+      en: Cook Islands
+      fr: Cook (Îles)
+      es: Cook (Islas)
+  '26':
+    number: 26
+    geographic_area:
+      en: Costa Rica
+      fr: Costa Rica
+      es: Costa Rica
+  '27':
+    number: 27
+    geographic_area:
+      en: Côte d'Ivoire
+      fr: Côte d'Ivoire
+      es: Côte d'Ivoire
+  '28':
+    number: 28
+    geographic_area:
+      en: Cuba
+      fr: Cuba
+      es: Cuba
+  '29':
+    number: 29
+    geographic_area:
+      en: Curaçao
+      fr: Curaçao
+      es: Curaçao
+  '30':
+    number: 30
+    geographic_area:
+      en: Cyprus
+      fr: Chypre
+      es: Chipre
+  '31':
+    number: 31
+    geographic_area:
+      en: Dem. Rep. of the Congo
+      fr: Rép. dém. du Congo
+      es: Rep. Dem. del Congo
+  '32':
+    number: 32
+    geographic_area:
+      en: Djibouti
+      fr: Djibouti
+      es: Djibouti
+  '33':
+    number: 33
+    geographic_area:
+      en: Dominica
+      fr: Dominique
+      es: Dominica
+  '34':
+    number: 34
+    geographic_area:
+      en: Ecuador
+      fr: Equateur
+      es: Ecuador
+  '35':
+    number: 35
+    geographic_area:
+      en: Egypt
+      fr: Egypte
+      es: Egipto
+  '36':
+    number: 36
+    geographic_area:
+      en: Eritrea
+      fr: Erythrée
+      es: Eritrea
+  '37':
+    number: 37
+    geographic_area:
+      en: Ethiopia
+      fr: Ethiopie
+      es: Etiopía
+  '38':
+    number: 38
+    geographic_area:
+      en: Fiji
+      fr: Fidji
+      es: Fiji
+  '39':
+    number: 39
+    geographic_area:
+      en: Gabon
+      fr: Gabon
+      es: Gabón
+  '40':
+    number: 40
+    geographic_area:
+      en: Gambia
+      fr: Gambie
+      es: Gambia
+  '41':
+    number: 41
+    geographic_area:
+      en: Ghana
+      fr: Ghana
+      es: Ghana
+  '42':
+    number: 42
+    geographic_area:
+      en: Guinea
+      fr: Guinée
+      es: Guinea
+  '43':
+    number: 43
+    geographic_area:
+      en: Guyana
+      fr: Guyana
+      es: Guyana
+  '44':
+    number: 44
+    geographic_area:
+      en: Haiti
+      fr: Haïti
+      es: Haití
+  '45':
+    number: 45
+    geographic_area:
+      en: Honduras
+      fr: Honduras
+      es: Honduras
+  '46':
+    number: 46
+    geographic_area:
+      en: Hungary
+      fr: Hongrie
+      es: Hungría
+  '47':
+    number: 47
+    geographic_area:
+      en: India
+      fr: Inde
+      es: India
+  '48':
+    number: 48
+    geographic_area:
+      en: Indonesia
+      fr: Indonésie
+      es: Indonesia
+  '49':
+    number: 49
+    geographic_area:
+      en: Iran (Islamic Republic of)
+      fr: Iran (République islamique d')
+      es: Irán (República Islámica del)
+  '50':
+    number: 50
+    geographic_area:
+      en: Ireland
+      fr: Irlande
+      es: Irlanda
+  '51':
+    number: 51
+    geographic_area:
+      en: Israel
+      fr: Israël
+      es: Israel
+  '52':
+    number: 52
+    geographic_area:
+      en: Jamaica
+      fr: Jamaïque
+      es: Jamaica
+  '53':
+    number: 53
+    geographic_area:
+      en: Jordan
+      fr: Jordanie
+      es: Jordania
+  '54':
+    number: 54
+    geographic_area:
+      en: Kazakhstan
+      fr: Kazakhstan
+      es: Kazajstán
+  '55':
+    number: 55
+    geographic_area:
+      en: Kenya
+      fr: Kenya
+      es: Kenya
+  '56':
+    number: 56
+    geographic_area:
+      en: Kiribati
+      fr: Kiribati
+      es: Kiribati
+  '57':
+    number: 57
+    geographic_area:
+      en: Kuwait
+      fr: Koweït
+      es: Kuwait
+  '58':
+    number: 58
+    geographic_area:
+      en: Kyrgyzstan
+      fr: Kirghizistan
+      es: Kirguistán
+  '59':
+    number: 59
+    geographic_area:
+      en: Latvia
+      fr: Lettonie
+      es: Letonia
+  '60':
+    number: 60
+    geographic_area:
+      en: Lebanon
+      fr: Liban
+      es: Líbano
+  '61':
+    number: 61
+    geographic_area:
+      en: Lesotho
+      fr: Lesotho
+      es: Lesotho
+  '62':
+    number: 62
+    geographic_area:
+      en: Macao (China)
+      fr: Macao (Chine)
+      es: Macao (China)
+  '63':
+    number: 63
+    geographic_area:
+      en: Madagascar
+      fr: Madagascar
+      es: Madagascar
+  '64':
+    number: 64
+    geographic_area:
+      en: Malawi
+      fr: Malawi
+      es: Malawi
+  '65':
+    number: 65
+    geographic_area:
+      en: Malaysia
+      fr: Malaisie
+      es: Malasia
+  '66':
+    number: 66
+    geographic_area:
+      en: Mali
+      fr: Mali
+      es: Malí
+  '67':
+    number: 67
+    geographic_area:
+      en: Mauritania
+      fr: Mauritanie
+      es: Mauritania
+  '68':
+    number: 68
+    geographic_area:
+      en: Mauritius
+      fr: Maurice
+      es: Mauricio
+  '69':
+    number: 69
+    geographic_area:
+      en: Mexico
+      fr: Mexique
+      es: México
+  '70':
+    number: 70
+    geographic_area:
+      en: Moldova
+      fr: Moldova
+      es: Moldova
+  '71':
+    number: 71
+    geographic_area:
+      en: Monaco
+      fr: Monaco
+      es: Mónaco
+  '72':
+    number: 72
+    geographic_area:
+      en: Morocco
+      fr: Maroc
+      es: Marruecos
+  '73':
+    number: 73
+    geographic_area:
+      en: Mozambique
+      fr: Mozambique
+      es: Mozambique
+  '74':
+    number: 74
+    geographic_area:
+      en: New Caledonia
+      fr: Nouvelle-Calédonie
+      es: Nueva Caledonia
+  '75':
+    number: 75
+    geographic_area:
+      en: Nicaragua
+      fr: Nicaragua
+      es: Nicaragua
+  '76':
+    number: 76
+    geographic_area:
+      en: Niger
+      fr: Niger
+      es: Níger
+  '77':
+    number: 77
+    geographic_area:
+      en: Nigeria
+      fr: Nigéria
+      es: Nigeria
+  '78':
+    number: 78
+    geographic_area:
+      en: Oman
+      fr: Oman
+      es: Omán
+  '79':
+    number: 79
+    geographic_area:
+      en: Pakistan
+      fr: Pakistan
+      es: Pakistán
+  '80':
+    number: 80
+    geographic_area:
+      en: Panama
+      fr: Panama
+      es: Panamá
+  '81':
+    number: 81
+    geographic_area:
+      en: Papua New Guinea
+      fr: Papouasie-Nouvelle-Guinée
+      es: Papua Nueva Guinea
+  '82':
+    number: 82
+    geographic_area:
+      en: Paraguay
+      fr: Paraguay
+      es: Paraguay
+  '83':
+    number: 83
+    geographic_area:
+      en: Peru
+      fr: Pérou
+      es: Perú
+  '84':
+    number: 84
+    geographic_area:
+      en: Philippines
+      fr: Philippines
+      es: Filipinas
+  '85':
+    number: 85
+    geographic_area:
+      en: Poland
+      fr: Pologne
+      es: Polonia
+  '86':
+    number: 86
+    geographic_area:
+      en: Qatar
+      fr: Qatar
+      es: Qatar
+  '87':
+    number: 87
+    geographic_area:
+      en: Romania
+      fr: Roumanie
+      es: Rumania
+  '88':
+    number: 88
+    geographic_area:
+      en: Samoa
+      fr: Samoa
+      es: Samoa
+  '89':
+    number: 89
+    geographic_area:
+      en: San Marino
+      fr: Saint-Marin
+      es: San Marino
+  '90':
+    number: 90
+    geographic_area:
+      en: Saudi Arabia
+      fr: Arabie saoudite
+      es: Arabia Saudita
+  '91':
+    number: 91
+    geographic_area:
+      en: Seychelles
+      fr: Seychelles
+      es: Seychelles
+  '92':
+    number: 92
+    geographic_area:
+      en: Sint Maarten (Dutch part)
+      fr: Sint Maarten
+      es: Sint Maarten
+  '93':
+    number: 93
+    geographic_area:
+      en: Slovakia
+      fr: Slovaquie
+      es: Eslovaquia
+  '94':
+    number: 94
+    geographic_area:
+      en: South Africa
+      fr: Sudafricaine (Rép.)
+      es: Sudafricana (Rep.)
+  '95':
+    number: 95
+    geographic_area:
+      en: Sri Lanka
+      fr: Sri Lanka
+      es: Sri Lanka
+  '96':
+    number: 96
+    geographic_area:
+      en: Sudan
+      fr: Soudan
+      es: Sudán
+  '97':
+    number: 97
+    geographic_area:
+      en: Suriname
+      fr: Suriname
+      es: Suriname
+  '98':
+    number: 98
+    geographic_area:
+      en: Syrian Arab Republic
+      fr: République arabe syrienne
+      es: República Árabe Siria
+  '99':
+    number: 99
+    geographic_area:
+      en: Tanzania
+      fr: Tanzanie
+      es: Tanzanía
+  '100':
+    number: 100
+    geographic_area:
+      en: Thailand
+      fr: Thaïlande
+      es: Tailandia
+  '101':
+    number: 101
+    geographic_area:
+      en: The Former Yugoslav Republic of Macedonia
+      fr: L'ex-République yougoslave de Macédoine
+      es: La ex República Yugoslava de Macedonia
+  '102':
+    number: 102
+    geographic_area:
+      en: Tonga
+      fr: Tonga
+      es: Tonga
+  '103':
+    number: 103
+    geographic_area:
+      en: Trinidad and Tobago
+      fr: Trinidad-et-Tobago
+      es: Trinidad y Tabago
+  '104':
+    number: 104
+    geographic_area:
+      en: Tunisia
+      fr: Tunisie
+      es: Túnez
+  '105':
+    number: 105
+    geographic_area:
+      en: Turkey
+      fr: Turquie
+      es: Turquía
+  '106':
+    number: 106
+    geographic_area:
+      en: Tuvalu
+      fr: Tuvalu
+      es: Tuvalu
+  '107':
+    number: 107
+    geographic_area:
+      en: Uganda
+      fr: Ouganda
+      es: Uganda
+  '108':
+    number: 108
+    geographic_area:
+      en: Ukraine
+      fr: Ukraine
+      es: Ucrania
+  '109':
+    number: 109
+    geographic_area:
+      en: United Arab Emirates
+      fr: Emirats arabes unis
+      es: Emiratos Árabes Unidos
+  '110':
+    number: 110
+    geographic_area:
+      en: Vanuatu
+  '111':
+    number: 111
+    geographic_area:
+      en: Venezuela
+      fr: Venezuela
+      es: Venezuela
+  '112':
+    number: 112
+    geographic_area:
+      en: Viet Nam
+      fr: Viet Nam
+      es: Viet Nam
+  '113':
+    number: 113
+    geographic_area:
+      en: Wallis and Futuna
+      fr: Wallis et Futuna
+      es: Wallis y Futuna
+  '114':
+    number: 114
+    geographic_area:
+      en: Yemen
+      fr: Yémen
+      es: Yemen
+  '115':
+    number: 115
+    geographic_area:
+      en: Zambia
+      fr: Zambie
+      es: Zambia
+  '116':
+    number: 116
+    geographic_area:
+      en: Zimbabwe
+      fr: Zimbabwe
+      es: Zimbabwe
+  '117':
+    number: 117
+    geographic_area:
+      fr: Bulgarie
+  '118':
+    number: 118
+    geographic_area:
+      es: Lituania

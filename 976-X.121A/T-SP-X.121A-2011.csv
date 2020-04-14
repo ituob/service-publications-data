@@ -9,264 +9,264 @@ spare_codes.zone5,75,,,,
 spare_codes.zone6,46,,,,
 spare_codes.zone7,79,,,,
 ,,,,,
-DATA,,,,,
-zone,code,reserved,country_or_area.en,country_or_area.fr,country_or_area.es
-2,202,,Greece,Grèce,Grecia
-2,204,,Netherlands (Kingdom of the),Pays-Bas (Royaume des),Países Bajos (Reino de los)
-2,205,,Netherlands (Kingdom of the),Pays-Bas (Royaume des),Países Bajos (Reino de los)
-2,206,,Belgium,Belgique,Bélgica
-2,208,,France,France,Francia
-2,209,,France,France,Francia
-2,210,,France,France,Francia
-2,211,,France,France,Francia
-2,212,,Monaco (Principality of),Monaco (Principauté de),Mónaco (Principado de)
-2,213,,Andorra (Principality of),Andorre (Principauté d'),Andorra (Principado de)
-2,214,,Spain,Espagne,España
-2,215,,Spain,Espagne,España
-2,216,,Hungary (Republic of),Hongrie (République de),Hungría (República de)
-2,218,,Bosnia and Herzegovina,Bosnie-Herzégovine,Bosnia y Herzegovina
-2,219,,Croatia (Republic of),Croatie (République de),Croacia (República de)
-2,220,,Serbia (Republic of),Serbie (République de),Serbia (República de)
-2,222,,Italy,Italie,Italia
-2,223,,Italy,Italie,Italia
-2,224,,Italy,Italie,Italia
-2,225,,Vatican City State,Cité du Vatican (Etat de la),Ciudad del Vaticano (Estado de la)
-2,226,,Romania,Roumanie,Rumania
-2,228,,Switzerland (Confederation of),Suisse (Confédération),Suiza (Confederación)
-2,229,,Switzerland (Confederation of),Suisse (Confédération),Suiza (Confederación)
-2,230,,Czech Republic,République tchèque,República Checa
-2,231,,Slovak Republic,République slovaque,República Eslovaca
-2,232,,Austria,Autriche,Austria
-2,233,,Austria,Autriche,Austria
-2,234,,United Kingdom of Great Britain and Northern Ireland,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,Reino Unido de Gran Bretaña e Irlanda del Norte
-2,235,,United Kingdom of Great Britain and Northern Ireland,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,Reino Unido de Gran Bretaña e Irlanda del Norte
-2,236,,United Kingdom of Great Britain and Northern Ireland,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,Reino Unido de Gran Bretaña e Irlanda del Norte
-2,237,,United Kingdom of Great Britain and Northern Ireland,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,Reino Unido de Gran Bretaña e Irlanda del Norte
-2,238,,Denmark,Danemark,Dinamarca
-2,239,,Denmark,Danemark,Dinamarca
-2,240,,Sweden,Suède,Suecia
-2,242,,Norway,Norvège,Noruega
-2,243,,Norway,Norvège,Noruega
-2,244,,Finland,Finlande,Finlandia
-2,246,,Lithuania (Republic of),Lituanie (République de),Lituania (República de)
-2,247,,Latvia (Republic of),Lettonie (République de),Letonia (República de)
-2,248,,Estonia (Republic of),Estonie (République d'),Estonia (República de)
-2,250,,Russian Federation,Fédération de Russie,Federación de Rusia
-2,251,,Russian Federation,Fédération de Russie,Federación de Rusia
-2,255,,Ukraine,Ukraine,Ucrania
-2,257,,Belarus (Republic of),Bélarus (République du),Belarús (República de)
-2,259,,Moldova (Republic of),Moldova (République de),Moldova (República de)
-2,260,,Poland (Republic of),Pologne (République de),Polonia (República de)
-2,261,,Poland (Republic of),Pologne (République de),Polonia (República de)
-2,262,,Germany (Federal Republic of),Allemagne (République fédérale d'),Alemania (República Federal de)
-2,263,,Germany (Federal Republic of),Allemagne (République fédérale d'),Alemania (República Federal de)
-2,264,,Germany (Federal Republic of),Allemagne (République fédérale d'),Alemania (República Federal de)
-2,265,,Germany (Federal Republic of),Allemagne (République fédérale d'),Alemania (República Federal de)
-2,266,,Gibraltar,Gibraltar,Gibraltar
-2,268,,Portugal,Portugal,Portugal
-2,269,,Portugal,Portugal,Portugal
-2,270,,Luxembourg,Luxembourg,Luxemburgo
-2,272,,Ireland,Irlande,Irlanda
-2,274,,Iceland,Islande,Islandia
-2,276,,Albania (Republic of),Albanie (République d'),Albania (República de)
-2,278,,Malta,Malte,Malta
-2,280,,Cyprus (Republic of),Chypre (République de),Chipre (República de)
-2,282,,Georgia,Géorgie,Georgia
-2,283,,Armenia (Republic of),Arménie (République d'),Armenia (República de)
-2,284,,Bulgaria (Republic of),Bulgarie (République de),Bulgaria (República de)
-2,286,,Turkey,Turquie,Turquía
-2,288,,Faroe Islands,Féroé (Iles),Feroe (Islas)
-2,290,,Greenland,Groenland,Groenlandia
-2,292,,San Marino (Republic of),Saint-Marin (République de),San Marino (República de)
-2,293,,Slovenia (Republic of),Slovénie (République de),Eslovenia (República de)
-2,294,,The Former Yugoslav Republic of Macedonia,L'ex-République yougoslave de Macédoine,La ex República Yugoslava de Macedonia
-2,295,,Liechtenstein (Principality of),Liechtenstein (Principauté de),Liechtenstein (Principado de)
-2,297,,Montenegro (Republic of),Monténégro (République du),Montenegro (República de)
-3,302,,Canada,Canada,Canadá
-3,303,,Canada,Canada,Canadá
-3,308,,Saint Pierre and Miquelon (Collectivité territoriale de la République française),Saint-Pierre-et-Miquelon (Collectivité territoriale de la République française),San Pedro y Miquelón (Colectividad territorial de la República Francesa)
-3,310,,United States of America,Etats-Unis d'Amérique,Estados Unidos de América
-3,311,,United States of America,Etats-Unis d'Amérique,Estados Unidos de América
-3,312,,United States of America,Etats-Unis d'Amérique,Estados Unidos de América
-3,313,,United States of America,Etats-Unis d'Amérique,Estados Unidos de América
-3,314,,United States of America,Etats-Unis d'Amérique,Estados Unidos de América
-3,315,,United States of America,Etats-Unis d'Amérique,Estados Unidos de América
-3,316,,United States of America,Etats-Unis d'Amérique,Estados Unidos de América
-3,330,,Puerto Rico,Puerto Rico,Puerto Rico
-3,332,,United States Virgin Islands,Vierges américaines (Iles),Vírgenes Americanas (Islas)
-3,334,,Mexico,Mexique,México
-3,335,,Mexico,Mexique,México
-3,338,,Jamaica,Jamaïque,Jamaica
-3,340,,Guadeloupe (French Department of),Guadeloupe (Département français de la) ,Guadalupe (Departamento Francés de la) 
-3,340,,Martinique (French Department of),Martinique (Département français de la),Martinica (Departamento Francés de la)
-3,342,,Barbados,Barbade,Barbados
-3,344,,Antigua and Barbuda,Antigua-et-Barbuda,Antigua y Barbuda
-3,346,,Cayman Islands,Cayman (Iles),Caimanes (Islas)
-3,348,,British Virgin Islands,Vierges britanniques (Iles),Vírgenes Británicas (Islas)
-3,350,,Bermuda,Bermudes,Bermudas 
-3,352,,Grenada,Grenade,Granada
-3,354,,Montserrat,Montserrat,Montserrat
-3,356,,Saint Kitts and Nevis,Saint-Kitts-et-Nevis,San Kitts y Nevis
-3,358,,Saint Lucia,Sainte-Lucie,Santa Lucía
-3,360,,Saint Vincent and the Grenadines,Saint-Vincent-et-Grenadines,San Vicente y las Granadinas
-3,362,,Curaçao,Curaçao,Curaçao
-3,363,,Aruba,Aruba,Aruba
-3,364,,Bahamas (Commonwealth of the),Bahamas (Commonwealth des),Bahamas (Commonwealth de las)
-3,365,,Anguilla,Anguilla,Anguilla 
-3,366,,Dominica (Commonwealth of),Dominique (Commonwealth de la),Dominica (Commonwealth de)
-3,368,,Cuba,Cuba,Cuba
-3,370,,Dominican Republic,Dominicaine (République),Dominicana (República)
-3,372,,Haiti (Republic of),Haïti (République d'),Haití (República de)
-3,374,,Trinidad and Tobago,Trinité-et-Tobago,Trinidad y Tabago
-3,376,,Turks and Caicos Islands,Turks et Caïques (Iles),Turquesas y Caicos (Islas)
-4,400,,Azerbaijani Republic,Azerbaïdjanaise (République),Azerbaiyana (República)
-4,401,,Kazakhstan (Republic of),Kazakhstan (République du),Kazajstán (República de)
-4,404,,India (Republic of),Inde (République de l'),India (República de la)
-4,410,,Pakistan (Islamic Republic of),Pakistan (République islamique du),Pakistán (República Islámica del)
-4,411,,Pakistan (Islamic Republic of),Pakistan (République islamique du),Pakistán (República Islámica del)
-4,412,,Afghanistan,Afghanistan,Afganistán
-4,413,,Sri Lanka (Democratic Socialist Republic of),Sri Lanka (République socialiste démocratique de),Sri Lanka (República Socialista Democrática de)
-4,414,,Myanmar (Union of),Myanmar (Union de),Myanmar (Unión de)
-4,415,,Lebanon,Liban,Líbano
-4,416,,Jordan (Hashemite Kingdom of),Jordanie (Royaume hachémite de),Jordania (Reino Hachemita de)
-4,417,,Syrian Arab Republic,République arabe syrienne,República Árabe Siria
-4,418,,Iraq (Republic of),Iraq (République d'),Iraq (República del)
-4,419,,Kuwait (State of),Koweït (Etat du),Kuwait (Estado de)
-4,420,,Saudi Arabia (Kingdom of),Arabie saoudite (Royaume d'),Arabia Saudita (Reino de)
-4,421,,Yemen (Republic of),Yémen (République du),Yemen (República del)
-4,422,,Oman (Sultanate of),Oman (Sultanat d'),Omán (Sultanía de)
-4,423,TRUE,Reserved for the Palestinian Authority,Réservé pour l’Autorité palestinienne ,Reservado para la Autoridad Palestina 
-4,424,,United Arab Emirates,Emirats arabes unis,Emiratos Arabes Unidos
-4,425,,Israel (State of),Israël (Etat d'),Israel (Estado de)
-4,426,,Bahrain (Kingdom of),Bahreïn (Royaume de),Bahrein (Reino de)
-4,427,,Qatar (State of),Qatar (Etat du),Qatar (Estado de)
-4,428,,Mongolia,Mongolie,Mongolia
-4,429,,Nepal,Népal,Nepal
-4,430,,United Arab Emirates (Abu Dhabi),Emirats arabes unis (Abu Dhabi),Emiratos Arabes Unidos (Abu Dhabi)
-4,431,,United Arab Emirates (Dubai),Emirats arabes unis (Dubai),Emiratos Arabes Unidos (Dubai)
-4,432,,Iran (Islamic Republic of),Iran (République islamique d'),Irán (República Islámica del)
-4,434,,Uzbekistan (Republic of),Ouzbékistan (République d'),Uzbekistán (República de)
-4,436,,Tajikistan (Republic of),Tadjikistan (République du),Tayikistán (República de)
-4,437,,Kyrgyz Republic,République kirghize,República Kirguisa
-4,438,,Turkmenistan,Turkménistan,Turkmenistán
-4,440,,Japan,Japon,Japón
-4,441,,Japan,Japon,Japón
-4,442,,Japan,Japon,Japón
-4,443,,Japan,Japon,Japón
-4,450,,Korea (Republic of),Corée (République de),Corea (República de)
-4,452,,Viet Nam (Socialist Republic of),Viet Nam (République socialiste du),Viet Nam (República Socialista de)
-4,453,,"Hong Kong, China","Hong Kong, Chine","Hong Kong, China"
-4,454,,"Hong Kong, China","Hong Kong, Chine","Hong Kong, China"
-4,455,,"Macau, China","Macao, Chine","Macao, China"
-4,456,,Cambodia (Kingdom of),Cambodge (Royaume du),Camboya (Reino de)
-4,457,,Lao People's Democratic Republic,Lao (République démocratique populaire),Lao (República Democrática Popular)
-4,460,,China (People's Republic of),Chine (République populaire de),China (República Popular de)
-4,466,,"Taiwan, China","Taïwan, Chine","Taiwan, China"
-4,467,,Democratic People's Republic of Korea,République populaire démocratique de Corée,República Popular Democrática de Corea
-4,470,,Bangladesh (People's Republic of),Bangladesh (République populaire du),Bangladesh (República Popular de)
-4,472,,Maldives (Republic of),Maldives (République des),Maldivas (República de)
-4,480,,Korea (Republic of),Corée (République de),Corea (República de)
-4,481,,Korea (Republic of),Corée (République de),Corea (República de)
-5,502,,Malaysia,Malaisie,Malasia
-5,505,,Australia,Australie,Australia
-5,510,,Indonesia (Republic of),Indonésie (République d'),Indonesia (República de)
-5,515,,Philippines (Republic of the),Philippines (République des),Filipinas (República de)
-5,520,,Thailand,Thaïlande,Tailandia
-5,525,,Singapore (Republic of),Singapour (République de),Singapur (República de)
-5,526,,Singapore (Republic of),Singapour (République de),Singapur (República de)
-5,528,,Brunei Darussalam,Brunéi Darussalam,Brunei Darussalam
-5,530,,New Zealand,Nouvelle-Zélande,Nueva Zelandia
-5,534,,Northern Mariana Islands (Commonwealth of the),Mariannes du Nord (Iles) (Commonwealth des),Marianas del Norte (Islas) (Commonwealth de las)
-5,535,,Guam,Guam,Guam
-5,536,,Nauru (Republic of),Nauru (République de),Nauru (República de)
-5,537,,Papua New Guinea,Papouasie-Nouvelle-Guinée,Papua Nueva Guinea
-5,539,,Tonga (Kingdom of),Tonga (Royaume des),Tonga (Reino de)
-5,540,,Solomon Islands,Salomon (Iles),Salomón (Islas)
-5,541,,Vanuatu (Republic of),Vanuatu (République de),Vanuatu (República de)
-5,542,,Fiji (Republic of),Fidji (République de),Fiji (República de)
-5,543,,Wallis and Futuna (French Overseas Territory),Wallis-et-Futuna (Territoire français d'outre-mer),Wallis y Futuna (Territorio Francés de Ultramar)
-5,544,,American Samoa,Samoa américaines,Samoa Norteamericanas
-5,545,,Kiribati (Republic of),Kiribati (République de),Kiribati (República de)
-5,546,,New Caledonia (French Overseas Territory),Nouvelle-Calédonie (Territoire français d'outre-mer),Nueva Caledonia (Territorio Francés de Ultramar)
-5,547,,French Polynesia (French Overseas Territory),Polynésie française (Territoire français d'outre-mer),Polinesia Francesa (Territorio Francés de Ultramar)
-5,548,,Cook Islands,Cook (Iles),Cook (Islas)
-5,549,,Samoa (Independent State of),Samoa (Etat indépendant du),Samoa (Estado Independiente de)
-5,550,,Micronesia (Federated States of),Micronésie (Etats fédérés de),Micronesia (Estados Federados de)
-6,602,,Egypt (Arab Republic of),Egypte (République arabe d'),Egipto (República Arabe de)
-6,603,,Algeria (People's Democratic Republic of),Algérie (République algérienne démocratique et populaire),Argelia (República Argelina Democrática y Popular)
-6,604,,Morocco (Kingdom of),Maroc (Royaume du),Marruecos (Reino de)
-6,605,,Tunisia,Tunisie,Túnez
-6,606,,Socialist People's Libyan Arab Jamahiriya,Jamahiriya arabe libyenne populaire et socialiste,Jamahiriya Árabe Libia Popular y Socialista
-6,607,,Gambia (Republic of the),Gambie (République de),Gambia (República de)
-6,608,,Senegal (Republic of),Sénégal (République du),Senegal (República del)
-6,609,,Mauritania (Islamic Republic of),Mauritanie (République islamique de),Mauritania (República Islámica de)
-6,610,,Mali (Republic of),Mali (République du),Malí (República de)
-6,611,,Guinea (Republic of),Guinée (République de),Guinea (República de)
-6,612,,Côte d'Ivoire (Republic of),Côte d'Ivoire (République de),Côte d'Ivoire (República de)
-6,613,,Burkina Faso,Burkina Faso,Burkina Faso
-6,614,,Niger (Republic of the),Niger (République du),Níger (República del)
-6,615,,Togolese Republic,Togolaise (République),Togolesa (República)
-6,616,,Benin (Republic of),Bénin (République du),Benin (República de)
-6,617,,Mauritius (Republic of),Maurice (République de),Mauricio (República de)
-6,618,,Liberia (Republic of),Libéria (République du),Liberia (República de)
-6,619,,Sierra Leone,Sierra Leone,Sierra Leona
-6,620,,Ghana,Ghana,Ghana
-6,621,,Nigeria (Federal Republic of),Nigéria (République fédérale du),Nigeria (República Federal de)
-6,622,,Chad (Republic of),Tchad (République du),Chad (República del)
-6,623,,Central African Republic,Centrafricaine (République),Centroafricana (República)
-6,624,,Cameroon (Republic of),Cameroun (République du),Camerún (República de)
-6,625,,Cape Verde (Republic of),Cap-Vert (République du),Cabo Verde (República de)
-6,626,,Sao Tome and Principe (Democratic Republic of),Sao Tomé-et-Principe (République démocratique de),Santo Tomé y Príncipe (República Democrática de)
-6,627,,Equatorial Guinea (Republic of),Guinée équatoriale (République de),Guinea Ecuatorial (República de)
-6,628,,Gabonese Republic,Gabonaise (République),Gabonesa (República)
-6,629,,Congo (Republic of the),Congo (République du),Congo (República del)
-6,630,,Democratic Republic of the Congo,République démocratique du Congo,República Democrática del Congo
-6,631,,Angola (Republic of),Angola (République d'),Angola (República de)
-6,632,,Guinea-Bissau (Republic of),Guinée-Bissau (République de),Guinea-Bissau (República de)
-6,633,,Seychelles (Republic of),Seychelles (République des),Seychelles (República de)
-6,634,,Sudan (Republic of the),Soudan (République du),Sudán (República del)
-6,635,,Rwanda (Republic of),Rwanda (République du),Rwanda (República de)
-6,636,,Ethiopia (Federal Democratic Republic of),Ethiopie (République fédérale démocratique d’),Etiopía (República Democrática Federal de)
-6,637,,Somali Democratic Republic,Somalie (République démocratique),Somalí (República Democrática)
-6,638,,Djibouti (Republic of),Djibouti (République de),Djibouti (República de)
-6,639,,Kenya (Republic of),Kenya (République du),Kenya (República de)
-6,640,,Tanzania (United Republic of),Tanzanie (République-Unie de),Tanzanía (República Unida de)
-6,641,,Uganda (Republic of),Ouganda (République de l'),Uganda (República de)
-6,642,,Burundi (Republic of),Burundi (République du),Burundi (República de)
-6,643,,Mozambique (Republic of),Mozambique (République du),Mozambique (República de)
-6,645,,Zambia (Republic of),Zambie (République de),Zambia (República de)
-6,646,,Madagascar (Republic of),Madagascar (République de),Madagascar (República de)
-6,647,,French Departments and Territories in the Indian Ocean,France de l’océan Indien,Departamentos y Territorios Franceses del Océano Índico
-6,648,,Zimbabwe (Republic of),Zimbabwe (République du),Zimbabwe (República de)
-6,649,,Namibia (Republic of),Namibie (République de),Namibia (República de)
-6,650,,Malawi,Malawi,Malawi
-6,651,,Lesotho (Kingdom of),Lesotho (Royaume du),Lesotho (Reino de)
-6,652,,Botswana (Republic of),Botswana (République du),Botswana (República de)
-6,653,,Swaziland (Kingdom of),Swaziland (Royaume du),Swazilandia (Reino de)
-6,654,,Comoros (Union of the),Comores (Union des),Comoras (Unión de las)
-6,655,,South Africa (Republic of),Sudafricaine (République),Sudafricana (República)
-6,658,,Eritrea,Erythrée,Eritrea
-7,702,,Belize,Belize,Belice
-7,704,,Guatemala (Republic of),Guatemala (République du),Guatemala (República de)
-7,706,,El Salvador (Republic of),El Salvador (République d'),El Salvador (República de)
-7,708,,Honduras (Republic of),Honduras (République du),Honduras (República de)
-7,710,,Nicaragua,Nicaragua,Nicaragua
-7,712,,Costa Rica,Costa Rica,Costa Rica
-7,714,,Panama (Republic of),Panama (République du),Panamá (República de)
-7,716,,Peru,Pérou,Perú
-7,722,,Argentine Republic,Argentine (République),Argentina (República)
-7,724,,Brazil (Federative Republic of),Brésil (République fédérative du),Brasil (República Federativa del)
-7,725,,Brazil (Federative Republic of),Brésil (République fédérative du),Brasil (República Federativa del)
-7,730,,Chile,Chili,Chile
-7,732,,Colombia (Republic of),Colombie (République de),Colombia (República de)
-7,734,,Venezuela (Bolivarian Republic of),Venezuela (République bolivarienne du),Venezuela (República Bolivariana de)
-7,736,,Bolivia (Republic of),Bolivie (République de),Bolivia (República de)
-7,738,,Guyana,Guyana,Guyana
-7,740,,Ecuador,Equateur,Ecuador
-7,742,,Guiana (French Department of),Guyane (Département français de la),Guayana (Departamento Francés de la)
-7,744,,Paraguay (Republic of),Paraguay (République du),Paraguay (República del)
-7,746,,Suriname (Republic of),Suriname (République du),Suriname (República de)
-7,748,,Uruguay (Eastern Republic of),Uruguay (République orientale de l'),Uruguay (República Oriental del)
+DATA,type=array,,,,
+code,zone,reserved,country_or_area.en,country_or_area.fr,country_or_area.es
+202,2,,Greece,Grèce,Grecia
+204,2,,Netherlands (Kingdom of the),Pays-Bas (Royaume des),Países Bajos (Reino de los)
+205,2,,Netherlands (Kingdom of the),Pays-Bas (Royaume des),Países Bajos (Reino de los)
+206,2,,Belgium,Belgique,Bélgica
+208,2,,France,France,Francia
+209,2,,France,France,Francia
+210,2,,France,France,Francia
+211,2,,France,France,Francia
+212,2,,Monaco (Principality of),Monaco (Principauté de),Mónaco (Principado de)
+213,2,,Andorra (Principality of),Andorre (Principauté d'),Andorra (Principado de)
+214,2,,Spain,Espagne,España
+215,2,,Spain,Espagne,España
+216,2,,Hungary (Republic of),Hongrie (République de),Hungría (República de)
+218,2,,Bosnia and Herzegovina,Bosnie-Herzégovine,Bosnia y Herzegovina
+219,2,,Croatia (Republic of),Croatie (République de),Croacia (República de)
+220,2,,Serbia (Republic of),Serbie (République de),Serbia (República de)
+222,2,,Italy,Italie,Italia
+223,2,,Italy,Italie,Italia
+224,2,,Italy,Italie,Italia
+225,2,,Vatican City State,Cité du Vatican (Etat de la),Ciudad del Vaticano (Estado de la)
+226,2,,Romania,Roumanie,Rumania
+228,2,,Switzerland (Confederation of),Suisse (Confédération),Suiza (Confederación)
+229,2,,Switzerland (Confederation of),Suisse (Confédération),Suiza (Confederación)
+230,2,,Czech Republic,République tchèque,República Checa
+231,2,,Slovak Republic,République slovaque,República Eslovaca
+232,2,,Austria,Autriche,Austria
+233,2,,Austria,Autriche,Austria
+234,2,,United Kingdom of Great Britain and Northern Ireland,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,Reino Unido de Gran Bretaña e Irlanda del Norte
+235,2,,United Kingdom of Great Britain and Northern Ireland,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,Reino Unido de Gran Bretaña e Irlanda del Norte
+236,2,,United Kingdom of Great Britain and Northern Ireland,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,Reino Unido de Gran Bretaña e Irlanda del Norte
+237,2,,United Kingdom of Great Britain and Northern Ireland,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,Reino Unido de Gran Bretaña e Irlanda del Norte
+238,2,,Denmark,Danemark,Dinamarca
+239,2,,Denmark,Danemark,Dinamarca
+240,2,,Sweden,Suède,Suecia
+242,2,,Norway,Norvège,Noruega
+243,2,,Norway,Norvège,Noruega
+244,2,,Finland,Finlande,Finlandia
+246,2,,Lithuania (Republic of),Lituanie (République de),Lituania (República de)
+247,2,,Latvia (Republic of),Lettonie (République de),Letonia (República de)
+248,2,,Estonia (Republic of),Estonie (République d'),Estonia (República de)
+250,2,,Russian Federation,Fédération de Russie,Federación de Rusia
+251,2,,Russian Federation,Fédération de Russie,Federación de Rusia
+255,2,,Ukraine,Ukraine,Ucrania
+257,2,,Belarus (Republic of),Bélarus (République du),Belarús (República de)
+259,2,,Moldova (Republic of),Moldova (République de),Moldova (República de)
+260,2,,Poland (Republic of),Pologne (République de),Polonia (República de)
+261,2,,Poland (Republic of),Pologne (République de),Polonia (República de)
+262,2,,Germany (Federal Republic of),Allemagne (République fédérale d'),Alemania (República Federal de)
+263,2,,Germany (Federal Republic of),Allemagne (République fédérale d'),Alemania (República Federal de)
+264,2,,Germany (Federal Republic of),Allemagne (République fédérale d'),Alemania (República Federal de)
+265,2,,Germany (Federal Republic of),Allemagne (République fédérale d'),Alemania (República Federal de)
+266,2,,Gibraltar,Gibraltar,Gibraltar
+268,2,,Portugal,Portugal,Portugal
+269,2,,Portugal,Portugal,Portugal
+270,2,,Luxembourg,Luxembourg,Luxemburgo
+272,2,,Ireland,Irlande,Irlanda
+274,2,,Iceland,Islande,Islandia
+276,2,,Albania (Republic of),Albanie (République d'),Albania (República de)
+278,2,,Malta,Malte,Malta
+280,2,,Cyprus (Republic of),Chypre (République de),Chipre (República de)
+282,2,,Georgia,Géorgie,Georgia
+283,2,,Armenia (Republic of),Arménie (République d'),Armenia (República de)
+284,2,,Bulgaria (Republic of),Bulgarie (République de),Bulgaria (República de)
+286,2,,Turkey,Turquie,Turquía
+288,2,,Faroe Islands,Féroé (Iles),Feroe (Islas)
+290,2,,Greenland,Groenland,Groenlandia
+292,2,,San Marino (Republic of),Saint-Marin (République de),San Marino (República de)
+293,2,,Slovenia (Republic of),Slovénie (République de),Eslovenia (República de)
+294,2,,The Former Yugoslav Republic of Macedonia,L'ex-République yougoslave de Macédoine,La ex República Yugoslava de Macedonia
+295,2,,Liechtenstein (Principality of),Liechtenstein (Principauté de),Liechtenstein (Principado de)
+297,2,,Montenegro (Republic of),Monténégro (République du),Montenegro (República de)
+302,3,,Canada,Canada,Canadá
+303,3,,Canada,Canada,Canadá
+308,3,,Saint Pierre and Miquelon (Collectivité territoriale de la République française),Saint-Pierre-et-Miquelon (Collectivité territoriale de la République française),San Pedro y Miquelón (Colectividad territorial de la República Francesa)
+310,3,,United States of America,Etats-Unis d'Amérique,Estados Unidos de América
+311,3,,United States of America,Etats-Unis d'Amérique,Estados Unidos de América
+312,3,,United States of America,Etats-Unis d'Amérique,Estados Unidos de América
+313,3,,United States of America,Etats-Unis d'Amérique,Estados Unidos de América
+314,3,,United States of America,Etats-Unis d'Amérique,Estados Unidos de América
+315,3,,United States of America,Etats-Unis d'Amérique,Estados Unidos de América
+316,3,,United States of America,Etats-Unis d'Amérique,Estados Unidos de América
+330,3,,Puerto Rico,Puerto Rico,Puerto Rico
+332,3,,United States Virgin Islands,Vierges américaines (Iles),Vírgenes Americanas (Islas)
+334,3,,Mexico,Mexique,México
+335,3,,Mexico,Mexique,México
+338,3,,Jamaica,Jamaïque,Jamaica
+340,3,,Guadeloupe (French Department of),Guadeloupe (Département français de la) ,Guadalupe (Departamento Francés de la) 
+340,3,,Martinique (French Department of),Martinique (Département français de la),Martinica (Departamento Francés de la)
+342,3,,Barbados,Barbade,Barbados
+344,3,,Antigua and Barbuda,Antigua-et-Barbuda,Antigua y Barbuda
+346,3,,Cayman Islands,Cayman (Iles),Caimanes (Islas)
+348,3,,British Virgin Islands,Vierges britanniques (Iles),Vírgenes Británicas (Islas)
+350,3,,Bermuda,Bermudes,Bermudas 
+352,3,,Grenada,Grenade,Granada
+354,3,,Montserrat,Montserrat,Montserrat
+356,3,,Saint Kitts and Nevis,Saint-Kitts-et-Nevis,San Kitts y Nevis
+358,3,,Saint Lucia,Sainte-Lucie,Santa Lucía
+360,3,,Saint Vincent and the Grenadines,Saint-Vincent-et-Grenadines,San Vicente y las Granadinas
+362,3,,Curaçao,Curaçao,Curaçao
+363,3,,Aruba,Aruba,Aruba
+364,3,,Bahamas (Commonwealth of the),Bahamas (Commonwealth des),Bahamas (Commonwealth de las)
+365,3,,Anguilla,Anguilla,Anguilla 
+366,3,,Dominica (Commonwealth of),Dominique (Commonwealth de la),Dominica (Commonwealth de)
+368,3,,Cuba,Cuba,Cuba
+370,3,,Dominican Republic,Dominicaine (République),Dominicana (República)
+372,3,,Haiti (Republic of),Haïti (République d'),Haití (República de)
+374,3,,Trinidad and Tobago,Trinité-et-Tobago,Trinidad y Tabago
+376,3,,Turks and Caicos Islands,Turks et Caïques (Iles),Turquesas y Caicos (Islas)
+400,4,,Azerbaijani Republic,Azerbaïdjanaise (République),Azerbaiyana (República)
+401,4,,Kazakhstan (Republic of),Kazakhstan (République du),Kazajstán (República de)
+404,4,,India (Republic of),Inde (République de l'),India (República de la)
+410,4,,Pakistan (Islamic Republic of),Pakistan (République islamique du),Pakistán (República Islámica del)
+411,4,,Pakistan (Islamic Republic of),Pakistan (République islamique du),Pakistán (República Islámica del)
+412,4,,Afghanistan,Afghanistan,Afganistán
+413,4,,Sri Lanka (Democratic Socialist Republic of),Sri Lanka (République socialiste démocratique de),Sri Lanka (República Socialista Democrática de)
+414,4,,Myanmar (Union of),Myanmar (Union de),Myanmar (Unión de)
+415,4,,Lebanon,Liban,Líbano
+416,4,,Jordan (Hashemite Kingdom of),Jordanie (Royaume hachémite de),Jordania (Reino Hachemita de)
+417,4,,Syrian Arab Republic,République arabe syrienne,República Árabe Siria
+418,4,,Iraq (Republic of),Iraq (République d'),Iraq (República del)
+419,4,,Kuwait (State of),Koweït (Etat du),Kuwait (Estado de)
+420,4,,Saudi Arabia (Kingdom of),Arabie saoudite (Royaume d'),Arabia Saudita (Reino de)
+421,4,,Yemen (Republic of),Yémen (République du),Yemen (República del)
+422,4,,Oman (Sultanate of),Oman (Sultanat d'),Omán (Sultanía de)
+423,4,TRUE,Reserved for the Palestinian Authority,Réservé pour l’Autorité palestinienne ,Reservado para la Autoridad Palestina 
+424,4,,United Arab Emirates,Emirats arabes unis,Emiratos Arabes Unidos
+425,4,,Israel (State of),Israël (Etat d'),Israel (Estado de)
+426,4,,Bahrain (Kingdom of),Bahreïn (Royaume de),Bahrein (Reino de)
+427,4,,Qatar (State of),Qatar (Etat du),Qatar (Estado de)
+428,4,,Mongolia,Mongolie,Mongolia
+429,4,,Nepal,Népal,Nepal
+430,4,,United Arab Emirates (Abu Dhabi),Emirats arabes unis (Abu Dhabi),Emiratos Arabes Unidos (Abu Dhabi)
+431,4,,United Arab Emirates (Dubai),Emirats arabes unis (Dubai),Emiratos Arabes Unidos (Dubai)
+432,4,,Iran (Islamic Republic of),Iran (République islamique d'),Irán (República Islámica del)
+434,4,,Uzbekistan (Republic of),Ouzbékistan (République d'),Uzbekistán (República de)
+436,4,,Tajikistan (Republic of),Tadjikistan (République du),Tayikistán (República de)
+437,4,,Kyrgyz Republic,République kirghize,República Kirguisa
+438,4,,Turkmenistan,Turkménistan,Turkmenistán
+440,4,,Japan,Japon,Japón
+441,4,,Japan,Japon,Japón
+442,4,,Japan,Japon,Japón
+443,4,,Japan,Japon,Japón
+450,4,,Korea (Republic of),Corée (République de),Corea (República de)
+452,4,,Viet Nam (Socialist Republic of),Viet Nam (République socialiste du),Viet Nam (República Socialista de)
+453,4,,"Hong Kong, China","Hong Kong, Chine","Hong Kong, China"
+454,4,,"Hong Kong, China","Hong Kong, Chine","Hong Kong, China"
+455,4,,"Macau, China","Macao, Chine","Macao, China"
+456,4,,Cambodia (Kingdom of),Cambodge (Royaume du),Camboya (Reino de)
+457,4,,Lao People's Democratic Republic,Lao (République démocratique populaire),Lao (República Democrática Popular)
+460,4,,China (People's Republic of),Chine (République populaire de),China (República Popular de)
+466,4,,"Taiwan, China","Taïwan, Chine","Taiwan, China"
+467,4,,Democratic People's Republic of Korea,République populaire démocratique de Corée,República Popular Democrática de Corea
+470,4,,Bangladesh (People's Republic of),Bangladesh (République populaire du),Bangladesh (República Popular de)
+472,4,,Maldives (Republic of),Maldives (République des),Maldivas (República de)
+480,4,,Korea (Republic of),Corée (République de),Corea (República de)
+481,4,,Korea (Republic of),Corée (République de),Corea (República de)
+502,5,,Malaysia,Malaisie,Malasia
+505,5,,Australia,Australie,Australia
+510,5,,Indonesia (Republic of),Indonésie (République d'),Indonesia (República de)
+515,5,,Philippines (Republic of the),Philippines (République des),Filipinas (República de)
+520,5,,Thailand,Thaïlande,Tailandia
+525,5,,Singapore (Republic of),Singapour (République de),Singapur (República de)
+526,5,,Singapore (Republic of),Singapour (République de),Singapur (República de)
+528,5,,Brunei Darussalam,Brunéi Darussalam,Brunei Darussalam
+530,5,,New Zealand,Nouvelle-Zélande,Nueva Zelandia
+534,5,,Northern Mariana Islands (Commonwealth of the),Mariannes du Nord (Iles) (Commonwealth des),Marianas del Norte (Islas) (Commonwealth de las)
+535,5,,Guam,Guam,Guam
+536,5,,Nauru (Republic of),Nauru (République de),Nauru (República de)
+537,5,,Papua New Guinea,Papouasie-Nouvelle-Guinée,Papua Nueva Guinea
+539,5,,Tonga (Kingdom of),Tonga (Royaume des),Tonga (Reino de)
+540,5,,Solomon Islands,Salomon (Iles),Salomón (Islas)
+541,5,,Vanuatu (Republic of),Vanuatu (République de),Vanuatu (República de)
+542,5,,Fiji (Republic of),Fidji (République de),Fiji (República de)
+543,5,,Wallis and Futuna (French Overseas Territory),Wallis-et-Futuna (Territoire français d'outre-mer),Wallis y Futuna (Territorio Francés de Ultramar)
+544,5,,American Samoa,Samoa américaines,Samoa Norteamericanas
+545,5,,Kiribati (Republic of),Kiribati (République de),Kiribati (República de)
+546,5,,New Caledonia (French Overseas Territory),Nouvelle-Calédonie (Territoire français d'outre-mer),Nueva Caledonia (Territorio Francés de Ultramar)
+547,5,,French Polynesia (French Overseas Territory),Polynésie française (Territoire français d'outre-mer),Polinesia Francesa (Territorio Francés de Ultramar)
+548,5,,Cook Islands,Cook (Iles),Cook (Islas)
+549,5,,Samoa (Independent State of),Samoa (Etat indépendant du),Samoa (Estado Independiente de)
+550,5,,Micronesia (Federated States of),Micronésie (Etats fédérés de),Micronesia (Estados Federados de)
+602,6,,Egypt (Arab Republic of),Egypte (République arabe d'),Egipto (República Arabe de)
+603,6,,Algeria (People's Democratic Republic of),Algérie (République algérienne démocratique et populaire),Argelia (República Argelina Democrática y Popular)
+604,6,,Morocco (Kingdom of),Maroc (Royaume du),Marruecos (Reino de)
+605,6,,Tunisia,Tunisie,Túnez
+606,6,,Socialist People's Libyan Arab Jamahiriya,Jamahiriya arabe libyenne populaire et socialiste,Jamahiriya Árabe Libia Popular y Socialista
+607,6,,Gambia (Republic of the),Gambie (République de),Gambia (República de)
+608,6,,Senegal (Republic of),Sénégal (République du),Senegal (República del)
+609,6,,Mauritania (Islamic Republic of),Mauritanie (République islamique de),Mauritania (República Islámica de)
+610,6,,Mali (Republic of),Mali (République du),Malí (República de)
+611,6,,Guinea (Republic of),Guinée (République de),Guinea (República de)
+612,6,,Côte d'Ivoire (Republic of),Côte d'Ivoire (République de),Côte d'Ivoire (República de)
+613,6,,Burkina Faso,Burkina Faso,Burkina Faso
+614,6,,Niger (Republic of the),Niger (République du),Níger (República del)
+615,6,,Togolese Republic,Togolaise (République),Togolesa (República)
+616,6,,Benin (Republic of),Bénin (République du),Benin (República de)
+617,6,,Mauritius (Republic of),Maurice (République de),Mauricio (República de)
+618,6,,Liberia (Republic of),Libéria (République du),Liberia (República de)
+619,6,,Sierra Leone,Sierra Leone,Sierra Leona
+620,6,,Ghana,Ghana,Ghana
+621,6,,Nigeria (Federal Republic of),Nigéria (République fédérale du),Nigeria (República Federal de)
+622,6,,Chad (Republic of),Tchad (République du),Chad (República del)
+623,6,,Central African Republic,Centrafricaine (République),Centroafricana (República)
+624,6,,Cameroon (Republic of),Cameroun (République du),Camerún (República de)
+625,6,,Cape Verde (Republic of),Cap-Vert (République du),Cabo Verde (República de)
+626,6,,Sao Tome and Principe (Democratic Republic of),Sao Tomé-et-Principe (République démocratique de),Santo Tomé y Príncipe (República Democrática de)
+627,6,,Equatorial Guinea (Republic of),Guinée équatoriale (République de),Guinea Ecuatorial (República de)
+628,6,,Gabonese Republic,Gabonaise (République),Gabonesa (República)
+629,6,,Congo (Republic of the),Congo (République du),Congo (República del)
+630,6,,Democratic Republic of the Congo,République démocratique du Congo,República Democrática del Congo
+631,6,,Angola (Republic of),Angola (République d'),Angola (República de)
+632,6,,Guinea-Bissau (Republic of),Guinée-Bissau (République de),Guinea-Bissau (República de)
+633,6,,Seychelles (Republic of),Seychelles (République des),Seychelles (República de)
+634,6,,Sudan (Republic of the),Soudan (République du),Sudán (República del)
+635,6,,Rwanda (Republic of),Rwanda (République du),Rwanda (República de)
+636,6,,Ethiopia (Federal Democratic Republic of),Ethiopie (République fédérale démocratique d’),Etiopía (República Democrática Federal de)
+637,6,,Somali Democratic Republic,Somalie (République démocratique),Somalí (República Democrática)
+638,6,,Djibouti (Republic of),Djibouti (République de),Djibouti (República de)
+639,6,,Kenya (Republic of),Kenya (République du),Kenya (República de)
+640,6,,Tanzania (United Republic of),Tanzanie (République-Unie de),Tanzanía (República Unida de)
+641,6,,Uganda (Republic of),Ouganda (République de l'),Uganda (República de)
+642,6,,Burundi (Republic of),Burundi (République du),Burundi (República de)
+643,6,,Mozambique (Republic of),Mozambique (République du),Mozambique (República de)
+645,6,,Zambia (Republic of),Zambie (République de),Zambia (República de)
+646,6,,Madagascar (Republic of),Madagascar (République de),Madagascar (República de)
+647,6,,French Departments and Territories in the Indian Ocean,France de l’océan Indien,Departamentos y Territorios Franceses del Océano Índico
+648,6,,Zimbabwe (Republic of),Zimbabwe (République du),Zimbabwe (República de)
+649,6,,Namibia (Republic of),Namibie (République de),Namibia (República de)
+650,6,,Malawi,Malawi,Malawi
+651,6,,Lesotho (Kingdom of),Lesotho (Royaume du),Lesotho (Reino de)
+652,6,,Botswana (Republic of),Botswana (République du),Botswana (República de)
+653,6,,Swaziland (Kingdom of),Swaziland (Royaume du),Swazilandia (Reino de)
+654,6,,Comoros (Union of the),Comores (Union des),Comoras (Unión de las)
+655,6,,South Africa (Republic of),Sudafricaine (République),Sudafricana (República)
+658,6,,Eritrea,Erythrée,Eritrea
+702,7,,Belize,Belize,Belice
+704,7,,Guatemala (Republic of),Guatemala (République du),Guatemala (República de)
+706,7,,El Salvador (Republic of),El Salvador (République d'),El Salvador (República de)
+708,7,,Honduras (Republic of),Honduras (République du),Honduras (República de)
+710,7,,Nicaragua,Nicaragua,Nicaragua
+712,7,,Costa Rica,Costa Rica,Costa Rica
+714,7,,Panama (Republic of),Panama (République du),Panamá (República de)
+716,7,,Peru,Pérou,Perú
+722,7,,Argentine Republic,Argentine (République),Argentina (República)
+724,7,,Brazil (Federative Republic of),Brésil (République fédérative du),Brasil (República Federativa del)
+725,7,,Brazil (Federative Republic of),Brésil (République fédérative du),Brasil (República Federativa del)
+730,7,,Chile,Chili,Chile
+732,7,,Colombia (Republic of),Colombie (République de),Colombia (República de)
+734,7,,Venezuela (Bolivarian Republic of),Venezuela (République bolivarienne du),Venezuela (República Bolivariana de)
+736,7,,Bolivia (Republic of),Bolivie (République de),Bolivia (República de)
+738,7,,Guyana,Guyana,Guyana
+740,7,,Ecuador,Equateur,Ecuador
+742,7,,Guiana (French Department of),Guyane (Département français de la),Guayana (Departamento Francés de la)
+744,7,,Paraguay (Republic of),Paraguay (République du),Paraguay (República del)
+746,7,,Suriname (Republic of),Suriname (République du),Suriname (República de)
+748,7,,Uruguay (Eastern Republic of),Uruguay (République orientale de l'),Uruguay (República Oriental del)
 ,,,,,
 ,,,,,
 ,,,,,

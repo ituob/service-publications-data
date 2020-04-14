@@ -1,0 +1,1553 @@
+---
+metadata:
+  title:
+    en: List of Data Country or Geographical Area Codes (ITU-T Recommendation* X.121)
+      (10/2000)
+    fr: Liste des indicatifs de pays ou zones géographiques pour transmission de données
+      (Recommandation UIT-T X.121) (10/2000)
+    es: Lista de indicativos de país o zona geográfica para datos
+  spare_codes:
+    zone2: '29'
+    zone3: '64'
+    zone4: '52'
+    zone5: '75'
+    zone6: '46'
+    zone7: '79'
+data:
+- code: '202'
+  zone: '2'
+  country_or_area:
+    en: Greece
+    fr: Grèce
+    es: Grecia
+- code: '204'
+  zone: '2'
+  country_or_area:
+    en: Netherlands (Kingdom of the)
+    fr: Pays-Bas (Royaume des)
+    es: Países Bajos (Reino de los)
+- code: '205'
+  zone: '2'
+  country_or_area:
+    en: Netherlands (Kingdom of the)
+    fr: Pays-Bas (Royaume des)
+    es: Países Bajos (Reino de los)
+- code: '206'
+  zone: '2'
+  country_or_area:
+    en: Belgium
+    fr: Belgique
+    es: Bélgica
+- code: '208'
+  zone: '2'
+  country_or_area:
+    en: France
+    fr: France
+    es: Francia
+- code: '209'
+  zone: '2'
+  country_or_area:
+    en: France
+    fr: France
+    es: Francia
+- code: '210'
+  zone: '2'
+  country_or_area:
+    en: France
+    fr: France
+    es: Francia
+- code: '211'
+  zone: '2'
+  country_or_area:
+    en: France
+    fr: France
+    es: Francia
+- code: '212'
+  zone: '2'
+  country_or_area:
+    en: Monaco (Principality of)
+    fr: Monaco (Principauté de)
+    es: Mónaco (Principado de)
+- code: '213'
+  zone: '2'
+  country_or_area:
+    en: Andorra (Principality of)
+    fr: Andorre (Principauté d')
+    es: Andorra (Principado de)
+- code: '214'
+  zone: '2'
+  country_or_area:
+    en: Spain
+    fr: Espagne
+    es: España
+- code: '215'
+  zone: '2'
+  country_or_area:
+    en: Spain
+    fr: Espagne
+    es: España
+- code: '216'
+  zone: '2'
+  country_or_area:
+    en: Hungary (Republic of)
+    fr: Hongrie (République de)
+    es: Hungría (República de)
+- code: '218'
+  zone: '2'
+  country_or_area:
+    en: Bosnia and Herzegovina
+    fr: Bosnie-Herzégovine
+    es: Bosnia y Herzegovina
+- code: '219'
+  zone: '2'
+  country_or_area:
+    en: Croatia (Republic of)
+    fr: Croatie (République de)
+    es: Croacia (República de)
+- code: '220'
+  zone: '2'
+  country_or_area:
+    en: Serbia (Republic of)
+    fr: Serbie (République de)
+    es: Serbia (República de)
+- code: '222'
+  zone: '2'
+  country_or_area:
+    en: Italy
+    fr: Italie
+    es: Italia
+- code: '223'
+  zone: '2'
+  country_or_area:
+    en: Italy
+    fr: Italie
+    es: Italia
+- code: '224'
+  zone: '2'
+  country_or_area:
+    en: Italy
+    fr: Italie
+    es: Italia
+- code: '225'
+  zone: '2'
+  country_or_area:
+    en: Vatican City State
+    fr: Cité du Vatican (Etat de la)
+    es: Ciudad del Vaticano (Estado de la)
+- code: '226'
+  zone: '2'
+  country_or_area:
+    en: Romania
+    fr: Roumanie
+    es: Rumania
+- code: '228'
+  zone: '2'
+  country_or_area:
+    en: Switzerland (Confederation of)
+    fr: Suisse (Confédération)
+    es: Suiza (Confederación)
+- code: '229'
+  zone: '2'
+  country_or_area:
+    en: Switzerland (Confederation of)
+    fr: Suisse (Confédération)
+    es: Suiza (Confederación)
+- code: '230'
+  zone: '2'
+  country_or_area:
+    en: Czech Republic
+    fr: République tchèque
+    es: República Checa
+- code: '231'
+  zone: '2'
+  country_or_area:
+    en: Slovak Republic
+    fr: République slovaque
+    es: República Eslovaca
+- code: '232'
+  zone: '2'
+  country_or_area:
+    en: Austria
+    fr: Autriche
+    es: Austria
+- code: '233'
+  zone: '2'
+  country_or_area:
+    en: Austria
+    fr: Autriche
+    es: Austria
+- code: '234'
+  zone: '2'
+  country_or_area:
+    en: United Kingdom of Great Britain and Northern Ireland
+    fr: Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+    es: Reino Unido de Gran Bretaña e Irlanda del Norte
+- code: '235'
+  zone: '2'
+  country_or_area:
+    en: United Kingdom of Great Britain and Northern Ireland
+    fr: Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+    es: Reino Unido de Gran Bretaña e Irlanda del Norte
+- code: '236'
+  zone: '2'
+  country_or_area:
+    en: United Kingdom of Great Britain and Northern Ireland
+    fr: Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+    es: Reino Unido de Gran Bretaña e Irlanda del Norte
+- code: '237'
+  zone: '2'
+  country_or_area:
+    en: United Kingdom of Great Britain and Northern Ireland
+    fr: Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+    es: Reino Unido de Gran Bretaña e Irlanda del Norte
+- code: '238'
+  zone: '2'
+  country_or_area:
+    en: Denmark
+    fr: Danemark
+    es: Dinamarca
+- code: '239'
+  zone: '2'
+  country_or_area:
+    en: Denmark
+    fr: Danemark
+    es: Dinamarca
+- code: '240'
+  zone: '2'
+  country_or_area:
+    en: Sweden
+    fr: Suède
+    es: Suecia
+- code: '242'
+  zone: '2'
+  country_or_area:
+    en: Norway
+    fr: Norvège
+    es: Noruega
+- code: '243'
+  zone: '2'
+  country_or_area:
+    en: Norway
+    fr: Norvège
+    es: Noruega
+- code: '244'
+  zone: '2'
+  country_or_area:
+    en: Finland
+    fr: Finlande
+    es: Finlandia
+- code: '246'
+  zone: '2'
+  country_or_area:
+    en: Lithuania (Republic of)
+    fr: Lituanie (République de)
+    es: Lituania (República de)
+- code: '247'
+  zone: '2'
+  country_or_area:
+    en: Latvia (Republic of)
+    fr: Lettonie (République de)
+    es: Letonia (República de)
+- code: '248'
+  zone: '2'
+  country_or_area:
+    en: Estonia (Republic of)
+    fr: Estonie (République d')
+    es: Estonia (República de)
+- code: '250'
+  zone: '2'
+  country_or_area:
+    en: Russian Federation
+    fr: Fédération de Russie
+    es: Federación de Rusia
+- code: '251'
+  zone: '2'
+  country_or_area:
+    en: Russian Federation
+    fr: Fédération de Russie
+    es: Federación de Rusia
+- code: '255'
+  zone: '2'
+  country_or_area:
+    en: Ukraine
+    fr: Ukraine
+    es: Ucrania
+- code: '257'
+  zone: '2'
+  country_or_area:
+    en: Belarus (Republic of)
+    fr: Bélarus (République du)
+    es: Belarús (República de)
+- code: '259'
+  zone: '2'
+  country_or_area:
+    en: Moldova (Republic of)
+    fr: Moldova (République de)
+    es: Moldova (República de)
+- code: '260'
+  zone: '2'
+  country_or_area:
+    en: Poland (Republic of)
+    fr: Pologne (République de)
+    es: Polonia (República de)
+- code: '261'
+  zone: '2'
+  country_or_area:
+    en: Poland (Republic of)
+    fr: Pologne (République de)
+    es: Polonia (República de)
+- code: '262'
+  zone: '2'
+  country_or_area:
+    en: Germany (Federal Republic of)
+    fr: Allemagne (République fédérale d')
+    es: Alemania (República Federal de)
+- code: '263'
+  zone: '2'
+  country_or_area:
+    en: Germany (Federal Republic of)
+    fr: Allemagne (République fédérale d')
+    es: Alemania (República Federal de)
+- code: '264'
+  zone: '2'
+  country_or_area:
+    en: Germany (Federal Republic of)
+    fr: Allemagne (République fédérale d')
+    es: Alemania (República Federal de)
+- code: '265'
+  zone: '2'
+  country_or_area:
+    en: Germany (Federal Republic of)
+    fr: Allemagne (République fédérale d')
+    es: Alemania (República Federal de)
+- code: '266'
+  zone: '2'
+  country_or_area:
+    en: Gibraltar
+    fr: Gibraltar
+    es: Gibraltar
+- code: '268'
+  zone: '2'
+  country_or_area:
+    en: Portugal
+    fr: Portugal
+    es: Portugal
+- code: '269'
+  zone: '2'
+  country_or_area:
+    en: Portugal
+    fr: Portugal
+    es: Portugal
+- code: '270'
+  zone: '2'
+  country_or_area:
+    en: Luxembourg
+    fr: Luxembourg
+    es: Luxemburgo
+- code: '272'
+  zone: '2'
+  country_or_area:
+    en: Ireland
+    fr: Irlande
+    es: Irlanda
+- code: '274'
+  zone: '2'
+  country_or_area:
+    en: Iceland
+    fr: Islande
+    es: Islandia
+- code: '276'
+  zone: '2'
+  country_or_area:
+    en: Albania (Republic of)
+    fr: Albanie (République d')
+    es: Albania (República de)
+- code: '278'
+  zone: '2'
+  country_or_area:
+    en: Malta
+    fr: Malte
+    es: Malta
+- code: '280'
+  zone: '2'
+  country_or_area:
+    en: Cyprus (Republic of)
+    fr: Chypre (République de)
+    es: Chipre (República de)
+- code: '282'
+  zone: '2'
+  country_or_area:
+    en: Georgia
+    fr: Géorgie
+    es: Georgia
+- code: '283'
+  zone: '2'
+  country_or_area:
+    en: Armenia (Republic of)
+    fr: Arménie (République d')
+    es: Armenia (República de)
+- code: '284'
+  zone: '2'
+  country_or_area:
+    en: Bulgaria (Republic of)
+    fr: Bulgarie (République de)
+    es: Bulgaria (República de)
+- code: '286'
+  zone: '2'
+  country_or_area:
+    en: Turkey
+    fr: Turquie
+    es: Turquía
+- code: '288'
+  zone: '2'
+  country_or_area:
+    en: Faroe Islands
+    fr: Féroé (Iles)
+    es: Feroe (Islas)
+- code: '290'
+  zone: '2'
+  country_or_area:
+    en: Greenland
+    fr: Groenland
+    es: Groenlandia
+- code: '292'
+  zone: '2'
+  country_or_area:
+    en: San Marino (Republic of)
+    fr: Saint-Marin (République de)
+    es: San Marino (República de)
+- code: '293'
+  zone: '2'
+  country_or_area:
+    en: Slovenia (Republic of)
+    fr: Slovénie (République de)
+    es: Eslovenia (República de)
+- code: '294'
+  zone: '2'
+  country_or_area:
+    en: The Former Yugoslav Republic of Macedonia
+    fr: L'ex-République yougoslave de Macédoine
+    es: La ex República Yugoslava de Macedonia
+- code: '295'
+  zone: '2'
+  country_or_area:
+    en: Liechtenstein (Principality of)
+    fr: Liechtenstein (Principauté de)
+    es: Liechtenstein (Principado de)
+- code: '297'
+  zone: '2'
+  country_or_area:
+    en: Montenegro (Republic of)
+    fr: Monténégro (République du)
+    es: Montenegro (República de)
+- code: '302'
+  zone: '3'
+  country_or_area:
+    en: Canada
+    fr: Canada
+    es: Canadá
+- code: '303'
+  zone: '3'
+  country_or_area:
+    en: Canada
+    fr: Canada
+    es: Canadá
+- code: '308'
+  zone: '3'
+  country_or_area:
+    en: Saint Pierre and Miquelon (Collectivité territoriale de la République française)
+    fr: Saint-Pierre-et-Miquelon (Collectivité territoriale de la République française)
+    es: San Pedro y Miquelón (Colectividad territorial de la República Francesa)
+- code: '310'
+  zone: '3'
+  country_or_area:
+    en: United States of America
+    fr: Etats-Unis d'Amérique
+    es: Estados Unidos de América
+- code: '311'
+  zone: '3'
+  country_or_area:
+    en: United States of America
+    fr: Etats-Unis d'Amérique
+    es: Estados Unidos de América
+- code: '312'
+  zone: '3'
+  country_or_area:
+    en: United States of America
+    fr: Etats-Unis d'Amérique
+    es: Estados Unidos de América
+- code: '313'
+  zone: '3'
+  country_or_area:
+    en: United States of America
+    fr: Etats-Unis d'Amérique
+    es: Estados Unidos de América
+- code: '314'
+  zone: '3'
+  country_or_area:
+    en: United States of America
+    fr: Etats-Unis d'Amérique
+    es: Estados Unidos de América
+- code: '315'
+  zone: '3'
+  country_or_area:
+    en: United States of America
+    fr: Etats-Unis d'Amérique
+    es: Estados Unidos de América
+- code: '316'
+  zone: '3'
+  country_or_area:
+    en: United States of America
+    fr: Etats-Unis d'Amérique
+    es: Estados Unidos de América
+- code: '330'
+  zone: '3'
+  country_or_area:
+    en: Puerto Rico
+    fr: Puerto Rico
+    es: Puerto Rico
+- code: '332'
+  zone: '3'
+  country_or_area:
+    en: United States Virgin Islands
+    fr: Vierges américaines (Iles)
+    es: Vírgenes Americanas (Islas)
+- code: '334'
+  zone: '3'
+  country_or_area:
+    en: Mexico
+    fr: Mexique
+    es: México
+- code: '335'
+  zone: '3'
+  country_or_area:
+    en: Mexico
+    fr: Mexique
+    es: México
+- code: '338'
+  zone: '3'
+  country_or_area:
+    en: Jamaica
+    fr: Jamaïque
+    es: Jamaica
+- code: '340'
+  zone: '3'
+  country_or_area:
+    en: Guadeloupe (French Department of)
+    fr: Guadeloupe (Département français de la)
+    es: Guadalupe (Departamento Francés de la)
+- code: '340'
+  zone: '3'
+  country_or_area:
+    en: Martinique (French Department of)
+    fr: Martinique (Département français de la)
+    es: Martinica (Departamento Francés de la)
+- code: '342'
+  zone: '3'
+  country_or_area:
+    en: Barbados
+    fr: Barbade
+    es: Barbados
+- code: '344'
+  zone: '3'
+  country_or_area:
+    en: Antigua and Barbuda
+    fr: Antigua-et-Barbuda
+    es: Antigua y Barbuda
+- code: '346'
+  zone: '3'
+  country_or_area:
+    en: Cayman Islands
+    fr: Cayman (Iles)
+    es: Caimanes (Islas)
+- code: '348'
+  zone: '3'
+  country_or_area:
+    en: British Virgin Islands
+    fr: Vierges britanniques (Iles)
+    es: Vírgenes Británicas (Islas)
+- code: '350'
+  zone: '3'
+  country_or_area:
+    en: Bermuda
+    fr: Bermudes
+    es: Bermudas
+- code: '352'
+  zone: '3'
+  country_or_area:
+    en: Grenada
+    fr: Grenade
+    es: Granada
+- code: '354'
+  zone: '3'
+  country_or_area:
+    en: Montserrat
+    fr: Montserrat
+    es: Montserrat
+- code: '356'
+  zone: '3'
+  country_or_area:
+    en: Saint Kitts and Nevis
+    fr: Saint-Kitts-et-Nevis
+    es: San Kitts y Nevis
+- code: '358'
+  zone: '3'
+  country_or_area:
+    en: Saint Lucia
+    fr: Sainte-Lucie
+    es: Santa Lucía
+- code: '360'
+  zone: '3'
+  country_or_area:
+    en: Saint Vincent and the Grenadines
+    fr: Saint-Vincent-et-Grenadines
+    es: San Vicente y las Granadinas
+- code: '362'
+  zone: '3'
+  country_or_area:
+    en: Curaçao
+    fr: Curaçao
+    es: Curaçao
+- code: '363'
+  zone: '3'
+  country_or_area:
+    en: Aruba
+    fr: Aruba
+    es: Aruba
+- code: '364'
+  zone: '3'
+  country_or_area:
+    en: Bahamas (Commonwealth of the)
+    fr: Bahamas (Commonwealth des)
+    es: Bahamas (Commonwealth de las)
+- code: '365'
+  zone: '3'
+  country_or_area:
+    en: Anguilla
+    fr: Anguilla
+    es: Anguilla
+- code: '366'
+  zone: '3'
+  country_or_area:
+    en: Dominica (Commonwealth of)
+    fr: Dominique (Commonwealth de la)
+    es: Dominica (Commonwealth de)
+- code: '368'
+  zone: '3'
+  country_or_area:
+    en: Cuba
+    fr: Cuba
+    es: Cuba
+- code: '370'
+  zone: '3'
+  country_or_area:
+    en: Dominican Republic
+    fr: Dominicaine (République)
+    es: Dominicana (República)
+- code: '372'
+  zone: '3'
+  country_or_area:
+    en: Haiti (Republic of)
+    fr: Haïti (République d')
+    es: Haití (República de)
+- code: '374'
+  zone: '3'
+  country_or_area:
+    en: Trinidad and Tobago
+    fr: Trinité-et-Tobago
+    es: Trinidad y Tabago
+- code: '376'
+  zone: '3'
+  country_or_area:
+    en: Turks and Caicos Islands
+    fr: Turks et Caïques (Iles)
+    es: Turquesas y Caicos (Islas)
+- code: '400'
+  zone: '4'
+  country_or_area:
+    en: Azerbaijani Republic
+    fr: Azerbaïdjanaise (République)
+    es: Azerbaiyana (República)
+- code: '401'
+  zone: '4'
+  country_or_area:
+    en: Kazakhstan (Republic of)
+    fr: Kazakhstan (République du)
+    es: Kazajstán (República de)
+- code: '404'
+  zone: '4'
+  country_or_area:
+    en: India (Republic of)
+    fr: Inde (République de l')
+    es: India (República de la)
+- code: '410'
+  zone: '4'
+  country_or_area:
+    en: Pakistan (Islamic Republic of)
+    fr: Pakistan (République islamique du)
+    es: Pakistán (República Islámica del)
+- code: '411'
+  zone: '4'
+  country_or_area:
+    en: Pakistan (Islamic Republic of)
+    fr: Pakistan (République islamique du)
+    es: Pakistán (República Islámica del)
+- code: '412'
+  zone: '4'
+  country_or_area:
+    en: Afghanistan
+    fr: Afghanistan
+    es: Afganistán
+- code: '413'
+  zone: '4'
+  country_or_area:
+    en: Sri Lanka (Democratic Socialist Republic of)
+    fr: Sri Lanka (République socialiste démocratique de)
+    es: Sri Lanka (República Socialista Democrática de)
+- code: '414'
+  zone: '4'
+  country_or_area:
+    en: Myanmar (Union of)
+    fr: Myanmar (Union de)
+    es: Myanmar (Unión de)
+- code: '415'
+  zone: '4'
+  country_or_area:
+    en: Lebanon
+    fr: Liban
+    es: Líbano
+- code: '416'
+  zone: '4'
+  country_or_area:
+    en: Jordan (Hashemite Kingdom of)
+    fr: Jordanie (Royaume hachémite de)
+    es: Jordania (Reino Hachemita de)
+- code: '417'
+  zone: '4'
+  country_or_area:
+    en: Syrian Arab Republic
+    fr: République arabe syrienne
+    es: República Árabe Siria
+- code: '418'
+  zone: '4'
+  country_or_area:
+    en: Iraq (Republic of)
+    fr: Iraq (République d')
+    es: Iraq (República del)
+- code: '419'
+  zone: '4'
+  country_or_area:
+    en: Kuwait (State of)
+    fr: Koweït (Etat du)
+    es: Kuwait (Estado de)
+- code: '420'
+  zone: '4'
+  country_or_area:
+    en: Saudi Arabia (Kingdom of)
+    fr: Arabie saoudite (Royaume d')
+    es: Arabia Saudita (Reino de)
+- code: '421'
+  zone: '4'
+  country_or_area:
+    en: Yemen (Republic of)
+    fr: Yémen (République du)
+    es: Yemen (República del)
+- code: '422'
+  zone: '4'
+  country_or_area:
+    en: Oman (Sultanate of)
+    fr: Oman (Sultanat d')
+    es: Omán (Sultanía de)
+- code: '423'
+  zone: '4'
+  reserved: 'TRUE'
+  country_or_area:
+    en: Reserved for the Palestinian Authority
+    fr: Réservé pour l’Autorité palestinienne
+    es: Reservado para la Autoridad Palestina
+- code: '424'
+  zone: '4'
+  country_or_area:
+    en: United Arab Emirates
+    fr: Emirats arabes unis
+    es: Emiratos Arabes Unidos
+- code: '425'
+  zone: '4'
+  country_or_area:
+    en: Israel (State of)
+    fr: Israël (Etat d')
+    es: Israel (Estado de)
+- code: '426'
+  zone: '4'
+  country_or_area:
+    en: Bahrain (Kingdom of)
+    fr: Bahreïn (Royaume de)
+    es: Bahrein (Reino de)
+- code: '427'
+  zone: '4'
+  country_or_area:
+    en: Qatar (State of)
+    fr: Qatar (Etat du)
+    es: Qatar (Estado de)
+- code: '428'
+  zone: '4'
+  country_or_area:
+    en: Mongolia
+    fr: Mongolie
+    es: Mongolia
+- code: '429'
+  zone: '4'
+  country_or_area:
+    en: Nepal
+    fr: Népal
+    es: Nepal
+- code: '430'
+  zone: '4'
+  country_or_area:
+    en: United Arab Emirates (Abu Dhabi)
+    fr: Emirats arabes unis (Abu Dhabi)
+    es: Emiratos Arabes Unidos (Abu Dhabi)
+- code: '431'
+  zone: '4'
+  country_or_area:
+    en: United Arab Emirates (Dubai)
+    fr: Emirats arabes unis (Dubai)
+    es: Emiratos Arabes Unidos (Dubai)
+- code: '432'
+  zone: '4'
+  country_or_area:
+    en: Iran (Islamic Republic of)
+    fr: Iran (République islamique d')
+    es: Irán (República Islámica del)
+- code: '434'
+  zone: '4'
+  country_or_area:
+    en: Uzbekistan (Republic of)
+    fr: Ouzbékistan (République d')
+    es: Uzbekistán (República de)
+- code: '436'
+  zone: '4'
+  country_or_area:
+    en: Tajikistan (Republic of)
+    fr: Tadjikistan (République du)
+    es: Tayikistán (República de)
+- code: '437'
+  zone: '4'
+  country_or_area:
+    en: Kyrgyz Republic
+    fr: République kirghize
+    es: República Kirguisa
+- code: '438'
+  zone: '4'
+  country_or_area:
+    en: Turkmenistan
+    fr: Turkménistan
+    es: Turkmenistán
+- code: '440'
+  zone: '4'
+  country_or_area:
+    en: Japan
+    fr: Japon
+    es: Japón
+- code: '441'
+  zone: '4'
+  country_or_area:
+    en: Japan
+    fr: Japon
+    es: Japón
+- code: '442'
+  zone: '4'
+  country_or_area:
+    en: Japan
+    fr: Japon
+    es: Japón
+- code: '443'
+  zone: '4'
+  country_or_area:
+    en: Japan
+    fr: Japon
+    es: Japón
+- code: '450'
+  zone: '4'
+  country_or_area:
+    en: Korea (Republic of)
+    fr: Corée (République de)
+    es: Corea (República de)
+- code: '452'
+  zone: '4'
+  country_or_area:
+    en: Viet Nam (Socialist Republic of)
+    fr: Viet Nam (République socialiste du)
+    es: Viet Nam (República Socialista de)
+- code: '453'
+  zone: '4'
+  country_or_area:
+    en: Hong Kong, China
+    fr: Hong Kong, Chine
+    es: Hong Kong, China
+- code: '454'
+  zone: '4'
+  country_or_area:
+    en: Hong Kong, China
+    fr: Hong Kong, Chine
+    es: Hong Kong, China
+- code: '455'
+  zone: '4'
+  country_or_area:
+    en: Macau, China
+    fr: Macao, Chine
+    es: Macao, China
+- code: '456'
+  zone: '4'
+  country_or_area:
+    en: Cambodia (Kingdom of)
+    fr: Cambodge (Royaume du)
+    es: Camboya (Reino de)
+- code: '457'
+  zone: '4'
+  country_or_area:
+    en: Lao People's Democratic Republic
+    fr: Lao (République démocratique populaire)
+    es: Lao (República Democrática Popular)
+- code: '460'
+  zone: '4'
+  country_or_area:
+    en: China (People's Republic of)
+    fr: Chine (République populaire de)
+    es: China (República Popular de)
+- code: '466'
+  zone: '4'
+  country_or_area:
+    en: Taiwan, China
+    fr: Taïwan, Chine
+    es: Taiwan, China
+- code: '467'
+  zone: '4'
+  country_or_area:
+    en: Democratic People's Republic of Korea
+    fr: République populaire démocratique de Corée
+    es: República Popular Democrática de Corea
+- code: '470'
+  zone: '4'
+  country_or_area:
+    en: Bangladesh (People's Republic of)
+    fr: Bangladesh (République populaire du)
+    es: Bangladesh (República Popular de)
+- code: '472'
+  zone: '4'
+  country_or_area:
+    en: Maldives (Republic of)
+    fr: Maldives (République des)
+    es: Maldivas (República de)
+- code: '480'
+  zone: '4'
+  country_or_area:
+    en: Korea (Republic of)
+    fr: Corée (République de)
+    es: Corea (República de)
+- code: '481'
+  zone: '4'
+  country_or_area:
+    en: Korea (Republic of)
+    fr: Corée (République de)
+    es: Corea (República de)
+- code: '502'
+  zone: '5'
+  country_or_area:
+    en: Malaysia
+    fr: Malaisie
+    es: Malasia
+- code: '505'
+  zone: '5'
+  country_or_area:
+    en: Australia
+    fr: Australie
+    es: Australia
+- code: '510'
+  zone: '5'
+  country_or_area:
+    en: Indonesia (Republic of)
+    fr: Indonésie (République d')
+    es: Indonesia (República de)
+- code: '515'
+  zone: '5'
+  country_or_area:
+    en: Philippines (Republic of the)
+    fr: Philippines (République des)
+    es: Filipinas (República de)
+- code: '520'
+  zone: '5'
+  country_or_area:
+    en: Thailand
+    fr: Thaïlande
+    es: Tailandia
+- code: '525'
+  zone: '5'
+  country_or_area:
+    en: Singapore (Republic of)
+    fr: Singapour (République de)
+    es: Singapur (República de)
+- code: '526'
+  zone: '5'
+  country_or_area:
+    en: Singapore (Republic of)
+    fr: Singapour (République de)
+    es: Singapur (República de)
+- code: '528'
+  zone: '5'
+  country_or_area:
+    en: Brunei Darussalam
+    fr: Brunéi Darussalam
+    es: Brunei Darussalam
+- code: '530'
+  zone: '5'
+  country_or_area:
+    en: New Zealand
+    fr: Nouvelle-Zélande
+    es: Nueva Zelandia
+- code: '534'
+  zone: '5'
+  country_or_area:
+    en: Northern Mariana Islands (Commonwealth of the)
+    fr: Mariannes du Nord (Iles) (Commonwealth des)
+    es: Marianas del Norte (Islas) (Commonwealth de las)
+- code: '535'
+  zone: '5'
+  country_or_area:
+    en: Guam
+    fr: Guam
+    es: Guam
+- code: '536'
+  zone: '5'
+  country_or_area:
+    en: Nauru (Republic of)
+    fr: Nauru (République de)
+    es: Nauru (República de)
+- code: '537'
+  zone: '5'
+  country_or_area:
+    en: Papua New Guinea
+    fr: Papouasie-Nouvelle-Guinée
+    es: Papua Nueva Guinea
+- code: '539'
+  zone: '5'
+  country_or_area:
+    en: Tonga (Kingdom of)
+    fr: Tonga (Royaume des)
+    es: Tonga (Reino de)
+- code: '540'
+  zone: '5'
+  country_or_area:
+    en: Solomon Islands
+    fr: Salomon (Iles)
+    es: Salomón (Islas)
+- code: '541'
+  zone: '5'
+  country_or_area:
+    en: Vanuatu (Republic of)
+    fr: Vanuatu (République de)
+    es: Vanuatu (República de)
+- code: '542'
+  zone: '5'
+  country_or_area:
+    en: Fiji (Republic of)
+    fr: Fidji (République de)
+    es: Fiji (República de)
+- code: '543'
+  zone: '5'
+  country_or_area:
+    en: Wallis and Futuna (French Overseas Territory)
+    fr: Wallis-et-Futuna (Territoire français d'outre-mer)
+    es: Wallis y Futuna (Territorio Francés de Ultramar)
+- code: '544'
+  zone: '5'
+  country_or_area:
+    en: American Samoa
+    fr: Samoa américaines
+    es: Samoa Norteamericanas
+- code: '545'
+  zone: '5'
+  country_or_area:
+    en: Kiribati (Republic of)
+    fr: Kiribati (République de)
+    es: Kiribati (República de)
+- code: '546'
+  zone: '5'
+  country_or_area:
+    en: New Caledonia (French Overseas Territory)
+    fr: Nouvelle-Calédonie (Territoire français d'outre-mer)
+    es: Nueva Caledonia (Territorio Francés de Ultramar)
+- code: '547'
+  zone: '5'
+  country_or_area:
+    en: French Polynesia (French Overseas Territory)
+    fr: Polynésie française (Territoire français d'outre-mer)
+    es: Polinesia Francesa (Territorio Francés de Ultramar)
+- code: '548'
+  zone: '5'
+  country_or_area:
+    en: Cook Islands
+    fr: Cook (Iles)
+    es: Cook (Islas)
+- code: '549'
+  zone: '5'
+  country_or_area:
+    en: Samoa (Independent State of)
+    fr: Samoa (Etat indépendant du)
+    es: Samoa (Estado Independiente de)
+- code: '550'
+  zone: '5'
+  country_or_area:
+    en: Micronesia (Federated States of)
+    fr: Micronésie (Etats fédérés de)
+    es: Micronesia (Estados Federados de)
+- code: '602'
+  zone: '6'
+  country_or_area:
+    en: Egypt (Arab Republic of)
+    fr: Egypte (République arabe d')
+    es: Egipto (República Arabe de)
+- code: '603'
+  zone: '6'
+  country_or_area:
+    en: Algeria (People's Democratic Republic of)
+    fr: Algérie (République algérienne démocratique et populaire)
+    es: Argelia (República Argelina Democrática y Popular)
+- code: '604'
+  zone: '6'
+  country_or_area:
+    en: Morocco (Kingdom of)
+    fr: Maroc (Royaume du)
+    es: Marruecos (Reino de)
+- code: '605'
+  zone: '6'
+  country_or_area:
+    en: Tunisia
+    fr: Tunisie
+    es: Túnez
+- code: '606'
+  zone: '6'
+  country_or_area:
+    en: Socialist People's Libyan Arab Jamahiriya
+    fr: Jamahiriya arabe libyenne populaire et socialiste
+    es: Jamahiriya Árabe Libia Popular y Socialista
+- code: '607'
+  zone: '6'
+  country_or_area:
+    en: Gambia (Republic of the)
+    fr: Gambie (République de)
+    es: Gambia (República de)
+- code: '608'
+  zone: '6'
+  country_or_area:
+    en: Senegal (Republic of)
+    fr: Sénégal (République du)
+    es: Senegal (República del)
+- code: '609'
+  zone: '6'
+  country_or_area:
+    en: Mauritania (Islamic Republic of)
+    fr: Mauritanie (République islamique de)
+    es: Mauritania (República Islámica de)
+- code: '610'
+  zone: '6'
+  country_or_area:
+    en: Mali (Republic of)
+    fr: Mali (République du)
+    es: Malí (República de)
+- code: '611'
+  zone: '6'
+  country_or_area:
+    en: Guinea (Republic of)
+    fr: Guinée (République de)
+    es: Guinea (República de)
+- code: '612'
+  zone: '6'
+  country_or_area:
+    en: Côte d'Ivoire (Republic of)
+    fr: Côte d'Ivoire (République de)
+    es: Côte d'Ivoire (República de)
+- code: '613'
+  zone: '6'
+  country_or_area:
+    en: Burkina Faso
+    fr: Burkina Faso
+    es: Burkina Faso
+- code: '614'
+  zone: '6'
+  country_or_area:
+    en: Niger (Republic of the)
+    fr: Niger (République du)
+    es: Níger (República del)
+- code: '615'
+  zone: '6'
+  country_or_area:
+    en: Togolese Republic
+    fr: Togolaise (République)
+    es: Togolesa (República)
+- code: '616'
+  zone: '6'
+  country_or_area:
+    en: Benin (Republic of)
+    fr: Bénin (République du)
+    es: Benin (República de)
+- code: '617'
+  zone: '6'
+  country_or_area:
+    en: Mauritius (Republic of)
+    fr: Maurice (République de)
+    es: Mauricio (República de)
+- code: '618'
+  zone: '6'
+  country_or_area:
+    en: Liberia (Republic of)
+    fr: Libéria (République du)
+    es: Liberia (República de)
+- code: '619'
+  zone: '6'
+  country_or_area:
+    en: Sierra Leone
+    fr: Sierra Leone
+    es: Sierra Leona
+- code: '620'
+  zone: '6'
+  country_or_area:
+    en: Ghana
+    fr: Ghana
+    es: Ghana
+- code: '621'
+  zone: '6'
+  country_or_area:
+    en: Nigeria (Federal Republic of)
+    fr: Nigéria (République fédérale du)
+    es: Nigeria (República Federal de)
+- code: '622'
+  zone: '6'
+  country_or_area:
+    en: Chad (Republic of)
+    fr: Tchad (République du)
+    es: Chad (República del)
+- code: '623'
+  zone: '6'
+  country_or_area:
+    en: Central African Republic
+    fr: Centrafricaine (République)
+    es: Centroafricana (República)
+- code: '624'
+  zone: '6'
+  country_or_area:
+    en: Cameroon (Republic of)
+    fr: Cameroun (République du)
+    es: Camerún (República de)
+- code: '625'
+  zone: '6'
+  country_or_area:
+    en: Cape Verde (Republic of)
+    fr: Cap-Vert (République du)
+    es: Cabo Verde (República de)
+- code: '626'
+  zone: '6'
+  country_or_area:
+    en: Sao Tome and Principe (Democratic Republic of)
+    fr: Sao Tomé-et-Principe (République démocratique de)
+    es: Santo Tomé y Príncipe (República Democrática de)
+- code: '627'
+  zone: '6'
+  country_or_area:
+    en: Equatorial Guinea (Republic of)
+    fr: Guinée équatoriale (République de)
+    es: Guinea Ecuatorial (República de)
+- code: '628'
+  zone: '6'
+  country_or_area:
+    en: Gabonese Republic
+    fr: Gabonaise (République)
+    es: Gabonesa (República)
+- code: '629'
+  zone: '6'
+  country_or_area:
+    en: Congo (Republic of the)
+    fr: Congo (République du)
+    es: Congo (República del)
+- code: '630'
+  zone: '6'
+  country_or_area:
+    en: Democratic Republic of the Congo
+    fr: République démocratique du Congo
+    es: República Democrática del Congo
+- code: '631'
+  zone: '6'
+  country_or_area:
+    en: Angola (Republic of)
+    fr: Angola (République d')
+    es: Angola (República de)
+- code: '632'
+  zone: '6'
+  country_or_area:
+    en: Guinea-Bissau (Republic of)
+    fr: Guinée-Bissau (République de)
+    es: Guinea-Bissau (República de)
+- code: '633'
+  zone: '6'
+  country_or_area:
+    en: Seychelles (Republic of)
+    fr: Seychelles (République des)
+    es: Seychelles (República de)
+- code: '634'
+  zone: '6'
+  country_or_area:
+    en: Sudan (Republic of the)
+    fr: Soudan (République du)
+    es: Sudán (República del)
+- code: '635'
+  zone: '6'
+  country_or_area:
+    en: Rwanda (Republic of)
+    fr: Rwanda (République du)
+    es: Rwanda (República de)
+- code: '636'
+  zone: '6'
+  country_or_area:
+    en: Ethiopia (Federal Democratic Republic of)
+    fr: Ethiopie (République fédérale démocratique d’)
+    es: Etiopía (República Democrática Federal de)
+- code: '637'
+  zone: '6'
+  country_or_area:
+    en: Somali Democratic Republic
+    fr: Somalie (République démocratique)
+    es: Somalí (República Democrática)
+- code: '638'
+  zone: '6'
+  country_or_area:
+    en: Djibouti (Republic of)
+    fr: Djibouti (République de)
+    es: Djibouti (República de)
+- code: '639'
+  zone: '6'
+  country_or_area:
+    en: Kenya (Republic of)
+    fr: Kenya (République du)
+    es: Kenya (República de)
+- code: '640'
+  zone: '6'
+  country_or_area:
+    en: Tanzania (United Republic of)
+    fr: Tanzanie (République-Unie de)
+    es: Tanzanía (República Unida de)
+- code: '641'
+  zone: '6'
+  country_or_area:
+    en: Uganda (Republic of)
+    fr: Ouganda (République de l')
+    es: Uganda (República de)
+- code: '642'
+  zone: '6'
+  country_or_area:
+    en: Burundi (Republic of)
+    fr: Burundi (République du)
+    es: Burundi (República de)
+- code: '643'
+  zone: '6'
+  country_or_area:
+    en: Mozambique (Republic of)
+    fr: Mozambique (République du)
+    es: Mozambique (República de)
+- code: '645'
+  zone: '6'
+  country_or_area:
+    en: Zambia (Republic of)
+    fr: Zambie (République de)
+    es: Zambia (República de)
+- code: '646'
+  zone: '6'
+  country_or_area:
+    en: Madagascar (Republic of)
+    fr: Madagascar (République de)
+    es: Madagascar (República de)
+- code: '647'
+  zone: '6'
+  country_or_area:
+    en: French Departments and Territories in the Indian Ocean
+    fr: France de l’océan Indien
+    es: Departamentos y Territorios Franceses del Océano Índico
+- code: '648'
+  zone: '6'
+  country_or_area:
+    en: Zimbabwe (Republic of)
+    fr: Zimbabwe (République du)
+    es: Zimbabwe (República de)
+- code: '649'
+  zone: '6'
+  country_or_area:
+    en: Namibia (Republic of)
+    fr: Namibie (République de)
+    es: Namibia (República de)
+- code: '650'
+  zone: '6'
+  country_or_area:
+    en: Malawi
+    fr: Malawi
+    es: Malawi
+- code: '651'
+  zone: '6'
+  country_or_area:
+    en: Lesotho (Kingdom of)
+    fr: Lesotho (Royaume du)
+    es: Lesotho (Reino de)
+- code: '652'
+  zone: '6'
+  country_or_area:
+    en: Botswana (Republic of)
+    fr: Botswana (République du)
+    es: Botswana (República de)
+- code: '653'
+  zone: '6'
+  country_or_area:
+    en: Swaziland (Kingdom of)
+    fr: Swaziland (Royaume du)
+    es: Swazilandia (Reino de)
+- code: '654'
+  zone: '6'
+  country_or_area:
+    en: Comoros (Union of the)
+    fr: Comores (Union des)
+    es: Comoras (Unión de las)
+- code: '655'
+  zone: '6'
+  country_or_area:
+    en: South Africa (Republic of)
+    fr: Sudafricaine (République)
+    es: Sudafricana (República)
+- code: '658'
+  zone: '6'
+  country_or_area:
+    en: Eritrea
+    fr: Erythrée
+    es: Eritrea
+- code: '702'
+  zone: '7'
+  country_or_area:
+    en: Belize
+    fr: Belize
+    es: Belice
+- code: '704'
+  zone: '7'
+  country_or_area:
+    en: Guatemala (Republic of)
+    fr: Guatemala (République du)
+    es: Guatemala (República de)
+- code: '706'
+  zone: '7'
+  country_or_area:
+    en: El Salvador (Republic of)
+    fr: El Salvador (République d')
+    es: El Salvador (República de)
+- code: '708'
+  zone: '7'
+  country_or_area:
+    en: Honduras (Republic of)
+    fr: Honduras (République du)
+    es: Honduras (República de)
+- code: '710'
+  zone: '7'
+  country_or_area:
+    en: Nicaragua
+    fr: Nicaragua
+    es: Nicaragua
+- code: '712'
+  zone: '7'
+  country_or_area:
+    en: Costa Rica
+    fr: Costa Rica
+    es: Costa Rica
+- code: '714'
+  zone: '7'
+  country_or_area:
+    en: Panama (Republic of)
+    fr: Panama (République du)
+    es: Panamá (República de)
+- code: '716'
+  zone: '7'
+  country_or_area:
+    en: Peru
+    fr: Pérou
+    es: Perú
+- code: '722'
+  zone: '7'
+  country_or_area:
+    en: Argentine Republic
+    fr: Argentine (République)
+    es: Argentina (República)
+- code: '724'
+  zone: '7'
+  country_or_area:
+    en: Brazil (Federative Republic of)
+    fr: Brésil (République fédérative du)
+    es: Brasil (República Federativa del)
+- code: '725'
+  zone: '7'
+  country_or_area:
+    en: Brazil (Federative Republic of)
+    fr: Brésil (République fédérative du)
+    es: Brasil (República Federativa del)
+- code: '730'
+  zone: '7'
+  country_or_area:
+    en: Chile
+    fr: Chili
+    es: Chile
+- code: '732'
+  zone: '7'
+  country_or_area:
+    en: Colombia (Republic of)
+    fr: Colombie (République de)
+    es: Colombia (República de)
+- code: '734'
+  zone: '7'
+  country_or_area:
+    en: Venezuela (Bolivarian Republic of)
+    fr: Venezuela (République bolivarienne du)
+    es: Venezuela (República Bolivariana de)
+- code: '736'
+  zone: '7'
+  country_or_area:
+    en: Bolivia (Republic of)
+    fr: Bolivie (République de)
+    es: Bolivia (República de)
+- code: '738'
+  zone: '7'
+  country_or_area:
+    en: Guyana
+    fr: Guyana
+    es: Guyana
+- code: '740'
+  zone: '7'
+  country_or_area:
+    en: Ecuador
+    fr: Equateur
+    es: Ecuador
+- code: '742'
+  zone: '7'
+  country_or_area:
+    en: Guiana (French Department of)
+    fr: Guyane (Département français de la)
+    es: Guayana (Departamento Francés de la)
+- code: '744'
+  zone: '7'
+  country_or_area:
+    en: Paraguay (Republic of)
+    fr: Paraguay (République du)
+    es: Paraguay (República del)
+- code: '746'
+  zone: '7'
+  country_or_area:
+    en: Suriname (Republic of)
+    fr: Suriname (République du)
+    es: Suriname (República de)
+- code: '748'
+  zone: '7'
+  country_or_area:
+    en: Uruguay (Eastern Republic of)
+    fr: Uruguay (République orientale de l')
+    es: Uruguay (República Oriental del)

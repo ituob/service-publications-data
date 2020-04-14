@@ -7,12 +7,19 @@ module CsvToStructuredHash
   def self.get_portion(csv, section_name)
     first_row = nil
     last_row = -1
+    data_meta = {}
 
     puts "section_name #{section_name}"
 
     csv.each_with_index do |row, index|
       if first_row.nil? && is_start_of_portion?(row, section_name)
         puts "found first"
+
+        row[1].split(';').each do |opt|
+          k, v = opt.split('=')
+          data_meta[k.to_sym] = v
+        end if row[1] && !row[1].empty?
+
         first_row = index+1
         next
       end
@@ -25,7 +32,7 @@ module CsvToStructuredHash
     end
 
     puts "first #{first_row}  last #{last_row}"
-    csv[first_row..last_row]
+    [csv[first_row..last_row], data_meta]
   end
 
   def self.is_start_of_portion?(row, section_name)
@@ -46,10 +53,10 @@ module CsvToStructuredHash
 
   def self.split_header_key_type(header_field)
     field_name = ""
-    field_type = "string"
+    field_type = CAST_DEFAULT_TYPE
 
     puts header_field
-    arr = header_field.match(/(.*)\[(.*)\]/)
+    arr = header_field.match(/\A(.*)\[(.*)\]\Z/)
 
     if arr.nil?
       field_name = header_field
@@ -64,6 +71,8 @@ module CsvToStructuredHash
     }
   end
 
+  CAST_DEFAULT_TYPE = "string".freeze
+
   def self.cast_type(value, type_in_string)
     return if value.nil?
     type = type_in_string.downcase
@@ -76,9 +85,15 @@ module CsvToStructuredHash
         false
       end
     when "integer"
-      value.to_i
+      value.to_s.strip.to_i
     when "string"
-      value.to_s
+      value.to_s.strip
+    when /^array\{(.*)\}/
+      val_type = Regexp.last_match[1] || CAST_DEFAULT_TYPE
+      value.split(";").map do |v|
+        # puts "cast type as #{v}, #{val_type.to_s}"
+        cast_type(v, val_type.to_s)
+      end
     else
       value.to_s
     end
@@ -104,9 +119,12 @@ module CsvToStructuredHash
     normalize_namespaces(hash)
   end
 
-  def self.parse_data(rows)
+  def self.parse_data(rows, data_meta)
     hash = {}
     header = []
+    data_name = data_meta[:name]
+    data_type = data_meta[:type] || "hash"
+    data_key = data_meta[:key]
 
     rows.each_with_index do |row,index|
       # Assume the first column is always the key
@@ -115,6 +133,11 @@ module CsvToStructuredHash
         header = row.map do |field|
           split_header_key_type(field) unless field.nil?
         end.compact
+
+        if data_type == "hash" && data_key.nil?
+          data_key = header.first
+        end
+
         next
       end
       puts "header #{header.inspect}"
@@ -138,7 +161,7 @@ module CsvToStructuredHash
       pp row_values
 
       k = row_values[0]
-      d = Hash[header_names[1..-1].zip(row_values[1..-1])]
+      d = Hash[header_names[0..-1].zip(row_values[0..-1])]
       #  .transform_keys { |k| k.to_sym }
 
       # Remove keys if they point to nil
@@ -149,15 +172,19 @@ module CsvToStructuredHash
       hash[k] = normalize_namespaces(d)
     end
 
-    {
-      header.first[:name] => hash
-    }
+    if data_name
+      hash = {
+        data_name => hash
+      }
+    end
+
+    normalize_namespaces(hash)
   end
 
   def self.convert(csv_filename)
     raw_data = get_csv(csv_filename)
-    metadata = get_portion(raw_data, "METADATA")
-    data = get_portion(raw_data, "DATA")
+    metadata, = get_portion(raw_data, "METADATA")
+    data, data_meta = get_portion(raw_data, "DATA")
 
     puts '----------'
     pp data
@@ -165,7 +192,7 @@ module CsvToStructuredHash
 
     {
       "metadata" => parse_metadata(metadata),
-      "data" => parse_data(data)
+      "data" => parse_data(data, data_meta)
     }
   end
 
@@ -177,13 +204,13 @@ module CsvToStructuredHash
     new_hash = {}
 
     hash.each_pair do |k, v|
-      # puts "k (#{k}) v (#{v})"
+      puts "k (#{k}) v (#{v})"
       key_components = k.to_s.split('.')
 
       level = new_hash
       last_component = key_components.pop
       key_components.each do |component|
-        # puts "c (#{component})"
+        puts "c (#{component})"
         level[component] ||= {}
         level = level[component]
       end

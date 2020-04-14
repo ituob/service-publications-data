@@ -1,0 +1,1928 @@
+---
+metadata:
+  title:
+    en: Countries or geographical areas for which information regarding cessation
+      of telex service has been published in the ITU Operational Bulletin (No.)
+    fr: Pays ou zones géographiques pour lesquels des renseignements relatifs à la
+      cessation du service télex ont été publiés dans le bulletin d'exploitation de
+      l'UIT (No)
+    es: Países o zonas geográficas para los cuales una información sobre la cesación
+      de servicio de télex ha sido publicada en el Boletín de Explotación de la UIT
+      (No)
+  locale:
+    coding:
+      en: Coding
+      fr: Codage
+      es: SCODIFICACIÓN
+    decoding:
+      en: Decoding
+      fr: DÉCODAGE
+      es: DESCODIFICACIÓN
+    accounts:
+      en: ACCOUNTS
+      fr: COMPTABILITE
+      es: CONTABILIDAD
+    acknowledgement_of_receipt:
+      en: ACKNOWLEDGEMENT OF RECEIPT
+      fr: ACCUSÉS DE RÉCEPTION
+      es: ACUSES DE RECIBO
+    addresses:
+      en: ADDRESSES
+      fr: ADRESSES
+      es: DIRECCIONES
+    cancellations:
+      en: CANCELLATIONS
+      fr: ANNULATIONS
+      es: ANULACIONES
+    circulation:
+      en: CIRCULATION
+      fr: ADRESSES
+      es: CIRCULATION
+    delay:
+      en: DELAY
+      es: RETRASO
+      fr: RETARD
+    delivery:
+      en: DELIVERY
+      es: ENTREGA
+      fr: REMISE
+    disposal:
+      en: DISPOSAL
+      es: ENCAMINAMIENTO
+      fr: ACHEMINEMENT
+    duplications:
+      en: DUPLICATIONS
+      es: DUPLICADOS
+      fr: DUPLICATA
+    enquiries:
+      en: ENQUIRIES
+      es: ENCUESTAS
+      fr: ENQUÊTES
+    errors_mutilations_omissions:
+      en: ERRORS, MUTILATIONS, OMISSIONS
+      es: ERRORES, ALTERACIONES, OMISIONES
+      fr: ERREURS, ALTÉRATIONS, OMISSIONS
+    miscellaneous:
+      en: MISCELLANEOUS
+      es: VARIOS
+      fr: DIVERS
+    refunds:
+      en: REFUNDS
+      es: REEMBOLSOS
+      fr: REMBOURSEMENTS
+    registered_addresses:
+      en: REGISTERED ADDRESSES
+      es: DIRECCIONES REGISTRADAS
+      fr: ADRESSES ENREGISTREES
+    repetitions_and_corrections:
+      en: REPETITIONS AND CORRECTIONS
+      es: REPETICIONES Y CORRECCIONES
+      fr: RÉPÉTITIONS ET CORRECTIONS
+    restrictions:
+      en: RESTRICTIONS
+      es: RESTRICCIONES
+      fr: RESTRICTIONS
+    telex:
+      en: TELEX
+      es: TÉLEX
+      fr: TELEX
+    word_counts:
+      en: WORD COUNTS
+      es: COMPUTO DE PALABRAS
+      fr: COMPTE DES MOTS
+data:
+  APHAD:
+    code: APHAD
+    field: accounts
+    message:
+      en: We are debiting you.
+      fr: Nous vous débitons.
+      es: Les cargamos en cuenta.
+  ASSUM:
+    code: ASSUM
+    field: addresses
+    field_desc:
+      en: Address(es)
+      fr: Adresse(s)
+      es: Dirección(es)
+    message:
+      en: Cannot give better address.
+      fr: Ne pouvons donner meilleure adresse.
+      es: No podemos dar mejor dirección.
+  ATFIX:
+    code: ATFIX
+    field: addresses
+    field_desc:
+      en: Address(es)
+      fr: Adresse(s)
+      es: Dirección(es)
+    message:
+      en: Give full address.
+      fr: Donnez adresse complète.
+      es: Comuniquen dirección completa.
+  ATHAS:
+    code: ATHAS
+    field: addresses
+    field_desc:
+      en: Address(es)
+      fr: Adresse(s)
+      es: Dirección(es)
+    message:
+      en: State name and address of sender.
+      fr: Communiquez nom et adresse de l’expéditeur.
+      es: Comuniquen nombre y dirección del expedidor.
+  ATJAW:
+    code: ATJAW
+    field: addresses
+    field_desc:
+      en: Addressee
+      fr: Destinataire
+      es: Destinatario
+    message:
+      en: Give name of addressee.
+      fr: Donnez le nom du destinataire.
+      es: Comuniquen nombre del destinatario.
+  AYGUM:
+    code: AYGUM
+    field: addresses
+    field_desc:
+      en: Address(es)
+      fr: Adresse(s)
+      es: Dirección(es)
+    message:
+      en: Please have address confirmed by sender.
+      fr: Prière faire confirmer adresse par l’expéditeur.
+      es: Rogamos hagan confirmar la dirección al expedidor.
+  AYHAW:
+    code: AYHAW
+    field: addresses
+    field_desc:
+      en: Addressee
+      fr: Destinataire
+      es: Destinatario
+    message:
+      en: Read name of addressee __________.
+      fr: Lire nom du destinataire __________.
+      es: Lean el nombre del destinatario __________.
+  AYJET:
+    code: AYJET
+    field: addresses
+    field_desc:
+      en: Destination
+      fr: Destination
+      es: Punto de destino
+    message:
+      en: Read telegraph office of destination as __________.
+      fr: Lire bureau télégraphique de destination __________.
+      es: Lean oficina telegráfica de destino __________.
+  AZBIN:
+    code: AZBIN
+    field: addresses
+    field_desc:
+      en: Address(es)
+      fr: Adresse(s)
+      es: Dirección(es)
+    message:
+      en: Sender's contact address is __________.
+      fr: Expéditeur peut être touché à l’adresse __________.
+      es: Puede encontrarse al expedidor en __________.
+  AZFOP:
+    code: AZFOP
+    field: cancellations
+    field_desc:
+      en: Blank
+      fr: Manque
+      es: Falta
+    message:
+      en: __________ blank, diverted.
+      fr: __________ manque, dévié.
+      es: __________ falta, desviado.
+  AZGUN:
+    code: AZGUN
+    field: cancellations
+    field_desc:
+      en: Cancellations
+      fr: Annulations
+      es: Anulaciones
+    message:
+      en: Cancel __________ for abstract and accounting purposes.
+      fr: Annulez __________ pour la comptabilité.
+      es: Anulen __________ para contabilidad.
+  AZJEW:
+    code: AZJEW
+    field: cancellations
+    field_desc:
+      en: Cancellations
+      fr: Annulations
+      es: Anulaciones
+    message:
+      en: Cancel, error of service.
+      fr: Annulez, erreur de service.
+      es: Anulen, error de servicio.
+  AZKEG:
+    code: AZKEG
+    field: cancellations
+    field_desc:
+      en: Cancellations
+      fr: Annulations
+      es: Anulaciones
+    message:
+      en: Cancel our number __________.
+      fr: Annulez notre numéro __________.
+      es: Anulen nuestro número __________.
+  AZRED:
+    code: AZRED
+    field: cancellations
+    field_desc:
+      en: Cancellations
+      fr: Annulations
+      es: Anulaciones
+    message:
+      en: Cancel, misrouted.
+      fr: Annulez, erreur d’acheminement.
+      es: Anulen. Error de encaminamiento.
+  BABBA:
+    code: BABBA
+    field: cancellations
+    field_desc:
+      en: Cancellations
+      fr: Annulations
+      es: Anulaciones
+    message:
+      en: Cancel at sender's request.
+      fr: Annulez sur demande de l’expéditeur.
+      es: Anulen a petición del expedidor.
+  BABSO:
+    code: BABSO
+    field: cancellations
+    field_desc:
+      en: Cancellations
+      fr: Annulations
+      es: Anulaciones
+    message:
+      en: Telegram (or service telegram/advice) number __________ cancelled.
+      fr: Télégramme (ou télégramme de service/avis de service) numéro __________
+        annulé.
+      es: Telegrama (o telegrama de servicio/aviso de servicio) número __________
+        anulado.
+  BACYS:
+    code: BACYS
+    field: cancellations
+    field_desc:
+      en: Blank
+      fr: Manque
+      es: Falta
+    message:
+      en: Blank numbers __________.
+      fr: Manquent les numéros __________.
+      es: Faltan los números __________.
+  BADPO:
+    code: BADPO
+    field: cancellations
+    field_desc:
+      en: Cancellations
+      fr: Annulations
+      es: Anulaciones
+    message:
+      en: Shall we cancel?
+      fr: Devons-nous annuler?
+      es: "¿Debemos anular?"
+  BINZA:
+    code: BINZA
+    field: restrictions
+    message:
+      en: Recognized Operating Agency (ROA) does not admit this class of traffic.
+      fr: Exploitation reconnue (ER) n’admet pas cette catégorie de trafic.
+      es: Empresa de explotación reconocida (EER) no admite esta categoría de tráfico.
+  CEPAD:
+    code: CEPAD
+    field: word_counts
+    message:
+      en: In our number __________ number of words __________ correct.
+      fr: Dans notre numéro __________nombre des mots __________ correct.
+      es: En nuestro número __________cómputo de palabras __________ correcto.
+  CESAP:
+    code: CESAP
+    field: word_counts
+    message:
+      en: Wrong number of words __________ actuals received.
+      fr: Nombre des mots inexact __________ en fait reçu __________.
+      es: Número de palabras erróneo __________ recibidas ___________.
+  CODUN:
+    code: CODUN
+    field: word_counts
+    message:
+      en: Read number of words in __________ as __________.
+      fr: En notre __________ lire le nombre des mots __________.
+      es: Cuenten __________ palabras en __________.
+  ENRAM:
+    code: ENRAM
+    field: circulation
+    message:
+      en: Propose diverting __________ traffic via you. Advise if you can clear without
+        delay.
+      fr: Proposons de dévier __________ trafic sur vous; faites savoir si pouvez
+        acheminer sans délai.
+      es: Proponemos desviación tráfico __________ hacia ustedes; avisen si pueden
+        encaminarlo sin retraso.
+  EVLOW:
+    code: EVLOW
+    field: circulation
+    message:
+      en: Your __________ apparently miscirculated to us, message held awaiting your
+        instructions.
+      fr: Votre __________semble avoir été dirigé sur nous par erreur, message en
+        instance en attendant vos instructions.
+      es: Su __________ parece dirigido a nosotros por error, detenemos mensaje en
+        espera sus instrucciones.
+  GYLIL:
+    code: GYLIL
+    field: delay
+    message:
+      en: Complaint of delay. Give time received and delivered (reforwarded) and explain
+        any delay.
+      fr: Plainte pour retard. Donnez heure de réception et de remise (ou de retransmission)
+        et expliquez tout retard.
+      es: Reclamación por retraso. Indiquen hora de recepción y entrega (o de retransmisión)
+        y expliquen el retraso.
+  HAGAS:
+    code: HAGAS
+    field: delay
+    message:
+      en: Confirm time of acceptance __________, complaint of delay.
+      fr: Confirmez heure de dépôt __________, plainte pour retard.
+      es: Confirmen hora depósito __________, reclamación por retraso.
+  HAPIG:
+    code: HAPIG
+    field: delay
+    message:
+      en: Delay due to __________.
+      fr: Retard dû à __________.
+      es: Retraso debido a __________.
+  HETIN:
+    code: HETIN
+    field: delay
+    message:
+      en: Explain delay.
+      fr: Expliquez retard.
+      es: Expliquen retraso.
+  HOMAT:
+    code: HOMAT
+    field: delay
+    message:
+      en: No delay.
+      fr: Pas de retard.
+      es: Sin retraso.
+  JAJAR:
+    code: JAJAR
+    field: delivery
+    field_desc:
+      en: Instructions of delivery
+      fr: Instructions  de remise
+      es: Instrucciones de entrega
+    message:
+      en: Can you now deliver?
+      fr: Le télégramme peut-il maintenant être remis?
+      es: "¿Pueden entregar ahora el telegrama?"
+  JAMEG:
+    code: JAMEG
+    field: delivery
+    field_desc:
+      en: Instructions of delivery
+      fr: Instructions  de remise
+      es: Instrucciones de entrega
+    message:
+      en: __________ claimed registered address good, messages previously sent to
+        same address duly delivered.
+      fr: __________ déclare adresse enregistrée bonne, messages précédemment expédiés
+        même adresse dûment remis.
+      es: __________ declara que la dirección registrada es correcta, telegramas anteriores
+        enviados misma dirección se entregaron debidamente.
+  JARAG:
+    code: JARAG
+    field: delivery
+    field_desc:
+      en: Misdelivery
+      fr: Erreurs de remise
+      es: Errores de entrega
+    message:
+      en: __________ claims misdelivered. Give particulars of delivery.
+      fr: __________déclare mal remis. Donnez détails sur remise.
+      es: __________ declara mal entregado. Den detalles entrega.
+  JEHAT:
+    code: JEHAT
+    field: delivery
+    field_desc:
+      en: Instructions of delivery
+      fr: Instructions  de remise
+      es: Instrucciones de entrega
+    message:
+      en: Deliver to __________.
+      fr: Remettez à __________.
+      es: Entreguen a __________.
+  JIDEW:
+    code: JIDEW
+    field: delivery
+    field_desc:
+      en: Effected delivery
+      fr: Remis effectuée
+      es: Entrega efectuada
+    message:
+      en: Delivered to and accepted by ___________.
+      fr: Remis à et accepté par ___________.
+      es: Entregado y aceptado por ___________.
+  JIFAG:
+    code: JIFAG
+    field: delivery
+    field_desc:
+      en: Effected delivery
+      fr: Remis effectuée
+      es: Entrega efectuada
+    message:
+      en: Delivered to registered address __________.
+      fr: Remis à  l’adresse  enregistrée __________.
+      es: Entregado en la dirección registrada __________.
+  JIHAW:
+    code: JIHAW
+    field: delivery
+    field_desc:
+      en: Non-delivery
+      fr: Non-remise
+      es: No entrega
+    message:
+      en: Delivery office closed.
+      fr: Bureau de distribution fermé.
+      es: Oficina de distribución cerrada.
+  JIJAY:
+    code: JIJAY
+    field: delivery
+    field_desc:
+      en: Effected delivery
+      fr: Remis effectuée
+      es: Entrega efectuada
+    message:
+      en: Duly delivered.
+      fr: Dûment remis.
+      es: Debidamente entregado.
+  JOHAY:
+    code: JOHAY
+    field: delivery
+    field_desc:
+      en: Particulars of delivery
+      fr: Détails de remise
+      es: Detalles de entrega
+    message:
+      en: Give particulars of receipt and delivery.
+      fr: Donnez détails de réception et de remise.
+      es: Den detalles de recepción y entrega.
+  JOKID:
+    code: JOKID
+    field: delivery
+    field_desc:
+      en: Particulars of delivery
+      fr: Détails de remise
+      es: Detalles de entrega
+    message:
+      en: State date and time of delivery.
+      fr: Communiquez date et heure de remise.
+      es: Comuniquen fecha y hora de entrega.
+  JUFAR:
+    code: JUFAR
+    field: delivery
+    field_desc:
+      en: Non-delivery
+      fr: Non-remise
+      es: No entrega
+    message:
+      en: __________ is a reply to your __________. Can you now deliver?
+      fr: __________ est une réponse à votre __________. Pouvez-vous remettre maintenant?
+      es: __________ es respuesta a su __________. ¿Pueden entregarlo ahora?
+  JUJEW:
+    code: JUJEW
+    field: delivery
+    field_desc:
+      en: Effected delivery
+      fr: Remis effectuée
+      es: Entrega efectuada
+    message:
+      en: Message has been called for.
+      fr: Message a été réclamé.
+      es: Se ha reclamado mensaje.
+  JUKIT:
+    code: JUKIT
+    field: delivery
+    field_desc:
+      en: Effected delivery
+      fr: Remis effectuée
+      es: Entrega efectuada
+    message:
+      en: Message received at __________ and delivered at __________.
+      fr: Message reçu à __________ et remis à __________.
+      es: Telegrama recibido a las __________ y entregado a las __________.
+  JYBAG:
+    code: JYBAG
+    field: delivery
+    field_desc:
+      en: Effected delivery
+      fr: Remis effectuée
+      es: Entrega efectuada
+    message:
+      en: Now delivered, called for.
+      fr: Maintenant remis, réclamé.
+      es: Entregado ya, reclamado.
+  JYDOT:
+    code: JYDOT
+    field: delivery
+    field_desc:
+      en: Effected delivery
+      fr: Remis effectuée
+      es: Entrega efectuada
+    message:
+      en: Now delivered to and accepted by __________. (_complete address_)
+      fr: Maintenant remis et accepté par __________. (adresse complète)
+      es: Entregado ya y aceptado por __________. (dirección completa)
+  JYGUS:
+    code: JYGUS
+    field: delivery
+    field_desc:
+      en: Effected delivery
+      fr: Remis effectuée
+      es: Entrega efectuada
+    message:
+      en: Now cleared to ship. Cancel advice of non-delivery.
+      fr: Maintenant transmis au navire. Annulez l’avis de non-remise.
+      es: Ya transmitido al barco. Anule aviso de no entrega.
+  JYSUM:
+    code: JYSUM
+    field: delivery
+    field_desc:
+      en: Instructions of delivery
+      fr: Instructions  de remise
+      es: Instrucciones de entrega
+    message:
+      en: Re-tender and advise.
+      fr: Présentez de nouveau et avisez.
+      es: Vuelvan a presentarlo e informen.
+  MAHPO:
+    code: MAHPO
+    field: delivery
+    field_desc:
+      en: Particulars of delivery
+      fr: Détails de remise
+      es: Detalles de entrega
+    message:
+      en: Why was it not delivered?
+      fr: Pourquoi n’a-t-il pas été remis?
+      es: "¿Por qué no ha sido entregado?"
+  MAJPA:
+    code: MAJPA
+    field: disposal
+    field_desc:
+      en: Instructions of forwarding
+      fr: Instructions de retransmission
+      es: Instrucciones de retransmisión
+    message:
+      en: Forward by mail.
+      fr: Faites suivre par poste.
+      es: Cursen por correo.
+  MANAG:
+    code: MANAG
+    field: disposal
+    field_desc:
+      en: Information of forwarding
+      fr: Information de retransmission
+      es: Información de retransmisión
+    message:
+      en: Forwarding by mail.
+      fr: Faisons suivre par poste.
+      es: Se cursa por correo.
+  MATIS:
+    code: MATIS
+    field: disposal
+    field_desc:
+      en: Information of forwarding
+      fr: Information de retransmission
+      es: Información de retransmisión
+    message:
+      en: __________ still on hand as communication not established since receipt.
+        Message(s) will be retained for further trial unless otherwise instructed.
+      fr: __________ toujours en mains aucun contact n’a été établi depuis réception.  Message(s)
+        sera(seront) conservé(s) pour nouvel essai à  moins d’instructions différentes.
+      es: __________ todavía por cursa ya que no se ha establecido la comunicación
+        desde su recepción. El (los) mensaje(s) se guarda(n) para otros intentos a
+        menos que se reciban otras instrucciones.
+  MATMU:
+    code: MATMU
+    field: disposal
+    field_desc:
+      en: Information of forwarding
+      fr: Information de retransmission
+      es: Información de retransmisión
+    message:
+      en: Instruct us how to dispose of __________.
+      fr: Dites-nous que faire de __________?
+      es: Digan cómo curso __________.
+  MEGLA:
+    code: MEGLA
+    field: disposal
+    field_desc:
+      en: Information of forwarding
+      fr: Information de retransmission
+      es: Información de retransmisión
+    message:
+      en: __________ was forwarded to __________ at __________.
+      fr: __________ a été acheminé sur __________ à __________.
+      es: __________ fue cursado a  __________ a las __________.
+  MEROW:
+    code: MEROW
+    field: duplications
+    field_desc:
+      en: Duplications
+      fr: Duplicata
+      es: Duplicados
+    message:
+      en: __________ are identical.
+      fr: __________ sont identiques.
+      es: __________ son idénticos.
+  METAB:
+    code: METAB
+    field: duplications
+    field_desc:
+      en: Duplications
+      fr: Duplicata
+      es: Duplicados
+    message:
+      en: Duplicate delivered.
+      fr: Duplicata remis.
+      es: Entregado duplicado.
+  MIHOB:
+    code: MIHOB
+    field: duplications
+    field_desc:
+      en: Cancellation of duplications
+      fr: Annulation de duplicata
+      es: Anulación de duplicados
+    message:
+      en: Message number __________ appears to have been received also under number
+        __________. Shall we cancel latter copy?
+      fr: Message numéro __________ semble avoir été également reçu sous numéro __________.
+        Devons-nous annuler cette dernière réception?
+      es: Mensaje número __________ parece haberse recibido también bajo el número
+        __________. ¿Debemos anularlo?
+  MIHYT:
+    code: MIHYT
+    field: duplications
+    field_desc:
+      en: Duplications
+      fr: Duplicata
+      es: Duplicados
+    message:
+      en: Message number __________ is not duplicate of message number __________.
+      fr: Message numéro __________ n’est pas duplicata du message numéro __________.
+      es: Mensaje número __________ no es duplicado del mensaje número __________.
+  MIJEM:
+    code: MIJEM
+    field: duplications
+    field_desc:
+      en: Cancellation of duplications
+      fr: Annulation de duplicata
+      es: Anulación de duplicados
+    message:
+      en: Uncertain if following message (service advice)has been sent to you before.
+        If previously received under another number cancel this copy and report.
+      fr: Ne sommes pas certains que ce message (cet avis de service) vous a déjà
+        été transmis. Si vous l’avez reçu précédemment sous un autre numéro, annulez
+        cette copie. Donnez réponse.
+      es: No sabemos si mensaje (aviso de servicio) siguiente se les ha cursado ya.
+        Si lo han recibido ya con otro número anulen esta copia y avisen.
+  MIJNU:
+    code: MIJNU
+    field: duplications
+    field_desc:
+      en: Duplications
+      fr: Duplicata
+      es: Duplicados
+    message:
+      en: We have two different messages under number __________. Give new number.
+      fr: Nous avons deux messages différents sous le numéro __________. Donnez nouveau
+        numéro.
+      es: Tenemos dos mensajes distintos con el número __________. Sírvanse dar nuevo
+        número.
+  MIRZU:
+    code: MIRZU
+    field: enquiries
+    field_desc:
+      en: Questions
+      fr: Questions
+      es: Preguntas
+    message:
+      en: Can you explain?
+      fr: Pouvez-vous expliquer?
+      es: "¿Pueden explicar?"
+  MOBAY:
+    code: MOBAY
+    field: enquiries
+    field_desc:
+      en: Questions
+      fr: Questions
+      es: Preguntas
+    message:
+      en: Can you trace?
+      fr: Pouvez-vous retrouver?
+      es: "¿Pueden investigar?"
+  MODAB:
+    code: MODAB
+    field: enquiries
+    field_desc:
+      en: Replies
+      fr: Réponses
+      es: Respuestas
+    message:
+      en: Case now closed.
+      fr: Affaire terminée.
+      es: Asunto resuelto.
+  MOPOH:
+    code: MOPOH
+    field: enquiries
+    field_desc:
+      en: Replies
+      fr: Réponses
+      es: Respuestas
+    message:
+      en: Following received from __________.
+      fr: Reçu ce qui suit de __________.
+      es: Recibido de __________lo siguiente.
+  MOPYD:
+    code: MOPYD
+    field: enquiries
+    field_desc:
+      en: Questions
+      fr: Questions
+      es: Preguntas
+    message:
+      en: What is the name of the coast station?
+      fr: Quel est le nom de la station côtière?
+      es: "¿Cómo se llama la estación costera?"
+  MORUG:
+    code: MORUG
+    field: enquiries
+    field_desc:
+      en: Questions
+      fr: Questions
+      es: Preguntas
+    message:
+      en: What is the name of the ship station?
+      fr: Quel est le nom de la station de navire?
+      es: "¿Cómo se llama la estación de barco?"
+  MOYES:
+    code: MOYES
+    field: enquiries
+    field_desc:
+      en: Enquiries
+      fr: Enquêtes
+      es: Encuestas
+    message:
+      en: Give telegraph office of origin.
+      fr: Indiquez bureau télégraphique d’origine.
+      es: Indiquen oficina telegráfica de origen.
+  MYBEG:
+    code: MYBEG
+    field: enquiries
+    field_desc:
+      en: Enquiries
+      fr: Enquêtes
+      es: Encuestas
+    message:
+      en: Enquire and advise us.
+      fr: Informez-vous (ou enquêtez) et avisez-nous.
+      es: Averigüen e informen.
+  MYJUG:
+    code: MYJUG
+    field: enquiries
+    field_desc:
+      en: Enquiries
+      fr: Enquêtes
+      es: Encuestas
+    message:
+      en: Please report present status of enquiry, we are being pressed for a reply.
+      fr: Où en est l’enquête? On nous presse de répondre.
+      es: "¿Que han averiguado? Nos piden respuesta."
+  NACBA:
+    code: NACBA
+    field: enquiries
+    field_desc:
+      en: Replies
+      fr: Réponses
+      es: Respuestas
+    message:
+      en: We are enquiring, will reply as soon as possible.
+      fr: Enquêtons, répondrons aussitôt que possible.
+      es: Indagamos, contestaremos en cuanto sea posible.
+  NACNE:
+    code: NACNE
+    field: enquiries
+    field_desc:
+      en: Replies
+      fr: Réponses
+      es: Respuestas
+    message:
+      en: We are enable to trace.
+      fr: Ne pouvons retrouver.
+      es: No podemos localizar.
+  NAFAC:
+    code: NAFAC
+    field: errors_mutilations_omissions
+    field_desc:
+      en: Errors
+      fr: Erreurs
+      es: Errores
+    message:
+      en: Addressee claims incorrect.
+      fr: Destinataire prétend incorrect.
+      es: Destinatario pretende que es incorrecto.
+  NEDIB:
+    code: NEDIB
+    field: errors_mutilations_omissions
+    field_desc:
+      en: Omissions
+      fr: Omissions
+      es: Omisiones
+    message:
+      en: Place of destination incomplete; there are several. Advise.
+      fr: Lieu de destination incomplet, il y en a plusieurs. Renseignez.
+      es: Lugar de destino incompleto, existen varios. Sírvanse informar.
+  NEDYF:
+    code: NEDYF
+    field: errors_mutilations_omissions
+    field_desc:
+      en: Errors
+      fr: Erreurs
+      es: Errores
+    message:
+      en: Error(s) made here and will be dealt with.
+      fr: Erreur(s) faite(s) ici. Mesures seront prises.
+      es: Error(es) cometido(s) aquí. Se subsanará(n).
+  NEFAT:
+    code: NEFAT
+    field: errors_mutilations_omissions
+    field_desc:
+      en: Errors
+      fr: Erreurs
+      es: Errores
+    message:
+      en: Error of service.
+      fr: Erreur de service.
+      es: Error de servicio.
+  NEMYD:
+    code: NEMYD
+    field: errors_mutilations_omissions
+    field_desc:
+      en: Errors
+      fr: Erreurs
+      es: Errores
+    message:
+      en: Place of destination unknown; we forwarded to __________. Correct if necessary.
+      fr: Lieu de destination inconnu; nous dirigeons sur __________. Rectifiez si
+        utile.
+      es: Punto de destino desconocido. Cursamos a  __________. Rectifiquen si es
+        necesario.
+  NIBYP:
+    code: NIBYP
+    field: errors_mutilations_omissions
+    field_desc:
+      en: Mutilations
+      fr: Altérations
+      es: Alteraciones
+    message:
+      en: Mutilated. Please repeat.
+      fr: Mutilé. Prière répéter.
+      es: Mutilado. Rogamos repitan.
+  NISER:
+    code: NISER
+    field: errors_mutilations_omissions
+    field_desc:
+      en: Omissions
+      fr: Omissions
+      es: Omisiones
+    message:
+      en: Omitted.
+      fr: Omis.
+      es: Omitido.
+  NODHE:
+    code: NODHE
+    field: errors_mutilations_omissions
+    field_desc:
+      en: Errors
+      fr: Erreurs
+      es: Errores
+    message:
+      en: Sender's error.
+      fr: Erreur de l’expéditeur.
+      es: Error del expedidor.
+  OLMAD:
+    code: OLMAD
+    field: delivery
+    field_desc:
+      en: Non-delivery
+      fr: Non-remise
+      es: No entrega
+    message:
+      en: Address insufficient, we try delivery to __________. Correct if necessary.
+      fr: Adresse insuffisante, nous essayons de remettre à __________. Corrigez si
+        nécessaire.
+      es: Dirección insuficiente, intentamos su entrega a  __________. Rectifiquen
+        si es necesario.
+  OLWAY:
+    code: OLWAY
+    field: delivery
+    field_desc:
+      en: Non-delivery
+      fr: Non-remise
+      es: No entrega
+    message:
+      en: Address unregistered, we try delivery to __________. Correct if necessary.
+      fr: Adresse non enregistrée, nous essayons de remettre à __________. Corrigez
+        si nécessaire.
+      es: Dirección no registrada, intentamos su entrega a  __________. Rectifiquen
+        si es necesario
+  OMKEW:
+    code: OMKEW
+    field: delivery
+    field_desc:
+      en: Complaints
+      fr: Réclamations
+      es: Reclamaciones
+    message:
+      en: Complaint of non-delivery. Give full particulars of delivery and say if
+        addressee acknowledges receipt.
+      fr: Réclamation pour non-remise. Donnez tous détails sur remise et dites si
+        le destinataire accuse réception.
+      es: Reclamación por no entrega. Indiquen detalles de la entrega, señalando si
+        destinatario acusa recibo.
+  ONKEY:
+    code: ONKEY
+    field: delivery
+    field_desc:
+      en: Non-delivery
+      fr: Non-remise
+      es: No entrega
+    message:
+      en: Message unacknowledged after __________ transmissions. Please advise.
+      fr: Pas reçu accusé de réception après __________transmissions. Prière renseigner.
+      es: No recibido acuse recibo después de __________transmisiones. Sírvanse informar.
+  OPBUN:
+    code: OPBUN
+    field: delivery
+    field_desc:
+      en: Non-delivery
+      fr: Non-remise
+      es: No entrega
+    message:
+      en: __________ sender received advice by another route that message undelivered.
+        Please investigate and reply quickly.
+      fr: __________ expéditeurs ont reçu avis par autre voie que message non-remis.
+        Prière enquêter et répondre rapidement.
+      es: __________ expedidores han recibido aviso por otra ruta de que su mensaje
+        no ha sido entregado. Rogamos investiguen y respondan urgentemente.
+  OPKID:
+    code: OPKID
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Treat as non-delivery.
+      fr: Traitez comme une «non-remise».
+      es: Considérenle como no entregado.
+  OPSOP:
+    code: OPSOP
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, addressee cannot be found.
+      fr: Non remis, destinataire introuvable.
+      es: No entregado, no se encuentra al destinatario
+  OPWIG:
+    code: OPWIG
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, refused by addressee.
+      fr: Non remis, refusé par le destinataire.
+      es: No entregado, rehusado por destinatario.
+  ORDAD:
+    code: ORDAD
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, addressee not on board.
+      fr: Non remis, destinataire pas à  bord.
+      es: No entregado, destinatario no se halla a bordo.
+  ORMAT:
+    code: ORMAT
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, house closed; notice mailed.
+      fr: Non remis, maison fermée; avis envoyé par poste.
+      es: No entregado, casa cerrada, enviado aviso postal.
+  ORWON:
+    code: ORWON
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, owing to __________.
+      fr: Non remis à cause de __________.
+      es: No entregado a causa de __________.
+  OSHAT:
+    code: OSHAT
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, returned by postal service, unclaimed.
+      fr: Non remis, renvoyé par service postal, non réclamé.
+      es: No entregado, devuelto por correos, no reclamado.
+  OSJOG:
+    code: OSJOG
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, returned by postal service, unknown.
+      fr: Non remis, renvoyé par service postal, inconnu.
+      es: No entregado, devuelto por correos, desconocido.
+  OSMAW:
+    code: OSMAW
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, several firms of that name.
+      fr: Non remis, plusieurs firmes de ce nom.
+      es: No entregado, varias firmas con el mismo nombre.
+  OSSUP:
+    code: OSSUP
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, several streets of that name, district required.
+      fr: Non remis, plusieurs rues de ce nom; indiquez arrondissement (ou quartier,
+        district, etc.).
+      es: No entregado, varias calles del mismo nombre. Indiquen distrito (o barrio,
+        etc.).
+  OTTAB:
+    code: OTTAB
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, unable to contact telephone number.
+      fr: Non remis, impossible atteindre numéro de téléphone.
+      es: No entregado, imposible comunicar con número teléfono.
+  PAJAV:
+    code: PAJAV
+    field: acknowledgement_of_receipt
+    message:
+      en: Addressee acknowledges receipt.
+      fr: Destinataire accuse réception.
+      es: Destinatario acusa recibo.
+  PALAM:
+    code: PALAM
+    field: acknowledgement_of_receipt
+    message:
+      en: Get addressee's acknowledgement of receipt.
+      fr: Demandez accusé de réception au destinataire.
+      es: Pidan acuse de recibo al destinatario.
+  PALIL:
+    code: PALIL
+    field: acknowledgement_of_receipt
+    message:
+      en: Good delivery receipt held for __________.
+      fr: Avons accusé de réception pour __________.
+      es: Tenemos acuse recibo para __________.
+  PAMNO:
+    code: PAMNO
+    field: registered_addresses
+    message:
+      en: __________ is registered for __________.
+      fr: __________ est enregistré pour __________.
+      es: __________ registrada para __________.
+  PASCA:
+    code: PASCA
+    field: duplications
+    field_desc:
+      en: Cancellation of duplications
+      fr: Annulation de duplicata
+      es: Anulación de duplicados
+    message:
+      en: Transmitted twice; cancel second transmission.
+      fr: Transmis deux fois; annulez deuxième transmission.
+      es: Transmitido dos veces; anulen segunda transmisión.
+  PATAB:
+    code: PATAB
+    field: registered_addresses
+    message:
+      en: Supply unpacked address for __________.
+      fr: Fournissez adresse développée de __________.
+      es: Comuniquen dirección completa de __________.
+  PEZES:
+    code: PEZES
+    field: refunds
+    message:
+      en: We are refunding.
+      fr: Nous remboursons.
+      es: Reembolsamos.
+  PEZIH:
+    code: PEZIH
+    field: refunds
+    message:
+      en: Refund is authorized.
+      fr: Remboursement autorisé.
+      es: Autorizado reembolso.
+  PEZJU:
+    code: PEZJU
+    field: refunds
+    message:
+      en: Refund is not authorized.
+      fr: Remboursement non autorisé.
+      es: No se autoriza el reembolso.
+  PEZVE:
+    code: PEZVE
+    field: refunds
+    message:
+      en: Telegram service not at fault.
+      fr: Service télégraphique pas en faute.
+      es: No es culpa servicio telegráfico.
+  PEZYV:
+    code: PEZYV
+    field: refunds
+    message:
+      en: Refund of charges are in order for any special service relating to the radiotelegram
+        that have not been carried out.
+      fr: Remboursement des taxes est en règle en ce qui concerne les services spéciaux
+        non rendus relatifs aux radiotélégrammes.
+      es: Se acepta el reembolso de las tasas en lo que respecta a los servicios especiales
+        no efectuados relativos a los radiotelegramas.
+  PIDUD:
+    code: PIDUD
+    field: refunds
+    message:
+      en: Sender applies for refund of message charges. Please authorize.
+      fr: Expéditeur demande remboursement des taxes du message. Prière autoriser.
+      es: Expedidor pide reembolso importe mensaje. Rogamos autorización.
+  PITUG:
+    code: PITUG
+    field: repetitions_and_corrections
+    field_desc:
+      en: Confirmations
+      fr: Confirmation
+      es: Confirmaciones
+    message:
+      en: Sender's confirmation.
+      fr: Confirmation donnée par l’expéditeur.
+      es: Confirmación dada por el expedidor.
+  POFIH:
+    code: POFIH
+    field: repetitions_and_corrections
+    field_desc:
+      en: Corrections
+      fr: Corrections
+      es: Correcciones
+    message:
+      en: Correct if necessary.
+      fr: Rectifiez si nécessaire.
+      es: Rectifiquen si es necesario.
+  POHCO:
+    code: POHCO
+    field: repetitions_and_corrections
+    field_desc:
+      en: Corrections
+      fr: Corrections
+      es: Correcciones
+    message:
+      en: Correction made by sender.
+      fr: Correction faite par l’expéditeur.
+      es: Corrección hecha por el expedidor.
+  POHEG:
+    code: POHEG
+    field: repetitions_and_corrections
+    field_desc:
+      en: Corrections
+      fr: Corrections
+      es: Correcciones
+    message:
+      en: Correct on our copy.
+      fr: Correct sur notre copie.
+      es: Correcto en nuestra copia.
+  POHOC:
+    code: POHOC
+    field: repetitions_and_corrections
+    field_desc:
+      en: Repetitions
+      fr: Répétitions
+      es: Repeticiones
+    message:
+      en: Do not understand your service advice. Repeat references.
+      fr: Ne comprenons pas votre avis de service. Répétez les références.
+      es: No comprendemos su aviso de servicio. Sírvanse repetir referencias.
+  POMDU:
+    code: POMDU
+    field: repetitions_and_corrections
+    field_desc:
+      en: Corrections
+      fr: Corrections
+      es: Correcciones
+    message:
+      en: Delete CTF (Correction to follow) in service instructions.
+      fr: Biffer CTF (Rectification suivra) dans les mentions de service.
+      es: Borren CTF (Seguirá rectificación) en las menciones de servicio.
+  POMZO:
+    code: POMZO
+    field: repetitions_and_corrections
+    field_desc:
+      en: Corrections
+      fr: Corrections
+      es: Correcciones
+    message:
+      en: __________ forwarded "subject to correction" for __________.
+      fr: __________ est transmis «sujet à correction» pour __________.
+      es: __________ cursado «sujeto a corrección» para __________.
+  PONEB:
+    code: PONEB
+    field: repetitions_and_corrections
+    field_desc:
+      en: Corrections
+      fr: Corrections
+      es: Correcciones
+    message:
+      en: Forward (or deliver) correction.
+      fr: Faites suivre (ou remettez) correction.
+      es: Cursen (entreguen) corrección.
+  POSAG:
+    code: POSAG
+    field: repetitions_and_corrections
+    field_desc:
+      en: Reference to sender, etc.
+      fr: Référence à l’expéditeur, etc.
+      es: Referencia al expedidor, etc.
+    message:
+      en: Consult sender.
+      fr: Consultez l’expéditeur.
+      es: Consulten al expedidor.
+  POSRA:
+    code: POSRA
+    field: repetitions_and_corrections
+    field_desc:
+      en: Copies
+      fr: Copies
+      es: Copias
+    message:
+      en: Herewith copy __________.
+      fr: Voici copie __________.
+      es: He aquí copia __________.
+  PUCUD:
+    code: PUCUD
+    field: repetitions_and_corrections
+    field_desc:
+      en: Reference to sender, etc.
+      fr: Référence à l’expéditeur, etc.
+      es: Referencia al expedidor, etc.
+    message:
+      en: Indistinctly written.
+      fr: Écriture douteuse.
+      es: Escritura dudosa.
+  PUFOB:
+    code: PUFOB
+    field: repetitions_and_corrections
+    field_desc:
+      en: Corrections
+      fr: Corrections
+      es: Correcciones
+    message:
+      en: Is this message still "subject to correction"?
+      fr: Ce message est-il toujours «sujet à correction»?
+      es: "¿Sigue este telegrama «sujeto a corrección»?"
+  PYBIN:
+    code: PYBIN
+    field: repetitions_and_corrections
+    field_desc:
+      en: Reference to sender, etc.
+      fr: Référence à l’expéditeur, etc.
+      es: Referencia al expedidor, etc.
+    message:
+      en: Office of addressees closed.
+      fr: Bureau des destinataires fermé.
+      es: Oficina del destinatario cerrada.
+  PYSAT:
+    code: PYSAT
+    field: delivery
+    field_desc:
+      en: Effected delivery
+      fr: Remis effectuée
+      es: Entrega efectuada
+    message:
+      en: Delivered subsequently. Cancel advice of non-delivery.
+      fr: Remis postérieurement. Annulez avis de non-remise.
+      es: Entregado posteriormente. Anulen aviso de no entrega.
+  RACYB:
+    code: RACYB
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Still undelivered.
+      fr: Toujours non remis.
+      es: Continúa sin entregar.
+  RAFIS:
+    code: RAFIS
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, not called for.
+      fr: Non remis, pas réclamé.
+      es: Sin entregar, no reclamado.
+  RAFSO:
+    code: RAFSO
+    field: repetitions_and_corrections
+    field_desc:
+      en: Reminder (non-reply)
+      fr: Rappel (non-réponse)
+      es: Recordatorio (No respuesta)
+    message:
+      en: Second application.
+      fr: Deuxième demande.
+      es: Segunda petición.
+  RAFUJ:
+    code: RAFUJ
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, addressee absent.
+      fr: Non remis, destinataire absent.
+      es: No entregado, destinatario ausente.
+  RAHOT:
+    code: RAHOT
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, addressee left, forwarded by post to __________.
+      fr: Non remis, destinataire parti, réexpédié par poste à __________.
+      es: No entregado, destinatario marchó, reexpedido por correo a __________.
+  RAJAJ:
+    code: RAJAJ
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, addressee unknown.
+      fr: Non remis, destinataire inconnu.
+      es: No entregado, destinatario desconocido.
+  RAJEV:
+    code: RAJEV
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, addressee left for __________.
+      fr: Non remis, destinataire parti pour __________.
+      es: No entregado, destinatario marchó a __________.
+  RAJFU:
+    code: RAJFU
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, addressee left without leaving address.
+      fr: Non remis, destinataire parti sans laisser d’adresse.
+      es: No entregado, destinatario marchó sin dejar señas.
+  RAMUZ:
+    code: RAMUZ
+    field: repetitions_and_corrections
+    field_desc:
+      en: Corrections
+      fr: Corrections
+      es: Correcciones
+    message:
+      en: Subject to correction.
+      fr: Sujet à correction.
+      es: Sujeto a corrección.
+  RATEB:
+    code: RATEB
+    field: repetitions_and_corrections
+    field_desc:
+      en: Reminder (non-reply)
+      fr: Rappel (non-réponse)
+      es: Recordatorio (No respuesta)
+    message:
+      en: Third application.
+      fr: Troisième demande.
+      es: Tercera petición.
+  REGAD:
+    code: REGAD
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, several persons of the same name.
+      fr: Non remis, plusieurs personnes de ce nom.
+      es: No entregado, varias personas del mismo nombre.
+  REJAB:
+    code: REJAB
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, ship out of range.
+      fr: Non remis, navire hors d’atteinte.
+      es: No entregado,  barco fuera de alcance.
+  REKEG:
+    code: REKEG
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, address insufficient.
+      fr: Non remis, adresse insuffisante.
+      es: No entregado, dirección insuficiente
+  RICOD:
+    code: RICOD
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, address no longer registered.
+      fr: Non remis, adresse n’est plus enregistrée.
+      es: No entregado, dirección caducada.
+  RIJAG:
+    code: RIJAG
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, address not registered.
+      fr: Non remis, adresse pas enregistrée.
+      es: No entregado, dirección no registrada.
+  RISOB:
+    code: RISOB
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, no house at that number.
+      fr: Non remis, numéro de maison n’existe pas.
+      es: No entregado, no existe tal número de casa.
+  ROCOG:
+    code: ROCOG
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, place, street, road, etc. unknown.
+      fr: Non remis, place, rue, avenue, etc., inconnue.
+      es: No entregado, plaza, calle, avenida, etc., desconocida.
+  ROFAB:
+    code: ROFAB
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, not claimed on board.
+      fr: Non remis, non réclamé à bord.
+      es: No entregado, no reclamado a bordo.
+  ROFER:
+    code: ROFER
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, ship already left.
+      fr: Non remis, navire déjà parti.
+      es: No entregado, barco ya zarpado.
+  ROFJO:
+    code: ROFJO
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, ship did not communicate.
+      fr: Non remis, navire ne s’est pas annoncé.
+      es: No entregado, el barco no se ha anunciado.
+  ROFUN:
+    code: ROFUN
+    field: repetitions_and_corrections
+    field_desc:
+      en: Corrections
+      fr: Corrections
+      es: Correcciones
+    message:
+      en: Your BQ makes no correction.
+      fr: Votre BQ ne fait pas de correction.
+      es: Su BQ no rectifica nada.
+  ROKEW:
+    code: ROKEW
+    field: repetitions_and_corrections
+    field_desc:
+      en: Corrections
+      fr: Corrections
+      es: Correcciones
+    message:
+      en: Your service advice corrected and forwarded.
+      fr: Votre avis de service corrigé et retransmis.
+      es: Su aviso de servicio corregido y cursado.
+  ROSOP:
+    code: ROSOP
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered. Several ships of the same name. Please supply Nationality and/or
+        Call sign.
+      fr: Non remis. Plusieurs bateaux de même nom. Prière fournir nationalité et/ou
+        indicatif d’appel.
+      es: No entregado. Hay varios barcos de igual nombre. Sírvanse indicar nacionalidad,
+        distintivo de llamada o ambas cosas.
+  RUCMU:
+    code: RUCMU
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, telephone number given in address does not correspond with
+        the name of addressee.
+      fr: Non remis, numéro de téléphone indiqué dans l’adresse ne correspond pas
+        au nom du destinataire.
+      es: No entregado, número de teléfono indicado en dirección no corresponde al
+        nombre del destinatario.
+  RUCOS:
+    code: RUCOS
+    field: delivery
+    field_desc:
+      en: Undelivered messages
+      fr: Message de non-remise
+      es: Mensaje de no entrega
+    message:
+      en: Undelivered, hotel, house, firm, etc. no longer exists.
+      fr: Non remis, hôtel, maison, firme, etc., n’existe plus.
+      es: No entregado, ya no existe el hotel (casa, firma, etc.).
+  TOPMO:
+    code: TOPMO
+    field: miscellaneous
+    field_desc:
+      en: Various
+      fr: Divers
+      es: Varios
+    message:
+      en: Acknowledge this notification.
+      fr: Accusez réception de cette notification.
+      es: Acusen recibo de esta comunicación.
+  TUHRU:
+    code: TUHRU
+    field: miscellaneous
+    field_desc:
+      en: Agreement
+      fr: Accord
+      es: Acuerdo
+    message:
+      en: Say if in agreement.
+      fr: Prière dire si d’accord.
+      es: Digan si están de acuerdo.
+  TUNHO:
+    code: TUNHO
+    field: miscellaneous
+    field_desc:
+      en: Agreement
+      fr: Accord
+      es: Acuerdo
+    message:
+      en: We are in agreement.
+      fr: Nous sommes d’accord.
+      es: Estamos de acuerdo.
+  TUNVU:
+    code: TUNVU
+    field: miscellaneous
+    field_desc:
+      en: Agreement
+      fr: Accord
+      es: Acuerdo
+    message:
+      en: We are not in agreement.
+      fr: Nous ne sommes pas d’accord.
+      es: No estamos de acuerdo.
+  UDFOG:
+    code: UDFOG
+    field: miscellaneous
+    field_desc:
+      en: Attention
+      fr: Attention
+      es: Atención
+    message:
+      en: Please have it attended to immediately.
+      fr: Prière faire nécessaire immédiatement.
+      es: Rogamos lo atiendan inmediatamente.
+  UGJAW:
+    code: UGJAW
+    field: miscellaneous
+    field_desc:
+      en: Complaints / Enquiries
+      fr: Réclamations/enquêtes
+      es: Reclamaciones/encuestas
+    message:
+      en: Complaint has been made.
+      fr: Réclamation a été déposée.
+      es: Presentada reclamación.
+  UHYON:
+    code: UHYON
+    field: miscellaneous
+    field_desc:
+      en: Copy/Copies
+      fr: Copie/Copies
+      es: Copia/Copias
+    message:
+      en: Missing __________. Please supply copy quickly.
+      fr: Manque __________. Prière donner rapidement copie.
+      es: Extraviado __________. Faciliten copia rápidamente.
+  UJDUD:
+    code: UJDUD
+    field: miscellaneous
+    field_desc:
+      en: Copy/Copies
+      fr: Copie/Copies
+      es: Copia/Copias
+    message:
+      en: __________ missing. Please supply copy quickly preceded by reference of
+        this service advice.
+      fr: Manque __________. Prière donner rapidement copie, précédée par référence
+        de cet avis de service.
+      es: __________ extraviado, sírvanse facilitarnos una copia rápidamente precedida
+        por la referencia de este aviso de servicio.
+  UKTAB:
+    code: UKTAB
+    field: miscellaneous
+    field_desc:
+      en: Various
+      fr: Divers
+      es: Varios
+    message:
+      en: Have you any record of such a message having been filed (received)?
+      fr: Pouvez-vous voir si un tel message a été déposé (reçu)?
+      es: "¿Pueden comprobar si se ha depositado (recibido) tal mensaje?"
+  UPBAG:
+    code: UPBAG
+    field: miscellaneous
+    field_desc:
+      en: Information
+      fr: Renseignements
+      es: Información
+    message:
+      en: For your information.
+      fr: Pour votre information.
+      es: Para su conocimiento.
+  USLEG:
+    code: USLEG
+    field: miscellaneous
+    field_desc:
+      en: Complaints / Enquiries
+      fr: Réclamations/enquêtes
+      es: Reclamaciones/encuestas
+    message:
+      en: Case under investigation, will reply as soon as possible.
+      fr: Affaire sous enquête, répondrons dès que possible.
+      es: Se estudia el caso, responderemos lo antes posible.
+  USTIN:
+    code: USTIN
+    field: miscellaneous
+    field_desc:
+      en: Complaints / Enquiries
+      fr: Réclamations/enquêtes
+      es: Reclamaciones/encuestas
+    message:
+      en: Please investigate and reply as soon as possible.
+      fr: Prière enquêter et répondre aussitôt que possible.
+      es: Rogamos investiguen y respondan lo antes posible.
+  UTCOD:
+    code: UTCOD
+    field: miscellaneous
+    field_desc:
+      en: Various
+      fr: Divers
+      es: Varios
+    message:
+      en: Use the code.
+      fr: Utilisez le code, s.v.p.!
+      es: Utilicen el código.
+  VEBET:
+    code: VEBET
+    field: miscellaneous
+    field_desc:
+      en: Various
+      fr: Divers
+      es: Varios
+    message:
+      en: Please do needful.
+      fr: Prière faire le nécessaire.
+      es: Rogamos hagan lo necesario.
+  VUSOB:
+    code: VUSOB
+    field: miscellaneous
+    field_desc:
+      en: Various
+      fr: Divers
+      es: Varios
+    message:
+      en: Read telegraph office of origin __________.
+      fr: Lisez bureau télégraphique d’origine __________.
+      es: Lean oficina telegráfica de origen __________.
+  WAJEJ:
+    code: WAJEJ
+    field: miscellaneous
+    field_desc:
+      en: Various
+      fr: Divers
+      es: Varios
+    message:
+      en: Please give prefix number or channel sequence number under which the transit
+        telegram referred to was sent forward to its destination or next transit point.
+      fr: Prière indiquer le préfixe ou le numéro de série sur voie attribué pour
+        ce télégramme en transit, lors de son acheminement au point de transit suivant
+        ou à son point de destination.
+      es: Sírvase indicar prefijo o número de serie del canal utilizado para este
+        telegrama en tránsito para su encaminamiento al punto de tránsito siguiente
+        o a su lugar de destino.
+  WAJGU:
+    code: WAJGU
+    field: miscellaneous
+    field_desc:
+      en: References
+      fr: Référence
+      es: Referencia
+    message:
+      en: Give reference.
+      fr: Donnez référence.
+      es: Sírvanse dar referencia.
+  WALAG:
+    code: WALAG
+    field: miscellaneous
+    field_desc:
+      en: References
+      fr: Référence
+      es: Referencia
+    message:
+      en: Reference is correct.
+      fr: Référence est correcte.
+      es: La referencia es correcta.
+  WALEM:
+    code: WALEM
+    field: miscellaneous
+    field_desc:
+      en: References
+      fr: Référence
+      es: Referencia
+    message:
+      en: Reference is wrong.
+      fr: Référence est fausse.
+      es: La referencia es errónea.
+  WALOS:
+    code: WALOS
+    field: miscellaneous
+    field_desc:
+      en: References
+      fr: Référence
+      es: Referencia
+    message:
+      en: Referring to our __________.
+      fr: Se référant à notre __________.
+      es: Con referencia a nuestro __________.
+  WALPU:
+    code: WALPU
+    field: miscellaneous
+    field_desc:
+      en: References
+      fr: Référence
+      es: Referencia
+    message:
+      en: Referring to your __________.
+      fr: Se référant à votre __________.
+      es: Con referencia a su __________.
+  WEJYV:
+    code: WEJYV
+    field: miscellaneous
+    field_desc:
+      en: References
+      fr: Référence
+      es: Referencia
+    message:
+      en: Reference incorrect. Give number, date, time of handing in, and say by which
+        channel/route sent.
+      fr: Référence fausse. Donnez numéro, date, heure de dépôt et dites par quel
+        canal/voie transmis.
+      es: Referencia errónea. Indiquen número, fecha y hora de depósito, y digan por
+        qué canal/ruta se transmitió.
+  WOBAJ:
+    code: WOBAJ
+    field: miscellaneous
+    field_desc:
+      en: Various
+      fr: Divers
+      es: Varios
+    message:
+      en: Please obtain sender's name and address from the addressee.
+      fr: Prière obtenir du destinataire nom et adresse de l’expéditeur.
+      es: Rogamos pidan destinatario nombre y dirección expedidor.
+  WOBMO:
+    code: WOBMO
+    field: miscellaneous
+    field_desc:
+      en: Various
+      fr: Divers
+      es: Varios
+    message:
+      en: Sender cannot be found.
+      fr: Expéditeur introuvable.
+      es: No podemos encontrar al expedidor.
+  XEROJ:
+    code: XEROJ
+    field: miscellaneous
+    field_desc:
+      en: Various
+      fr: Divers
+      es: Varios
+    message:
+      en: Your service advice not understood.
+      fr: Votre avis de service non compris.
+      es: No comprendemos su aviso de servicio.
+  YALRU:
+    code: YALRU
+    field: telex
+    message:
+      en: Telex subscriber __________ no longer in service.
+      fr: Abonné télex __________ n’est plus en service.
+      es: Abonado télex __________ no está ya en servicio.

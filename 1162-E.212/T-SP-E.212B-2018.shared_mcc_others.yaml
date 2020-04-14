@@ -1,0 +1,54 @@
+---
+metadata:
+  locale:
+    shared_mcc_others:
+      en: Shared Mobile Country Codes (MCC) for other purposes and their respective
+        Mobile Network Codes (MNC)
+      fr: Indicatifs de pays du mobile (MCC) partagés pour d'autres usages et codes
+        de réseau du mobile (MNC) qui leur sont associés
+      es: MCC compartidos para otras utilizaciones y sus respectivos indicativos de
+        red para el servicio móvil (MNC)
+      ru: Общие коды страны в системе подвижной связи (MCC), предназначенные для иных
+        целей, и их соответствующие коды сетей подвижной связи (MNC)
+      zh: 用于其他用途的共用移动国家代码（MCC）及其各自的移动网络代码（MNC）
+      ar: الرموز الدليلية القُطرية للاتصالات المتنقلة (MCC) المشتركة للأغراض الأخرى
+        والرموز الدليلية للشبكات المتنقلة (MNC) الخاصة بها
+    applicant:
+      en: Applicant/Network
+      es: Solicitante/Red
+      fr: Demandeur/Réseau
+      ru: Заявитель/сеть
+      zh: 申请人/网络
+      ar: مقدم الطلب/الشبكة
+    purpose:
+      en: Purpose
+      es: utilizaciones
+      fr: partagés
+      ru: целей
+      zh: 用途
+      ar: هدف
+data:
+  902 01:
+    mcc_mnc_codes: 902 01
+    applicant: MulteFire Alliance
+    purpose:
+      en: shared code
+      fr: indicatif partagé
+      es: indicativo compartido
+      ru: Общий код
+      zh: 共用代码
+      ar: رمز مشترك
+  991 01:
+    mcc_mnc_codes: 991 01
+    applicant: World’s Global Telecom
+    purpose:
+      en: Trial of a proposed new international telecommunication service, shared
+        code
+      fr: Essai d'un nouveau service proposé de télécommunications internationales,
+        indicatif partagé
+      es: Prueba de un nuevo servicio de telecomunicación internacional propuesto,
+        indicativo compartido
+      ru: Испытание предлагаемой новой услуги международной электросвязи, общий код
+      zh: 拟议新国际电信业务试验，共享代码
+      ar: تجربة خدمة مقترحة جديدة للمراسلات العمومية للاتصالات الدولية، رمز مشترك
+    temporary_assignment_to: '2020-01-14'

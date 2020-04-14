@@ -1,0 +1,471 @@
+---
+metadata:
+  title:
+    en: Extra-territorial use* of MCC/MNC, Annex E to Recommendation ITU-T E.212
+    fr: Utilisation extraterritoriale* du MCC/MNC, Annexe E à la Recommandation UIT-T
+      E.212
+    es: Utilización extraterritorial* de MCC/MNC, Anexo E a la Recomendación UIT-T
+      E.212
+    ru: Экстерриториальное использование* кодов MCC/MNC, Приложение E к Рекомендации
+      МСЭ-T E.212
+    zh: ITU-T E.212建议书附件E，境外使用*MCC/MNC
+    ar: استعمال الرموز MCC/MNC خارج الأراضي الإقليمية*، الملحق E بالتوصية ITU-T E.212
+  locale:
+    country_or_area:
+      en: Country or Geographical Area
+      fr: Pays ou Zone géographique
+      es: País o Zona geografica
+      ru: Страна или географическая зона
+      zh: 国家或地理区域
+      ar: |-
+        البلد
+        أو المنطقة الجغرافية
+    mcc_mnc:
+      en: MCC + MNC**
+      fr: MCC + MNC**
+      es: MCC + MNC**
+      ru: MCC + MNC**
+      zh: MCC + MNC**
+      ar: "**MNC + MCC"
+    msin_range:
+      en: MSIN range***
+      fr: Série de numéros MSIN***
+      es: Gama de MSIN***
+      ru: Диапазон MSIN***
+      zh: 移动用户识别码号段***
+      ar: مدى رقم هوية المشترك المتنقل (MSIN)***
+    operator_network:
+      en: Operator/Network
+      fr: Nom de Réseau/Opérateur
+      es: Nombre de la Red/Operador
+      ru: Оператор/сеть
+      zh: 运营商/网络
+      ar: المشغل/الشبكة
+  note_1:
+    en: As defined in Annex E to Recommendation ITU-T E.212, extra-territorial use
+      of an MCC+MNC is the term used to describe the situation where a MCC+MNC that
+      has been assigned to an operator in one country, Country A, is used in another
+      country, Country B, through a base station established in Country B.
+    fr: Comme défini dans l'Annexe E à la Recommandation UIT-T E.212, l'utilisation
+      extraterritoriale d'une ressource MCC+MNC  est l'expression employée pour décrire
+      la situation dans laquelle une ressource MCC+MNC attribuée à un opérateur dans
+      un  pays, le pays A, est utilisée dans un autre pays, le pays B, par l'intermédiaire
+      d'une station de base établie dans le pays B.
+    es: Según el Anexo E a la Recomendación UIT-T E.212, la utilización extraterritorial
+      de MCC+MNC es el término que se emplea  para describir la situación en que un
+      MCC+MNC asignado a un operador de un país ("País A") se utiliza en otro país
+      ("País B")  mediante una estación de base establecida en el País B.
+    ru: Согласно определению в Приложении E к Рекомендации МСЭ-T E.212, экстратерриториальное
+      использование кодов MCC+MNC – это термин, применяемый для описания ситуации,
+      при которой коды MCC+MNC, присвоенные оператору в одной стране (страна A), используются
+      в другой стране (страна B) через базовую станцию, установленную в Стране B.
+    zh: 如 ITU-T E.212建议书附件E定义，境外使用的MCC+MNC是用来描述以下情形的术语，即一运营商在一个国家（“国家A”）分配到的MCC+MNC，通过在另一个国家（“国家B”）建立的基站用于国家B
+    ar: استعمال الرمز الثنائي MCC+MNC خارج الأراضي الإقليمية، كما هو معرّف في الملحق
+      E بالتوصية ITU-T E.212، هو المصطلح الذي يستعمل لوصف الحالة التي يكون فيها الرمز
+      الثنائي MCC+MNC المخصص لمشغل في بلد ("بلد A") مستعملاً في بلد آخر ("بلد B")
+      من خلال محطة قاعدة منشأة في البلد B.
+  note_2:
+    en: 'MCC: Mobile Country Code / MNC: Mobile Network Code'
+    fr: 'MCC: Indicatif de pays du mobile / MNC: Code de réseau mobile'
+    es: 'MCC: Indicativo de país para el servicio móvil / MNC: Indicativo de red para
+      el servicio móvil'
+    ru: |-
+      MCC: Код страны в системе подвижной связи/Mobile Country Code
+      MNC: Код сети подвижной связи/Mobile Network Code
+    zh: 'MCC: 移动国家代码 / MNC: 移动网络代码'
+    ar: 'MCC: الرمز الدليلي القُطري للاتصالات المتنقلة  / MNC: الرمز الدليلي للشبكة
+      المتنقلة'
+  note_3:
+    en: 'MSIN: Mobile Subscription Identification Number'
+    fr: 'MSIN: numéro d''identification d''abonnement mobile'
+    es: 'MSIN: número de identificación de suscripción al servicio móvil'
+    ru: 'MSIN: Идентификационный номер абонента подвижной связи/Mobile Subscription
+      Identification Number'
+    zh: MSIN：移动订户标识码
+    ar: 'MSIN: رقم تعرف هوية الاشتراك المتنقل'
+data:
+- country_or_area:
+    en: France
+    fr: France
+    es: Francia
+    ru: Франция
+    zh: 法国
+    ar: فرنسا
+  country_type: A
+  mcc_mnc: 208 01
+  msin_range: 0000000000-0099999999
+  operator_network: Orange
+- country_or_area:
+    en: France
+    fr: France
+    es: Francia
+    ru: Франция
+    zh: 法国
+    ar: فرنسا
+  country_type: A
+  mcc_mnc: 208 01
+  msin_range: 0200000000-9999999999
+  operator_network: Orange
+- country_or_area:
+    en: Monaco
+    fr: Monaco
+    es: Mónaco
+    ru: Монако
+    zh: 摩纳哥
+    ar: موناكو
+  country_type: B
+  mcc_mnc: 208 01
+  msin_range: 0100000000-0199999999
+  operator_network: Orange/Monaco Télécom
+- country_or_area:
+    en: France
+    fr: France
+    es: Francia
+    ru: Франция
+    zh: 法国
+    ar: فرنسا
+  country_type: A
+  mcc_mnc: 208 10
+  msin_range: 0000000000 - 2654099999
+  operator_network: Société Française du Radiotéléphone
+- country_or_area:
+    en: France
+    fr: France
+    es: Francia
+    ru: Франция
+    zh: 法国
+    ar: فرنسا
+  country_type: A
+  mcc_mnc: 208 10
+  msin_range: 2654200000 - 2654299999
+  operator_network: Société Française du Radiotéléphone
+- country_or_area:
+    en: France
+    fr: France
+    es: Francia
+    ru: Франция
+    zh: 法国
+    ar: فرنسا
+  country_type: A
+  mcc_mnc: 208 10
+  msin_range: 2654400000 - 2754099999
+  operator_network: Société Française du Radiotéléphone
+- country_or_area:
+    en: France
+    fr: France
+    es: Francia
+    ru: Франция
+    zh: 法国
+    ar: فرنسا
+  country_type: A
+  mcc_mnc: 208 10
+  msin_range: 2754200000 - 2754299999
+  operator_network: Société Française du Radiotéléphone
+- country_or_area:
+    en: France
+    fr: France
+    es: Francia
+    ru: Франция
+    zh: 法国
+    ar: فرنسا
+  country_type: A
+  mcc_mnc: 208 10
+  msin_range: 2754400000 - 9999999999
+  operator_network: Société Française du Radiotéléphone
+- country_or_area:
+    en: Monaco
+    fr: Monaco
+    es: Mónaco
+    ru: Монако
+    zh: 摩纳哥
+    ar: موناكو
+  country_type: B
+  mcc_mnc: 208 10
+  msin_range: 2654100000 - 2654199999
+  operator_network: Société Française du Radiotéléphone
+- country_or_area:
+    en: Monaco
+    fr: Monaco
+    es: Mónaco
+    ru: Монако
+    zh: 摩纳哥
+    ar: موناكو
+  country_type: B
+  mcc_mnc: 208 10
+  msin_range: 2654300000 - 2654399999
+  operator_network: Société Française du Radiotéléphone
+- country_or_area:
+    en: Monaco
+    fr: Monaco
+    es: Mónaco
+    ru: Монако
+    zh: 摩纳哥
+    ar: موناكو
+  country_type: B
+  mcc_mnc: 208 10
+  msin_range: 2754100000 - 2754199999
+  operator_network: Société Française du Radiotéléphone
+- country_or_area:
+    en: Monaco
+    fr: Monaco
+    es: Mónaco
+    ru: Монако
+    zh: 摩纳哥
+    ar: موناكو
+  country_type: B
+  mcc_mnc: 208 10
+  msin_range: 2754300000 - 2754399999
+  operator_network: Société Française du Radiotéléphone
+- country_or_area:
+    en: France
+    fr: France
+    es: Francia
+    ru: Франция
+    zh: 法国
+    ar: فرنسا
+  country_type: A
+  mcc_mnc: 208 20
+  msin_range: 0000000000 - 0055499999
+  operator_network: Bouygues Telecom
+- country_or_area:
+    en: France
+    fr: France
+    es: Francia
+    ru: Франция
+    zh: 法国
+    ar: فرنسا
+  country_type: A
+  mcc_mnc: 208 20
+  msin_range: 0055600000 - 2007199999
+  operator_network: Bouygues Telecom
+- country_or_area:
+    en: France
+    fr: France
+    es: Francia
+    ru: Франция
+    zh: 法国
+    ar: فرنسا
+  country_type: A
+  mcc_mnc: 208 20
+  msin_range: 2007300000 - 9999999999
+  operator_network: Bouygues Telecom
+- country_or_area:
+    en: Monaco
+    fr: Monaco
+    es: Mónaco
+    ru: Монако
+    zh: 摩纳哥
+    ar: موناكو
+  country_type: B
+  mcc_mnc: 208 20
+  msin_range: 0055500000 - 0055599999
+  operator_network: Bouygues Telecom
+- country_or_area:
+    en: Monaco
+    fr: Monaco
+    es: Mónaco
+    ru: Монако
+    zh: 摩纳哥
+    ar: موناكو
+  country_type: B
+  mcc_mnc: 208 20
+  msin_range: 2007200000 - 2007299999
+  operator_network: Bouygues Telecom
+- country_or_area:
+    en: Switzerland
+    fr: Suisse
+    es: Suiza
+    ru: Швейцария
+    zh: 瑞士
+    ar: سويسرا
+  country_type: A
+  mcc_mnc: 228 01
+  msin_range: 20-35
+  operator_network: Swisscom Schweiz AG
+- country_or_area:
+    en: Switzerland
+    fr: Suisse
+    es: Suiza
+    ru: Швейцария
+    zh: 瑞士
+    ar: سويسرا
+  country_type: A
+  mcc_mnc: 228 01
+  msin_range: '38'
+  operator_network: Swisscom Schweiz AG
+- country_or_area:
+    en: Switzerland
+    fr: Suisse
+    es: Suiza
+    ru: Швейцария
+    zh: 瑞士
+    ar: سويسرا
+  country_type: A
+  mcc_mnc: 228 01
+  msin_range: 40-44
+  operator_network: Swisscom Schweiz AG
+- country_or_area:
+    en: Switzerland
+    fr: Suisse
+    es: Suiza
+    ru: Швейцария
+    zh: 瑞士
+    ar: سويسرا
+  country_type: A
+  mcc_mnc: 228 01
+  msin_range: '47'
+  operator_network: Swisscom Schweiz AG
+- country_or_area:
+    en: Switzerland
+    fr: Suisse
+    es: Suiza
+    ru: Швейцария
+    zh: 瑞士
+    ar: سويسرا
+  country_type: A
+  mcc_mnc: 228 01
+  msin_range: '52'
+  operator_network: Swisscom Schweiz AG
+- country_or_area:
+    en: Switzerland
+    fr: Suisse
+    es: Suiza
+    ru: Швейцария
+    zh: 瑞士
+    ar: سويسرا
+  country_type: A
+  mcc_mnc: 228 01
+  msin_range: '59'
+  operator_network: Swisscom Schweiz AG
+- country_or_area:
+    en: Switzerland
+    fr: Suisse
+    es: Suiza
+    ru: Швейцария
+    zh: 瑞士
+    ar: سويسرا
+  country_type: A
+  mcc_mnc: 228 01
+  msin_range: 60-62
+  operator_network: Swisscom Schweiz AG
+- country_or_area:
+    en: Switzerland
+    fr: Suisse
+    es: Suiza
+    ru: Швейцария
+    zh: 瑞士
+    ar: سويسرا
+  country_type: A
+  mcc_mnc: 228 01
+  msin_range: '72'
+  operator_network: Swisscom Schweiz AG
+- country_or_area:
+    en: Switzerland
+    fr: Suisse
+    es: Suiza
+    ru: Швейцария
+    zh: 瑞士
+    ar: سويسرا
+  country_type: A
+  mcc_mnc: 228 01
+  msin_range: '77'
+  operator_network: Swisscom Schweiz AG
+- country_or_area:
+    en: Switzerland
+    fr: Suisse
+    es: Suiza
+    ru: Швейцария
+    zh: 瑞士
+    ar: سويسرا
+  country_type: A
+  mcc_mnc: 228 01
+  msin_range: '80'
+  operator_network: Swisscom Schweiz AG
+- country_or_area:
+    en: Liechtenstein
+    fr: Liechtenstein
+    es: Liechtenstein
+    ru: Лихтенштейн
+    zh: 列支敦士登
+    ar: ليختنشتاين
+  country_type: B
+  mcc_mnc: 228 01
+  msin_range: 37XXXXXXXX
+  operator_network: Swisscom Schweiz AG
+- country_or_area:
+    en: Luxembourg
+    fr: Luxembourg
+    es: Luxemburgo
+    ru: Люксембург
+    zh: 卢森堡
+    ar: أيسلندا
+  country_type: A
+  mcc_mnc: 270 77
+  msin_range: 000 x xxx xxx
+  operator_network: Tango S.A.
+- country_or_area:
+    en: Belgium
+    fr: Belgique
+    es: Bélgica
+    ru: Бельгия
+    zh: 比利时
+    ar: بلجيكا
+  country_type: B
+  mcc_mnc: 270 77
+  msin_range: 800 x xxx xxx
+  operator_network: Tango S.A.
+- country_or_area:
+    en: Belgium
+    fr: Belgique
+    es: Bélgica
+    ru: Бельгия
+    zh: 比利时
+    ar: بلجيكا
+  country_type: B
+  mcc_mnc: 270 77
+  msin_range: 801 x xxx xxx
+  operator_network: Tango S.A.
+- country_or_area:
+    en: Iceland
+    fr: Islande
+    es: Islandia
+    ru: Исландия
+    zh: 冰岛
+    ar: أيسلندا
+  country_type: A
+  mcc_mnc: 274 02
+  msin_range: 0-8
+  operator_network: Og fjarskipti hf (Vodafone Iceland)
+- country_or_area:
+    en: Faroe Islands
+    fr: Féroé (Iles)
+    es: Feroe (Islas)
+    ru: Фарерские Острова
+    zh: 法罗群岛
+    ar: جزر فارويه
+  country_type: B
+  mcc_mnc: 274 02
+  msin_range: '9'
+  operator_network: P/F Kall, reg. No 2868 (Vodafone FO)
+- country_or_area:
+    en: Fiji
+    fr: Fidji
+    es: Fiji
+    ru: Фиджи
+    zh: 斐济
+    ar: فيجي
+  country_type: A
+  mcc_mnc: 542 02
+  msin_range: 00xxxxxxxx
+  operator_network: Digicel (Fiji) Ltd
+- country_or_area:
+    en: Nauru
+    fr: Nauru
+    es: Nauru
+    ru: Науру
+    zh: 瑙鲁
+    ar: ناورو
+  country_type: B
+  mcc_mnc: 542 02
+  msin_range: '0840xxxxxx'
+  operator_network: Digicel (Fiji) Ltd

@@ -57,1094 +57,3810 @@ metadata:
       fr: Point de contact
       es: Dirección de contacto
 data:
-  country_or_area.fr:
-    Arménie:
-      country_or_area:
-        en: Armenia
-        es: Armenia
-      admd_name: ARMMAIL
-      country_code: AM
-      mt: ARMMAIL
-      ipm: ''
-      other: ''
-      helpdesk:
-        x400: G=help, S=desk, O=infocom, A=armmail, C=am
-      autoanswer:
-        available: 'FALSE'
-      contact_address:
-        company_name: "“INFOCOM” JSC"
-        address_line_1: 22 Sarian Street
-        address_line_2: P.O. Box 375002
-        address_line_3: YEREVAN, Armenia
-        x400: 'X.400: G=system; S=administratior;, O=infocom; A=armmail; C=am'
-    Australie:
-      country_or_area:
-        en: Australia
-        es: Australia
-      admd_name: TEXTFILE
-      for_test_purposes: 'TRUE'
-      country_code: AU
-      mt: TEXTFILE
-      ipm: TEXTFILE
-      helpdesk:
-        x400: S=helpdesk, O=textfile, A=textfile, C=au
-      autoanswer:
-        x400: S=antoanswer, O=telecom, P=telecom, A=textfile, C=au
-      contact_address:
-        company_name: Telecom Australia
-        address_line_1: 1/181 Victoria Parade
-        address_line_2: Collingwood
-        address_line_3: Victoria 3066, Australia
-        x400: 'X.400: G=rodney; S=beale; O=telecom.hp;, A=textfile; C=au'
-    Autriche:
-      country_or_area:
-        en: Austria
-        es: Austria
-      admd_name: UMI-AT
-      country_code: AT
-      mt: UMI400
-      ipm: UMI400
-      helpdesk:
-        x400: S=helpdesk, A=umi-at, C=at
-      autoanswer:
-        x400: S=autoanswer, A=umi-at, C=at
-      contact_address:
-        company_name: PLUS COMMUNICATIONS
-        address_line_1: HANDELSGESELLSCHAFT m.b.H.
-        address_line_2: Sieveringer Strasse 124
-        address_line_3: A-1190 WIEN, Austria
-        x400: 'X.400: S=helpdesk; A=umi-at; C=at'
-    Bélarus:
-      country_or_area:
-        en: Belarus
-        es: Belarús
-      admd_name: BELPAK
-      country_code: BY
-      mt: BELPAK400
-      ipm: ''
-      other: ''
-      helpdesk:
-        x400: S=helpdesk, O=rtte, A=belpak, C=by
-      autoanswer:
-        x400: S=autoanswer, O=rtte, A=belpak, C=by
-      contact_address:
-        address_line_1: 55 Zakharov Street
-        address_line_2: 220088 MINSK
-        address_line_3: Belarus
-        x400: 'X.400: S=test; O=test 1; A=belpak; C=by'
-    Belgique:
-      country_or_area:
-        en: Belgium
-        es: Bélgica
-      admd_name: SEAGHA
-      country_code: BE
-      mt: 1992/1988/1984; DIGITAL EQUIPMENT; MAILBUS 400 ON DEC UNIX
-      ipm: '1988'
-      helpdesk:
-        x400: CN=helpdesk, A=seagha, C=be
-        others: 'Email: helpdesk@seagha.com'
-      autoanswer:
-        available: 'FALSE'
-      contact_address:
-        company_name: SEAGHA c.v.
-        address_line_1: Brouwersvliet 33/8
-        address_line_2: B-2000 ANTWERPEN, Belgium
-        x400: 'X.400: CN=info;, A=seagha; C=be'
-        email: 'E-mail: info@seagha.com'
-    Bermudes:
-      country_or_area:
-        en: Bermuda
-        es: Bermudas
-      admd_name: BERNET
-      country_code: BM
-      mt: BERNET
-      ipm: BERNET
-      other: ''
-      helpdesk:
-        available: 'TRUE'
-      autoanswer:
-        available: 'TRUE'
-      contact_address:
-        company_name: The Bermuda Telephone Co., Ltd.
-        address_line_1: 30 Victoria Street
-        address_line_2: HAMILTON HM DX, Bermuda
-        x400: 'X.400: G=john; S=dill; O=n; A=bernet; C=bm'
-    Brésil:
-      country_or_area:
-        en: Brazil
-        es: Brasil
-      admd_name: EMBRATEL.INTL
-      country_code: BR
-      mt: STM400
-      ipm: STM400
-      helpdesk:
-        x400: S=helpdesk, O=stm400.intl, A=embratel.intl, C=br
-      autoanswer:
-        x400: S=autoanswer, O=stm400.intl, A=embratel.intl, C=br
-      contact_address:
-        company_name: EMBRATEL
-        address_line_1: DNI-13 Consumers Services Office
-        address_line_2: Av. Marechal Floriano 99, 16° andar - Centro
-        address_line_3: RIO DE janeiro, R.J., Brasil
-        address_line_4: 'CEP: 20080-004'
-        x400: 'X.400: S=dni.13; O=embratel.s.a.;, A=embratel.intl; C=br'
-    Bulgarie:
-      country_or_area:
-        en: Bulgaria
-        es: Bulgaria
-      admd_name: BG400
-      country_code: BG
-      mt: Vmail
-      ipm: Vmail
-      helpdesk:
-        x400: S=helpdesk, A=bg400, C=bg
-      autoanswer:
-        x400: S=autoanswer, A=bg400, C=bg
-      contact_address:
-        company_name: 'Attn: Mr. Plamen Chernokojev, Manager'
-        address_line_1: VITOSHA SOFTWARE AND
-        address_line_2: COMMUNICATIONS Ltd. (VSC)
-        address_line_3: 'CICCT, Tzarigradsko Shosse 7 km, #706'
-        address_line_4: 1113 SOFIA, Bulgaria
-        x400: 'X.400: G=plamen; S=chernokojev; O=vsc;, A=bg400; C=bg'
-    Canada:
-      country_or_area:
-        en: Canada
-        es: Canadá
-      admd_name: UNITEL
-      country_code: CA
-      mt: UNITEL X.400 MAIL
-      helpdesk:
-        available: 'FALSE'
-      autoanswer:
-        available: 'FALSE'
-      contact_address:
-        company_name: Unitel Communications Inc.
-        address_line_1: 200 Wellington St. W.
-        address_line_2: Toronto, Ontario M5V 3C7, Canada
-        x400: 'X.400: S=hq; A=unitel; C=ca'
-    Chili:
-      country_or_area:
-        en: Chile
-        es: Chile
-      admd_name: ENTELDATA
-      country_code: CL
-      mt: MAILNET
-      ipm: MAILNET
-      contact_address:
-        company_name: ENTEL SERVICIOS DE DATOS S.A.
-        address_line_1: Av. Holanda N.° 64 piso 5
-        address_line_2: SANTIAGO DE CHILE, Chile
-        x400: 'X.400: S=m400; O=edatal;, A=enteldata; C=cl'
-    Chine:
-      country_or_area:
-        en: China
-        es: China
-      admd_name: CHINAMAIL
-      country_code: CN
-      contact_address:
-        company_name: Directorate General of Telecommunications
-        address_line_1: Ministry of Posts and Telecommunications
-        address_line_2: 13 West Chang  An Ave.
-        address_line_3: BEIJING 100804, China
-        x400: 'X.400: G=inter; S=ptt; O=mpt;, A=chinamail, C=cn'
-    Costa Rica:
-      country_or_area:
-        en: Costa Rica
-        es: Costa Rica
-      admd_name: RACSAMAIL
-      country_code: CR
-      mt: CCITT (84)
-      ipm: CCITT (84)
-      helpdesk:
-        x400: G=help, S=desk, O=racsa, A=racsamail, C=cr
-      autoanswer:
-        available: 'FALSE'
-      contact_address:
-        company_name: Radiográfica Costarricense S.A.
-        address_line_1: "(RACSA)"
-        address_line_2: Apartado Postal 54
-        address_line_3: 1000 SAN JOSE
-        address_line_4: Costa Rica
-    Croatie:
-      country_or_area:
-        en: Croatia
-        es: Croacia
-      admd_name: CRO400
-      country_code: HR
-      mt: CRO400
-      ipm: CRO400
-      helpdesk:
-        x400: S=helpdesk, O=public-h, A=cro400, C=hr
-      autoanswer:
-        x400: S=autoanswer, O=public-h, A=cro400, C=hr
-      contact_address:
-        company_name: Ms. Maja Valdevit
-        address_line_1: HT - Croatian Telecom
-        address_line_2: Non-voice Services Divisin
-        address_line_3: Draskoviceva 26
-        address_line_4: HR-10000 ZAGREB, Croatia
-        x400: 'X.400: G=maja; S=valdevit; O=public-h;, A=cro400; C=hr'
-        email: 'E-mail: maja.valdevit@tel.hr, maja.valdevit@ht.hr'
-    Chypre:
-      country_or_area:
-        en: Cyprus
-        es: Chipre
-      admd_name: CYTA400
-      country_code: CY
-      helpdesk:
-        available: 'FALSE'
-      autoanswer:
-        available: 'FALSE'
-      contact_address:
-        company_name: Manager Commercial Services
-        address_line_1: Cyprus Telecommunications Authority
-        address_line_2: P.O. Box 4929
-        address_line_3: 1396 NICOSIA, Cyprus
-        x400: 'X.400: S=makris; P=lu; A=cyta400; C=cy'
-    Rép. tchèque:
-      country_or_area:
-        en: Czech Rep.
-        es: Rep. Checa
-      admd_name: SPT 400
-      country_code: CZ
-      mt: CZMAIL - MT
-      ipm: CZMAIL - IPM
-      helpdesk:
-        x400: S=helpdesk, A=spt 400, C=cz
-      autoanswer:
-        x400: P=autoanswer, A=spt 400, C=cz
-      contact_address:
-        company_name: Jirí Jakes
-        address_line_1: Head of CZMAIL
-        address_line_2: CPP s.p. - Transgas o.z.
-        address_line_3: Sokolská 4
-        address_line_4: 120 00 PRAHA 2, Czech Republic
-        x400: 'X.400: S=jiri; S=jakes; P=tg;, A=spt 400; C=cz'
-    Rép. dém. du Congo:
-      country_or_area:
-        en: Dem. Rep. of the Congo
-        es: Rep. Dem. del Congo
-      admd_name: OCPT
-      country_code: CD
-      other: Express Mail Service
-      helpdesk:
-        available: 'FALSE'
-      autoanswer:
-        available: 'FALSE'
-      contact_address:
-        company_name: E.M.S.
-        address_line_1: Immeuble Kin-Maziere
-        address_line_2: 12, Avenue Tombalbaye
-        address_line_3: KINSHASA-GOMBE
-        address_line_4: Rép. dém. du Congo
-    Danemark:
-      country_or_area:
-        en: Denmark
-        es: Dinamarca
-      admd_name: TELDK
-      country_code: DK
-      mt: DATAPOST400
-      ipm: DATAPOST400
-      other: DATAPOST400
-      helpdesk:
-        x400: S=denmark helpdesk, A=teldk, C=dk
-      autoanswer:
-        available: 'FALSE'
-      contact_address:
-        company_name: Tele Danmark Datacom A/S
-        address_line_1: Fabrikvej 11
-        address_line_2: DK-8260 VIBY J., Denmark
-        x400: 'X.400: G=jesper bak; S=olesen; P=datacom;, A=dk400; C=dk'
-    Estonie:
-      country_or_area:
-        en: Estonia
-        es: Estonia
-      admd_name: GOVX400
-      country_code: EE
-      helpdesk:
-        available: 'FALSE'
-      autoanswer:
-        available: 'FALSE'
-      contact_address:
-        company_name: Government Department of
-        address_line_1: Telecommunications
-        address_line_2: Ädala 4D
-        address_line_3: EE-0006 TALLINN, Estonia
-    Finlande:
-      country_or_area:
-        en: Finland
-        es: Finlandia
-      admd_name: MASTER400
-      country_code: FI
-      mt: MASTER400
-      ipm: MASTERMAIL ; (P7)
-      helpdesk:
-        x400: S=helpdesk, A=master400, C=it
-      autoanswer:
-        x400: S=autoanswer, A=master400, C=it
-      contact_address:
-        company_name: Madia Saponaro
-        address_line_1: SARITEL S.p.A.
-        address_line_2: S.S. 148 Pontina Km. 29,100
-        address_line_3: 00040 POMEZIA (ROMA), Italy
-        x400: 'X.400: G=madia; S=saponaro; O=saritel;, A=master400; C=it'
-        email: 'E-mail: saponaro@saritel.it'
-    France:
-      country_or_area:
-        en: France
-        es: Francia
-      admd_name: MASTER400
-      country_code: FR
-      mt: MASTER400
-      ipm: MASTERMAIL ; (P7)
-      helpdesk:
-        x400: S=helpdesk, A=master400, C=it
-      autoanswer:
-        x400: S=autoanswer, A=master400, C=it
-      contact_address:
-        company_name: Madia Saponaro
-        address_line_1: SARITEL S.p.A.
-        address_line_2: S.S. 148 Pontina Km. 29,100
-        address_line_3: 00040 POMEZIA (ROMA), Italy
-        x400: 'X.400: G=madia; S=saponaro; O=saritel;, A=master400; C=it'
-        email: 'E-mail: saponaro@saritel.it'
-    Allemagne:
-      country_or_area:
-        en: Germany
-        es: Alemania
-      admd_name: VIAT-AS2
-      country_code: DE
-      mt: BusinessMail; MailGate X.400 - MT
-      ipm: BusinessMail; Mailbox X.400 - IPM
-      helpdesk:
-        x400: S=helpdesk, A=viat, C=de
-      autoanswer:
-        x400: S=autoanswer, A=viat, C=de
-      contact_address:
-        company_name: Deutsche Telekom AG
-        address_line_1: Produktmanagement
-        address_line_2: BusinessMail X.400
-        address_line_3: Salzachstrasse 15 - 16
-        address_line_4: D-68199, MANNHEIM, Germany
-        x400: 'X.400: G=norbert; S=steuer; O=dtag, A=viat; C=de'
-    Grèce:
-      country_or_area:
-        en: Greece
-        es: Grecia
-      admd_name: NOTICE
-      country_code: GR
-      mt: NOTICE
-      ipm: NOTICE 400
-      helpdesk:
-        available: 'TRUE'
-      autoanswer:
-        available: 'FALSE'
-      contact_address:
-        company_name: Mrs M. Kanavou
-        address_line_1: OTE S.A. Telematics Department
-        address_line_2: Commercial Division, 99, Avenue Kifissias
-        address_line_3: GR-15124 MAROUSSI, Greece
-        x400: 'X.400: S=ote; O=infonet; P=notice; A=infonet; C=us'
-    Hongkong, Chine:
-      country_or_area:
-        en: Hongkong, China
-        es: Hongkong, China
-      admd_name: HKTMAIL
-      country_code: HK
-      mt: MultiMessage ; Plus
-      ipm: MultiMessage ; Plus
-      other: ''
-      helpdesk:
-        x400: G=support, S=desk, O=hkt-bcs, P=mmshk, A=hktmail, C=hk
-      autoanswer:
-        available: 'FALSE'
-      contact_address:
-        company_name: Cable & Wireless HKT CSL LTD.
-        address_line_1: P O Box 9896 GPO
-        address_line_2: Hongkong, China
-        x400: 'X.400: G=support; S=desk; O=hkt-bcs; P=mmshk; A=hktmail; C=hk'
-    Hongrie:
-      country_or_area:
-        en: Hungary
-        es: Hungría
-      admd_name: HTC400
-      country_code: HU
-      mt: MATAV400
-      helpdesk:
-        x400: S=helpdesk, A=htc400, C=hu
-      autoanswer:
-        x400: S=autoanswer, A=htc400, C=hu
-      contact_address:
-        company_name: Ms. Zsuzsa Molnár
-        address_line_1: MATÁV,  Hungarian  Telecom Co. Ltd.
-        address_line_2: Partner Providers Business Unit
-        address_line_3: International Partner Providers Department
-        address_line_4: H - 1550 BUDAPEST, P.O. Bpx 110, Hungary
-        x400: 'X.400: G=zsuzsa; S=molnar; O=matav; A=htc400; C=hu, G=edit; S=simon;
-          O=matav; A=htc400; C=hu'
-    Islande:
-      country_or_area:
-        en: Iceland
-        es: Islandia
-      admd_name: ISHOLF
-      country_code: IS
-      mt: GAGNAHOLF
-      ipm: GAGNAHOLF
-      helpdesk:
-        x400: S=helpdesk, A=isholf, C=is
-      autoanswer:
-        x400: S=autoanswer, A=isholf, C=is
-      contact_address:
-        company_name: Mrs. Sigridur Jonsdottir
-        address_line_1: Iceland Telecom Ltd.
-        address_line_2: IS - 150 REYKJAVIK, Iceland
-        x400: 'X.400: G=sigridur; S=jonsdottir; P=ps;, A=isholf; C=is'
-    Inde:
-      country_or_area:
-        en: India
-        es: India
-      admd_name: VSNB
-      country_code: IN
-      mt: GATEWAY; ELECTRONIC MAIL SERVICE
-      ipm: GEMS 400
-      other: ''
-      helpdesk:
-        available: 'FALSE'
-      autoanswer:
-        available: 'TRUE'
-      contact_address:
-        company_name: Videsh Sanchar Nigam Limited
-        address_line_1: General Manager R&D
-        address_line_2: M.C. Road Fort
-        address_line_3: MUMBAI – 400001, India
-        x400: 'X.400: G=amitabh; S=kumar; A=vsnb; C=in'
-    Iran (République islamique d'):
-      country_or_area:
-        en: Iran (Islamic Republic of))
-        es: Irán (República Islámica del)
-      admd_name: IRAN400
-      country_code: IR
-      mt: ''
-      ipm: ''
-      other: ''
-      contact_address:
-        company_name: 665 Shahed
-        address_line_1: Building - Shiraz Ave.
-        address_line_2: Mollasadra St.
-        address_line_3: ZIP Code:14358
-        address_line_4: TEHRAN, Iran (Islamic Rep. of)
-    Irlande:
-      country_or_area:
-        en: Ireland
-        es: Irlanda
-      admd_name: IBMX400
-      country_code: IE
-      mt: IBM Mail Exchange
-      ipm: IBM Mail Exchange
-      helpdesk:
-        available: 'TRUE'
-      autoanswer:
-        available: 'TRUE'
-      contact_address:
-        company_name: IBM Ireland Limited
-        address_line_1: 2 Burlington Road
-        address_line_2: DUBLIN 4, Ireland
-        x400: 'X.400: G= ryan j; S=ryan;, O=ibm; A=ibm mail exchange; C=ie'
-    Italie:
-      country_or_area:
-        en: Italy
-        es: Italia
-      admd_name: PTPOSTEL
-      country_code: IT
-      mt: Pt Postel
-      ipm: Pt Postel
-      other: ''
-      helpdesk:
-        available: 'TRUE'
-      autoanswer:
-        available: 'TRUE'
-      contact_address:
-        company_name: Ministero P. T. - DCSP
-        address_line_1: Viale Europa 175
-        address_line_2: I-00100 ROMA Italy
-        x400: 'X.400: S=reina; A=ptpostel; C=it'
-    Japon:
-      country_or_area:
-        en: Japan
-        es: Japón
-      admd_name: SITA
-      country_code: JP
-      mt: SITAMAIL
-      helpdesk:
-        available: 'TRUE'
-      autoanswer:
-        available: 'TRUE'
-      contact_address:
-        address_line_1: KDD Bldg. 30fl, 2-3-2
-        address_line_2: Nishi-Shinjuku Shinjuku-ku
-        address_line_3: TOKYO 163-03, Japan
-    Corée (Rép. de):
-      country_or_area:
-        en: Korea (Rep. of)
-        es: Corea (Rep. de)
-      admd_name: KTNET
-      country_code: KR
-      mt: Korea Trade Network Service
-      ipm: KTNET EDI Service
-      other: MAIL/FAX Service; X.400 Gateway Service
-      helpdesk:
-        x400: S=helpdesk, A=ktnet, C=kr
-      autoanswer:
-        x400: S=autoanswer, A=ktnet, C=kr
-      contact_address:
-        company_name: Mr. Ahn Sei-Ki
-        address_line_1: Korea Trade Network
-        address_line_2: Rm. 408, Korea World Trade Center, 159-1, Samsung-dong, Kangnam-ku
-        address_line_3: 135-651, Trade Center, P.O. Box 177
-        address_line_4: SEOUL, Korea (Rep. of)
-        x400: 'X.400: G=seiki; S=ahn; A=ktnet; C=kr'
-        email: 'E-mail: skahn@ktnet.co.kr'
-    Koweït:
-      country_or_area:
-        en: Kuwait
-        es: Kuwait
-      admd_name: MOC
-      country_code: KW
-      mt: K MAIL
-      helpdesk:
-        others: MOC 496 50000
-      autoanswer:
-        available: 'FALSE'
-      contact_address:
-        company_name: International Network Department
-        address_line_1: Ministry of Communications
-        address_line_2: P.O. Box 318
-        address_line_3: 11111 SAFAT - KUWAIT
-        address_line_4: State of Kuwait
-        x400: 'X.400: O=moc; A=moc; C=kw;'
-    Lettonie:
-      country_or_area:
-        en: Latvia
-        es: Letonia
-      admd_name: MULTINET
-      country_code: LV
-      mt: MULTINET X.400
-      helpdesk:
-        x400: S=helpdesk, A=multinet, C=lv
-      autoanswer:
-        x400: S=autoanswer, A=multinet, C=lv
-      contact_address:
-        company_name: Mr. Harry Konstantine
-        address_line_1: Komservis Ltd.
-        address_line_2: Lachplesha Street 7-1
-        address_line_3: LV-1010 RIGA, Latvia
-        x400: 'X.400: S=administrator; A=multinet; C=lv'
-        email: 'E -mail: hk@multinet.rbis.lv'
-    Liechtenstein:
-      country_or_area:
-        en: Liechtenstein
-        es: Liechtenstein
-      admd_name: IBMX400
-      country_code: LI
-      ipm: IBM Mail Exchange
-      helpdesk:
-        x400: G=helpdhd, S=helpdesk, P=ibmmail, A=ibmx400, C=ch
-      autoanswer:
-        x400: G=inform, S=inform, P=ibmmail, A=ibmx400, C=gb
-      contact_address:
-        company_name: Mr. Beat Moser
-        address_line_1: IBM Switzerland
-        address_line_2: Hohlstrasse 550
-        address_line_3: N8048 ZURICH, Switzerland
-        x400: 'X.400: G=beat; S=moser; P=ibmmail;, A=ibmx400; C=ch'
-    Lituanie:
-      country_or_area:
-        en: Lithuania
-        es: Lituania
-      admd_name: Epas400
-      country_code: LT
-      mt: Epas 400
-      ipm: Epas 400
-      helpdesk:
-        available: 'TRUE'
-      autoanswer:
-        available: 'TRUE'
-      contact_address:
-        company_name: 'ATTN: Mr. Vilius Ramoskis'
-        address_line_1: SE LITHUANIAN TELECOM
-        address_line_2: Savanoriu 28
-        address_line_3: LT-2727 VILNIUS, Lithuania
-        x400: 'X.400: S=epas400; O=telekomas;, P=telekomas; A=epas400; C=lt'
-    Luxembourg:
-      country_or_area:
-        en: Luxembourg
-        es: Luxemburgo
-      admd_name: UMI-LU
-      country_code: LU
-      mt: UMI400
-      ipm: UMI400
-      other: ''
-      helpdesk:
-        x400: S=helpdesk, A=umi-lu, C=lu
-      autoanswer:
-        x400: S=autoanswer, A=umi-lu, C=lu
-      contact_address:
-        company_name: TransArdenna S.A.
-        address_line_1: 16, rue d'Epernay
-        address_line_2: L-1490 LUXEMBOURG, Luxembourg
-        x400: 'X.400: S=helpdesk; A=umi-lu; C=lu'
-    Mexique:
-      country_or_area:
-        en: Mexico
-        es: México
-      admd_name: TELECOMM
-      country_code: MX
-      mt: NOTICE 400
-      ipm: NOTICE; TELEMENSAJE
-      helpdesk:
-        x400: S=soporte, O=sis-not, P=notice, A=telecomm, C=mx
-      autoanswer:
-        available: 'FALSE'
-      contact_address:
-        company_name: Telecomunicaciones de México
-        address_line_1: EIE Central Lázaro Cardenas N° 567
-        address_line_2: Col Narvarte C.P. 03020
-        address_line_3: MEXICO D.F., México
-        x400: 'X.400: S=marquez j; O=sis-not; P=notice;, A=telecomm; C=mx'
-    Myanmar:
-      country_or_area:
-        en: Myanmar
-        es: Myanmar
-      admd_name: MCPT400
-      country_code: MM
-      helpdesk:
-        x400: S=helpdesk, A=mcpt400, C=mm
-      autoanswer:
-        x400: S=autoanswer, A=mcpt400, C=mm
-      contact_address:
-        company_name: U ZAW TINT, Assistant General Manager
-        address_line_1: Myanma Posts and Telecommunications (MPT)
-        address_line_2: Ministry of Communications, Posts and Telegraphs
-        address_line_3: Overseas Communication Building, 1st Floor
-        address_line_4: Kaba Aye Pagoda Road, 8 Mile, Mayangone, YANGON, Myanmar
-        x400: 'X.400: S=zaw tint; O=mpt A=mcpt400; C=mm'
-    Pays-Bas:
-      country_or_area:
-        en: Netherlands
-        es: Países Bajos
-      admd_name: IBMX400
-      country_code: NL
-      ipm: IBM Mail Exchange
-      helpdesk:
-        x400: G=helpdesk, S=helpdesk, P=ibmmail, A=ibmx400, C=nl
-      autoanswer:
-        x400: G=inform, S=inform, P=ibmmail, A=ibmx400, C=gb
-      contact_address:
-        company_name: Mr. A. van Vliet
-        address_line_1: IBM
-        address_line_2: Postbus 60
-        address_line_3: 2700 AB ZOETERMEER, Netherlands
-        x400: 'X.400: G=vliet; S=vliet; P=ibmmail;, A=ibmx400; C=nl'
-    Nouvelle-Zélande:
-      country_or_area:
-        en: New Zealand
-        es: Nueva Zelandia
-      admd_name: SECURENET
-      country_code: NZ
-      mt: SECURENET 400
-      ipm: SECURENET-FAX; SECURENET-EDI
-      helpdesk:
-        x400: S=helpdesk, A=securenet, C=nz
-      autoanswer:
-        x400: S=autoanswer, A=securenet, C=nz
-      contact_address:
-        company_name: David Gibson
-        address_line_1: Deloitte and Touche Consulting Group
-        address_line_2: P O Box 33
-        address_line_3: AUCKLAND, New Zealand
-        x400: 'X.400: G=david; S=gibson; A=securenet; C=nz'
-    Nigéria:
-      country_or_area:
-        en: Nigeria
-        es: Nigeria
-      admd_name: NITEL
-      not_operational_yet: 'TRUE'
-      country_code: NG
-      helpdesk:
-        available: 'FALSE'
-      autoanswer:
-        available: 'FALSE'
-      contact_address:
-        company_name: Nigerian Telecommunications Plc (NITEL)
-        address_line_1: 3/5 Tafawa Balewa Square
-        address_line_2: P.M.B. 12550
-        address_line_3: LAGOS, Nigeria
-    Norvège:
-      country_or_area:
-        en: Norway
-        es: Noruega
-      admd_name: UNINETT
-      country_code: 'NO'
-      mt: UNINETT X.400
-      ipm: UNINETT X.400
-      helpdesk:
-        available: 'TRUE'
-      autoanswer:
-        available: 'TRUE'
-      contact_address:
-        company_name: Harald Tveit Alvestrand
-        address_line_1: UNINETT
-        address_line_2: P.O. Box 6883 Elgeseter
-        address_line_3: N-7002 TRONDHEIM, Norway
-        x400: 'X.400: S=postmaster; A=uninett; C=no'
-        email: 'E-mail: postmaster@uninett.no'
-    Organisation de l’aviation civile internationale (OACI):
-      country_or_area:
-        en: Organización de Aviación Civil Internacional (OACI)
-        es: Organización de Aviación Civil Internacional (OACI)
-      admd_name: ICAO
-      country_code: XX
-      other: Aeronautical Message Handling Services (AMHS)
-      helpdesk:
-        available: 'FALSE'
-      autoanswer:
-        available: 'FALSE'
-      contact_address:
-        company_name: M. Paydar
-        address_line_1: CNS Section, Air Navigation Bureau
-        address_line_2: International Civil Aviation Organization (ICAO)
-        address_line_3: 999 University Street
-        address_line_4: Montreal, Quebec H3C 5H7, Canada
-    Pologne:
-      country_or_area:
-        en: Poland
-        es: Polonia
-      admd_name: POLKOM400
-      country_code: PL
-      helpdesk:
-        x400: S=helpdesk, OU=cst, O=tpsa, A=polkom400, C=pl
-        others: 'E-mail: helpdesk@polkom.tpnet.pl'
-      autoanswer:
-        x400: S=helpdesk, OU=cst, O=tpsa, A=polkom400, C=pl
-      contact_address:
-        company_name: 'Attn: Mr. Piotr Sek, Head of Section or Mr. Bozena Eljasinska,
-          Instructor'
-        address_line_1: Telekomunikacja Polska S.A.
-        address_line_2: Centrum Systemow Informatycznych
-        address_line_3: ul. Nowogrodzka 47a
-        address_line_4: PL-00695 WARSZAWA, Poland
-        x400: 'X.400: G=piotr; S=sek; OU=cst;, O=tpsa; A=polkom400; C=pl or or G=bozena;
-          S=eljasinska; OU=cst;, O=tpsa; A=polkom400; C=pl'
-        email: 'E-mail: helpdesk@polkom.tpnet.pl, psek@cst.tpnet.pl, belja@cst.tpnet.pl'
-    Portugal:
-      country_or_area:
-        en: Portugal
-        es: Portugal
-      admd_name: NEX400
-      country_code: PT
-      helpdesk:
-        available: 'FALSE'
-      autoanswer:
-        available: 'FALSE'
-      contact_address:
-        company_name: COMNEXO, Redes de Comunicações, SA
-        address_line_1: Av. Fontes Pereira de Melo, 3 10°
-        address_line_2: 1000 LISBOA, Portugal
-    Qatar:
-      country_or_area:
-        en: Qatar
-        es: Qatar
-      admd_name: QMAIL
-      country_code: QA
-      mt: QMAIL
-      ipm: QMAIL
-      helpdesk:
-        x400: S=helpdesk, O=qtel, OU1=ml, A=qmail, C=qa
-      autoanswer:
-        available: 'FALSE'
-      contact_address:
-        company_name: Qatar Telecom Q.S.C. (Q-TEL)
-        address_line_1: New Tower Headquarters
-        address_line_2: West Way
-        address_line_3: P. O. Box 217
-        address_line_4: DOHA, Qatar
-        x400: 'X.400: S=ahmed; O=qtel; OU1=agml;, A=qmail; C=qa'
-        email: 'E-mail: derbesti@qtel.com.qa'
-    Fédération de Russie:
-      country_or_area:
-        en: Russia Federation
-        es: Federación de Rusia
-      admd_name: TRANSINFORM
-      country_code: RU
-      mt: NET400;   Transinform
-      ipm: NET400;   Transinform
-      helpdesk:
-        available: 'FALSE'
-      autoanswer:
-        available: 'FALSE'
-      contact_address:
-        company_name: Closed joint stock company with foreign
-        address_line_1: participation “Transinform”
-        address_line_2: 2/1, Kalanchovskaya st.,
-        address_line_3: 107174 MOSCOW, Russia Federation
-        x400: 'X.400: G=alex; S=klochkov; P=node1;, A=transinform; C=ru'
-    Arabie saoudite:
-      country_or_area:
-        en: Saudi Arabia
-        es: Arabia Saudita
-      admd_name: SAUDI TELECOM (Saudi Telecom Int'l))
-      country_code: SA
-      mt: ''
-      helpdesk:
-        available: 'FALSE'
-      autoanswer:
-        available: 'FALSE'
-      contact_address:
-        company_name: Ministry of Post, Telegraph and Telephone
-        address_line_1: Saudi Telecom Int'l
-        address_line_2: Saudi Telecom
-        address_line_3: P.O. Box 87912
-        address_line_4: RIYADH 115539, Saudi Arabia
-    Serbie:
-      country_or_area:
-        en: Serbia
-        es: Serbia
-      admd_name: BEOGRAD400
-      country_code: RS
-      mt: BEOGRAD400
-      ipm: BEOGRAD400
-      helpdesk:
-        x400: S=helpdesk, P=public, A=beograd400, C=rs
-      autoanswer:
-        available: 'FALSE'
-      contact_address:
-        company_name: Community of Yugoslav PTT
-        address_line_1: Palmoticeva 2
-        address_line_2: YU-11000 BEOGRAD, Serbia
-        x400: 'X.400: G=petar; S=calic;, O=zjptt; P=public;, A=beograd400; C=rs;'
-    Singapour:
-      country_or_area:
-        en: Singapore
-        es: Singapur
-      admd_name: STEMS
-      country_code: SG
-      helpdesk:
-        x400: S=helpdesk, A=stems, C=sg
-      autoanswer:
-        x400: S=autoanswer, A=stems, C=sg
-      contact_address:
-        company_name: Singapore Telecommunication Limited
-        address_line_1: Comcentre, 31 Exeter Road
-        address_line_2: SINGAPORE 0923
-        address_line_3: Republic of Singapore
-        x400: 'X.400: G=wah lon; S=lee; O=st;, A=stems; C=sg'
-    Slovénie:
-      country_or_area:
-        en: Slovenia
-        es: Eslovenia
-      admd_name: MAIL
-      country_code: SI
-      mt: Smail 400
-      ipm: Smail 400
-      helpdesk:
-        x400: S=helpdesk, A=mail, C=si
-      autoanswer:
-        x400: S=autoanswer, A=mail, C=si
-      contact_address:
-        company_name: Mr. Goran Rakovic
-        address_line_1: Telekom Slovenije p.o.
-        address_line_2: Cigaletova 15
-        address_line_3: SI-1000 LJUBLJANA, Slovenia
-        x400: 'X.400: G=goran;S=rakovic;, O=public 1; A=mail; C=si'
-    Sudafricaine (Rép.):
-      country_or_area:
-        en: South Africa
-        es: Sudafricana (Rep.)
-      admd_name: TELKOM400
-      country_code: ZA
-      mt: TELKOM 400
-      ipm: TELKOM 400
-      other: ''
-      helpdesk:
-        x400: S=helpdesk, A=telkom400, C=za
-      autoanswer:
-        x400: S=autoanswer, A=telkom400, C=za
-      contact_address:
-        company_name: The Managing Executive
-        address_line_1: Telkom SA Ltd.
-        address_line_2: International and Special Market Services
-        address_line_3: Private Bag X942
-        address_line_4: 0001 PRETORIA, South Africa
-        x400: 'X.400: G=anne; S=van coller;, O=telkom; A=telkom400; C=za'
-        email: 'E-mail: vancolleas@telkom.co.za'
-    Espagne:
-      country_or_area:
-        en: Spain
-        es: España
-      admd_name: MENSATEX
-      country_code: ES
-      mt: MENSATEX.400
-      ipm: MENSATEX.400
-      helpdesk:
-        x400: S=helpdesk, A=mensatex, C=es
-      autoanswer:
-        x400: S=autoanswer, A=mensatex, C=es
-      contact_address:
-        company_name: TELEFÓNICA SERVICIOS
-        address_line_1: AVANZADOS DE INFORMACIÓN (TSAI)
-        address_line_2: Julián Camarillo, 6
-        address_line_3: E-28037 MADRID, España
-        x400: 'X.400: S=helpdesk; A=mensatex; C=es'
-    Suède:
-      country_or_area:
-        en: Sweden
-        es: Suecia
-      admd_name: MASTER400
-      country_code: SE
-      mt: MASTER400
-      ipm: MASTERMAIL (P7)
-      helpdesk:
-        x400: S=helpdesk, A=master400, C=it
-      autoanswer:
-        x400: S=autoanswer, A=master400, C=it
-      contact_address:
-        company_name: Madia Saponaro
-        address_line_1: SARITEL S.p.A.
-        address_line_2: S.S. 148 Pontina Km. 29,100
-        address_line_3: 00040 POMEZIA (ROMA), Italy
-        x400: 'X.400: G=madia; S=saponaro; O=saritel;, A=master400; C=it'
-        email: 'E-mail: saponaro@saritel.it'
-    Suisse:
-      country_or_area:
-        en: Switzerland
-        es: Suiza
-      admd_name: UMI-CH
-      country_code: CH
-      mt: UMI400
-      ipm: UMI400
-      helpdesk:
-        x400: S=helpdesk, A=umi-ch, C=ch
-      autoanswer:
-        x400: S=autoanswer, A=umi-ch, C=ch
-      contact_address:
-        company_name: Conexus AG
-        address_line_1: 'Attn: URS BRAWAND'
-        address_line_2: Ifangstrasse 10
-        address_line_3: CH-8302 KLOTEN, Suisse
-        x400: 'X.400: G=urs; S=brawand; O=conexus;, P=conexus; A=umi-ch; C=ch'
-    Thaïlande:
-      country_or_area:
-        en: Thailand
-        es: Tailandia
-      admd_name: CAT400
-      country_code: TH
-      other: Faxgateway; Telexgateway; EDI; internetgateway; Proprietary Mail Gateway
-      helpdesk:
-        x400: G=support, S=supportgroup, O=cat400, A=cat400, C=th
-      autoanswer:
-        x400: G=autoanswer, S=autoanswer, O=cat400, A=cat400, C=th
-      contact_address:
-        company_name: Telebox Exchange Office
-        address_line_1: Data Communication Division
-        address_line_2: The Communications Authority of Thailand (CAT)
-        address_line_3: BANGKOK 10501, Thailand
-        x400: 'X.400: G=vichien; S=chomsamnieng;, O=cat400; A=cat400; C=th'
-    Tonga:
-      country_or_area:
-        en: Tonga
-        es: Tonga
-      admd_name: TONGA TELECOM
-      country_code: TO
-      helpdesk:
-        available: 'FALSE'
-      autoanswer:
-        available: 'FALSE'
-      contact_address:
-        company_name: Tonga Telecom Commission
-        address_line_1: P.O. Box 46
-        address_line_2: NUKU'ALOFA, Tonga
-    Emirats arabes unis:
-      country_or_area:
-        en: United Arab Emirates
-        es: Emiratos Arabes Unidos
-      admd_name: EMNET
-      country_code: AE
-      mt: EMNET
-      ipm: EMNET
-      helpdesk:
-        x400: UN=helpdesk, O=etisalat, A=emnet, C=ae
-      autoanswer:
-        available: 'FALSE'
-      contact_address:
-        company_name: ETISALAT
-        address_line_1: P. O. Box 3838
-        address_line_2: Operations Department
-        address_line_3: ABU DHABI
-        address_line_4: United Arab Emirates
-        x400: 'X.400: UN=ops.ho; O=etisalat;, A=emnet; C=ae'
-    Royaume-Uni:
-      country_or_area:
-        en: United Kingdom
-        es: Reino Unido
-      admd_name: UMI-UK
-      country_code: GB
-      mt: UMI-400
-      ipm: UMI-400
-      other: MESSAGE-XCHANGE
-      helpdesk:
-        x400: S=helpdesk, A=umi-uk, C=gb
-      autoanswer:
-        x400: S=autoanswer, A=umi-uk, c=gb
-      contact_address:
-        company_name: Paragon Software Limited
-        address_line_1: Paragon House
-        address_line_2: 3 Coombe Square
-        address_line_3: GB-THATCHAM, BERKSHIRE RG13 4JF
-        address_line_4: United Kingdom
-    Etats-Unis:
-      country_or_area:
-        en: United States
-        es: Estados Unidos
-      admd_name: UKANS
-      country_code: US
-      contact_address:
-        company_name: Dave Nordlund
-        address_line_1: Associate Director, University of Kansas
-        address_line_2: Computer Center
-        address_line_3: LAWRENCE, KS 66045, United States
-        x400: 'X.400: G=nordlund; A=ukans; C=us'
-    Uruguay:
-      country_or_area:
-        en: Uruguay
-        es: Uruguay
-      admd_name: ANTEL
-      country_code: UY
-      mt: ANTEL-MAIL
-      other: URUMAIL400
-      helpdesk:
-        available: 'FALSE'
-      autoanswer:
-        available: 'FALSE'
-      contact_address:
-        company_name: ANTEL-Goia. Telex y Datos
-        address_line_1: Mercedes 884
-        address_line_2: C.P. 11 100
-        address_line_3: MONTEVIDEO, Uruguay
-        x400: 'X.400: G=rodolfo; S=fariello; DD.ID=30003; A=antel; C=uy'
-    Ouzbékistan:
-      country_or_area:
-        en: Uzbekistan
-        es: Uzbekistán
-      admd_name: UZMAIL
-      country_code: UZ
-      helpdesk:
-        x400: S=helpdesk, P=tash, A=uzmail, C=uz
-      autoanswer:
-        x400: S=autoanswer, P=tash, A=uzmail, C=uz
-      contact_address:
-        company_name: Communications and Information
-        address_line_1: Agency of Uzbekistan
-        address_line_2: 28a, Navoi Street
-        address_line_3: 100129 TASHKENT, Uzbekistan
-        x400: 'X.400: S=admin; P=tash; A=uzmail; C=uz'
+- country_or_area:
+    fr: Arménie
+    en: Armenia
+    es: Armenia
+  admd_name: ARMMAIL
+  country_code: AM
+  mt: ARMMAIL
+  ipm: ''
+  other: ''
+  helpdesk:
+    x400: G=help, S=desk, O=infocom, A=armmail, C=am
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: "“INFOCOM” JSC"
+    address_line_1: 22 Sarian Street
+    address_line_2: P.O. Box 375002
+    address_line_3: YEREVAN, Armenia
+    x400: 'X.400: G=system; S=administratior;, O=infocom; A=armmail; C=am'
+- country_or_area:
+    fr: Australie
+    en: Australia
+    es: Australia
+  admd_name: EDX
+  country_code: AU
+  mt: EDX
+  ipm: EDX
+  other: Directory ; Service
+  helpdesk:
+    x400: G=peter, S=eyles, P=edx1, A=edx, C=au
+  autoanswer:
+    x400: G=autoreply, O=democentre, P=edxqld, A=edx, C=au
+  contact_address:
+    company_name: EDX - Electronic Document Exchange
+    address_line_1: Mr. Andrew Ferguson
+    address_line_2: Level 3, 63 Exhibition Street
+    address_line_3: VIC 3000 MELBOURNE, Australia
+    x400: 'X.400: G=andrew; S=ferguson; O=edx;, P=edxmelb; A=edx; C=au'
+- country_or_area:
+    fr: Australie
+    en: Australia
+    es: Australia
+  admd_name: OTC
+  country_code: AU
+  mt: OTC; CONNECT 400
+  ipm: OTC MAIL 400
+  helpdesk:
+    x400: S=helpdesk, O=operations, P=enhanced, A=otc, C=au
+  autoanswer:
+    x400: S=autoreply, O=operations, P=enhanced, A=otc, C=au
+  contact_address:
+    company_name: OTC Electronic Trading
+    address_line_1: 41 Mc Laren Street
+    address_line_2: North Sydney
+    address_line_3: NSW 2060, Australia
+    x400: 'X.400: G=russell; S=fitzpatrick; O=et;, P=easicom; A=otc; C=au'
+- country_or_area:
+    fr: Australie
+    en: Australia
+    es: Australia
+  admd_name: SUNNET
+  country_code: AU
+  mt: SUNNET
+  ipm: SUNNET
+  other: Directory ; Service
+  helpdesk:
+    x400: G=peter, S=eyles, P=edx1, A=sunnet, C=au
+  autoanswer:
+    x400: G=autoreply, O=democentre, P=edxqld, A=sunnet, C=au
+  contact_address:
+    company_name: EDX - Electronic Document Exchange
+    address_line_1: Mr. Andrew Ferguson
+    address_line_2: Level 3, 63 Exhibition Street
+    address_line_3: VIC 3000 MELBOURNE, Australia
+    x400: 'X.400: G=andrew; S=ferguson; O=edx;, P=edxmelb; A=edx; C=au'
+- country_or_area:
+    fr: Australie
+    en: Australia
+    es: Australia
+  admd_name: TELEMEMO
+  country_code: AU
+  mt: TELEMEMO
+  ipm: KEYLINK
+  other: "(EDI); TRADELINK"
+  helpdesk:
+    x400: S=helpdesk, O=telememo, A=telememo, C=au
+  autoanswer:
+    x400: S=autoanswer, O=telecom, P=telecom, A=telememo, C=au
+  contact_address:
+    company_name: Telecom Australia
+    address_line_1: 1/181 Victoria Parade
+    address_line_2: Collingwood
+    address_line_3: Victoria 3066, Australia
+    x400: 'X.400: G=peter; S=kelleher; O=telecom;, A=telememo; C=au'
+- country_or_area:
+    fr: Australie
+    en: Australia
+    es: Australia
+  admd_name: TEXTFILE
+  for_test_purposes: 'TRUE'
+  country_code: AU
+  mt: TEXTFILE
+  ipm: TEXTFILE
+  helpdesk:
+    x400: S=helpdesk, O=textfile, A=textfile, C=au
+  autoanswer:
+    x400: S=antoanswer, O=telecom, P=telecom, A=textfile, C=au
+  contact_address:
+    company_name: Telecom Australia
+    address_line_1: 1/181 Victoria Parade
+    address_line_2: Collingwood
+    address_line_3: Victoria 3066, Australia
+    x400: 'X.400: G=rodney; S=beale; O=telecom.hp;, A=textfile; C=au'
+- country_or_area:
+    fr: Autriche
+    en: Austria
+    es: Austria
+  admd_name: ADA
+  country_code: AT
+  mt: ADA400
+  ipm: TELEBOX
+  helpdesk:
+    x400: S=helpdesk, A=ada, C=at
+  autoanswer:
+    x400: S=autoanswer, A=ada, C=at
+  contact_address:
+    company_name: DATAKOM AUSTRIA A.G.
+    address_line_1: Wiedner Hauptstrasse 73
+    address_line_2: A-1042 Wien, Austria
+    x400: 'X.400: S=anders; O=rac; P=telebox;, A=ada; C=at'
+- country_or_area:
+    fr: Autriche
+    en: Austria
+    es: Austria
+  admd_name: DIG
+  country_code: AT
+  mt: DIG400
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: DIG digital-information-gateway GmbH
+    address_line_1: Karl-Wiser-Strasse 1
+    address_line_2: 4020 LINZ, Austria
+    email: 'E-mail: office@dig-gmbh.at'
+- country_or_area:
+    fr: Autriche
+    en: Austria
+    es: Austria
+  admd_name: EUNET
+  country_code: AT
+  mt: EUNET400
+  ipm: EUnet400
+  helpdesk:
+    x400: S=helpdesk, A=eunet, C=at
+  autoanswer:
+    x400: S=autoanswer, A=eunet, C=at
+  contact_address:
+    company_name: EUNET EDV Dienstleistung GmbH
+    address_line_1: Thurngasse 8/16
+    address_line_2: A-1090 Wien, Austria
+    x400: 'X.400: S=info; O=eunet; P=co;, A=ada; C=at'
+- country_or_area:
+    fr: Autriche
+    en: Austria
+    es: Austria
+  admd_name: GV
+  country_code: AT
+  mt: CNF
+  other: ''
+  helpdesk:
+    x400: S=helpdesk, A=gv, C=at
+  autoanswer:
+    x400: S=autoanswer, A=gv, C=at
+  contact_address:
+    company_name: DATAKOM AUSTRIA A.G.
+    address_line_1: Wiedner Hauptstrasse 73
+    address_line_2: Postfach 60
+    address_line_3: A-1042 WIEN, Austria
+    x400: 'X.400: S=uher; P=kmp;, A=gv; C=at'
+- country_or_area:
+    fr: Autriche
+    en: Austria
+    es: Austria
+  admd_name: IBMX400
+  country_code: AT
+  ipm: IBM Mail Exchange
+  helpdesk:
+    x400: G=rainer, S=muecke, P=ibmmail, A=ibmx400, C=at
+  autoanswer:
+    x400: G=inform, S=inform, P=ibmmail, A=ibmx400, C=gb
+  contact_address:
+    company_name: Mr. R. Springer
+    address_line_1: IBM Austria
+    address_line_2: Obere Donaustrasse 95
+    address_line_3: A-1020 Wien, Austria
+    x400: 'X.400: G=springer; S=springer;, P=ibmmail; A=ibmx400; C=at'
+- country_or_area:
+    fr: Autriche
+    en: Austria
+    es: Austria
+  admd_name: ODE
+  country_code: AT
+  mt: ODE400
+  ipm: ODE400
+  other: ''
+  helpdesk:
+    x400: S=helpdesk, A=ode, C=at
+  autoanswer:
+    x400: S=autoanswer, A=ode, C=at
+  contact_address:
+    company_name: CÖ Datenhighway
+    address_line_1: Entwicklungs GmbH
+    address_line_2: Hauptstraße 4
+    address_line_3: A-4040 LINZ, Austria
+    x400: 'X.400: S=helpdesk; A=ode; C=at'
+- country_or_area:
+    fr: Autriche
+    en: Austria
+    es: Austria
+  admd_name: UMI-AT
+  country_code: AT
+  mt: UMI400
+  ipm: UMI400
+  helpdesk:
+    x400: S=helpdesk, A=umi-at, C=at
+  autoanswer:
+    x400: S=autoanswer, A=umi-at, C=at
+  contact_address:
+    company_name: PLUS COMMUNICATIONS
+    address_line_1: HANDELSGESELLSCHAFT m.b.H.
+    address_line_2: Sieveringer Strasse 124
+    address_line_3: A-1190 WIEN, Austria
+    x400: 'X.400: S=helpdesk; A=umi-at; C=at'
+- country_or_area:
+    fr: Bélarus
+    en: Belarus
+    es: Belarús
+  admd_name: BELPAK
+  country_code: BY
+  mt: BELPAK400
+  ipm: ''
+  other: ''
+  helpdesk:
+    x400: S=helpdesk, O=rtte, A=belpak, C=by
+  autoanswer:
+    x400: S=autoanswer, O=rtte, A=belpak, C=by
+  contact_address:
+    address_line_1: 55 Zakharov Street
+    address_line_2: 220088 MINSK
+    address_line_3: Belarus
+    x400: 'X.400: S=test; O=test 1; A=belpak; C=by'
+- country_or_area:
+    fr: Belgique
+    en: Belgium
+    es: Bélgica
+  admd_name: BELNET
+  country_code: BE
+  mt: BELNET400
+  ipm: ''
+  other: ''
+  helpdesk:
+    x400: S=helpdesk, A=belnet, C=be
+  autoanswer:
+    x400: S=autoanswer, a=belnet, c=be
+  contact_address:
+    company_name: U.L.B.
+    address_line_1: Service Télématique et Communication
+    address_line_2: C.P. 230 Boulevard du Triomphe
+    address_line_3: B-1050 BRUXELLES, Belgique
+    x400: 'X.400: S=postmaster; P=iihe; A=rtt; c=be;, or S=postmaster; A=belnet; C=be'
+- country_or_area:
+    fr: Belgique
+    en: Belgium
+    es: Bélgica
+  admd_name: IBMX400
+  country_code: BE
+  ipm: IBM Mail Exchange
+  helpdesk:
+    x400: G=helpdesk, S=helpdesk, P=ibmmail, A=ibmx400, C=be
+  autoanswer:
+    x400: G=inform, S=inform, P=ibmmail, A=ibmx400, C=gb
+  contact_address:
+    company_name: Mr. N. Vancoillie
+    address_line_1: IBM Belgium - DIE67
+    address_line_2: JF Kennedylaan 2
+    address_line_3: B-1831 DIEGEM, Belgium
+    x400: 'X.400: G=vancoin; S=vancoill; P=ibmmail;, A=ibmx400; C=be'
+- country_or_area:
+    fr: Belgique
+    en: Belgium
+    es: Bélgica
+  admd_name: INFONET
+  country_code: BE
+  mt: NOTICE 400
+  ipm: ''
+  other: ''
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: INTERPAC BELGIUM
+    address_line_1: Avenue de Louise 350 b. -1-1
+    address_line_2: B-1050 BRUXELLES, Belgique
+- country_or_area:
+    fr: Belgique
+    en: Belgium
+    es: Bélgica
+  admd_name: ISA
+  country_code: BE
+  ipm: ''
+  other: ''
+  helpdesk:
+    x400: CN=helpdesk, P=isaserver, A=isa, C=be
+  autoanswer:
+    x400: CN=autoanswer, P=isaserver, A=isa, C=be
+  contact_address:
+    company_name: IsaServer N.V.
+    address_line_1: Koningsstraat 145
+    address_line_2: B-1000 BRUSSELS, Belgium
+    x400: 'X.400: CN=helpdesk; P=isaserver;, A=isa; C=be'
+- country_or_area:
+    fr: Belgique
+    en: Belgium
+    es: Bélgica
+  admd_name: PUBLILINK
+  country_code: BE
+  ipm: ''
+  other: ''
+  helpdesk:
+    x400: CN=publilink helpdesk, S=publilink helpdesk, A=publilink, C=be
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Crédit Communal SA
+    address_line_1: Boulevard Pacheco 44
+    address_line_2: B-1000 Bruxelles, Belgique
+    x400: 'X.400: CN=publilink helpdesk, S=publilink helpdesk, A=publilink; C=be'
+- country_or_area:
+    fr: Belgique
+    en: Belgium
+    es: Bélgica
+  admd_name: RTT
+  country_code: BE
+  mt: DCS.400
+  ipm: DCS.MAIL
+  other: ''
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: RTT Belgium
+    address_line_1: Brussels, Belgique
+    x400: 'X.400: G=roland; S=quairia; O=rtt;, A=rtt; C=be'
+- country_or_area:
+    fr: Belgique
+    en: Belgium
+    es: Bélgica
+  admd_name: SEAGHA
+  country_code: BE
+  mt: 1992/1988/1984; DIGITAL EQUIPMENT; MAILBUS 400 ON DEC UNIX
+  ipm: '1988'
+  helpdesk:
+    x400: CN=helpdesk, A=seagha, C=be
+    others: 'Email: helpdesk@seagha.com'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: SEAGHA c.v.
+    address_line_1: Brouwersvliet 33/8
+    address_line_2: B-2000 ANTWERPEN, Belgium
+    x400: 'X.400: CN=info;, A=seagha; C=be'
+    email: 'E-mail: info@seagha.com'
+- country_or_area:
+    fr: Bermudes
+    en: Bermuda
+    es: Bermudas
+  admd_name: BERNET
+  country_code: BM
+  mt: BERNET
+  ipm: BERNET
+  other: ''
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: The Bermuda Telephone Co., Ltd.
+    address_line_1: 30 Victoria Street
+    address_line_2: HAMILTON HM DX, Bermuda
+    x400: 'X.400: G=john; S=dill; O=n; A=bernet; C=bm'
+- country_or_area:
+    fr: Brésil
+    en: Brazil
+    es: Brasil
+  admd_name: EMBRATEL
+  country_code: BR
+  mt: STM400
+  ipm: STM400
+  helpdesk:
+    x400: S=helpdesk, O=stm400.intl, A=embratel.intl, C=br
+  autoanswer:
+    x400: S=autoanswer, O=stm400.intl, A=embratel.intl, C=br
+  contact_address:
+    company_name: EMBRATEL
+    address_line_1: DNI-13 Consumers Services Office
+    address_line_2: Av. Marechal Floriano 99, 16° andar - Centro
+    address_line_3: RIO DE janeiro, R.J., Brasil
+    address_line_4: 'CEP: 20080-004'
+    x400: 'X.400: S=dni.13; O=embratel.s.a.;, A=embratel.intl; C=br'
+- country_or_area:
+    fr: Brésil
+    en: Brazil
+    es: Brasil
+  admd_name: EMBRATEL.INTL
+  country_code: BR
+  mt: STM400
+  ipm: STM400
+  helpdesk:
+    x400: S=helpdesk, O=stm400.intl, A=embratel.intl, C=br
+  autoanswer:
+    x400: S=autoanswer, O=stm400.intl, A=embratel.intl, C=br
+  contact_address:
+    company_name: EMBRATEL
+    address_line_1: DNI-13 Consumers Services Office
+    address_line_2: Av. Marechal Floriano 99, 16° andar - Centro
+    address_line_3: RIO DE janeiro, R.J., Brasil
+    address_line_4: 'CEP: 20080-004'
+    x400: 'X.400: S=dni.13; O=embratel.s.a.;, A=embratel.intl; C=br'
+- country_or_area:
+    fr: Bulgarie
+    en: Bulgaria
+    es: Bulgaria
+  admd_name: BG400
+  country_code: BG
+  mt: Vmail
+  ipm: Vmail
+  helpdesk:
+    x400: S=helpdesk, A=bg400, C=bg
+  autoanswer:
+    x400: S=autoanswer, A=bg400, C=bg
+  contact_address:
+    company_name: 'Attn: Mr. Plamen Chernokojev, Manager'
+    address_line_1: VITOSHA SOFTWARE AND
+    address_line_2: COMMUNICATIONS Ltd. (VSC)
+    address_line_3: 'CICCT, Tzarigradsko Shosse 7 km, #706'
+    address_line_4: 1113 SOFIA, Bulgaria
+    x400: 'X.400: G=plamen; S=chernokojev; O=vsc;, A=bg400; C=bg'
+- country_or_area:
+    fr: Canada
+    en: Canada
+    es: Canadá
+  admd_name: ATTMAIL
+  country_code: CA
+  mt: ATT Mail
+  ipm: ATTMAIL
+  helpdesk:
+    x400: S=cndahelp, A=attmail, C=ca
+  autoanswer:
+    x400: G=canada, S=autoanswer, DDA.ID=cautoanswer, A=attmail, C=ca
+  contact_address:
+    company_name: AT&T EasyLink Services - Canada
+    address_line_1: 2005 Sheppard Ave. East
+    address_line_2: Suite 215, Willowdale
+    address_line_3: ONTARIO M2J 5B4, Canada
+    x400: 'X.400: G=customer; S=assistance;, DDA.ID=cndahelp; A=attmail; C=ca'
+- country_or_area:
+    fr: Canada
+    en: Canada
+    es: Canadá
+  admd_name: CDNNET
+  country_code: CA
+  mt: CDNnet X.400 Electronic Mail
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: CDNnet Headquarters
+    address_line_1: 353-6356 Agricultural Road
+    address_line_2: University of British Columbia
+    address_line_3: Vancouver, BC, V6T 1Z2, Canada
+    x400: 'X.400: S=hq; A=cdnnet; C=ca'
+- country_or_area:
+    fr: Canada
+    en: Canada
+    es: Canadá
+  admd_name: CPCMHS
+  country_code: CA
+  other: OMNIPOST
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Canada Post Corp.
+    address_line_1: Customer Support Center
+    address_line_2: 141 Colonade Road
+    address_line_3: Nepean, Ontario K1A 0B1, Canada
+    x400: 'X.400: S=assist; O=csc; A=cpcmhs; C=ca'
+- country_or_area:
+    fr: Canada
+    en: Canada
+    es: Canadá
+  admd_name: GLOBETEX
+  country_code: CA
+  mt: ''
+  ipm: ''
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Teleglobe Canada Inc.
+    address_line_1: 680 Sherbroke St. W.
+    address_line_2: Montreal, Quebec, H3A 2S4, Canada
+- country_or_area:
+    fr: Canada
+    en: Canada
+    es: Canadá
+  admd_name: GOVMT.CANADA
+  country_code: CA
+  mt: Government; Message Handling ; Service (GMHS)
+  other: ''
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Mr. Victor Grebler
+    address_line_1: Director, Network Interconnection Services
+    address_line_2: Government Telecommunications and
+    address_line_3: Informatics Services, Government of Canada
+    address_line_4: Floor 20, 365 Laurier Ave. West,  OTTAWA ONTARIO, K1A 0C8, Canada
+    x400: 'X.400: G=victor; S=grebler; P=gc+gta.atg;, A=govmt.canada; C=ca'
+- country_or_area:
+    fr: Canada
+    en: Canada
+    es: Canadá
+  admd_name: IBMX400
+  country_code: CA
+  mt: IBM; Mail Exchange
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: IBM Information Network
+    address_line_1: F5/340
+    address_line_2: 3600 Steeles Avenue East
+    address_line_3: Markham, Ontario, L3R 9Z7, Canada
+    x400: 'X.400: G=hiscoch; S=hiscock; P=ibmmail;, A=ibmx400; C=ca'
+- country_or_area:
+    fr: Canada
+    en: Canada
+    es: Canadá
+  admd_name: IMMEDIA
+  country_code: CA
+  mt: INTERCONNEXIONS
+  ipm: INTERCONNEXIONS
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: Georges Paquette
+    address_line_1: 1115, boul. Rene-Levesque O.
+    address_line_2: Suite 2250
+    address_line_3: Montreal, Quebec H3B 4T3, Canada
+- country_or_area:
+    fr: Canada
+    en: Canada
+    es: Canadá
+  admd_name: INFONET
+  country_code: CA
+  mt: NOTICE400
+  ipm: NOTICE400
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: Infonet Canada
+    address_line_1: 2005 Sheppard Ave. East
+    address_line_2: Suite 800
+    address_line_3: Willowdale, Ontario, M2J 5B4, Canada
+- country_or_area:
+    fr: Canada
+    en: Canada
+    es: Canadá
+  admd_name: MARK400
+  country_code: CA
+  ipm: QUIK-COMM X.400 ACCESS
+  other: EDI*EXPRESS X.400 ACCESS
+  helpdesk:
+    x400: S=helpdesk, O=quikcomm, OU1=geis, A=mark400, C=ca
+  autoanswer:
+    x400: S=autoanswer, O=quikcomm, OU1=geis, A=mark400, C=ca
+  contact_address:
+    company_name: 'Attn: E. Litkowski'
+    address_line_1: GE Information Service
+    address_line_2: 401 N. Washington Street
+    address_line_3: Rockville, MD, 20850, United States
+    x400: 'X.400: G=elizabeth; S=litkowski;, O=quikcomm;, OU1=geis; A=mark400; C=ca'
+- country_or_area:
+    fr: Canada
+    en: Canada
+    es: Canadá
+  admd_name: TELECOM. CANADA
+  country_code: CA
+  mt: ENVOY 100
+  ipm: ENVOY 100
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Telecom Canada
+    address_line_1: 160 Elgin Street, Floor 12
+    address_line_2: Ottawa Ontario, K1G 3J4, Canada
+    x400: 'X.400: G=gonnie; S=peebles;, A=telecom.canada; C=ca'
+- country_or_area:
+    fr: Canada
+    en: Canada
+    es: Canadá
+  admd_name: UNITEL
+  country_code: CA
+  mt: UNITEL X.400 MAIL
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Unitel Communications Inc.
+    address_line_1: 200 Wellington St. W.
+    address_line_2: Toronto, Ontario M5V 3C7, Canada
+    x400: 'X.400: S=hq; A=unitel; C=ca'
+- country_or_area:
+    fr: Chili
+    en: Chile
+    es: Chile
+  admd_name: EDIBANK
+  country_code: CL
+  mt: EDIBANK;
+  ipm: EDIBANK
+  other: EDI SERVICES
+  helpdesk:
+    x400: S=helpdesk, O=helpdesk, A=edibank, C=cl
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Ricardo Grob
+    address_line_1: Marketing & Business
+    address_line_2: Development Manager
+    address_line_3: EDIBANK S.A.
+    address_line_4: Huerfanos 770 Piso 18, SANTIAGO DE CHILE, Chile
+    x400: 'X.400: G=ricardo; S=grob;, P=edibank; A=edibank; C=cl'
+- country_or_area:
+    fr: Chili
+    en: Chile
+    es: Chile
+  admd_name: ENTELDATA
+  country_code: CL
+  mt: MAILNET
+  ipm: MAILNET
+  contact_address:
+    company_name: ENTEL SERVICIOS DE DATOS S.A.
+    address_line_1: Av. Holanda N.° 64 piso 5
+    address_line_2: SANTIAGO DE CHILE, Chile
+    x400: 'X.400: S=m400; O=edatal;, A=enteldata; C=cl'
+- country_or_area:
+    fr: Chine
+    en: China
+    es: China
+  admd_name: CHINAMAIL
+  country_code: CN
+  contact_address:
+    company_name: Directorate General of Telecommunications
+    address_line_1: Ministry of Posts and Telecommunications
+    address_line_2: 13 West Chang  An Ave.
+    address_line_3: BEIJING 100804, China
+    x400: 'X.400: G=inter; S=ptt; O=mpt;, A=chinamail, C=cn'
+- country_or_area:
+    fr: Costa Rica
+    en: Costa Rica
+    es: Costa Rica
+  admd_name: RACSAMAIL
+  country_code: CR
+  mt: CCITT (84)
+  ipm: CCITT (84)
+  helpdesk:
+    x400: G=help, S=desk, O=racsa, A=racsamail, C=cr
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Radiográfica Costarricense S.A.
+    address_line_1: "(RACSA)"
+    address_line_2: Apartado Postal 54
+    address_line_3: 1000 SAN JOSE
+    address_line_4: Costa Rica
+- country_or_area:
+    fr: Croatie
+    en: Croatia
+    es: Croacia
+  admd_name: CRO400
+  country_code: HR
+  mt: CRO400
+  ipm: CRO400
+  helpdesk:
+    x400: S=helpdesk, O=public-h, A=cro400, C=hr
+  autoanswer:
+    x400: S=autoanswer, O=public-h, A=cro400, C=hr
+  contact_address:
+    company_name: Ms. Maja Valdevit
+    address_line_1: HT - Croatian Telecom
+    address_line_2: Non-voice Services Divisin
+    address_line_3: Draskoviceva 26
+    address_line_4: HR-10000 ZAGREB, Croatia
+    x400: 'X.400: G=maja; S=valdevit; O=public-h;, A=cro400; C=hr'
+    email: 'E-mail: maja.valdevit@tel.hr, maja.valdevit@ht.hr'
+- country_or_area:
+    fr: Chypre
+    en: Cyprus
+    es: Chipre
+  admd_name: CYTA400
+  country_code: CY
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Manager Commercial Services
+    address_line_1: Cyprus Telecommunications Authority
+    address_line_2: P.O. Box 4929
+    address_line_3: 1396 NICOSIA, Cyprus
+    x400: 'X.400: S=makris; P=lu; A=cyta400; C=cy'
+- country_or_area:
+    fr: Rép. tchèque
+    en: Czech Rep.
+    es: Rep. Checa
+  admd_name: EDIVAN 400
+  country_code: CZ
+  mt: ISOCOR 4.4
+  ipm: P2, P35
+  helpdesk:
+    x400: S=helpdesk, A=edivan 400, C=cz
+  autoanswer:
+    x400: P=autoanswer, A=edivant 400, C=cz
+  contact_address:
+    company_name: EDITEL CZ a.s.
+    address_line_1: Pod Pramenem 3
+    address_line_2: 140 00 PRAHA 4, Czech Republic
+    x400: 'X.400: S=helpdesk; A=edivan 400; C=cz'
+- country_or_area:
+    fr: Rép. tchèque
+    en: Czech Rep.
+    es: Rep. Checa
+  admd_name: SPT 400
+  country_code: CZ
+  mt: CZMAIL - MT
+  ipm: CZMAIL - IPM
+  helpdesk:
+    x400: S=helpdesk, A=spt 400, C=cz
+  autoanswer:
+    x400: P=autoanswer, A=spt 400, C=cz
+  contact_address:
+    company_name: Jirí Jakes
+    address_line_1: Head of CZMAIL
+    address_line_2: CPP s.p. - Transgas o.z.
+    address_line_3: Sokolská 4
+    address_line_4: 120 00 PRAHA 2, Czech Republic
+    x400: 'X.400: S=jiri; S=jakes; P=tg;, A=spt 400; C=cz'
+- country_or_area:
+    fr: Rép. dém. du Congo
+    en: Dem. Rep. of the Congo
+    es: Rep. Dem. del Congo
+  admd_name: OCPT
+  country_code: CD
+  other: Express Mail Service
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: E.M.S.
+    address_line_1: Immeuble Kin-Maziere
+    address_line_2: 12, Avenue Tombalbaye
+    address_line_3: KINSHASA-GOMBE
+    address_line_4: Rép. dém. du Congo
+- country_or_area:
+    fr: Danemark
+    en: Denmark
+    es: Dinamarca
+  admd_name: DATAPOST
+  country_code: DK
+  helpdesk:
+    x400: S=helpdesk, A=dk400, C=dk
+  autoanswer:
+    x400: S=helpdesk, A=dk400, C=dk
+  contact_address:
+    company_name: Tele Danmark Erhverv
+    address_line_1: 'Attn: Hans Christian Beck-Jensen'
+    address_line_2: Fabrikvej 11
+    address_line_3: DK-8260 VIBY J, Denmark
+    x400: 'X.400: G=hans christian; S=beck-jensen;, P=datacom; A=dk400; C=dk'
+- country_or_area:
+    fr: Danemark
+    en: Denmark
+    es: Dinamarca
+  admd_name: DK400
+  country_code: DK
+  mt: DATAPOST 400
+  ipm: DATAPOST 400
+  other: DATAPOST 400
+  helpdesk:
+    x400: S=helpdesk, A=dk400, C=dk
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: MACH ApS
+    address_line_1: Blokken 9
+    address_line_2: DK-3460 BIRKERØD, Denmark
+    x400: 'X.400: S=helpdesk; A=dk400; C=dk;'
+- country_or_area:
+    fr: Danemark
+    en: Denmark
+    es: Dinamarca
+  admd_name: TELDK
+  country_code: DK
+  mt: DATAPOST400
+  ipm: DATAPOST400
+  other: DATAPOST400
+  helpdesk:
+    x400: S=denmark helpdesk, A=teldk, C=dk
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Tele Danmark Datacom A/S
+    address_line_1: Fabrikvej 11
+    address_line_2: DK-8260 VIBY J., Denmark
+    x400: 'X.400: G=jesper bak; S=olesen; P=datacom;, A=dk400; C=dk'
+- country_or_area:
+    fr: Estonie
+    en: Estonia
+    es: Estonia
+  admd_name: GOVX400
+  country_code: EE
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Government Department of
+    address_line_1: Telecommunications
+    address_line_2: Ädala 4D
+    address_line_3: EE-0006 TALLINN, Estonia
+- country_or_area:
+    fr: Finlande
+    en: Finland
+    es: Finlandia
+  admd_name: ELISA
+  country_code: FI
+  mt: ELISA
+  ipm: ELISA
+  helpdesk:
+    x400: S=helpdesk, A=elisa, C=fi
+    others: |-
+      Tel: +358 9 606 5644
+      Fax: +358 9 606 3322
+  autoanswer:
+    x400: S=autoanswer, A=elisa, C=fi
+  contact_address:
+    company_name: Helsinki Telephone Corporation Ltd.
+    address_line_1: Production Manager
+    address_line_2: Sauli Tasanko
+    address_line_3: P.O.Box 133
+    address_line_4: FIN-00521 HELSINKI, Finland
+    x400: 'X.400: G=sauli; S=tasanko; O=hpy; P=finnet;, A=elisa; C=fi'
+- country_or_area:
+    fr: Finlande
+    en: Finland
+    es: Finlandia
+  admd_name: EPOSTNET
+  country_code: FI
+  mt: EPOSTNET
+  ipm: EPOSTNET
+  other: EPOSTNET
+  helpdesk:
+    x400: S=helpdesk, A=epostnet, C=fi
+  autoanswer:
+    x400: S=autoanswer, A=epostnet, C=fi
+  contact_address:
+    company_name: Finland Post Ltd.
+    address_line_1: Letter Mail and Tramsport Services
+    address_line_2: Electronic Messaging Pekka Burman
+    address_line_3: P. O. BOX 6
+    address_line_4: FIN-00011 POSTI, Finland
+- country_or_area:
+    fr: Finlande
+    en: Finland
+    es: Finlandia
+  admd_name: IBMX400
+  country_code: FI
+  mt: IBMX400
+  ipm: IBMMAIL
+  helpdesk:
+    x400: G=ibmhd, S=ibm, A=ibmx400, P=ibmmail, C=fi
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: "(IBM VERKKOPALVELUT)"
+    address_line_1: IBM GLOBAL NETWORK
+    address_line_2: P. O. Box 265
+    address_line_3: FIN-00101 HELSINKI, Finland
+    x400: 'X.400: G=jorma; S=piispa; P=ibmmail;, A=ibmx400; C=fi;'
+- country_or_area:
+    fr: Finlande
+    en: Finland
+    es: Finlandia
+  admd_name: MAILNET
+  country_code: FI
+  mt: MAILNET
+  ipm: MAILOFFICE
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: Mr Olli-Pekka Halme
+    address_line_1: Product Manager
+    address_line_2: TeliaSonera Finland Oyj. Product and Services
+    address_line_3: P.O. Box 777
+    address_line_4: FIN-33101 TAMPERE, Finland
+    x400: 'X.400: G=olli-pekka; S=halme; O=sonera;, A=mailnet; C=fi'
+- country_or_area:
+    fr: Finlande
+    en: Finland
+    es: Finlandia
+  admd_name: MARK400
+  country_code: FI
+  mt: MARK400
+  ipm: MARK400; GEIS QuikComm; X.400 access
+  other: GEIS EDI; Express; X.400 access
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: 'Attn: Jöns Aschan'
+    address_line_1: GE information Services Ab,
+    address_line_2: Sivuliike Suomessa
+    address_line_3: Keskuskatu 4, 3 krs
+    address_line_4: FIN-00100 HELSINKI, Finland
+    x400: 'X.400: G=jons; S=aschan; O=quikcomm;, OU1=geis; A=mark400; C=fi'
+    email: 'E-mail: jons.aschan@geis.ge.com'
+- country_or_area:
+    fr: Finlande
+    en: Finland
+    es: Finlandia
+  admd_name: MASTER400
+  country_code: FI
+  mt: MASTER400
+  ipm: MASTERMAIL ; (P7)
+  helpdesk:
+    x400: S=helpdesk, A=master400, C=it
+  autoanswer:
+    x400: S=autoanswer, A=master400, C=it
+  contact_address:
+    company_name: Madia Saponaro
+    address_line_1: SARITEL S.p.A.
+    address_line_2: S.S. 148 Pontina Km. 29,100
+    address_line_3: 00040 POMEZIA (ROMA), Italy
+    x400: 'X.400: G=madia; S=saponaro; O=saritel;, A=master400; C=it'
+    email: 'E-mail: saponaro@saritel.it'
+- country_or_area:
+    fr: France
+    en: France
+    es: Francia
+  admd_name: ATLAS
+  country_code: FR
+  ipm: ATLAS400
+  helpdesk:
+    x400: S=svpatlas, O=transpac, A=atlas, C=fr
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: TRANSPAC
+    address_line_1: Dir. Marketing
+    address_line_2: Hervé Chevallier
+    address_line_3: Tour Maine Montparnasse
+    address_line_4: F-75755 PARIS Cedex 15, France
+    x400: 'X.400: S=atlasintl; O=transpac; A=atlas; C=fr'
+- country_or_area:
+    fr: France
+    en: France
+    es: Francia
+  admd_name: MASTER400
+  country_code: FR
+  mt: MASTER400
+  ipm: MASTERMAIL ; (P7)
+  helpdesk:
+    x400: S=helpdesk, A=master400, C=it
+  autoanswer:
+    x400: S=autoanswer, A=master400, C=it
+  contact_address:
+    company_name: Madia Saponaro
+    address_line_1: SARITEL S.p.A.
+    address_line_2: S.S. 148 Pontina Km. 29,100
+    address_line_3: 00040 POMEZIA (ROMA), Italy
+    x400: 'X.400: G=madia; S=saponaro; O=saritel;, A=master400; C=it'
+    email: 'E-mail: saponaro@saritel.it'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: AIN
+  country_code: DE
+  mt: ANI-MSX-MT
+  ipm: AIN-MSX-IPM
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: DaimlerChrysler Aerospace Airbus GmbH
+    address_line_1: Kreetslag 10
+    address_line_2: 21129 HAMBURG, Germany
+    x400: 'X.400: A=ain; C=de'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: ARCOR400
+  country_code: DE
+  mt: ARCOR400-MT
+  ipm: ARCOR400-IPM
+  helpdesk:
+    x400: S=helpdesk, A=arcor400, C=de
+  autoanswer:
+    x400: S=autoanswer, A=arcor400, C=de
+  contact_address:
+    company_name: Ludger Pagel
+    address_line_1: Michael Lukas
+    address_line_2: Mannesmann Arcor AG & Co, Kölner Straße
+    address_line_3: D-65760 ESCHBORN, Germany
+    x400: 'X.400: G=ludger; S=pagel;, G=michael; S=lukas, A=arcor400; C=de'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: ATLAS
+  country_code: DE
+  mt: ATLAS 400
+  ipm: ATLAS 400 (P7)
+  other: ATLAS TELEX; ATLAS MOBILE; ATLAS FAX; ATLAS EDI; ATLAS LOGO
+  helpdesk:
+    x400: S=helpdesk, A=atlas, C=de
+  autoanswer:
+    x400: S=autoanswer, A=atlas, C=de
+  contact_address:
+    company_name: Georg Seidel
+    address_line_1: INFO AG
+    address_line_2: Grasweg 62 - 66
+    address_line_3: D-22303 HAMBURG, Germany
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: ATTMAIL
+  country_code: DE
+  mt: ATT Mail
+  ipm: ATTMAIL
+  helpdesk:
+    x400: G=kunden, S=hilfe, A=atthilfe, C=de, DDA:ID=atthilfe
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Firma AT&T
+    address_line_1: Ms Nancy O'Toole
+    address_line_2: 307 Middletown-Lincroft Road
+    address_line_3: Room 3D205
+    address_line_4: LINCROFT, NJ 07738, United States
+    x400: 'X.400: G=nance; S=o''toole; A=attmail; C=us;, DDA:ID=notoole'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: BUND400
+  country_code: DE
+  mt: BUND400-MT
+  helpdesk:
+    x400: S=helpdesk, A=bund400, C=de
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Bundesrepublik Deutschland
+    address_line_1: Bundesministerium des lnneren
+    address_line_2: KBSt - RD Uwe Ossenberg Postfach 17 02 90
+    address_line_3: D-53 108 BONN, Germany
+    x400: 'X.400: G=uwe; S=ossenberg; O=kbst; P=bmi;, A=bund400; C=de'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: CARREFOUR
+  country_code: DE
+  mt: CARREFOUR; UNIVERSAL-MT
+  ipm: CARREFOUR; UNIVERSAL-IPM
+  helpdesk:
+    x400: S=helpdesk
+  autoanswer:
+    x400: S=autoanswer
+  contact_address:
+    company_name: Sterling Commerce GmbH
+    address_line_1: Uerdingen Street 90
+    address_line_2: 40474 DUSSELDORF, Germany
+    x400: 'X.400: G=martin; S=russe;, A=Carrefour; C=de'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: CWMAIL
+  country_code: DE
+  helpdesk:
+    x400: S=helpdesk, O=mercury data, P=mcl mail, A=cwmail, C=gb
+  autoanswer:
+    x400: P=autoreply, A=cwmail, C=de
+  contact_address:
+    company_name: Mercury Messaging Division
+    address_line_1: Profile West
+    address_line_2: 950 Great West Road, Brentford
+    address_line_3: MIDDLESEX TW8 9DS, United Kingdom
+    x400: 'X.400: G=gary; S=muchmoore;, P=mercury; A=cwmail; C=gb'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: D400
+  country_code: DE
+  mt: DMAIL
+  helpdesk:
+    x400: S=helpdesk, A=d400, C=de
+  autoanswer:
+    x400: S=autoanswer, A=d400, C=de
+  contact_address:
+    company_name: Martin Wilhelm
+    address_line_1: DFN-Verein
+    address_line_2: Pariser Straße 44
+    address_line_3: D-10707 BERLIN, Germany
+    x400: 'X.400: S=wilhelm; P=dfn; A=d400; C=de'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: DBAG
+  country_code: DE
+  mt: DBX400MT
+  ipm: DBMAILBOX400
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: Deutsche Bahn AG
+    address_line_1: Peter Reindl
+    address_line_2: Geschäftsbereich Netz - NGT 47 -
+    address_line_3: Arnulfstraße 19
+    address_line_4: D-80335 MÜNCHEN, Germany
+    x400: 'X.400: G=peter; S=reindl; A=dbag; C=de'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: DBP
+  country_code: DE
+  mt: BusinessMail; MailGate; X.400 MT
+  ipm: BusinessMail; Mailbox; X.400 - IPM
+  helpdesk:
+    x400: S= helpdesk, A=viat, C=de
+  autoanswer:
+    x400: S=autoanswer, A=viat, C=de
+  contact_address:
+    company_name: Deutsche Telekom AG
+    address_line_1: Produktmanagement
+    address_line_2: BusinessMail X.400
+    address_line_3: Salzachstrasse 15 – 16
+    address_line_4: D-68199 MANNHEIM, Germany
+    x400: 'X.400: G=nobert; S=teuer; O=dtag; A=viat; C=de'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: EURO-LOG
+  country_code: DE
+  mt: TRANSPO; 400-MT
+  ipm: TRANSPO; 400-IPM
+  other: TRANSPO; -NET
+  helpdesk:
+    x400: S=helpdesk, A=euro-log, C=de
+  autoanswer:
+    x400: P=autoanswer, A=euro-log, C=de
+  contact_address:
+    company_name: Hans-Werner Heyng
+    address_line_1: EURO-LOG
+    address_line_2: Telekommunikationsmehrwertdlenste GmbH
+    address_line_3: AM Söldnermoos 17
+    address_line_4: D-85399 HALLBERGMOOS, Germany
+    x400: 'X.400: S=admin; A=euro-log; C=de'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: IBMX400
+  country_code: DE
+  mt: IBM Mail ; Exchange
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: IBM Deutschland
+    address_line_1: Systeme & Netze GmbH
+    address_line_2: Christl Schwarz-Flaig, Am Kettenwald 1
+    address_line_3: D-71139 EHNINGEN, Germany
+    x400: 'X.400: G=christl; S=schwarz-flaig; P=ibmmail; A=ibmx400; C=de'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: INFONET
+  country_code: DE
+  helpdesk:
+    x400: S=helpdesk, A=infonet, C=us
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Elbert G. Ridgell,
+    address_line_1: INFONET Services Corporation
+    address_line_2: 2100 East Frand Avenue
+    address_line_3: EL SEGUNDO, California 90245, United States
+    address_line_4: 'X.400:'
+    x400: "(1) S1=swanson d.; S2=murrell; S3=lebeau; O=infinet; P=notic; A=infonet;
+      C=us, (2) S=ridgell e.; P=notice; A=infonet; C=us, (3) S=Elbert; O=pcelbert;
+      P=notice400 A=infonet; C=us"
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: LION
+  country_code: DE
+  mt: MTS P1 (X.411); 1988 + 1984
+  ipm: IPMS P2 (X.420); 1988 + 1984
+  other: Message Store; (X.413) 1988
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: LION Gesellschaft für Systementwicklung mbH
+    address_line_1: Ulrike Pichler
+    address_line_2: UNITECH CENTER
+    address_line_3: Universitätsstraße 140
+    address_line_4: D-44799 BOCHUM, Germany
+    x400: 'X.400: G=ulrike; S=pichler; P=lion; A=dbp;, C=de'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: MARK400
+  country_code: DE
+  helpdesk:
+    x400: G=germany, S=helpdesk, OU1=geis, O=quikcomm, A=mark400, C=de
+  autoanswer:
+    x400: S=autoanswer, OU1=geis, O=quikcomm, A=mark400, C=us
+  contact_address:
+    company_name: GE Information Services
+    address_line_1: Robert-Bosch-Straße 6
+    address_line_2: D-50354 HÜRTH
+    address_line_3: Germany
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: MASTER400
+  country_code: DE
+  mt: MASTER400
+  ipm: MASTERMAIL ; (P7)
+  helpdesk:
+    x400: S=helpdesk, A=master400, C=it
+  autoanswer:
+    x400: S=autoanswer, A=master400, C=it
+  contact_address:
+    company_name: Madia Saponaro
+    address_line_1: SARITEL S.p.A.
+    address_line_2: S.S. 148 Pontina Km. 29,100
+    address_line_3: 00040 POMEZIA (ROMA), Italy
+    x400: 'X.400: G=madia; S=saponaro; O=saritel;, A=master400; C=it'
+    email: 'E-mail: saponaro@saritel.it'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: PLUS400
+  country_code: DE
+  mt: MTPLUS
+  ipm: MSPLUS
+  helpdesk:
+    x400: S=helpdesk, A=plus400, C=de
+  autoanswer:
+    x400: S=autoanswer, A=plus400, C=de
+  contact_address:
+    company_name: Dr. Gerhard Lovis
+    address_line_1: HÜLS AG
+    address_line_2: Paul-Baumann-Str. 1
+    address_line_3: D-45764 MARL, Germany
+    x400: 'X.400: G=gerhard; S=lovis; O=huels-ag;, OU1=is; P=huels; A=dbp; C=de'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: POST
+  country_code: DE
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Herr Hautschek
+    address_line_1: Deutsche Post AG
+    address_line_2: Generaldirektion
+    address_line_3: Abteilung 633, Hilpertstraße 31
+    address_line_4: D-64295 DARMSTADT, Germany
+    x400: 'X.400: G=markus; S=hautschek;, O=gd; A=postag; C=de'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: POST AG
+  country_code: DE
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Herr Hautschek
+    address_line_1: Deutsche Post AG
+    address_line_2: Generaldirektion
+    address_line_3: Abteilung 633, Hilpertstraße 31
+    address_line_4: D-64295 DARMSTADT, Germany
+    x400: 'X.400: G=markus; S=hautschek;, O=gd; A=postag; C=de'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: RUBIS
+  country_code: DE
+  mt: RUBIS-MAIL
+  ipm: RUBIS-MAIL
+  helpdesk:
+    x400: S=helpdesk
+  autoanswer:
+    x400: S=autoanswer
+  contact_address:
+    company_name: Sterling Commerce GmbH
+    address_line_1: Uerdingen Street 90
+    address_line_2: 40474 DUSSELDORF, Germany
+    x400: 'X.400: G=martin; S=russe;, A=Carrefour; C=de'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: SCN
+  country_code: DE
+  mt: Siemens; Messaging Service
+  helpdesk:
+    x400: S=helpdesk, A=scn, C=de
+  autoanswer:
+    x400: S=autoanswer, A=scn, C=de
+  contact_address:
+    company_name: Heinrich Thies, Siemens
+    address_line_1: Business Services GmbH & Co OHG
+    address_line_2: Otto-Hahn-Ring 6
+    address_line_3: D-81730 MÜNCHEN, Germany
+    x400: 'X.400: G=heinrich; S=thies;, O=siemens; OU1=mch1; OU2=p1;, P=scn; A=dbp;
+      C=de'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: SKO
+  country_code: DE
+  mt: SKO-MAIL
+  ipm: SKO-MAIL
+  helpdesk:
+    x400: S=helpdesk, A=sko, C=de
+  autoanswer:
+    x400: S=autoanswer, A=sko, C=de
+  contact_address:
+    company_name: Ulrike Pichler
+    address_line_1: VEBACOM Service GmbH
+    address_line_2: Universitätsstr. 140
+    address_line_3: D-44799 BOCHUM, Germany
+    x400: 'X.400: G=ulrike; S=pichler; O=vebacom;, A=lion; C=de'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: Telefax400
+  country_code: DE
+  mt: Telefax400
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Deutsche Telekom AG
+    address_line_1: FTZ Darmstadt
+    address_line_2: "- T 22-6 - Dirk Meyer-Rahde"
+    address_line_3: Postfach 10 00 03
+    address_line_4: D-64276 DARMSTADT, Germany
+    x400: 'X.400: G=dirk; S=meier-rahde; O=telekom;, OU1=ftz; A=telefax400; C=de'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: TT
+  country_code: DE
+  mt: TT Universal ; Messaging; MT
+  ipm: IPM
+  other: FAX; EDI
+  helpdesk:
+    x400: S=help desk, A=tt, C=de
+  autoanswer:
+    x400: S=auto reply, A=tt, C=de
+  contact_address:
+    company_name: Dr. Jürgen Mattfeldt
+    address_line_1: X TEND Gesellschaft für
+    address_line_2: Mehrwertdienste mbH I.G.
+    address_line_3: Hans-Günther-Sohl Str. 1
+    address_line_4: D-40235 DÜSSELDORF, Germany
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: UMI-DE
+  country_code: DE
+  mt: UMI400
+  ipm: UMI400
+  helpdesk:
+    x400: S=helpdesk, A=umi-de, C=de
+  autoanswer:
+    x400: S=autoanswer, A=umi-de, C=de
+  contact_address:
+    company_name: Profile Software Engineering GmbH
+    address_line_1: 'Attn: Bernhard Roos'
+    address_line_2: Schatzbogen 52
+    address_line_3: D-81829 MÜnchen, Germany
+    x400: 'X.400: G=bernhard; S=roos;, O=profile-software;, P=profile-software; A=umi-de;
+      C=de'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: VIAT
+  country_code: DE
+  mt: BusinessMail; MailGate X.400 - MT
+  ipm: BusinessMail; Mailbox X.400 - IPM
+  helpdesk:
+    x400: S=helpdesk, A=viat, C=de
+  autoanswer:
+    x400: S=autoanswer, A=viat, C=de
+  contact_address:
+    company_name: Deutsche Telekom AG
+    address_line_1: Produktmanagement
+    address_line_2: BusinessMail X.400
+    address_line_3: Salzachstrasse 15 - 16
+    address_line_4: D-68199 MANNHEIM, Germany
+    x400: 'X.400: G=norbert; S=steuer; O=dtag;, A=viat; C=de'
+- country_or_area:
+    fr: Allemagne
+    en: Germany
+    es: Alemania
+  admd_name: VIAT-AS2
+  country_code: DE
+  mt: BusinessMail; MailGate X.400 - MT
+  ipm: BusinessMail; Mailbox X.400 - IPM
+  helpdesk:
+    x400: S=helpdesk, A=viat, C=de
+  autoanswer:
+    x400: S=autoanswer, A=viat, C=de
+  contact_address:
+    company_name: Deutsche Telekom AG
+    address_line_1: Produktmanagement
+    address_line_2: BusinessMail X.400
+    address_line_3: Salzachstrasse 15 - 16
+    address_line_4: D-68199, MANNHEIM, Germany
+    x400: 'X.400: G=norbert; S=steuer; O=dtag, A=viat; C=de'
+- country_or_area:
+    fr: Grèce
+    en: Greece
+    es: Grecia
+  admd_name: ERMIS400
+  country_code: GR
+  contact_address:
+    company_name: Mrs Irene Voulodimou
+    address_line_1: OTE S.A. The Hellenic Telecommunications Organization Telematics
+      Department
+    address_line_2: Software Division, Room 11C7
+    address_line_3: 99, Kifissias Avenue
+    address_line_4: GR-15181 MAROUSSI, Greece
+- country_or_area:
+    fr: Grèce
+    en: Greece
+    es: Grecia
+  admd_name: FORTHNET
+  country_code: GR
+  mt: FORTHNET ; X400
+  ipm: FORTHNET; MAIL
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: Mr. Manolis Stratakis
+    address_line_1: Hellenic Telecommuncations & Telematics Application Company
+    address_line_2: FORTHnet S.A. STEP-C
+    address_line_3: Vassilika Vouton, PO Box 2219
+    address_line_4: GR-71003 HERAKLIO CRETE, Greece
+- country_or_area:
+    fr: Grèce
+    en: Greece
+    es: Grecia
+  admd_name: NOTICE
+  country_code: GR
+  mt: NOTICE
+  ipm: NOTICE 400
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Mrs M. Kanavou
+    address_line_1: OTE S.A. Telematics Department
+    address_line_2: Commercial Division, 99, Avenue Kifissias
+    address_line_3: GR-15124 MAROUSSI, Greece
+    x400: 'X.400: S=ote; O=infonet; P=notice; A=infonet; C=us'
+- country_or_area:
+    fr: Hongkong, Chine
+    en: Hongkong, China
+    es: Hongkong, China
+  admd_name: CETS
+  country_code: HK
+  ipm: ''
+  other: ''
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Tradelink Electronic
+    address_line_1: Document Services Limited
+    address_line_2: 13/F NatWest Tower, Times Square
+    address_line_3: 1 Matheson Street
+    address_line_4: Causeway Bay, Hongkong, China
+- country_or_area:
+    fr: Hongkong, Chine
+    en: Hongkong, China
+    es: Hongkong, China
+  admd_name: HKTMAIL
+  country_code: HK
+  mt: MultiMessage ; Plus
+  ipm: MultiMessage ; Plus
+  other: ''
+  helpdesk:
+    x400: G=support, S=desk, O=hkt-bcs, P=mmshk, A=hktmail, C=hk
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Cable & Wireless HKT CSL LTD.
+    address_line_1: P O Box 9896 GPO
+    address_line_2: Hongkong, China
+    x400: 'X.400: G=support; S=desk; O=hkt-bcs; P=mmshk; A=hktmail; C=hk'
+- country_or_area:
+    fr: Hongrie
+    en: Hungary
+    es: Hungría
+  admd_name: HTC400
+  country_code: HU
+  mt: MATAV400
+  helpdesk:
+    x400: S=helpdesk, A=htc400, C=hu
+  autoanswer:
+    x400: S=autoanswer, A=htc400, C=hu
+  contact_address:
+    company_name: Ms. Zsuzsa Molnár
+    address_line_1: MATÁV,  Hungarian  Telecom Co. Ltd.
+    address_line_2: Partner Providers Business Unit
+    address_line_3: International Partner Providers Department
+    address_line_4: H - 1550 BUDAPEST, P.O. Bpx 110, Hungary
+    x400: 'X.400: G=zsuzsa; S=molnar; O=matav; A=htc400; C=hu, G=edit; S=simon; O=matav;
+      A=htc400; C=hu'
+- country_or_area:
+    fr: Islande
+    en: Iceland
+    es: Islandia
+  admd_name: ISHOLF
+  country_code: IS
+  mt: GAGNAHOLF
+  ipm: GAGNAHOLF
+  helpdesk:
+    x400: S=helpdesk, A=isholf, C=is
+  autoanswer:
+    x400: S=autoanswer, A=isholf, C=is
+  contact_address:
+    company_name: Mrs. Sigridur Jonsdottir
+    address_line_1: Iceland Telecom Ltd.
+    address_line_2: IS - 150 REYKJAVIK, Iceland
+    x400: 'X.400: G=sigridur; S=jonsdottir; P=ps;, A=isholf; C=is'
+- country_or_area:
+    fr: Inde
+    en: India
+    es: India
+  admd_name: VSNB
+  country_code: IN
+  mt: GATEWAY; ELECTRONIC MAIL SERVICE
+  ipm: GEMS 400
+  other: ''
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: Videsh Sanchar Nigam Limited
+    address_line_1: General Manager R&D
+    address_line_2: M.C. Road Fort
+    address_line_3: MUMBAI – 400001, India
+    x400: 'X.400: G=amitabh; S=kumar; A=vsnb; C=in'
+- country_or_area:
+    fr: Iran (République islamique d')
+    en: Iran (Islamic Republic of))
+    es: Irán (República Islámica del)
+  admd_name: IRAN400
+  country_code: IR
+  mt: ''
+  ipm: ''
+  other: ''
+  contact_address:
+    company_name: 665 Shahed
+    address_line_1: Building - Shiraz Ave.
+    address_line_2: Mollasadra St.
+    address_line_3: ZIP Code:14358
+    address_line_4: TEHRAN, Iran (Islamic Rep. of)
+- country_or_area:
+    fr: Irlande
+    en: Ireland
+    es: Irlanda
+  admd_name: CCS400
+  country_code: IE
+  mt: EDITS
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Jill Pitcher
+    address_line_1: Cargo Community Systems Limited
+    address_line_2: 2, St. John’s Court, Santry
+    address_line_3: DUBLIN 9. Ireland
+    x400: 'X.400: G=jill; S=pitcher;, A=ccs400; C=ie'
+- country_or_area:
+    fr: Irlande
+    en: Ireland
+    es: Irlanda
+  admd_name: IBMX400
+  country_code: IE
+  mt: IBM Mail Exchange
+  ipm: IBM Mail Exchange
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: IBM Ireland Limited
+    address_line_1: 2 Burlington Road
+    address_line_2: DUBLIN 4, Ireland
+    x400: 'X.400: G= ryan j; S=ryan;, O=ibm; A=ibm mail exchange; C=ie'
+- country_or_area:
+    fr: Italie
+    en: Italy
+    es: Italia
+  admd_name: IBMX400
+  country_code: IT
+  ipm: IBM Mail Exchange
+  helpdesk:
+    x400: G=3bnssl, S=helpdesk, P=ibmmail, A=ibmx400, C=gb
+  autoanswer:
+    x400: G=inform, S=inform, P=ibmmail, A=ibmx400, C=gb
+  contact_address:
+    company_name: Mr. Bazzani Claudio
+    address_line_1: INTESA
+    address_line_2: Via Servais, 125
+    address_line_3: I-10146 TORINO, Italy
+- country_or_area:
+    fr: Italie
+    en: Italy
+    es: Italia
+  admd_name: MASTER400
+  country_code: IT
+  mt: MASTER400
+  ipm: MASTERMAIL ; (P7)
+  helpdesk:
+    x400: G=helpdesk, A=master400, C=it
+  autoanswer:
+    x400: S=autoanswer, A=master400, C=it
+  contact_address:
+    company_name: Madia Saponaro - SARITEL
+    address_line_1: SARITEL S.p.A.
+    address_line_2: S.S. 148 Pontina Km. 29,100
+    address_line_3: 00040 POMEZIA (ROMA), Italy
+    x400: 'X.400: G=madia; S=saponaro; O=saritel;, A=master400; C=it'
+    email: 'E-mail: saponaro@saritel.it'
+- country_or_area:
+    fr: Italie
+    en: Italy
+    es: Italia
+  admd_name: OMEGA400
+  country_code: IT
+  mt: OMEGA400
+  ipm: OMEGA400
+  helpdesk:
+    x400: S=omegahelp, A=omega400, C=it
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Italcable
+    address_line_1: v. Campo Boario 56/D
+    address_line_2: I-00157 ROMA, Italy
+    x400: 'X.400: S=mugnaini; A=omega400; C=it'
+- country_or_area:
+    fr: Italie
+    en: Italy
+    es: Italia
+  admd_name: PTPOSTEL
+  country_code: IT
+  mt: Pt Postel
+  ipm: Pt Postel
+  other: ''
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: Ministero P. T. - DCSP
+    address_line_1: Viale Europa 175
+    address_line_2: I-00100 ROMA Italy
+    x400: 'X.400: S=reina; A=ptpostel; C=it'
+- country_or_area:
+    fr: Japon
+    en: Japan
+    es: Japón
+  admd_name: ACE400
+  country_code: JP
+  mt: Ace Telemail; Domestic Mail Exchange
+  ipm: ''
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    address_line_1: Shuwa Kanda Sarugaku-cho Bldg. 2-6-10
+    address_line_2: Sarugaku-cho, Chiyoda-ku,
+    address_line_3: TOKYO 101, Japan
+    x400: 'X.400: G=mitsuru; S=nishihori; O=aceti;, A=ace400; C=jp'
+- country_or_area:
+    fr: Japon
+    en: Japan
+    es: Japón
+  admd_name: ATI
+  country_code: JP
+  mt: Ace Telemail
+  ipm: Ace Telemail
+  helpdesk:
+    x400: S=helpdesk, A=ati, C=jp
+  autoanswer:
+    x400: S=autoanswer, A=ati, C=jp
+  contact_address:
+    address_line_1: Shuwa Kanda Sarugaku-cho Bldg. 2-6-10
+    address_line_2: Sarugaku-cho, Chiyoda-ku,
+    address_line_3: TOKYO 101,Japan
+    x400: 'X.400: G=mitsuru; S=nishihori;, O=aceti; A=ati; C=jp'
+- country_or_area:
+    fr: Japon
+    en: Japan
+    es: Japón
+  admd_name: ATI400
+  country_code: JP
+  mt: Ace Telemail; International Mail Exchange
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    address_line_1: Shuwa Kanda Sarugaku-cho Bldg. 2-6-10
+    address_line_2: Sarugaku-cho, Chiyoda-ku,
+    address_line_3: TOKYO 101, Japan
+    x400: 'X.400: G=mitsuru; S=nishihori; O=aceti;, A=ati400; C=jp'
+- country_or_area:
+    fr: Japon
+    en: Japan
+    es: Japón
+  admd_name: ATTMAIL
+  country_code: JP
+  mt: AT&T Gateway400 Service
+  ipm: AT&T Mail Service
+  other: AT&T EDI Service
+  helpdesk:
+    x400: G=attmail, S=jensx400, O=at&t, A=attmail, C=jp
+  autoanswer:
+    x400: G=attmail, S=jpautoanswer, O=at&t, A=attmail, C=jp
+  contact_address:
+    company_name: AT&T, Jens Corporation
+    address_line_1: Communications H.Q.
+    address_line_2: Technology Development Dept.
+    address_line_3: No. 25 Mori Building, 1-4-30, Roppongi, Minato-ku
+    address_line_4: TOKYO, 106, Japan
+    x400: 'X.400: G=kohei; S=shinomoto;, DD.ID=kshinomoto; A=attmail; C=us'
+- country_or_area:
+    fr: Japon
+    en: Japan
+    es: Japón
+  admd_name: BROOT
+  country_code: JP
+  mt: b-root
+  ipm: b-root
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: NTT Communication Ware Corp
+    address_line_1: SHINAGAWA INTERCITY A-27F
+    address_line_2: 2-15-1 Kounan Minato-ku
+    address_line_3: TOKYO 108-6025, Japan
+- country_or_area:
+    fr: Japon
+    en: Japan
+    es: Japón
+  admd_name: CANDCVAN
+  country_code: JP
+  mt: ALADDIN Internet Mail; NEC Internet Mail
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: NEC Corporation
+    address_line_1: Information Service Engineering Division
+    address_line_2: Manager Noboru Shimizu
+    address_line_3: 5-7-1 Shiba Minatoku
+    address_line_4: TOKYO, Japan
+- country_or_area:
+    fr: Japon
+    en: Japan
+    es: Japón
+  admd_name: FDS
+  country_code: JP
+  mt: FDS NET
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: TECHNO-WAVE BLDG.
+    address_line_1: 1-1-25 Shin Urashima-cho,
+    address_line_2: Kanagawa-ku
+    address_line_3: Yokohama-shi
+    address_line_4: KANAGAWA 221, Japan
+    x400: 'X.400: S=fdsnet; O=intec; A=ati; C=jp'
+- country_or_area:
+    fr: Japon
+    en: Japan
+    es: Japón
+  admd_name: FENICS
+  country_code: JP
+  mt: FENICS
+  ipm: FENICS400
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    address_line_1: 17-25 Shinkamata
+    address_line_2: 1-chome, Ota-ku
+    address_line_3: TOKYO 144, Japan
+    x400: 'X.400: S=sys.ark000; P=fenics400;, A=fenics; C=jp'
+- country_or_area:
+    fr: Japon
+    en: Japan
+    es: Japón
+  admd_name: IBMX400
+  country_code: JP
+  mt: IBM Mail Exchange
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: IBM Japan Ltd.
+    address_line_1: 1-6-3, Ohsaki, Shinagawa-ku
+    address_line_2: TOKYO 141, Japan
+    x400: 'X.400: G=nishi; S=nishimata; P=ibmmail;, A=ibmx400; C=JP'
+- country_or_area:
+    fr: Japon
+    en: Japan
+    es: Japón
+  admd_name: INTEC
+  country_code: JP
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: INTEC INC.
+    address_line_1: Telecommunication Division
+    address_line_2: Administration Dept.
+    address_line_3: Shuwa Sarugaku-cho
+    address_line_4: Bldg. 2-6-10, Sarugaku-cho, Chiyoda-ku, TOKYO, Japan
+- country_or_area:
+    fr: Japon
+    en: Japan
+    es: Japón
+  admd_name: KDDFAX
+  country_code: JP
+  other: "(Fax-SFU) F-port"
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: KDDI Corporation
+    address_line_1: 2-3-2 Nishi-Shinjuku
+    address_line_2: Shinjuku-ku
+    address_line_3: TOKYO 163-8003, Japan
+- country_or_area:
+    fr: Japon
+    en: Japan
+    es: Japón
+  admd_name: NIFTY
+  country_code: JP
+  mt: NIFTY–Serve
+  ipm: ''
+  other: ''
+  contact_address:
+    company_name: OMORI BELLPORT A
+    address_line_1: 26–1, Minami–Oi 6–Chome
+    address_line_2: Shinagawa–ku
+    address_line_3: TOKYO 104, Japan
+- country_or_area:
+    fr: Japon
+    en: Japan
+    es: Japón
+  admd_name: NTT
+  country_code: JP
+  mt: NTT Mail
+  ipm: NTT Mail
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    address_line_1: Shuwa Onarimon Bldg.
+    address_line_2: 6-1-11 Shinbashi
+    address_line_3: Minato-ku, TOKYO 105, Japan
+    x400: 'X.400: G=kazuo; S=kurokawa;, O=ntt pc communicaions inc.;, A=ntt pc C=jp;'
+- country_or_area:
+    fr: Japon
+    en: Japan
+    es: Japón
+  admd_name: NTTPC
+  country_code: JP
+  mt: NTT PC; Network Services
+  ipm: NTT PC; Network Services
+  helpdesk:
+    x400: S=00200300, A=nttpc, C=jp
+  autoanswer:
+    x400: S=autoanswer, O=int, A=nttpc, C=jp
+  contact_address:
+    address_line_1: Norudo Bldg. 2nd
+    address_line_2: 1-6-11 Kita-Ueno Taitou-ku
+    address_line_3: TOKYO 110, Japan
+    x400: 'X.400: S=00200169; A=nttpc; C=jp'
+- country_or_area:
+    fr: Japon
+    en: Japan
+    es: Japón
+  admd_name: PCVAN
+  country_code: JP
+  mt: PC-VAN; MHS Service
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: NEC Corporation
+    address_line_1: Information Service Engineering Division
+    address_line_2: Manager Noboru Shimizu
+    address_line_3: 5-7-1 Shiba Minatoku, TOKYO, Japan
+- country_or_area:
+    fr: Japon
+    en: Japan
+    es: Japón
+  admd_name: SITA
+  country_code: JP
+  mt: SITAMAIL
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    address_line_1: KDD Bldg. 30fl, 2-3-2
+    address_line_2: Nishi-Shinjuku Shinjuku-ku
+    address_line_3: TOKYO 163-03, Japan
+- country_or_area:
+    fr: Corée (Rép. de)
+    en: Korea (Rep. of)
+    es: Corea (Rep. de)
+  admd_name: DACOMMHS
+  country_code: KR
+  mt: MagicLink X.411 (1988); Boxing; Routing
+  ipm: Mail (X.420); Fax, Telex; EDI (X.435)
+  other: CC-Mail; MS-Mail Internet-Mail (SMTP)
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: Business Administration Team
+    address_line_1: Electronic Commerce Business Division
+    address_line_2: DACOM CORPORATION
+    address_line_3: 65-228 3-Ga, Hangang-Ro, Yongsan-Gu
+    address_line_4: SEOUL, Korea (Rep. of)
+    x400: 'X.400: S=helpdesk; A=dacommhs; C=kr'
+- country_or_area:
+    fr: Corée (Rép. de)
+    en: Korea (Rep. of)
+    es: Corea (Rep. de)
+  admd_name: KLNET 400
+  country_code: KR
+  mt: Logistics EDI; Services; X.411 (1988) - Messaging; - Routing
+  ipm: EDI; X.420; X.435
+  other: Internet-Mail; Internet-Fax
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    x400: S=autoreply, O=kln edi, P=klnet edi, A=klnet 400, C=kr
+  contact_address:
+    company_name: Korea Logistics Network Corp.
+    address_line_1: 8F Kunwoo B/D 680-1
+    address_line_2: Yeoksam-Dong Kangnam-Gu
+    address_line_3: SEOUL, Korea (Rep. of)
+    x400: 'X.400: S=helpdesk; O=kln edi; P=klnet edi;, A=klnet 400; C=kr'
+- country_or_area:
+    fr: Corée (Rép. de)
+    en: Korea (Rep. of)
+    es: Corea (Rep. de)
+  admd_name: KT
+  country_code: KR
+  mt: KT-Mail
+  ipm: KT-Mail
+  helpdesk:
+    x400: S=helpdesk, O=ktmhs, A=kt, C=kr
+  autoanswer:
+    x400: S=autoanswer, O=ktmhs, A=kt, C=kr
+  contact_address:
+    company_name: Korea Telecom
+    address_line_1: International Telecommunications
+    address_line_2: Business Group,
+    address_line_3: 100 Sejongno, Chongno-Gu
+    address_line_4: SEOUL 110-777, Korea (Rep. of)
+    x400: 'X400: S=ksfa000; A=kt; C=kr'
+- country_or_area:
+    fr: Corée (Rép. de)
+    en: Korea (Rep. of)
+    es: Corea (Rep. de)
+  admd_name: KTNET
+  country_code: KR
+  mt: Korea Trade Network Service
+  ipm: KTNET EDI Service
+  other: MAIL/FAX Service; X.400 Gateway Service
+  helpdesk:
+    x400: S=helpdesk, A=ktnet, C=kr
+  autoanswer:
+    x400: S=autoanswer, A=ktnet, C=kr
+  contact_address:
+    company_name: Mr. Ahn Sei-Ki
+    address_line_1: Korea Trade Network
+    address_line_2: Rm. 408, Korea World Trade Center, 159-1, Samsung-dong, Kangnam-ku
+    address_line_3: 135-651, Trade Center, P.O. Box 177
+    address_line_4: SEOUL, Korea (Rep. of)
+    x400: 'X.400: G=seiki; S=ahn; A=ktnet; C=kr'
+    email: 'E-mail: skahn@ktnet.co.kr'
+- country_or_area:
+    fr: Koweït
+    en: Kuwait
+    es: Kuwait
+  admd_name: MOC
+  country_code: KW
+  mt: K MAIL
+  helpdesk:
+    others: MOC 496 50000
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: International Network Department
+    address_line_1: Ministry of Communications
+    address_line_2: P.O. Box 318
+    address_line_3: 11111 SAFAT - KUWAIT
+    address_line_4: State of Kuwait
+    x400: 'X.400: O=moc; A=moc; C=kw;'
+- country_or_area:
+    fr: Lettonie
+    en: Latvia
+    es: Letonia
+  admd_name: MULTINET
+  country_code: LV
+  mt: MULTINET X.400
+  helpdesk:
+    x400: S=helpdesk, A=multinet, C=lv
+  autoanswer:
+    x400: S=autoanswer, A=multinet, C=lv
+  contact_address:
+    company_name: Mr. Harry Konstantine
+    address_line_1: Komservis Ltd.
+    address_line_2: Lachplesha Street 7-1
+    address_line_3: LV-1010 RIGA, Latvia
+    x400: 'X.400: S=administrator; A=multinet; C=lv'
+    email: 'E -mail: hk@multinet.rbis.lv'
+- country_or_area:
+    fr: Liechtenstein
+    en: Liechtenstein
+    es: Liechtenstein
+  admd_name: IBMX400
+  country_code: LI
+  ipm: IBM Mail Exchange
+  helpdesk:
+    x400: G=helpdhd, S=helpdesk, P=ibmmail, A=ibmx400, C=ch
+  autoanswer:
+    x400: G=inform, S=inform, P=ibmmail, A=ibmx400, C=gb
+  contact_address:
+    company_name: Mr. Beat Moser
+    address_line_1: IBM Switzerland
+    address_line_2: Hohlstrasse 550
+    address_line_3: N8048 ZURICH, Switzerland
+    x400: 'X.400: G=beat; S=moser; P=ibmmail;, A=ibmx400; C=ch'
+- country_or_area:
+    fr: Lituanie
+    en: Lithuania
+    es: Lituania
+  admd_name: Epas400
+  country_code: LT
+  mt: Epas 400
+  ipm: Epas 400
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: 'ATTN: Mr. Vilius Ramoskis'
+    address_line_1: SE LITHUANIAN TELECOM
+    address_line_2: Savanoriu 28
+    address_line_3: LT-2727 VILNIUS, Lithuania
+    x400: 'X.400: S=epas400; O=telekomas;, P=telekomas; A=epas400; C=lt'
+- country_or_area:
+    fr: Luxembourg
+    en: Luxembourg
+    es: Luxemburgo
+  admd_name: PT
+  not_operational_yet: 'TRUE'
+  country_code: LU
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Entreprise des Postes et
+    address_line_1: Télécommunications
+    address_line_2: L-2999 LUXEMBOURG, Luxembourg
+- country_or_area:
+    fr: Luxembourg
+    en: Luxembourg
+    es: Luxemburgo
+  admd_name: UMI-LU
+  country_code: LU
+  mt: UMI400
+  ipm: UMI400
+  other: ''
+  helpdesk:
+    x400: S=helpdesk, A=umi-lu, C=lu
+  autoanswer:
+    x400: S=autoanswer, A=umi-lu, C=lu
+  contact_address:
+    company_name: TransArdenna S.A.
+    address_line_1: 16, rue d'Epernay
+    address_line_2: L-1490 LUXEMBOURG, Luxembourg
+    x400: 'X.400: S=helpdesk; A=umi-lu; C=lu'
+- country_or_area:
+    fr: Mexique
+    en: Mexico
+    es: México
+  admd_name: TELECOMM
+  country_code: MX
+  mt: NOTICE 400
+  ipm: NOTICE; TELEMENSAJE
+  helpdesk:
+    x400: S=soporte, O=sis-not, P=notice, A=telecomm, C=mx
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Telecomunicaciones de México
+    address_line_1: EIE Central Lázaro Cardenas N° 567
+    address_line_2: Col Narvarte C.P. 03020
+    address_line_3: MEXICO D.F., México
+    x400: 'X.400: S=marquez j; O=sis-not; P=notice;, A=telecomm; C=mx'
+- country_or_area:
+    fr: Myanmar
+    en: Myanmar
+    es: Myanmar
+  admd_name: MCPT400
+  country_code: MM
+  helpdesk:
+    x400: S=helpdesk, A=mcpt400, C=mm
+  autoanswer:
+    x400: S=autoanswer, A=mcpt400, C=mm
+  contact_address:
+    company_name: U ZAW TINT, Assistant General Manager
+    address_line_1: Myanma Posts and Telecommunications (MPT)
+    address_line_2: Ministry of Communications, Posts and Telegraphs
+    address_line_3: Overseas Communication Building, 1st Floor
+    address_line_4: Kaba Aye Pagoda Road, 8 Mile, Mayangone, YANGON, Myanmar
+    x400: 'X.400: S=zaw tint; O=mpt A=mcpt400; C=mm'
+- country_or_area:
+    fr: Pays-Bas
+    en: Netherlands
+    es: Países Bajos
+  admd_name: 400NET
+  country_code: NL
+  mt: 400NET
+  ipm: MEMOCOM400
+  other: Tradeserver
+  helpdesk:
+    x400: S=helpdesk, O=unisource, A=400net, C=nl
+  autoanswer:
+    x400: S=autoanswer, O=unisource, A=400net, C=nl
+  contact_address:
+    company_name: Unisource Business Networks Nederland bv
+    address_line_1: Paul Lohman
+    address_line_2: Product manager E-mail
+    address_line_3: PO Box 90934
+    address_line_4: 2509 LX Den Haag, Netherlands
+    x400: 'X.400: G=paul; S=lohman; O=unisource;, A=400net; C=nl'
+- country_or_area:
+    fr: Pays-Bas
+    en: Netherlands
+    es: Países Bajos
+  admd_name: IBMX400
+  country_code: NL
+  ipm: IBM Mail Exchange
+  helpdesk:
+    x400: G=helpdesk, S=helpdesk, P=ibmmail, A=ibmx400, C=nl
+  autoanswer:
+    x400: G=inform, S=inform, P=ibmmail, A=ibmx400, C=gb
+  contact_address:
+    company_name: Mr. A. van Vliet
+    address_line_1: IBM
+    address_line_2: Postbus 60
+    address_line_3: 2700 AB ZOETERMEER, Netherlands
+    x400: 'X.400: G=vliet; S=vliet; P=ibmmail;, A=ibmx400; C=nl'
+- country_or_area:
+    fr: Nouvelle-Zélande
+    en: New Zealand
+    es: Nueva Zelandia
+  admd_name: SECURENET
+  country_code: NZ
+  mt: SECURENET 400
+  ipm: SECURENET-FAX; SECURENET-EDI
+  helpdesk:
+    x400: S=helpdesk, A=securenet, C=nz
+  autoanswer:
+    x400: S=autoanswer, A=securenet, C=nz
+  contact_address:
+    company_name: David Gibson
+    address_line_1: Deloitte and Touche Consulting Group
+    address_line_2: P O Box 33
+    address_line_3: AUCKLAND, New Zealand
+    x400: 'X.400: G=david; S=gibson; A=securenet; C=nz'
+- country_or_area:
+    fr: Nigéria
+    en: Nigeria
+    es: Nigeria
+  admd_name: NITEL
+  not_operational_yet: 'TRUE'
+  country_code: NG
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Nigerian Telecommunications Plc (NITEL)
+    address_line_1: 3/5 Tafawa Balewa Square
+    address_line_2: P.M.B. 12550
+    address_line_3: LAGOS, Nigeria
+- country_or_area:
+    fr: Norvège
+    en: Norway
+    es: Noruega
+  admd_name: IBMX400
+  country_code: 'NO'
+  ipm: IBM Mail Exchange
+  helpdesk:
+    x400: G=inshelp, S=inshelp, P=ibmmail, A=ibmx400, C=no
+  autoanswer:
+    x400: G=inform, S=inform, P=ibmmail, A=ibmx400, C=gb
+  contact_address:
+    company_name: Knut Egeberg
+    address_line_1: IBM Global Services, IBM
+    address_line_2: Lovstadvegen 7
+    address_line_3: Postboks 4310
+    address_line_4: N-2301 HAMAR, Norway
+    email: 'E-mail: knut.egeberg@no.ibm.com'
+- country_or_area:
+    fr: Norvège
+    en: Norway
+    es: Noruega
+  admd_name: TELEMAX
+  country_code: 'NO'
+  mt: TELEMAX.400
+  ipm: TELEMAX.400
+  helpdesk:
+    x400: 'YES'
+    available: 'TRUE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: TELEPOST COMMUNICATION AS
+    address_line_1: Postboks 108, Sentrum
+    address_line_2: n-0102 oslo, Norway
+    x400: 'X.400: S=sysop; O=televerket;, A=telemax; C=no'
+- country_or_area:
+    fr: Norvège
+    en: Norway
+    es: Noruega
+  admd_name: TELEMAX
+  country_code: 'NO'
+  mt: TelePost
+  ipm: TelePost
+  other: TelePost
+  helpdesk:
+    x400: S=helpdesk, A=telemax, C=no
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: 'Attn: Solvi Andersen Kirhemo'
+    address_line_1: TelePost Communication AS
+    address_line_2: Drammensveien 177
+    address_line_3: P.O. Box 335, Skoyen
+    address_line_4: N-0212 OSLO, Norway
+    x400: 'X.400: G=solvi; S=kirkemo; P=telepost;, A=telemax; C=no'
+- country_or_area:
+    fr: Norvège
+    en: Norway
+    es: Noruega
+  admd_name: UNINETT
+  country_code: 'NO'
+  mt: UNINETT X.400
+  ipm: UNINETT X.400
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: Harald Tveit Alvestrand
+    address_line_1: UNINETT
+    address_line_2: P.O. Box 6883 Elgeseter
+    address_line_3: N-7002 TRONDHEIM, Norway
+    x400: 'X.400: S=postmaster; A=uninett; C=no'
+    email: 'E-mail: postmaster@uninett.no'
+- country_or_area:
+    fr: Organisation de l’aviation civile internationale (OACI)
+    en: Organización de Aviación Civil Internacional (OACI)
+    es: Organización de Aviación Civil Internacional (OACI)
+  admd_name: ICAO
+  country_code: XX
+  other: Aeronautical Message Handling Services (AMHS)
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: M. Paydar
+    address_line_1: CNS Section, Air Navigation Bureau
+    address_line_2: International Civil Aviation Organization (ICAO)
+    address_line_3: 999 University Street
+    address_line_4: Montreal, Quebec H3C 5H7, Canada
+- country_or_area:
+    fr: Pologne
+    en: Poland
+    es: Polonia
+  admd_name: POLKOM400
+  country_code: PL
+  helpdesk:
+    x400: S=helpdesk, OU=cst, O=tpsa, A=polkom400, C=pl
+    others: 'E-mail: helpdesk@polkom.tpnet.pl'
+  autoanswer:
+    x400: S=helpdesk, OU=cst, O=tpsa, A=polkom400, C=pl
+  contact_address:
+    company_name: 'Attn: Mr. Piotr Sek, Head of Section or Mr. Bozena Eljasinska,
+      Instructor'
+    address_line_1: Telekomunikacja Polska S.A.
+    address_line_2: Centrum Systemow Informatycznych
+    address_line_3: ul. Nowogrodzka 47a
+    address_line_4: PL-00695 WARSZAWA, Poland
+    x400: 'X.400: G=piotr; S=sek; OU=cst;, O=tpsa; A=polkom400; C=pl or or G=bozena;
+      S=eljasinska; OU=cst;, O=tpsa; A=polkom400; C=pl'
+    email: 'E-mail: helpdesk@polkom.tpnet.pl, psek@cst.tpnet.pl, belja@cst.tpnet.pl'
+- country_or_area:
+    fr: Portugal
+    en: Portugal
+    es: Portugal
+  admd_name: ATLAS
+  country_code: PT
+  mt: MT
+  ipm: IPM
+  other: Fax Delivery; Internet Gateway; Closed Messaging Groups
+  helpdesk:
+    x400: S=helpdesk, A=atlas, C=pt
+  autoanswer:
+    x400: S=autoanswer, A=atlas, C=pt
+  contact_address:
+    company_name: António Feijão
+    address_line_1: France Telecom Redes e Serviços
+    address_line_2: de Portugal, SA
+    address_line_3: Av. da Liberdade, 245, 8°, F
+    address_line_4: 1250 LISBOA, Portugal
+    x400: 'X.400: S=feijão; O=global-one; A=atlas; C=pt'
+- country_or_area:
+    fr: Portugal
+    en: Portugal
+    es: Portugal
+  admd_name: GOLDMAIL
+  country_code: PT
+  mt: GOLDMAIL400
+  ipm: GOLDMAIL400
+  helpdesk:
+    x400: S=helpdesk, A=goldmail, C=pt
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: SEVATEL
+    address_line_1: Av. 5 de Outubro, 146 8°
+    address_line_2: 1000 LISBOA, portugal
+    x400: 'X.400: G=nuno; S=gouveia; O=sevatel;, A=goldmail; C=pt'
+- country_or_area:
+    fr: Portugal
+    en: Portugal
+    es: Portugal
+  admd_name: MAILCOM
+  country_code: PT
+  mt: MAILCOM
+  helpdesk:
+    x400: S=helpdesk, O=sibsnet, A=mailcom, C=pt
+  autoanswer:
+    x400: S=autoanswer, O=sibsnet, A=mailcom, C=pt
+  contact_address:
+    company_name: Paulo Falcão
+    address_line_1: SIBS, Sociedade Interbancária de
+    address_line_2: Serviços SA
+    address_line_3: R. Centro Cultural, 2
+    address_line_4: 1700 LISBOA, Portugal
+- country_or_area:
+    fr: Portugal
+    en: Portugal
+    es: Portugal
+  admd_name: MARCONI-SVA
+  country_code: PT
+  mt: EMAIL 400
+  ipm: EMAIL 400
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: SVA Marconi
+    address_line_1: Rua do Commercio, 8-5°
+    address_line_2: 1100 LISBOA, Portugal
+- country_or_area:
+    fr: Portugal
+    en: Portugal
+    es: Portugal
+  admd_name: NEX400
+  country_code: PT
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: COMNEXO, Redes de Comunicações, SA
+    address_line_1: Av. Fontes Pereira de Melo, 3 10°
+    address_line_2: 1000 LISBOA, Portugal
+- country_or_area:
+    fr: Qatar
+    en: Qatar
+    es: Qatar
+  admd_name: QMAIL
+  country_code: QA
+  mt: QMAIL
+  ipm: QMAIL
+  helpdesk:
+    x400: S=helpdesk, O=qtel, OU1=ml, A=qmail, C=qa
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Qatar Telecom Q.S.C. (Q-TEL)
+    address_line_1: New Tower Headquarters
+    address_line_2: West Way
+    address_line_3: P. O. Box 217
+    address_line_4: DOHA, Qatar
+    x400: 'X.400: S=ahmed; O=qtel; OU1=agml;, A=qmail; C=qa'
+    email: 'E-mail: derbesti@qtel.com.qa'
+- country_or_area:
+    fr: Fédération de Russie
+    en: Russia Federation
+    es: Federación de Rusia
+  admd_name: INFOMAIL
+  country_code: RU
+  mt: INFOMAIL
+  ipm: INFOMAIL
+  other: Fax gateway; Telex gateway
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    address_line_1: 19, Presnenski Val
+    address_line_2: 123557 MOSCOW, Russia Federation
+    x400: 'X.400: S=admin; O=infotel; P=moscow;, A=infomail; C=ru'
+- country_or_area:
+    fr: Fédération de Russie
+    en: Russia Federation
+    es: Federación de Rusia
+  admd_name: PEPI400
+  country_code: RU
+  mt: TRANSMAIL
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: Centre of EDI/EDIFACT PEPI Association
+    address_line_1: Leningradskoe shosse, 53a,
+    address_line_2: 125195 MOSCOW, Russia Federation
+    x400: 'X.400: S=root; O=pepi; P=pepi;, A=pepi400; C=ru'
+- country_or_area:
+    fr: Fédération de Russie
+    en: Russia Federation
+    es: Federación de Rusia
+  admd_name: PTTNET
+  country_code: RU
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    address_line_1: 33 B, Narodnogo
+    address_line_2: Opolchenlya Str.
+    address_line_3: 123585 MOSCOW, Russia Federation
+    x400: 'X.400: S=netmst; O=teleport; OU=sysadm;, A=pttnet, C=ru'
+- country_or_area:
+    fr: Fédération de Russie
+    en: Russia Federation
+    es: Federación de Rusia
+  admd_name: REX400
+  country_code: RU
+  mt: Rex-mail
+  helpdesk:
+    x400: S=helpdesk, P=ncade, A=rex400, C=ru
+  autoanswer:
+    x400: S=autoanswer, P=ncade, A=rex400, C=ru
+  contact_address:
+    company_name: Sergey Marchenko
+    address_line_1: Institute for Automated Systems
+    address_line_2: 7a, Dm.Ulianova Street
+    address_line_3: 117036 MOSCOW, Russia Federation
+    x400: 'X.400: S=marchenko; P=ncade;, A=rex400; C=ru'
+- country_or_area:
+    fr: Fédération de Russie
+    en: Russia Federation
+    es: Federación de Rusia
+  admd_name: REXMAIL
+  country_code: RU
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: Closed joint stock company firm «CLUB-400»
+    address_line_1: 2a, Brusov per
+    address_line_2: 103009 MOSCOW, Russia Federation
+    x400: 'X.400: S=administrator; A=rexmail; C=ru'
+- country_or_area:
+    fr: Fédération de Russie
+    en: Russia Federation
+    es: Federación de Rusia
+  admd_name: ROSMAIL
+  country_code: RU
+  mt: ROSNET X.400
+  helpdesk:
+    x400: S=helpdesk, A=rosmail, C=ru
+  autoanswer:
+    x400: S=autoanswer, A=rosmail, C=ru
+  contact_address:
+    company_name: Alexander Lukianchikov
+    address_line_1: Russian Networks Data Communication Company
+    address_line_2: 2/15, Maroseika Street
+    address_line_3: 101000 MOSCOW, Russia Federation
+    x400: 'X.400: G=alexander; S=lukianchikov; P=rts;, A=rosmail; C=ru'
+- country_or_area:
+    fr: Fédération de Russie
+    en: Russia Federation
+    es: Federación de Rusia
+  admd_name: ROSPAC
+  country_code: RU
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    address_line_1: 2A, Brjusov pereulok
+    address_line_2: 103009 MOSCOW, Russia Federation
+    x400: 'X.400: S=administrator; O=rospac;, P=msk; A=rospac; C=ru'
+- country_or_area:
+    fr: Fédération de Russie
+    en: Russia Federation
+    es: Federación de Rusia
+  admd_name: ROSTELEMAIL
+  country_code: RU
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: Closed end joint-stock company “Rostelegraph”
+    address_line_1: 7, Tverskaya str.,
+    address_line_2: 103375 MOSCOW, Russia Federation
+    x400: 'X.400: G=admin; A=rostelemail; C=ru'
+- country_or_area:
+    fr: Fédération de Russie
+    en: Russia Federation
+    es: Federación de Rusia
+  admd_name: SOVMAIL
+  country_code: RU
+  mt: SOVMAIL
+  other: FAX; TELEX; INTERNET
+  helpdesk:
+    x400: S=helpdesk, O=snussr, A=sovmail, C=ru
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: ROSPRINT
+    address_line_1: Mr. Victor Ratnikov
+    address_line_2: 'Tverskaya Ulitsa #7'
+    address_line_3: 103375 MOSCOW, Russia Federation
+    x400: 'X.400: G=victor; S=ratnikov; O=snussr;, A=sovmail; C=ru'
+- country_or_area:
+    fr: Fédération de Russie
+    en: Russia Federation
+    es: Federación de Rusia
+  admd_name: TELESERVICE
+  country_code: RU
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: Joint-stock open end “Central Telegraph”
+    address_line_1: 7, Tverskaya str.,
+    address_line_2: 103375 MOSCOW, Russia Federation
+    x400: 'X.400: G=admin; A=teleservice; C=ru'
+- country_or_area:
+    fr: Fédération de Russie
+    en: Russia Federation
+    es: Federación de Rusia
+  admd_name: TRANSINFORM
+  country_code: RU
+  mt: NET400;   Transinform
+  ipm: NET400;   Transinform
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Closed joint stock company with foreign
+    address_line_1: participation “Transinform”
+    address_line_2: 2/1, Kalanchovskaya st.,
+    address_line_3: 107174 MOSCOW, Russia Federation
+    x400: 'X.400: G=alex; S=klochkov; P=node1;, A=transinform; C=ru'
+- country_or_area:
+    fr: Arabie saoudite
+    en: Saudi Arabia
+    es: Arabia Saudita
+  admd_name: SAUDI TELECOM (Saudi Telecom Int'l))
+  country_code: SA
+  mt: ''
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Ministry of Post, Telegraph and Telephone
+    address_line_1: Saudi Telecom Int'l
+    address_line_2: Saudi Telecom
+    address_line_3: P.O. Box 87912
+    address_line_4: RIYADH 115539, Saudi Arabia
+- country_or_area:
+    fr: Serbie
+    en: Serbia
+    es: Serbia
+  admd_name: BEOGRAD400
+  country_code: RS
+  mt: BEOGRAD400
+  ipm: BEOGRAD400
+  helpdesk:
+    x400: S=helpdesk, P=public, A=beograd400, C=rs
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Community of Yugoslav PTT
+    address_line_1: Palmoticeva 2
+    address_line_2: YU-11000 BEOGRAD, Serbia
+    x400: 'X.400: G=petar; S=calic;, O=zjptt; P=public;, A=beograd400; C=rs;'
+- country_or_area:
+    fr: Singapour
+    en: Singapore
+    es: Singapur
+  admd_name: SGMHS
+  country_code: SG
+  mt: GATEWAY 400
+  ipm: TELEBOX
+  other: ''
+  helpdesk:
+    x400: G=helpdesk, S=helpdesk, O=svc, A=sgmhs, C=sg
+  autoanswer:
+    x400: G=autoanswer, S=autoanswer, O=svc, A=sgmhs, C=sg
+  contact_address:
+    company_name: Singapore Telecommunication Limited
+    address_line_1: Comcentre, 31 Exeter Road
+    address_line_2: SINGAPORE 0923
+    address_line_3: Republic of Singapore
+    x400: 'X.400: G=foong; S=lim; A=sgmhs; C=sg'
+- country_or_area:
+    fr: Singapour
+    en: Singapore
+    es: Singapur
+  admd_name: STEMS
+  country_code: SG
+  helpdesk:
+    x400: S=helpdesk, A=stems, C=sg
+  autoanswer:
+    x400: S=autoanswer, A=stems, C=sg
+  contact_address:
+    company_name: Singapore Telecommunication Limited
+    address_line_1: Comcentre, 31 Exeter Road
+    address_line_2: SINGAPORE 0923
+    address_line_3: Republic of Singapore
+    x400: 'X.400: G=wah lon; S=lee; O=st;, A=stems; C=sg'
+- country_or_area:
+    fr: Slovénie
+    en: Slovenia
+    es: Eslovenia
+  admd_name: IBMX400
+  country_code: SI
+  ipm: IBM Mail Exchange
+  helpdesk:
+    x400: G=3bnssl, S=helpdesk, P=ibmmail, A=ibmx400, C=gb
+  autoanswer:
+    x400: G=inform, S=inform, P=ibmmail, A=ibmx400, C=gb
+  contact_address:
+    company_name: Mr. Damjan Perharic
+    address_line_1: IBM Slovenija
+    address_line_2: Trg Republike 3
+    address_line_3: SI-1000 LJUBLJANA
+    address_line_4: Slovenia
+- country_or_area:
+    fr: Slovénie
+    en: Slovenia
+    es: Eslovenia
+  admd_name: MAIL
+  country_code: SI
+  mt: Smail 400
+  ipm: Smail 400
+  helpdesk:
+    x400: S=helpdesk, A=mail, C=si
+  autoanswer:
+    x400: S=autoanswer, A=mail, C=si
+  contact_address:
+    company_name: Mr. Goran Rakovic
+    address_line_1: Telekom Slovenije p.o.
+    address_line_2: Cigaletova 15
+    address_line_3: SI-1000 LJUBLJANA, Slovenia
+    x400: 'X.400: G=goran;S=rakovic;, O=public 1; A=mail; C=si'
+- country_or_area:
+    fr: Sudafricaine (Rép.)
+    en: South Africa
+    es: Sudafricana (Rep.)
+  admd_name: TELKOM400
+  country_code: ZA
+  mt: TELKOM 400
+  ipm: TELKOM 400
+  other: ''
+  helpdesk:
+    x400: S=helpdesk, A=telkom400, C=za
+  autoanswer:
+    x400: S=autoanswer, A=telkom400, C=za
+  contact_address:
+    company_name: The Managing Executive
+    address_line_1: Telkom SA Ltd.
+    address_line_2: International and Special Market Services
+    address_line_3: Private Bag X942
+    address_line_4: 0001 PRETORIA, South Africa
+    x400: 'X.400: G=anne; S=van coller;, O=telkom; A=telkom400; C=za'
+    email: 'E-mail: vancolleas@telkom.co.za'
+- country_or_area:
+    fr: Espagne
+    en: Spain
+    es: España
+  admd_name: CWMAIL
+  country_code: ES
+  mt: Multimessage
+  ipm: 'Multimessage; -cc: Mail-2-Multimessage'
+  other: |-
+    Servicios Telemáticos; Pasarela cc:Mail
+    Message Store; Pasarela Internet
+  helpdesk:
+    x400: S=administrator, O=tech support, P=mcl mail, A=cwmail, C=gb
+  autoanswer:
+    x400: P=autoreply, A=cwmail, C=gb
+  contact_address:
+    company_name: Cable and Wireless, S.A.
+    address_line_1: Ramirez de Arellano, 29
+    address_line_2: E-28043 MADRID
+    address_line_3: España
+    x400: 'X.400: G=administrator; S=cwspain; P=cw;, A=cwmail; C=es'
+- country_or_area:
+    fr: Espagne
+    en: Spain
+    es: España
+  admd_name: IBMX400
+  country_code: ES
+  mt: IBM Global Network X.400
+  ipm: IBM Mail Exchange
+  helpdesk:
+    x400: G=garciaj, S=garcia, P=ibmmail, A=ibmx400, C=es
+  autoanswer:
+    x400: G=inform, S=inform, P=ibmmail, A=ibmx400, C=gb
+  contact_address:
+    company_name: Juan Reyero Montes
+    address_line_1: IBM Global Network
+    address_line_2: Ctra. Barcelona km. 18,400
+    address_line_3: San Fernando de Henares
+    address_line_4: E-28850 MADRID, España
+    x400: 'X.400: G=reyero; S=reyero; P=ibmmail;, A=ibmx400; C=es'
+- country_or_area:
+    fr: Espagne
+    en: Spain
+    es: España
+  admd_name: MENSATEX
+  country_code: ES
+  mt: MENSATEX.400
+  ipm: MENSATEX.400
+  helpdesk:
+    x400: S=helpdesk, A=mensatex, C=es
+  autoanswer:
+    x400: S=autoanswer, A=mensatex, C=es
+  contact_address:
+    company_name: TELEFÓNICA SERVICIOS
+    address_line_1: AVANZADOS DE INFORMACIÓN (TSAI)
+    address_line_2: Julián Camarillo, 6
+    address_line_3: E-28037 MADRID, España
+    x400: 'X.400: S=helpdesk; A=mensatex; C=es'
+- country_or_area:
+    fr: Suède
+    en: Sweden
+    es: Suecia
+  admd_name: 400NET
+  country_code: SE
+  mt: UNIPLUS 400NET
+  ipm: UNIPLUS 400NET
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: Anders Delang
+    address_line_1: Telia AB, NUN
+    address_line_2: S-123 86 FARSTA, Sweden
+- country_or_area:
+    fr: Suède
+    en: Sweden
+    es: Suecia
+  admd_name: MASTER400
+  country_code: SE
+  mt: MASTER400
+  ipm: MASTERMAIL (P7)
+  helpdesk:
+    x400: S=helpdesk, A=master400, C=it
+  autoanswer:
+    x400: S=autoanswer, A=master400, C=it
+  contact_address:
+    company_name: Madia Saponaro
+    address_line_1: SARITEL S.p.A.
+    address_line_2: S.S. 148 Pontina Km. 29,100
+    address_line_3: 00040 POMEZIA (ROMA), Italy
+    x400: 'X.400: G=madia; S=saponaro; O=saritel;, A=master400; C=it'
+    email: 'E-mail: saponaro@saritel.it'
+- country_or_area:
+    fr: Suisse
+    en: Switzerland
+    es: Suiza
+  admd_name: 400NET
+  country_code: CH
+  mt: UNIPLUS 400NET
+  ipm: UNIPLUS 400NET
+  helpdesk:
+    x400: S=helpdesk, O=public, A=400net, C=ch
+  autoanswer:
+    x400: S=autoanswer, O=uniplus, A=400net, C=ch
+  contact_address:
+    company_name: Unisource Business Networks
+    address_line_1: "(Switzerland) Ltd."
+    address_line_2: P&S, PM UNIPLUS
+    address_line_3: Schermennaldstr, 13
+    address_line_4: CH-3063 ITTIGEN, Suisse
+    x400: 'X.400: S=helpdesk; O=public; A=400net;, C=ch'
+- country_or_area:
+    fr: Suisse
+    en: Switzerland
+    es: Suiza
+  admd_name: ADMIN
+  country_code: CH
+  helpdesk:
+    x400: S=helpdesk, A=admin, C=ch
+  autoanswer:
+    x400: S=autoanswer, A=admin, C=ch
+  contact_address:
+    company_name: Bondesamt für Informatik
+    address_line_1: Daterkommunikation/Dienste (DKDI)
+    address_line_2: Feldeggweg 1
+    address_line_3: CH-3003 BERNE, Suisse
+    x400: 'X.400: S=helpdesk; A=admin; C=ch;'
+- country_or_area:
+    fr: Suisse
+    en: Switzerland
+    es: Suiza
+  admd_name: ATLAS
+  country_code: CH
+  ipm: ''
+  helpdesk:
+    x400: S=helpdesk, A=atlas, C=ch
+  autoanswer:
+    x400: S=autoanswer, A=atlas, C=ch
+  contact_address:
+    company_name: France Telecom Network Services (Suisse) S.A.
+    address_line_1: 'Attn: M. Richard Dent'
+    address_line_2: Avenue de Gratta-Paille 1
+    address_line_3: Case Postale 492
+    address_line_4: CH-1000 LAUSANNE 30, Suisse
+    x400: 'X.400: S=helpdesk; A=atlas; C=ch'
+- country_or_area:
+    fr: Suisse
+    en: Switzerland
+    es: Suiza
+  admd_name: ATTMAIL
+  country_code: CH
+  mt: ATTMAIL
+  ipm: ATTMAIL
+  helpdesk:
+    x400: G=kunden, S=hilfe, O=att, A=attmil, C=de, DDA:ID=atthilfe
+  autoanswer:
+    x400: S=autoanswer, A=attmail, C=ch
+  contact_address:
+    company_name: AT&T Deutschland GmbH
+    address_line_1: EasyLink Services
+    address_line_2: Eschersheimer Landstrasse 14
+    address_line_3: D-60322 FRANKFURT, Germany
+    x400: 'X.400: G=kunden; S=hilfe; O=att;, A=attmail; C=de, DDA:ID=atthilfe'
+- country_or_area:
+    fr: Suisse
+    en: Switzerland
+    es: Suiza
+  admd_name: EUnet
+  country_code: CH
+  mt: EUnet400
+  ipm: EUnet400
+  helpdesk:
+    x400: S=helpdesk, A=eunet, C=ch
+  autoanswer:
+    x400: S=autoanswer, A=eunet, C=ch
+  contact_address:
+    company_name: Swiss UNIX Systems Users Group
+    address_line_1: CHUUG/EUnet
+    address_line_2: Zweierstrasse 35
+    address_line_3: CH-8004 ZURICH, Suisse
+    x400: 'X.400: S=info; A=eunet; C=ch'
+- country_or_area:
+    fr: Suisse
+    en: Switzerland
+    es: Suiza
+  admd_name: IBMX400
+  country_code: CH
+  ipm: IBM Mail Exchange
+  helpdesk:
+    x400: G=helpdhd, S=helpdesk, P=ibmmail, A=ibmx400, C=ch
+  autoanswer:
+    x400: G=inform, S=inform, P=ibmmail, A=ibmx400, C=gb
+  contact_address:
+    company_name: Mr. Beat Moser
+    address_line_1: IBM Switzerland
+    address_line_2: Hohlstrasse 550
+    address_line_3: CH-N8048 ZURICH, Switzerland
+    x400: 'X.400: G=beat; S=moser; P=ibmmail;, A=ibmx400; C=ch'
+- country_or_area:
+    fr: Suisse
+    en: Switzerland
+    es: Suiza
+  admd_name: INFONET
+  country_code: CH
+  ipm: NOTICE
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: INFONET (Switzerland) Ltd.
+    address_line_1: Länggassstrasse 35
+    address_line_2: P.O. Box 693
+    address_line_3: CH-3000 BERNE 9, Suisse
+    x400: 'X.400: S=aeby; P=infonetch;, A=infonet; C=ch'
+- country_or_area:
+    fr: Suisse
+    en: Switzerland
+    es: Suiza
+  admd_name: MARK400
+  country_code: CH
+  mt: MARK400; Messaging Service
+  ipm: MARK400; Messaging Service; QUIKCOMM
+  other: EDI*EXPRESS
+  helpdesk:
+    x400: S=helpdesk, OU1=geis, O=quikcomm, A=mark400, C=us; S=eurohelp, OU1=geis,
+      O=quikcomm, A=mark400, C=us
+  autoanswer:
+    x400: S=autoanswer, OU1=geis, O=quikcomm, A=mark400, C=us
+  contact_address:
+    company_name: Mike Chesher
+    address_line_1: G.E. Information Services AG
+    address_line_2: 25-29 High Street
+    address_line_3: Kingston-upon-Thames
+    address_line_4: SURREY KT1 1LN, United Kingdom
+    x400: 'X.400: G=mike; S=chesher; OU1=geis;, O=quikcomm; A=mark400; C=us'
+- country_or_area:
+    fr: Suisse
+    en: Switzerland
+    es: Suiza
+  admd_name: MASTER400
+  country_code: CH
+  mt: MASTER400
+  ipm: MASTERMAIL (P7)
+  helpdesk:
+    x400: S=helpdesk, A=master400, C=it
+  autoanswer:
+    x400: S=autoanswer, A=master400, C=it
+  contact_address:
+    company_name: Madia Saponaro
+    address_line_1: SARITEL S.p.A.
+    address_line_2: S.S. 148 Pontina Km. 29,100
+    address_line_3: 00040 POMEZIA (ROMA), Italy
+    x400: 'X.400: G=madia; S=saponaro; O=saritel;, A=master400; C=it'
+    email: 'E-mail: saponaro@saritel.it'
+- country_or_area:
+    fr: Suisse
+    en: Switzerland
+    es: Suiza
+  admd_name: SWITCHGATE
+  country_code: CH
+  other: SWITCH; Internet Gateway
+  helpdesk:
+    x400: S=helpdesk, O=inet, A=switchgate, C=ch
+  autoanswer:
+    x400: S=autoanswer, O=inet, A=switchgate, C=ch
+  contact_address:
+    company_name: SWITCH Head Office
+    address_line_1: Limmatquai 138
+    address_line_2: CH-8001 ZURICH, Suisse
+- country_or_area:
+    fr: Suisse
+    en: Switzerland
+    es: Suiza
+  admd_name: TELEKURS
+  country_code: CH
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: TELEKURS Payserv AG
+    address_line_1: Herr Krieg
+    address_line_2: Hardturmstrasse 201
+    address_line_3: CH-8021 ZURICH, Suisse
+- country_or_area:
+    fr: Suisse
+    en: Switzerland
+    es: Suiza
+  admd_name: UMI-CH
+  country_code: CH
+  mt: UMI400
+  ipm: UMI400
+  helpdesk:
+    x400: S=helpdesk, A=umi-ch, C=ch
+  autoanswer:
+    x400: S=autoanswer, A=umi-ch, C=ch
+  contact_address:
+    company_name: Conexus AG
+    address_line_1: 'Attn: URS BRAWAND'
+    address_line_2: Ifangstrasse 10
+    address_line_3: CH-8302 KLOTEN, Suisse
+    x400: 'X.400: G=urs; S=brawand; O=conexus;, P=conexus; A=umi-ch; C=ch'
+- country_or_area:
+    fr: Thaïlande
+    en: Thailand
+    es: Tailandia
+  admd_name: CAT400
+  country_code: TH
+  other: Faxgateway; Telexgateway; EDI; internetgateway; Proprietary Mail Gateway
+  helpdesk:
+    x400: G=support, S=supportgroup, O=cat400, A=cat400, C=th
+  autoanswer:
+    x400: G=autoanswer, S=autoanswer, O=cat400, A=cat400, C=th
+  contact_address:
+    company_name: Telebox Exchange Office
+    address_line_1: Data Communication Division
+    address_line_2: The Communications Authority of Thailand (CAT)
+    address_line_3: BANGKOK 10501, Thailand
+    x400: 'X.400: G=vichien; S=chomsamnieng;, O=cat400; A=cat400; C=th'
+- country_or_area:
+    fr: Tonga
+    en: Tonga
+    es: Tonga
+  admd_name: TONGA TELECOM
+  country_code: TO
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Tonga Telecom Commission
+    address_line_1: P.O. Box 46
+    address_line_2: NUKU'ALOFA, Tonga
+- country_or_area:
+    fr: Emirats arabes unis
+    en: United Arab Emirates
+    es: Emiratos Arabes Unidos
+  admd_name: EMNET
+  country_code: AE
+  mt: EMNET
+  ipm: EMNET
+  helpdesk:
+    x400: UN=helpdesk, O=etisalat, A=emnet, C=ae
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: ETISALAT
+    address_line_1: P. O. Box 3838
+    address_line_2: Operations Department
+    address_line_3: ABU DHABI
+    address_line_4: United Arab Emirates
+    x400: 'X.400: UN=ops.ho; O=etisalat;, A=emnet; C=ae'
+- country_or_area:
+    fr: Royaume-Uni
+    en: United Kingdom
+    es: Reino Unido
+  admd_name: ATTMAIL
+  country_code: GB
+  mt: ATT Mail
+  ipm: ATTMAIL
+  other: AT&T; MAIL400
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: AT&T EasyLink Services
+    address_line_1: 4 Moons Park
+    address_line_2: Burnt Meadow Road
+    address_line_3: GB-Redditch Worcs B98 9PA
+    address_line_4: United Kingdom
+    x400: 'X.400: G=paul; S=bizzell; DD.ID=pbizzell;, A=attmail; C=gb'
+- country_or_area:
+    fr: Royaume-Uni
+    en: United Kingdom
+    es: Reino Unido
+  admd_name: CWMAIL
+  country_code: GB
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: Mercury Communications Ltd.
+    address_line_1: 1 Brentside Executive Centre
+    address_line_2: Great West Road
+    address_line_3: GB-Brentford Middlesex TW8 9DS
+    address_line_4: United Kingdom
+    x400: 'X.400: G=gary; S=muchmore;, O=mercury data; P=mcl mail;'
+- country_or_area:
+    fr: Royaume-Uni
+    en: United Kingdom
+    es: Reino Unido
+  admd_name: GOLD 400
+  country_code: GB
+  mt: GOLD 400
+  helpdesk:
+    x400: G=help, S=desk, O=btt, A=gold 400, C=gb
+  autoanswer:
+    x400: G=auto, S=answer, O=btt, a=gold 400, C=gb
+  contact_address:
+    company_name: BT, Chris Ramsey
+    address_line_1: PP 3062 Tenter House
+    address_line_2: 45 Moorfields
+    address_line_3: LONDON EC2Y 9TH, United Kingdom
+    x400: 'X.400: G=chris; S=ramsey; O=btt;, A=gold 400; C=gb'
+- country_or_area:
+    fr: Royaume-Uni
+    en: United Kingdom
+    es: Reino Unido
+  admd_name: IBMX400
+  country_code: GB
+  ipm: IBM Mail Exchange
+  helpdesk:
+    x400: G=3bnssl, S=helpdesk, P=ibmmail, A=ibmx400, C=gb
+  autoanswer:
+    x400: G=inform, S=inform, P=ibmmail, A=ibmx400, C=gb
+  contact_address:
+    company_name: Mr. M. Lloyd
+    address_line_1: IBM Information Network
+    address_line_2: PO Box 31
+    address_line_3: Birmingham Road
+    address_line_4: WARWICK CV34 5JL, United Kingdom
+    x400: 'X.400: G=lloydm; S=lloyd; P=ibmmail, A=ibmx400; C=gb'
+- country_or_area:
+    fr: Royaume-Uni
+    en: United Kingdom
+    es: Reino Unido
+  admd_name: INFONET
+  country_code: GB
+  contact_address:
+    company_name: 'Attn: Lindy L. Murrell'
+    address_line_1: Director, Electronic Messaging
+    address_line_2: Infonet Services Corporation
+    address_line_3: 2100 E. Grand Avenue, Box 1022
+    address_line_4: EL SEGUNDO, CA 90245-1022, United States
+- country_or_area:
+    fr: Royaume-Uni
+    en: United Kingdom
+    es: Reino Unido
+  admd_name: ISODE
+  country_code: GB
+  mt: ISODE400-MT
+  ipm: ISODE400-IPM
+  helpdesk:
+    x400: S=support, O=isode, A=isode, C=gb
+  autoanswer:
+    x400: CN=autoanswer, O=isode, A=isode, C=gb
+  contact_address:
+    company_name: 5 Castle Business Village
+    address_line_1: 36 Station Road
+    address_line_2: HAMPTON, Middlesex TW12 2BX, UK
+    x400: 'X.400: S=enquiries; O=isode; A=isode;, C=gb, E-mail= enquiries@isode.com'
+- country_or_area:
+    fr: Royaume-Uni
+    en: United Kingdom
+    es: Reino Unido
+  admd_name: JANET
+  country_code: GB
+  contact_address:
+    company_name: Dr. W Black
+    address_line_1: UKERNA
+    address_line_2: Atlas Centre, Chilton
+    address_line_3: DIDCOT, Oxfordshire OX11 OQS
+    address_line_4: United Kingdom
+- country_or_area:
+    fr: Royaume-Uni
+    en: United Kingdom
+    es: Reino Unido
+  admd_name: MARK400
+  country_code: GB
+  contact_address:
+    company_name: Mr. Mike Chesher European Marketing Manager
+    address_line_1: GE Information Services –INS Division
+    address_line_2: INS House, Station Road
+    address_line_3: Sunbury-on-Thames
+    address_line_4: MIDDLESEX TW16 6SB, United Kingdom
+    x400: 'X.400: G=mike; S=chesher; OU1=geis;, O=quikcomm; A=mark400; C=gb'
+    email: 'E-mail: ches@geis.geis.com'
+- country_or_area:
+    fr: Royaume-Uni
+    en: United Kingdom
+    es: Reino Unido
+  admd_name: NHS
+  country_code: GB
+  contact_address:
+    company_name: Mr. Navin Solanki
+    address_line_1: Networking Address Registration Services Manager
+    address_line_2: Central Communications Management Group, NHS Executive
+    address_line_3: 19 Calthorpe Road, Edgbaston
+    address_line_4: BIRMINGHAM B15 1RP, United Kingdom
+- country_or_area:
+    fr: Royaume-Uni
+    en: United Kingdom
+    es: Reino Unido
+  admd_name: OSPMAIL
+  country_code: GB
+  helpdesk:
+    x400: S=helpdesk, A=ospmail, C=gb
+  autoanswer:
+    x400: S=autoanswer, A=ospmail, C=gb
+  contact_address:
+    company_name: Brunswick House
+    address_line_1: Rose Lane
+    address_line_2: Biggleswade SG18 0NB
+    address_line_3: Bedfordshire, United Kingdom
+    x400: 'X.400: G=james; S=huckle; P=msx;, A=ospmail; C=gb'
+- country_or_area:
+    fr: Royaume-Uni
+    en: United Kingdom
+    es: Reino Unido
+  admd_name: PARASOFT
+  country_code: GB
+  mt: PARASOFT
+  ipm: PARASOFT
+  other: MESSAGE-; XCHANGE
+  helpdesk:
+    x400: S=helpdesk, A=parasoft, C=gb
+  autoanswer:
+    x400: S=autoanswer, A=parasoft, c=gb
+  contact_address:
+    company_name: Paragon Software Limited
+    address_line_1: Paragon House
+    address_line_2: 3 Coombe Square
+    address_line_3: GB-THATCHAM, BERKSHIRE RG19 4JF
+    address_line_4: United Kingdom
+- country_or_area:
+    fr: Royaume-Uni
+    en: United Kingdom
+    es: Reino Unido
+  admd_name: PIPEX
+  country_code: GB
+  mt: X400 ; MESSAGING
+  helpdesk:
+    x400: S=x400-support, A=pipex, C=gb
+  autoanswer:
+    x400: S=autoanswer, A=pipex, C=gb
+  contact_address:
+    company_name: Bill Jago
+    address_line_1: Unipalm PIPEX
+    address_line_2: 216 Cambridge Science Park
+    address_line_3: Milton Road
+    address_line_4: CAMBRIDGE CB4 4WA, United Kingdom
+    x400: 'X.400: G=bill; S=jago; A=pipex; C=gb'
+    email: 'E-mail: bill.jago@unipalm.pipex.com'
+- country_or_area:
+    fr: Royaume-Uni
+    en: United Kingdom
+    es: Reino Unido
+  admd_name: RACAL400
+  country_code: GB
+  contact_address:
+    company_name: Trent T Holmes
+    address_line_1: Manager, Business Development
+    address_line_2: Racal Network Services Ltd., Oakwood
+    address_line_3: Chineham Business Park, Crockford Lane
+    address_line_4: BASINGSTOKE RG24 8WB, United Kingdom
+- country_or_area:
+    fr: Royaume-Uni
+    en: United Kingdom
+    es: Reino Unido
+  admd_name: TRADANET400
+  country_code: GB
+  contact_address:
+    company_name: John Williamson
+    address_line_1: Techincal Director
+    address_line_2: INS Ltd., INS House
+    address_line_3: Station Road, Sunbury on Thames
+    address_line_4: MIDDX TW16 6SB, United Kingdom
+- country_or_area:
+    fr: Royaume-Uni
+    en: United Kingdom
+    es: Reino Unido
+  admd_name: UMI-UK
+  country_code: GB
+  mt: UMI-400
+  ipm: UMI-400
+  other: MESSAGE-XCHANGE
+  helpdesk:
+    x400: S=helpdesk, A=umi-uk, C=gb
+  autoanswer:
+    x400: S=autoanswer, A=umi-uk, c=gb
+  contact_address:
+    company_name: Paragon Software Limited
+    address_line_1: Paragon House
+    address_line_2: 3 Coombe Square
+    address_line_3: GB-THATCHAM, BERKSHIRE RG13 4JF
+    address_line_4: United Kingdom
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: ARAMARK
+  country_code: US
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: William Frith
+    address_line_1: Network Support Specialist
+    address_line_2: ARA Services
+    address_line_3: The ARA Tower, 1101 Market Street
+    address_line_4: PHILADELPHIA, PA 19107, United States
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: ARINC
+  country_code: US
+  contact_address:
+    company_name: Leonard H Goldman
+    address_line_1: Manager, Applications Engineering
+    address_line_2: ARINC Inc.
+    address_line_3: 2551 Riva Road
+    address_line_4: ANNAPOLIS, MD 21401 7465, United States
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: ATTMAIL
+  country_code: US
+  contact_address:
+    company_name: Dennis Thovson
+    address_line_1: Division Manager AT&T
+    address_line_2: Standards & Regulatory Support
+    address_line_3: 900 Route 202-206N, Room 5A256
+    address_line_4: BEDMINSTER, NJ 07921, United States
+    x400: 'X.400: G=dennis; S=thovson;, DDA.ID=dthovson; A=attmail; C=us'
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: BT
+  country_code: US
+  other: BT Messaging Services
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Joline Chew
+    address_line_1: Sr. Product Manager
+    address_line_2: BT North America
+    address_line_3: 2560 North First Street, M/S F20
+    address_line_4: SAN JOSE, CA 95161, United States
+    x400: 'X400: G=joline chew; O=btna;, P=btna-ixgw; A=bt (or) dialcom; C=us'
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: CAMTRONICS LTD.
+  country_code: US
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Gary J Kokta
+    address_line_1: Director, Corp. Quality Systems
+    address_line_2: Camtronics, Ltd. Medical Syste
+    address_line_3: 900 Walnut Ridge Drive, P.O. Box 950
+    address_line_4: HARTLAND, WI 53029, United States
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: DHL
+  country_code: US
+  contact_address:
+    company_name: Paul S. Rarey
+    address_line_1: Manager Opern Systems Research
+    address_line_2: DHL Systems Inc.
+    address_line_3: 1700 S. Amphlett Blvd.
+    address_line_4: SAN MATEO, CA 94402, United States
+    x400: 'X.400: G=paul.rarey; O=systems; P=dhl;, A=mark400; C=us'
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: DIGSIGTRUST
+  country_code: US
+  contact_address:
+    company_name: Clay Epstein
+    address_line_1: Chief Technology Officer
+    address_line_2: Digital Signature Trust Co.
+    address_line_3: One South Main Street
+    address_line_4: SALT LAKE CITY, UT 84111, United States
+    email: 'E Mail: clay.epstein@digsigtrust.com'
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: DMS
+  country_code: US
+  contact_address:
+    company_name: Stacey Higgins
+    address_line_1: DMS Registration Authority, Defense Info, Systems Agency
+    address_line_2: 5111 Leesburg Pike
+    address_line_3: Skyline 5, Suite 9145
+    address_line_4: FALLS CHURCH, VA 22041 3205, United States
+    email: 'E Mail: higgins@cc.ims.disa.mil'
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: GMS
+  country_code: US
+  other: BT Messaging Services
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: Joline Chew
+    address_line_1: Senior Product Manager
+    address_line_2: BT North America
+    address_line_3: 2560 North First Street, M/S C27
+    address_line_4: SAN JOSE, CA 95161-9019, United States
+    x400: 'X.400: G=joline chew; O=btna; P=btna-ixgw;,  A=bt (or) dialcom; C=us'
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: GRAPHNET
+  country_code: US
+  mt: GEM400
+  helpdesk:
+    x400: S=helpdesk, A=graphnet, C=us
+  autoanswer:
+    x400: S=autoanswer, A=graphnet, C=us
+  contact_address:
+    company_name: Anna Szechter
+    address_line_1: Senior Analyst
+    address_line_2: GRAPHNET Inc.
+    address_line_3: 329 Alfred Avenue
+    address_line_4: TEANECK, NJ 07666, United States
+    x400: 'X.400: G=anna; S=szechter; A=graphnet;, C=us'
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: GRIDNET
+  country_code: US
+  helpdesk:
+    available: 'TRUE'
+  autoanswer:
+    available: 'TRUE'
+  contact_address:
+    company_name: Frank Gruber
+    address_line_1: VIP Network Dev.
+    address_line_2: Gridnet International LLC
+    address_line_3: 1000 Holcomb Woods Parkway, Suite 342
+    address_line_4: ROSWELL, GA 30076, United States
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: IBMX400
+  country_code: US
+  ipm: IBM Mail Exchange
+  helpdesk:
+    x400: G=ibmimx, S=ibmimx, P=ibmmail, A=ibmx400, C=us
+  autoanswer:
+    x400: G=inform, S=inform, P=ibmmail, A=ibmx400, C=gb
+  contact_address:
+    company_name: Barbara Bender
+    address_line_1: Advantis
+    address_line_2: 3101 W MLKing Blvd.,
+    address_line_3: TAMPA FL 33607, United States
+    x400: 'X.400: G=barbara;, S=bender; P=ibmmail;, A=ibmx400; C=us'
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: INFONET
+  country_code: US
+  mt: NOTICE 400
+  ipm: Notice Desktop (NDT); Notice PC (NPC-II); Notice Mac
+  helpdesk:
+    x400: S=autoanswer, A=infonet, C=us
+  autoanswer:
+    x400: S=autoanswer, A=infonet, C=us
+  contact_address:
+    company_name: Lindy L. Murrell
+    address_line_1: Director, Electronic Messaging
+    address_line_2: Infonet Services Corporation
+    address_line_3: 2100 E. Grand Avenue, Box 1022
+    address_line_4: EL SEGUNDO, CA 90245-1022, United States
+    x400: 'X.400: S=murrell; O=infonet; P=notice;,  A=infonet; C=us'
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: MCI
+  country_code: US
+  mt: MCI XChange ; 400
+  ipm: MCI Mail
+  other: MCI EDI*NET
+  helpdesk:
+    x400: S=helpdesk, A=mci, C=us, DDA:ID=4142090
+  autoanswer:
+    x400: S=autoanswer, A=mci, C=us, DDA:ID=4509994
+  contact_address:
+    company_name: International Messaging and Data Marketing
+    address_line_1: 'Attn: Mr. Ben Heckscher'
+    address_line_2: MCI Business Markets
+    address_line_3: MCI Telecommunications Corporation
+    address_line_4: RYE BROOK NY 10573, United States
+    x400: 'X.400: G=ben; S=heckscher; A=mci; C=us'
+    email: 'E-mail: 3094996@mcimail.com'
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: MCIWCOM
+  country_code: US
+  contact_address:
+    company_name: Bryan Miller
+    address_line_1: X.400 Development Manager
+    address_line_2: MCI WorldCom
+    address_line_3: 2424 Garden of the Gods Road
+    address_line_4: COLORADO SPRINGS CO 80919, United States
+    email: 'E-Mail: bryan.miller@mci.com'
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: MILES
+  country_code: US
+  contact_address:
+    company_name: Micheal James Kindt
+    address_line_1: System Manager, MILES Inc.
+    address_line_2: 1127 Myrtle Street
+    address_line_3: ELKHART, IN 46514, United States
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: ORBCOMM
+  country_code: US
+  contact_address:
+    company_name: Matthew Miller
+    address_line_1: Engineer
+    address_line_2: Orbital Communications Corp.
+    address_line_3: 21700 Atlantic Boulevard, 3rd Floor
+    address_line_4: DULLES, VA 20166, United States
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: PSNET
+  country_code: US
+  contact_address:
+    company_name: Gabriel Long
+    address_line_1: Associate
+    address_line_2: Perot Systems
+    address_line_3: 1780 Jay Ell Drive
+    address_line_4: RICHARDSON, TX 75081, United States
+    email: 'E-Mail: Gabriel.Long@ps.net'
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: SCSI
+  country_code: US
+  contact_address:
+    company_name: Gina Garner
+    address_line_1: Telecommunications Analyst
+    address_line_2: Southern Communications Services, Inc.
+    address_line_3: 64 Perimeter Center East Bin 112
+    address_line_4: ATLANTA, GA 30346, United States
+    x400: 'X.400: G=william; I=a; S=early; O=scs;, P=southern; A=attmail; C=us'
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: SITAMAIL
+  country_code: US
+  contact_address:
+    company_name: Jody D. Newman
+    address_line_1: Senior Legal Advisor
+    address_line_2: Société Internationale de
+    address_line_3: Télécommunications Aéronautiques (S.I.T.A.)
+    address_line_4: 770 Sherbrooke Street West, MONTREAL, Quebec, Canada
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: SOUTHERN
+  country_code: US
+  contact_address:
+    company_name: Gina Garner
+    address_line_1: Network Planning
+    address_line_2: The Southern Company
+    address_line_3: 64 Perimeter Center East, Bin 112
+    address_line_4: ATLANTA, GA 30346, United States
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: SSI1
+  country_code: US
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: James M. Palmer
+    address_line_1: MIS Operations Manager
+    address_line_2: Silicon Systems Incorporated
+    address_line_3: 14351 Myford Road
+    address_line_4: TUSTIN, CA 92680-7022, United States
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: STERLING
+  country_code: US
+  contact_address:
+    company_name: Robert O'Malley
+    address_line_1: Director, Product Marketing
+    address_line_2: Sterling Software
+    address_line_3: 4600 Lakehurst Ct.
+    address_line_4: DUBLIN, OH 43017-0760, United States
+    x400: 'X.400: S=romalley; O=ecgroup;, P=sterling; A=sterling; C=us'
+- country_or_area:
+    fr: Etats-Unis
+    en: United States
+    es: Estados Unidos
+  admd_name: UKANS
+  country_code: US
+  contact_address:
+    company_name: Dave Nordlund
+    address_line_1: Associate Director, University of Kansas
+    address_line_2: Computer Center
+    address_line_3: LAWRENCE, KS 66045, United States
+    x400: 'X.400: G=nordlund; A=ukans; C=us'
+- country_or_area:
+    fr: Uruguay
+    en: Uruguay
+    es: Uruguay
+  admd_name: ANTEL
+  country_code: UY
+  mt: ANTEL-MAIL
+  other: URUMAIL400
+  helpdesk:
+    available: 'FALSE'
+  autoanswer:
+    available: 'FALSE'
+  contact_address:
+    company_name: ANTEL-Goia. Telex y Datos
+    address_line_1: Mercedes 884
+    address_line_2: C.P. 11 100
+    address_line_3: MONTEVIDEO, Uruguay
+    x400: 'X.400: G=rodolfo; S=fariello; DD.ID=30003; A=antel; C=uy'
+- country_or_area:
+    fr: Ouzbékistan
+    en: Uzbekistan
+    es: Uzbekistán
+  admd_name: UZMAIL
+  country_code: UZ
+  helpdesk:
+    x400: S=helpdesk, P=tash, A=uzmail, C=uz
+  autoanswer:
+    x400: S=autoanswer, P=tash, A=uzmail, C=uz
+  contact_address:
+    company_name: Communications and Information
+    address_line_1: Agency of Uzbekistan
+    address_line_2: 28a, Navoi Street
+    address_line_3: 100129 TASHKENT, Uzbekistan
+    x400: 'X.400: S=admin; P=tash; A=uzmail; C=uz'

@@ -37,7 +37,7 @@ locale.autoanswer.es,AUTOANSWER,,,,,,,,,,,,,,,,,,,,,,
 locale.contact_address.es,Dirección de contacto,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,
-DATA,,,,,,,,,,,,,,,,,,,,,,,
+DATA,type=array,,,,,,,,,,,,,,,,,,,,,,
 country_or_area.fr,country_or_area.en,country_or_area.es,admd_name,not_operational_yet,for_test_purposes,country_code,mt,ipm,other,helpdesk.x400,helpdesk.available,helpdesk.others,autoanswer.x400,autoanswer.available,autoanswer.others,contact_address,contact_address.company_name,contact_address.address_line_1,contact_address.address_line_2,contact_address.address_line_3,contact_address.address_line_4,contact_address.x400,contact_address.email
 Arménie,Armenia,Armenia,ARMMAIL,,,AM,ARMMAIL, , ,"G=help, S=desk, O=infocom, A=armmail, C=am",,,,FALSE,,,“INFOCOM” JSC,22 Sarian Street,P.O. Box 375002,"YEREVAN, Armenia",,"X.400: G=system; S=administratior;, O=infocom; A=armmail; C=am",
 Australie,Australia,Australia,EDX,,,AU,EDX,EDX,Directory ; Service,"G=peter, S=eyles, P=edx1, A=edx, C=au",,,"G=autoreply, O=democentre, P=edxqld, A=edx, C=au",,,,EDX - Electronic Document Exchange,Mr. Andrew Ferguson,"Level 3, 63 Exhibition Street","VIC 3000 MELBOURNE, Australia",,"X.400: G=andrew; S=ferguson; O=edx;, P=edxmelb; A=edx; C=au",

@@ -13,222 +13,221 @@ metadata:
       fr: Países/Zonas geográficas
       es: Pays/Zones géographiques
 data:
-  number:
-    1:
-      geographic_area:
-        fr: Andorre
-        en: Andorra
-        es: Andorra
-      notes:
-        en: The telex service is no longer provided.
-        es: El servicio télex está suprimido
-        fr: Le service télex n'est plus assuré.
-    2:
-      geographic_area:
-        fr: Antigua-et-Barbuda
-        en: Antigua and Barbuda
-        es: Antigua y Barbuda
-      notes:
-        en: The telegram service is no longer provided. Collect calls to mobile, payphone
-          and audiotex numbers are not accepted
-        es: El servicio de telegramas está suprimido. No se aceptan llamadas de cobro
-          revertido efectuadas a números de teléfonos móviles, teléfonos públicos
-          y audiotex
-        fr: Le service des télégrammes n'est plus assuré. Les communications payables
-          à l'arrivée à destination de numéros mobiles, de publiphones ou de numéros
-          audiotex ne sont pas acceptées.
-    3:
-      geographic_area:
-        fr: Argentine
-        en: Argentina
-        es: Argentina
-      notes:
-        en: The Correo Oficial de La Republica Argentina S.A., Buenos Aires, announces
-          that as from 1 February 2011, the telegrams indicated as TLXx (TELEX DELIVERY)
-          will not be accepted anymore. This restriction will reach incoming and outgoing
-          telegrams from the Argentine (Republic). The special services such as URGENT
-          (urgent transmission and delivery) TFx (telephone delivery), FAXx (facsimile
-          delivery) will be available.
-        es: El Correo Oficial de La Republica Argentina S.A., Buenos Aires, anuncia
-          que a partir del 1 de febrero de 2011 dejará de admitir telegramas con la
-          indicación de servicio TLXx (ENTREGA POR TELEX).  Esta restricción alcanza
-          tanto a los telegramas impuestos como los destinados a la República Argentina.
-          Se continuará aceptando los servicios especiales URGENT (transmisión y entrega
-          urgentes) TFx (entrega por teléfono), FAXx (entrega por facsímil).
-        fr: Le Correo Oficial de La República Argentina S.A., Buenos Aires, annonce
-          qu'il n'acceptera plus les télégrammes portant l'indication de service TLXx
-          (REMISE PAR TELEX) à compter du 1er février 2011. Cette restriction s'applique
-          aux télégrammes en provenance et à destination de la République argentine.
-          Les télégrammes portant les indications de service spécial URGENT (transmission
-          et remise urgentes), TFx (remise par téléphone) et FAXx (remise par télécopie)
-          continueront d'être acceptés.
-    4:
-      geographic_area:
-        fr: Aruba
-        en: Aruba
-        es: Aruba
-      notes:
-        en: Collect calls to mobile numbers are not accepted
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          ne sont pas acceptées
-    5:
-      geographic_area:
-        fr: Australie
-        en: Australia
-        es: Australia
-      notes:
-        en: Collect calls to mobile numbers are not accepted
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          ne sont pas acceptées.
-    6:
-      geographic_area:
-        fr: Autriche
-        en: Austria
-        es: Austria
-      notes:
-        en: The telex service is no longer provided.
-        es: El servicio télex está suprimido
-        fr: Le service télex n'est plus assuré.
-    7:
-      geographic_area:
-        fr: Bangladesh
-        en: Bangladesh
-        es: Bangladesh
-      notes:
-        en: The telex service is no longer provided.
-        es: El servicio télex está suprimido
-        fr: Le service télex n'est plus assuré.
-    8:
-      geographic_area:
-        fr: Barbade
-        en: Barbados
-        es: Barbados
-      notes:
-        en: Collect calls to mobile numbers are not accepted
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          ne sont pas acceptées.
-    9:
-      geographic_area:
-        fr: Belgique
-        en: Belgium
-        es: Bélgica
-      notes:
-        en: No collect calls are accepted between a foreign operator and Belgacom
-          operator. Incoming collect calls are available through Belgium Direct Service.
-        es: No se aceptan llamadas de cobro revertido entre un operador extranjero
-          y el operador Belgacom. La recepción de llamadas de cobro revertido se efectúa
-          a través del servicio directo con Bélgica
-        fr: Aucune communication payable à l'arrivée n'est acceptée entre un opérateur
-          étranger et l'opérateur Belgacom. Il est possible d'utiliser le service
-          Belgium Direct pour établir des communications entrantes payables à l'arrivée.
-    10:
-      geographic_area:
-        fr: Belize
-        en: Belize
-        es: Belice
-      notes:
-        en: Collect calls to mobile numbers or payphones are not accepted
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles o de teléfonos públicos
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          ou de publiphones ne sont pas acceptées.
-    11:
-      geographic_area:
-        fr: Bosnie-Herzégovine
-        en: Bosnia and Herzegovina
-        es: Bosnia y Herzegovina
-      notes:
-        en: The telex service is no longer provided.
-        es: El servicio télex está suprimido
-        fr: Le service télex n'est plus assuré.
-    12:
-      geographic_area:
-        fr: Bulgarie
-        en: Bulgaria
-        es: Bulgaria
-      notes:
-        en: Collect telephone calls and credit card telephone calls are accepted in
-          Bulgaria only with those countries whose administrations have confirmed
-          their agreement to the Bulgarian Administration in writing. The telegram
-          service is no longer provided. The telex service is no longer provided.
-        es: Sólo se admiten llamadas telefónicas de cobro revertido y con tarjetas
-          de crédito con los países cuyas administraciones hayan confirmado por escrito
-          su acuerdo a la Administración búlgara. El servicio de telegramas está suprimido.
-          El servicio télex está suprimido
-        fr: Les communications téléphoniques payables à l’arrivée et avec cartes de
-          crédit sont acceptées en Bulgarie qu’avec les pays dont les administrations
-          ont confirmé par écrit leur accord à l’Administration bulgare. Le service
-          des télégrammes n'est plus assuré. Le service télex n'est plus assuré.
-    13:
-      geographic_area:
-        fr: Cayman (Iles)
-        en: Cayman (Islands)
-        es: Caimán (Islas)
-      notes:
-        en: Collect calls to mobile numbers are not accepted
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          ne sont pas acceptées
-    14:
-      geographic_area:
-        fr: Colombie
-        en: Colombia
-        es: Colombia
-      notes:
-        en: Collect calls to mobile numbers are not accepted
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          ne sont pas acceptées.
-    15:
-      geographic_area:
-        fr: Cook (Iles)
-        en: Cook Islands
-        es: Cook (Islas)
-      notes:
-        en: The telex service is no longer provided.
-        es: El servicio télex está suprimido
-        fr: Le service télex n'est plus assuré.
-    16:
-      geographic_area:
-        fr: Curaçao, Sint Maarten, Bonaire, Saint Eustatius et Saba
-        en: Curaçao, Sint Maarten, Bonaire, Sint Eustatius and Saba
-        es: Curaçao, Sint Maarten, Bonaire, San Eustatius y Saba
-      notes:
-        en: Collect calls for both outgoing and incoming are not accepted. The telegram
-          service is no longer provided. The telex service is no longer provided.
-        es: No se aceptan llamadas de cobro revertido entrantes ni salientes. El servicio
-          de telegramas está suprimido. El servicio télex está suprimido
-        fr: Les communications entrantes et sortantes payables à l'arrivée ne sont
-          pas acceptées.  Le service des télégrammes n'est plus assuré. Le service
-          télex n'est plus assuré.
-    17:
-      geographic_area:
-        fr: Chypre
-        en: Cyprus
-        es: Chipre
-      notes:
-        en: CYTA no longer route nor accept telephone traffic via transit carriers.
-          Telecom operators are requested to switch to the hubbing method for routing
-          traffic to CYTA. Collect calls to mobile numbers are not accepted
-        es: CYTA no encamina ni acepta tráfico telefónico procedente de operadores
-          de tránsito. Se invita a los operadores de telecomunicaciones que utilicen
-          un método de concentración para el encaminamiento de su tráfico a la CYTA.
-          No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles
-        fr: La CYTA n'achemine plus et n'accepte plus de trafic téléphonique via des
-          opérateurs de transit. Les opérateurs de télécommunication concernés sont
-          priés de bien vouloir adopter la méthode de concentration (hubbing) pour
-          le routage de leur trafic à destination de la CYTA. Les communications payables
-          à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
-    18:
+  Andorre:
+    geographic_area:
+      fr: Andorre
+      en: Andorra
+      es: Andorra
+    notes:
+      en: The telex service is no longer provided.
+      es: El servicio télex está suprimido
+      fr: Le service télex n'est plus assuré.
+  Antigua-et-Barbuda:
+    geographic_area:
+      fr: Antigua-et-Barbuda
+      en: Antigua and Barbuda
+      es: Antigua y Barbuda
+    notes:
+      en: The telegram service is no longer provided. Collect calls to mobile, payphone
+        and audiotex numbers are not accepted
+      es: El servicio de telegramas está suprimido. No se aceptan llamadas de cobro
+        revertido efectuadas a números de teléfonos móviles, teléfonos públicos y
+        audiotex
+      fr: Le service des télégrammes n'est plus assuré. Les communications payables
+        à l'arrivée à destination de numéros mobiles, de publiphones ou de numéros
+        audiotex ne sont pas acceptées.
+  Argentine:
+    geographic_area:
+      fr: Argentine
+      en: Argentina
+      es: Argentina
+    notes:
+      en: The Correo Oficial de La Republica Argentina S.A., Buenos Aires, announces
+        that as from 1 February 2011, the telegrams indicated as TLXx (TELEX DELIVERY)
+        will not be accepted anymore. This restriction will reach incoming and outgoing
+        telegrams from the Argentine (Republic). The special services such as URGENT
+        (urgent transmission and delivery) TFx (telephone delivery), FAXx (facsimile
+        delivery) will be available.
+      es: El Correo Oficial de La Republica Argentina S.A., Buenos Aires, anuncia
+        que a partir del 1 de febrero de 2011 dejará de admitir telegramas con la
+        indicación de servicio TLXx (ENTREGA POR TELEX).  Esta restricción alcanza
+        tanto a los telegramas impuestos como los destinados a la República Argentina.
+        Se continuará aceptando los servicios especiales URGENT (transmisión y entrega
+        urgentes) TFx (entrega por teléfono), FAXx (entrega por facsímil).
+      fr: Le Correo Oficial de La República Argentina S.A., Buenos Aires, annonce
+        qu'il n'acceptera plus les télégrammes portant l'indication de service TLXx
+        (REMISE PAR TELEX) à compter du 1er février 2011. Cette restriction s'applique
+        aux télégrammes en provenance et à destination de la République argentine.
+        Les télégrammes portant les indications de service spécial URGENT (transmission
+        et remise urgentes), TFx (remise par téléphone) et FAXx (remise par télécopie)
+        continueront d'être acceptés.
+  Aruba:
+    geographic_area:
+      fr: Aruba
+      en: Aruba
+      es: Aruba
+    notes:
+      en: Collect calls to mobile numbers are not accepted
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées
+  Australie:
+    geographic_area:
+      fr: Australie
+      en: Australia
+      es: Australia
+    notes:
+      en: Collect calls to mobile numbers are not accepted
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées.
+  Autriche:
+    geographic_area:
+      fr: Autriche
+      en: Austria
+      es: Austria
+    notes:
+      en: The telex service is no longer provided.
+      es: El servicio télex está suprimido
+      fr: Le service télex n'est plus assuré.
+  Bangladesh:
+    geographic_area:
+      fr: Bangladesh
+      en: Bangladesh
+      es: Bangladesh
+    notes:
+      en: The telex service is no longer provided.
+      es: El servicio télex está suprimido
+      fr: Le service télex n'est plus assuré.
+  Barbade:
+    geographic_area:
+      fr: Barbade
+      en: Barbados
+      es: Barbados
+    notes:
+      en: Collect calls to mobile numbers are not accepted
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées.
+  Belgique:
+    geographic_area:
+      fr: Belgique
+      en: Belgium
+      es: Bélgica
+    notes:
+      en: No collect calls are accepted between a foreign operator and Belgacom operator.
+        Incoming collect calls are available through Belgium Direct Service.
+      es: No se aceptan llamadas de cobro revertido entre un operador extranjero y
+        el operador Belgacom. La recepción de llamadas de cobro revertido se efectúa
+        a través del servicio directo con Bélgica
+      fr: Aucune communication payable à l'arrivée n'est acceptée entre un opérateur
+        étranger et l'opérateur Belgacom. Il est possible d'utiliser le service Belgium
+        Direct pour établir des communications entrantes payables à l'arrivée.
+  Belize:
+    geographic_area:
+      fr: Belize
+      en: Belize
+      es: Belice
+    notes:
+      en: Collect calls to mobile numbers or payphones are not accepted
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles o de teléfonos públicos
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        ou de publiphones ne sont pas acceptées.
+  Bosnie-Herzégovine:
+    geographic_area:
+      fr: Bosnie-Herzégovine
+      en: Bosnia and Herzegovina
+      es: Bosnia y Herzegovina
+    notes:
+      en: The telex service is no longer provided.
+      es: El servicio télex está suprimido
+      fr: Le service télex n'est plus assuré.
+  Bulgarie:
+    geographic_area:
+      fr: Bulgarie
+      en: Bulgaria
+      es: Bulgaria
+    notes:
+      en: Collect telephone calls and credit card telephone calls are accepted in
+        Bulgaria only with those countries whose administrations have confirmed their
+        agreement to the Bulgarian Administration in writing. The telegram service
+        is no longer provided. The telex service is no longer provided.
+      es: Sólo se admiten llamadas telefónicas de cobro revertido y con tarjetas de
+        crédito con los países cuyas administraciones hayan confirmado por escrito
+        su acuerdo a la Administración búlgara. El servicio de telegramas está suprimido.
+        El servicio télex está suprimido
+      fr: Les communications téléphoniques payables à l’arrivée et avec cartes de
+        crédit sont acceptées en Bulgarie qu’avec les pays dont les administrations
+        ont confirmé par écrit leur accord à l’Administration bulgare. Le service
+        des télégrammes n'est plus assuré. Le service télex n'est plus assuré.
+  Cayman (Iles):
+    geographic_area:
+      fr: Cayman (Iles)
+      en: Cayman (Islands)
+      es: Caimán (Islas)
+    notes:
+      en: Collect calls to mobile numbers are not accepted
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées
+  Colombie:
+    geographic_area:
+      fr: Colombie
+      en: Colombia
+      es: Colombia
+    notes:
+      en: Collect calls to mobile numbers are not accepted
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées.
+  Cook (Iles):
+    geographic_area:
+      fr: Cook (Iles)
+      en: Cook Islands
+      es: Cook (Islas)
+    notes:
+      en: The telex service is no longer provided.
+      es: El servicio télex está suprimido
+      fr: Le service télex n'est plus assuré.
+  Curaçao, Sint Maarten, Bonaire, Saint Eustatius et Saba:
+    geographic_area:
+      fr: Curaçao, Sint Maarten, Bonaire, Saint Eustatius et Saba
+      en: Curaçao, Sint Maarten, Bonaire, Sint Eustatius and Saba
+      es: Curaçao, Sint Maarten, Bonaire, San Eustatius y Saba
+    notes:
+      en: Collect calls for both outgoing and incoming are not accepted. The telegram
+        service is no longer provided. The telex service is no longer provided.
+      es: No se aceptan llamadas de cobro revertido entrantes ni salientes. El servicio
+        de telegramas está suprimido. El servicio télex está suprimido
+      fr: Les communications entrantes et sortantes payables à l'arrivée ne sont pas
+        acceptées.  Le service des télégrammes n'est plus assuré. Le service télex
+        n'est plus assuré.
+  Chypre:
+    geographic_area:
+      fr: Chypre
+      en: Cyprus
+      es: Chipre
+    notes:
+      en: CYTA no longer route nor accept telephone traffic via transit carriers.
+        Telecom operators are requested to switch to the hubbing method for routing
+        traffic to CYTA. Collect calls to mobile numbers are not accepted
+      es: CYTA no encamina ni acepta tráfico telefónico procedente de operadores de
+        tránsito. Se invita a los operadores de telecomunicaciones que utilicen un
+        método de concentración para el encaminamiento de su tráfico a la CYTA. No
+        se aceptan llamadas de cobro revertido efectuadas a números de teléfonos móviles
+      fr: La CYTA n'achemine plus et n'accepte plus de trafic téléphonique via des
+        opérateurs de transit. Les opérateurs de télécommunication concernés sont
+        priés de bien vouloir adopter la méthode de concentration (hubbing) pour le
+        routage de leur trafic à destination de la CYTA. Les communications payables
+        à l'arrivée à destination de numéros mobiles ne sont pas acceptées.
+  Tchèque (Rép:
+    ")":
       geographic_area:
         fr: Tchèque (Rép.)
         en: Czech Rep.
@@ -237,653 +236,652 @@ data:
         en: The telex service is no longer provided.
         es: El servicio télex está suprimido
         fr: Le service télex n'est plus assuré.
-    19:
-      geographic_area:
-        fr: Danemark
-        en: Denmark
-        es: Dinamarca
-      notes:
-        en: The telegram service is no longer provided.
-        es: El servicio de telegramas está suprimido
-        fr: Le service des télégrammes n'est plus assuré.
-    20:
-      geographic_area:
-        fr: Dominique
-        en: Dominica
-        es: Dominica
-      notes:
-        en: Collect calls to mobile numbers are not accepted
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          ne sont pas acceptées.
-    21:
-      geographic_area:
-        fr: Féroé (Iles)
-        en: Faroe (Island)
-        es: Faroe (Islas)
-      notes:
-        en: The telex service is no longer provided. The telegram service is no longer
-          provided
-        es: El servicio télex está suprimido. El servicio de telegramas está suprimido
-        fr: Le service télex n'est plus assuré. Le service des télégrammes n'est plus
-          assuré.
-    22:
-      geographic_area:
-        fr: Fidji
-        en: Fiji
-        es: Fiji
-      notes:
-        en: The telex service is no longer provided. The telegram service is no longer
-          provided. Collect calls to mobile numbers are not accepted
-        es: El servicio télex está suprimido. El servicio de telegramas está suprimido.
-          No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles
-        fr: Le service télex n'est plus assuré. Le service des télégrammes n'est plus
-          assuré. Les communications payables à l'arrivée à destination de numéros
-          mobiles ne sont pas acceptées.
-    23:
-      geographic_area:
-        fr: Finlande
-        en: Finland
-        es: Finlandia
-      notes:
-        en: Sonera announces the closure of the Booked Call Service (booked personal
-          telephone calls requiring the dispatch of a messenger).
-        es: Sonera anuncia la clausura del servicio de petición de llamadas (llamadas
-          telefónicas personales que requieren el envío de un mensajero)
-        fr: Sonera annonce la fermeture du service de réservation de communications
-          (réservation de communications téléphoniques personnelles nécessitant l'envoi
-          d'un messager).
-    24:
-      geographic_area:
-        fr: France
-        en: France
-        es: Francia
-      notes:
-        en: France Telecom has discontinued the international collect call service.
-        es: France Telecom ha suspendido el servicio internacional de llamadas de
-          cobro revertido
-        fr: France Telecom a arrêté le service international de communications payables
-          à l'arrivée.
-    25:
-      geographic_area:
-        fr: Gibraltar
-        en: Gibraltar
-        es: Gibraltar
-      notes:
-        en: Collect calls to mobile numbers are not accepted. The telegram service
-          is no longer provided
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles. El servicio de telegramas está suprimido
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          ne sont pas acceptées. Le service des télégrammes n'est plus assuré.
-    26:
-      geographic_area:
-        fr: Groenland
-        en: Greenland
-        es: Groenlandia
-      notes:
-        en: The telegram service is no longer provided. Telephone calls requiring
-          the dispatch of a messenger are no longer admitted.
-        es: El servicio de telegramas está suprimido. No se admiten llamadas telefónicas
-          que requieran el envío de un mensajero
-        fr: Le service des télégrammes n'est plus assuré. Les appels téléphoniques
-          nécessitant l'envoi d'un messager ne sont plus admis.
-    27:
-      geographic_area:
-        fr: Guyana
-        en: Guyana
-        es: Guyana
-      notes:
-        en: The telex service is no longer provided. The telegram service is no longer
-          provided. Collect calls to mobile numbers are not accepted
-        es: El servicio télex está suprimido. El servicio de telegramas está suprimido.
-          No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles
-        fr: Le service télex n'est plus assuré. Le service des télégrammes n'est plus
-          assuré. Les communications payables à l'arrivée à destination de numéros
-          mobiles ne sont pas acceptées.
-    28:
-      geographic_area:
-        fr: Haïti
-        en: Haiti
-        es: Haiti
-      notes:
-        en: The telex service is no longer provided.
-        es: El servicio télex está suprimido
-        fr: Le service télex n'est plus assuré.
-    29:
-      geographic_area:
-        fr: Honduras
-        en: Honduras
-        es: Honduras
-      notes:
-        en: Collect calls to mobile numbers are not accepted
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          ne sont pas acceptées.
-    30:
-      geographic_area:
-        fr: Hong Kong, Chine
-        en: Hong Kong, China
-        es: Hong Kong, China
-      notes:
-        en: The telegram service and CT2 service are no longer provided
-        es: El servicio de telegramas y el servicio CT2 están suprimidos
-        fr: Le service des télégrammes et le service CT2 ne sont plus assurés.
-    31:
-      geographic_area:
-        fr: Hongrie
-        en: Hungary
-        es: Hungría
-      notes:
-        en: The telex service is no longer provided. The telegram service is no longer
-          provided. Collect calls for both outgoing and incoming are not accepted
-        es: El servicio télex está suprimido. El servicio de telegramas está suprimido.
-          No se aceptan llamadas de cobro revertido entrantes ni salientes
-        fr: Le service télex n'est plus assuré. Le service des télégrammes n'est plus
-          assuré. Les communications entrantes et sortantes payables à l'arrivée ne
-          sont pas acceptées.
-    32:
-      geographic_area:
-        fr: Islande
-        en: Iceland
-        es: Islandia
-      notes:
-        en: The telex service is no longer provided. Collect calls for both outgoing
-          and incoming are not accepted
-        es: El servicio télex está suprimido. No se aceptan llamadas de cobro revertido
-          entrantes ni salientes
-        fr: Le service télex n'est plus assuré. Les communications entrantes et sortantes
-          payables à l'arrivée ne sont pas acceptées.
-    33:
-      geographic_area:
-        fr: Indonésie
-        en: Indonesia
-        es: Indonesia
-      notes:
-        en: Collect calls to mobile numbers are not accepted. The telegram service
-          is no longer provided. PT Indosat no longer route nor accept telephone traffic
-          via transit carriers. Telecom operators are requested to switch to the hubbing
-          method for routing traffic to PT Indosat
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles. El servicio de telegramas está suprimido. PT Indosat no encamina
-          ni acepta tráfico telefónico procedente de operadores de tránsito. Se invita
-          a los operadores de telecomunicaciones que utilicen un método de concentración
-          para el encaminamiento de su tráfico a PT Indosat
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          ne sont pas acceptées. Le service des télégrammes n'est plus assuré. PT
-          Indosat n'achemine plus et n'accepte plus de trafic téléphonique via des
-          opérateurs de transit. Les opérateurs de télécommunication concernés sont
-          priés de bien vouloir adopter la méthode de concentration (hubbing) pour
-          le routage de leur trafic à destination de PT Indosat.
-    34:
-      geographic_area:
-        fr: Irlande
-        en: Ireland
-        es: Irlanda
-      notes:
-        en: Telephone calls requiring the dispatch of a messenger are no longer admitted.
-        es: No se admiten llamadas telefónicas que requieran el envío de un mensajero
-        fr: Les appels téléphoniques nécessitant l'envoi d'un messager ne sont plus
-          admis.
-    35:
-      geographic_area:
-        fr: Japon
-        en: Japan
-        es: Japón
-      notes:
-        en: Telephone calls requiring the dispatch of a messenger are no longer admitted.
-        es: No se admiten llamadas telefónicas que requieran el envío de un mensajero
-        fr: Les appels téléphoniques nécessitant l'envoi d'un messager ne sont plus
-          admis.
-    36:
-      geographic_area:
-        fr: Kenya
-        en: Kenya
-        es: Kenya
-      notes:
-        en: The international telegram messenger delivery services to physical addresses
-          are not accepted.
-        es: El servicio internacional de entrega de telegramas por mensajero a direcciones
-          físicas está suprimido
-        fr: Les services de remise de télégramme international par messager à des
-          adresses physiques ne sont pas acceptés.
-    37:
-      geographic_area:
-        fr: Koweït
-        en: Kuwait
-        es: Kuwait
-      notes:
-        en: Incoming, outgoing and transit telegrams from or to Israel are not accepted.
-        es: No se admiten los telegramas con destino u origen en Israel, o en tránsito
-          desde o hacia Israel
-        fr: Les télégrammes en provenance ou à destination d'Israël ne sont pas acceptés
-          ni à l'arrivée ni au départ, ni en transit.
-    38:
-      geographic_area:
-        fr: Liban
-        en: Lebanon
-        es: Líbano
-      notes:
-        en: Incoming, outgoing and transit telegrams from or to Israel are not accepted.
-        es: No se admiten los telegramas con destino u origen en Israel, o en tránsito
-          desde o hacia Israel
-        fr: Les télégrammes en provenance ou à destination d'Israël ne sont pas acceptées
-          ni à l'arrivée ni au départ, ni en transit.
-    39:
-      geographic_area:
-        fr: Luxembourg
-        en: Luxembourg
-        es: Luxemburgo
-      notes:
-        en: The telex service is no longer provided.. The telegram service is no longer
-          provided. EPT announces cancellation of the operator service.
-        es: El servicio télex está suprimido. El servicio de telegramas está suprimido.
-          EPT anuncia la cancelación del servicio por operadora
-        fr: Le service télex n'est plus assuré. Le service des télégrammes n'est plus
-          assuré. L'EPT annonce la cessation du service opérateur.
-    40:
-      geographic_area:
-        fr: Madagascar
-        en: Madagascar
-        es: Madagascar
-      notes:
-        en: The telegram service is no longer provided
-        es: El servicio de telegramas está suprimido
-        fr: Le service des télégrammes n'est plus assuré.
-    41:
-      geographic_area:
-        fr: Malaisie
-        en: Malaysia
-        es: Malasia
-      notes:
-        en: The telex service is no longer provided.
-        es: El servicio télex está suprimido
-        fr: Le service télex n'est plus assuré.
-    42:
-      geographic_area:
-        fr: Malawi
-        en: Malawi
-        es: Malawi
-      notes:
-        en: Collect calls to mobile numbers are not accepted
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          ne sont pas acceptées.
-    43:
-      geographic_area:
-        fr: Maldives
-        en: Maldives
-        es: Maldivas
-      notes:
-        en: Collect calls for both outgoing and incoming are not accepted
-        es: No se aceptan llamadas de cobro revertido entrantes ni salientes
-        fr: Les communications entrantes et sortantes payables à l'arrivée ne sont
-          pas acceptées.
-    44:
-      geographic_area:
-        fr: Malte
-        en: Malta
-        es: Malta
-      notes:
-        en: The telegram service is no longer provided. The telex service is no longer
-          provided.
-        es: El servicio de telegramas está suprimido. El servicio télex está suprimido
-        fr: Le service des télégrammes n'est plus assuré. Le service télex n'est plus
-          assuré.
-    45:
-      geographic_area:
-        fr: Maurice
-        en: Mauritius
-        es: Mauricio
-      notes:
-        en: Letter telegrams (LT) and government letter telegrams (LTF) are no longer
-          admitted to and from Mauritius.
-        es: No se aceptan con destino u origen en Mauricio telegramas-carta (LT) ni
-          telegramas-carta de Estado (LTF)
-        fr: Les télégrammes-lettres (LT) et les télégrammes-lettres d’Etat (LTF) ne
-          sont plus admis à destination et en provenance de Maurice.
-    46:
-      geographic_area:
-        fr: Maroc
-        en: Morocco
-        es: Marruecos
-      notes:
-        en: Collect calls to mobile numbers and payphones are not accepted
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles o de teléfonos públicos
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          et de publiphones ne sont pas acceptées.
-    47:
-      geographic_area:
-        fr: Mozambique
-        en: Mozambique
-        es: Mozambique
-      notes:
-        en: The telex service is no longer provided.
-        es: El servicio télex está suprimido
-        fr: Le service télex n'est plus assuré.
-    48:
-      geographic_area:
-        fr: Namibie
-        en: Namibia
-        es: Namibia
-      notes:
-        en: Collect calls to mobile numbers are not accepted
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          ne sont pas acceptées.
-    49:
-      geographic_area:
-        fr: Pays-Bas
-        en: Netherlands
-        es: Países Bajos
-      notes:
-        en: Collect calls to mobile numbers are not accepted
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          ne sont pas acceptées.
-    50:
-      geographic_area:
-        fr: Nouvelle-Calédonie
-        en: New Caledonia
-        es: Nueva Caledonia
-      notes:
-        en: The telex service is no longer provided. The telegram service is no longer
-          provided. Collect calls for both outgoing and incoming are not accepted
-        es: El servicio télex está suprimido. El servicio de telegramas está suprimido.
-          No se aceptan llamadas de cobro revertido entrantes ni salientes
-        fr: Le service télex n'est plus assuré. Le service des télégrammes n'est plus
-          assuré. Les communications entrantes et sortantes payables à l'arrivée ne
-          sont pas acceptées.
-    51:
-      geographic_area:
-        fr: Nouvelle-Zélande
-        en: New Zealand
-        es: Nueva Zelandia
-      notes:
-        en: The telegram service is no longer provided
-        es: El servicio de telegramas está suprimido
-        fr: Le service des télégrammes n'est plus assuré.
-    52:
-      geographic_area:
-        fr: Nigéria
-        en: Nigeria
-        es: Nigeria
-      notes:
-        en: 'Due to present congestion in Lagos Port, the harbour authority will reject
-          messages from any ship without the following particulars: a) ship''s name;
-          b) call sign; c) agent''s name; d) overall length; e) draught; f) tonnage
-          loaded; g) nature of cargo; h) last port of call; i) date and local time
-          of ship arrival outside bar.'
-        es: 'Debido a la actual congestión en el puerto de Lagos, las autoridades
-          portuarias rechazarán todo mensaje de barco que no contenga los siguientes
-          datos: a) nombre del barco; b) distintivo de llamada; c) nombre del agente;
-          d) eslora total; e) calado; f) tonelaje; g) naturaleza del cargamento; h)
-          último puerto de escala; i) fecha y hora local de llegada del barco a la
-          barra exterior'
-        fr: 'En raison de l’encombrement du port de Lagos, l’autorité portuaire refusera
-          les messages provenant de quelque navire que ce soit si les indications
-          suivantes ne figurent pas: a) nom du navire; b) indicatif d’appel; c) nom
-          de l’agent; d) longueur hors tout; e) tirant d’eau; f) tonnage chargé; g)
-          nature de la cargaison; h) dernier port d’escale; i) date et heure locale
-          d’arrivée du navire à l’extérieur de la barre.'
-    53:
-      geographic_area:
-        fr: Norvège
-        en: Norway
-        es: Noruega
-      notes:
-        en: Telenor will no longer provide collect calls from Norway. Collect calls
-          to Norway will however continue to be accepted.
-        es: Telenor no acepta llamadas de cobro revertido efectuadas desde Noruega,
-          pero seguirá aceptando llamadas de cobro revertido recibidas en el país
-        fr: Telenor n'acceptera plus de communications payables à l'arrivée en provenance
-          de la Norvège. Toutefois, les communications payables à l'arrivée à destination
-          de la Norvège continueront d'être acceptées.
-    54:
-      geographic_area:
-        fr: Pakistan
-        en: Pakistan
-        es: Pakistán
-      notes:
-        en: The telecommunication service with Israel is suspended. The telex service
-          is no longer provided. The telegram service is no longer provided.
-        es: El servicio de telecomunicaciones con Israel está suspendido . El servicio
-          télex está suprimido. El servicio de telegramas está suprimido
-        fr: Le service de télécommunication avec Israël est suspendu.  Le service
-          télex n'est plus assuré. Le service des télégrammes n'est plus assuré.
-    55:
-      geographic_area:
-        fr: Panama
-        en: Panama
-        es: Panamá
-      notes:
-        en: Collect calls to mobile numbers are not accepted
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          ne sont pas acceptées.
-    56:
-      geographic_area:
-        fr: Papouasie-Nouvelle-Guinée
-        en: Papua New Guinea
-        es: Papua Nueva Guinea
-      notes:
-        en: Collect calls to mobile numbers are not accepted. The telex service is
-          no longer provided.
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles. El servicio télex está suprimido
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          ne sont pas acceptées. Le service télex n'est plus assuré.
-    57:
-      geographic_area:
-        fr: Pérou
-        en: Peru
-        es: Perú
-      notes:
-        en: Collect calls for both outgoing and incoming are not accepted
-        es: No se aceptan llamadas de cobro revertido entrantes ni salientes
-        fr: Les communications entrantes et sortantes payables à l'arrivée ne sont
-          pas acceptées.
-    58:
-      geographic_area:
-        fr: Pologne
-        en: Poland
-        es: Polonía
-      notes:
-        en: The telegram service is no longer provided. The telex service is no longer
-          provided.
-        es: El servicio de telegramas está suprimido. El servicio télex está suprimido
-        fr: Le service des télégrammes n'est plus assuré. Le service télex n'est plus
-          assuré.
-    59:
-      geographic_area:
-        fr: Russie (Fédération de)
-        en: Russian Federation
-        es: Rusia (Federación de)
-      notes:
-        en: Rostelecom announces that letter telegrams (LT), government letter telegrams
-          (LTF) and telegrams with special service "URGENT" (Urgent transmission and
-          delivery) are not accepted within the framework of telegraph traffic (terminating
-          and originating) with Russia.
-        es: Rostelecom anuncia que, en el marco del tráfico telegráfico (de terminación
-          y de origen) con Rusia, no se aceptan telegramas-carta (LT), telegramas-carta
-          de Estado (LTF) ni telegramas con servicio especial “URGENT” (transmisión
-          y entrega urgentes)
-        fr: Rostelecom annonce que les télégrammes-lettres (LT), les télégrammes-lettres
-          d’Etat (LTF) et les télégrammes avec le service spécial «URGENT» (transmission
-          et remise urgentes) ne sont pas acceptés dans le cadre du trafic télégraphique
-          avec la Russie (d’arrivée et de départ).
-    60:
-      geographic_area:
-        fr: Sainte-Hélène, Ascension et Tristan da Cunha
-        en: Saint Helena, Ascension and Tristan da Cunha
-        es: Santa Elena, Ascensión y Tristan da Cunha
-      notes:
-        en: The telex service is no longer provided. The telegram service is no longer
-          provided
-        es: El servicio télex está suprimido. El servicio de telegramas está suprimido
-        fr: Le service télex n'est plus assuré. Le service des télégrammes n'est plus
-          assuré.
-    61:
-      geographic_area:
-        fr: Sainte-Lucie
-        en: Saint Lucia
-        es: Santa Lucía
-      notes:
-        en: Collect calls to mobile numbers are not accepted
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          ne sont pas acceptées.
-    62:
-      geographic_area:
-        fr: Saint-Vincent-et-les-Grenadines
-        en: Saint Vincent and the Grenadines
-        es: San Vicente y las Granadinas
-      notes:
-        en: Collect calls to mobile numbers are not accepted
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          ne sont pas acceptées.
-    63:
-      geographic_area:
-        fr: Samoa
-        en: Samoa
-        es: Samoa
-      notes:
-        en: The telex service is no longer provided.
-        es: El servicio télex está suprimido
-        fr: Le service télex n'est plus assuré.
-    64:
-      geographic_area:
-        fr: Saint-Marin
-        en: San Marino
-        es: San Marino
-      notes:
-        en: Intelcom San Marino no longer route nor accept telephone traffic via transit
-          carriers. Telecom operators are requested to switch to the hubbing method
-          for routing traffic to Intelcom San Marino.
-        es: Intelcom San Marino no encamina ni acepta tráfico telefónico procedente
-          de operadores de tránsito. Se invita a los operadores de telecomunicaciones
-          que utilicen un método de concentración para el encaminamiento de su tráfico
-          a Intelcom San Marino
-        fr: Intelcom San Marino n'achemine plus et n'accepte plus de trafic téléphonique
-          via des opérateurs de transit. Les opérateurs de télécommunication concernés
-          sont priés de bien vouloir adopter la méthode de concentration (hubbing)
-          pour le routage de leur trafic à destination de Intelcom San Marino.
-    65:
-      geographic_area:
-        fr: Sao Tomé-et-Principe
-        en: Sao Tome and Principe
-        es: Santo Tomé y Príncipe
-      notes:
-        en: The telex service is no longer provided.
-        es: El servicio télex está suprimido
-        fr: Le service télex n'est plus assuré.
-    66:
-      geographic_area:
-        fr: Arabie saoudite
-        en: Saudi Arabia
-        es: Arabia Saudita
-      notes:
-        en: Collect calls for both outgoing and incoming are not accepted
-        es: No se aceptan llamadas de cobro revertido entrantes ni salientes
-        fr: Les communications entrantes et sortantes payables à l'arrivée ne sont
-          pas acceptées.
-    67:
-      geographic_area:
-        fr: Serbie
-        en: Serbia
-        es: Serbia
-      notes:
-        en: Collect calls to mobile numbers are not accepted. The telex service is
-          no longer provided. The Operator-Assisted Call Service for semi-automatic
-          calls (inbound and outbound) is not admitted.
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles. El servicio télex está suprimido. No se admiten llamadas semiautomáticas
-          (de entrada y de salida) del servicio telefónico con asistencia de operadora
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          ne sont pas acceptées. Le service télex n'est plus assuré. Le service d’appel
-          avec assistance d’une opératrice pour les appels semi-automatiques (entrants
-          et sortants) n'est pas admis.
-    68:
-      geographic_area:
-        fr: Seychelles
-        en: Seychelles
-        es: Seychelles
-      notes:
-        en: Collect calls to mobile numbers are not accepted
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          ne sont pas acceptées.
-    69:
-      geographic_area:
-        fr: Singapour
-        en: Singapore
-        es: Singapur
-      notes:
-        en: The telegram service is no longer provided. Singapore Telecommunications
-          Ltd ("SingTel"), Singapore, announces that incoming international operator-assisted
-          calls and collect calls sent to Singapore Telecommunications Ltd ("SingTel")
-          will not be terminated to subscribers of MobileOne (Asia) Pte Ltd and StarHub
-          Mobile Pte Ltd unless the subscribers of these two (2) mobile companies
-          have specifically registered with SingTel to receive such calls. Singapore
-          Telecom Mobile Pte Ltd ("SingTel Mobile") will continue to accept such calls
-          for termination to their subscribers.
-        es: El servicio de telegramas está suprimido. Singapore Telecommunications
-          Ltd (“SingTel”), Singapur, anuncia que las llamadas internacionales entrantes
-          con asistencia de operadora y las llamadas de cobro revertido enviadas a
-          Singapore Telecommunications Ltd (“SingTel”) no se transmitirán a los abonados
-          de MobileOne (Asia) Pte Ltd. ni de StarHub Mobile Pte Ltd a menos que los
-          abonados a estas dos (2) empresas de telefonía móvil estén inscritos en
-          SingTel para la recepción de esas llamadas. Singapore Telecom Mobile Pte
-          Ltd (“SingTel Mobile”) seguirá aceptando esas llamadas con terminación en
-          sus abonados.
-        fr: Le service des télégrammes n'est plus assuré. Singapore Telecommunications
-          Ltd («SingTel»), Singapour, annonce que les appels internationaux entrants
-          avec assistance d’une opératrice et les communications payables à l’arrivée
-          à destination de Singapore Telecommunications Ltd («SingTel») ne seront
-          pas acheminés vers les abonnés de MobileOne (Asia) Pte Ltd et StarHub Mobile
-          Pte Ltd à moins que les abonnés de ces deux (2) compagnies de téléphonie
-          mobile se soient enregistrés auprès de SingTel pour recevoir ces appels.
-          Singapore Telecom Mobile Pte Ltd («SingTel Mobile») continuera à accepter
-          ces appels à destination de ses abonnés.
-    70:
-      geographic_area:
-        fr: Slovaquie
-        en: Slovakia
-        es: Eslovaquia
-      notes:
-        en: Collect calls for both outgoing and incoming are not accepted. The telex
-          service is no longer provided. The telegram service is no longer provided.
-        es: No se aceptan llamadas de cobro revertido entrantes ni salientes. El servicio
-          télex está suprimido. El servicio de telegramas está suprimido.
-        fr: Les communications entrantes et sortantes payables à l'arrivée ne sont
-          pas acceptées. Le service télex n'est plus assuré. Le service des télégrammes
-          n'est plus assuré.
-    71:
-      geographic_area:
-        fr: Slovénie
-        en: Slovenia
-        es: Eslovenia
-      notes:
-        en: Telegrams with the special service TLXx (Telex delivery) are no longer
-          admitted to and from Slovenia
-        es: No se aceptan con destino u origen en Eslovenia telegramas con el servicio
-          especial TLXx (entrega de télex)
-        fr: Les télégrammes avec le service spécial TLXx (remise par télex) ne sont
-          plus admis à destination et en provenance de la Slovénie.
-    72:
+  Danemark:
+    geographic_area:
+      fr: Danemark
+      en: Denmark
+      es: Dinamarca
+    notes:
+      en: The telegram service is no longer provided.
+      es: El servicio de telegramas está suprimido
+      fr: Le service des télégrammes n'est plus assuré.
+  Dominique:
+    geographic_area:
+      fr: Dominique
+      en: Dominica
+      es: Dominica
+    notes:
+      en: Collect calls to mobile numbers are not accepted
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées.
+  Féroé (Iles):
+    geographic_area:
+      fr: Féroé (Iles)
+      en: Faroe (Island)
+      es: Faroe (Islas)
+    notes:
+      en: The telex service is no longer provided. The telegram service is no longer
+        provided
+      es: El servicio télex está suprimido. El servicio de telegramas está suprimido
+      fr: Le service télex n'est plus assuré. Le service des télégrammes n'est plus
+        assuré.
+  Fidji:
+    geographic_area:
+      fr: Fidji
+      en: Fiji
+      es: Fiji
+    notes:
+      en: The telex service is no longer provided. The telegram service is no longer
+        provided. Collect calls to mobile numbers are not accepted
+      es: El servicio télex está suprimido. El servicio de telegramas está suprimido.
+        No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles
+      fr: Le service télex n'est plus assuré. Le service des télégrammes n'est plus
+        assuré. Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées.
+  Finlande:
+    geographic_area:
+      fr: Finlande
+      en: Finland
+      es: Finlandia
+    notes:
+      en: Sonera announces the closure of the Booked Call Service (booked personal
+        telephone calls requiring the dispatch of a messenger).
+      es: Sonera anuncia la clausura del servicio de petición de llamadas (llamadas
+        telefónicas personales que requieren el envío de un mensajero)
+      fr: Sonera annonce la fermeture du service de réservation de communications
+        (réservation de communications téléphoniques personnelles nécessitant l'envoi
+        d'un messager).
+  France:
+    geographic_area:
+      fr: France
+      en: France
+      es: Francia
+    notes:
+      en: France Telecom has discontinued the international collect call service.
+      es: France Telecom ha suspendido el servicio internacional de llamadas de cobro
+        revertido
+      fr: France Telecom a arrêté le service international de communications payables
+        à l'arrivée.
+  Gibraltar:
+    geographic_area:
+      fr: Gibraltar
+      en: Gibraltar
+      es: Gibraltar
+    notes:
+      en: Collect calls to mobile numbers are not accepted. The telegram service is
+        no longer provided
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles. El servicio de telegramas está suprimido
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées. Le service des télégrammes n'est plus assuré.
+  Groenland:
+    geographic_area:
+      fr: Groenland
+      en: Greenland
+      es: Groenlandia
+    notes:
+      en: The telegram service is no longer provided. Telephone calls requiring the
+        dispatch of a messenger are no longer admitted.
+      es: El servicio de telegramas está suprimido. No se admiten llamadas telefónicas
+        que requieran el envío de un mensajero
+      fr: Le service des télégrammes n'est plus assuré. Les appels téléphoniques nécessitant
+        l'envoi d'un messager ne sont plus admis.
+  Guyana:
+    geographic_area:
+      fr: Guyana
+      en: Guyana
+      es: Guyana
+    notes:
+      en: The telex service is no longer provided. The telegram service is no longer
+        provided. Collect calls to mobile numbers are not accepted
+      es: El servicio télex está suprimido. El servicio de telegramas está suprimido.
+        No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles
+      fr: Le service télex n'est plus assuré. Le service des télégrammes n'est plus
+        assuré. Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées.
+  Haïti:
+    geographic_area:
+      fr: Haïti
+      en: Haiti
+      es: Haiti
+    notes:
+      en: The telex service is no longer provided.
+      es: El servicio télex está suprimido
+      fr: Le service télex n'est plus assuré.
+  Honduras:
+    geographic_area:
+      fr: Honduras
+      en: Honduras
+      es: Honduras
+    notes:
+      en: Collect calls to mobile numbers are not accepted
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées.
+  Hong Kong, Chine:
+    geographic_area:
+      fr: Hong Kong, Chine
+      en: Hong Kong, China
+      es: Hong Kong, China
+    notes:
+      en: The telegram service and CT2 service are no longer provided
+      es: El servicio de telegramas y el servicio CT2 están suprimidos
+      fr: Le service des télégrammes et le service CT2 ne sont plus assurés.
+  Hongrie:
+    geographic_area:
+      fr: Hongrie
+      en: Hungary
+      es: Hungría
+    notes:
+      en: The telex service is no longer provided. The telegram service is no longer
+        provided. Collect calls for both outgoing and incoming are not accepted
+      es: El servicio télex está suprimido. El servicio de telegramas está suprimido.
+        No se aceptan llamadas de cobro revertido entrantes ni salientes
+      fr: Le service télex n'est plus assuré. Le service des télégrammes n'est plus
+        assuré. Les communications entrantes et sortantes payables à l'arrivée ne
+        sont pas acceptées.
+  Islande:
+    geographic_area:
+      fr: Islande
+      en: Iceland
+      es: Islandia
+    notes:
+      en: The telex service is no longer provided. Collect calls for both outgoing
+        and incoming are not accepted
+      es: El servicio télex está suprimido. No se aceptan llamadas de cobro revertido
+        entrantes ni salientes
+      fr: Le service télex n'est plus assuré. Les communications entrantes et sortantes
+        payables à l'arrivée ne sont pas acceptées.
+  Indonésie:
+    geographic_area:
+      fr: Indonésie
+      en: Indonesia
+      es: Indonesia
+    notes:
+      en: Collect calls to mobile numbers are not accepted. The telegram service is
+        no longer provided. PT Indosat no longer route nor accept telephone traffic
+        via transit carriers. Telecom operators are requested to switch to the hubbing
+        method for routing traffic to PT Indosat
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles. El servicio de telegramas está suprimido. PT Indosat no encamina
+        ni acepta tráfico telefónico procedente de operadores de tránsito. Se invita
+        a los operadores de telecomunicaciones que utilicen un método de concentración
+        para el encaminamiento de su tráfico a PT Indosat
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées. Le service des télégrammes n'est plus assuré. PT Indosat
+        n'achemine plus et n'accepte plus de trafic téléphonique via des opérateurs
+        de transit. Les opérateurs de télécommunication concernés sont priés de bien
+        vouloir adopter la méthode de concentration (hubbing) pour le routage de leur
+        trafic à destination de PT Indosat.
+  Irlande:
+    geographic_area:
+      fr: Irlande
+      en: Ireland
+      es: Irlanda
+    notes:
+      en: Telephone calls requiring the dispatch of a messenger are no longer admitted.
+      es: No se admiten llamadas telefónicas que requieran el envío de un mensajero
+      fr: Les appels téléphoniques nécessitant l'envoi d'un messager ne sont plus
+        admis.
+  Japon:
+    geographic_area:
+      fr: Japon
+      en: Japan
+      es: Japón
+    notes:
+      en: Telephone calls requiring the dispatch of a messenger are no longer admitted.
+      es: No se admiten llamadas telefónicas que requieran el envío de un mensajero
+      fr: Les appels téléphoniques nécessitant l'envoi d'un messager ne sont plus
+        admis.
+  Kenya:
+    geographic_area:
+      fr: Kenya
+      en: Kenya
+      es: Kenya
+    notes:
+      en: The international telegram messenger delivery services to physical addresses
+        are not accepted.
+      es: El servicio internacional de entrega de telegramas por mensajero a direcciones
+        físicas está suprimido
+      fr: Les services de remise de télégramme international par messager à des adresses
+        physiques ne sont pas acceptés.
+  Koweït:
+    geographic_area:
+      fr: Koweït
+      en: Kuwait
+      es: Kuwait
+    notes:
+      en: Incoming, outgoing and transit telegrams from or to Israel are not accepted.
+      es: No se admiten los telegramas con destino u origen en Israel, o en tránsito
+        desde o hacia Israel
+      fr: Les télégrammes en provenance ou à destination d'Israël ne sont pas acceptés
+        ni à l'arrivée ni au départ, ni en transit.
+  Liban:
+    geographic_area:
+      fr: Liban
+      en: Lebanon
+      es: Líbano
+    notes:
+      en: Incoming, outgoing and transit telegrams from or to Israel are not accepted.
+      es: No se admiten los telegramas con destino u origen en Israel, o en tránsito
+        desde o hacia Israel
+      fr: Les télégrammes en provenance ou à destination d'Israël ne sont pas acceptées
+        ni à l'arrivée ni au départ, ni en transit.
+  Luxembourg:
+    geographic_area:
+      fr: Luxembourg
+      en: Luxembourg
+      es: Luxemburgo
+    notes:
+      en: The telex service is no longer provided.. The telegram service is no longer
+        provided. EPT announces cancellation of the operator service.
+      es: El servicio télex está suprimido. El servicio de telegramas está suprimido.
+        EPT anuncia la cancelación del servicio por operadora
+      fr: Le service télex n'est plus assuré. Le service des télégrammes n'est plus
+        assuré. L'EPT annonce la cessation du service opérateur.
+  Madagascar:
+    geographic_area:
+      fr: Madagascar
+      en: Madagascar
+      es: Madagascar
+    notes:
+      en: The telegram service is no longer provided
+      es: El servicio de telegramas está suprimido
+      fr: Le service des télégrammes n'est plus assuré.
+  Malaisie:
+    geographic_area:
+      fr: Malaisie
+      en: Malaysia
+      es: Malasia
+    notes:
+      en: The telex service is no longer provided.
+      es: El servicio télex está suprimido
+      fr: Le service télex n'est plus assuré.
+  Malawi:
+    geographic_area:
+      fr: Malawi
+      en: Malawi
+      es: Malawi
+    notes:
+      en: Collect calls to mobile numbers are not accepted
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées.
+  Maldives:
+    geographic_area:
+      fr: Maldives
+      en: Maldives
+      es: Maldivas
+    notes:
+      en: Collect calls for both outgoing and incoming are not accepted
+      es: No se aceptan llamadas de cobro revertido entrantes ni salientes
+      fr: Les communications entrantes et sortantes payables à l'arrivée ne sont pas
+        acceptées.
+  Malte:
+    geographic_area:
+      fr: Malte
+      en: Malta
+      es: Malta
+    notes:
+      en: The telegram service is no longer provided. The telex service is no longer
+        provided.
+      es: El servicio de telegramas está suprimido. El servicio télex está suprimido
+      fr: Le service des télégrammes n'est plus assuré. Le service télex n'est plus
+        assuré.
+  Maurice:
+    geographic_area:
+      fr: Maurice
+      en: Mauritius
+      es: Mauricio
+    notes:
+      en: Letter telegrams (LT) and government letter telegrams (LTF) are no longer
+        admitted to and from Mauritius.
+      es: No se aceptan con destino u origen en Mauricio telegramas-carta (LT) ni
+        telegramas-carta de Estado (LTF)
+      fr: Les télégrammes-lettres (LT) et les télégrammes-lettres d’Etat (LTF) ne
+        sont plus admis à destination et en provenance de Maurice.
+  Maroc:
+    geographic_area:
+      fr: Maroc
+      en: Morocco
+      es: Marruecos
+    notes:
+      en: Collect calls to mobile numbers and payphones are not accepted
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles o de teléfonos públicos
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        et de publiphones ne sont pas acceptées.
+  Mozambique:
+    geographic_area:
+      fr: Mozambique
+      en: Mozambique
+      es: Mozambique
+    notes:
+      en: The telex service is no longer provided.
+      es: El servicio télex está suprimido
+      fr: Le service télex n'est plus assuré.
+  Namibie:
+    geographic_area:
+      fr: Namibie
+      en: Namibia
+      es: Namibia
+    notes:
+      en: Collect calls to mobile numbers are not accepted
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées.
+  Pays-Bas:
+    geographic_area:
+      fr: Pays-Bas
+      en: Netherlands
+      es: Países Bajos
+    notes:
+      en: Collect calls to mobile numbers are not accepted
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées.
+  Nouvelle-Calédonie:
+    geographic_area:
+      fr: Nouvelle-Calédonie
+      en: New Caledonia
+      es: Nueva Caledonia
+    notes:
+      en: The telex service is no longer provided. The telegram service is no longer
+        provided. Collect calls for both outgoing and incoming are not accepted
+      es: El servicio télex está suprimido. El servicio de telegramas está suprimido.
+        No se aceptan llamadas de cobro revertido entrantes ni salientes
+      fr: Le service télex n'est plus assuré. Le service des télégrammes n'est plus
+        assuré. Les communications entrantes et sortantes payables à l'arrivée ne
+        sont pas acceptées.
+  Nouvelle-Zélande:
+    geographic_area:
+      fr: Nouvelle-Zélande
+      en: New Zealand
+      es: Nueva Zelandia
+    notes:
+      en: The telegram service is no longer provided
+      es: El servicio de telegramas está suprimido
+      fr: Le service des télégrammes n'est plus assuré.
+  Nigéria:
+    geographic_area:
+      fr: Nigéria
+      en: Nigeria
+      es: Nigeria
+    notes:
+      en: 'Due to present congestion in Lagos Port, the harbour authority will reject
+        messages from any ship without the following particulars: a) ship''s name;
+        b) call sign; c) agent''s name; d) overall length; e) draught; f) tonnage
+        loaded; g) nature of cargo; h) last port of call; i) date and local time of
+        ship arrival outside bar.'
+      es: 'Debido a la actual congestión en el puerto de Lagos, las autoridades portuarias
+        rechazarán todo mensaje de barco que no contenga los siguientes datos: a)
+        nombre del barco; b) distintivo de llamada; c) nombre del agente; d) eslora
+        total; e) calado; f) tonelaje; g) naturaleza del cargamento; h) último puerto
+        de escala; i) fecha y hora local de llegada del barco a la barra exterior'
+      fr: 'En raison de l’encombrement du port de Lagos, l’autorité portuaire refusera
+        les messages provenant de quelque navire que ce soit si les indications suivantes
+        ne figurent pas: a) nom du navire; b) indicatif d’appel; c) nom de l’agent;
+        d) longueur hors tout; e) tirant d’eau; f) tonnage chargé; g) nature de la
+        cargaison; h) dernier port d’escale; i) date et heure locale d’arrivée du
+        navire à l’extérieur de la barre.'
+  Norvège:
+    geographic_area:
+      fr: Norvège
+      en: Norway
+      es: Noruega
+    notes:
+      en: Telenor will no longer provide collect calls from Norway. Collect calls
+        to Norway will however continue to be accepted.
+      es: Telenor no acepta llamadas de cobro revertido efectuadas desde Noruega,
+        pero seguirá aceptando llamadas de cobro revertido recibidas en el país
+      fr: Telenor n'acceptera plus de communications payables à l'arrivée en provenance
+        de la Norvège. Toutefois, les communications payables à l'arrivée à destination
+        de la Norvège continueront d'être acceptées.
+  Pakistan:
+    geographic_area:
+      fr: Pakistan
+      en: Pakistan
+      es: Pakistán
+    notes:
+      en: The telecommunication service with Israel is suspended. The telex service
+        is no longer provided. The telegram service is no longer provided.
+      es: El servicio de telecomunicaciones con Israel está suspendido . El servicio
+        télex está suprimido. El servicio de telegramas está suprimido
+      fr: Le service de télécommunication avec Israël est suspendu.  Le service télex
+        n'est plus assuré. Le service des télégrammes n'est plus assuré.
+  Panama:
+    geographic_area:
+      fr: Panama
+      en: Panama
+      es: Panamá
+    notes:
+      en: Collect calls to mobile numbers are not accepted
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées.
+  Papouasie-Nouvelle-Guinée:
+    geographic_area:
+      fr: Papouasie-Nouvelle-Guinée
+      en: Papua New Guinea
+      es: Papua Nueva Guinea
+    notes:
+      en: Collect calls to mobile numbers are not accepted. The telex service is no
+        longer provided.
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles. El servicio télex está suprimido
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées. Le service télex n'est plus assuré.
+  Pérou:
+    geographic_area:
+      fr: Pérou
+      en: Peru
+      es: Perú
+    notes:
+      en: Collect calls for both outgoing and incoming are not accepted
+      es: No se aceptan llamadas de cobro revertido entrantes ni salientes
+      fr: Les communications entrantes et sortantes payables à l'arrivée ne sont pas
+        acceptées.
+  Pologne:
+    geographic_area:
+      fr: Pologne
+      en: Poland
+      es: Polonía
+    notes:
+      en: The telegram service is no longer provided. The telex service is no longer
+        provided.
+      es: El servicio de telegramas está suprimido. El servicio télex está suprimido
+      fr: Le service des télégrammes n'est plus assuré. Le service télex n'est plus
+        assuré.
+  Russie (Fédération de):
+    geographic_area:
+      fr: Russie (Fédération de)
+      en: Russian Federation
+      es: Rusia (Federación de)
+    notes:
+      en: Rostelecom announces that letter telegrams (LT), government letter telegrams
+        (LTF) and telegrams with special service "URGENT" (Urgent transmission and
+        delivery) are not accepted within the framework of telegraph traffic (terminating
+        and originating) with Russia.
+      es: Rostelecom anuncia que, en el marco del tráfico telegráfico (de terminación
+        y de origen) con Rusia, no se aceptan telegramas-carta (LT), telegramas-carta
+        de Estado (LTF) ni telegramas con servicio especial “URGENT” (transmisión
+        y entrega urgentes)
+      fr: Rostelecom annonce que les télégrammes-lettres (LT), les télégrammes-lettres
+        d’Etat (LTF) et les télégrammes avec le service spécial «URGENT» (transmission
+        et remise urgentes) ne sont pas acceptés dans le cadre du trafic télégraphique
+        avec la Russie (d’arrivée et de départ).
+  Sainte-Hélène, Ascension et Tristan da Cunha:
+    geographic_area:
+      fr: Sainte-Hélène, Ascension et Tristan da Cunha
+      en: Saint Helena, Ascension and Tristan da Cunha
+      es: Santa Elena, Ascensión y Tristan da Cunha
+    notes:
+      en: The telex service is no longer provided. The telegram service is no longer
+        provided
+      es: El servicio télex está suprimido. El servicio de telegramas está suprimido
+      fr: Le service télex n'est plus assuré. Le service des télégrammes n'est plus
+        assuré.
+  Sainte-Lucie:
+    geographic_area:
+      fr: Sainte-Lucie
+      en: Saint Lucia
+      es: Santa Lucía
+    notes:
+      en: Collect calls to mobile numbers are not accepted
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées.
+  Saint-Vincent-et-les-Grenadines:
+    geographic_area:
+      fr: Saint-Vincent-et-les-Grenadines
+      en: Saint Vincent and the Grenadines
+      es: San Vicente y las Granadinas
+    notes:
+      en: Collect calls to mobile numbers are not accepted
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées.
+  Samoa:
+    geographic_area:
+      fr: Samoa
+      en: Samoa
+      es: Samoa
+    notes:
+      en: The telex service is no longer provided.
+      es: El servicio télex está suprimido
+      fr: Le service télex n'est plus assuré.
+  Saint-Marin:
+    geographic_area:
+      fr: Saint-Marin
+      en: San Marino
+      es: San Marino
+    notes:
+      en: Intelcom San Marino no longer route nor accept telephone traffic via transit
+        carriers. Telecom operators are requested to switch to the hubbing method
+        for routing traffic to Intelcom San Marino.
+      es: Intelcom San Marino no encamina ni acepta tráfico telefónico procedente
+        de operadores de tránsito. Se invita a los operadores de telecomunicaciones
+        que utilicen un método de concentración para el encaminamiento de su tráfico
+        a Intelcom San Marino
+      fr: Intelcom San Marino n'achemine plus et n'accepte plus de trafic téléphonique
+        via des opérateurs de transit. Les opérateurs de télécommunication concernés
+        sont priés de bien vouloir adopter la méthode de concentration (hubbing) pour
+        le routage de leur trafic à destination de Intelcom San Marino.
+  Sao Tomé-et-Principe:
+    geographic_area:
+      fr: Sao Tomé-et-Principe
+      en: Sao Tome and Principe
+      es: Santo Tomé y Príncipe
+    notes:
+      en: The telex service is no longer provided.
+      es: El servicio télex está suprimido
+      fr: Le service télex n'est plus assuré.
+  Arabie saoudite:
+    geographic_area:
+      fr: Arabie saoudite
+      en: Saudi Arabia
+      es: Arabia Saudita
+    notes:
+      en: Collect calls for both outgoing and incoming are not accepted
+      es: No se aceptan llamadas de cobro revertido entrantes ni salientes
+      fr: Les communications entrantes et sortantes payables à l'arrivée ne sont pas
+        acceptées.
+  Serbie:
+    geographic_area:
+      fr: Serbie
+      en: Serbia
+      es: Serbia
+    notes:
+      en: Collect calls to mobile numbers are not accepted. The telex service is no
+        longer provided. The Operator-Assisted Call Service for semi-automatic calls
+        (inbound and outbound) is not admitted.
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles. El servicio télex está suprimido. No se admiten llamadas semiautomáticas
+        (de entrada y de salida) del servicio telefónico con asistencia de operadora
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées. Le service télex n'est plus assuré. Le service d’appel
+        avec assistance d’une opératrice pour les appels semi-automatiques (entrants
+        et sortants) n'est pas admis.
+  Seychelles:
+    geographic_area:
+      fr: Seychelles
+      en: Seychelles
+      es: Seychelles
+    notes:
+      en: Collect calls to mobile numbers are not accepted
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées.
+  Singapour:
+    geographic_area:
+      fr: Singapour
+      en: Singapore
+      es: Singapur
+    notes:
+      en: The telegram service is no longer provided. Singapore Telecommunications
+        Ltd ("SingTel"), Singapore, announces that incoming international operator-assisted
+        calls and collect calls sent to Singapore Telecommunications Ltd ("SingTel")
+        will not be terminated to subscribers of MobileOne (Asia) Pte Ltd and StarHub
+        Mobile Pte Ltd unless the subscribers of these two (2) mobile companies have
+        specifically registered with SingTel to receive such calls. Singapore Telecom
+        Mobile Pte Ltd ("SingTel Mobile") will continue to accept such calls for termination
+        to their subscribers.
+      es: El servicio de telegramas está suprimido. Singapore Telecommunications Ltd
+        (“SingTel”), Singapur, anuncia que las llamadas internacionales entrantes
+        con asistencia de operadora y las llamadas de cobro revertido enviadas a Singapore
+        Telecommunications Ltd (“SingTel”) no se transmitirán a los abonados de MobileOne
+        (Asia) Pte Ltd. ni de StarHub Mobile Pte Ltd a menos que los abonados a estas
+        dos (2) empresas de telefonía móvil estén inscritos en SingTel para la recepción
+        de esas llamadas. Singapore Telecom Mobile Pte Ltd (“SingTel Mobile”) seguirá
+        aceptando esas llamadas con terminación en sus abonados.
+      fr: Le service des télégrammes n'est plus assuré. Singapore Telecommunications
+        Ltd («SingTel»), Singapour, annonce que les appels internationaux entrants
+        avec assistance d’une opératrice et les communications payables à l’arrivée
+        à destination de Singapore Telecommunications Ltd («SingTel») ne seront pas
+        acheminés vers les abonnés de MobileOne (Asia) Pte Ltd et StarHub Mobile Pte
+        Ltd à moins que les abonnés de ces deux (2) compagnies de téléphonie mobile
+        se soient enregistrés auprès de SingTel pour recevoir ces appels. Singapore
+        Telecom Mobile Pte Ltd («SingTel Mobile») continuera à accepter ces appels
+        à destination de ses abonnés.
+  Slovaquie:
+    geographic_area:
+      fr: Slovaquie
+      en: Slovakia
+      es: Eslovaquia
+    notes:
+      en: Collect calls for both outgoing and incoming are not accepted. The telex
+        service is no longer provided. The telegram service is no longer provided.
+      es: No se aceptan llamadas de cobro revertido entrantes ni salientes. El servicio
+        télex está suprimido. El servicio de telegramas está suprimido.
+      fr: Les communications entrantes et sortantes payables à l'arrivée ne sont pas
+        acceptées. Le service télex n'est plus assuré. Le service des télégrammes
+        n'est plus assuré.
+  Slovénie:
+    geographic_area:
+      fr: Slovénie
+      en: Slovenia
+      es: Eslovenia
+    notes:
+      en: Telegrams with the special service TLXx (Telex delivery) are no longer admitted
+        to and from Slovenia
+      es: No se aceptan con destino u origen en Eslovenia telegramas con el servicio
+        especial TLXx (entrega de télex)
+      fr: Les télégrammes avec le service spécial TLXx (remise par télex) ne sont
+        plus admis à destination et en provenance de la Slovénie.
+  Sudafricaine (Rép:
+    ")":
       geographic_area:
         fr: Sudafricaine (Rép.)
         en: South Africa
@@ -901,185 +899,183 @@ data:
           télégrammes-lettres d'Etat (LTF) et les télégrammes avec le service spécial
           URGENT (transmission et remise urgentes) et LX (formule de luxe) ne sont
           pas acceptés à destination et en provenance de la République sudafricaine.
-    73:
-      geographic_area:
-        fr: Sri Lanka
-        en: Sri Lanka
-        es: Sri Lanka
-      notes:
-        en: No incoming calls are allowed for payphones in Sri Lanka
-        es: No se autorizan llamadas efectuadas a teléfonos públicos
-        fr: Aucun appel entrant à destination de publiphones n'est admis au Sri Lanka.
-    74:
-      geographic_area:
-        fr: Soudan
-        en: Sudan
-        es: Sudán
-      notes:
-        en: The telecommunication service with Israel is suspended.
-        es: El servicio de telecomunicaciones con Israel está suspendido
-        fr: Le service de télécommunication avec Israël est suspendu.
-    75:
-      geographic_area:
-        fr: Suriname
-        en: Suriname
-        es: Suriname
-      notes:
-        en: The telegram service is no longer provided. The telex service is no longer
-          provided.
-        es: El servicio de telegramas está suprimido. El servicio télex está suprimido
-        fr: Le service des télégrammes n'est plus assuré. Le service télex n'est plus
-          assuré.
-    76:
-      geographic_area:
-        fr: Swaziland
-        en: Swaziland
-        es: Swazilandia
-      notes:
-        en: Collect calls to mobile numbers and virtual telephony are not accepted
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles ni de telefonía virtual
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          et d'abonnés de la téléphonie virtuelle ne sont pas acceptées.
-    77:
-      geographic_area:
-        fr: Suède
-        en: Sweden
-        es: Suecia
-      notes:
-        en: TeliaSonera no longer accept single ticket method collect calls to Sweden,
-          nor provide Home Country Direct from and to Sweden.
-        es: TeliaSonera no aceptará llamadas de cobro revertido por el método de ticket
-          único con destino a Suecia, ni proporcionará el servicio país directo desde
-          y hacia ese país
-        fr: TeliaSonera n'accepte plus de communications payables à l'arrivée de type
-          "à ticket unique" (Single Ticket Method) à destination de la Suède, et n'assure
-          plus le service "pays d'origine direct" (Home Country Direct) en provenance
-          et à destination de la Suède.
-    78:
-      geographic_area:
-        fr: République arabe syrienne
-        en: Syrian Arab Republic
-        es: República Árabe Siria
-      notes:
-        en: The telecommunication service with Israel is suspended.
-        es: El servicio de telecomunicaciones con Israel está suspendido
-        fr: Le service de télécommunication avec Israël est suspendu.
-    79:
-      geographic_area:
-        fr: Thaïlande
-        en: Thailand
-        es: Tailandia
-      notes:
-        en: The telegram service is no longer provided
-        es: El servicio de telegramas está suprimido
-        fr: Le service des télégrammes n'est plus assuré.
-    80:
-      geographic_area:
-        fr: Tonga
-        en: Tonga
-        es: Tonga
-      notes:
-        en: The telegram service is no longer provided. The telex service is no longer
-          provided.
-        es: El servicio de telegramas está suprimido. El servicio télex está suprimido
-        fr: Le service des télégrammes n'est plus assuré. Le service télex n'est plus
-          assuré.
-    81:
-      geographic_area:
-        fr: Trinité-et-Tobago
-        en: Trinidad and Tobago
-        es: Trinidad y Tabago
-      notes:
-        en: The telegram service is no longer provided. The telex service is no longer
-          provided. Collect calls to mobile numbers and virtual telephony are not
-          accepted
-        es: El servicio de telegramas está suprimido. El servicio télex está suprimido.
-          No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles ni de telefonía virtual
-        fr: Le service des télégrammes n'est plus assuré. Le service télex n'est plus
-          assuré. Les communications payables à l'arrivée à destination de numéros
-          mobiles et d'abonnés de la téléphonie virtuelle ne sont pas acceptées.
-    82:
-      geographic_area:
-        fr: Turquie
-        en: Turkey
-        es: Turquía
-      notes:
-        en: The use of MF and HF radiotelegraphy and radiotelephony on foreign ships
-          in Turkish ports is restricted.
-        es: Se restringe el empleo de la radiotelegrafía y de la radiotelefonía por
-          ondas hectométricas y decamétricas en los barcos extranjeros anclados en
-          puertos turcos
-        fr: L’usage de la radiotélégraphie et de la radiotéléphonie à ondes hectométriques
-          et décamétriques sur les navires étrangers se trouvant dans des ports turcs
-          est soumis à des restrictions.
-    83:
-      geographic_area:
-        fr: Turques et Caïques (Iles)
-        en: Turks and Caicos Islands
-        es: Turquesas y Caicos (Islas)
-      notes:
-        en: Collect calls to mobile numbers are not accepted
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          ne sont pas acceptées.
-    84:
-      geographic_area:
-        fr: Emirats arabes unis
-        en: United Arab Emirates
-        es: Emiratos Árabes Unidos
-      notes:
-        en: Collect calls to mobile numbers are not accepted. The telecommunication
-          service with Israel is suspended
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles. El servicio de telecomunicaciones con Israel está suspendido
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          ne sont pas acceptées.  Le service de télécommunication avec Israël est
-          suspendu.
-    85:
-      geographic_area:
-        fr: Uruguay
-        en: Uruguay
-        es: Uruguay
-      notes:
-        en: Collect calls to mobile numbers are not accepted
-        es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
-          móviles
-        fr: Les communications payables à l'arrivée à destination de numéros mobiles
-          ne sont pas acceptées.
-    86:
-      geographic_area:
-        fr: Vanuatu
-        en: Vanuatu
-        es: Vanuatu
-      notes:
-        en: The telex service is no longer provided. Collect calls for both outgoing
-          and incoming are not accepted. The telegram service is no longer provided.
-        es: No se aceptan llamadas de cobro revertido entrantes ni salientes. El servicio
-          télex está suprimido. El servicio de telegramas está suprimido
-        fr: Les communications entrantes et sortantes payables à l'arrivée ne sont
-          pas acceptées. Le service télex n'est plus assuré. Le service des télégrammes
-          n'est plus assuré.
-    87:
-      geographic_area:
-        fr: Vatican
-        en: Vatican
-        es: Vaticano
-      notes:
-        en: The telex service is no longer provided.
-        es: El servicio télex está suprimido
-        fr: Le service télex n'est plus assuré.
-    88:
-      geographic_area:
-        fr: Yémen
-        en: Yemen
-        es: Yemen
-      notes:
-        en: The telecommunication service with Israel is suspended. The telex service
-          is no longer provided.
-        es: El servicio de telecomunicaciones con Israel está suspendido. El servicio
-          télex está suprimido
-        fr: Le service de télécommunication avec Israël est suspendu. Le service télex
-          n'est plus assuré.
+  Sri Lanka:
+    geographic_area:
+      fr: Sri Lanka
+      en: Sri Lanka
+      es: Sri Lanka
+    notes:
+      en: No incoming calls are allowed for payphones in Sri Lanka
+      es: No se autorizan llamadas efectuadas a teléfonos públicos
+      fr: Aucun appel entrant à destination de publiphones n'est admis au Sri Lanka.
+  Soudan:
+    geographic_area:
+      fr: Soudan
+      en: Sudan
+      es: Sudán
+    notes:
+      en: The telecommunication service with Israel is suspended.
+      es: El servicio de telecomunicaciones con Israel está suspendido
+      fr: Le service de télécommunication avec Israël est suspendu.
+  Suriname:
+    geographic_area:
+      fr: Suriname
+      en: Suriname
+      es: Suriname
+    notes:
+      en: The telegram service is no longer provided. The telex service is no longer
+        provided.
+      es: El servicio de telegramas está suprimido. El servicio télex está suprimido
+      fr: Le service des télégrammes n'est plus assuré. Le service télex n'est plus
+        assuré.
+  Swaziland:
+    geographic_area:
+      fr: Swaziland
+      en: Swaziland
+      es: Swazilandia
+    notes:
+      en: Collect calls to mobile numbers and virtual telephony are not accepted
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles ni de telefonía virtual
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        et d'abonnés de la téléphonie virtuelle ne sont pas acceptées.
+  Suède:
+    geographic_area:
+      fr: Suède
+      en: Sweden
+      es: Suecia
+    notes:
+      en: TeliaSonera no longer accept single ticket method collect calls to Sweden,
+        nor provide Home Country Direct from and to Sweden.
+      es: TeliaSonera no aceptará llamadas de cobro revertido por el método de ticket
+        único con destino a Suecia, ni proporcionará el servicio país directo desde
+        y hacia ese país
+      fr: TeliaSonera n'accepte plus de communications payables à l'arrivée de type
+        "à ticket unique" (Single Ticket Method) à destination de la Suède, et n'assure
+        plus le service "pays d'origine direct" (Home Country Direct) en provenance
+        et à destination de la Suède.
+  République arabe syrienne:
+    geographic_area:
+      fr: République arabe syrienne
+      en: Syrian Arab Republic
+      es: República Árabe Siria
+    notes:
+      en: The telecommunication service with Israel is suspended.
+      es: El servicio de telecomunicaciones con Israel está suspendido
+      fr: Le service de télécommunication avec Israël est suspendu.
+  Thaïlande:
+    geographic_area:
+      fr: Thaïlande
+      en: Thailand
+      es: Tailandia
+    notes:
+      en: The telegram service is no longer provided
+      es: El servicio de telegramas está suprimido
+      fr: Le service des télégrammes n'est plus assuré.
+  Tonga:
+    geographic_area:
+      fr: Tonga
+      en: Tonga
+      es: Tonga
+    notes:
+      en: The telegram service is no longer provided. The telex service is no longer
+        provided.
+      es: El servicio de telegramas está suprimido. El servicio télex está suprimido
+      fr: Le service des télégrammes n'est plus assuré. Le service télex n'est plus
+        assuré.
+  Trinité-et-Tobago:
+    geographic_area:
+      fr: Trinité-et-Tobago
+      en: Trinidad and Tobago
+      es: Trinidad y Tabago
+    notes:
+      en: The telegram service is no longer provided. The telex service is no longer
+        provided. Collect calls to mobile numbers and virtual telephony are not accepted
+      es: El servicio de telegramas está suprimido. El servicio télex está suprimido.
+        No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles ni de telefonía virtual
+      fr: Le service des télégrammes n'est plus assuré. Le service télex n'est plus
+        assuré. Les communications payables à l'arrivée à destination de numéros mobiles
+        et d'abonnés de la téléphonie virtuelle ne sont pas acceptées.
+  Turquie:
+    geographic_area:
+      fr: Turquie
+      en: Turkey
+      es: Turquía
+    notes:
+      en: The use of MF and HF radiotelegraphy and radiotelephony on foreign ships
+        in Turkish ports is restricted.
+      es: Se restringe el empleo de la radiotelegrafía y de la radiotelefonía por
+        ondas hectométricas y decamétricas en los barcos extranjeros anclados en puertos
+        turcos
+      fr: L’usage de la radiotélégraphie et de la radiotéléphonie à ondes hectométriques
+        et décamétriques sur les navires étrangers se trouvant dans des ports turcs
+        est soumis à des restrictions.
+  Turques et Caïques (Iles):
+    geographic_area:
+      fr: Turques et Caïques (Iles)
+      en: Turks and Caicos Islands
+      es: Turquesas y Caicos (Islas)
+    notes:
+      en: Collect calls to mobile numbers are not accepted
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées.
+  Emirats arabes unis:
+    geographic_area:
+      fr: Emirats arabes unis
+      en: United Arab Emirates
+      es: Emiratos Árabes Unidos
+    notes:
+      en: Collect calls to mobile numbers are not accepted. The telecommunication
+        service with Israel is suspended
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles. El servicio de telecomunicaciones con Israel está suspendido
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées.  Le service de télécommunication avec Israël est suspendu.
+  Uruguay:
+    geographic_area:
+      fr: Uruguay
+      en: Uruguay
+      es: Uruguay
+    notes:
+      en: Collect calls to mobile numbers are not accepted
+      es: No se aceptan llamadas de cobro revertido efectuadas a números de teléfonos
+        móviles
+      fr: Les communications payables à l'arrivée à destination de numéros mobiles
+        ne sont pas acceptées.
+  Vanuatu:
+    geographic_area:
+      fr: Vanuatu
+      en: Vanuatu
+      es: Vanuatu
+    notes:
+      en: The telex service is no longer provided. Collect calls for both outgoing
+        and incoming are not accepted. The telegram service is no longer provided.
+      es: No se aceptan llamadas de cobro revertido entrantes ni salientes. El servicio
+        télex está suprimido. El servicio de telegramas está suprimido
+      fr: Les communications entrantes et sortantes payables à l'arrivée ne sont pas
+        acceptées. Le service télex n'est plus assuré. Le service des télégrammes
+        n'est plus assuré.
+  Vatican:
+    geographic_area:
+      fr: Vatican
+      en: Vatican
+      es: Vaticano
+    notes:
+      en: The telex service is no longer provided.
+      es: El servicio télex está suprimido
+      fr: Le service télex n'est plus assuré.
+  Yémen:
+    geographic_area:
+      fr: Yémen
+      en: Yemen
+      es: Yemen
+    notes:
+      en: The telecommunication service with Israel is suspended. The telex service
+        is no longer provided.
+      es: El servicio de telecomunicaciones con Israel está suspendido. El servicio
+        télex está suprimido
+      fr: Le service de télécommunication avec Israël est suspendu. Le service télex
+        n'est plus assuré.

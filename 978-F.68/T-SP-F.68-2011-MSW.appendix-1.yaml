@@ -1,0 +1,135 @@
+---
+metadata:
+  title:
+    en: Two-letter telegram network codes corresponding to one-letter Telex Network
+      Identification Codes (TNIC)
+    fr: Codes de réseau des télégrammes à deux lettres qui correspondent aux codes
+      d'identification de réseau télex (CIRT) à une lettre
+    es: Códigos de red de telegramas de dos letras correspondientes a los Códigos
+      de Identificación de Red Télex (CIRT) de una letra
+  locale:
+    tnic:
+      en: TNIC
+      fr: CIRT
+      es: CIRT
+    telegram_network_codes:
+      en: Two-letter telegram network codes
+      fr: Codes de réseau des télégrammes à deux lettres
+      es: Códigos de red de telegramas de dos letras
+    country:
+      en: Country
+      fr: Pays
+      es: País
+data:
+  A:
+    tnic_code: A
+    telegram_network_codes: AU
+    country:
+      en: Austria
+      fr: Autriche
+      es: Austria
+  B:
+    tnic_code: B
+    telegram_network_codes: BE
+    country:
+      en: Belgium
+      fr: Belgique
+      es: Bélgica
+  C:
+    tnic_code: C
+    telegram_network_codes: CS
+    country:
+      en: Czech Republic
+      fr: République tchèque
+      es: República Checa
+  D:
+    tnic_code: D
+    telegram_network_codes: DP
+    country:
+      en: Germany (Federal Republic of)
+      fr: Allemagne (République fédérale d')
+      es: Alemania (República Federal de)
+  E:
+    tnic_code: E
+    telegram_network_codes: ES
+    country:
+      en: Spain
+      fr: Espagne
+      es: España
+  F:
+    tnic_code: F
+    telegram_network_codes: FR
+    country:
+      en: France
+      fr: France
+      es: Francia
+  G:
+    tnic_code: G
+    telegram_network_codes: GB
+    country:
+      en: United Kingdom of Great Britain and Northern Ireland
+      fr: Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+      es: Reino Unido de Gran Bretaña e Irlanda del Norte
+  H:
+    tnic_code: H
+    telegram_network_codes: HU
+    country:
+      en: Hungary (Republic of)
+      fr: Hongrie (République de)
+      es: Hungría (República de)
+  I:
+    tnic_code: I
+    telegram_network_codes: IG, IT, IU
+    country:
+      en: Italy
+      fr: Italie
+      es: Italia
+  J:
+    tnic_code: J
+    telegram_network_codes: JP
+    country:
+      en: Japan
+      fr: Japon
+      es: Japón
+  K:
+    tnic_code: K
+    telegram_network_codes: KR
+    country:
+      en: Korea (Republic of)
+      fr: Corée (République de)
+      es: Corea (República de)
+  M:
+    tnic_code: M
+    telegram_network_codes: MP
+    country:
+      en: Morocco (Kingdom of)
+      fr: Maroc (Royaume du)
+      es: Marruecos (Reino de)
+  N:
+    tnic_code: N
+    telegram_network_codes: 'NO'
+    country:
+      en: Norway
+      fr: Norvège
+      es: Noruega
+  P:
+    tnic_code: P
+    telegram_network_codes: PC, PJ, PO
+    country:
+      en: Portugal
+      fr: Portugal
+      es: Portugal
+  R:
+    tnic_code: R
+    telegram_network_codes: RM
+    country:
+      en: Romania
+      fr: Roumanie
+      es: Rumania
+  S:
+    tnic_code: S
+    telegram_network_codes: SW
+    country:
+      en: Sweden
+      fr: Suède
+      es: Suecia

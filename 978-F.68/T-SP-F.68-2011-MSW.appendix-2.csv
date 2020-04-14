@@ -12,7 +12,7 @@ locale.geographic_area.en,Country/Geographical area,,,
 locale.geographic_area.fr,Países/Zonas geográficas,,,
 locale.geographic_area.es,Pays/Zones géographiques,,,
 ,,,,
-DATA,,,,
+DATA,type=array,,,
 ob_number[integer],telex_code[string],geographic_area.en,geographic_area.fr,geographic_area.es
 681,RG,Cook Islands,Cook (Islas),Cook (Iles)
 692,TS,Tonga,Tonga,Tonga

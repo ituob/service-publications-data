@@ -1,0 +1,1963 @@
+---
+metadata:
+  title:
+    en: List of Telex Destination Codes (TDC) and Telex Network Identification Codes
+      (TNIC)
+    fr: Liste des Codes Télex de Destination (CTD) et des Codes d'Identification des
+      Réseaux Télex (CIRT)
+    es: Lista de Códigos Télex de Destino (CTD) y Códigos de Identificación de Red
+      Télex (CIRT)
+  note:
+    en: Codes with no entry have not yet been allocated.
+    fr: Les codes sans indication ne sont pas encore attribués.
+    es: No se han atribuido todavía los códigos sin indicación.
+  locale:
+    reserved:
+      en: Reserved
+      fr: Réservé
+      es: Reservado
+    integrated_numbering_plan:
+      en: Integrated numbering plan
+      fr: Plan de numérotage intégré
+      es: Plan de numeración integrado
+    number_block:
+      en: TDC
+      fr: CTD
+      es: CTD
+    telex_code:
+      en: TNIC
+      fr: CIRT
+      es: CIRT
+    allocated_to:
+      en: Allocated to
+      fr: Attribué à
+      es: Atribuido a
+    notes:
+      en: Notes
+      fr: Nota
+      es: Remarque
+data:
+- number_block: 100-149
+  allocated_to:
+    en: Temporarily reserved for special administrative services
+    fr: Provisoirement réservés pour les services administratifs spéciaux
+    es: Reservado temporalmente para servicios administrativos especiales
+- number_block: 150-159
+  allocated_to:
+    en: Temporarily reserved for special administrative services
+    fr: Provisoirement réservés pour les services administratifs spéciaux
+    es: Reservado temporalmente para servicios administrativos especiales
+- number_block: '160'
+  telex_code: X
+  allocated_to:
+    en: Maritime Mobile HF and MF Radiotelex
+    fr: Radiotélex mobile maritime en ondes décamétriques et hectométriques
+    es: Servicio radiotélex móvil marítimo en ondas decamétricas y hectométricas
+- number_block: '161'
+  telex_code: X
+  allocated_to:
+    en: Maritime Mobile HF and MF Radiotelex
+    fr: Radiotélex mobile maritime en ondes décamétriques et hectométriques
+    es: Servicio radiotélex móvil marítimo en ondas decamétricas y hectométricas
+- number_block: '162'
+  telex_code: X
+  allocated_to:
+    en: Maritime Mobile HF and MF Radiotelex
+    fr: Radiotélex mobile maritime en ondes décamétriques et hectométriques
+    es: Servicio radiotélex móvil marítimo en ondas decamétricas y hectométricas
+- number_block: '163'
+  telex_code: X
+  allocated_to:
+    en: Maritime Mobile HF and MF Radiotelex
+    fr: Radiotélex mobile maritime en ondes décamétriques et hectométriques
+    es: Servicio radiotélex móvil marítimo en ondas decamétricas y hectométricas
+- number_block: '164'
+  telex_code: X
+  allocated_to:
+    en: Maritime Mobile HF and MF Radiotelex
+    fr: Radiotélex mobile maritime en ondes décamétriques et hectométriques
+    es: Servicio radiotélex móvil marítimo en ondas decamétricas y hectométricas
+- number_block: '165'
+  telex_code: X
+  allocated_to:
+    en: Maritime Mobile HF and MF Radiotelex
+    fr: Radiotélex mobile maritime en ondes décamétriques et hectométriques
+    es: Servicio radiotélex móvil marítimo en ondas decamétricas y hectométricas
+- number_block: '166'
+  telex_code: X
+  allocated_to:
+    en: Maritime Mobile HF and MF Radiotelex
+    fr: Radiotélex mobile maritime en ondes décamétriques et hectométriques
+    es: Servicio radiotélex móvil marítimo en ondas decamétricas y hectométricas
+- number_block: '167'
+  telex_code: X
+  allocated_to:
+    en: Maritime Mobile HF and MF Radiotelex
+    fr: Radiotélex mobile maritime en ondes décamétriques et hectométriques
+    es: Servicio radiotélex móvil marítimo en ondas decamétricas y hectométricas
+- number_block: '168'
+  telex_code: X
+  allocated_to:
+    en: Maritime Mobile HF and MF Radiotelex
+    fr: Radiotélex mobile maritime en ondes décamétriques et hectométriques
+    es: Servicio radiotélex móvil marítimo en ondas decamétricas y hectométricas
+- number_block: '169'
+  telex_code: X
+  allocated_to:
+    en: Maritime Mobile HF and MF Radiotelex
+    fr: Radiotélex mobile maritime en ondes décamétriques et hectométriques
+    es: Servicio radiotélex móvil marítimo en ondas decamétricas y hectométricas
+- number_block: 170-179
+  allocated_to:
+    en: Temporarily reserved for special administrative services
+    fr: Provisoirement réservés pour les services administratifs spéciaux
+    es: Reservado temporalmente para servicios administrativos especiales
+- number_block: 180-199
+  allocated_to:
+    en: Temporarily reserved for special administrative services
+    fr: Provisoirement réservés pour les services administratifs spéciaux
+    es: Reservado temporalmente para servicios administrativos especiales
+- number_block: '200'
+  telex_code: UA
+  allocated_to:
+    en: Alaska (United States of America)
+    fr: Alaska (Etats-Unis d'Amérique)
+    es: Alaska (Estados Unidos de América)
+- number_block: '201'
+  telex_code: DR
+  allocated_to:
+    en: Dominican Republic (CDT)
+    fr: Dominicaine (République) (CDT)
+    es: Dominicana (República) (CDT)
+- number_block: '202'
+  telex_code: DI
+  allocated_to:
+    en: Dominican Republic (AACR)
+    fr: Dominicaine (République) (AACR)
+    es: Dominicana (República) (AACR)
+- number_block: '203'
+  telex_code: HN
+  allocated_to:
+    en: Haiti (Republic of)
+    fr: Haïti (République d')
+    es: Haití (República de)
+- number_block: '204'
+  telex_code: QN
+  allocated_to:
+    en: Saint Pierre and Miquelon (Collectivité territoriale de la République française)
+    fr: Saint-Pierre-et-Miquelon (Collectivité territoriale de la République française)
+    es: San Pedro y Miquelón (Comunidad territorial de la República francesa)
+- number_block: '205'
+  telex_code: PT
+  allocated_to:
+    en: Puerto Rico (MCI/WUI)
+    fr: Puerto Rico (MCI/WUI)
+    es: Puerto Rico (MCI/WUI)
+- number_block: '206'
+  telex_code: PD
+  allocated_to:
+    en: Puerto Rico (AACR)
+    fr: Puerto Rico (AACR)
+    es: Puerto Rico (AACR)
+- number_block: '207'
+- number_block: '208'
+  telex_code: VN
+  allocated_to:
+    en: United States Virgin Islands
+    fr: Vierges américaines (Iles)
+    es: Vírgenes americanas (Islas)
+- number_block: '209'
+  allocated_to:
+    en: Puerto Rico (PRCA)
+    fr: Puerto Rico (PRCA)
+    es: Puerto Rico (PRCA)
+- number_block: '21'
+  telex_code: CA
+  allocated_to:
+    en: Canada
+    fr: Canada
+    es: Canadá
+- number_block: '22'
+  telex_code: ME
+  allocated_to:
+    en: Mexico
+    fr: Mexique
+    es: México
+- number_block: '23'
+  allocated_to:
+    en: United States of America
+    fr: Etats-Unis d'Amérique
+    es: Estados Unidos de América
+  notes:
+    en: Block allocated to United States of America.
+    fr: Bloc attribué aux Etats-Unis d’Amérique.
+    es: Bloque atribuido a Estados Unidos de América.
+- number_block: '230'
+  telex_code: UD
+  allocated_to:
+    en: United States of America (AT&T)
+    fr: Etats-Unis d'Amérique (AT&T)
+    es: Estados Unidos de América (AT&T)
+- number_block: '231'
+  telex_code: UT
+  allocated_to:
+    en: United States of America (TRT/FTC)
+    fr: Etats-Unis d'Amérique (TRT/FTC)
+    es: Estados Unidos de América (TRT/FTC)
+- number_block: '232'
+  telex_code: UR
+  allocated_to:
+    en: United States of America (MCI/WUI)
+    fr: Etats-Unis d'Amérique (MCI/WUI)
+    es: Estados Unidos de América (MCI/WUI)
+- number_block: '233'
+  telex_code: UB
+  allocated_to:
+    en: United States of America (GRAPHNET)
+    fr: Etats-Unis d'Amérique (GRAPHNET)
+    es: Estados Unidos de América (GRAPHNET)
+- number_block: '234'
+  telex_code: UI
+  allocated_to:
+    en: United States of America (AT&T)
+    fr: Etats-Unis d'Amérique (AT&T)
+    es: Estados Unidos de América (AT&T)
+- number_block: '235'
+  allocated_to:
+    en: United States of America (AT&T EasyLink Services Network)
+    fr: Etats-Unis d'Amérique (AT&T EasyLink Services Network)
+    es: Estados Unidos de América (AT&T EasyLink Services Network)
+- number_block: '236'
+  telex_code: UW
+  allocated_to:
+    en: United States of America (MCI/WUI)
+    fr: Etats-Unis d'Amérique (MCI/WUI)
+    es: Estados Unidos de América (MCI/WUI)
+- number_block: '237'
+  telex_code: UC
+  allocated_to:
+    en: United States of America (CCI)
+    fr: Etats-Unis d'Amérique (CCI)
+    es: Estados Unidos de América (CCI)
+- number_block: '238'
+  telex_code: UF
+  allocated_to:
+    en: United States of America (TRT/FTC)
+    fr: Etats-Unis d'Amérique (TRT/FTC)
+    es: Estados Unidos de América (TRT/FTC)
+- number_block: '239'
+  telex_code: UE
+  allocated_to:
+    en: United States of America (TELENET)
+    fr: Etats-Unis d'Amérique (TELENET)
+    es: Estados Unidos de América (TELENET)
+- number_block: '240'
+  allocated_to:
+    en: Puerto Rico (TRT/FTC)
+    fr: Puerto Rico (TRT/FTC)
+    es: Puerto Rico (TRT/FTC)
+- number_block: '241'
+  telex_code: DA
+  allocated_to:
+    en: Dominican Republic (Mirador)
+    fr: Dominicaine (République) (MIRADOR)
+    es: Dominicana (República) (MIRADOR)
+- number_block: '242'
+- number_block: '243'
+- number_block: '244'
+- number_block: '245'
+- number_block: '246'
+  telex_code: UJ
+  allocated_to:
+    en: United States of America (MMR)
+    fr: Etats-Unis d'Amérique (MMR)
+    es: Estados Unidos de América (MMR)
+- number_block: '247'
+  allocated_to:
+    en: United States of America
+    fr: Etats-Unis d'Amérique
+    es: Estados Unidos de América
+- number_block: '248'
+  allocated_to:
+    en: United States of America
+    fr: Etats-Unis d'Amérique
+    es: Estados Unidos de América
+- number_block: '249'
+  allocated_to:
+    en: United States of America
+    fr: Etats-Unis d'Amérique
+    es: Estados Unidos de América
+- number_block: '25'
+  telex_code: UQ
+  allocated_to:
+    en: United States of America (AT&T)
+    fr: Etats-Unis d'Amérique (AT&T)
+    es: Estados Unidos de América (AT&T)
+- number_block: '26'
+  notes:
+    en: Previously allocated to Canada (see ITU Operational Bulletin No. 581 of 1.X.1994).
+    fr: Attribué auparavant au Canada (voir le Bulletin d’exploitation de l’UIT No
+      581 du 1.X.1994).
+    es: Anteriormente atribuido a Canadá (véase el Boletín de Explotación de la UIT
+      No 581 del 1.X.1994).
+- number_block: '270'
+- number_block: '271'
+- number_block: '272'
+- number_block: '273'
+- number_block: '274'
+- number_block: '275'
+- number_block: '276'
+- number_block: '277'
+- number_block: '278'
+- number_block: '279'
+- number_block: '28'
+  telex_code: CU
+  allocated_to:
+    en: Cuba
+    fr: Cuba
+    es: Cuba
+- number_block: '290'
+  telex_code: BA
+  allocated_to:
+    en: Bermuda
+    fr: Bermudes
+    es: Bermudas
+- number_block: '291'
+  telex_code: JA
+  allocated_to:
+    en: Jamaica
+    fr: Jamaïque
+    es: Jamaica
+- number_block: '292'
+  telex_code: VB
+  allocated_to:
+    en: British Virgin Islands
+    fr: Vierges britanniques (Iles)
+    es: Vírgenes británicas (Islas)
+- number_block: '293'
+  telex_code: CP
+  allocated_to:
+    en: Cayman Islands
+    fr: Cayman (Iles)
+    es: Caimanes (Islas)
+- number_block: '294'
+  telex_code: WG
+  allocated_to:
+    en: Trinidad and Tobago
+    fr: Trinité-et-Tobago
+    es: Trinidad y Tabago
+- number_block: '295'
+  telex_code: GY
+  allocated_to:
+    en: Guyana
+    fr: Guyana
+    es: Guyana
+- number_block: '296'
+  telex_code: TQ
+  allocated_to:
+    en: Turks and Caicos Islands
+    fr: Turques et Caïques (Iles)
+    es: Turquesas y Caicos (Islas)
+- number_block: '297'
+  telex_code: BS
+  allocated_to:
+    en: Bahamas (Commonwealth of the)
+    fr: Bahamas (Commonwealth des)
+    es: Bahamas (Commonwealth de las)
+- number_block: '298'
+  telex_code: MR
+  allocated_to:
+    en: Martinique (French Department of)
+    fr: Martinique (Département français de la)
+    es: Martinica (Departamento francés de la)
+- number_block: '299'
+  telex_code: GL
+  allocated_to:
+    en: Guadeloupe (French Department of)
+    fr: Guadeloupe (Département français de la)
+    es: Guadalupe (Departamento francés de la)
+- number_block: '300'
+  telex_code: FG
+  allocated_to:
+    en: Guiana (French Department of)
+    fr: Guyane (Département français de la)
+    es: Guyana (Departamento francés de la)
+- number_block: '301'
+- number_block: '302'
+- number_block: '303'
+  telex_code: AW
+  allocated_to:
+    en: Aruba
+    fr: Aruba
+    es: Aruba
+- number_block: '304'
+  telex_code: SN
+  allocated_to:
+    en: Suriname (Republic of)
+    fr: Suriname (République du)
+    es: Suriname (República de)
+- number_block: '305'
+  telex_code: PY
+  allocated_to:
+    en: Paraguay (Republic of)
+    fr: Paraguay (République du)
+    es: Paraguay (República del)
+- number_block: '306'
+  telex_code: FK
+  allocated_to:
+    en: Falkland Islands (Malvinas)
+    fr: Falkland (Iles) (Malvinas)
+    es: Malvinas (Islas) (Falkland)
+- number_block: '307'
+- number_block: '308'
+  telex_code: ED
+  allocated_to:
+    en: Ecuador
+    fr: Equateur
+    es: Ecuador
+- number_block: '309'
+  telex_code: BV
+  allocated_to:
+    en: Bolivia (Republic of) (ENTEL)
+    fr: Bolivie (République de) (ENTEL)
+    es: Bolivia (República de) (ENTEL)
+- number_block: '31'
+  telex_code: VE
+  allocated_to:
+    en: Venezuela (Bolivarian Republic of) (CANTV)
+    fr: Venezuela (République bolivarienne du) (CANTV)
+    es: Venezuela (República Bolivariana de) (CANTV)
+- number_block: '32'
+  telex_code: UY
+  allocated_to:
+    en: Uruguay (Eastern Republic of)
+    fr: Uruguay (République orientale de l')
+    es: Uruguay (República Oriental del)
+- number_block: '33'
+  telex_code: AR
+  allocated_to:
+    en: Argentine Republic
+    fr: Argentine (République)
+    es: Argentina (República)
+- number_block: '34'
+  allocated_to:
+    en: Chile
+    fr: Chili
+    es: Chile
+  notes:
+    en: Block allocated to Chile.
+    fr: Bloc attribué au Chili.
+    es: Bloque atribuido a Chile.
+- number_block: '340'
+- number_block: '341'
+- number_block: '342'
+  telex_code: CL
+  allocated_to:
+    en: Chile (TElex Chile)
+    fr: Chili (TElex Chile)
+    es: Chile (TElex Chile)
+- number_block: '343'
+  telex_code: CK
+  allocated_to:
+    en: Chile (VTR)
+    fr: Chili (VTR)
+    es: Chile (VTR)
+- number_block: '344'
+  telex_code: CZ
+  allocated_to:
+    en: Chile (VTR/CM)
+    fr: Chili (VTR/CM)
+    es: Chile (VTR/CM)
+- number_block: '345'
+  telex_code: CB
+  allocated_to:
+    en: Chile (ENTEL-CHILE)
+    fr: Chili (ENTEL-CHILE)
+    es: Chile (ENTEL-CHILE)
+- number_block: '346'
+  telex_code: CT
+  allocated_to:
+    en: Chile (TEXCOM)
+    fr: Chili (TEXCOM)
+    es: Chile (TEXCOM)
+- number_block: '347'
+- number_block: '348'
+- number_block: '349'
+- number_block: '35'
+  telex_code: CO
+  allocated_to:
+    en: Colombia (Republic of)
+    fr: Colombie (République de)
+    es: Colombia (República de)
+- number_block: '36'
+  telex_code: PE
+  allocated_to:
+    en: Peru
+    fr: Pérou
+    es: Perú
+- number_block: '37'
+  allocated_to:
+    en: Central America (integrated code)
+    fr: 'Amérique centrale (code intégré):'
+    es: 'América Central (código integrado):'
+- number_block: '371'
+  telex_code: BZ
+  allocated_to:
+    en: Belize
+    fr: Belize
+    es: Belice
+- number_block: '372'
+  telex_code: GU
+  allocated_to:
+    en: Guatemala (Republic of)
+    fr: Guatemala (République du)
+    es: Guatemala (República de)
+- number_block: '373'
+  telex_code: SR
+  allocated_to:
+    en: El Salvador (Republic of)
+    fr: El Salvador (République d')
+    es: El Salvador (República de)
+- number_block: '374'
+  telex_code: HO
+  allocated_to:
+    en: Honduras (Republic of)
+    fr: Honduras (République du)
+    es: Honduras (República de)
+- number_block: '375'
+  telex_code: NU
+  allocated_to:
+    en: Nicaragua
+    fr: Nicaragua
+    es: Nicaragua
+- number_block: '376'
+  telex_code: CR
+  allocated_to:
+    en: Costa Rica
+    fr: Costa Rica
+    es: Costa Rica
+- number_block: '377'
+- number_block: '378'
+  telex_code: PP
+  allocated_to:
+    en: Panama (Republic of) (Advanced Communication Network, S.A.)
+    fr: Panama (République du) (Advanced Communication Network, S.A.)
+    es: Panamá (República de) (Advanced Communication Network, S.A.)
+- number_block: '379'
+  telex_code: PG
+  allocated_to:
+    en: Panama (Republic of) (INTEL)
+    fr: Panama (République du) (INTEL)
+    es: Panamá (República de) (INTEL)
+- number_block: '38'
+  telex_code: BR
+  allocated_to:
+    en: Brazil (Federative Republic of)
+    fr: Brésil (République fédérative du)
+    es: Brasil (República Federativa del)
+- number_block: '390'
+  telex_code: NA
+  allocated_to:
+    en: Curaçao (former Netherlands Antilles)
+    fr: Curaçao (anciennement Antilles néerlandaises)
+    es: Curaçao (anteriormente Antillas Neerlandesas)
+- number_block: '391'
+  telex_code: LA
+  allocated_to:
+    en: Anguilla
+    fr: Anguilla
+    es: Anguilla
+- number_block: '392'
+  telex_code: WB
+  allocated_to:
+    en: Barbados
+    fr: Barbade
+    es: Barbados
+- number_block: '393'
+  telex_code: AK
+  allocated_to:
+    en: Antigua and Barbuda
+    fr: Antigua-et-Barbuda
+    es: Antigua y Barbuda
+- number_block: '394'
+  telex_code: DO
+  allocated_to:
+    en: Dominica (Commonwealth of)
+    fr: Dominique (Commonwealth de la)
+    es: Dominica (Commonwealth de)
+- number_block: '395'
+  telex_code: GA
+  allocated_to:
+    en: Grenada
+    fr: Grenade
+    es: Granada
+- number_block: '396'
+  telex_code: MK
+  allocated_to:
+    en: Montserrat
+    fr: Montserrat
+    es: Montserrat
+- number_block: '397'
+  telex_code: KC
+  allocated_to:
+    en: Saint Kitts and Nevis
+    fr: Saint-Kitts-et-Nevis
+    es: San Kitts y Nevis
+- number_block: '398'
+  telex_code: LC
+  allocated_to:
+    en: Saint Lucia
+    fr: Sainte-Lucie
+    es: Santa Lucía
+- number_block: '399'
+  telex_code: VQ
+  allocated_to:
+    en: Saint Vincent and the Grenadines
+    fr: Saint-Vincent-et-Grenadines
+    es: San Vicente y las Granadinas
+- number_block: '400'
+  telex_code: GC
+  allocated_to:
+    en: Montenegro (Republic of)
+    fr: Monténégro (République du)
+    es: Montenegro (República de)
+- number_block: '401'
+- number_block: '402'
+  telex_code: LU
+  allocated_to:
+    en: Luxembourg
+    fr: Luxembourg
+    es: Luxemburgo
+- number_block: '403'
+  telex_code: MT
+  allocated_to:
+    en: Malta (GTC)
+    fr: Malte (GTC)
+    es: Malta (GTC)
+- number_block: '404'
+  telex_code: P
+  allocated_to:
+    en: Portugal
+    fr: Portugal
+    es: Portugal
+- number_block: '405'
+  telex_code: GK
+  allocated_to:
+    en: Gibraltar
+    fr: Gibraltar
+    es: Gibraltar
+- number_block: '406'
+  telex_code: MW
+  allocated_to:
+    en: Malta (Go plc.)
+    fr: Malte (Go plc)
+    es: Malta (Go p.l.c.)
+- number_block: '407'
+  telex_code: M
+  allocated_to:
+    en: Morocco (Kingdom of)
+    fr: Maroc (Royaume du)
+    es: Marruecos (Reino de)
+- number_block: '408'
+  telex_code: DZ
+  allocated_to:
+    en: Algeria (People's Democratic Republic of)
+    fr: Algérie (République algérienne démocratique et populaire)
+    es: Argelia (República Argelina Democrática y Popular)
+- number_block: '409'
+  telex_code: TN
+  allocated_to:
+    en: Tunisia
+    fr: Tunisie
+    es: Túnez
+- number_block: '41'
+  telex_code: D
+  allocated_to:
+    en: Germany (Federal Republic of)
+    fr: Allemagne (République fédérale d')
+    es: Alemania (República Federal de)
+- number_block: '42'
+  telex_code: F
+  allocated_to:
+    en: France
+    fr: France
+    es: Francia
+  integrated_numbering_plan: 'TRUE'
+- number_block: '42'
+  telex_code: MC
+  allocated_to:
+    en: Monaco (Principality of)
+    fr: Monaco (Principauté de)
+    es: Mónaco (Principado de)
+  integrated_numbering_plan: 'TRUE'
+- number_block: '43'
+  telex_code: I
+  allocated_to:
+    en: Italy
+    fr: Italie
+    es: Italia
+- number_block: '44'
+  telex_code: NL
+  allocated_to:
+    en: Netherlands (Kingdom of the)
+    fr: Pays-Bas (Royaume des)
+    es: Países Bajos (Reino de los)
+- number_block: '45'
+  telex_code: CH
+  allocated_to:
+    en: Switzerland (Confederation of)
+    fr: Suisse (Confédération)
+    es: Suiza (Confederación)
+  integrated_numbering_plan: 'TRUE'
+- number_block: '45'
+  telex_code: FL
+  allocated_to:
+    en: Liechtenstein (Principality of)
+    fr: Liechtenstein (Principauté de)
+    es: Liechtenstein (Principado de)
+  integrated_numbering_plan: 'TRUE'
+- number_block: '46'
+  telex_code: B
+  allocated_to:
+    en: Belgium
+    fr: Belgique
+    es: Bélgica
+- number_block: '47'
+  telex_code: A
+  allocated_to:
+    en: Austria
+    fr: Autriche
+    es: Austria
+- number_block: '480'
+- number_block: '481'
+- number_block: '482'
+- number_block: '483'
+- number_block: '484'
+- number_block: '485'
+- number_block: '486'
+- number_block: '487'
+- number_block: '488'
+- number_block: '489'
+- number_block: '490'
+  telex_code: BN
+  allocated_to:
+    en: Bahrain (Kingdom of)
+    fr: Bahreïn (Royaume de)
+    es: Bahrein (Reino de)
+- number_block: '491'
+  telex_code: IK
+  allocated_to:
+    en: Iraq (Republic of)
+    fr: Iraq (République d')
+    es: Iraq (República del)
+- number_block: '492'
+  telex_code: SY
+  allocated_to:
+    en: Syrian Arab Republic
+    fr: République arabe syrienne
+    es: República Árabe Siria
+- number_block: '493'
+  telex_code: JO
+  allocated_to:
+    en: Jordan (Hashemite Kingdom of)
+    fr: Jordanie (Royaume hachémite de)
+    es: Jordania (Reino Hachemita de)
+- number_block: '494'
+  telex_code: LE
+  allocated_to:
+    en: Lebanon
+    fr: Liban
+    es: Líbano
+- number_block: '495'
+  telex_code: SJ
+  allocated_to:
+    en: Saudi Arabia (Kingdom of)
+    fr: Arabie saoudite (Royaume d')
+    es: Arabia Saudita (Reino de)
+- number_block: '496'
+  telex_code: KT
+  allocated_to:
+    en: Kuwait (State of)
+    fr: Koweït (Etat du)
+    es: Kuwait (Estado de)
+- number_block: '497'
+  telex_code: DH
+  allocated_to:
+    en: Qatar (State of)
+    fr: Qatar (Etat du)
+    es: Qatar (Estado de)
+- number_block: '498'
+  telex_code: 'ON'
+  allocated_to:
+    en: Oman (Sultanate of)
+    fr: Oman (Sultanat d')
+    es: Omán (Sultanía de)
+- number_block: '499'
+- number_block: '500'
+  telex_code: EI
+  allocated_to:
+    en: Ireland
+    fr: Irlande
+    es: Irlanda
+- number_block: '501'
+  telex_code: IS
+  allocated_to:
+    en: Iceland
+    fr: Islande
+    es: Islandia
+- number_block: '502'
+  telex_code: FA
+  allocated_to:
+    en: Faroe Islands (Denmark)
+    fr: Féroé (Iles) (Danemark)
+    es: Feroé (Islas) (Dinamarca)
+- number_block: '503'
+  telex_code: GD
+  allocated_to:
+    en: Greenland (Denmark)
+    fr: Groenland (Danemark)
+    es: Groenlandia (Dinamarca)
+- number_block: '504'
+  telex_code: VA
+  allocated_to:
+    en: Vatican City State
+    fr: Cité du Vatican (Etat de la)
+    es: Ciudad del Vaticano (Estado de la)
+- number_block: '505'
+  telex_code: SO
+  allocated_to:
+    en: San Marino (Republic of)
+    fr: Saint-Marin (République de)
+    es: San Marino (República de)
+- number_block: '506'
+- number_block: '507'
+- number_block: '508'
+- number_block: '509'
+- number_block: '51'
+  telex_code: G
+  allocated_to:
+    en: United Kingdom of Great Britain and Northern Ireland
+    fr: Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+    es: Reino Unido de Gran Bretaña e Irlanda del Norte
+- number_block: '52'
+  telex_code: E
+  allocated_to:
+    en: Spain
+    fr: Espagne
+    es: España
+- number_block: '530'
+- number_block: '531'
+- number_block: '532'
+- number_block: '533'
+- number_block: '534'
+- number_block: '535'
+- number_block: '536'
+- number_block: '537'
+  telex_code: EE
+  allocated_to:
+    en: Estonia (Republic of)
+    fr: Estonie (République d')
+    es: Estonia (República de)
+- number_block: '538'
+  telex_code: LV
+  allocated_to:
+    en: Latvia (Republic of)
+    fr: Lettonie (République de)
+    es: Letonia (República de)
+- number_block: '539'
+  telex_code: LT
+  allocated_to:
+    en: Lithuania (Republic of)
+    fr: Lituanie (République de)
+    es: Lituania (República de)
+- number_block: '54'
+  telex_code: S
+  allocated_to:
+    en: Sweden
+    fr: Suède
+    es: Suecia
+- number_block: '55'
+  telex_code: DK
+  allocated_to:
+    en: Denmark
+    fr: Danemark
+    es: Dinamarca
+- number_block: '56'
+  telex_code: N
+  allocated_to:
+    en: Norway
+    fr: Norvège
+    es: Noruega
+- number_block: '57'
+  telex_code: FI
+  allocated_to:
+    en: Finland
+    fr: Finlande
+    es: Finlandia
+- number_block: '580'
+  telex_code: X
+  allocated_to:
+    en: Maritime Mobile-Satellite Service (available)
+    fr: Service mobile maritime par satellite (disponible)
+    es: Servicio móvil marítimo por satélite (disponible)
+- number_block: '581'
+  telex_code: X
+  allocated_to:
+    en: Atlantic-east satellite region, INMARSAT
+    fr: Région du satellite de l'Atlantique Est, INMARSAT
+    es: Región del satélite del Atlántico Oriental, INMARSAT
+- number_block: '582'
+  telex_code: X
+  allocated_to:
+    en: Pacific satellite region, INMARSAT
+    fr: Région du satellite du Pacifique, INMARSAT
+    es: Región del satélite del Pacífico, INMARSAT
+- number_block: '583'
+  telex_code: X
+  allocated_to:
+    en: Indian Ocean satellite region, INMARSAT
+    fr: Région du satellite de l'océan Indien, INMARSAT
+    es: Región del satélite del Océano Indico, INMARSAT
+- number_block: '584'
+  telex_code: X
+  allocated_to:
+    en: Atlantic-west satellite region, INMARSAT
+    fr: Région du satellite de l'Atlantique Ouest, INMARSAT
+    es: Región del satélite del Atlántico Occidental, INMARSAT
+- number_block: '585'
+  telex_code: X
+  allocated_to:
+    en: Maritime Mobile-Satellite Service (available)
+    fr: Service mobile maritime par satellite (disponible)
+    es: Servicio móvil marítimo por satélite (disponible)
+- number_block: '586'
+  telex_code: X
+  allocated_to:
+    en: Maritime Mobile-Satellite Service (available)
+    fr: Service mobile maritime par satellite (disponible)
+    es: Servicio móvil marítimo por satélite (disponible)
+- number_block: '587'
+  telex_code: X
+  allocated_to:
+    en: Maritime Mobile-Satellite Service (available)
+    fr: Service mobile maritime par satellite (disponible)
+    es: Servicio móvil marítimo por satélite (disponible)
+- number_block: '588'
+  telex_code: X
+  allocated_to:
+    en: Maritime Mobile-Satellite Service (available)
+    fr: Service mobile maritime par satellite (disponible)
+    es: Servicio móvil marítimo por satélite (disponible)
+- number_block: '589'
+  telex_code: X
+  allocated_to:
+    en: Maritime Mobile-Satellite Service (available)
+    fr: Service mobile maritime par satellite (disponible)
+    es: Servicio móvil marítimo por satélite (disponible)
+- number_block: '590'
+  telex_code: AD
+  allocated_to:
+    en: Andorra (Principality of)
+    fr: Andorre (Principauté d')
+    es: Andorra (Principado de)
+- number_block: '591'
+- number_block: '592'
+- number_block: '593'
+- number_block: '594'
+- number_block: '595'
+- number_block: '596'
+- number_block: '597'
+  telex_code: MB
+  allocated_to:
+    en: The Former Yugoslav Republic of Macedonia
+    fr: L'ex-République yougoslave de Macédoine
+    es: La ex República Yugoslava de Macedonia
+- number_block: '598'
+  telex_code: SI
+  allocated_to:
+    en: Slovenia (Republic of)
+    fr: Slovénie (République de)
+    es: Eslovenia (República de)
+- number_block: '599'
+  telex_code: RH
+  allocated_to:
+    en: Croatia (Republic of)
+    fr: Croatie (République de)
+    es: Croacia (República de)
+- number_block: '600'
+  telex_code: BH
+  allocated_to:
+    en: Bosnia and Herzegovina
+    fr: Bosnie-Herzégovine
+    es: Bosnia y Herzegovina
+- number_block: '601'
+  telex_code: GR
+  allocated_to:
+    en: Greece
+    fr: Grèce
+    es: Grecia
+- number_block: '602'
+- number_block: '603'
+- number_block: '604'
+  telex_code: AB
+  allocated_to:
+    en: Albania (Republic of)
+    fr: Albanie (République d')
+    es: Albania (República de)
+- number_block: '605'
+  telex_code: CY
+  allocated_to:
+    en: Cyprus (Republic of)
+    fr: Chypre (République de)
+    es: Chipre (República de)
+- number_block: '606'
+  telex_code: IL
+  allocated_to:
+    en: Israel (State of)
+    fr: Israël (Etat d')
+    es: Israel (Estado de)
+- number_block: '607'
+  telex_code: TR
+  allocated_to:
+    en: Turkey
+    fr: Turquie
+    es: Turquía
+- number_block: '608'
+- number_block: '609'
+- number_block: '61'
+  telex_code: H
+  allocated_to:
+    en: Hungary (Republic of)
+    fr: Hongroise (République de)
+    es: Hungría (República de)
+- number_block: '62'
+  telex_code: YU
+  allocated_to:
+    en: Serbia (Republic of)
+    fr: Serbie (République de)
+    es: Serbia (República de)
+- number_block: '63'
+  telex_code: PL
+  allocated_to:
+    en: Poland (Republic of)
+    fr: Pologne (République de)
+    es: Polonia (República de)
+- number_block: '64'
+  telex_code: RU / SU
+  allocated_to:
+    en: Russian Federation
+    fr: Fédération de Russie
+    es: Federación de Rusia
+  notes:
+    en: Previously allocated to ex-USSR (see ITU Operational Bulletin No. 584 of 15.XI.1994).
+    fr: Attribué auparavant à l’ex-URSS (voir le Bulletin d’exploitation de l’UIT
+      No 584 du 15.XI.1994).
+    es: Anteriormente atribuido a la antigua URSS (véase el Boletín de Explotación
+      de la UIT No 584 del 15.XI.1994).
+- number_block: '65'
+  telex_code: R
+  allocated_to:
+    en: Romania
+    fr: Roumanie
+    es: Rumania
+- number_block: '660'
+- number_block: '661'
+- number_block: '662'
+- number_block: '663'
+  telex_code: C
+  allocated_to:
+    en: Czech Republic
+    fr: République tchèque
+    es: República Checa
+- number_block: '664'
+- number_block: '665'
+- number_block: '666'
+  telex_code: SK
+  allocated_to:
+    en: Slovak Republic
+    fr: République slovaque
+    es: República Eslovaca
+- number_block: '667'
+- number_block: '668'
+- number_block: '669'
+- number_block: '67'
+  telex_code: BG
+  allocated_to:
+    en: Bulgaria (Republic of)
+    fr: Bulgarie (République de)
+    es: Bulgaria (República de)
+- number_block: '680'
+  telex_code: UX
+  allocated_to:
+    en: Ukraine
+    fr: Ukraine
+    es: Ucrania
+- number_block: '681'
+  telex_code: BY
+  allocated_to:
+    en: Belarus (Republic of)
+    fr: Bélarus (République du)
+    es: Belarús (República de)
+- number_block: '682'
+  telex_code: MD
+  allocated_to:
+    en: Moldova (Republic of)
+    fr: Moldova (République de)
+    es: Moldova (República de)
+- number_block: '683'
+  telex_code: GI
+  allocated_to:
+    en: Georgia
+    fr: Géorgie
+    es: Georgia
+- number_block: '684'
+  telex_code: AM
+  allocated_to:
+    en: Armenia (Republic of)
+    fr: Arménie (République d')
+    es: Armenia (República de)
+- number_block: '685'
+- number_block: '686'
+- number_block: '687'
+- number_block: '688'
+- number_block: '689'
+- number_block: '69'
+  notes:
+    en: Previously allocated to the former German Democratic Republic (see ITU Operational
+      Bulletin No.571 of 1.V.1994)
+    fr: Attribué auparavant à l’ex-République démocratique allemande (voir le Bulletin
+      d’exploitation de l’UIT No 571 du 1.V.1994).
+    es: Anteriormente atribuido a la antigua República Democrática Alemania (véase
+      el Boletín de Explotación de la UIT No 571 del 1.V.1994).
+- number_block: '700'
+  telex_code: GM
+  allocated_to:
+    en: Guam (United States of America) (MCI/WUI)
+    fr: Guam (Etats-Unis d'Amérique) (MCI/WUI)
+    es: Guam (Estados Unidos de América) (MCI/WUI)
+- number_block: '701'
+  telex_code: FJ
+  allocated_to:
+    en: Fiji (Republic of)
+    fr: Fidji (République de)
+    es: Fiji (República de)
+- number_block: '702'
+  telex_code: FP
+  allocated_to:
+    en: French Polynesia (French Overseas Territory)
+    fr: Polynésie française (Territoire français d'outre-mer)
+    es: Polinesia Francesa (Territorio francés de ultramar)
+- number_block: '703'
+  telex_code: NE
+  allocated_to:
+    en: Papua New Guinea
+    fr: Papouasie-Nouvelle-Guinée
+    es: Papua Nueva Guinea
+- number_block: '704'
+  telex_code: HR
+  allocated_to:
+    en: Hawaii (United States of America) (MCI/WUI)
+    fr: Hawaï (Etats-Unis d'Amérique) (MCI/WUI)
+    es: Hawai (Estados Unidos de América) (MCI/WUI)
+- number_block: '705'
+  allocated_to:
+    en: Hawaii (United States of America) (MCI/WUI)
+    fr: Hawaï (Etats-Unis d'Amérique) (MCI/WUI)
+    es: Hawai (Estados Unidos de América) (MCI/WUI)
+- number_block: '706'
+  telex_code: NM
+  allocated_to:
+    en: New Caledonia (French Overseas Territory)
+    fr: Nouvelle-Calédonie (Territoire français d'outre-mer)
+    es: Nueva Caledonia (Territorio francés de ultramar)
+- number_block: '707'
+  telex_code: WF
+  allocated_to:
+    en: Wallis and Futuna (French Overseas Territory)
+    fr: Wallis-et-Futuna (Territoire français d'outre-mer)
+    es: Wallis y Futuna (Territorio francés de ultramar)
+- number_block: '708'
+  telex_code: HW
+  allocated_to:
+    en: Hawaii (United States of America) (MCI/WUI)
+    fr: Hawaï (Etats-Unis d'Amérique) (MCI/WUI)
+    es: Hawai (Estados Unidos de América (MCI/WUI)
+- number_block: '709'
+  allocated_to:
+    en: Hawaii (United States of America) (WUH)
+    fr: Hawaï (Etats-Unis d'Amérique) (WUH)
+    es: Hawai (Estados Unidos de América) (WUH)
+- number_block: '71'
+  telex_code: AA
+  allocated_to:
+    en: Australia
+    fr: Australie
+    es: Australia
+- number_block: '72'
+  telex_code: J
+  allocated_to:
+    en: Japan
+    fr: Japon
+    es: Japón
+- number_block: '73'
+  telex_code: IA
+  allocated_to:
+    en: Indonesia (Republic of)
+    fr: Indonésie (République d')
+    es: Indonesia (República de)
+- number_block: '74'
+  telex_code: NZ
+  allocated_to:
+    en: New Zealand
+    fr: Nouvelle-Zélande
+    es: Nueva Zelandia
+- number_block: '75'
+  allocated_to:
+    en: Philippines (Republic of the)
+    fr: Philippines (République des)
+    es: Filipinas (República de)
+  notes:
+    en: Block allocated to the Republic of the Philippines
+    fr: Bloc attibué à la République des Philippines.
+    es: Bloque atribuido a la República de Filipinas.
+- number_block: '750'
+- number_block: '751'
+  telex_code: PS
+  allocated_to:
+    en: Philippines (Republic of the) (CAPWIRE)
+    fr: Philippines (République des) (CAPWIRE)
+    es: Filipinas (República de) (CAPWIRE)
+- number_block: '752'
+  telex_code: PH
+  allocated_to:
+    en: Philippines (Republic of the) (PHILCOM)
+    fr: Philippines (République des) (PHILCOM)
+    es: Filipinas (República de) (PHILCOM)
+- number_block: '753'
+- number_block: '754'
+  telex_code: PM
+  allocated_to:
+    en: Philippines (Republic of the) (GMCR)
+    fr: Philippines (République des) (GMCR)
+    es: Filipinas (República de) (GMCR)
+- number_block: '755'
+- number_block: '756'
+  telex_code: PN
+  allocated_to:
+    en: Philippines (Republic of the) (ETPI)
+    fr: Philippines (République des) (ETPI)
+    es: Filipinas (República de) (ETPI)
+- number_block: '757'
+  telex_code: PI
+  allocated_to:
+    en: Philippines (Republic of the) (RCPI)
+    fr: Philippines (République des) (RCPI)
+    es: Filipinas (República de) (RCPI)
+- number_block: '758'
+  telex_code: PU
+  allocated_to:
+    en: Philippines (Republic of the) (PTT)
+    fr: Philippines (République des) (PTT)
+    es: Filipinas (República de) (PTT)
+- number_block: '759'
+- number_block: '760'
+  telex_code: MN
+  allocated_to:
+    en: Northern Mariana Islands (Commonwealth of the)
+    fr: Mariannes du Nord (Iles) (Commonwealth des)
+    es: Marianas del Norte (Islas) (Commonwealth de las)
+- number_block: '761'
+  telex_code: KI
+  allocated_to:
+    en: Kiribati (Republic of)
+    fr: Kiribati (République de)
+    es: Kiribati (República de)
+- number_block: '762'
+  allocated_to:
+    en: Tokelau
+    fr: Tokélau
+    es: Tokelau
+- number_block: '763'
+  telex_code: PW
+  allocated_to:
+    en: Palau (Republic of)
+    fr: Palau (République de)
+    es: Palau (República de)
+- number_block: '764'
+  telex_code: FM
+  allocated_to:
+    en: Micronesia (Federated States of)
+    fr: Micronésie (Etats fédérés de)
+    es: Micronesia (Estados Federados de)
+- number_block: '765'
+  telex_code: MS
+  allocated_to:
+    en: Marshall Islands (Republic of the)
+    fr: Marshall (Iles) (République des)
+    es: Marshall (Islas) (República de las)
+- number_block: '766'
+  allocated_to:
+    en: Australian External Territories
+    fr: Territoires extérieurs de l'Australie
+    es: Territorios Exteriores de Australia
+  notes:
+    en: |-
+      The Australian Administration announces that as part of integrated code 766, the telex code for:
+       – Norfolk Island is 766 3 (NV).
+       – Christmas Island is 766 7 (IO).
+    fr: |-
+      L'Administration de l'Australie informe que, dans le cadre du code intégré 766, le code télex pour:
+       – Norfolk (Ile de) est 766 3 (NV).
+       – Christmas (Ile) est 766 7 (IO).
+    es: |-
+      La Administración de Australia informa que, en el ámbito del código integrado 766, el código télex para:
+       – Norfolk (Isla de) es 766 3 (NV).
+       – Christmas (Isla) es 766 7 (IO).
+- number_block: '767'
+- number_block: '768'
+- number_block: '769'
+- number_block: '770'
+  telex_code: SB
+  allocated_to:
+    en: American Samoa
+    fr: Samoa américaines
+    es: Samoa Norteamericanas
+- number_block: '771'
+  telex_code: NH
+  allocated_to:
+    en: Vanuatu (Republic of)
+    fr: Vanuatu (République de)
+    es: Vanuatu (República de)
+- number_block: '772'
+  telex_code: RG
+  allocated_to:
+    en: Cook Islands
+    fr: Cook (Iles)
+    es: Cook (Islas)
+- number_block: '773'
+  allocated_to:
+    en: Hawaii (United States of America) (DATATEL)
+    fr: Hawaï (Etats-Unis d'Amérique) (DATATEL)
+    es: Hawai (Estados Unidos de América) (DATATEL)
+- number_block: '774'
+  telex_code: TV
+  allocated_to:
+    en: Tuvalu
+    fr: Tuvalu
+    es: Tuvalu
+- number_block: '775'
+  telex_code: ZV
+  allocated_to:
+    en: Nauru (Republic of)
+    fr: Nauru (République de)
+    es: Nauru (República de)
+- number_block: '776'
+  telex_code: NF
+  allocated_to:
+    en: Niue
+    fr: Niue
+    es: Niue
+- number_block: '777'
+  telex_code: TS
+  allocated_to:
+    en: Tonga (Kingdom of)
+    fr: Tonga (Royaume des)
+    es: Tonga (Reino de)
+- number_block: '778'
+  telex_code: HQ
+  allocated_to:
+    en: Solomon Islands
+    fr: Salomon (Iles)
+    es: Salomón (Islas)
+- number_block: '779'
+  telex_code: SX
+  allocated_to:
+    en: Samoa (Independent State of)
+    fr: Samoa-(Etat indépendant du)
+    es: Samoa (Estado Independiente de)
+- number_block: '780'
+  telex_code: BJ
+  allocated_to:
+    en: Bangladesh (People's Republic of)
+    fr: Bangladesh (République populaire du)
+    es: Bangladesh (República Popular de)
+- number_block: '781'
+  notes:
+    en: The remaining combinations in the series 78 will not be allocated until the
+      stock of spare 3-digit codes for the region is exhausted.
+    fr: Les combinaisons restantes de la série 78 ne seront assignées que lorsque
+      la réserve des codes à 3 chiffres de la région sera épuisée.
+    es: Las combinaciones restantes de la serie 78 se asignarán sólo después de agotada
+      la reserva de códigos de tres cifras.
+- number_block: '782'
+  notes:
+    en: The remaining combinations in the series 78 will not be allocated until the
+      stock of spare 3-digit codes for the region is exhausted.
+    fr: Les combinaisons restantes de la série 78 ne seront assignées que lorsque
+      la réserve des codes à 3 chiffres de la région sera épuisée.
+    es: Las combinaciones restantes de la serie 78 se asignarán sólo después de agotada
+      la reserva de códigos de tres cifras.
+- number_block: '783'
+  notes:
+    en: The remaining combinations in the series 78 will not be allocated until the
+      stock of spare 3-digit codes for the region is exhausted.
+    fr: Les combinaisons restantes de la série 78 ne seront assignées que lorsque
+      la réserve des codes à 3 chiffres de la région sera épuisée.
+    es: Las combinaciones restantes de la serie 78 se asignarán sólo después de agotada
+      la reserva de códigos de tres cifras.
+- number_block: '784'
+  telex_code: AI
+  allocated_to:
+    en: Azerbaijani Republic
+    fr: Azerbaïdjanaise (République)
+    es: Azerbaiyana (República)
+- number_block: '785'
+  telex_code: KZ
+  allocated_to:
+    en: Kazakhstan (Republic of)
+    fr: Kazakhstan (République du)
+    es: Kazajstán (República de)
+- number_block: '786'
+  telex_code: UZ
+  allocated_to:
+    en: Uzbekistan (Republic of)
+    fr: Ouzbékistan (République d')
+    es: Uzbekistán (República de)
+- number_block: '787'
+  telex_code: TJ
+  allocated_to:
+    en: Tajikistan (Republic of)
+    fr: Tadjikistan (République du)
+    es: Tayikistán (República de)
+- number_block: '788'
+  telex_code: KH
+  allocated_to:
+    en: Kyrgyz Republic
+    fr: République kirghize
+    es: República Kirguisa
+- number_block: '789'
+  telex_code: TM
+  allocated_to:
+    en: Turkmenistan
+    fr: Turkménistan
+    es: Turkmenistán
+- number_block: '79'
+  telex_code: AF
+  allocated_to:
+    en: Afghanistan
+    fr: Afghanistan
+    es: Afganistán
+- number_block: '800'
+  telex_code: MH
+  allocated_to:
+    en: Mongolia
+    fr: Mongolie
+    es: Mongolia
+- number_block: '801'
+  telex_code: K
+  allocated_to:
+    en: Korea (Republic of)
+    fr: Corée (République de)
+    es: Corea (República de)
+- number_block: '802'
+  telex_code: HX
+  allocated_to:
+    en: Hong Kong, China
+    fr: Hong Kong, Chine
+    es: Hong Kong, China
+- number_block: '803'
+  telex_code: CE
+  allocated_to:
+    en: Sri Lanka (Democratic Socialist Republic of)
+    fr: Sri Lanka (République socialiste démocratique de)
+    es: Sri Lanka (República Socialista Democrática de)
+- number_block: '804'
+  telex_code: LS
+  allocated_to:
+    en: Lao People's Democratic Republic
+    fr: Lao (République démocratique populaire)
+    es: Lao (República Democrática Popular)
+- number_block: '805'
+  telex_code: VT
+  allocated_to:
+    en: Viet Nam (Socialist Republic of)
+    fr: Viet Nam (République socialiste du)
+    es: Viet Nam (República Socialista de)
+- number_block: '806'
+  notes:
+    en: Previously allocated to the former People’s Democratic Republic of Yemen (see
+      ITU Operational Bulletin No 579 of 1.IX.1994).
+    fr: Attribué auparavant à l’ex-République démocratique populaire du Yémen (voir
+      le Bulletin d’exploitation de l’UIT No 579 du 1.IX.1994).
+    es: Anteriormente atribuido a la antigua República Democrática Popular del Yemen
+      (véase el Boletín de Explotación de la UIT No 579 del 1.IX.1994).
+- number_block: '807'
+  telex_code: KA
+  allocated_to:
+    en: Cambodia (Kingdom of)
+    fr: Cambodge (Royaume du)
+    es: Camboya (Reino de)
+- number_block: '808'
+  telex_code: OM
+  allocated_to:
+    en: Macao, China
+    fr: Macao, Chine
+    es: Macao, China
+- number_block: '809'
+  telex_code: BU
+  allocated_to:
+    en: Brunei Darussalam
+    fr: Brunéi Darussalam
+    es: Brunei Darussalam
+- number_block: '81'
+  telex_code: IN
+  allocated_to:
+    en: India (Republic of)
+    fr: Inde (République de l')
+    es: India (República de la)
+- number_block: '82'
+  telex_code: PK
+  allocated_to:
+    en: Pakistan (Islamic Republic of)
+    fr: Pakistan (République islamique du)
+    es: Pakistán (República Islámica del)
+- number_block: '83'
+  telex_code: BM
+  allocated_to:
+    en: Myanmar (Union of)
+    fr: Myanmar (Union de)
+    es: Myanmar (Unión de)
+- number_block: '84'
+  telex_code: MA
+  allocated_to:
+    en: Malaysia
+    fr: Malaisie
+    es: Malasia
+- number_block: '85'
+  telex_code: CN
+  allocated_to:
+    en: China (People's Republic of)
+    fr: Chine (République populaire de)
+    es: China (República Popular de)
+  notes:
+    en: 'Within this national code, the Telecommunication Administration of the People''s
+      Republic of China has notified that the code 855 has been allocated to the province
+      of Taiwan, China (Reference: Notification No. 1157 of 10 December 1980).'
+    fr: 'Dans le cadre de ce code national, l''Administration des télécommunications
+      de la République populaire de Chine a communiqué que le code 855 a été attribué
+      à la province de Taiwan, Chine (Référence: Notification N 1157 du 10 décembre
+      1980).'
+    es: 'En el marco de este código nacional, la Administración de telecomunicaciones
+      de la República Popular de China ha comunicado que se ha atribuido el código
+      855 a la provincia de Taiwan, China (Referencia: Notificación N.o 1157 del 10
+      de diciembre de 1980).'
+- number_block: '86'
+  telex_code: TH
+  allocated_to:
+    en: Thailand
+    fr: Thaïlande
+    es: Tailandia
+- number_block: '87'
+  telex_code: RS
+  allocated_to:
+    en: Singapore (Republic of)
+    fr: Singapour (République de)
+    es: Singapur (República de)
+- number_block: '88'
+  telex_code: IR
+  allocated_to:
+    en: Iran (Islamic Republic of)
+    fr: Iran (République islamique d')
+    es: Irán (República Islámica del)
+- number_block: '890'
+  telex_code: BT
+  allocated_to:
+    en: Bhutan (Kingdom of)
+    fr: Bhoutan (Royaume du)
+    es: Bhután (Reino de)
+- number_block: '891'
+  telex_code: NP
+  allocated_to:
+    en: Nepal
+    fr: Népal
+    es: Nepal
+- number_block: '892'
+- number_block: '893'
+  telex_code: EM
+  allocated_to:
+    en: United Arab Emirates (ETISALAT)
+    fr: Emirats arabes unis (ETISALAT)
+    es: Emiratos Árabes Unidos (ETISALAT)
+- number_block: '894'
+- number_block: '895'
+  telex_code: YE
+  allocated_to:
+    en: Yemen (Republic of)
+    fr: Yémen (République du)
+    es: Yemen (República del)
+- number_block: '896'
+  telex_code: MF
+  allocated_to:
+    en: Maldives (Republic of)
+    fr: Maldives (République des)
+    es: Maldivas (República de)
+- number_block: '897'
+- number_block: '898'
+- number_block: '899'
+  telex_code: KP
+  allocated_to:
+    en: Democratic People's Republic of Korea
+    fr: République populaire démocratique de Corée
+    es: República Popular Democrática de Corea
+- number_block: '900'
+  telex_code: SM
+  allocated_to:
+    en: Somali Democratic Republic
+    fr: Somalie (République démocratique)
+    es: Somalí (República Democrática)
+- number_block: '901'
+  telex_code: LY
+  allocated_to:
+    en: Socialist People's Libyan Arab Jamahiriya
+    fr: Jamahiriya arabe libyenne populaire et socialiste
+    es: Jamahiriya Árabe Libia Popular y Socialista
+- number_block: '902'
+  telex_code: ZA
+  allocated_to:
+    en: Zambia (Republic of)
+    fr: Zambie (République de)
+    es: Zambia (República de)
+- number_block: '903'
+  telex_code: UU
+  allocated_to:
+    en: Burundi (Republic of)
+    fr: Burundi (République du)
+    es: Burundi (República de)
+- number_block: '904'
+  telex_code: MI
+  allocated_to:
+    en: Malawi
+    fr: Malawi
+    es: Malawi
+- number_block: '905'
+  telex_code: NG
+  allocated_to:
+    en: Nigeria (Federal Republic of)
+    fr: Nigéria (République fédérale du)
+    es: Nigeria (República Federal de)
+- number_block: '906'
+  telex_code: SG
+  allocated_to:
+    en: Senegal (Republic of)
+    fr: Sénégal (République du)
+    es: Senegal (República del)
+- number_block: '907'
+  telex_code: ZW
+  allocated_to:
+    en: Zimbabwe (Republic of)
+    fr: Zimbabwe (République du)
+    es: Zimbabwe (República de)
+- number_block: '908'
+  telex_code: WK
+  allocated_to:
+    en: Namibia (Republic of)
+    fr: Namibie (République de)
+    es: Namibia (República de)
+- number_block: '909'
+  telex_code: RW
+  allocated_to:
+    en: Rwanda (Republic of)
+    fr: Rwanda (République du)
+    es: Rwanda (República de)
+- number_block: '91'
+  telex_code: UN
+  allocated_to:
+    en: Egypt (Arab Republic of)
+    fr: Egypte (République arabe d')
+    es: Egipto (República Árabe de)
+- number_block: '920'
+  telex_code: ER
+  allocated_to:
+    en: Eritrea
+    fr: Erythrée
+    es: Eritrea
+  notes:
+    en: Officially allocated but has not yet been in service.
+    fr: Officillement attribué mais pas encore mis en service.
+    es: Atribuido oficialmente pero no puesto aún en servicio.
+- number_block: '921'
+- number_block: '922'
+- number_block: '923'
+- number_block: '924'
+- number_block: '925'
+- number_block: '926'
+- number_block: '927'
+- number_block: '928'
+- number_block: '929'
+- number_block: '930'
+- number_block: '931'
+- number_block: '932'
+- number_block: '933'
+- number_block: '934'
+- number_block: '935'
+- number_block: '936'
+- number_block: '937'
+- number_block: '938'
+  telex_code: DG
+  allocated_to:
+    en: Diego Garcia
+    fr: Diego Garcia
+    es: Diego García
+- number_block: '939'
+  telex_code: AV
+  notes:
+    en: Previously allocated to Former Ascension
+    fr: Attribué auparavant à l’ex-Ascension.
+    es: Anteriormente atribuido a la antigua Ascensi’on.
+- number_block: '94'
+  telex_code: GH
+  allocated_to:
+    en: Ghana
+    fr: Ghana
+    es: Ghana
+- number_block: '95'
+  telex_code: SA
+  allocated_to:
+    en: South Africa (Republic of)
+    fr: Sudafricaine (République)
+    es: Sudafricana (República)
+- number_block: '960'
+  telex_code: HL
+  allocated_to:
+    en: Saint Helena, Ascension and Tristan da Cunha
+    fr: Sainte-Hélène, Ascencion et Tristan da Cunha
+    es: Santa Elena
+- number_block: '961'
+  telex_code: RE
+  allocated_to:
+    en: French Departments and Territories in the Indian Ocean
+    fr: France de l'océan Indien
+    es: Departamentos y territorios franceses del Océano Índico
+- number_block: '962'
+  telex_code: BD
+  allocated_to:
+    en: Botswana (Republic of)
+    fr: Botswana (République du)
+    es: Botswana (República de)
+- number_block: '963'
+  telex_code: LO
+  allocated_to:
+    en: Lesotho (Kingdom of)
+    fr: Lesotho (Royaume du)
+    es: Lesotho (Reino de)
+- number_block: '964'
+  telex_code: WD
+  allocated_to:
+    en: Swaziland (Kingdom of)
+    fr: Swaziland (Royaume du)
+    es: Swazilandia (Reino de)
+- number_block: '965'
+  telex_code: SZ
+  allocated_to:
+    en: Seychelles (Republic of)
+    fr: Seychelles (République des)
+    es: Seychelles (República de)
+- number_block: '966'
+  telex_code: IW
+  allocated_to:
+    en: Mauritius (Republic of)
+    fr: Maurice (République de)
+    es: Mauricio (República de)
+- number_block: '967'
+  telex_code: ST
+  allocated_to:
+    en: Sao Tome and Principe (Democratic Republic of)
+    fr: Sao Tomé-et-Principe (République démocratique de)
+    es: Santo Tomé y Príncipe (República Democrática de)
+- number_block: '968'
+- number_block: '969'
+  telex_code: BI
+  allocated_to:
+    en: Guinea-Bissau (Republic of)
+    fr: Guinée-Bissau (République de)
+    es: Guinea-Bissau (República de)
+- number_block: '970'
+  telex_code: KN
+  allocated_to:
+    en: Cameroon (Republic of)
+    fr: Cameroun (République du)
+    es: Camerún (República de)
+- number_block: '971'
+  telex_code: RC
+  allocated_to:
+    en: Central African Republic
+    fr: Centrafricaine (République)
+    es: Centroafricana (República)
+- number_block: '972'
+  telex_code: BC
+  allocated_to:
+    en: Benin (Republic of)
+    fr: Bénin (République du)
+    es: Benin (República de)
+- number_block: '973'
+  telex_code: GO
+  allocated_to:
+    en: Gabonese Republic
+    fr: Gabonaise (République)
+    es: Gabonesa (República)
+- number_block: '974'
+  telex_code: MQ
+  allocated_to:
+    en: Mauritania (Islamic Republic of)
+    fr: Mauritanie (République islamique de)
+    es: Mauritania (República Islámica de)
+- number_block: '975'
+  telex_code: NI
+  allocated_to:
+    en: Niger (Republic of the)
+    fr: Niger (République du)
+    es: Níger (República del)
+- number_block: '976'
+  telex_code: KD
+  allocated_to:
+    en: Chad (Republic of)
+    fr: Tchad (République du)
+    es: Chad (República del)
+- number_block: '977'
+  telex_code: TG
+  allocated_to:
+    en: Togolese Republic
+    fr: Togolaise (République)
+    es: Togolesa (República)
+- number_block: '978'
+  telex_code: BF
+  allocated_to:
+    en: Burkina Faso
+    fr: Burkina Faso
+    es: Burkina Faso
+- number_block: '979'
+  telex_code: DJ
+  allocated_to:
+    en: Djibouti (Republic of)
+    fr: Djibouti (République de)
+    es: Djibouti (República de)
+- number_block: '980'
+  telex_code: ET
+  allocated_to:
+    en: Ethiopia (Federal Democratic Republic of)
+    fr: Ethiopie (République fédérale démocratique d')
+    es: Etiopía (República Democrática Federal de)
+- number_block: '981'
+  telex_code: KG
+  allocated_to:
+    en: Congo (Republic of the)
+    fr: Congo (République du)
+    es: Congo (República del)
+- number_block: '982'
+  telex_code: CG
+  allocated_to:
+    en: Democratic Republic of the Congo
+    fr: République démocratique du Congo
+    es: República Democrática del Congo
+- number_block: '983'
+  telex_code: CI
+  allocated_to:
+    en: Côte d'Ivoire (Republic of)
+    fr: Côte d'Ivoire (République de)
+    es: Côte d'Ivoire (República de)
+- number_block: '984'
+  telex_code: SD
+  allocated_to:
+    en: Sudan (Republic of the)
+    fr: Soudan (République du)
+    es: Sudán (República del)
+- number_block: '985'
+  telex_code: MJ
+  allocated_to:
+    en: Mali (Republic of)
+    fr: Mali (République du)
+    es: Malí (República de)
+- number_block: '986'
+  telex_code: MG
+  allocated_to:
+    en: Madagascar (Republic of)
+    fr: Madagascar (République de)
+    es: Madagascar (República de)
+- number_block: '987'
+  telex_code: KE
+  allocated_to:
+    en: Kenya (Republic of)
+    fr: Kenya (République du)
+    es: Kenya (República de)
+- number_block: '988'
+  telex_code: UG
+  allocated_to:
+    en: Uganda (Republic of)
+    fr: Ouganda (République de l')
+    es: Uganda (República de)
+- number_block: '989'
+  telex_code: TZ
+  allocated_to:
+    en: Tanzania (United Republic of) (mainland)
+    fr: Tanzanie (République-Unie de) (continent)
+    es: Tanzanía (República Unida de) (continente)
+- number_block: '990'
+  telex_code: TA
+  allocated_to:
+    en: Zanzibar (Tanzania)
+    fr: Zanzibar (Tanzanie)
+    es: Zanzíbar (Tanzanía)
+- number_block: '991'
+  telex_code: AN
+  allocated_to:
+    en: Angola (Republic of)
+    fr: Angola (République d')
+    es: Angola (República de)
+- number_block: '992'
+  telex_code: MO
+  allocated_to:
+    en: Mozambique (Republic of)
+    fr: Mozambique (République du)
+    es: Mozambique (República de)
+- number_block: '993'
+  telex_code: CV
+  allocated_to:
+    en: Cape Verde (Republic of)
+    fr: Cap-Vert (République du)
+    es: Cabo Verde (República de)
+- number_block: '994'
+  telex_code: KO
+  allocated_to:
+    en: Comoros (Union of the)
+    fr: Comores (Union des)
+    es: Comoras (Unión de las)
+- number_block: '995'
+  telex_code: GE
+  allocated_to:
+    en: Guinea (Republic of)
+    fr: Guinée (République de)
+    es: Guinea (República de)
+- number_block: '996'
+  telex_code: GV
+  allocated_to:
+    en: Gambia (Republic of the)
+    fr: Gambie (République de)
+    es: Gambia (República de)
+- number_block: '997'
+  telex_code: LI
+  allocated_to:
+    en: Liberia (Republic of)
+    fr: Libéria (République du)
+    es: Liberia (República de)
+- number_block: '998'
+  telex_code: SL
+  allocated_to:
+    en: Sierra Leone
+    fr: Sierra Leone
+    es: Sierra Leona
+- number_block: '999'
+  telex_code: EG
+  allocated_to:
+    en: Equatorial Guinea (Republic of)
+    fr: Guinée équatoriale (République de)
+    es: Guinea Ecuatorial (República de)

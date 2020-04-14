@@ -1,0 +1,301 @@
+---
+metadata:
+  title:
+    en: Countries or geographical areas for which information regarding cessation
+      of telex service has been published in the ITU Operational Bulletin (No.)
+    fr: Pays ou zones géographiques pour lesquels des renseignements relatifs à la
+      cessation du service télex ont été publiés dans le bulletin d'exploitation de
+      l'UIT (No)
+    es: Países o zonas geográficas para los cuales una información sobre la cesación
+      de servicio de télex ha sido publicada en el Boletín de Explotación de la UIT
+      (N.)
+  locale:
+    ob_number:
+      en: OB No.
+      fr: BE N.o
+      es: BE N.o
+    telex_code:
+      en: TNIC
+      fr: CIRT
+      es: CIRT
+    geographic_area:
+      en: Country/Geographical area
+      fr: Países/Zonas geográficas
+      es: Pays/Zones géographiques
+data:
+- ob_number: 681
+  telex_code: RG
+  geographic_area:
+    en: Cook Islands
+    fr: Cook (Islas)
+    es: Cook (Iles)
+- ob_number: 692
+  telex_code: TS
+  geographic_area:
+    en: Tonga
+    fr: Tonga
+    es: Tonga
+- ob_number: 693
+  telex_code: FJ
+  geographic_area:
+    en: Fiji
+    fr: Fiji
+    es: Fidji
+- ob_number: 702
+  telex_code: SX
+  geographic_area:
+    en: Samoa
+    fr: Samoa
+    es: Samoa
+- ob_number: 724
+  telex_code: NH
+  geographic_area:
+    en: Vanuatu
+    fr: Vanuatu
+    es: Vanuatu
+- ob_number: 734
+  telex_code: IS
+  geographic_area:
+    en: Iceland
+    fr: Islandia
+    es: Islande
+- ob_number: 735
+  telex_code: ST
+  geographic_area:
+    en: Sao Tome and Principe
+    fr: Santo Tomé y Príncipe
+    es: Sao Tomé-et-Principe
+- ob_number: 749
+  telex_code: A
+  geographic_area:
+    en: Austria
+    fr: Austria
+    es: Autriche
+- ob_number: 754
+  telex_code: NE
+  geographic_area:
+    en: Papua New Guinea
+    fr: Papua Nueva Guinea
+    es: Papouasie-Nouvelle-Guinée
+- ob_number: 758
+  telex_code: VA
+  geographic_area:
+    en: Vatican
+    fr: Vaticano
+    es: Vatican
+- ob_number: 770
+  telex_code: GY
+  geographic_area:
+    en: Guyana
+    fr: Guyana
+    es: Guyana
+- ob_number: 770
+  telex_code: HN
+  geographic_area:
+    en: Haiti
+    fr: Haití
+    es: Haïti
+- ob_number: 772
+  telex_code: MO
+  geographic_area:
+    en: Mozambique
+    fr: Mozambique
+    es: Mozambique
+- ob_number: 773
+  telex_code: PL
+  geographic_area:
+    en: Poland
+    fr: Polonia
+    es: Pologne
+- ob_number: 775
+  telex_code: AD
+  geographic_area:
+    en: Andorra
+    fr: Andorra
+    es: Andorre
+- ob_number: 775
+  telex_code: NM
+  geographic_area:
+    en: New Caledonia
+    fr: Nueva Caledonia
+    es: Nouvelle-Calédonie
+- ob_number: 776
+  telex_code: BH
+  geographic_area:
+    en: Bosnia and Herzegovina
+    fr: Bosnia y Herzegovina
+    es: Bosnie-Herzégovine
+- ob_number: 799
+  telex_code: HN
+  geographic_area:
+    en: Hungary
+    fr: Hungría
+    es: Hongrie
+- ob_number: 806
+  telex_code: NA
+  geographic_area:
+    en: Curaçao (former Netherlands Antilles)
+    fr: Curacao ( anteriormente Antillas Neerlandesas)
+    es: Curaçao (anciennement Antilles néerlandaises)
+- ob_number: 806
+  telex_code: FA
+  geographic_area:
+    en: Faroe Islands (Denmark)
+    fr: Feroé (Islas) (Dinamarca)
+    es: Féroé (Iles) (Danemark)
+- ob_number: 835
+  telex_code: DK
+  geographic_area:
+    en: Denmark
+    fr: Dinamarca
+    es: Danemark
+- ob_number: 852
+  telex_code: PK
+  geographic_area:
+    en: Pakistan
+    fr: Pakistán
+    es: Pakistan
+- ob_number: 853
+  telex_code: SK
+  geographic_area:
+    en: Slovakia
+    fr: Eslovaquia
+    es: Slovaquie
+- ob_number: 859
+  telex_code: SN
+  geographic_area:
+    en: Suriname
+    fr: Suriname
+    es: Suriname
+- ob_number: 859
+  telex_code: BJ
+  geographic_area:
+    en: Bangladesh
+    fr: Bangladesh
+    es: Bangladesh
+- ob_number: 873
+  telex_code: WG
+  geographic_area:
+    en: Trinidad and Tobago
+    fr: Trinidad y Tabago
+    es: Trinité-et-Tobago
+- ob_number: 888
+  telex_code: IW
+  geographic_area:
+    en: Mauritius (via Swiss Telex)
+    fr: Mauricio (via Swiss Telex)
+    es: Maurice (via Swiss Telex)
+- ob_number: 889
+  telex_code: RH
+  geographic_area:
+    en: Croatia (Gentex via Swiss Telex)
+    fr: Croatia (Gentex via Swiss Telex)
+    es: Croatie (Gentex via Swiss Telex)
+- ob_number: 895
+  telex_code: DK
+  geographic_area:
+    en: Germany (via Swiss Telex)
+    fr: Alemania (via Swiss Telex)
+    es: Allemagne (via Swiss Telex)
+- ob_number: 900
+  telex_code: YU
+  geographic_area:
+    en: Serbia
+    fr: Serbia
+    es: Serbie
+- ob_number: 905
+  telex_code: GY
+  geographic_area:
+    en: United Kingdom (via Swiss Telex)
+    fr: Reino Unido de Gran Bretaña (via Swiss Telex)
+    es: Royaume-Uni (via Swiss Telex)
+- ob_number: 906
+  telex_code: YE
+  geographic_area:
+    en: Yemen
+    fr: Yemen
+    es: Yémen
+- ob_number: 911
+  telex_code: CY
+  geographic_area:
+    en: Cyprus (via Network Telex (UK))
+    fr: Chipre (via Network Telex (UK))
+    es: Chypre (via Network Telex (UK))
+- ob_number: 911
+  telex_code: C
+  geographic_area:
+    en: Czech
+    fr: Checa
+    es: Tchèque
+- ob_number: 918
+  telex_code: HX
+  geographic_area:
+    en: Hong Kong, China (via EasyLink)
+    fr: Hong Kong, China (via Easylink)
+    es: Hong Kong, Chine (via Easylink)
+- ob_number: 919
+  telex_code: MW
+  geographic_area:
+    en: Malta (Go plc)
+    fr: Malta (Go plc)
+    es: Malte (Go plc)
+- ob_number: 920
+  telex_code: MF
+  geographic_area:
+    en: Maldives (via Swiss Telex)
+    fr: Maldives (via Swiss Telex)
+    es: Maldives (via Swiss Telex)
+- ob_number: 921
+  telex_code: I
+  geographic_area:
+    en: Italy (via Swiss Telex)
+    fr: Italia (via Swiss Telex)
+    es: Italie (via Swiss Telex)
+- ob_number: 923
+  telex_code: LU
+  geographic_area:
+    en: Luxembourg
+    fr: Luxemburgo
+    es: Luxembourg
+- ob_number: 924
+  telex_code: PN
+  geographic_area:
+    en: Philippines (ETPI) (via Swiss Telex)
+    fr: Philippines (ETPI) (via Swiss Telex)
+    es: Philippines (ETPI) (via Swiss Telex)
+- ob_number: 931
+  telex_code: RS
+  geographic_area:
+    en: Singapore, new operator AimsOne Pte Ltd (via Swiss Telex)
+    fr: Singapur, nuevo operador AimsOne Pte Ltd (via Swiss Telex)
+    es: Singapour, nouvel opérateur AimsOne Pte Ltd (via Swiss Telex)
+- ob_number: 931
+  telex_code: E
+  geographic_area:
+    en: Spain (via Easy Link)
+    fr: Espana (via Easy Link)
+    es: Espagne (via Easy Link)
+- ob_number: 940
+  telex_code: BG
+  geographic_area:
+    en: Bulgaria
+    fr: Bulgaria
+    es: Bulgarie
+- ob_number: 941
+  telex_code: F
+  geographic_area:
+    en: France (via transit)
+    fr: Francia (via transit)
+    es: France (via transit)
+- ob_number: 959
+  telex_code: BN
+  geographic_area:
+    en: Bahrain (via Swiss Telex)
+    fr: Bahrein (via Swiss Telex)
+    es: Bahreïn (via Swiss Telex)
+- ob_number: 959
+  telex_code: LT
+  geographic_area:
+    en: Lithuania (via Telegraf OU (Estonia))
+    fr: Lituania (via Telegraf OU (Estonia))
+    es: Lituanie (via Telegraf OU (Estonie))

@@ -1,0 +1,6651 @@
+---
+metadata:
+  title:
+    en: List of Recognized Operating Agencies (ROAs)​
+    es: Lista de empresas de explotación reconocidas (EER)
+    fr: Liste des exploitations reconnues (ER)
+  locale:
+    country_or_area:
+      en: Country or geographic area
+      es: País o área geográfica
+      fr: Pays ou zone géographique
+    company_name:
+      en: Company’s (ROA) name
+      es: Nombre de la empresa (EER)
+      fr: Nom de la société (ER)
+    address:
+      en: Company's (ROA) address
+      es: Dirección de la empresa (EER)
+      fr: Adresse de la société (ER)
+    tel:
+      en: Tel
+      es: Tel
+      fr: Tél
+    fax:
+      en: Fax
+      es: Fax
+      fr: Fax
+    email:
+      en: E-mail
+      es: E-mail
+      fr: E-mail
+    url:
+      en: URL
+      es: URL
+      fr: URL
+    ob_issue_number:
+      en: 
+      es: OB
+      fr: OB
+data:
+- country_or_area: Afganistan
+  company_name: Afghan Telecom Limited
+  address: |-
+    Mohammad Jan Khan
+    Watt MoC Building
+    KABUL
+  tel: "+93 20 210 4000"
+  fax: N/A
+  email: g.noorzaie@moc.gov.af
+  ob_issue_number: '837'
+- country_or_area: Afganistan
+  company_name: Afghan Wireless Communication Company
+  address: |-
+    Cinema Pamir, Third Floor
+    KABUL
+  tel: "+93 70 877 877"
+  fax: N/A
+  email: a.ramin@telesysint.com
+  ob_issue_number: '837'
+- country_or_area: Afganistan
+  company_name: Ariana Telecom
+  address: |-
+    Flower Street Shar-e-Naw Afsoter Building Second Floor
+    KABUL
+  tel: "+93 79 328 4000"
+  fax: N/A
+  email: sultan@arianatelecom.com.af
+  ob_issue_number: '837'
+- country_or_area: Afganistan
+  company_name: CeReTechs
+  address: 'House #39 Karta-e-Perwan KABUL'
+  tel: "+93 70 274 826"
+  fax: N/A
+  email: info@ceretechs.com / mina@ceretechs.com
+  ob_issue_number: '837'
+- country_or_area: Afganistan
+  company_name: Insta Telecome
+  address: 'House #40 Main Street, Three Ways Wazir Akber Khan KABUL'
+  tel: "+93 20 219 1678"
+  fax: "+93 20 210 1678"
+  email: kabulsupport@instatelecom.com
+  ob_issue_number: '837'
+- country_or_area: Afganistan
+  company_name: IO-Global
+  address: 'House #329 15th Street, 5th Lane Wazir Akber Khan KABUL'
+  tel: "+93 79 012 850"
+  fax: N/A
+  email: sgupta@io-global.com
+  ob_issue_number: '837'
+- country_or_area: Afganistan
+  company_name: KB I. AF
+  address: 'House #5 10th Street, 1st Lane Wazir Akber Khan KABUL'
+  tel: "+93 70 245 160"
+  fax: N/A
+  email: info@kbiafghanistan.com / info@io-global.com
+  ob_issue_number: '837'
+- country_or_area: Afganistan
+  company_name: Neda
+  address: |-
+    Post Parcel
+    MoC Building, Ground Floor KABUL
+  tel: "+93 70 297 511"
+  fax: N/A
+  email: shakir@neda.af
+  ob_issue_number: '837'
+- country_or_area: Afganistan
+  company_name: New Dunia
+  address: MoC Building, Ground Floor KABUL
+  tel: "+93 20 210 3766"
+  fax: N/A
+  email: info@newdunia.com / jnoorzai@yahoo.com
+  ob_issue_number: '837'
+- country_or_area: Afganistan
+  company_name: Park Telcom
+  address: Charahi Ansari KABUL
+  tel: "+93 70 278 022"
+  fax: N/A
+  email: sabilatifi@yahoo.com
+  ob_issue_number: '837'
+- country_or_area: Afganistan
+  company_name: Telecommunication Development Company for Afghanistan Limited (TDCA)
+    Trading as Roshan
+  address: 'House #13, Main Street Wazir Akber Khan KABUL'
+  tel: "+93 79 999 996"
+  fax: "+93 79 978 401"
+  email: samir.satchu@roshan.af
+  ob_issue_number: '837'
+- country_or_area: Algeria
+  company_name: Algérie Télécom SPA
+  address: |-
+    Route National No. 5
+    Cinq Maisons, Mohammadia
+    ALGER 16130
+  tel: "+213 21 823 838"
+  fax: "+213 21 823 839"
+  email: contact@algerietelecom.dz
+  url: www.algerietelecom.dz
+- country_or_area: Algeria
+  company_name: Consortium Algérien des Télécommunications (CAT)
+  address: |-
+    Algeria Business Center
+    Hilton Tower (9ème étage)
+    Puis maritimes Mohammedia
+    ALGER
+  tel: "+213 17 770 131"
+  fax: "+213 17 117 009"
+  email: icherraqui@lacom.dz
+- country_or_area: Algeria
+  company_name: Orascom Telecom Algérie
+  address: |-
+    Lot. No 8ª
+    RN No 5, Avenue Mouloud Feraoun
+    ALGER, Dar El Beida 16000
+  tel: "+213 70 851004"
+  fax: "+213 70 851007"
+  email: yasmine.debbouz@otalgerie.com
+  url: www.otalgerie.com
+- country_or_area: Algeria
+  company_name: Wataniya Telecom Algérie s.p.a.
+  address: |-
+    Cité des 1200 Logements
+    Dar El Beida
+    ALGER
+  tel: "+213 5450 0911"
+  fax: "+213 5450 1902"
+  email: mohamed.kaddour@wataniyaalgerie.com
+  url: www.nedjma.dz
+- country_or_area: Andorra
+  company_name: Servei de Telecomunicaciones d’Andorra
+  address: |-
+    Avenida Meritxell, 112
+    ANDORRA LA VELLA
+  tel: "+376 821 021"
+  fax: "+376 860 600"
+- country_or_area: Angola
+  company_name: Angola Telecom
+  address: Caixa Postal 625 LUANDA
+  tel: "+244 22 233 4102"
+  fax: "+244 22 239 1688"
+- country_or_area: Angola
+  company_name: Movicel Telecomunicações Lda
+  address: "Rua Mãe Isabel, No. 1 \n1 Andar\nLUANDA"
+  tel: "+244 22 269 2454"
+  fax: "+244 22 244 0130"
+- country_or_area: Anguilla
+  company_name: Cable and Wireless (W.I.) Ltd
+  address: |-
+    P.O. Box 77
+    THE VALLEY
+  tel: "+1 264 497 2650"
+  fax: "+1 264 497 3390"
+- country_or_area: Antigua and Barbuda
+  company_name: Cable and Wireless (W.I.) Ltd
+  address: |-
+    P.O. Box 65
+    42/44 St. Mary’s Street
+    ST. JOHN’S, Antigua
+  tel: "+1 268 462 0810"
+  fax: "+1 268 462 0843"
+- country_or_area: Argentina
+  company_name: Aginet S.A.
+  address: |-
+    Florida
+    No. 470 Piso 3 DPTO 311 C1005AAJ BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Arcotel S.A.
+  address: |-
+    Avenida Córdoba
+    No. 3016 Piso 2 DPTO 20 C1187AAR BUENOS AIRES
+  tel: "+54 11 4964 3002"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Argentina de Soluciones Satelitales S.A. (AR- SAT S.A.)
+  address: Bouchard 680 Piso 12 (C1106ABJ) BUENOS AIRES
+  tel: "+54 11 5811 2600"
+  fax: "+54 11 5811 2688"
+  email: eronco@arsat.com.ar
+- country_or_area: Argentina
+  company_name: Argentina Telecard S.A.
+  address: |-
+    Esmeralda
+    No. 1080 Piso 7 DPTO C1007ABN BUENOS AIRES
+  tel: "+54 11 4893 1230"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: AT&T Argentina S.A.
+  address: |-
+    Avenida Brasil
+    No. 97 Piso DPTO C1063AAA BUENOS AIRES
+  tel: "+54 11 4000 3760"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: AZUL TEL INC.
+  address: |-
+    Sucursal Argentina Alicia Moreau de Justo
+    No. 1020 Piso 3 DPTO C1107AAV BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Ba Way S.R.L.
+  address: |-
+    Avenida Corrientes
+    No. 2322 Piso 12  DPTO 1210 C1046AAO BUENOS AIRES
+  tel: "+54 11 4723 9000"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Bantel S.A.
+  address: |-
+    9 de Julio
+    No. 162 Piso EP DPTO K/R X5000EMD CÓRDOBA
+  tel: "+54 351 429 7410"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: BT Global Networks de Argentina S.R.L.
+  address: |-
+    Esmeralda
+    No. 1394 Piso 6 DPTO 8 C1007ABT BUENOS AIRES
+  tel: "+54 11 4327 0278"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: C.P.S. COMUNICACIONES S.A.
+  address: |-
+    Avenida Pres Gral J.A. Roca
+    No. 620 Piso 8 DPTO C1067ABO BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: C.T.I. CIA. de Teléfonos del Interior S.A.
+  address: |-
+    Avenida Figueroa Alcorta
+    No. 3259 Piso DPTO C1425CKL BUENOS AIRES
+  tel: "+54 11 4809 8888"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cableway S.A.
+  address: |-
+    Avenida Córdoba
+    No. 1131 Piso 5 DPTO C1055AAB BUENOS AIRES
+  tel: "+54 11 4812 4810"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Call Solutions S.A.
+  address: Gral. Juan José Viamonte No. 577 Piso 8 DPTO 61 C1053ABK BUENOS AIRES
+  tel: "+54 11 4313 0057"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Callbi S.A.
+  address: |-
+    Carlos Pelligrini
+    No. 1089 Piso 2 DPTO C C1009ABU BUENOS AIRES
+  tel: "+54 11 4328 2540"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Citilan Argentina S.A.
+  address: |-
+    Avenida Leandro N. Alem No. 925 Piso 4 DPTO A
+    C1058AAM BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Colubris S.A.
+  address: |-
+    Sarmiento
+    No. 1562 Piso 1 DPTO 7 C1042ABD BUENOS AIRES
+  tel: "+54 11 4382 8730"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Compañía Argentina de Telecomunicaciones S.R.L.
+  address: |-
+    Avenida Córdoba
+    No. 1215 Piso 4 DPTO 8 C1055AAC BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Compañía de Teléfonos del Plata S.A.
+  address: |-
+    Ing. Enrique Butty
+    No. 240 Piso 20 DPTO C1001AFB BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Comsat Argentina S.A.
+  address: |-
+    Carlos Pelligrini
+    No. 1363 Piso 6 DPTO C1011AAA BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Comte Communications Technology S.A.
+  address: |-
+    Austria
+    No. 2351 Piso 6 DPTO C1425EGM BUENOS AIRES
+  tel: "+54 11 4807 0834"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Convergia Argentina S.A.
+  address: |-
+    Cerrito
+    No. 1110 Piso 7 DPTO A C1010AAX BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa de Electricidad Ltda. de Pedro Luro
+  address: |-
+    Calle 101
+    No. 1076 Piso DPTO
+    B8148AHX Pedro Luro BUENOS AIRES
+  tel: "+54 2928 42 0059"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa de Electricidad Servicios y Obras Públicas de San Bernardo
+    Ltda.
+  address: |-
+    Avenida Mitre
+    No. 2660 Piso DPTO
+    B7111BPY San Bernardo (Pdo. de la Costa) BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa de Electricidad, Obras, Crédito, Vivienda y Servicios
+    Públicos de las Flores Limitada
+  address: |-
+    25 de Mayo No.513 Piso DPTO
+    B7200ABK Las Flores BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa de Emprendimientos Múltiples Sudecor Litoral Limitada
+  address: |-
+    Córdoba
+    No. 399 PISO DPTO
+    X2550AAG Bell Ville CÓRDOBA
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa de Luz y Fuerza Eléctrica de Rojas Ltda.
+  address: |-
+    General José Marie Paz No. 178 Piso DPTO
+    B2705ABD Rojas BUENOS AIRES
+  tel: "+54 2475 46 5900"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa de Luz y Fuerza Eléctrica, Otros Servicios Públicos, Vivienda
+    y Crédito de Punta Alta Limitada
+  address: |-
+    Dr. Juan José Paso No. 550 Piso DPTO
+    B8109CGL Punta Alta BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa de Provisión de Obras y Servicios Públicos y Sociales
+    de Cruz Alta Ltda.
+  address: |-
+    Domingo F. Sarmiento No. 858 Piso DPTO
+    X2189CMR Cruz Alta CÓRDOBA
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa de Provisión de Servicios Eléctricos, Otros Servicios
+    Públicos, de Servicios Sociales, Crédito y Vivienda Limitada de San Cayetano
+  address: |-
+    Juan Claudio Magnin No. 229 Piso DPTO
+    B7521BUE San Cayetano BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa de Provision de Servicios Públicos de Tortuguitas Ltda.
+  address: |-
+    Moreno
+    No. 1160 Piso DPTO
+    B1667LDD Tortuguitas BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa de Provisión de Servicios Telefónicos y Otros Servicios
+    Públicos Benavidez Ltda.
+  address: |-
+    Tucuman
+    No. 2979 Piso DPTO
+    B1621ASU Benavides BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa de Provisión de Servicios Telefónicos, Obras y Otros Servicios
+    Publicos y Sociales Virrey del Pino Limitada Máximo Herrera
+  address: |-
+    No. 6043 Piso DPTO
+    B1764CQA Virrey del Pino BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa de Provisión de Servicios Telefónicos, Otros Servicios
+    Publicos y Consumo de Mariano Acosta Ltda.
+  address: |-
+    Superi
+    No. 660 Piso DPTO
+    B1724CRD Mariano Acosta BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa de Provisión y Comercialización de Servicios Comunitarios
+    de Radiodifusión “Colsecor” Limitada
+  address: Avenida Castro Barros No. 146 Piso DPTO X5000HTO CÓRDOBA
+  tel: "+54 351 471 9096"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperative de Servicios Públicos de Colonia Caroya y Jesús Maria
+    Ltda.
+  address: |-
+    José Alice Esq Don Bosco No. S/N Piso DPTO
+    5223 Colonia Caroya CÓRDOBA
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa de Servicios y Obras Públicas Ltda.
+  address: |-
+    Puan
+    Lavalle No. 61 Piso DPTO B8180ATA Puan BUENOS AIRES
+  tel: "+54 2923 48 8150"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa Eléctrica de Consumo y Otros Servicios de Saladillo Limitada
+  address: |-
+    Avenida Dr. Manuel Belgrano No. 3384 Piso DPTO
+    B7260ART Saladillo BUENOS AIRES
+  tel: "+54 2344 45 4402"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa Eléctrica de Las Perdices Ltda. Dr. Dalmacio Velez Sarsfield
+  address: |-
+    No. 657 Piso DPTO
+    X5921BMM Las perdices CÓRDOBA
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa Eléctrica de Monte Ltda. Maria Eva Duarte de Perón
+  address: |-
+    No. 365 Piso DPTO
+    B7220RUE Monte BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa Limitada de Provisión de Servicios Eléctricos Obras y
+    Servicios Públicos, Asistenciales y Créditos, Vivienda y Consumo de Trenque Lauquen
+  address: |-
+    Avenida Gregorio R. Cuello No. 451 Piso DPTO
+    B6400AUE Trenque Lauquen BUENOS AIRES
+  tel: "+54 2392 43 0003"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa Ltda. de Electricidad y Servicios Anexos de Huinca Renanco
+  address: |-
+    Suipacha
+    No. 272 Piso DPTO
+    X6270CYF Huinca Renanco CÓRDOBA
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa Popular de Electricidad Obras y Servicios Públicos de
+    Santa Rosa Ltda.
+  address: |-
+    Avenida Raúl B. Diaz No. 218 Piso DPTO
+    L6302BIO Santa Rosa LA PAMPA
+  tel: "+54 2954 41 2200"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa Telefónica Carlos Tejedor de Provisión de Servicios Públicos,
+    Vivienda, Provisión y Consumo Limitada
+  address: |-
+    Avenida Constitución No. 5115 Piso DPTO
+    7600 Mar Del Plata BUENOS AIRES
+  tel: "+54 223 479 1111"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa Telefónica de Consumo y Vivienda López Camelo Ltda.
+  address: |-
+    Quirno Costa
+    No. 3318 Piso DPTO
+    B1610BJD Doctor Ricardo Rojas BUENOS AIRES
+  tel: "+54 3327 45 5000"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa Telefónica de Vivienda y Otros Servicios Públicos de Del
+    Viso Ltda.
+  address: |-
+    Antonio Beruti
+    No. 1381 Piso DPTO
+    B1669CRO Del Viso BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cooperativa Telefónica y Otros Servicios Públicos y Consumo de Abasto
+    Ltda.
+  address: |-
+    Calle 208
+    Entre Y 516 No. S/N Piso DPTO 1903 Abasto
+    BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cortuc S.A.
+  address: Ciudad de la Paz No. 2719 Piso 7 DPTO G C1428CPU BUENOS AIRES
+  tel: "+54 11 4788 9555"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Cyted Argentina S.A. Viamonte
+  address: No. 1187 Piso 7 DPTO C1053ABW BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: D.K.A. S.A.
+  address: Suipacha No. 128 Piso 2 DPTO O C1008AAD BUENOS AIRES
+  tel: "+54 11 5032 9344"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: D.S.R. Comunicaciones S.A.
+  address: Carlos Pellegrini No. 1075 Piso BP DPTO C1009ABU BUENOS AIRES
+  tel: "+54 11 5217 9981"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Darcom S.A.
+  address: Avenida Córdoba No. 939 Piso 3 DPTO C1054AAI BUENOS AIRES
+  tel: "+54 11 5252 0000"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Desarrollos Digitales S.A.
+  address: Talcahuano No. 446 Piso 7 DPTO C1013AAJ BUENOS AIRES
+  tel: "+54 11 6777 5700"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Diagonal sur Comunicaciones S.A.
+  address: |-
+    Roca No. 1361 Piso 1 DPTO C
+    Z9400BAM Rio Gallegos SANTA CRUZ
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Dial Thru Internacional de Argentina S.A.
+  address: |-
+    Arenales
+    No. 1645 Piso 6 DPTO C1061AAS BUENOS AIRES
+  tel: "+54 11 4129 0900"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Digilink S.R.L.
+  address: |-
+    Fraga, No. 1535 Piso DPTO
+    C1427BUE BUENOS AIRES
+  tel: "+54 11 5169 6699"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Diveo Argentina S.A.
+  address: |-
+    Balcarce
+    No. 479 Piso DPTO C1064AAI BUENOS AIRES
+  tel: "+54 11 5093 5100"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Easy Mail S.A.
+  address: |-
+    Bartolomé Mitre
+    No. 341 Piso 5 DPTO C1036AAE BUENOS AIRES
+  tel: "+54 11 4590 8800"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Econotel S.R.L.
+  address: |-
+    Alicia Moreau de Justo
+    N. 1050 Piso 3 DPTO 3 C1107AAB BUENOS AIRES
+  tel: "+54 11 4343 0203"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Embratel Internacional S.A.
+  address: |-
+    Avenida Juan de Garay No. 34 Piso PB DPTO
+    C1063ABN BUENOS AIRES
+  tel: "+54 11 4000 3501"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Eterlab S.A.
+  address: Gral. Juan José Viamonte No. 640 Piso 9 DPTO 22 C1053ABN BUENOS AIRES
+  tel: "+54 11 5235 4000"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Federación de Cooperativas Eléctricidas y de Obras y Servicios Públicos
+    Ltda.
+  address: |-
+    Provincia de Córdoba
+    Rincón
+    No. 230 Piso DPTO 500 CÓRDOBA
+  tel: "+54 351 425 9690"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Ferro Cable Mundo Comunicaciones S.A.
+  address: |-
+    Avenida Eduardo Madero
+    No. 1020 Piso 16 DPTO C1106ACX BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Fullnet S.R.L.
+  address: |-
+    Billinghurst
+    No. 2143 Piso 17 DPTO C C1425DTQ BUENOS AIRES
+  tel: "+54 11 4773 1520"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: G.C. Sac Argentina S.R.L.
+  address: Elvira Rawson de Dellepiane No. 150 Piso 10 DPTO C1107BCA BUENOS AIRES
+  tel: "+54 11 4314 4282"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Gigared S.A.
+  address: Avenida Federico Lacroze No. 2120 Piso DPTO C1426CPT BUENOS AIRES
+  tel: "+54 11 4775 5559"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Gobierno de la Provincia de Entre Rios Fernández de la Puente
+  address: |-
+    No. 220 Piso DPTO
+    E3100FOA Paraná ENTRE RIOS
+  tel: "+54 343 420 8236"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Heilsberg S.A.
+  address: |-
+    Esmeralda
+    No. 1080 Piso 4 DPTO C1007ABN BUENOS AIRES
+  tel: "+54 11 4312 9555"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Icommsa S.A.
+  address: |-
+    Victoria Ocampo
+    No. 360 Piso 5 DPTO C1107BGA BUENOS AIRES
+  tel: "+54 11 4000 1800"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: IDT Corporation de Argentina S.A.
+  address: |-
+    Avenida Congreso
+    No. 1534 Piso 8 DPTO A C1428BUB BUENOS AIRES
+  tel: "+54 11 4706 3999"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Iffix S.A.
+  address: |-
+    Avenida Córdoba
+    No. 1233 Piso 10 DPTO B C1055AAC BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Impsat S.A.
+  address: |-
+    Alferez Pareja
+    No. 256 Piso PB DPTO C1107BJD BUENOS AIRES
+  tel: "+54 11 5170 6000"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Infonexion S.A.
+  address: |-
+    Paraná
+    No. 918 Piso 3 DPTO C1017AAT BUENOS AIRES
+  tel: "+54 11 4812 8851"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Infracom de Infraestructuras S.A.
+  address: |-
+    Suipacha
+    No. 1111 Piso 10 DPTO C1008AAW BUENOS AIRES
+  tel: "+54 11 4313 6000"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Integral Insumos S.C.
+  address: TTE. Gral. Pablo Ricchieri No. 68 Piso DPTO S2322FYB Sunchales SANTA FE
+  tel: "+54 3493 42 0000"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Interband S.A.
+  address: |-
+    Virrey Liniers
+    No. 489 Piso DPTO C1174ACI BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: International Telecommunications Systems S.R.L.
+  address: Avenida Federico Lacroze No. 2252 Piso 3 DPTO B/C C1426CPU BUENOS AIRES
+  tel: "+54 11 4777 2127"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Intratel Networks S.A.
+  address: |-
+    Avenida de Mayo
+    No. 881 Piso 7 DPTO G C1084AAD BUENOS AIRES
+  tel: "+54 11 4342 0130"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: IP International S.A.
+  address: |-
+    Scalabrini Ortiz
+    No. 2415 Piso 5 DPTO A C1425DBF BUENOS AIRES
+  tel: "+54 11 4878 0888"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Ipnext S.A.
+  address: |-
+    Perú
+    No. 1175 Piso DPTO C1068AAM BUENOS AIRES
+  tel: "+54 11 4361 1741"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: IP-TEL S.A.
+  address: |-
+    Obispo Salguero No. 237 Piso DPTO
+    X5000IAE BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Lepcom S.R.L.
+  address: |-
+    Alicia Moreau de Justo No. 1848 Piso 2 DPTO 17
+    C1107AFL BUENOS AIRES
+  tel: "+54 11 4893 2819"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Line Dynamic Communications S.A.
+  address: |-
+    Avenida Rivadavia
+    No. 755 Piso 1 DPTO B C1002AAF BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Loyaltech S.A.
+  address: |-
+    Larrea
+    No. 1196 Piso 5 DPTO B C1117ABH BUENOS AIRES
+  tel: "+54 11 4823 0823"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: MCI International Argentina S.A.
+  address: |-
+    Maipu
+    No. 1300 Piso 19 DPTO C1005ACT BUENOS AIRES
+  tel: "+54 11 4312 5335"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Meganet S.A.
+  address: |-
+    San Martin
+    No. 2051 Piso DPTO
+    B1838AZU Luis Guillon BUENOS AIRES
+  tel: "+54 11 4296 0817"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Metrored Telecomunicaciones S.R.L.
+  address: |-
+    Avenida Paseo Cólon
+    No. 505 Piso 5 DPTO C1063ACF BUENOS AIRES
+  tel: "+54 11 4314 0883"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Microtrol S.R.L.
+  address: |-
+    Estanislao Zeballos
+    No. 1366, Piso 2 DPTO A
+    S2000BQB Rosario SANTA FE
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Millicom Argentina S.A.
+  address: |-
+    Cerrito
+    No. 1070 Piso 3 DPTO C1010AAV BUENOS AIRES
+  tel: "+54 11 4815 6302"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Negocios y Servicios S.A.
+  address: |-
+    Roque Saenz Peña
+    No. 320 Piso DPTO M5502HED MENDOZA
+  tel: "+54 261 423 4555"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Neoredes S.A.
+  address: |-
+    Avenida Córdoba
+    No. 836 Piso 11 DPTO 1 C1054AAU BUENOS AIRES
+  tel: "+54 11 5128 5555"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Nextel Communications Argentina S.A.
+  address: |-
+    Palestina
+    No. 977 Piso DPTO C1182ADI BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Nodalis S.P.A.
+  address: |-
+    Avenida Córdoba
+    No. 1233 Piso 10 DPTO B C1055AAC BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Norte Comunicaciones S.A.
+  address: |-
+    Carmen de Naveran
+    No. 2285 Piso DPTO
+    4600 San Salvador de Jujuy JUJUY
+  tel: "+54 388 43 4173"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: NSS S.A.
+  address: |-
+    Reconquista
+    No. 865 Piso 5 DPTO C1003ABQ BUENOS AIRES
+  tel: "+54 11 5031 6300"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Obrelmec S.A.
+  address: |-
+    Peru
+    No. 369 Piso 8 DPTO 801 C1067AAG BUENOS AIRES
+  tel: "+54 11 4342 5362"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Oficenet S.R.L.
+  address: |-
+    Alvar Nuñez Cabeza de Vaca No. 151 Piso PB DPTO
+    N3370AHC Iguazu MISIONES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Omnivision S.A.
+  address: Avenida Pres. Figueroa Alcorta No. 7640 Piso DPTO C1428BCZ BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Optima Comunicaciones S.A.
+  address: |-
+    San Martin
+    No. 2051 Piso DPTO
+    B1838AZU Luis Guillon BUENOS AIRES
+  tel: "+54 11 4296 0817"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Orbistel S.A.
+  address: |-
+    Cervantes
+    No. 630 Piso DPTO
+    X5164XAB Villa Bustos CÓRDOBA
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Orbitel S.A.
+  address: |-
+    Avenida Pte. Roque Saenz Peña, No. 710 Piso 1 DPTO E/F
+    C1035AAP BUENOS AIRES
+  tel: "+54 11 4328 4107"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Paycall S.A.
+  address: |-
+    TTE. Gral. Juan Domingo Perón, No. 1479 Piso 2 DPTO
+    C1037ACA BUENOS AIRES
+  tel: "+54 11 4374 5400"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Primer Operador Privado Independiente Argentina S.A.
+  address: |-
+    Uriarte
+    No. 1225 Piso DPTO C1414DAI BUENOS AIRES
+  tel: "+54 11 4772 7800"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Primera Red Interactiva de Medios Argentinos (Prima) S.A.
+  address: |-
+    Lima
+    No. 1261 Piso DPTO C1138ACA BUENOS AIRES
+  tel: "+54 11 4370 0000"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Radiocom Argentina S.R.L.
+  address: |-
+    Faustino Allende
+    No. 276 Piso DPTO X6004DVE CÓRDOBA
+  tel: "+54 351 468 0527"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Red Alternativa S.A.
+  address: |-
+    Olga Cossenttini
+    No. 1545 Piso 4 DPTO C1107BVA BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: San Vicente Cable y Telecomunicaciones S.R.L.
+  address: |-
+    Boulevard San Martin No. 321 Piso DPTO
+    S2447BUQ San Vicente (DPTO. Castellanos) SANTA FE
+  tel: "+54 3492 47 0736"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Ser-Sat S.A.
+  address: Avenida Jujuy, No. 1956 Piso DPTO C1247ABU BUENOS AIRES
+  tel: "+54 11 6318 3400"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Servicio Satelital S.A.
+  address: |-
+    TTE. Gral. Juan D. Perón No. 949 Piso 5 DPTO
+    C1038AAS BUENOS AIRES
+  tel: "+54 11 6331 1000"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: SES Sistemas Electrónicos S.A.
+  address: |-
+    25 de Mayo
+    No. 267 Piso 8 DPTO C1002ABE BUENOS AIRES
+  tel: "+54 11 4343 0069"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Sisertel S.A.
+  address: |-
+    Carlos Pellegrini
+    No. 1141 Piso 1 DPTO C1009ABW BUENOS AIRES
+  tel: "+54 11 5031 0600"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Sistema M.AS. Cooperativa Limitada de Servicios para Salud, Telecomunicaciones,
+    Vivienda, Obras y Otros Servicios Públicos
+  address: |-
+    Sante Fe
+    No. 1129 Piso DPTO
+    S2452EAS San Jorge SANTA FE
+  tel: "+54 3406 44 0817"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Star IP Argentina S.A.
+  address: |-
+    José Rivera Indarte No. 2150 Piso DPTO
+    X5001GWH CÓRDOBA
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Superfone S.A.
+  address: |-
+    Avenida Corrientes No. 311 Piso 13 DPTO
+    C1043AAD BUENOS AIRES
+  tel: "+54 11 4313 1640"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Tecoar S.A.
+  address: Avenida Bernardino Rivadavia No. 1367 Piso 16 DPTO C1033AAD BUENOS AIRES
+  tel: "+54 11 5268 0000"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Te-Coop S.A.
+  address: |-
+    Avenida de Mayo
+    No. 1460 Piso 1 DPTO
+    1085 BUENOS AIRES
+  tel: "+54 11 4381 0213"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Telcosur S.A.
+  address: |-
+    Don Bosco
+    No. 3672 Piso 5 DPTO C1206ABF BUENOS AIRES
+  tel: "+54 11 4865 9060"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Telecentro S.A.
+  address: |-
+    Avenida Brig. Juan Manuel de Rosas No. 2860 Piso DPTO
+    B1754FTU BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Telecom Argentina S.A.
+  address: |-
+    Alicia Moreau de Justo No. 50 Piso 1 DPTO
+    C1107AAB BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Telecom Personal S.A.
+  address: |-
+    Alicia Moreau de Justo No. 50 Piso 13 DPTO
+    C1107AAB BUENOS AIRES
+  tel: "+54 11 4968 3820"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Telefonia Pública y Privada S.A.
+  address: |-
+    Gral. Juan José Viamonte
+    No. 1133 Piso 9 DPTO C1053ABW BUENOS AIRES
+  tel: "+54 11 4372 3310"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Telefónica Comunicaciones Personales S.A.
+  address: |-
+    Avenida Corrientes
+    No. 655 Piso 3 DPTO C1043AAG BUENOS AIRES
+  tel: "+54 11 5130 4571"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Telefónica de Argentina S.A. (TASA)
+  address: |-
+    Av. Ing. Huergo 723
+    Piso 19
+    C1107AOH BUENOS AIRES
+  tel: "+54 11 4394 5345 / +54 11 4332 2161"
+  fax: "+54 11 4394 4727"
+  email: rodrjose@telefonica.com.ar
+  url: www.telefonica.com.ar
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Telemisiones S.R.L.
+  address: |-
+    Avenida San Martin No. 999 Piso DPTO
+    N3380AAJ Eldorado MISIONES
+  tel: "+54 3751 42 0080"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Telenova Argentina S.A.
+  address: |-
+    Avenida Coronel Manuel Dorrego Torrea No. 1940 Piso 1 DPTO B
+    C1414CLO BUENOS AIRES
+  tel: "+54 11 4779 9602"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Telephone2 S.A.
+  address: Avenida Leandro N. Alem No. 592 Piso 4 DPTO C1001AAN BUENOS AIRES
+  tel: "+54 11 4119 3000"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Telesmart S.A.
+  address: |-
+    Avenida Belgrano
+    No. 1217 Piso 1 DPTO 18 C1093AAA BUENOS AIRES
+  tel: "+54 11 5219 1566"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Telespazio S.P.A.
+  address: |-
+    California
+    No. 2082 Piso 1 DPTO D113 C1289AAP BUENOS AIRES
+  tel: "+54 11 4110 1300"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Teletel S.A.
+  address: |-
+    Avenida Rivadavia
+    No. 1367 Piso 9 DPTO A C1033AAD BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Telinfor S.A.
+  address: |-
+    Laprida
+    No. 1024 Piso PB DPTO C1425EKB BUENOS AIRES
+  tel: "+54 4104 2000"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Transat Group S.A.
+  address: |-
+    25 de Mayo
+    No. 460 Piso 5 DPTO C1002ABJ BUENOS AIRES
+  tel: "+54 11 4311 0864"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: TTN S.A.
+  address: Obispo Trejo y Sanabria No. 683 Piso DPTO X5003IYM CÓRDOBA
+  tel: "+54 351 424 0117"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: UOL Sinectis S.A.
+  address: |-
+    Florida
+    No. 537 Piso 4 DPTO C1005AAK BUENOS AIRES
+  tel: "+54 11 4813 0566"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: UUNET Argentina S.A.
+  address: |-
+    Maipu
+    No. 1300 Piso 20 DPTO C1006ACT BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: VER TV S.A.
+  address: |-
+    Avenida Presidente Perón No. 1783 Piso DPTO
+    B1663GHG San Miguel BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Visión Sur S.A.
+  address: |-
+    Avenida San Martin, No. 3339 Piso DPTO C1887AAA Florencio Varela
+    BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Waycom Solutions S.A.
+  address: |-
+    Potosi, No. 3819 Piso 6 DPTO 23
+    1199 BUENOS AIRES
+  tel: "+54 11 4983 3003"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Wilson Construcciones S.A.
+  address: |-
+    Avenida Gral. Bartolome Mitre, No. 450 Piso DPTO
+    S2300HWR Rafaela SANTA FE
+  tel: "+54 3492 50 1000"
+  ob_issue_number: '843'
+- country_or_area: Argentina
+  company_name: Worldwide Teleservice in Spanish S.A.
+  address: |-
+    San Martin, No. 140
+    Piso 20 DPTO
+    1004 BUENOS AIRES
+  ob_issue_number: '843'
+- country_or_area: Armenia
+  company_name: ArmenTel CJSC (Armenia Telephone Company)
+  address: |-
+    International Communications Services Department
+    2 Aharonyan Street
+    375014 YEREVAN
+  tel: "+374 10 289718"
+  fax: "+374 10 289770"
+  email: mevardanyan@beeline.am
+  url: www.beeline.am
+- country_or_area: Armenia
+  company_name: K-Telecom
+  address: |-
+    CJSC
+    50 Khanjyan Street
+    375025 YEREVAN
+  tel: "+374 10 580 651"
+  fax: "+374 10 522 656"
+  email: info@ktelecom.am
+- country_or_area: Aruba
+  company_name: Servicio di Telecomunicación di Aruba (SETAR)
+  address: Seroe Blanco Hendrikstraat, 20-22 ORANJESTAD
+  tel: "+297 583 0950"
+  fax: "+297 583 2977"
+- country_or_area: Ascension
+  company_name: Cable and Wireless plc
+  address: GEORGETOWN
+  tel: "+247 6559"
+  fax: "+247 6558"
+- country_or_area: Australia
+  company_name: Boeing Australia Limited International Regulatory Affairs
+  address: |-
+    363 Adelaide Street
+    GPO Box 767
+    BRISBANE, QLD 4001
+  tel: "+1 206 544 0594"
+  email: anil.kumar3@boeing.com
+  url: www.boeing.com.au
+- country_or_area: Australia
+  company_name: Reach Networks Australia Pty Limited (RNA)
+  tel: "+1 206 544 0594"
+  email: anil.kumar3@boeing.com
+- country_or_area: Australia
+  company_name: SingTel Optus Pty Limited
+  address: |-
+    P.O. Box 888
+    NORTH RYDE NSW 2113
+  tel: "+61 2 8082 7800"
+  fax: "+61 2 8082 7100"
+  url: www.optus.com.au
+- country_or_area: Australia
+  company_name: |-
+    Telstra Corporation Ltd.
+    Network Operations
+  address: |-
+    242 Exhibition Street
+    MELBOURNE 3001
+  tel: "+61 8 83081721"
+  fax: "+61 8 82119297"
+  email: stewart.j.wallace@team.telstra.com
+  url: www.telstra.com
+- country_or_area: Azerbaijan
+  company_name: Azercell Telecom Joint Venture
+  address: 61a, Tbilisi Avenue AZ1122 BAKU
+  tel: "+994 12 496 7007"
+  fax: "+994 12 430 0568"
+  email: customercare@azercell.com
+  url: www.azercell.com
+  ob_issue_number: '840'
+- country_or_area: Azerbaijan
+  company_name: AzEuroTel Joint Venture
+  address: 1, B. Sardarov Street AZ1001 BAKU
+  tel: "+994 12 492 1199 / +994 12 492 6500"
+  fax: "+994 12 497 0101"
+  email: aet@azeurotel.com
+  url: www.azeurotel.com
+  ob_issue_number: '840'
+- country_or_area: Azerbaijan
+  company_name: Aztelecom Production Union of the Ministry of Communication Information
+    Technologies
+  address: 3166, Tbilisi Avenue 1122 BAKU
+  tel: "+994 12 430 2630"
+  fax: "+994 12 493 1787"
+  email: aztelecom@aztelecom.net
+  url: www.aztelecom.com
+  ob_issue_number: '840'
+- country_or_area: Azerbaijan
+  company_name: Bakcell Ltd Limited Liabilities Company
+  address: 24, U. Hajibeyov Street 1000 BAKU
+  tel: "+994 12 498 9444"
+  fax: "+994 12 498 9255"
+  email: bakcell@bakcell.com
+  url: www.bakcell.com
+  ob_issue_number: '840'
+- country_or_area: Azerbaijan
+  company_name: Baku Telegraph Open Joint-Stock Company
+  address: 41, Azerbaijan Avenue 1000 BAKU
+  tel: "+994 12 493 6142 / +994 12 493 7094"
+  fax: "+994 12 498 5525"
+  url: www.baktel.bakinter.net
+  ob_issue_number: '840'
+- country_or_area: Azerbaijan
+  company_name: Baku Telephone Communication Production Union
+  address: 24, U. Hajibeyov Street 1000 BAKU
+  tel: "+994 12 498 5752 / +994 12 492 5500"
+  fax: "+994 12 493 7788"
+  email: btrib@btrib.bakinter.net
+  url: www.baktelecom.bakinter.net
+  ob_issue_number: '840'
+- country_or_area: Azerbaijan
+  company_name: Caspian American Telecommunications, LLC
+  address: 54 Suleyman Rustam Street AZ1007 BAKU
+  tel: "+994 12 448 4800 / +994 12 448 4900"
+  fax: "+994 12 447 4600"
+  email: catel@catel-az.com
+  url: www.catel-az.com
+  ob_issue_number: '840'
+- country_or_area: Azerbaijan
+  company_name: Ministry of Communications and Information Technologies of the Nakhchivan
+    Autonomous
+  address: Republic 1, Ataturk Street 7000 NAKHCHIVAN CITY Nakhchivan Autonomous Republic
+  tel: "+994 136  452 024 / +994 136 452 270"
+  fax: "+994 136 452 024"
+  email: rabite@nakhchyvan.az
+  url: www.nakhchyvan.az
+  ob_issue_number: '840'
+- country_or_area: Azerbaijan
+  company_name: Ultel Limited Liabilities Company
+  address: 41, Azerbaijan Avenue 1000 BAKU
+  tel: "+994 12 490 2020"
+  fax: "+994 12 490 2030"
+  email: ultelmmc@intrans.az
+  url: www.ultel.com
+  ob_issue_number: '840'
+- country_or_area: Bahamas
+  company_name: Bahamas Telecommunications Company Ltd
+  address: John F. Kennedy Drive P.O. Box N-3048 NASSAU
+  tel: "+1 242 323 4911"
+  fax: "+1 242 326 0880"
+- country_or_area: Bahrain
+  company_name: 2Connect W.L.L.
+  address: |-
+    P.O. Box 18057, NBB 12th Floor
+    Government Avenue
+    MANAMA
+  tel: "+973 1750 0110"
+  fax: "+973 1750 0109"
+  email: fahad@2connectbahrain.com
+  url: www.2conect.com
+- country_or_area: Bahrain
+  company_name: Amwaj Telecom
+  address: |-
+    P.O. Box 11990
+    MANAMA
+  tel: "+973 1753 2320"
+  fax: "+973 1754 1114"
+  email: saeed@ossisonline.com
+- country_or_area: Bahrain
+  company_name: Bahrain Telecommunications Company (Batelco Regulatory Affairs Department)
+  address: |-
+    P.O. Box 14
+    MANAMA
+  tel: "+973 1788 4830 / +973 1788 4829"
+  fax: "+973 1761 0092"
+  email: cl5@btc.com.bh
+  url: www.batelco.com.bh
+- country_or_area: Bahrain
+  company_name: Business Communication Networks (BCN)
+  address: |-
+    Office 1003
+    Al-Moayeed Tower
+    Road 2832, seef 428
+    MANAMA
+  tel: "+973 1756 4888"
+  fax: "+973 1756 4889"
+  email: info@lbcn-bh.com
+  url: www.bcn-bh.com
+- country_or_area: Bahrain
+  company_name: Etisalcom Bahrain
+  address: |-
+    Flat No. 309, Building No. 1
+    Road 383, Block 306
+    1, Government Road
+    MANAMA
+  tel: "+973 1753 6222"
+  fax: "+973 1753 6333"
+  email: ashoor@etisalcom.com
+  url: www.etisalcom.com
+- country_or_area: Bahrain
+  company_name: Fakhroo Technical Equipment Maintenance (FTEM)
+  address: |-
+    P.O. Box 10338
+    Villa 377, Road 1234, Block 312
+    GUFOOL Bahrain
+  tel: "+973 1727 3377"
+  fax: "+973 1727 4635"
+  email: tfakhroo@oftem.com
+- country_or_area: Bahrain
+  company_name: ICOL Global Holding
+  address: |-
+    40th Floor, Al-Moayeed Tower
+    Building 371, Block 18178
+    MANAMA
+  tel: "+973 1756 3990"
+  fax: "+973 1756 3991"
+  email: e.alawi@icool.com
+- country_or_area: Bahrain
+  company_name: KASIOPIA NET COM – KNC
+  address: |-
+    P.O. Box 18577, Alseef
+    MANAMA
+  tel: "+973 1758 0830"
+  fax: "+973 1758 1190"
+  email: info@kasiopia.com
+  url: www.kasiopia.com
+- country_or_area: Bahrain
+  company_name: LightSpeed Communications
+  address: |-
+    P.O. Box 18681
+    Al-Moayeed Tower, 6th Floor
+    MANAMA
+  tel: "+973 1758 1503"
+  fax: "+973 1758 1532"
+  email: rachael@lightspeed.bh
+  url: www.lightspeed.bh
+- country_or_area: Bahrain
+  company_name: Telecommunications Regulatory Authority (TRA)
+  address: |-
+    P.O. Box 10353
+    MANAMA
+  tel: "+973 1752 0000"
+  fax: "+973 1753 2125"
+  email: contact@tra.org.bh
+  url: www.tra.org.bh
+- country_or_area: Bahrain
+  company_name: ViaCloud W.L.L.
+  address: |-
+    Mr Mutaz Otaibi
+    P.O. Box 2724
+    MANAMA
+  tel: "+973 1721 4241"
+  email: info@viacloud.com
+- country_or_area: Bahrain
+  company_name: Voice Steam Mr Sawat Ali
+  address: |-
+    P.O. Box 11659
+    MANAMA
+  tel: "+973 3944 6929"
+  fax: "+973 1727 0048"
+  email: safwathanafi@hotmail.com
+- country_or_area: Bahrain
+  company_name: Zain Bahrain
+  address: |-
+    Alafoo Building
+    Seef Area
+    P.O. Box 266
+    MANAMA
+  tel: "+973 3603 0064"
+  fax: "+973 3603 1964"
+  email: jaffar.abdulla@zain.com
+  url: www.bh.zain.com
+- country_or_area: Bangladesh
+  company_name: Bangladesh Telegraph and Telephone Board (BTTB)
+  address: |-
+    Central Office
+    DHAKA 1000
+  tel: "+880 2 831 4272"
+  fax: "+880 2 831 3003"
+  email: deits@bttb.net.bd
+- country_or_area: Bangladesh
+  company_name: Grameephone (GP) Limited
+  address: |-
+    Celebration Pointk, Plot# 3&5
+    Road #113/A, Gulshan – 2
+    DHAKA
+  tel: "+880 17 1108 2082"
+  fax: "+880 2 988 2970"
+  email: mahmud.hossain@grameenphone.com
+- country_or_area: Bangladesh
+  company_name: Banglalink Digital Communications Ltd
+  address: |-
+    Tiger’s Den, Plot #4, SW(H)
+    Gulshan Avenue
+    1215 DHAKA
+  tel: "+880 19 1131 0644"
+  fax: "+880 2 8827265"
+  email: zakislam@banglalinkgsm.com
+- country_or_area: Bangladesh
+  company_name: Tele Barta Ltd
+- country_or_area: Bangladesh
+  company_name: Warid Telecom International Ltd
+- country_or_area: Barbados
+  company_name: Cable & Wireless (Barbados) Limited
+  tel: "+1 246 292 5050"
+  fax: "+1 246 436 5036"
+  url: www.candw.com.bb
+- country_or_area: Barbados
+  company_name: Digicel (Barbados) Limited
+  tel: "+1 246 434 3444"
+  fax: "+1 246 426 3444"
+  url: www.digicelgroup.com
+- country_or_area: Barbados
+  company_name: TeleBarbados Inc.
+  tel: "+1 246 421 9250"
+  fax: "+1 246 421 9247"
+  email: jgreaves@telebarbados.com
+- country_or_area: Barbados
+  company_name: Blue Communications Ltd
+  tel: "+1 246 434 2583"
+  fax: "+1 246 426 2087"
+  email: esachar@blue.bb
+- country_or_area: Belarus
+  company_name: BeST CJSC
+  address: 117, Independence Avenue 220600 MINSK
+  tel: "+375 17 264 5108"
+  fax: "+375 17 290 3575"
+  email: info@best.by
+  url: www.best.by
+  ob_issue_number: '844'
+- country_or_area: Belarus
+  company_name: JV BELCEL
+  address: 5, Zolotaya Gorka Street 220005 MINSK
+  tel: "+375 17 285 346 / +375 17 288 2273"
+  fax: "+375 17 226 1629"
+  email: diallog@diallog.by
+  url: www.diallog.by
+  ob_issue_number: '844'
+- country_or_area: Belarus
+  company_name: JV Mobile Digital Communications Ltd (MDC)
+  address: 14, Melnikaytc Street 220004 MINSK
+  tel: "+375 17 217 8494"
+  fax: "+375 17 217 8492"
+  email: pressa@velcom.by
+  url: www.velcom.by
+  ob_issue_number: '844'
+- country_or_area: Belarus
+  company_name: JV Mobile TeleSystems LLC (MTS)
+  address: 95, Independence Avenue 220043 MINSK
+  tel: "+375 17 237 9800"
+  fax: "+375 17 237 9888"
+  email: info@mts.by
+  url: www.mts.by
+  ob_issue_number: '844'
+- country_or_area: Belize
+  company_name: Belize Telecommunications Limited (BTL)
+  address: St. Thomas Street P.O. Box 603 BELIZE CITY
+  tel: "+501 223 8287"
+  fax: "+501 227 0541"
+  email: darlene_coye@btl.net
+  url: www.btl.net
+- country_or_area: Benin
+  company_name: Areeba Benin
+  tel: "+229 21 316 641"
+  fax: "+229 21 316 643"
+  email: info@benincell.com
+  ob_issue_number: '860'
+- country_or_area: Benin
+  company_name: Bell Benin Communication (BBCOM)
+  tel: "+229 21 308 787 / +229 21 305 285"
+  fax: "+229 21 308 484"
+  email: isalifou@bellbenin-bj
+  ob_issue_number: '860'
+- country_or_area: Benin
+  company_name: Benin Telecoms S.A
+  address: Direction Générale 01 B.P. 5959 COTONOU
+  tel: "+229 21 312 045"
+  fax: "+229 21 313 843"
+  email: opt@intnet.bj
+  ob_issue_number: '860'
+- country_or_area: Benin
+  company_name: Telecel Benin
+  tel: "+229 21 316 660 / +229 21 316 840"
+  fax: "+229 21 316 662 / +229 21 316 835"
+  email: contact@telecel-benin.com
+  ob_issue_number: '860'
+- country_or_area: Bhutan
+  company_name: Bhutan Telecom Limited
+  address: P.O. Box 134 THIMPHU
+  tel: "+975 2 322 678"
+  fax: "+975 2 324 312"
+  email: md@telecom.net.bt
+  url: www.telecom.net.bt
+- country_or_area: Bolivia
+  company_name: Empresa Nacional de Telecomunicaciones (ENTEL)
+  address: CP 4450 Calle Federico Zuazo, No. 1771 LA PAZ
+  tel: "+591 812 2090"
+  fax: "+591 812 2339"
+- country_or_area: Boshia and Herzegovina
+  company_name: BH Telecom
+  address: |-
+    Obala Kulina Bana, 8
+    71000 SARAJEVO
+  tel: "+387 33 586 500"
+  fax: "+387 33 586 505"
+  email: elma.kadrispahic@tbhelecom.ba
+  url: www.bhtelecom.ba
+- country_or_area: Boshia and Herzegovina
+  company_name: HT Mostar
+  address: "Kneza Branimira bb \n88000 MOSTAR"
+  tel: "+387 36395490"
+  fax: "+387 36395151"
+  email: martin.bosnjak@ht.ba
+- country_or_area: Boshia and Herzegovina
+  company_name: m:tel
+  address: |-
+    Ivana Franje Jukica
+    78000 BANJA LUKA
+  tel: "+387 51 240833"
+  fax: "+387 51 217995"
+  email: adrijana.jokanovic@mtel.ba
+  url: www.mtel.ba
+- country_or_area: Botswana
+  company_name: Botswana Telecommunications Corporation (BTC)
+  address: |-
+    P.O. Box 700
+    GABORONE
+  tel: "+267 395 2232"
+  fax: "+267 391 4823"
+- country_or_area: Botswana
+  company_name: Mascom Wireless Botswana (Pty) Ltd
+  address: |-
+    Tsholetsa House, Plot 4705/6
+    Bostwana Road, Main Mall
+    Private Bag BO 298, Bontleng
+    GABORONE
+  tel: "+267 390 3396"
+  fax: "+267 390 3415"
+  email: tebogo.lebotse@MASCOM.bw
+  url: www.mascom.bw
+- country_or_area: Brazil
+  company_name: D&D International
+  address: |-
+    Avenida Dr. Chucri Zaidan, 940, 16o Andar
+    SÃO PAULO, CEP 04583-906
+  tel: "+55 11 3266 2200"
+  fax: "+55 11 3266 7600"
+  email: office-brazil@dd-international.com
+- country_or_area: Brazil
+  company_name: Empresa Brasileira de Telecomunicações S.A. (EMBRATEL)
+  address: |-
+    Avenida Presidente Vargas, 1012
+    13o Andar – P III
+    20071-910 RIO DE JANEIRO, RJ
+  tel: "+55 21 2121 6104"
+  fax: "+55 21 2121 8174"
+  email: carlamc@embratel.com.br
+  url: www.embratel.com.br
+- country_or_area: Brazil
+  company_name: Intelig Telecomunicações Ltda
+- country_or_area: Brazil
+  company_name: Telemar Norte Leste S.A.
+  address: |-
+    Rua Humberto de Campos, 425
+    6o Andar Leblon
+    22430-190 RIO DE JANEIRO
+  tel: "+55 21 3131 1334"
+  fax: "+55 21 1339"
+  email: janaina.gama@telemar.com.br
+- country_or_area: Brunei Darussalam
+  company_name: Telekom Brunei Berhad
+  address: |-
+    Old Airport
+    Berakas
+    BANDAR SERI BEGAWAS 2051
+  tel: "+673 2 382 382"
+  fax: "+673 2 381 585"
+- country_or_area: Bulgaria
+  company_name: Bulgarian Telecommunications Company plc. (BTC)
+  address: |-
+    8, Gen,Totleben Boulevard
+    1606 SOFIA
+  tel: "+359 2 949 4896"
+  fax: "+359 2 987 2110"
+  email: emil.georgakiev@vivacom.bg
+  url: www.btc.bg
+- country_or_area: Burkina Faso
+  company_name: Office National des Télécommunications (ONATEL)
+  address: Avenue Nelson Mandela B.P. 10000 OUAGADOUGOU 01
+  tel: "+226 50 336 476"
+  fax: "+226 50 310 331"
+  ob_issue_number: '742'
+- country_or_area: Burundi
+  company_name: Office national des télécommunications du Burundi (ONATEL)
+  address: |-
+    Avenue du Commerce
+    B.P. 60
+    BUJUMBURA
+  tel: "+257 25 00 89"
+  fax: "+257 22 69 17"
+  email: ndarig@onatel.bi
+- country_or_area: Burundi
+  company_name: U-COM Burundi
+  address: |-
+    1, Place de l’Indépendance
+    B.P. 5186
+    BUJUMBURA
+  tel: "+257 2929 2929"
+  fax: "+257 2221 2366"
+  email: feliciten@leo.bi
+  url: www.leo.bi
+- country_or_area: Cabo Verde
+  company_name: Cabo Verde Telecom Sarl
+  address: C.P. 220 Largo Desastre da Assistencia Varzea PRAIA
+  tel: "+238 261 7222"
+  fax: "+238 261 3725"
+  email: gcacvt@cvtelecom.cv
+- country_or_area: Cambodia
+  company_name: Ministry of Posts and Telecommunications (MPTC)
+  address: |-
+    Corner of Streets 13 and 102
+    Sangkat Watt Phnom
+    PHNOM PENH
+  tel: "+855 23 722 916"
+  fax: "+855 23 428 271"
+  email: ieng-mptc@camnet.com.kh
+  url: www.mptc.gov.kh
+- country_or_area: Cameroon
+  company_name: Cameroon Telecommunications (CAMTEL)
+  address: B.P. 1571 YAOUNDE
+  tel: "+237 2223 4065"
+  fax: "+237 2223 0303"
+  email: camtel@camnet.cm
+- country_or_area: Canada
+  company_name: AT&T Canada
+  ob_issue_number: '790'
+- country_or_area: Canada
+  company_name: Bell Canada
+  address: |-
+    671, Rue de la Gauchetière Ouest
+    Floor 851
+    MONTREAL, Québec H3B 2M8
+  tel: "+1 514 870 5070"
+  fax: "+1 514 870 9560"
+  email: redouane.zidane@bell.ca
+  url: www.bell.ca
+  ob_issue_number: '790'
+- country_or_area: Canada
+  company_name: North American Gateway Inc.
+  address: |-
+    1 Yonge Street
+    Suite 1801
+    TORONTO, Ontario M5E 1W7
+  tel: "+1 416 364 8046"
+  fax: "+1 416 364 9482"
+  ob_issue_number: '790'
+- country_or_area: Canada
+  company_name: |-
+    Rogers Communication Partnership
+    Network Strategy and Technology Development
+  address: |-
+    Rogers Brampton Campus
+    8200 Dixie Road
+    BRAMPTON, Ontario L6T 0C1
+  tel: "+1 647 747 4277"
+  fax: "+1 647 747 6855"
+  email: ed.oleary@rci.rogers.com
+  ob_issue_number: '790'
+- country_or_area: Canada
+  company_name: Tata Communications (Canada) ULC
+  address: |-
+    1555, Rue Carrie-Derick
+    MONTREAL, Quebec H3C 6W2
+  tel: "+1 514 868 7272"
+  fax: "+1 514 868 7234"
+  email: henri.alexandre@tatacommunications.com
+  url: www.tatacommunications.com
+  ob_issue_number: '933'
+- country_or_area: Canada
+  company_name: Télécom Quebec Inc.
+  address: |-
+    350-C, Rue Notre-Dame
+    NOTRE-DAME-DU-BON-CONSEIL J0H 1X0
+  tel: "+1 450 799 2924"
+  fax: "+1 450 799 0808"
+  email: ithiago@guevremont.com
+  ob_issue_number: '790'
+- country_or_area: Canada
+  company_name: Téléphone Guèvremont Inc.
+  address: |-
+    8885, Marquette
+    STE-ROSALIE, Quebec J0H 1X0
+  tel: "+1 450 799 2924"
+  fax: "+1 450 799 0808"
+  email: ithiago@guevremont.com
+  ob_issue_number: '790'
+- country_or_area: Canada
+  company_name: Telesat Canada
+  address: |-
+    1601 Telesat Court
+    OTTAWA, Ontario K1B 5P4
+  tel: "+1 613 748 0123"
+  fax: "+1 613 748 3712"
+  email: J.Forsey@telesat.ca
+- country_or_area: Canada
+  company_name: Telus Mobility
+  address: |-
+    Suite 1600
+    200 Consilium Place
+    SCARBOROUGH, Ontario MIH 3J3
+  tel: "+1 416 279 3014"
+  fax: "+1 416 279 3166"
+  email: serge.bertuzzo@telus.com
+- country_or_area: Cayman Islands
+  company_name: Cable and Wireless (C.I.) Ltd
+  address: P.O. Box 293 GT GRAND CAYMAN
+  tel: "+1 345 914 0345"
+  fax: "+1 345 949 7070"
+- country_or_area: Central Africa Rep.
+  company_name: Société centrafricaine des télécommunications (SOCATEL)
+  address: Direction générale B.P. 939 BANGUI
+  tel: "+236 21 618 429"
+  fax: "+236 21 617 129 / +236 21 613 351"
+  email: sava@intnet.cf
+  url: www.socatel.intnet.cf
+- country_or_area: Chad
+  company_name: Société des Télécommunications du Tchad (SOTEL TCHAD)
+  address: |-
+    B.P. 1132
+    N’DJAMENA
+  tel: "+235 22 521 499"
+  fax: "+235 22 521 408"
+  email: tahirtahiro@gmail.com
+- country_or_area: Chad
+  company_name: Tchad Mobile S.A.
+  address: |-
+    Libertis
+    Avenue Charles-de-Gaulle
+    N’DJAMENA
+  tel: "+235 22 520 435"
+  fax: "+235 22 520 139"
+  email: wimvan@otelecom.com
+- country_or_area: Chile
+  company_name: Empresa Nacional de Telecomunicaciones S.A. (ENTEL S.A.)
+  address: |-
+    Las Condes 676 0276
+    Av. Andrés Bello, 2687
+    Piso 14
+    Casilla 425
+    SANTIAGO DE CHILE
+  tel: "+56 2 368 8563 / +56 2 360 2613"
+  fax: "+56 2 360 2868 / +56 2 360 2482"
+  email: mvelasquez@entel.cl
+- country_or_area: Chile
+  company_name: Telefónica CTC Chile
+  address: |-
+    Providencia 111
+    Casilla 16D
+    SANTIAGO DE CHILE
+  tel: "+56 2 691 2020 / +56 2 206 5625"
+  fax: "+56 2 206 5656"
+  email: clmunoz@ctc.cl
+- country_or_area: China
+  company_name: Asia Satellite Telecommunications Co. Ltd (AsiaSat)
+  address: |-
+    AsiaSat Tai Po Earth Station
+    15 Dai Kwai Street
+    Tai Po Industrial Estate, NT
+    HONG KONG
+  tel: "+852 2600 9140 / + 852 2600 9180"
+  fax: "+852 2600 9189"
+  email: phovstad@asiasat.com
+  url: www.asiasat.com
+- country_or_area: China
+  company_name: China Mobile Communications Corporation (China Mobile)
+  address: |-
+    29 Jinrong Avenue
+    Xicheng District
+    100032 BEIJING
+  tel: "+86 10 6600 6688 (ext. 126)"
+  fax: "+86 10 6600 6175"
+  email: shaojunming@chinamobile.co
+  url: www.chinamobile.com
+- country_or_area: China
+  company_name: China Netcom (Group) Company Ltd
+  address: |-
+    Building C
+    156 Fuxingmennei Street
+    100031 BEIJING
+  tel: "+86 10 6642 9213"
+  fax: "+86 10 6613 5601"
+  email: wanglh@china-netcom.com
+- country_or_area: China
+  company_name: China Satellite Communications Corporation (China Satcom)
+- country_or_area: China
+  company_name: China Telecommunications Corporation
+  address: |-
+    No.19, Chaoyangmen Beidajie
+    Dongcheng District
+    100010 BEIJING
+  tel: "+86 10 58501227"
+  fax: "+86 10 59502695"
+  email: huangxp@chinatelecom.com.cn
+  url: www.chinatelecom.com.cn
+- country_or_area: China
+  company_name: China Tietong Telecommunications Corporation (China Tietong)
+- country_or_area: China
+  company_name: China United Telecommunications Corporation (China Unicom)
+  address: |-
+    Department of Technology
+    Room 0869
+    133A Xidan North Street
+    Xicheng District
+    100032 BEIJING
+  tel: "+86 10 6650 4268"
+  fax: "+86 10 6650 4252"
+  email: jiach@chinaunicom.com.cn
+  url: www.chinaunicom.com.cn
+- country_or_area: China
+  company_name: Hutchison Global Communications Ltd
+  address: |-
+    9/F, Hutchison Telecom Tower
+    99 Cheung Fai Road
+    TSING YI
+    Hong Kong
+  tel: 852 2128 3382
+  fax: "+852 21 7090"
+  email: michaelsck@hgc.com.hk
+- country_or_area: China
+  company_name: Reach Networks Hong-Kong Ltd
+  address: |-
+    20/F, Telecom House
+    3 Gloucester Road
+    WANCHAI
+    Hong Kong
+  tel: "+852 2883 0610"
+  fax: "+852 2962 5291"
+  email: agnes.yw.lee@reach.com
+  url: www.reach.com
+- country_or_area: China
+  company_name: Wharf T&T Limited
+  address: |-
+    Telecom Tower (11th Floor)
+    Wharf T&T Square
+    123 Hoi Bun Road
+    KWUN TON, KOWLOON
+    Hong Kong
+  tel: "+852 2112 2669"
+  fax: "+852 2112 2680"
+  email: tanagnes@wharftt.com
+  url: www.wharftt.com
+- country_or_area: China
+  company_name: China Telecommunications Corporation
+  address: |-
+    No.19, Chaoyangmen Beidajie
+    100010 BEIJING, Dongcheng District
+    China
+  tel: "+86 10 58501227"
+  fax: "+86 10 59502695"
+  email: huangxp@chinatelecom.com.cn
+  url: www.chinatelecom.com.cn
+- country_or_area: Colombia
+  company_name: Colombia Telecomunicaciones S.A. E.S.P.
+  address: |-
+    Transversal 49, No. 105-84
+    BOGOTÁ, D.C.
+  fax: "+57 1 593 5284"
+  email: alejandro.avila@telecom.net.co
+  url: www.telecom.com.co
+- country_or_area: Colombia
+  company_name: Empresa Nacional de Telecomunicaciones
+  address: |-
+    Calle 23, No. 13-49
+    Piso 12
+    BOGOTÁ, D.C.
+  tel: "+57 1 561 0737"
+  fax: "+57 1 561 3174"
+  email: alfonso.gomez@telecom.net.co
+- country_or_area: Colombia
+  company_name: Empresa de Telecomunicaciones de Bogotá S.A. ESP
+  address: |-
+    Gerencia de Regulación y Negocios con Operadores
+    Carrera 8, No. 20 - 56, piso 6
+    BOGOTÁ, D.C.
+  tel: "+57 1 242 2205"
+  fax: "+57 1 342 4825"
+  email: german.ariasp@etb.com.co
+  url: www.etb.com.co
+- country_or_area: Colombia
+  company_name: Empresas Públicas de Medellín E.S.P.
+  address: |-
+    Carrera 58, No. 42-125
+    Piso 6
+    MEDELLÍN
+  tel: "+57 1 600 8000"
+  fax: "+57 1 601 9514"
+  email: mgonzald@eeppm.com
+- country_or_area: Colombia
+  company_name: EPM-Bogotá S.A. E.S.P.
+  address: |-
+    Carrera 14, No. 30-93
+    SANTA FE DE BOGOTÁ
+  tel: "+57 1 600 8000"
+  fax: "+57 1 601 9514"
+  email: fpanesso@epmbog.com
+- country_or_area: Colombia
+  company_name: Orbitel S.A. E.S.P.
+  address: |-
+    Carrera 431 sur 188
+    Piso 2
+    MEDELLIN (Antioquia)
+  tel: "+57 4 325 1502"
+  fax: "+57 4 314 020"
+  email: aceballos@orbitel.com
+- country_or_area: Comoros
+  company_name: Société Nationale des Télécommunications (Comores Telecom)
+  address: |-
+    Place de France
+    B.P. 7000
+    MORONI
+  tel: "+269 7 744 300"
+  fax: "+269 7 731 079"
+  email: snpt@snpt.km
+  url: www.comorestelecom.km
+- country_or_area: Congo (Rep.) of the
+  company_name: Société des Télécommunications du Congo (SOTELCO)
+  address: |-
+    67, Avenue Emery Patrice Lumumba
+    B.P. 39
+    BRAZZAVILLE
+  tel: "+242  22 810 000"
+  fax: "+242  22 811 935"
+  email: sotelco@congonet.cg
+- country_or_area: Congo (Rep.) of the
+  company_name: Celtel Congo
+  address: BRAZZAVILLE
+- country_or_area: Congo (Rep.) of the
+  company_name: MTN Congo
+  address: BRAZZAVILLE
+- country_or_area: Congo (Rep.) of the
+  company_name: Warid Congo
+  address: BRAZZAVILLE
+- country_or_area: Congo (Rep.) of the
+  company_name: Equateur Congo
+  address: BRAZZAVILLE
+- country_or_area: Congo (Rep.) of the
+  company_name: Telecom Congo
+  address: BRAZZAVILLE
+- country_or_area: Cook Islands
+  company_name: Telecom Cook Islands Ltd
+  address: P.O. Box 106 RAROTONGA
+  tel: "+682 29470"
+  fax: "+682 20990"
+- country_or_area: Costa Rica
+  company_name: Instituto Costarricense de Electricidad (ICE)
+  address: |-
+    P.O. Box 10032
+    1000 SAN JOSÉ
+  tel: "+506 2 225 2421"
+  fax: "+506 2 253 4196"
+- country_or_area: Costa Rica
+  company_name: Radiográfica Costarricense S.A. (RACSA)
+  address: |-
+    Gerencia General
+    Avenida 5
+    Calle 1
+    Apartado Postal, 54-1000
+    SAN JOSÉ
+  tel: "+506 2 287 0087"
+  fax: "+506 2 287 0323"
+  email: lcordero@racsa.co.cr
+  url: www.racsa.co.cr
+- country_or_area: Croatia
+  company_name: Croatian Telecommunication Agency
+  address: |-
+    Jurisiceva, 13
+    P.O. Box 162
+    10 002 ZAGREB
+  tel: "+385 1 489 6000"
+  fax: "+385 1 492 0227"
+  email: info@telekom.hr
+  url: www.telekom.hr
+- country_or_area: Croatia
+  company_name: T-Mobile Croatia LLC
+  address: |-
+    Ulica Grada Vukovara, 23
+    10 000 ZAGREB
+  tel: "+385 1 498 2094"
+  fax: "+385 1 498 2044"
+  email: bernard.kovacevic@t-mobile.hr
+- country_or_area: Croatia
+  company_name: VIP-NET d.o.o.
+  address: |-
+    Iblerov Trg, 10
+    10 000 ZAGREB
+  tel: "+385 1 469 1122"
+  fax: "+385 1 469 1109"
+  email: s.corkovic@vipnet.hr
+- country_or_area: Cuba
+  company_name: Empresa de Radiocomunicación y Difusión de Cuba (RADIOCUBA)
+  address: |-
+    Calle Habana No. 406 Entre Obispo y Obraría
+    LA HABANA VIEJA, CH, CP 10100
+  tel: "+53 7 860 0796"
+  fax: "+53 7 860 3107"
+  email: juanc@radiocuba.cu
+  ob_issue_number: '893'
+- country_or_area: Cuba
+  company_name: Empresa de Telecomunicaciones Celulars del Caribe S.A. (C-COM)
+  address: |-
+    Calle 8 No. 811 Appartamento 1, 5ta y 5ta B Playa
+    LA HABANA 10300
+  tel: "+53 7 241 640"
+  fax: "+53 7 241 640"
+  email: wreboredo@cubacel.cu
+- country_or_area: Cuba
+  company_name: |-
+    Empresa de Telecomunicaciones de Cuba
+    S.A. (ETECSA)
+  address: |-
+    Miramar Trade Center
+    Edificio Beijing, 4to Piso, Oficina No. 430 Calle 3ra, Esq. a 76
+    Miramar, Playa
+    CIUDAD HABANA, CP 11300
+  tel: "+53 7 266 8479 / +53 7 266 8480"
+  fax: "+53 7 206 3920"
+  email: nelson.benitez@etecsa.cu
+  ob_issue_number: '893'
+- country_or_area: Cuba
+  company_name: Movitel S.A.
+  address: |-
+    Avenida 47, No. 3405 Esq. a 34 Reparto Kohly
+    PLAYA, CH, CP 10300
+  tel: "+53 7 204 8400"
+  fax: "+53 7 204 4264"
+  email: movitel@movitel.co.cu
+  ob_issue_number: '893'
+- country_or_area: Cuba
+  company_name: Teléfonos Celulares de Cuba S.A. (CUBACEL)
+  address: |-
+    Calle 28 #510 Miramar
+    LA HABANA 11300
+  tel: "+53 7 802 222"
+  fax: "+53 7 241 737"
+  email: cubacel@cubacel.com
+- country_or_area: Curaçao
+  company_name: Antelecom NV
+- country_or_area: Curaçao
+  company_name: Setel
+- country_or_area: Curaçao
+  company_name: Smitcoms
+- country_or_area: Curaçao
+  company_name: Digicel
+- country_or_area: Cyprus
+  company_name: CYTA (Cyprus Telecommunications Authority)
+  address: |-
+    P.O. Box 24929
+    LEFKOSIA CY 1396
+  tel: "+357 22 701 216"
+  fax: "+357 22 701 766"
+  email: gavriel.panis@cyta.com.cy
+  url: www.cyta.com.cy
+- country_or_area: Cyprus
+  company_name: PrimeTel Ltd
+  address: |-
+    The Maritime Avenue
+    P.O. Box 51490
+    LIMASSOL 3506
+  tel: "+357 25 867 104"
+  fax: "+357 25 561 892"
+  email: ththeodosis@prime-tel.com
+- country_or_area: Czech Rep.
+  company_name: Ceske Radiokomunikace a.s.
+  address: |-
+    Skokanská 2117/1
+    169 00 Praha 6 - Břevnov
+  tel: "+420 242 417 158 / +420 242 411 111"
+  fax: "+420 242 417 595"
+  email: f.smejkal@radiokomunikace.cz
+  url: www.radiokomunikace.cz
+- country_or_area: Czech Rep.
+  company_name: CZ.NIC, z.s.p.o.
+  address: |-
+    Americka 23
+    120 00 PRAHA 2
+  tel: "+420 222 745 111"
+  fax: "+420 222 745 112"
+  email: kontakt@nic.cz
+- country_or_area: Czech Rep.
+  company_name: GTS NOVERA s.r.o.
+  address: |-
+    Premyslovska 43
+    130 00 PRAHA 3
+  tel: "+420 225 253 384"
+  fax: "+420 225 251 122"
+  email: pavel.henke@gtsce.com
+  url: www.gtsnovera.cz
+- country_or_area: Czech Rep.
+  company_name: Telefónica O2 Czech Republic, a.s.
+  address: |-
+    Za Brumlovkou 266/2
+    140 22 PRAHA 4 – Michle
+  tel: "+420 271 462  087"
+  fax: "+420 271 469  834"
+  email: petr.dedek@o2.com
+  url: www.cz.o2.com
+- country_or_area: Czech Rep.
+  company_name: T-Mobile Czech Republic a.s.
+  address: |-
+    Tomickova 1
+    14900 Praha 4
+  tel: "+420 603 601 111"
+  fax: "+420 272 941 926"
+  email: richard.stonavsky@t-mobile.cz
+- country_or_area: Czech Rep.
+  company_name: Vodafone Czech Republic a.s.
+  address: |-
+    Vinohradska 167
+    100 00 Praha 10
+  tel: "+420 776 971 720"
+  fax: "+420 776 971 951"
+  email: petr.piskula@vodafone.com
+- country_or_area: Côte d’Ivoire
+  company_name: Afripa Télécom
+  address: |-
+    2pltx Vallon
+    Rue des Jardins
+    P.O. Box 799
+    ABIDJAN 15
+  tel: "+225 2241 2540"
+  url: www.afripatelecom.net
+  ob_issue_number: '839'
+- country_or_area: Côte d’Ivoire
+  company_name: Comstar S.A.
+  address: |-
+    Plateau Immeuble Kharrat
+    P.O. Box 1281
+    ABIDJAN 01
+  fax: "+225 2030 8787"
+  ob_issue_number: '839'
+- country_or_area: Côte d’Ivoire
+  company_name: Côte d’Ivoire Télécom
+  address: |-
+    Plateau, Boulevard Lagunaire
+    Immeuble Djékanou
+    P.O. Box 275
+    ABIDJAN 17
+  tel: "+225 2034 4805"
+  fax: "+225 2021 2828"
+  url: www.citelecom.ci
+  ob_issue_number: '839'
+- country_or_area: Côte d’Ivoire
+  company_name: Loteny Télécom
+  address: |-
+    Plateau, Avenue Crossons Duplessis
+    P.O. Box 3865
+    ABIDJAN 01
+  tel: "+225 2032 2082"
+  url: www.telecel.ci
+  ob_issue_number: '839'
+- country_or_area: Côte d’Ivoire
+  company_name: MTN Côte d’Ivoire (MTN CI)
+  address: |-
+    B.P. 3865
+    ABIDJAN 01
+  tel: "+225 2031 6312"
+  fax: "+225 2032 2082 / +225 2031 6379"
+  email: stephane.beuvelet@mtn.ci
+- country_or_area: Côte d’Ivoire
+  company_name: Orange Côte d’Ivoire
+  address: |-
+    BGE, Immeuble Quartz
+    P.O. Box 202
+    ABIDJAN 11
+  fax: "+225 2123 9011"
+  url: www.orange.ci
+  ob_issue_number: '839'
+- country_or_area: Côte d’Ivoire
+  company_name: Prestige Télécom
+  address: |-
+    Plateau, Rue du Commerce
+    Immeuble Amiral
+    P.O. Box 8592
+    ABIDJAN 01
+  fax: "+225 2032 3252"
+  url: www.prestige.ci
+  ob_issue_number: '839'
+- country_or_area: Dem. People's Rep. of Korea
+  company_name: Ministry of Posts and Telecommunications
+  address: |-
+    Oesong-dong
+    Central District
+    PYONGYANG
+  tel: "+850 2 381 3180"
+  fax: "+850 2 381 4418"
+  email: mptird@co.chesin.com
+- country_or_area: Dem. Rep. of the Congo
+  company_name: Société Congolaise des Postes et des Télécommunications s.a.r.l. (SCPT)
+  address: |-
+    95 Blvd du 30 Juin
+    B.P. 7070
+    KINSHASA 1
+  tel: "+243 12 20 115"
+  fax: "+243 12 21 885"
+  email: info@scpt.cd
+- country_or_area: Denmark
+  company_name: Aps Kbus 38 nr. 4418
+  address: |-
+    Sydvestvej, 15
+    2600 GLOSTRUP
+  tel: "+45 4348 8247"
+  fax: "+45 4348 8251"
+  email: ib.hodgaard@motorola.com
+- country_or_area: Denmark
+  company_name: CAN Denmark A/S
+  address: |-
+    Maxeland, 2
+    3660 GLOSTRUP
+  tel: "+31 20 346 3917"
+  fax: "+31 20 346 3940"
+  email: noudeja@acneuro.com
+- country_or_area: Denmark
+  company_name: CBB
+  address: |-
+    Dronningens Tvaergade, 46
+    1302 COPENHAGEN
+  tel: "+45 3346 0130"
+  fax: "+45 3346 0129"
+  email: cen@cbb.dk
+- country_or_area: Denmark
+  company_name: Cybercity A/S
+  address: |-
+    Esplanaden, 6-8
+    1263 COPENHAGEN
+  tel: "+45 3398 3077"
+  fax: "+45 3398 3070"
+  email: redfern@cybercity.dk
+- country_or_area: Denmark
+  company_name: FaciliCom International
+  address: |-
+    Denmark
+    Copenhagen Europe Center
+    Vesterbrogade, 149
+    1620 COPENHAGEN
+  tel: "+45 69 888 888"
+  fax: "+45 69 888 889"
+- country_or_area: Denmark
+  company_name: Hi3G
+  address: |-
+    Dampfaergevej, 28
+    0900 COPENHAGEN
+  tel: "+45 3333 0135"
+  fax: "+45 3333 0155"
+  email: torben.bjerre@hi3gdenmark.dk
+- country_or_area: Denmark
+  company_name: Lebara ApS c/o Nebeloong & Partners
+  address: |-
+    P.O. Box 1051
+    1007 COPENHAGEN
+  tel: "+45 3311 7522"
+  fax: "+45 3332 4775"
+  email: jj@nebelong.dk
+- country_or_area: Denmark
+  company_name: Migway A/S
+  address: |-
+    Norregade, 21
+    0900 COPENHAGEN
+  tel: "+45 3343 7342"
+  fax: "+45 3399 8067"
+  email: thorkil.sonne@migway.com
+- country_or_area: Denmark
+  company_name: Mira Internet APS
+  address: |-
+    Strandvejen, 17
+    7830 VINDERUP
+  tel: "+45 7010 8040"
+  fax: "+45 7010 8060"
+  email: mr@mira.dk
+- country_or_area: Denmark
+  company_name: Primus Telecommunications A/S
+  address: |-
+    Vesterbrogade, 149
+    1620 COPENHAGEN
+  tel: "+45 3327 0511"
+  fax: "+45 3327 0515"
+  email: fmagner@primustel.dk
+- country_or_area: Denmark
+  company_name: RSLCOM Danmark A/S
+  address: |-
+    Sydestvez, 102
+    2600 GLOSTRUP
+  tel: "+45 4323 1071"
+  fax: "+45 4323 1000"
+  email: hni@rslcom.dk
+- country_or_area: Denmark
+  company_name: TELENOR
+  address: |-
+    Fredrikskaj
+    1780 COPENHAGEN
+  tel: "+45 7212 7205"
+  fax: "+45 7212 7224"
+  email: stp@dmt.sonofon.dk
+- country_or_area: Denmark
+  company_name: Starman Telecom Denmark
+  address: |-
+    Falkoner Allé, 13
+    2000 FREDERIKSBERG
+  tel: "+45 3834 4848"
+  fax: "+45 3834 4850"
+- country_or_area: Denmark
+  company_name: SuperTel
+  address: |-
+    Vesterbrogade, 149
+    1620 COPENHAGEN
+  tel: "+45 3692 0050"
+  fax: "+45 3692 0001"
+  email: john.topp@supertel.dk
+- country_or_area: Denmark
+  company_name: TDC A/S
+  address: |-
+    Fixnet Nordic
+    FNUTA
+    Sletvej 30, A-039
+    8310 TRANBJERG J.
+  tel: "+45 66 652 119"
+  fax: "+45 66 652 009"
+  email: fbir@tdc.dk
+  url: www.tdc.dk
+- country_or_area: Denmark
+  company_name: TDC Kabel TV
+  address: |-
+    Strandlodsvej, 30
+    0900 COPENHAGEN S
+  tel: "+45 3263 8180"
+  fax: "+45 3263 8008"
+  email: jmic@tdc.dk
+- country_or_area: Denmark
+  company_name: TDC Solutions
+  address: |-
+    Norregade, 21
+    0900 COPENHAGEN C
+  tel: "+45 4480 2661"
+  fax: "+45 4480 2668"
+  email: jebj@tdc.dk
+- country_or_area: Denmark
+  company_name: Tele Danmark A/S
+  address: |-
+    Spotorno Allé, 12
+    2630 TAASTRUP
+  tel: "+45 4334 3255"
+  fax: "+45 4352 0941"
+  email: jhat@tdk.dk
+- country_or_area: Denmark
+  company_name: Tele1 Europe A/S
+  address: |-
+    Vesterbrogade, 149
+    1620 COPENHAGEN
+  tel: "+45 3690 3650"
+  fax: "+45 3690 3691"
+  email: dha@tele1europe.dk
+- country_or_area: Denmark
+  company_name: Tele2 A/S
+  address: |-
+    Gammel Koge Landevej, 55
+    2500 VALBY
+  tel: "+45 7730 1001"
+  fax: "+45 7730 1000"
+  email: michael.jackson@tele2.dk
+- country_or_area: Denmark
+  company_name: Telecomplus A/S
+  address: |-
+    Sdr. Rinjvej, 41-43
+    2605 BRONDBY
+  tel: "+45 6912 1242"
+  fax: "+45 6912 1213"
+  email: bh@telecomplus.dk
+- country_or_area: Denmark
+  company_name: Teleglobe Danmark A/S
+  address: |-
+    Lautruphoj, 1-3
+    2750 BALLERUP COPENHAGEN
+  tel: "+1 703 755 2430"
+  fax: "+1 703 755 2610"
+  email: ctievsky@teleglobe.com
+- country_or_area: Denmark
+  company_name: Telia Net
+  address: |-
+    Ejby Industrivej, 135
+    2600 GLOSTRUP
+  tel: "+45 8831 5140"
+  fax: "+45 8831 5120"
+  email: lfh@telia.dk
+- country_or_area: Denmark
+  company_name: Telia Sonera
+  address: |-
+    Sydvestvej, 15
+    2600 GLOSTRUP
+  tel: "+45 8831 5868"
+  fax: "+45 8831 5438"
+  email: jesper.andersen@teliasonera.com
+- country_or_area: Denmark
+  company_name: Telia Stofa A/S
+  address: |-
+    Uraniavej, 6
+    8700 HORSENS
+  tel: "+45 8813 1414"
+  fax: "+45 7564 2749"
+  email: ks@stofa.dk
+- country_or_area: Denmark
+  company_name: Tiscali A/S
+  address: |-
+    Lautrupsgade, 9
+    2100 COPENHAGEN
+  tel: "+45 3814 7015"
+  fax: "+45 3814 7009"
+  email: mandersen@dk.tiscali.com
+- country_or_area: Denmark
+  company_name: WebPartner
+  address: |-
+    Arhusgade, 88
+    2100 COPENHAGEN
+  tel: "+45 3525 4770"
+  fax: "+45 7026 2301"
+- country_or_area: Djibouti
+  company_name: Djibouti Télécom S.A.
+  address: |-
+    3, Boulevard G. Pompidou
+    B.P. 2105
+    DJIBOUTI
+  tel: "+253 351 110 / +253 352 480"
+  fax: "+253 355 757"
+  email: djibouti_telecom@intnet.dj
+- country_or_area: Dominica
+  company_name: Telecommunications of Dominica Ltd
+  address: |-
+    P.O. Box 6
+    ROSEAU
+  tel: "+1 767 448 1010"
+  fax: "+1 767 448 1181"
+- country_or_area: Dominican Rep.
+  company_name: Compañía Dominicana de Teléfonos, C. por A. (CODETEL)
+  address: |-
+    Avenida John F. Kennedy, No. 54
+    SANTO DOMINGO
+  tel: "+1 809 220 3858"
+  fax: "+1 809 220 5798"
+  email: wanda_perdomo@codetel.com.do
+  url: www.codetel.com.do
+- country_or_area: Ecuador
+  company_name: Empresa Estatal de Telecomunicaciones (EMETEL-ECUADOR)
+  address: |-
+    Avenida 6 de Diciembre y Colón
+    P.O. Box 1701 3066
+    QUITO
+  tel: "+593 2 220 0250"
+  fax: "+593 2 256 1306"
+- country_or_area: Ecuador
+  company_name: Empresa Pública Municipal de Telecomunicaciones Agua Potable y Alcantarillo
+  address: |-
+    Benigno Malo, No. 7-78 y Marisal Sucre
+    297 CUENCA
+  tel: "+593 7 842 842"
+  fax: "+593 7 840 022"
+  email: etapadtt@etapa.com.ec
+- country_or_area: Egypt
+  company_name: Alkan Telecom
+  address: |-
+    8, El Gazaer Street
+    New Maadi
+    11435 CAIRO
+  tel: "+20 2 2516 9722"
+  fax: "+20 2 2516 9560"
+  email: ataleb@alkantelecom.com
+  url: www.alkantelecom.com
+- country_or_area: Egypt
+  company_name: Egyptian Space Communication Co. S.A.E.
+  address: |-
+    41, Degla Street
+    El-Mohandseen
+    GIZA
+  tel: "+20 2 3336 2154"
+  fax: "+20 2 3336 3574"
+  email: esc@link.net
+- country_or_area: Egypt
+  company_name: LINKdötNET
+  address: |-
+    3, Mussadak Street
+    Dokki
+    12311 CAIRO
+  tel: "+20 2 2336 7711"
+  fax: "+20 2 2336 4910"
+  email: kgb@link.net
+  url: www.link.net
+- country_or_area: Egypt
+  company_name: Telecom Egypt
+  address: |-
+    Smart Village
+    km 28 Cairo-Alexandria Desert Road
+    P.O. Box 795
+    GIZA
+  tel: "+20 2 3131 6071"
+  fax: "+20 2 3131 5198"
+  email: regulatory.affairs@te.eg
+  url: www.te.eg
+- country_or_area: Egypt
+  company_name: The Egyptian Company for Mobile Services (MOBINIL)
+  address: |-
+    Nile City Building
+    2005C, Cornishe El-Nil,
+    Ramlet Boulaq
+    11221
+    CAIRO
+  tel: "+20 122 3203470"
+  fax: "+20 122 3203442"
+  email: sissa@mobinil.com
+  url: www.mobinil.com
+- country_or_area: Egypt
+  company_name: The Egyptian Satellite Company (Nilesat)
+  address: "6th of October City \nP.O. Box 72\n12568 GIZA"
+  tel: "+20 2 3840 0145"
+  fax: "+20 2 3840 0402"
+  email: nilesat@link.net
+  url: www.nilesat.com.eg
+- country_or_area: Egypt
+  company_name: Vodafone Egypt Telecommunications S.A.E.
+  address: |-
+    7A Cornich El-Nil
+    Maadi
+    11431 CAIRO
+  tel: "+20 2 2529 2000 / +20 2 2529 2015"
+  fax: "+20 2 2529 2030"
+  email: mahmoud.elmogy@vodafone.com.eg
+  url: www.vodafone.com.eg
+- country_or_area: El Salvador
+  company_name: Americatel El Salvador, S.S. de C.V.
+  address: |-
+    S.S. de C.V.
+    Calle Nueva, No. 1
+    Colonia Escalón
+    SAN SALVADOR
+  tel: "+503 2266 0104"
+  fax: "+503 2266 0184"
+  email: agarcia@americatel.com.sv
+- country_or_area: El Salvador
+  company_name: Amnet Tel Y. C., S. En C. de C.V.
+  address: |-
+    Parque Ind. El Boquerón Boulevard
+    Santa Elena
+    Antiguo Cuscatian
+    LA LIBERTAD
+  tel: "+503 2236 8043"
+  fax: "+503 2236 8124"
+  email: fsoto@amnetsal.com
+- country_or_area: El Salvador
+  company_name: CTE Telecom Personal, S.A. de C.V.
+  address: |-
+    Final Calle el Progreso y Calle Liverpool
+    Colonia Roma
+    SAN SALVADOR
+  tel: "+503 2271 7031"
+  fax: "+503 2271 7066"
+  email: garay.roberto@telecom.com.sv
+- country_or_area: El Salvador
+  company_name: Digicel, S.A. de C.V.
+  address: |-
+    Boulevard Los Héroes
+    SAN SALVADOR
+  tel: "+503 2285 5111"
+  fax: "+503 2285 5585"
+  email: teresa.barrientos@digicel.com
+- country_or_area: El Salvador
+  company_name: El Salvador Network, S.A. de C.V.
+  address: |-
+    Paseo General Escalón No. 6000
+    SAN SALVADOR
+  tel: "+503 2283 1000"
+  fax: "+503 2283 1090"
+  email: antonio.safie@salnet.net
+- country_or_area: El Salvador
+  company_name: El Salvador Telecom, S.A. de C.V.
+  address: |-
+    Calle Colima, No. 852
+    Colonia Miramonte
+    SAN SALVADOR
+  tel: "+503 2247 7156"
+  fax: "+503 2247 7233"
+  email: cabanillas@saltel.com
+- country_or_area: El Salvador
+  company_name: Empresa Metapaneca de Telecomunicaciones, S.A. de C.V.
+  address: |-
+    2da Avenida Norte
+    Barrio San Pedro
+    METAPAN, SANTA ANA
+  tel: "+503 2400 0000"
+  fax: "+503 2400 0004"
+- country_or_area: El Salvador
+  company_name: Grupo Centroamericano de Telecomunicaciones S.A. de C.V.
+  address: |-
+    39, Avenida Sur 6a 10a
+    Col. Flor Blanca
+    SAN SALVADOR
+  tel: "+503 2230 5500"
+  fax: "+503 2230 5585"
+  email: bjaime@gcatelecom.com.sv
+- country_or_area: El Salvador
+  company_name: Intelfon, S.A. de C.V
+  address: |-
+    Roosevelt y 63a Avenida Sur
+    SAN SALVADOR
+  tel: "+503 2267 9600"
+  fax: "+503 2245 5276"
+  email: erodas@skytech.com.sv
+- country_or_area: El Salvador
+  company_name: Newcom El Salvador, S.A. de C.V.
+  address: |-
+    60, Avenida Sur y Alameda Roosevelt
+    Torre B
+    SAN SALVADOR
+  tel: "+503 2252 8080"
+  fax: "+503 2252 8082"
+  email: jcoreas@newcomamericas.net
+- country_or_area: El Salvador
+  company_name: Superintendencia General de Electricidad y Telecomunicaciones (SIGET)
+  address: |-
+    Sexta Décima Calle Poniente y
+    37 Avenida Sur, No. 2001
+    Col. Flor Blanca
+    SAN SALVADOR
+  tel: "+503 2257 4484 / +503 2257 4401"
+  fax: "+503 2257 4498 / +503 2257 4493"
+  email: otilio.rodriguez@siget.gob.sv / siget@siget.gob.sv
+  url: www.siget.gob.sv
+- country_or_area: El Salvador
+  company_name: Telecomunicaciones de America, S.A. de C.V.
+  address: |-
+    Col. Avila, Pasaje 1
+    Case 33
+    SAN SALVADOR
+  tel: "+503 2245 1818"
+  fax: "+503 2207 0237"
+  email: roberto.liach@telecam.net
+- country_or_area: El Salvador
+  company_name: Telefónica Móviles El Salvador, S.A. de C.V.
+  address: |-
+    Alameda Roosevelt y 63a Avenida Sur
+    SAN SALVADOR
+  tel: "+503 2257 4360"
+  fax: "+503 2211 0739"
+  email: mario.torres@telefonica.com.sv
+- country_or_area: Equatiral Guinea
+  company_name: Guinea Ecuatorial de Telecomunicaciones Sociedad Anónima
+  address: |-
+    Calle Rey Bonkoro, No. 27
+    Apartado 494
+    MALABO
+  tel: "+240 333.093 316"
+  fax: "+240 333.094 000"
+- country_or_area: Equatiral Guinea
+  company_name: Hits GE S.A.
+- country_or_area: Eritrea
+  company_name: Telecommunication Services of Eritrea (TSE)
+  address: |-
+    P.O. Box 234
+    Semaetat Street, 11
+    ASMARA
+  tel: "+291 1 117 547"
+  fax: "+291 1 120 938"
+- country_or_area: Estonia
+  company_name: Elion Enterprises Ltd (Elion)
+  address: |-
+    16, Endla Street
+    15033 TALLINN
+  tel: "+372 640 2552"
+  fax: "+372 640 2551"
+- country_or_area: Ethiopia
+  company_name: The Ethiopian Telecommunications Corporation
+  address: |-
+    P.O. Box 1047
+    ADDIS ABABA
+  tel: "+251 11 150 5678"
+  fax: "+251 11 151 5777"
+  email: a.abate@telecom.net.et
+- country_or_area: Fiji
+  company_name: Fiji International Telecommunications Limited (FINTEL)
+  address: |-
+    Mercury House
+    158, Victoria Parade
+    P.O. Box 59
+    SUVA
+  tel: "+679 3 312 933"
+  fax: "+679 3 301 025"
+  email: inquiries@fintelfiji.com
+  url: www.fintelfiji.com
+- country_or_area: Fiji
+  company_name: Telecom Fiji Limited
+  address: |-
+    Private Mail Bag
+    SUVA
+  tel: "+679 321 0360"
+  fax: "+679 330 7311"
+  email: contact@tfl.com.fj
+  url: www.telecomfiji.com.fi
+- country_or_area: Finland
+  url: www.ficora.fi/englanti/tele/operators.asp
+- country_or_area: French Polynesia
+  company_name: Office des Postes et Télécommunications de Polynésie française (OPT)
+  address: |-
+    BP 605
+    98713 PAPEETE
+  tel: "+689 417502"
+  fax: "+689 417575"
+  email: poste.dirposte@pa.sm
+  url: www.opt.pf
+- country_or_area: Gabon
+  company_name: CELTEL Gabon
+  address: B.P. 9259
+  tel: "+241 740 000"
+  fax: "+241 745 286"
+- country_or_area: Gabon
+  company_name: GABON TELECOM
+  address: |-
+    B.P. 40 000
+    LIBREVILLE
+  tel: "+241 787 756"
+  fax: "+241 787 778"
+  email: gabontelecom@gabontelecom.ga / dircom@gabontelecom.ga
+- country_or_area: Gabon
+  company_name: Internet Gabon
+  address: B.P. 826
+  tel: "+241 729 797"
+  fax: "+241 721 060"
+  email: commercial@internetgabon.com
+- country_or_area: Gabon
+  company_name: LIBERTIS
+  address: B.P. 8900
+  tel: "+241 766 240"
+  fax: "+241 766 210"
+- country_or_area: Gabon
+  company_name: SACONETS Gabon
+  address: B.P. 20471
+  tel: "+241 722 497 / +241 722 493"
+  fax: "+241 722 497"
+- country_or_area: Gabon
+  company_name: Solsi
+  address: B.P. 12104
+  tel: "+241 778 636"
+  fax: "+241 778 637"
+- country_or_area: Gabon
+  company_name: TELECEL Gabon
+  address: B.P. 12470
+  tel: "+241 768 383"
+  fax: "+241 768 388"
+- country_or_area: Gabon
+  company_name: TELSAT
+  address: B.P. 8063
+  tel: |-
+    +241 747 980 /+241 747 990 /
+     +241 749 091 / +241 749 092
+- country_or_area: Gambia
+  company_name: Africell Ltd.
+  address: |-
+    43, Kairaba Avenue
+    P.O. Box 2140
+    BANJUL
+  tel: "+220 437 6022"
+  fax: "+220 437 6044"
+  email: skhalil@africell.gm
+  url: www.africell.gm
+- country_or_area: Gambia
+  company_name: Gambia Telecommunications Company Ltd. (GAMTEL)
+  address: |-
+    3, Nelson Mandela Street
+    P.O. Box 387
+    BANJUL
+  tel: "+220 422 8822"
+  fax: "+220 422 6699"
+  email: info@gamtel.gm
+  url: www.gamtel.gm
+- country_or_area: Georgia
+  company_name: Georgian National Post and Telecommunications Regulatory Commission
+    (GNPTRC)
+  ob_issue_number: '729'
+- country_or_area: Georgia
+  company_name: Global Erty
+  ob_issue_number: '789'
+- country_or_area: Georgia
+  company_name: INFOTEL Ltd
+  ob_issue_number: '789'
+- country_or_area: Ghana
+  company_name: ACG Telesystems (Ghana) Ltd
+- country_or_area: Ghana
+  company_name: Ghana Telecommunications Company Limited
+  address: |-
+    Regulatory Affairs
+    Telecom House
+    Nsawam Road
+    ACCRA NORTH 00233
+  tel: "+233 30 222 8480/+233 30 220 0205"
+  fax: "+233 30 222 0313"
+  email: susan-barbara.kumapley@vodafone.com
+  url: www.vodafone.com.gh
+- country_or_area: Ghana
+  company_name: Kasapa Telecom Limited
+- country_or_area: Ghana
+  company_name: Western Telesystems (Ghana) Limited
+- country_or_area: Greece
+  company_name: List of ROAs
+  email: www.eett.gr/eng_pages/index2n.htm www.eett.gr/eng_pages/telec/adeiodotisi/epixeiriseis/compsearch/searchform.php
+- country_or_area: Grenada
+  company_name: National Telecommunications Regulatory Commission (NTRC)
+  ob_issue_number: '828'
+- country_or_area: Guatemala
+  company_name: Empresa Guatemalteca de Telecomunicaciones (Guatel)
+  ob_issue_number: '628'
+- country_or_area: Honduras
+  company_name: Empresa Hondureña de Telecomunicaciones (HONDUTEL)
+  address: |-
+    Edificio Gerencia General
+    Colonia Montecarlo, 1a Avenida, 2a Calle
+    Apartado postale 1794
+    TEGUCIGALPA M.D.C.
+  tel: "+504 22 36 7746"
+  fax: "+504 22 36 7795"
+  email: david.barahona@hondutelnet.hn
+- country_or_area: Honduras
+  company_name: Celtel Tigo
+- country_or_area: Honduras
+  company_name: Digicel Honduras
+- country_or_area: Honduras
+  company_name: Sercom (Claro)
+- country_or_area: Hong Kong, China
+  company_name: Cable & Wireless HKT International Limited (CWHKTI)
+- country_or_area: Hong Kong, China
+  company_name: CKCommunications Limited (CKCom)
+- country_or_area: Hong Kong, China
+  company_name: Hong Kong Telecom International Limited (HKTI)
+- country_or_area: Hong Kong, China
+  company_name: Hong Kong Telephone Company Limited (HKT)
+- country_or_area: Hong Kong, China
+  company_name: Hutchison Global Communications Ltd.
+  address: |-
+    19/F, Hutchison Telecom Tower
+    99 Cheung Fai Road
+    TSING YI - HONG KONG
+  tel: "+852 2128 3713"
+  fax: "+852 2123 2168"
+  email: michael.shiu@hgc.com.hk
+- country_or_area: Hungary
+  company_name: Actel Távközlési Kft.
+  address: Jeszenák János u. 99-101 B/1 1141 BUDAPEST
+  tel: "+36 1 481 4646"
+  fax: "+36 1 481 4645"
+  email: office@mail.actel.hu
+  url: www.actel.hu
+  ob_issue_number: '862'
+- country_or_area: Hungary
+  company_name: Antenna Hungaria Magyar Müsorszóró és Rádióhírközlési Rt.
+  address: |-
+    Petzvál J.u. 30-33
+    1119 BUDAPEST
+  tel: "+36 1 203 6060 / +36 1 464 2464"
+  fax: "+36 1 464 2525"
+  email: antennah@ahrt.hu
+  url: www.ahrt.hu
+  ob_issue_number: '862'
+- country_or_area: Hungary
+  company_name: BT Limited
+  address: |-
+    Magyarországi Fióktelepe Alkotás u. 50
+    1123 BUDAPEST
+  tel: "+36 1 325 3100"
+  fax: "+36 1 325 3101"
+  email: tunde.karika@bt.com
+  url: www.bt.com
+  ob_issue_number: '862'
+- country_or_area: Hungary
+  company_name: CallGate Telecommunikációs Kft.
+  address: |-
+    Ostrom u. 16
+    1015 BUDAPEST
+  tel: "+36 1 212 5875"
+  fax: "+36 1 212 0318"
+  email: support@bellafone.hu
+  url: www.bellafone.hu
+  ob_issue_number: '862'
+- country_or_area: Hungary
+  company_name: EMKTV Egyesült Magyar KábelTelevízió Hiradástechnikai
+  address: |-
+    Ker. és Szolg. Kft.
+    Váci u. 35
+    1134 BUDAPEST
+  tel: "+36 1 412 3980"
+  fax: "+36 1 412 3984"
+  email: dispecser@hdsnet.hu
+  url: www.emktv.hu
+  ob_issue_number: '862'
+- country_or_area: Hungary
+  company_name: GTS-Datanet Távközlési Kft.
+  address: |-
+    Ipartelep u. 13-15
+    2040 BUDAÖRS
+  tel: "+36 1 814 4000"
+  fax: "+36 1 814 4047"
+  email: info@datanet.hu
+  url: www.gtsdatanet.hu
+  ob_issue_number: '862'
+- country_or_area: Hungary
+  company_name: Invitel Távközlés Szolgáltató Rt.
+  address: |-
+    Puskás Tivadar u. 8-10
+    2040 BUDAÖRS
+  tel: "+36 1 801 1500"
+  fax: "+36 1 801 1901"
+  email: info@invitel.co.hu
+  url: www.invitel.hu
+  ob_issue_number: '862'
+- country_or_area: Hungary
+  company_name: Magyar Telekom Távközlési Nyrt.
+  address: |-
+    Krisztina krt. 55
+    1013 BUDAPEST
+  tel: "+36 1 458 7346"
+  fax: "+36 1 458 7345"
+  url: www.magyartelecom.hu
+  ob_issue_number: '862'
+- country_or_area: Hungary
+  company_name: Pannon GSM Távközlési Zrt.
+  address: |-
+    Baross u. 165
+    2040 BUDAÖRS
+  tel: "+36 20 930 4000"
+  fax: "+36 20 930 4100"
+  url: www.pgsm.hu
+  ob_issue_number: '862'
+- country_or_area: Hungary
+  company_name: PanTel Távközlési Kft.
+  address: |-
+    Bocskai út. 134-146
+    1113 BUDAPEST
+  tel: "+36 1 888 3535"
+  fax: "+36 1 888 3636"
+  email: pantel@pantel.hu
+  url: www.pantel.hu
+  ob_issue_number: '862'
+- country_or_area: Hungary
+  company_name: Tele2 Magyarország Kommunikációs és Szolgáltató Egyszemélyes Kft.
+  address: Viktor Hugo u. 18-22
+  email: ugyfelszolgalat@tele2.hu
+  url: www.tele2.hu
+  ob_issue_number: '862'
+- country_or_area: Hungary
+  company_name: T-Mobile Magyarország Távközlési Rt.
+  address: |-
+    Kaposvár u. 5-7
+    1117 BUDAPEST
+  tel: "+36 1 265 9200"
+  fax: "+36 1 204 4128"
+  email: t-mobile@t-mobile.hu
+  url: www.t-mobile.hu
+  ob_issue_number: '862'
+- country_or_area: Hungary
+  company_name: Vodafone Magyarország Mobil Távközlés Rt.
+  address: Váci u. 1-3 1062 BUDAPEST
+  tel: "+36 70 288 3288"
+  fax: "+36 70 288 3100"
+  url: www.vodafone.hu
+  ob_issue_number: '862'
+- country_or_area: Iceland
+  company_name: Iceland Post Ltd (IP)
+  ob_issue_number: '663'
+- country_or_area: Iceland
+  company_name: Iceland Telecom Ltd (IT)
+  ob_issue_number: '663'
+- country_or_area: Iceland
+  company_name: Post and Telecom Iceland Ltd
+  ob_issue_number: '631'
+- country_or_area: Iceland
+  company_name: Telecom Iceland Ltd (Landssími Íslands hf.)
+  ob_issue_number: '653'
+- country_or_area: Indonesia
+  company_name: PT. Telekomunikasi Indonesia Tbk (TELKOM)
+  address: |-
+    Jalan Japati No. 1
+    40133 BANDUNG
+    Indonesia
+  tel: "+62 22 452 7101 /+62 22 452 7236"
+  fax: "+62 22 4240313"
+  email: miana_l@telkom.co.id / adek@telkom.co.id / andarini@telkom.co.id
+  url: www.telkom.co.id
+- country_or_area: Indonesia
+  company_name: PT. INDOSAT Tbk.
+  address: |-
+    Jl. Medan Merdeka Barat 21
+    10110 JAKARTA
+    Indonesia
+  tel: "+62 21 386 9250/+62 21 386 9639"
+  fax: "+62 21 384 8107/+62 21 345 8155"
+  email: ruzzi.yussalla@indosat.com
+  url: www.indosat.com
+- country_or_area: Iran (Islamic Republic of)
+  company_name: Communications Regulatory Authority (CRA)
+  ob_issue_number: '841'
+- country_or_area: Ireland
+  company_name: Commission for Communications Regulation
+  ob_issue_number: '782'
+- country_or_area: Ireland
+  company_name: Eircom plc
+  ob_issue_number: '711'
+- country_or_area: Israel
+  company_name: Bezeq International Ltd
+  ob_issue_number: '625'
+- country_or_area: Israel
+  company_name: Bezeq – The Israel Telecommunication Corporation Ltd
+  ob_issue_number: '625'
+- country_or_area: Italy
+  company_name: Cities On Line S.p.A
+- country_or_area: Italy
+  company_name: EdisonTel S.p.A
+- country_or_area: Italy
+  company_name: H3G S.p.A.
+- country_or_area: Italy
+  company_name: IPSE 2000 S.p.A.
+- country_or_area: Italy
+  company_name: Rai Way S.p.A.
+  address: |-
+    Via Teulada, 66
+    00195 ROMA
+  tel: "+39 06 3317 3670"
+  fax: "+39 06 3317 5115"
+  email: ierovante@rai.it
+  url: www.raiway.rai.it
+- country_or_area: Italy
+  company_name: Telecom Italia S.p.A.
+  address: |-
+    41, Corso d'Italia
+    00198 ROMA
+  tel: "+39 06 3688 2287"
+  fax: "+39 06 3688 2324"
+  url: www.telecomitalia.it
+- country_or_area: Italy
+  company_name: Telecom Italia Sparkle S.p.A.
+  address: |-
+    Via Cristoforo Colombo, 142
+    00147 ROMA
+  tel: "+39 06 5443 2034"
+  fax: "+39 06 5443 3963"
+  email: cecilia.vicedomini@telecomitalia.it
+- country_or_area: Italy
+  company_name: Telespazio S.p.A.
+  address: |-
+    Via Tiburtina, 965
+    00156 ROMA
+  tel: "+39 06 4079 3320"
+  fax: "+39 06 4079 3722"
+  email: claudia.quaglione@telespazio.com
+- country_or_area: Italy
+  company_name: Vodafone Omnitel, S.p.A
+- country_or_area: Italy
+  company_name: Wind Telecomunicazioni S.p.A.
+  address: |-
+    Via C.G. Viola, 48
+    00148 ROMA
+  tel: "+39 06 83115390"
+  fax: "+39 06 83170509"
+  email: ermanno.berruto@mail.wind.it
+  url: www.wind.it
+- country_or_area: Jamaica
+  company_name: Cable and Wireless Jamaica Limited
+  ob_issue_number: '662'
+- country_or_area: Jamaica
+  company_name: Spectrum Management Authority (SMA)
+  ob_issue_number: '760'
+- country_or_area: Japan
+  company_name: ACCA Networks Co., Ltd
+  address: |-
+    Shin-Yurakucho Building 1-12-1 Yurakucho Chiyoda-ku
+    100-0006 TOKYO
+  tel: "+81 3 5208 5247"
+  fax: "+81 3 5220 4018"
+  email: mynakamura@accanetworks.com
+- country_or_area: Japan
+  company_name: Broadcasting Satellite System Corporation (B-SAT)
+  address: |-
+    1-16-4 Tomigaya
+    Shibuya-ku
+    151-0063 TOKYO
+  tel: "+81 3 54535709"
+  fax: "+81 3 54536520"
+  email: imai@b-sat.co.jp
+- country_or_area: Japan
+  company_name: eAccess Ltd.
+  address: |-
+    Shin-Nikko Bldg.
+    2-10-1 Toranomon, Minato-ku
+    105-0001 TOKYO
+  tel: "+81 3 35887635"
+  fax: "+81 3 35887345"
+  email: oyamamasumi@eaccess.net
+  url: www.eaccess.net
+- country_or_area: Japan
+  company_name: eMobile Ltd
+  address: |-
+    Infrastructure Management Department
+    Shin-Nikko Bldg
+    10-1 Toranomon, 2-chome Minato-ku
+    105-0001 TOKYO
+  tel: "+81 80 70838608"
+  fax: "+81 3 35887219"
+  email: kitayutaka@emobile.jp
+- country_or_area: Japan
+  company_name: JSAT Corporation
+  address: |-
+    1-14-14 Akasaka
+    Minato-ku
+    107-0052 TOKYO
+  tel: "+81 3 5571 7777"
+  fax: "+81 3 5571 1700"
+  email: y-yokoyama@jsat.net
+- country_or_area: Japan
+  company_name: KDDI Corporation
+  address: |-
+    Garden Air Tower
+    10-10, Iidabashi 3-chome, Chiyoda-ku
+    102-8460 TOKYO
+  tel: "+81 3 66780691"
+  fax: "+81 3 66780324"
+  url: www.kddi.com
+- country_or_area: Japan
+  company_name: Nippon Hoso Kyokai (NHK) (Japan Broadcasting Corporation)
+  address: |-
+    2-2-1, Jinnan Shibuya-ku
+    150-8001 TOKYO
+  tel: "+81 3 5494 3111"
+  fax: "+81 3 5494 3125"
+  email: saito.t-gc@nhk.or.jp
+  url: www.nhk.or.jp
+- country_or_area: Japan
+  company_name: Nippon Minkan Hoso Renmei (National Association of Commercial Broadcasters
+    in Japan)
+  address: |-
+    3-23 Kioicho, Chiyoda-ku
+    102-8577 TOKYO
+  tel: "+81 3 52137705"
+  fax: "+81 3 52137709"
+  email: h-takata@nab.or.jp
+  url: www.nab.or.jp
+- country_or_area: Japan
+  company_name: Nippon Telegraph and Telephone East Corporation (NTT East)
+  address: |-
+    Strategic Planning Section, International Office 19-2, Nishi-Shinjuku 3-chome, Shinjuku
+    163-8019 TOKYO
+  tel: "+81 3 53598691"
+  fax: "+81 3 53591197"
+  email: kikaku_all@ml.east.ntt.co.jp
+  url: www.ntt-east.co.jp/index_e.html
+- country_or_area: Japan
+  company_name: Nippon Telegraph and Telephone West Corporation (NTT West)
+  address: |-
+    Global Business Office, Technology Innovation Dept.
+    3-15 Bambacho, Chuo-ku
+  tel: "+81 6 47933781"
+  fax: "+81 6 47934856"
+  email: international@ml.hq.west.ntt.co.jp
+  url: www.ntt-west.co.jp
+- country_or_area: Japan
+  company_name: Nomura Research Institute Ltd.
+  address: |-
+    Marunouchi Kitaguchi Building,
+    1-6-5, Marunouchi,
+    Chiyoda-ku
+    100-0005 TOKYO
+  tel: "+81 3 5533 3011"
+  fax: "+81 3 5533 3902"
+  email: a-yamada@nri.co.jp
+  url: www.nri.co.jp
+- country_or_area: Japan
+  company_name: NTT Communications Corporation
+  address: |-
+    3-4-1, Shibaura, Minato-ku
+    108-8118 TOKYO
+  tel: "+81 3 67339778"
+  fax: "+81 3 54390486"
+  email: sadata-tech@ntt.com
+  url: www.ntt.com
+- country_or_area: Japan
+  company_name: NTT DATA Corporation
+  address: |-
+    R&D Headquarters
+    Toyosu Center Building Annex, 3-9
+    Toyosu 3-Chome
+    Koto-ku
+    135-8671 TOKYO
+  tel: "+81 50 5547 2730"
+  fax: "+81 3 3532 0487"
+  email: ueshimay@nttdata.co.jp
+- country_or_area: Japan
+  company_name: NTT DOCOMO, Inc.
+  address: |-
+    Sanno Park Tower
+    11-1, Nagata-cho 2-chome,Chiyoda-ku
+    100-6150 TOKYO
+  tel: "+81 3 51561649"
+  fax: "+81 3 51560225"
+  email: furukawa@nttdocomo.co.jp
+  url: www.nttdocomo.co.jp
+- country_or_area: Japan
+  company_name: SOFTBANK BB Corp. Regulatory and External Affairs Division
+  address: |-
+    1-9-1, Higashishinbashi, Minato-ku
+    105-7309 TOKYO
+    Japan
+  tel: "+81 3 6889 6434"
+  fax: "+81 3 6889 6671"
+  email: sbmgrp-regulatory.jp.1@g.softbank.co.jp
+  url: www.softbankmobile.co.jp
+- country_or_area: Japan
+  company_name: SOFTBANK MOBILE Corp. Regulatory & External Affairs Division
+  address: |-
+    Tokyo Shiodome Building
+    1-9-1, Higashishinbashi, Minato-ku
+    105-7317 TOKYO
+    Japan
+  tel: "+81 3 6889 6434"
+  fax: "+81 3 6889 6671"
+  email: sbmgrp-regulatory.jp.1@g.softbank.co.jp
+  url: www.softbankmobile.co.jp/en/index.html
+- country_or_area: Japan
+  company_name: |-
+    SOFTBANK TELECOM Corp.
+    Regulatory and External Affairs Division 1-9-1
+  address: |-
+    Higashishinbashi, Minato-ku,
+    105-7309 TOKYO
+    Japan
+  tel: "+81 3 6889 6434"
+  fax: "+81 3 6889 6671"
+  email: sbmgrp- regulatory.jp.1@g.softbank.co.jp
+  url: www.softbankmobile.co.jp
+- country_or_area: Japan
+  company_name: Space Communications Corporation 2-8
+  address: |-
+    Higashi-shinagawa 2-Chome Shinagawa-ku
+    140-0002 TOKYO
+  tel: "+81 3 5462 1370"
+  fax: "+81 3 5462 1392"
+  email: miura.masaharu@superbird.co.jp
+- country_or_area: Japan
+  company_name: |-
+    The Tokyo Electric Power Company, Incorporated (TEPCO)
+    Electronic Telecommunication Department
+  address: Electronic Telecommunication Department 1-3 Uchisaiwai-cho 1-Chome Chiyoda-ku
+    100-8560 TOKYO
+  tel: "+81 3 63735609"
+  fax: "+81 3 35968525"
+  email: shiokawa.hisayuki@tepco.co.jp
+  url: www.tepco.co.jp
+- country_or_area: Japan
+  company_name: WILLCOM, Inc.
+  address: |-
+    3-4-7 Toranomon
+    Minato-ku
+    105-8477 TOKYO
+  tel: "+81 3 5400 6594"
+  fax: "+81 3 5400 6577"
+  email: y-yano@willcom-inc.com
+- country_or_area: Jordan
+  company_name: Batelco Jordan Company (Batelco Jordan)
+  address: |-
+    P.O. Box 811912
+    AMMAN 11181
+  tel: "+962 6 551 0101"
+  fax: "+962 6 551 0102"
+  email: info@batelco.jo
+- country_or_area: Jordan
+  company_name: Jordan Mobile Telecommunications Services - Zain Jordan
+  address: |-
+    P.O. Box 940821
+    AMMAN 11194
+    Jordan
+  tel: "+962 6 5803000"
+  fax: "+962 6 5829993"
+  email: saad.nasir@fastlink.com.jo
+  url: www.fastlink.com.jo
+- country_or_area: Jordan
+  company_name: Jordan Radio Paging (Mirsal)
+  address: |-
+    P.O. Box 830645
+    AMMAN 11183
+  tel: "+962 6 552 4555"
+  fax: "+962 6 552 6563"
+  email: info@mirsal.com
+- country_or_area: Jordan
+  company_name: Jordan Telecom (JT)
+  address: |-
+    P.O. Box 1689
+    AMMAN 11118
+  tel: "+962 6 561 0561"
+  fax: "+962 6 460 0669"
+  email: info@jt.com.jo
+- country_or_area: Jordan
+  company_name: |-
+    New Generation Telecommunications
+    Company (Xpress)
+  address: |-
+    P.O. Box 2732
+    AMMAN 11821
+  tel: "+962 6 550 6666"
+  fax: "+962 6 550 6682"
+  url: www.xpress.jo
+- country_or_area: Jordan
+  company_name: |-
+    Petra Jordanian Mobile
+    Telecommunications Company (MobileCom)
+  address: |-
+    P.O. Box 851114
+    AMMAN 11185
+  tel: "+962 7 777 00177"
+  fax: "+962 6 586 6784"
+  url: www.mobilecom.jo
+- country_or_area: Jordan
+  company_name: Umniah Mobile Company (Umniah)
+  address: |-
+    P.O. Box 942481
+    AMMAN 11194
+  tel: "+962 6 500 5000"
+  fax: "+962 6 562 2772"
+  email: contact@umniah.com
+- country_or_area: Kazakhstan
+  company_name: Kazakhtelecom (JSC)
+  ob_issue_number: '813'
+- country_or_area: Kenya
+  company_name: Communications Commission of Kenya (CCK)
+  ob_issue_number: '700'
+- country_or_area: Kenya
+  company_name: Kencell Communications Limited
+  ob_issue_number: '741'
+- country_or_area: Kenya
+  company_name: Telkom Kenya Limited
+  ob_issue_number: '701'
+- country_or_area: Korea (Rep. of)
+  company_name: KT Corporation
+  address: |-
+    Head office Ethics Management Office 206
+    Jungja-dong, Bundang-gu
+    SEONGNAM-CITY, Kyeonggi-do 463-711
+  tel: "+82 31 7271131"
+  fax: "+82 31 7271546"
+  email: leeis@kt.com
+  url: www.kt.com
+- country_or_area: Korea (Rep. of)
+  company_name: LG Uplus
+  address: |-
+    LG uplus Tower
+    827 Namdaemoonro-5ga, Jung-gu
+    SEOUL 100-095
+  tel: "+82 2 1080802238"
+  fax: "+82 2 69201668"
+  email: yskoo@lguplus.co.kr
+  url: www.lguplus.co.kr
+- country_or_area: Korea (Rep. of)
+  company_name: |-
+    National Internet Development Agency of
+    Korea (NIDA)
+  address: |-
+    11F, KTF Building
+    1321-11 Seocho 2-dong, Seocho-gu
+    137-857 SEOUL
+  fax: "+82 2 2186 4494"
+  email: int@nida.or.kr
+- country_or_area: Korea (Rep. of)
+  company_name: SK Telecom
+  address: |-
+    SK Telecom T-Library
+    18F SK T-Tower
+    11, Euljiro 2-ga, Jung-gu
+    SEOUL 100-999
+  tel: "+82 2 61002887"
+  fax: "+82 2 61007826"
+  email: cho@sktelecom.com
+  url: www.sktelecom.com
+- country_or_area: Kuwait
+  company_name: Kuwait National Telecom C. (KNTC)
+  address: |-
+    Rakan Tower, 10th Floor
+    Fahed Al-Salem Street, Saihiyah
+    P.O. Box 44644
+    32061 HAWALLI
+  tel: "+965 2246 4961"
+  fax: "+965 2246 4973"
+  email: info@kntc-kw.com
+- country_or_area: Kuwait
+  company_name: Wataniya Telecom Kuwait
+  address: |-
+    P.O. Box 613
+    13007 SAFAT
+  tel: "+965 2243 5500"
+  fax: "+965 2243 6800"
+  url: www.wataniya.com
+- country_or_area: Kuwait
+  company_name: ZAIN
+  address: |-
+    P.O. Box 22244
+    13083 SAFAT
+  tel: "+965 2481 7770"
+  fax: "+965 2481 8800"
+  url: www.mtc.vodafone.com
+- country_or_area: Kyrgyzstan
+  company_name: Bitel Ltd
+  ob_issue_number: '677'
+- country_or_area: Kyrgyzstan
+  company_name: JV “Katel”
+  ob_issue_number: '677'
+- country_or_area: Kyrgyzstan
+  company_name: KyrghyzTelecom
+  ob_issue_number: '608'
+- country_or_area: Latvia
+  company_name: SIA Lattelekom
+  address: |-
+    30, Valnu Street
+    1190 RIGA
+  tel: "+371 702 8101 / +371 702 8111"
+  fax: "+371 782 0636"
+  email: tatjanam@sam.gov.lv
+  ob_issue_number: '858'
+- country_or_area: Lesotho
+  company_name: Telecom Lesotho
+  address: |-
+    Kingsway Road
+    P.O. Box 1037
+    MASERU 100
+  tel: "+266 2221 1000"
+  fax: "+266 2231 0183"
+  email: administrator@telecom.co.ls
+- country_or_area: Lesotho
+  company_name: Vodacom Lesotho (Pty) Ltd
+  address: |-
+    Development House, Block B,
+    Level 7
+    Kingsway Road
+    P.O. Box 7387
+    MASERU 100
+  tel: "+266 2221 2000"
+  fax: "+266 2231 1079"
+- country_or_area: Lesotho
+  company_name: Econet Ezi-Cel Lesotho
+  address: |-
+    1st Floor Agric Bank Building
+    Kingsway Road
+    P.O. Box 15511
+    MASERU 100
+  tel: "+266 2221 4800"
+  fax: "+266 2232 7858"
+- country_or_area: Lesotho
+  company_name: Econet Telecom Lesotho (Pty) Ltd (ETL)
+  address: |-
+    Corner Palace Road and Kingsway Street
+    P.O. Box 1037
+    MASERU 100
+  tel: "+266 22 211129/+266 22 211743"
+  fax: "+266 22 323456"
+  email: motjolopanen@etl.co.ls
+- country_or_area: Lesotho
+  company_name: BTL Communications – Lesotho
+  address: |-
+    P.O. Box 12691
+    MASERU 100
+    Tel: +266 2231 7466
+    Fax: +266 2231 0410
+    E-mail: taelo@btlcomms.com
+  tel: "+266 2231 7466"
+  fax: "+266 2231 0410"
+  email: taelo@btlcomms.com
+- country_or_area: Libyan Arab Jamahiriya
+  company_name: General Directorate of Posts and Telecommunications (GDPT)
+  ob_issue_number: '616'
+- country_or_area: Libyan Arab Jamahiriya
+  company_name: General Post and Telecommunication Company (GPTC)
+  ob_issue_number: '616'
+- country_or_area: Lithuania
+  company_name: Telia Lietuva, AB
+  address: Vilnius, Lvovo g. 25
+  tel: "+370 5264 1817"
+  email: info@telia.lt
+- country_or_area: Lithuania
+  company_name: AB Lietuvos radijo ir televizijos centras
+  address: Vilnius, Sausio 13-osios g. 10
+  tel: "+370 5204 03 00"
+  fax: "+370 5204 03 25"
+  email: info@telecentras.lt
+- country_or_area: Lithuania
+  company_name: UAB "CSC TELECOM"
+  address: Vilnius, Perkūnkiemio g. 7
+  tel: "+370 52101790"
+  email: info@csc.lt
+- country_or_area: Lithuania
+  company_name: UAB "Digitela"
+  address: Vilnius, Vytenio g. 6
+  tel: "+370 52104156"
+  fax: "+370 52104155"
+  email: info@digitela.lt
+- country_or_area: Lithuania
+  company_name: UAB "Bitė Lietuva"
+  address: Vilnius, Žemaitės g. 15
+  tel: "+370 656 00656"
+  fax: "+370 699 00111"
+  email: bendraukime@bite.lt
+- country_or_area: Lithuania
+  company_name: UAB "Nacionalinis telekomunikacijų tinklas"
+  address: Vilnius, Naugarduko g. 102
+  tel: "+370 5 205 6000"
+  fax: "+370 700 00034"
+  email: info@ntt.lt
+- country_or_area: Lithuania
+  company_name: Mediafon Carrier Services, UAB
+  address: Vilnius, m. Olimpiečių g. 1-33
+  tel: "+370 5 239 0901"
+  email: info@mediafoncs.lt
+- country_or_area: Lithuania
+  company_name: UAB "Penkių kontinentų komunikacijų centras"
+  address: Vilnius, Kareivių g. 2
+  tel: "+370 5 266 4555"
+  email: info@penki.lt
+- country_or_area: Lithuania
+  company_name: UAB "TELE2"
+  address: Vilnius, Upės g. 23
+  tel: "+370 684 00 117"
+  fax: "+370 5 236 6455"
+  email: tele2.lt@tele2.com
+- country_or_area: Lithuania
+  company_name: UAB "Teledema"
+  address: Kauno m. Vytauto pr. 32
+  tel: "+370 657 82117"
+  email: info@teledema.lt
+- country_or_area: Lithuania
+  company_name: UAB "ECOFON"
+  address: Vilnius, Lvovo g. 89A-2
+  tel: "+370 5 255 5050"
+  fax: "+370 5 255 5001"
+  email: office@ekofon.lt
+- country_or_area: Lithuania
+  company_name: UAB "Teletel"
+  address: Klaipėda, Debreceno g. 11-52
+  tel: "+370 68784263"
+  email: info@teletel.lt
+- country_or_area: Lithuania
+  company_name: UAB "EUROCOM"
+  address: Vilnius, Žemaitės g. 15
+  tel: "+370 659 11 700"
+  fax: "+370 5 274 4612"
+  email: eurocom@eurocom.lt
+- country_or_area: Luxembourg
+  company_name: Entreprise des postes et télécommunications
+  ob_issue_number: '565'
+- country_or_area: Luxembourg
+  company_name: Institut Luxembourgeois de Régulation (ILR)
+  ob_issue_number: '730'
+- country_or_area: Madagascar
+  company_name: B.A.S.I.C
+  address: |-
+    Lot VL 36 FGJ
+    Androndra-Ampamantanana
+    101 ANTANANARIVO
+  tel: "+261 2022 63229"
+  email: y.raveloarimalala@basic- international.com
+  ob_issue_number: '868'
+- country_or_area: Madagascar
+  company_name: Celtel Madagascar
+  address: |-
+    Explorer Business Park Ankorondrano
+    B.P. 7620
+    101 ANTANANARIVO
+  tel: "+261 2022 66055"
+  fax: "+261 2022 66056"
+  email: macauley.e@mg.celtel.com
+  ob_issue_number: '868'
+- country_or_area: Madagascar
+  company_name: Centre de Traitement Monétique de Madagascar (C.T.M.M.)
+  address: |-
+    Immeuble Teillet – Labrousse
+    22, Rue Andrianary Ratianarivo
+    Ampasamadinika
+    101 ANTANANARIVO
+  tel: "+261 2022 25000"
+  fax: "+261 2022 32518"
+  email: ctmm@ctmm.mg
+  ob_issue_number: '868'
+- country_or_area: Madagascar
+  company_name: Data Telecom Service (DTS) (Transmission de données)
+  address: |-
+    13, Avenue de l’Indépendance Analakely
+    Immeuble Charles Elly
+    B.P. 4095
+    101 ANTANANARIVO
+  tel: "+261 2022 20359 / +261 2022 26427 / +261 2022 26428"
+  fax: "+261 2022 20360"
+  email: dts@wanadoo.mg / pph@wanadoo.mg
+  ob_issue_number: '868'
+- country_or_area: Madagascar
+  company_name: Eva Calling
+  address: |-
+    Immeuble Avenue Business
+    Tsaralalàna
+    101 ANTANANARIVO
+  tel: "+261 2022 36381 / +261 3312 66000"
+  fax: "+261 2022 36381"
+  ob_issue_number: '868'
+- country_or_area: Madagascar
+  company_name: Fort Dauphin Network (FORT-NET)
+  address: |-
+    Enceinte « Le Martin Pécheur »
+    Ampamakiambato
+    TOLAGNARO
+  tel: "+261 2092 21364"
+  fax: "+261 2092 21473"
+  email: admin@fornet.com
+  ob_issue_number: '868'
+- country_or_area: Madagascar
+  company_name: Gasy Online
+  address: |-
+    12, Rue Rainitovo
+    Antsahavola
+    101 ANTANANARIVO
+  tel: "+261 2022 30140"
+  fax: "+261 2022 30140"
+  email: surfaccess@wanadoo.mg
+  ob_issue_number: '868'
+- country_or_area: Madagascar
+  company_name: Global Plus
+  address: |-
+    Centre Commercial Tana Water Front
+    Ambodivona
+    101 ANTANANARIVO
+  tel: "+261 2022 66339"
+  fax: "+261 2022 69139"
+  email: globalplus@dts.mg
+  ob_issue_number: '868'
+- country_or_area: Madagascar
+  company_name: Network Route Digue Andranoabo
+  address: |-
+    Immeuble Newpack
+    B.P. 1484
+    101 ANTANANARIVO
+  tel: "+261 2022 21650 / +261 2022 62075 /  +261 2022 62076 / +261 2022 62077"
+  fax: "+261 2022 24985"
+  email: blueline@malagasy.com
+  ob_issue_number: '868'
+- country_or_area: Madagascar
+  company_name: Life.Com
+  address: "Lot IBM 57\nRue Benuisky\nIsoraka \nB.P. 752\n101 ANTANANARIVO"
+  tel: "+261 3207 00200 / +261 2022 44114"
+  email: bvbl@iris.mg
+  ob_issue_number: '868'
+- country_or_area: Madagascar
+  company_name: Orange Madagascar
+  address: |-
+    Bâtiment Galaxy Plaza (2ème et 3ème niveaux)
+    Parc d’activités Galaxy
+    Rue Docteur Raseta Joseph
+    Andraharo
+    B.P. 7754
+    101 ANTANANARIVO
+  tel: "+261 3207 30404 / +261 2022 60953"
+  fax: "+261 2022 60955"
+  email: contact@orange.mg /  patrice.pezat@orange.mg
+  ob_issue_number: '868'
+- country_or_area: Madagascar
+  company_name: Orchid Systems Sarl
+  address: |-
+    Local Soazara
+    B.P. 12162
+    Antanambao Ambohipo
+    101 ANTANANARIVO
+  tel: "+261 3311 04441"
+  fax: "+261 2022 22705"
+  email: siege@orchid.mg
+  ob_issue_number: '868'
+- country_or_area: Madagascar
+  company_name: Simicro Internet
+  address: |-
+    16, Rue Ratsimilaho Antaninarenina
+    B.P. 3557
+    101 ANTANANARIVO
+  tel: "+261 2022 64883"
+  fax: "+261 2022 32518"
+  email: simicro@simicro.mg
+  ob_issue_number: '868'
+- country_or_area: Madagascar
+  company_name: Société Gulfsat Madagascar
+  address: |-
+    Lot IVR 41, Avenue Lénine
+    Antanimena
+    101 ANTANANARIVO
+  tel: "+261 2022 37013"
+  fax: "+261 2022 37009"
+  email: ddl@gulfsat.mg
+  ob_issue_number: '868'
+- country_or_area: Madagascar
+  company_name: Société Gulfsat Téléphonie
+  address: |-
+    Lot IVR 41, Avenue Lénine
+    Antanimena
+    101 ANTANANARIVO
+  tel: "+261 2022 37013"
+  fax: "+261 2022 37009"
+  email: gulfsat@malagasy.com
+  ob_issue_number: '868'
+- country_or_area: Madagascar
+  company_name: Telecom Malagasy S.A
+  address: |-
+    Alarobia
+    B.P. 763
+    101 ANTANANARIVO
+  tel: "+261 2022 42705"
+  fax: "+261 2022 53871"
+  email: eugene.beckers@telma.mg
+  ob_issue_number: '868'
+- country_or_area: Madagascar
+  company_name: Vocalys
+  address: |-
+    Village de Jeux
+    Espace de Verre (3ème étage)
+    Ankorondrano
+    B.P. 7663
+    101 ANTANANARIVO
+  tel: "+261 2022 59874"
+  fax: "+261 2022 59875"
+  email: vocalys@wanadoo.mg
+  ob_issue_number: '868'
+- country_or_area: Malawi
+  company_name: Malawi Posts and Telecommunications Corporation (MPTC)
+  ob_issue_number: '638'
+- country_or_area: Malawi
+  company_name: Malawi Telecomms Limited
+  ob_issue_number: '723'
+- country_or_area: Malaysia
+  company_name: Malaysian Communications and Multimedia Commission
+  ob_issue_number: '692'
+- country_or_area: Maldives
+  company_name: Telecommunications Authority of Maldives
+  ob_issue_number: '807'
+- country_or_area: Mali
+  company_name: IKATEL SA
+  ob_issue_number: '509'
+- country_or_area: Mali
+  company_name: Société des Télécommunications du Mali (SOTELMA)
+  ob_issue_number: '467'
+- country_or_area: Malta
+  company_name: Maltacom p.l.c.
+  address: |-
+    Saqqajja Hill
+    RABAT
+  tel: "+356 2594 7277"
+  fax: "+356 2145 7005"
+  email: ada@maltanet.net
+- country_or_area: Malta
+  company_name: GO plc
+  address: Triq Fra Diegu MARSA MRS 1501
+  tel: "+356 2124 6200"
+  email: mandy.calleja@go.com.mt
+- country_or_area: Malta
+  company_name: Vanilla Telecoms Ltd
+  address: |-
+    162, Cannon Road
+    SANTA VENERA SVR 5534
+  tel: "+356 2033 2033"
+  email: dthake@ms.vanilla.net.mt
+- country_or_area: Mauritania
+  company_name: Société Mauritienne des Télécommunications (Mauritel)
+  ob_issue_number: '709'
+- country_or_area: Mauritius
+  company_name: CityCall Ltd
+  ob_issue_number: '839'
+- country_or_area: Mauritius
+  company_name: Data Communications Ltd
+  ob_issue_number: '839'
+- country_or_area: Mauritius
+  company_name: Emtel Ltd
+  ob_issue_number: '839'
+- country_or_area: Mauritius
+  company_name: Hotlink Co. Ltd
+  ob_issue_number: '839'
+- country_or_area: Mauritius
+  company_name: i-Telecom Ltd
+  ob_issue_number: '839'
+- country_or_area: Mauritius
+  company_name: Mahanagar Telephone Mauritius Ltd
+  ob_issue_number: '839'
+- country_or_area: Mauritius
+  company_name: Mauritius Telecom Ltd
+  ob_issue_number: '839'
+- country_or_area: Mauritius
+  company_name: TLC (Mauritius) Ltd
+  ob_issue_number: '839'
+- country_or_area: Mexico
+  company_name: Alestra, S. de R.L.de C.V.
+  address: |-
+    Paseo de las Palmas, 405 Torre Optima 1
+    Piso 21
+    Col. Lomas de Chapultepec Delegación Miguel Hidalgo
+    C.P. 11000 MÉXICO, D.F.
+  tel: "+52 55 5201 5009 / +52 55 5201 5019"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Astrum Comunicaciones, S.A. de C.V.
+  address: |-
+    Av. Constitución 405 Poniente
+    C.P. 64000
+    MONTERREY, NUEVO LEÓN
+    ATSI Comunicaciones, S.A. de C.V.
+    Holbein, No. 159
+    Colonia Noche Buena
+    Delegación Benito Juárez
+    C.P. 03720
+    MÉXICO, D.F.
+  tel: "+52 81 8369 7000 (ext. 6282)"
+  fax: "+52 81 8380 6228"
+  email: info@astrum.com.mx
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: ATSI Comunicaciones, S.A. de C.V.
+  address: |-
+    Holbein, No. 159
+    Colonia Noche Buena
+    Delegación Benito Juárez
+    C.P. 03720
+    MÉXICO, D.F.
+  tel: "+52 55 5615 4117 / +52 55 5615 4069 / +52 55 5615 4792 / +52 55 5563 1278"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Avantel Servicios Locales, S.A.
+  address: |-
+    Carretera Libre México-Toluca 5714
+    Col. Lomas de Memetla
+    C.P. 05330
+    MÉXICO, D.F.
+  tel: "+52 55 5092 4234 / +52 55 5092 4210 / +52 55 5092 4220"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Axtel, S.A. de C.V.
+  address: |-
+    Idaho, No. 14
+    Col. Nápoles
+    C.P. 03810 MÉXICO, D.F.
+  tel: "+52 81 8114 0000"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Baja Celular Mexicana, S.A. de C.V.
+  address: |-
+    Prolongación Paseo de la Reforma, No. 1200
+    Piso 18
+    Col. Santa Fe Cruz Manca Delagación Cuajimalpa
+    C.P. 05348 MÉXICO, D.F.
+  tel: "+52 55 1616 5000"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Bestcable, S.A. de C.V.
+  address: |-
+    Héroes del 47, No. 103 Col. Parque San Andrés
+    C.P. 04120 MÉXICO, D.F.
+  tel: "+52 55 5688 8318"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Bestel, S.A. de C.V.
+  address: |-
+    Ave. La Paz, 2295
+    Col. Obrera Centro
+    C.P. 44140 GUADALAJARA JAL.
+    Ejercito Nacional, No. 579 Piso 9 y P.B.
+    Col. Granada
+    C.P. 11520 MÉXICO, D.F.
+  tel: "+52 55 5255 0094 / +52 55 5354 1421"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Bestphone, S.A. de C.V.
+  address: |-
+    Av. Ejercito Nacional, No. 579 Piso 9
+    Col. Granada
+    C.P. 11520 MÉXICO, D.F.
+  tel: "+52 55 5255 0094"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Cart Mart Comunicaciones, S.A. de C.V.
+  address: |-
+    Alejandro Dumas, No. 304
+    Col. Palmas Polanco Delegación Miguel Hidalgo
+    C.P. 11550 MÉXICO, D.F.
+  tel: "+52 55 5281 1060"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Celular de Telefonía, S.A. de C.V.
+  address: |-
+    Prolongación Paseo de la Reforma, No. 1200
+    Piso 18
+    Col. Santa Fe Cruz Manca Delegación Cuajimalpa
+    C.P. 05348 MÉXICO, D.F.
+  tel: "+52 55 1616 5000"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Comunicaciones Celulares de Occidente, S.A. de C.V.
+  address: |-
+    Montes Urales, No. 460 Col. Lomas de Chapultepec Delegación Miguel Hidalgo
+    C.P. 11000 MÉXICO, D.F.
+  tel: "+52 55 5109 4400"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Conectividad Inalámbrica 7 GHz, S.A. de C.V.
+  address: |-
+    Carretera Libre México Toluca, No. 5714 Piso 4
+    Col. Lomas de Memetla
+    C.P. 05330 MÉXICO, D.F.
+  tel: "+52 55 8503 5000"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Conexxión XXI, S.A. de C.V.
+  address: |-
+    Ámsterdam, No. 77
+    Piso 8
+    Col. Hipódromo Condesa
+    C.P. 01670 MÉXICO, D.F.
+  tel: "+52 81 8389 7714"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Controladora Satelital de México, S. de R.L. de C.V.
+  address: |-
+    Paseo de los Tamarindos, 400 A Piso 31
+    Col. Bosques de las Lomas
+    C.P. 05120 MÉXICO, D.F.
+  tel: "+52 55 5261 6200"
+  fax: "+52 55 5261 6270"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Corporación de Telecomunicaciones Regionales, S.A. de C.V.
+  address: |-
+    Contreras No. 246 despacho 303 Col. San Jerónimo
+    Delegación Magdalena Contreras
+    C.P. 10200 MÉXICO, D.F.
+  tel: "+52 55 5668 0789"
+  fax: "+52 55 5652 2917"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Corporación Nacional de Radiodeterminación, S.A. de C.V.
+  address: |-
+    Río Tiber, 100
+    Piso 6
+    Col. Cuauhtemoc
+    C.P. 06500 MÉXICO, D.F.
+  tel: "+52 55 5207 0960"
+  fax: "+52 55 5292 2240"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Delta Comunicaciones Digitales de Nuevo León, S.A. de C.V.
+  address: |-
+    Periférico Sur, No. 5452
+    Col. Olímpica
+    C.P. 04710 MÉXICO, D.F.
+  tel: "+52 55 5424 8000"
+  fax: "+52 55 5424 8002"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Enlaces Integra, S. de R.L. de C.V. (antes Enlaces Satelitales, S.
+    de R.L. de C.V.)
+  address: |-
+    Blvd. Manual Ávila Camacho, 40 Piso 24
+    Col. Lomas de Chapultepec
+    C.P. 11000 MÉXICO, D.F.
+  tel: "+52 55 5201 0300"
+  fax: "+52 55 5201 0303"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Frecuencia Móvil, S.A. de C.V.
+  address: |-
+    Periférico Sur, No. 4119
+    Col. Fuentes del Pedregal
+    C.P. 14414 MÉXICO, D.F.
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Frecuenet, S.A. de C.V.
+  address: |-
+    Pasaje Interlomas, No. 12 Col. Centro Urbano
+    San Fernando, La Herradura
+    C.P. 52787
+    HUIXQUILUCAN, ESTADO DE MÉXICO
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Global Crosing Landing Mexicana, S. de R.L.
+  address: |-
+    Lago Zurich, 96
+    Col. Ampliación Granada
+    C.P. 11529 MÉXICO, D.F.
+    Ejercito Nacional, No. 579 Piso 9
+    Col. Granada
+    C.P. 11520 MÉXICO, D.F.
+  tel: "+52 55 2581 6270"
+  fax: "+52 55 5689 5300"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Globalstar de México, S. de R.L. de C.V.
+  address: |-
+    Blvd. Manuel Ávila Camacho, 40
+    Piso 22
+    Col. Lomas de Chapultepec
+    C.P. 11000 MÉXICO, D.F.
+  tel: "+52 55 5284 0300"
+  fax: "+52 55 5284 0329"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Grupo de Telecomunicaciones Mexicanas, S.A. de C.V.
+  address: |-
+    Prolongación Paseo de la Reforma, No. 1200
+    Piso 18
+    Col. Santa Fe Cruz Manca Del. Cuajimalpa
+    C.P. 05348 MÉXICO, D.F.
+  tel: "+52 55 5806 8818"
+  fax: "+52 55 5806 8880"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Gtel Comunicación, S.A. de C.V.
+  address: |-
+    Av. Paseo de las Héroes, No. 10093 Piso 2
+    Zona del Río
+    C.P. 22320
+    TIJUANA, BAJA CALIFORNIA
+  tel: "+52 66 4635 6300"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Inalam, S.A. de C.V.
+  address: |-
+    Av. Santo Degollado, No. 909 Col. Centro
+    C.P. 88000
+    NUEVO LAREDO, TAMAULIPAS
+  tel: "+52 86 7713 3330"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: International Van, S.A. de C.V.
+  address: |-
+    Calzada de las Armas, No. 114 A
+    Col. Fracc. Industrial las Armas
+    C.P. 54080
+    TLANEPANTLA, ESTADO DE MÉXICO
+  tel: "+52 55 5246 1200"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Internet por Fibra, S.A. de C.V. (antes Delta Comunicaciones Digitales
+    de Nuevo León, S.A. de C.V.)
+  address: |-
+    Periférico Sur, No. 5452
+    Col. Olímpica Delegación Coyoacán
+    C.P. 04710 MÉXICO, D.F.
+  tel: "+52 55 5580 1053"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Iridium de México, S.A. de C.V.
+  address: |-
+    Guillermo González Camarena, 1100 Piso 7
+    Col. Santa Fe
+    C.P. 01210 MÉXICO, D.F.
+  tel: "+52 55 5258 1000"
+  fax: "+52 55 5258 1098"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Iusacell PCS, S.A. de C.V.
+  tel: "+52 55 5109 5794"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Iusatel, S.A. de C.V.
+  address: |-
+    Montes Urales, No. 460 Col. Lomas de Chapultepec Delegación Miguel Hidalgo
+    C.P. 11000 MÉXICO, D.F.
+  tel: "+52 55 5109 5794"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: IP Matriz, S.A. de C.V.
+  address: |-
+    Av. Tamaulipas #172, Casa #32 Col. Santa Lucía
+    C.P. 01500 MÉXICO, D.F.
+  tel: "+52 65 6692 1101"
+  fax: "+52 65 6692 1112"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Larga Distancia Internacional Mexicana, S.A. de C.V.
+  address: |-
+    Jaime Balmes, 11
+    Plaza Comercial, Local 146 Col. Los Morales Polanco
+    C.P. 11510 MÉXICO, D.F.
+  tel: "+52 55 5580 1053"
+  fax: "+52 55 5395 2142"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Libros Foráneos, S.A. de C.V.
+  address: |-
+    Javier Mina 7 Desp. 104 Zona Río
+    C.P. 22320
+    TIJUANA, BAJA CALIFORNIA
+  tel: "+52 66 4684 7459"
+  fax: "+52 66 4634 0040"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Marca Tel, S.A. de C.V.
+  address: |-
+    San Jerónimo 210 Pte. Col. San Jerónimo
+    C.P. 64640
+    MONTERREY, NUEVO LEÓN
+    Av. Constituyentes, No. 117 Piso 3
+    Col. San Miguel Chapultepec Delegación Miguel Hidalgo
+    C.P. 11850
+    MÉXICO, D.F.
+  tel: "+52 81 8389 7777"
+  fax: "+52 81 2614 1550"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Maxcom Telecomunicaciones, S.A. de C.V.
+  address: |-
+    Guillermo González Camarena, 2000 Col. Centro Ciudad de Santa Fé Delegacion Alvaro Obregón
+    C.P. 01210 MÉXICO, D.F.
+  tel: "+52 55 5147 1111"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Megacable Comunicaciones de México, S.A. de C.V.
+  address: |-
+    Sierra Candela, 111
+    Col. Lomas de Chapultepec Delegación Miguel Hidalgo
+    C.P. 11000 MÉXICO, D.F.
+  tel: "+52 55 5350 0000"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: México Red de Telecomunicaciones, S. de R.L. de C.V.
+  address: |-
+    Montes Urales, No. 632 Piso 2
+    Col. Lomas de Chapultepec
+    C.P. 11000 MÉXICO, D.F.
+  tel: "+52 55 5202 5054"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Mexigulf Telecomunicaciones, S.A. de C.V.
+  address: |-
+    Bosques de Ciruelos No. 304 Piso 9
+    Col. Bosques de las Lomas
+    C.P. 11700 MÉXICO, D.F.
+  tel: "+52 55 8503 6441"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Metro Net, S.A. de C.V.
+  address: |-
+    Michoacán 22-B
+    Col. Hipódromo Condesa
+    C.P. 6100 MÉXICO, D.F.
+  tel: "+52 55 5264 4403"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Miditel, S.A. de C.V.
+  address: |-
+    Montes Urales 455
+    Col. Lomas de Chapultepec
+    C.P. 11000 MÉXICO, D.F.
+  tel: "+52 55 5147 9200"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Movitel del Noroeste, S.A. de C.V.
+  address: |-
+    Prolongación Paseo de la Reforma, No.1200
+    Piso 18
+    Col. Santa Fe Cruz Manca Delegación Cuajimalpa
+    C.P. 05348 MÉXICO, D.F.
+  tel: "+52 55 1616 5000"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Operadora de Comunicaciones, S.A. de C.V. (empresa escindida de Operadora
+    Unefon, S.A. de C.V.)
+  address: |-
+    Periférico Sur, No. 4119 Torre A
+    Col. Fuentes del Pedregal
+    C.P. 14141 MÉXICO, D.F.
+  tel: "+52 55 8582 5161"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Operadora Protel, S.A. de C.V.
+  address: |-
+    Monte Elbruz, 132
+    Piso 4
+    Col. Lomas de Chapultepec
+    C.P. 11000 MÉXICO, D.F.
+  tel: "+52 55 5283 2600"
+  fax: "+52 55 5283 2618"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Operadora Unefon, S.A. de C.V.
+  address: |-
+    Periférico Sur, No. 4119
+    Col. Fuentes del Pedregal
+    C.P. 14141 MÉXICO, D.F.
+  tel: "+52 55 5449 5000"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Operadora Unefon, S.A. de C.V. (UNEFON)
+  address: |-
+    Periférico Sur, No. 4119 Torre A
+    Col. Fuentes del Pedregal
+    C.P. 14141 MÉXICO, D.F.
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Pegaso Comunicaciones y Sistemas, S.A. de C.V. (MOVISTAR)
+  address: |-
+    Prolongación Paseo de la Reforma, No. 1200
+    Piso 18
+    Col. Santa Fe Cruz Manca Delegación Cuajimalpa
+    C.P. 05348 MÉXICO, D.F.
+  tel: "+52 55 1616 5000"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Portatel del Sureste, S.A. de C.V.
+  address: |-
+    Montes Urales, No. 460
+    Col. Lomas de Chapultepec Delegación Miguel Hidalgo
+    C.P. 11000 MÉXICO, D.F.
+  tel: "+52 55 5109 4400"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Presto Telecomunicaciones, S.A. de C.V.
+  address: |-
+    Av. Ocampo, No. 2024
+    Col. Centro
+    TIJUANA, BAJA CALIFORNIA NORTE
+  tel: "+52 66 4684 7001"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Protel I-Next, S.A. de C.V.
+  address: |-
+    Monte Elbruz, No. 132 Piso 4
+    Col. Lomas de Chapultepec
+    C.P. 11000 MÉXICO, D.F.
+  tel: "+52 55 5283 2600"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Punto a Punto Iusacell, S.A. de C.V.
+  address: |-
+    Montes Urales, No. 460
+    Col. Lomas de Chapultepec Delegación Miguel Hidalgo
+    C.P. 11000 MÉXICO, D.F.
+  tel: "+52 55 5109 4400"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Quetzsat, S.A. de C.V.
+  address: |-
+    Insurgentes Sur, No. 1605 Piso 12
+    Col. San José Insurgentes
+    C.P. 03900 MÉXICO, D.F.
+  tel: "+52 55 5662 6348"
+  fax: "+52 55 5662 6350"
+  email: rrios@riosferrer.com.mx
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: RadioMóvil Dipsa, S.A. de C.V.
+  address: |-
+    Lago Alberto No. 366
+    Edificio Telcel I Segundo Piso Col. Anáhuac
+    C.P. 11320 MÉXICO, D.F.
+  tel: "+52 55 5625 3700"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Red de Servicios de Telecomunicaciones, S.A. de C.V. (Resetel)
+  address: |-
+    Blvd. Manuel A. Camacho, No. 24 Piso 7
+    Col. Lomas de Chapultepec
+    C.P. 11000 MÉXICO, D.F.
+  tel: "+52 55 5540 9200"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Rogelio Salcedo Leos
+  address: |-
+    Calle Río Magdalena, No. 485 Fraccionamiento Las Fuentes
+    C.P. 21260
+    MEXICALI, BAJA CALIFORNIA
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: RSL COM NET de México, S.A. de C.V.
+  address: |-
+    Jaime Balmes 11, Torre C
+    Piso 10
+    Col. Polanco los Morales
+    C.P. 011510
+    MÉXICO, D.F.
+  tel: "+52 55 5279 4600 / +52 55 5580 4600"
+  fax: "+52 55 5580 5723"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Satélites Mexicanos, S.A. de C.V.
+  address: |-
+    Rodolfo Gaona, No. 86
+    Piso 4
+    Col. Lomas de Sotelo
+    Delegación Miguel Hidalgo
+    C.P. 11200
+    MÉXICO, D.F.
+  tel: "+52 55 2629 5901"
+  fax: "+52 55 2629 5800"
+  email: ochoac@satmex.com
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Servicios de Acceso Inalámbricos, S.A. de C.V. (SAI)
+  address: |-
+    Monte Pelvoux, No. 111 Piso 1
+    Col. Lomas de Chapultepec
+    C.P. 11000 MÉXICO, D.F.
+  tel: "+52 55 5326 8693"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Sistemas de Monitoreo, Localización y Seguimiento, S.A. de C.V.
+  address: |-
+    Portal Madera No. 216 – 302 Col. Centro
+    C.P. 05000
+    TOLUCA, ESTADO DE MÉXICO
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Sistemas Satelitales de México, S.A. de R.L. de C.V.
+  address: |-
+    Insurgentes Sur, No. 1605, Piso 12
+    Col. San José Insurgentes
+    C.P. 03900
+    MÉXICO, D.F.
+    Av. Prolongación Reforma 490 Col. Santa Fe
+    C.P. 01217 MÉXICO, D.F.
+  tel: "+52 55 5662 6348 / +52 55 5257 6194"
+  fax: "+52 55 5662 6350"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Sistemas Telefónicos Portátiles Celulares, S.A. de C.V.
+  address: |-
+    Montes Urales, No. 460 Col. Lomas de Chapultepec Delegación Miguel Hidalgo
+    C.P. 11000 MÉXICO, D.F.
+  tel: "+52 55 5109 4400"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: SOS Telecomunicaciones, S.A. de C.V.
+  address: |-
+    Montes Urales, No. 460
+    Col. Lomas de Chapultepec Delegación Miguel Hidalgo
+    C.P. 11000 MÉXICO, D.F.
+  tel: "+52 55 5109 4400"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: |-
+    Spacenet Communications Services de México, S.A. de C.V.
+    (antes GE Capital Spacenet Communications Services de México, S.A. de C.V.)
+  address: |-
+    Av. México, No. 803
+    Col. Santa Teresa
+    Delegación Magdalena Contreras
+    C.P. 10710
+    MÉXICO, D.F.
+  tel: "+52 55 5449 4800"
+  fax: "+52 55 5449 4810"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Startel, S.A. de C.V.
+  address: |-
+    Cuauhtémoc, No. 9460 Fraccionamiento Azteca
+    C.P. 225900
+    TIJUANA, BAJA CALIFORNIA
+  tel: "+52 66 4625 8001"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Tecnología de Comunicaciones Avanzadas, S.A. de C.V.
+  address: |-
+    Blvd. Tomás Fernández, No. 7930 Piso 2
+    Fraccionamiento Campestre Juárez
+    C.P. 32460
+    Cd. JUÁREZ, CHIHUAHUA
+  tel: "+52 65 6629 0626"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Telecom Net., S.A. de C.V.
+  address: |-
+    Calzada Justo Sierra, No. 567 Col. Nueva
+    C.P. 211100
+    MEXICALI, BAJA CALIFORNIA
+  tel: "+52 68 6553 4444"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Telecomunicaciones de México (TELECOMM)
+  address: |-
+    Eje Central Lázaro Cárdenas, No. 567
+    Col. Narvarte
+    Delegación Benito Juárez
+    C.P. 03020
+    MÉXICO, D.F.
+  tel: "+52 55 5090 1418"
+  fax: "+52 55 1035 2354"
+  email: lalonso@telecomm.net.mx
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Telecomunicaciones de Pueblo, S.A. de C.V.
+  address: |-
+    Carretera México Toluca, No. 1725 Locales B4 y B5
+    Col. Palo Alto
+    C.P. 11510 MÉXICO, D.F.
+  tel: "+52 55 5570 5850 / +52 55 5259 8501"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Telecomunicaciones para redes Andrés de la Concha
+  address: |-
+    #12
+    Col. San José Insurgentes
+    C.P. 03900 MÉXICO, D.F.
+  tel: "+52 55 5596 8864"
+  fax: "+52 55 5251 4470"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Telecomunicaciones del Golfo, S.A. de C.V.
+  address: |-
+    Montes Urales, No. 460 Col. Lomas de Chapultepec Delegación Miguel Hidalgo
+    C.P. 11000 MÉXICO, D.F.
+  tel: "+52 55 5109 4400"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Telefonía Celular del Norte, S.A. de C.V.
+  address: |-
+    Prolongación Paseo de la Reforma, No. 1200
+    Piso 18
+    Col. Santa Fe Cruz Manca Delegación Cuajimalpa
+    C.P. 05348 MÉXICO, D.F.
+  tel: "+52 55 1616 5000"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Telefónica Data México, S.A. de C.V.
+  address: |-
+    Blvd. M. Ávila Camacho, No. 24
+    Piso 16
+    Col. Lomas de Chapultepec
+    C.P. 11000 MÉXICO, D.F.
+  tel: "+52 55 5249 9999 / +52 55 5249 9990"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Teléfonos de México, S.A. de C.V.
+  address: |-
+    Av. Parque Vía, 190
+    Col. Cuauhtémoc
+    C.P. 06599 MÉXICO, D.F.
+  tel: "+52 55 5222 1212 / +52 55 5222 1310 / +52 55 5222 5178"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Teléfonos del Noroeste, S.A. de C.V.
+  address: |-
+    Av. Pio Pico, No. 2101
+    Zona Río
+    C.P. 22000
+    TIJUANA, BAJA CALIFORNIA
+  tel: "+52 66 4633 2753"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Teléfonos del Noroeste, S.A. de C.V.
+  address: |-
+    Parque Vía, No. 190 Col. Cuauhtémoc
+    C.P. 06599 MÉXICO, D.F.
+  tel: "+52 55 5222 2005"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Telereuníon, S.A. de C.V.
+  address: |-
+    Floresta, No. 185
+    Col. El Recreo Delegación Azcapotzalco
+    C.P. 02070 MÉXICO, D.F.
+  tel: "+52 55 5347 0026"
+  fax: "+52 55 5347 0034"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Unefrecuencias, S.A. de C.V.
+  address: |-
+    Periférico Sur, No. 4119
+    Col. Fuentes del Pedregal
+    C.P. 14414
+    MÉXICO, D.F.
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Unión Telefónica Nacional, S.A. de C.V.
+  address: |-
+    Gobernador Ignacio Esteva 54/B
+    Col. San Miguel Chapultepec
+    C.P. 11850
+    MÉXICO, D.F.
+  tel: "+52 55 5271 1455"
+  fax: "+52 55 5271 1435"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: Unión Telefónica y Televisiva, S.A. de C.V.
+  address: |-
+    Privada Pino Suárez, No. 300 Edificio Confía
+    Piso 8
+    C.P. 64000
+    MONTERREY, NUEVO LEÓN
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: VPN de México, S.A. de C.V.
+  address: |-
+    Älvaro Obregón, 121-801 Col. Roma
+    C.P. 06700 MÉXICO, D.F.
+  tel: "+52 55 5511 5202"
+  ob_issue_number: '848'
+- country_or_area: Mexico
+  company_name: W.L. Comunicaciones, S.A. de C.V.
+  address: |-
+    Bosques de Duraznos, No. 69
+    Piso 9, Torre A
+    Col. Bosque de las Lomas
+    C.P. 11700 MÉXICO, D.F.
+  tel: "+52 55 5251 1092 / +52 55 5049 3108"
+  email: wlcom@terra.com.mx
+  ob_issue_number: '848'
+- country_or_area: Moldova
+  company_name: JSC 'Moldtelecom'
+  address: |-
+    10, bd. Stefan cel Mare si Sfint
+    CHISINAU 2001
+    Moldova
+  tel: "+373 22 570129"
+  fax: "+373 22 546413"
+  email: petrascu@mtc.md
+  url: www.moldtelecom.md
+- country_or_area: Monaco
+  company_name: Monaco Télécom
+  address: |-
+    25, Boulevard de Suisse
+    98000 MONACO
+  tel: "+377 99 666300"
+  fax: "+377 99 666301"
+  email: m.peronnet@monaco-telecom.mc
+  url: www.monaco-telecom.mc
+- country_or_area: Mongolia
+  company_name: Commercial Center Railcom of Ulaanbaatar
+  address: |-
+    Railway JSC, Bayangol duureg
+    Teweerchid Street, 8
+    Post Branch 35
+    P.O. Box 212
+    ULAANBAATAR
+  tel: "+976 11 252 525"
+  fax: "+976 11 252 525"
+  email: info@railcom.mn
+- country_or_area: Mongolia
+  company_name: MobiCom Corporation
+  address: |-
+    MobiCom Building
+    Peace Avenue, 3/1
+    Post Office 20A
+    ULAANBAATAR 210620
+  tel: "+976 11 318 115"
+  fax: "+976 11 310 411"
+  email: suvdanchimeg@mobicom.mn
+- country_or_area: Mongolia
+  company_name: Mongolia Telecom
+  address: |-
+    Sp. Sukhbaatar-1
+    P.O. Box 1166
+    ULAANBAATAR 210611
+  tel: "+976 11 7010 2245"
+  fax: "+976 11 325 412"
+  email: exreldep@mtcone.net
+- country_or_area: Mongolia
+  company_name: Skytel Company
+  address: |-
+    Sukhbaatar District-1, Chinggis Khaan
+    Avenue-9
+    P.O. Box 811
+    ULAANBAATAR 13
+  tel: "+976 11 318 488"
+  fax: "+976 11 318 487"
+  email: contract@skytel.mn
+- country_or_area: Montenegro
+  company_name: T.Com.Comogorski
+- country_or_area: Montenegro
+  company_name: T.Mobile
+- country_or_area: Montenegro
+  company_name: MTEL
+- country_or_area: Montenegro
+  company_name: Pro Monte
+- country_or_area: Morocco
+  company_name: Maroc Télécom – Itissalat Al-Maghrib (IAM)
+  address: |-
+    Avenue Anakhil – Hay Riad
+    RABAT
+  tel: "+212 53 7712121"
+  fax: "+212 53 7711544"
+  email: j.larhrib@iam.ma
+  url: www.iam.ma
+- country_or_area: Mozambique
+  company_name: Empresa Nacional de Telecomunicações de Moçambique
+  ob_issue_number: '541'
+- country_or_area: Namibia
+  company_name: Namibia Post Ltd
+  ob_issue_number: '528'
+- country_or_area: Namibia
+  company_name: Namibia Post and Telecom Holdings Ltd
+  ob_issue_number: '528'
+- country_or_area: Namibia
+  company_name: Telecom Namibia
+  ob_issue_number: '528'
+- country_or_area: Nepal
+  company_name: Nepal Telecom (Nepal Doorsanchar Company Limited)
+  address: "Central Office\nBhadrakali Plaza\nKATHMANDU \nNepal (Republic of)"
+  tel: "+977 1 421 0102"
+  fax: "+977 1 421 0135"
+  email: rajesh.joshi@ntc.net.np
+- country_or_area: Netherlands
+  company_name: Casema N.V.
+  address: |-
+    Brassersplein, 2
+    2612 CT DELET
+  tel: "+31 348 493 109"
+  fax: "+31 348 493 199"
+- country_or_area: Netherlands
+  company_name: Enertel N.V.
+  address: |-
+    P.O. Box 25226
+    3001 HE ROTTERDAM
+  tel: "+31 10 880 3720"
+  fax: "+31 10 880 3799"
+- country_or_area: Netherlands
+  company_name: FaciliCom International Netherlands
+  address: |-
+    Worldwide Boulevard
+    Bouwerij, 44 (5th Floor)
+    1185 XX AMSTELVEEN
+  tel: "+31 20 543 1900"
+  fax: "+31 20 543 1901"
+- country_or_area: Netherlands
+  company_name: Royal KPN N.V.
+  address: |-
+    P.O. Box 30150
+    2500 GD THE HAGUE
+  tel: "+31 70 343 4976"
+  fax: "+31 70 343 4939"
+- country_or_area: Netherlands
+  company_name: SES World Skies
+- country_or_area: Netherlands
+  company_name: SpeakUp BV
+- country_or_area: Netherlands
+  company_name: United Telecommunication Services (UTS)
+- country_or_area: New Zealand
+  company_name: Telecom New Zealand Ltd.
+  address: |-
+    Telecom House
+    Level 2, 68-86 Jervois Quay
+    P.O. Box 570
+    WELLINGTON
+  tel: "+64 4 4985624"
+  fax: "+64 4 4730637"
+  email: Peggy.McConnell@telecom.co.nz
+  url: www.telecom.co.nz
+- country_or_area: New Zealand
+  company_name: TelstraClear Ltd (Attention Richard Horrell)
+  address: |-
+    Corner of Taharoto and Northcote Roads, North Shore,
+    Auckland, New Zealand
+  tel: "+64 9 912 5180"
+  fax: "+64 9 912 4455"
+  email: richard.horrell@team.telstraclear.co.nz
+- country_or_area: New Zealand
+  company_name: Vodafone New Zealand Ltd (Attention Hayden Glass)
+  address: |-
+    20 Viaduct Harbour Avenue,
+    Auckland, New Zealand
+  tel: "+64 21 689176"
+  fax: "+64 9 355 2006"
+  email: hayden.glass@vodafone.com
+- country_or_area: New Zealand
+  company_name: Telco64 Limited
+  address: "200 Willis Street, \nWellington, New Zealand"
+  tel: "+64 21 361063"
+  email: Liz.reid@telco64.com
+- country_or_area: Niger
+  company_name: Celtel-Niger
+  tel: "+227 732 346"
+  fax: "+227 732 385"
+  ob_issue_number: '837'
+- country_or_area: Niger
+  company_name: SAHELCOM
+  tel: "+227 724 770"
+  fax: "+227 724 301"
+  ob_issue_number: '837'
+- country_or_area: Niger
+  company_name: SONITEL
+  address: |-
+    Avenue de l’Uranium
+    B.P. 208
+    NIAMEY
+  tel: "+227 722 000"
+  fax: "+227 735 812"
+  email: sonitel@intnet.ne
+  ob_issue_number: '837'
+- country_or_area: Niger
+  company_name: TELECEL-NIGER
+  tel: "+227 741 945"
+  fax: "+227 741 939"
+  ob_issue_number: '837'
+- country_or_area: Nigeria
+  company_name: Nigerian Communications Commission (NCC)
+  ob_issue_number: '729'
+- country_or_area: Niue
+  company_name: Telecom Niue
+  address: ALOFI
+- country_or_area: Norway
+  company_name: Norkring AS
+  address: |-
+    Snaroyveien, 30, F2f
+    1331 FORNEBU
+  tel: "+47 67 892 000"
+  fax: "+47 67 893 614"
+  email: rolf.mkleby@telenor.com
+  url: www.norkring.no
+- country_or_area: Norway
+  company_name: Steam Systems AS
+  address: |-
+    P.O. Box 2444 Solli
+    0201 OSLO
+    Norway
+    E-mail: kmr@schjodt.no
+  email: kmr@schjodt.no
+- country_or_area: Norway
+  company_name: STM Norway AS
+  address: |-
+    Vollsveien, 21
+    1366 LYSAKER
+  fax: "+47 67 535 335"
+  email: stmnorway@stmi.com
+  url: www.stmi.com
+- country_or_area: Norway
+  company_name: Telenor ASA
+  address: |-
+    Snaroyveien, 30
+    1331 FORNEBU
+  tel: "+47 67 890 000"
+  fax: "+47 67 892 433"
+  email: unn.duus-carlsen@telenor.com
+  url: www.telenor.com
+- country_or_area: Norway
+  company_name: Orbital Networks AS
+  address: |-
+    Prestvannvegen 38
+    9011 TROMSØ
+    Norway
+  email: marco.villa@tyvak.com
+- country_or_area: Oman
+  company_name: Oman Telecommunications Company (Omantel)
+  address: |-
+    P.O. Box 789
+    RUWI 112
+    Oman
+  tel: "+968 2463 1823"
+  fax: "+968 2469 6868"
+  email: Fadia.kindi@omantel.om
+  url: www.omantel.net.com
+- country_or_area: Pakistan
+  company_name: Burraq Telecom Ltd
+  address: 316, Main Margalla Road, F-10/3 ISLAMABAD
+  tel: "+92 51 111 784 784"
+  fax: "+92 51 111 784 785"
+  ob_issue_number: '837'
+- country_or_area: Pakistan
+  company_name: Callmate Telips Telecom (Pvt) Ltd
+  address: |-
+    99-CF, 1/5, Clifton
+    KARACHI
+  tel: "+92 21 583 0701 / +92 21 583 3712"
+  fax: "+92 21 583 3006 / +92 21 587 3894"
+  ob_issue_number: '837'
+- country_or_area: Pakistan
+  company_name: Circle Net Communications (Pakistan) Pvt. Ltd
+  address: 263-B, St. No. 42, F-11/3 ISLAMABAD
+  tel: "+92 51 210 5314-5"
+  fax: "+92 51 221 1058"
+  ob_issue_number: '837'
+- country_or_area: Pakistan
+  company_name: DANCOM Pakistan (Pvt) Ltd
+  address: |-
+    2nd Floor, Block 4-A
+    Wisma Dancom, F-8 Markaz ISLAMABAD
+  tel: "+92 51 226 0509"
+  fax: "+92 51 226 1720"
+  ob_issue_number: '837'
+- country_or_area: Pakistan
+  company_name: DV Com Ltd
+  address: H. No.16, St. No. 67, G-6/4 ISLAMABAD
+  tel: "+92 51 282 1683"
+  fax: "+92 51 282 1487"
+  ob_issue_number: '837'
+- country_or_area: Pakistan
+  company_name: Link Direct International (Pvt) Ltd
+  address: |-
+    42, Kulsum Plaza
+    Jinnah Avenue, Blue Area ISLAMABAD
+  tel: "+92 51 227 3984-9"
+  fax: "+92 51 227 3983"
+  ob_issue_number: '837'
+- country_or_area: Pakistan
+  company_name: National Telecom Corporation (NTC)
+  address: Headquarters, Sector F-5/1 ISLAMABAD
+  tel: "+92 51 922 2808"
+  fax: "+92 51 922 2809"
+  ob_issue_number: '837'
+- country_or_area: Pakistan
+  company_name: Pakcom Limited
+  address: |-
+    75 East Blue Area, Fazal-ul-Haq Road
+    P.O. Box 1681 ISLAMABAD
+  tel: "+92 51 227 7400"
+  fax: "+92 51 227 3554"
+  ob_issue_number: '837'
+- country_or_area: Pakistan
+  company_name: Pakistan Mobile Company Limited
+  address: Kulsum Plaza, Blue Area ISLAMABAD
+  tel: "+92 51 227 3990"
+  fax: "+92 51 227 3981"
+  ob_issue_number: '837'
+- country_or_area: Pakistan
+  company_name: Pakistan Telecom Company Limited (PTCL)
+  address: Headquarters, Sector G-8/4 ISLAMABAD
+  tel: "+92 51 225 1161"
+  fax: "+92 51 225 1162"
+  ob_issue_number: '837'
+- country_or_area: Pakistan
+  company_name: Pakistan Telecom Mobile Limited
+  address: |-
+    13-B, F-7 Markaz
+    Jinnah Super ISLAMABAD
+  tel: "+92 51 111 333 200"
+  fax: "+92 51 265 0505"
+  ob_issue_number: '837'
+- country_or_area: Pakistan
+  company_name: Burraq Telecom Ltd
+  address: 316, Main Margalla Road, F-10/3 ISLAMABAD
+  tel: "+92 51 227 1116"
+  fax: "+92 51 282 6992"
+  ob_issue_number: '837'
+- country_or_area: Pakistan
+  company_name: Callmate Telips Telecom (Pvt) Ltd
+  address: |-
+    99-CF, 1/5, Clifton
+    KARACHI
+  tel: "+92 51 210 0876"
+  fax: "+92 51 287 0340"
+  ob_issue_number: '837'
+- country_or_area: Pakistan
+  company_name: Circle Net Communications (Pakistan) Pvt. Ltd
+  address: 263-B, St. No. 42, F-11/3 ISLAMABAD
+  tel: "+92 51 927 1545"
+  ob_issue_number: '837'
+- country_or_area: Pakistan
+  company_name: DANCOM Pakistan (Pvt) Ltd
+  address: |-
+    2nd Floor, Block 4-A
+    Wisma Dancom, F-8 Markaz ISLAMABAD
+  tel: "+92 21 111 222 123"
+  fax: "+92 21 586 7850"
+  ob_issue_number: '837'
+- country_or_area: Pakistan
+  company_name: Telenor (Pakistan) Pvt. Ltd
+  address: Saudi Pak Tower, Ground Floor 61-A, Jinnah Avenue ISLAMABAD
+  tel: "+92 51 280 0397 / +92 51 280 0398"
+  fax: "+92 51 280 0399"
+  ob_issue_number: '837'
+- country_or_area: Pakistan
+  company_name: Link Direct International (Pvt) Ltd
+  address: |-
+    42, Kulsum Plaza
+    Jinnah Avenue, Blue Area ISLAMABAD
+  tel: "+92 51 265 3050"
+  fax: "+92 51 265 1923"
+  ob_issue_number: '837'
+- country_or_area: Pakistan
+  company_name: National Telecom Corporation (NTC)
+  address: Headquarters, Sector F-5/1 ISLAMABAD
+  tel: "+92 51 282 7327 / +92 51 282 5054"
+  fax: "+92 51 282 4487"
+  ob_issue_number: '837'
+- country_or_area: Pakistan
+  company_name: Pakcom Limited
+  address: |-
+    75 East Blue Area, Fazal-ul-Haq Road
+    P.O. Box 1681 ISLAMABAD
+  tel: "+92 51 227 4703"
+  fax: "+92 51 227 9897"
+  ob_issue_number: '837'
+- country_or_area: Pakistan
+  company_name: Wise Communication Systems (Pvt) Ltd
+  address: |-
+    Office #3
+    23, Sajid Sharif Plaza, G-11 Markaz ISLAMABAD
+  tel: "+92 51 210 6103"
+  fax: "+92 51 210 4822"
+  ob_issue_number: '837'
+- country_or_area: Pakistan
+  company_name: WorldCall Telecom Ltd
+  address: 103-C-II, Gulberg – III LAHORE
+  tel: "+92 42 575 7591-4"
+  fax: "+92 42 575 7590 / +92 42 587 7920"
+  ob_issue_number: '837'
+- country_or_area: Panama
+  company_name: Advanced Communication Networks, S.A.
+  ob_issue_number: '828'
+- country_or_area: Panama
+  company_name: BellSouth Panamá, S.A.
+  ob_issue_number: '828'
+- country_or_area: Panama
+  company_name: Broadband Wireless Communication Corp.
+  ob_issue_number: '828'
+- country_or_area: Panama
+  company_name: Cable & Wireless Panamá, S.A.
+  address: |-
+    Torre C Internacional, Mezzanine
+    Via España
+    659 PANAMÁ 9A
+  tel: "+507 223 0266"
+  fax: "+507 264 5743"
+  email: cwp@cwpanama.com
+  url: www.cwpanama.net
+  ob_issue_number: '828'
+- country_or_area: Panama
+  company_name: Cable Onda, S.A.
+  ob_issue_number: '828'
+- country_or_area: Panama
+  company_name: Communications & Network Corp. (COMMNET)
+  ob_issue_number: '828'
+- country_or_area: Panama
+  company_name: Galaxy Communications Corp.
+  ob_issue_number: '828'
+- country_or_area: Panama
+  company_name: IFX Networks, S.A.
+  ob_issue_number: '828'
+- country_or_area: Panama
+  company_name: Optynex Telecom, S.A.
+  ob_issue_number: '828'
+- country_or_area: Panama
+  company_name: Panamá Teledata Corporation
+  ob_issue_number: '828'
+- country_or_area: Panama
+  company_name: TeleCarrier, Inc.
+  ob_issue_number: '828'
+- country_or_area: Panama
+  company_name: VoIP Comunicaciones de Panamá, S.A.
+  ob_issue_number: '828'
+- country_or_area: Philippines
+  company_name: Globe Telecom
+  address: |-
+    5th Floor, Globe Telecom Plaza
+    Pioneer corner Madison Street
+    MANDALUYONG CITY 1552
+  tel: "+63 2 730 2000"
+  fax: "+63 2 739 7397"
+  email: ir@globetel.com.ph
+- country_or_area: Philippines
+  company_name: Philippine Long Distance Telephone Co. (PLDT)
+  address: |-
+    3rd floor, PLDT Ramon Cojuangco Building
+    Makati Avenue
+    MAKATI CITY 0721
+  tel: "+63 2 816 8298/+63 2 817 2476"
+  fax: "+63 2 812 2697"
+  email: esantonio@pldt.com.ph
+  url: www.pldt.com.ph
+- country_or_area: Philippines
+  company_name: Smart Communications, Inc.(SCI)
+  address: |-
+    Smart Tower
+    6799 Ayala Avenue
+    MAKATI CITY
+  tel: "+63 2 511 2423"
+  fax: "+63 2 511 3320"
+  email: rdibay@smart.com.ph
+- country_or_area: Poland
+  company_name: Polska Poczta
+- country_or_area: Poland
+  company_name: Telekomunikacja Polska S.A.
+  address: |-
+    Ul. Twarda 18
+    00-105 WARSAW
+  tel: "+48 22 699 5141"
+  fax: "+48 22 857 9986"
+  email: magdalena.hamada@tekomunikacja.pl
+  url: www.tp.pl
+- country_or_area: Poland
+  company_name: "Bankowe Przedsiebiorstwo   \nTelekomunikacyjne-Telebank S.A"
+  address: "ul. Perkuna 47 \n04-164 WARSZAWA"
+  tel: "+48 22 695 3863"
+  fax: "+48 22 695 3701"
+  email: wieslaw.szymanski@telbank.pl
+- country_or_area: Poland
+  company_name: Nask Research and Education Computer Network
+  address: |-
+    Ul. Wawozowa 18
+    PL 02-726 WARSZAWA
+  tel: "+48 22 523 1204"
+  fax: "+48 22 523 1201"
+  email: krzysztof.silick@nask.pl
+- country_or_area: Poland
+  company_name: Telekomunikacja Kolejowa Sp. Z.o.o
+  address: "Al. Jerozolimskie 140  \n02-305 WARSZAWA"
+  tel: "+48 22 524 3510"
+  fax: "+48 22 524 3310"
+  email: w.radziszewski@tktelekom.pl
+- country_or_area: Poland
+  company_name: POLKOMTEL Sp. z o.o.
+  address: |-
+    UI. Postepu 3,
+    02-676 WARSAW
+  tel: "+48 22 6071000"
+  fax: "+48 22 6071902"
+  email: przemyslaw.mach@plus.pl
+- country_or_area: Qatar
+  company_name: Qatar Telecom (Q-Tel)
+  address: "New Headquarters Tower\nWest Bay\nP.O. Box 217\nDOHA \nQatar"
+  tel: "+974 44400400"
+  fax: "+974 44931919"
+  email: amutawa@qtel.com.qa
+  url: www.qtel.com.qa
+- country_or_area: Romania
+  company_name: Accessnet International S.A.
+- country_or_area: Romania
+  company_name: Adisam Telecom S.A.
+- country_or_area: Romania
+  company_name: Advanced Business Solutions International Srl
+- country_or_area: Romania
+  company_name: Advanced Communications International Srl
+- country_or_area: Romania
+  company_name: Aietes Telecom Galati Filiala Tulcea Srl
+- country_or_area: Romania
+  company_name: Alizee Srl
+- country_or_area: Romania
+  company_name: Artelecom S.A. (Without licence carrier operator)
+- country_or_area: Romania
+  company_name: Astral Telecom S.A.
+- country_or_area: Romania
+  company_name: Atlantic Telecom Srl
+- country_or_area: Romania
+  company_name: Atlas Telecom Network Romania Srl
+- country_or_area: Romania
+  company_name: Connet-Ro Srl
+- country_or_area: Romania
+  company_name: Cosmorom S.A.
+- country_or_area: Romania
+  company_name: Data Telecom Srl
+- country_or_area: Romania
+  company_name: Danubius Telecom S.A.
+- country_or_area: Romania
+  company_name: Dial Telecom Srl
+- country_or_area: Romania
+  company_name: "DV Company Srl \nEastern Space Systems Srl \nWithout\nlicence carrier\noperator"
+- country_or_area: Romania
+  company_name: |-
+    Eastern Space Systems Srl
+    Without
+    licence carrier
+    operator
+- country_or_area: Romania
+  company_name: Easy Comm Srl
+- country_or_area: Romania
+  company_name: Euroweb Romania S.A.
+- country_or_area: Romania
+  company_name: Globtel Internet Srl
+- country_or_area: Romania
+  company_name: GTS Telecom Srl
+- country_or_area: Romania
+  company_name: Idilis S.A.
+- country_or_area: Romania
+  company_name: Ines Group Srl
+- country_or_area: Romania
+  company_name: International Communications Systems Srl
+- country_or_area: Romania
+  company_name: Interpoint Srl
+- country_or_area: Romania
+  company_name: "Intersat Srl \nWithout\nlicence carrier\noperator"
+- country_or_area: Romania
+  company_name: Iristel România Srl
+- country_or_area: Romania
+  company_name: "KTEL Center Srl \nWithout\nlicence carrier\noperator"
+- country_or_area: Romania
+  company_name: Magic Telecom Srl
+- country_or_area: Romania
+  company_name: NECC Telecom România Srl
+- country_or_area: Romania
+  company_name: Media SAT S.A.
+- country_or_area: Romania
+  company_name: Mobifon S.A.
+- country_or_area: Romania
+  company_name: Net-Connect Internet Srl
+- country_or_area: Romania
+  company_name: Netmaster Communications Srl
+- country_or_area: Romania
+  company_name: Netpoint Srl
+- country_or_area: Romania
+  company_name: Nevi Cons Srl
+- country_or_area: Romania
+  company_name: Nobel România Srl
+- country_or_area: Romania
+  company_name: "Oltenia Network Cable Srl \nWithout\nlicence carrier\noperator"
+- country_or_area: Romania
+  company_name: Orange Romania S.A.
+- country_or_area: Romania
+  company_name: Orizont Group Srl
+- country_or_area: Romania
+  company_name: Parlatel Srl (former Binet Srl)
+- country_or_area: Romania
+  company_name: PCNET Data Network S.A.
+- country_or_area: Romania
+  company_name: Plug it International Srl
+- country_or_area: Romania
+  company_name: Romania Data Systems S.A.
+- country_or_area: Romania
+  company_name: S.C. ROMTELECOM S.A.
+  address: |-
+    Regulatory Affairs Division
+    City Gate, North Tower
+    3 Piata Presei Libere, Sector 1
+    013702 BUCHAREST 1
+  tel: "+40 21 400 5229"
+  fax: "+40 21 400 5641"
+  email: anca.ciocirlan@romtelecom.ro
+  url: www.romtelecom.ro
+- country_or_area: Romania
+  company_name: Societatea Nationala
+- country_or_area: Romania
+  company_name: Radiocomunicatii S.A.
+- country_or_area: Romania
+  company_name: Telcor Communications Srl
+- country_or_area: Romania
+  company_name: "Tele 2000 Srl \nWithout\nlicence carrier\noperator"
+- country_or_area: Romania
+  company_name: Telecomunicatii CFR S.A.
+- country_or_area: Romania
+  company_name: Telemobil S.A.
+- country_or_area: Romania
+  company_name: "Tour Imex Srl \nWithout\nlicence carrier\noperator"
+- country_or_area: Romania
+  company_name: "Transmisii Data Srl \nWithout\nlicence carrier\noperator"
+- country_or_area: Romania
+  company_name: Trans Tel Services Srl
+- country_or_area: Romania
+  company_name: |-
+    Trustul Constructii Montaj Centrale
+    Nucleare S.A.
+    Without
+    licence carrier
+    operator
+- country_or_area: Romania
+  company_name: VIP Plus Computers Srl
+- country_or_area: Romania
+  company_name: Voxline Communication Srl
+- country_or_area: Romania
+  company_name: World Telecom Network Srl
+- country_or_area: Russian Federation
+  company_name: JSC 'TransTeleCom'
+  address: |-
+    8, Testovskaja Street
+    123 317 MOSCOW
+  tel: "+7 495 784 6670 / +7 495 784 7962"
+  fax: "+7 495 784 6671"
+  email: m.andreev@ttk.ru
+- country_or_area: Russian Federation
+  company_name: LLC Equant (trademark “Orange”)
+  address: |-
+    4/1, Yakimanskaya naberezhnaya
+    119 180 MOSCOW
+  tel: "+7 495 777 0800"
+  fax: "+7 495 777 0900"
+  url: www.orange-business.ru
+- country_or_area: Russian Federation
+  company_name: MegaFon Open Joint Stock Company
+  address: |-
+    30 Kadashevskaya emb.
+    115035 MOSCOW
+  tel: "+7 495 980 1970"
+  fax: "+7 495 980 1949"
+  email: megafon@megafon.ru
+  url: www.megafon.ru
+- country_or_area: Russian Federation
+  company_name: OJSC 'Multiregional TransitTelecom'
+  address: |-
+    Marksistskaya Street, 22
+    109 147 MOSCOW
+  tel: "+7 499 709 0101"
+  fax: "+7 499 709 0100"
+  email: mttinfor@mtt.ru
+- country_or_area: Russian Federation
+  company_name: OJSC Rostelecom
+  address: |-
+    14, First Tverskaya - Yamskaya Street
+    125 047 MOSCOW
+  tel: "+7 499 972 8283"
+  fax: "+7 499 972 8222"
+  email: rostelecom@rt.ru
+- country_or_area: Rwanda
+  company_name: Artel International
+  address: |-
+    Africa Rural Telecommunications
+    P.O. Box 7333 KIGALI
+  tel: "+250 583 473"
+  fax: "+250 583 469"
+  email: artel@rwanda1.com
+  url: www.artel.rw
+  ob_issue_number: '838'
+- country_or_area: Rwanda
+  company_name: MTN Rwandacell Sarl Telecom House Avenue de l’Umuganda
+  address: P.O. Box 264 KIGALI
+  tel: "+250 586 863"
+  fax: "+250 586 865"
+  url: www.mtnrwandacell.co.rw
+  ob_issue_number: '838'
+- country_or_area: Rwanda
+  company_name: Rwandatel S.A. Société rwandaise de Télécommunications
+  address: P.O. Box 1332 KIGALI
+  tel: "+250 576 777"
+  fax: "+250 582 300"
+  email: info@rwandatel.rw
+  url: www.rwandatel.rw
+  ob_issue_number: '838'
+- country_or_area: Rwanda
+  company_name: TELE10-Mediapost Rwanda s/c
+  address: |-
+    TELE10.Rwanda
+    P.O. Box 4307 KIGALI
+  tel: "+250 512 022 / +250 512 023"
+  fax: "+250 512 025"
+  email: rwanda@tele10.com / tele10@rwanda1.com
+  url: www.tele10.com
+  ob_issue_number: '838'
+- country_or_area: Rwanda
+  company_name: TERRACOM Communications
+  address: P.O. Box 618 KIGALI
+  tel: "+250 503 263"
+  fax: "+250 503 263"
+  url: www.terracom.rw
+  ob_issue_number: '838'
+- country_or_area: Saint Kitts and Nevis
+  company_name: St Kitts and Nevis Telecommunications Limited (SKANTEL)
+  ob_issue_number: '626'
+- country_or_area: Saint Lucia
+  company_name: Cable and Wireless (Saint Lucia) Ltd
+  address: |-
+    P.O Box 111
+    Bridge Street
+    CASTRIES
+    Saint Lucia
+  fax: "+1 758 952 4127"
+- country_or_area: Samoa
+  company_name: Samoa Communications Limited
+  ob_issue_number: '706'
+- country_or_area: San Marino
+  company_name: San Marino RTV
+  address: |-
+    Via J.F. Kennedy
+    SAN MARINO 47890
+  fax: "+378 0549 882 840"
+  ob_issue_number: '869'
+- country_or_area: San Marino
+  company_name: SMT San Marino Telecom S.p.A.
+  address: |-
+    Piazza Tini, 20
+    47891 DOGANA
+  tel: "+378 0549 941 502"
+  fax: "+378 0549 942 768"
+  email: info@smt.sm
+  ob_issue_number: '869'
+- country_or_area: San Marino
+  company_name: Telecom Italia
+  address: |-
+    P.O. Box AD 2420
+    Via Flaminia, 189
+    00196 ROMA
+  fax: "+39 06 3688 3155"
+  ob_issue_number: '869'
+- country_or_area: San Marino
+  company_name: Telecom Italia San Marino
+  address: |-
+    Strada Degli Angariari
+    3 Rovereta 47
+    SAN MARINO
+  fax: "+378 0549 908 654"
+  ob_issue_number: '869'
+- country_or_area: San Marino
+  company_name: TELENET
+  address: |-
+    11, Via Guardia del Consiglio
+    GALAZZANO
+  fax: "+378 0549 908 999"
+  ob_issue_number: '869'
+- country_or_area: San Marino
+  company_name: TIM
+  address: |-
+    34, Via Bertola
+    TORINO
+  ob_issue_number: '869'
+- country_or_area: San Marino
+  company_name: TMS
+  address: |-
+    148, Via 28 Luglio
+    BORGO MAGGIORE 47893
+  fax: "+378 0549 980 044"
+  ob_issue_number: '869'
+- country_or_area: Sao Tome and Principe
+  company_name: Companhia Santomense de Telecomunicações (CST)
+  address: |-
+    Av. 12 de Julho
+    Caixa postal 141
+    SÃO TOMÉ
+  tel: "+239 222226"
+  fax: "+239 222500"
+- country_or_area: Saudi Arabia
+  company_name: AtlasAlbilad Advanced Technology for Communications
+  tel: "+966 1 470 8181"
+  fax: "+966 1 470 3923"
+  url: www.atlasalbilad.com
+- country_or_area: Saudi Arabia
+  company_name: Baud Telecom Company (BTC)
+  tel: "+966 1 465 0604"
+  fax: "+966 1 465 0604"
+  url: www.btc-networks.com
+- country_or_area: Saudi Arabia
+  company_name: Bayanat Al-Oula for Network Services (Bayant Consortium)
+  address: |-
+    P.O. Box 301347
+    11372 RIYADH
+  tel: "+966 1 419 1818"
+  fax: "+966 1 419 1188"
+  url: www.bayanat.com.sa
+- country_or_area: Saudi Arabia
+  company_name: British Telecom Al-Saudia
+  tel: "+966 1 477 7633"
+  fax: "+966 1 476 2808"
+- country_or_area: Saudi Arabia
+  company_name: Channels Center for Electronic Devices
+  tel: "+966 2 667 7888"
+  fax: "+966 2 667 7888/33"
+  url: www.iccsat.com
+- country_or_area: Saudi Arabia
+  company_name: Detecon Al Saudia Co. Ltd (DETASAD)
+  address: |-
+    P.O. Box 22135
+    11495 RIYADH
+  tel: "+966 1 249 9444"
+  fax: "+966 1 249 7887"
+  url: www.detasad.com.sa
+- country_or_area: Saudi Arabia
+  company_name: Electronia Company
+  address: |-
+    P.O. Box 180
+    31952 AL KHUBAR
+  tel: "+966 1 465 6447"
+  fax: "+966 3 894 9991"
+  url: www.electronia.com
+- country_or_area: Saudi Arabia
+  company_name: "Farhan Commercial Company Ltd \n(Thuraya Services)"
+  tel: "+966 1 219 2000"
+  fax: "+966 1 219 5000"
+  url: www.farhan-hicap.com
+- country_or_area: Saudi Arabia
+  company_name: High Capabilities Technologies Company Ltd
+  address: |-
+    P.O. Box 60663
+    11555 RIYADH
+  tel: "+966 1 466 4666"
+  fax: "+966 1 466 0066"
+  url: www.hicap-telecom.com
+- country_or_area: Saudi Arabia
+  company_name: Integrated Telecommunications Company (ITC) Ltd
+  address: |-
+    P.O. Box 8732
+    11492 RIYADH
+  tel: "+966 1 406 2330"
+  fax: "+966 1 406 2318"
+  email: m.ghorab@itc.sa
+  url: www.itc.net.sa
+- country_or_area: Saudi Arabia
+  company_name: International Electronic Telecommunications Company (Inteltec Saudi
+    Arabia)
+  tel: "+966 1 208 7575"
+  fax: "+966 1 208 7676"
+  url: www.saudi-inteltec.com
+- country_or_area: Saudi Arabia
+  company_name: Iridium Satellite LLC
+  tel: "+966 1 301 571 6227"
+  fax: "+966 1 301 571 6250"
+  url: www.iridium.com
+- country_or_area: Saudi Arabia
+  company_name: Ithad Itsalat Company (Mobily)
+  address: |-
+    P.O. Box 9979
+    11423 RIYADH
+  tel: "+966 1 273 5050"
+  fax: "+966 1 273 5800"
+  url: www.mobily.com.sa
+- country_or_area: Saudi Arabia
+  company_name: Nasser S Al Harbi Trading Establishment (Al Harbi Telecom)
+  tel: "+966 1 450 2299"
+  fax: "+966 1 450 2299"
+  url: www.alharbitelecom.com
+- country_or_area: Saudi Arabia
+  company_name: Saudi Net Link Company Ltd
+  tel: "+966 1 217 8583"
+  fax: "+966 1 217 8583/110"
+  url: www.saudinetlink.com
+- country_or_area: Saudi Arabia
+  company_name: Saudi Telecom Company (STC)
+  address: |-
+    P.O. Box 87912
+    11652 RIYADH
+  tel: "+966 1 452 7600"
+  fax: "+966 1 452 7572"
+  url: www.stc.com.sa
+- country_or_area: Saudi Arabia
+  company_name: Showtime
+  tel: "+966 3 895 8422"
+  fax: "+966 3 895 8499"
+  url: www.showtimearabia.com
+- country_or_area: Saudi Arabia
+  company_name: Thuraya Satellite Telecommunications Company
+  tel: "+971 2 616 1220"
+  fax: "+971 2 641 8440"
+  url: www.thuraya.com
+- country_or_area: Senegal
+  company_name: Société Nationale des Télécommunications du Sénégal (SONATEL)
+  address: |-
+    46, Boulevard de la République
+    Boîte postale 69
+    DAKAR
+  tel: "+221 33 839 2257 / +221 33 839 2503"
+  fax: "+221 33 823 2971 / +221 33 830 1212"
+  email: brelotte.ba@orange-sonatel.com
+- country_or_area: Senegal
+  company_name: SENTEL
+- country_or_area: Senegal
+  company_name: EXPRESSO
+- country_or_area: Serbia
+  company_name: Joint Stock Telecommunications Company 'TELEKOM SRBIJA' A.D.
+  address: |-
+    Takovska 2
+    11000 BELGRADE
+  tel: "+381 11 334 1433"
+  fax: "+381 11 334 1635"
+  email: kabinet@telekom.rs
+  url: www.telekom.yu
+- country_or_area: Serbia
+  company_name: Telenor Ltd. Belgrade
+  address: |-
+    Omladinskih brigada 90
+    11070 BELGRADE
+  tel: "+381 63 530 350"
+  fax: "+381 11 301 3399"
+  email: radmia.simic@telenor.rs
+  url: www.telenor.rs
+- country_or_area: Serbia
+  company_name: Vip Mobile
+- country_or_area: Seychelles
+  company_name: |-
+    Cable & Wireless (Seychelles)
+    Limited
+  address: |-
+    P.O. Box 4
+    VICTORIA, MAHÉ
+  tel: "+248 428 4000"
+  fax: "+248 432 2777"
+  url: www.cw.com/seychelles
+- country_or_area: Seychelles
+  company_name: Telecom (Seychelles) Limited
+  address: |-
+    P.O. Box 1358
+    VICTORIA, MAHÉ
+  tel: "+248 460 0629"
+  fax: "+248 460 1602"
+  email: airtel@seychelles.net
+  url: www.airtel.sc
+- country_or_area: Sierra Leone
+  company_name: Sierra Leone Telecommunications Co. (SIERRATEL)
+  address: |-
+    7, Wallace Johnson Street
+    P.O. Box 80
+    FREETOWN
+  tel: "+232 22 222 804"
+  fax: "+232 22 229 733"
+- country_or_area: Sierra Leone
+  company_name: Zain (SL) Ltd.
+  address: "Zain House \nMain Motor Road No 42 \nFREETOWN"
+- country_or_area: Sierra Leone
+  company_name: Tigo (SL) Ltd
+- country_or_area: Sierra Leone
+  company_name: Comium (SL) Ltd
+  address: |-
+    Comium Building
+    30 D Wilkinson Road
+    FREETOWN
+  tel: "+232 33 333 018"
+  fax: "+232 33 333 060"
+- country_or_area: Sierra Leone
+  company_name: Africell (SL) Ltd
+  address: "Pivot St.\nWilberforce\nFREETOWN,  \nAmbitel"
+  tel: "+232 77 777 777"
+  url: www.africell.sl
+- country_or_area: Singapore
+  company_name: MobileOne (Asia) Pte Ltd.
+  address: |-
+    10 International Business Park
+    609928 SINGAPORE
+  tel: "+65 6895 1039"
+  fax: "+65 6899 3929"
+  email: chansl@ml.com.sg
+- country_or_area: Singapore
+  company_name: Singapore Telecommunications Ltd. (SingTel)
+  address: |-
+    31 Exeter Road, Comcentre #18-00
+    00923 SINGAPORE
+  tel: "+65 6838 3213"
+  fax: "+65 6732 1044"
+- country_or_area: Singapore
+  company_name: StarHub Pte Ltd
+  address: |-
+    51 Cuppage Road 07-00
+    229469 SINGAPORE
+  tel: "+65 6880 5721"
+  fax: "+65 6736 6048"
+  email: cannicel@starhub.com.sg
+- country_or_area: Slovakia
+  company_name: Aliatel, s.r.o.
+  ob_issue_number: '788'
+- country_or_area: Slovakia
+  company_name: BT Slovakia, s.r.o.
+  ob_issue_number: '788'
+- country_or_area: Slovakia
+  company_name: Dial Telecom, a.s.
+  ob_issue_number: '788'
+- country_or_area: Slovakia
+  company_name: eTel Slovensko, s.r.o.
+  ob_issue_number: '788'
+- country_or_area: Slovakia
+  company_name: Eurotel Bratislava, a.s.
+  ob_issue_number: '788'
+- country_or_area: Slovakia
+  company_name: GlobalTel Slovakia, s.r.o.
+  ob_issue_number: '788'
+- country_or_area: Slovakia
+  company_name: GTS Slovakia, s.r.o.
+  ob_issue_number: '788'
+- country_or_area: Slovakia
+  company_name: MBC, s.r.o.
+  ob_issue_number: '788'
+- country_or_area: Slovakia
+  company_name: Nextra, s.r.o.
+  ob_issue_number: '788'
+- country_or_area: Slovakia
+  company_name: Orange Slovensko, a.s.
+  ob_issue_number: '788'
+- country_or_area: Slovakia
+  company_name: Postel, a.s.
+  ob_issue_number: '788'
+- country_or_area: Slovakia
+  company_name: Slovenske telekomunikacie, a.s.
+  ob_issue_number: '788'
+- country_or_area: Slovakia
+  company_name: ViaPVT, a.s.
+  ob_issue_number: '788'
+- country_or_area: Slovakia
+  company_name: Voipac, s.r.o.
+  ob_issue_number: '788'
+- country_or_area: Slovakia
+  company_name: Zeleznice Slovenskej republiky
+  ob_issue_number: '788'
+- country_or_area: Slovenia
+  company_name: In.Life d.d.
+  address: "Dunajska Cesta 22  \nSI-1511 LJUBLJANA"
+  tel: "+386 1 434 7066"
+  fax: "+386 1 474 4619"
+  email: dejan.strbenk@inlife.si
+- country_or_area: Slovenia
+  company_name: Mobitel, telekomunikacijske storitive d.d
+  address: |-
+    Vilharjeva 23
+    1537 LJUBLJANA
+  tel: "+386 1 47 22 312"
+  fax: "+386 1 47 22 810"
+  email: ic@mobitel.si
+- country_or_area: Slovenia
+  company_name: SI.Mobil d.d
+  address: |-
+    Smartinska Cesta 134/B
+    SI-1000  LJUBLJANA
+  tel: "+386 40 440 134"
+  fax: "+386 40 443 199"
+  email: andrej.spik@simobil.si
+- country_or_area: Slovenia
+  company_name: Telekom Slovenije, p.o.
+  address: "Cigaletova 15  \nSI-61000 LJUBLJANA"
+  tel: "+386 1 234 1216"
+  fax: "+386 1 234 1200"
+  email: roman.smidovnik@telekom.si
+- country_or_area: Slovenia
+  company_name: Tusmobil d.o.o
+  address: |-
+    Resljeva 16
+    SI - 3000 CELJE
+  tel: "+386 3 560 7900"
+  fax: "+386 3 560 7903"
+  email: ic@tusmobil.si
+- country_or_area: South Africa
+  company_name: Telkom SA Ltd.
+  address: |-
+    21st Floor
+    152 Proes Street
+    PRETORIA 0001
+  tel: "+27 12 3113576"
+  fax: "+27 12.3216463"
+  email: plaatp@telkom.co.za
+  url: www.telkom.co.za
+- country_or_area: South Africa
+  company_name: Mobile Telephone Networks (Pty) Ltd. (MTN)
+  address: |-
+    Private Bag 9955
+    SANDTON 2146
+  tel: "+27 11 3016000"
+  fax: "+27 11 3016111"
+  email: mashis_m@mtn.co.za
+  url: www.mtn.co.za
+- country_or_area: South Africa
+  company_name: Vodacom SA (Pty) Limited
+  address: |-
+    Regulatory Affairs
+    Private Bag X9904
+    SANDTON 2146
+  tel: "+27 11 8488022 / +27 11 6535624"
+  fax: "+27 11 8488827"
+  email: ceo@vodacom.co.za
+  url: www.vodacom.co.za
+- country_or_area: South Africa
+  company_name: Orbicom (Pty) Ltd.
+  address: |-
+    Multichoice Africa Building
+    75 Republic Rd Randburg
+    P.O. Box 4751
+    RANDBURG, Gauteng 2125
+  tel: "+27 11 2894236"
+  fax: "+27 11 7891709"
+  email: cmawela@multichoice.co.za
+  url: www.orbicom.com
+- country_or_area: South Africa
+  company_name: Sentech Ltd.
+  address: |-
+    Private Bag X06
+    HONEYDEW 2040
+  tel: "+27 11 691 7220"
+  fax: "+27 11 691 7120"
+  email: tokot@sentech.co.za / mokitimin@sentech.co.za
+  url: www.sentech.co.za
+- country_or_area: Sudan
+  company_name: Bashair Telecommunications Co. Ltd
+  address: |-
+    Areeba Sudan
+    Building No. 70 Block 19
+    Abdullah Al Tayeb Street
+    P.O. Box 3461111
+    KHARTOUM
+  tel: "+249 92 2 90 2900"
+  fax: "+249 12 324 0899"
+  email: gawan@areeba.com.sd
+- country_or_area: Sudan
+  company_name: Canar Telecommunications Corporation Limited (Canartel)
+  address: |-
+    Al Qibalh Centre Building
+    Africa Road
+    P.O. Box 8182 , Al Amarat
+    KHARTOUM
+  tel: "+249 15 5553130"
+  fax: "+249 15 5550044"
+  email: m.ali@canar.com.sd
+  url: www.canar.sd
+- country_or_area: Sudan
+  company_name: Sudan Telecom Company Ltd. (Sudatel)
+  address: |-
+    Sudatel Tower, 2nd Floor
+    P.O. Box 11155
+    KHARTOUM
+  tel: "+249 120 120001"
+  fax: "+249 183782322"
+  email: kamalea@sudatel.net.sd
+  url: www.sudatel.sd
+- country_or_area: Sudan
+  company_name: |-
+    Sudanese Mobile Telephone Co.
+    (MOBITEL)
+  address: |-
+    Arab Co. for livestock development
+    Building
+    Mogran – Al gaba Street
+    P.O. Box 13588
+    11111 KHARTOUM
+  tel: "+249 12 379 0580"
+  fax: "+249 12 379 0590"
+  email: |-
+    ibrahim.zein@sdn-mobitel.com /
+    i.allhassan@sdn-mobitel.com
+- country_or_area: Suriname
+  company_name: Digicel Suriname N.V.
+  tel: "+597 473 300"
+  fax: "+597 475 502"
+  email: hrsuriname@digicelgroup.com
+  ob_issue_number: '896'
+- country_or_area: Suriname
+  company_name: Uniqa (Intelsur N.V.)
+  tel: "+597 459 690"
+  fax: "+597 459 692"
+  email: info@intelsur-uts.sr
+  ob_issue_number: '896'
+- country_or_area: Swaziland
+  company_name: Swaziland Posts and Telecommunications Corporation (SPTC)
+  address: |-
+    Eveni Business Centre
+    Lituba Avenue, Eveni
+    P.O. Box 125
+    MBABANE H100
+  tel: "+268 405 2000"
+  fax: "+268 405 2001"
+  email: info@sptc.co.sz
+  url: www.swazi.net
+- country_or_area: Swaziland
+  company_name: MTN Swaziland
+- country_or_area: Sweden
+  company_name: Equant Sweden AB
+  address: |-
+    Solna Strandväg, 80
+    P.O. Box 1
+    171 18 SOLNA
+  fax: "+46 8 5191 3200"
+- country_or_area: Sweden
+  company_name: Götalandsnätet
+  address: |-
+    P.O. Box 33
+    461 21 TROLLHÄTTAN
+  tel: "+46 520 500 580"
+  fax: "+46 520 500 589"
+  email: per.frykner@gotanet.se
+- country_or_area: Sweden
+  company_name: Hi3G Access AB
+  address: |-
+    P.O. Box 1360
+    111 83 STOCKHOLM
+  fax: "+46 76 333 7820"
+- country_or_area: Sweden
+  company_name: TDC Song AB
+  address: |-
+    Gustav III:s Boulevard, 18
+    P.O. Box 712
+    169 27 SOLNA
+  tel: "+46 8 5631 0000"
+  fax: "+46 8 5631 0100"
+  email: info@tdcsong.se
+  url: www.tdcsong.se
+- country_or_area: Sweden
+  company_name: Tele2 AB
+  address: |-
+    Borgafjordsgatan, 16
+    P.O. Box 62
+    164 94 KISTA
+- country_or_area: Sweden
+  company_name: Telenor AB
+  address: |-
+    P.O. Box 6680
+    113 84 STOCKHOLM
+- country_or_area: Sweden
+  company_name: TeliaSonera AB
+  address: 106 63 STOCKHOLM
+- country_or_area: Sweden
+  company_name: Teracom AB
+  address: |-
+    P.O. Box 30150
+    104 25 STOCKHOLM
+  tel: "+46 8 55542047"
+  fax: "+46 8 55542001"
+  email: staffan.bergsmark@teracom.se
+  url: www.teracom.se
+- country_or_area: Sweden
+  company_name: Wireless Maingate Nordic AB
+  address: |-
+    P.O. Box 244
+    371 24 KARLSKRONA
+  tel: "+46 455 363 700"
+  fax: "+46 455 363 737"
+  email: robert.nilsson@maingate.se
+- country_or_area: Syrian Arab Republic
+  company_name: MTN Syria
+  address: |-
+    17 Mazzeh Highway
+    Bayt Al Mouhandess Al Arabi, 3rd Floor
+    P.O. Box 34474
+    DAMASCUS
+  fax: "+963 11 6666094"
+  email: moibrahim@areeba.com.sy / roaming@areeba.com.sy
+- country_or_area: Syrian Arab Republic
+  company_name: Syriatel Mobile Telecom SA
+  address: |-
+    Mazzeh-Auto route, Arab Writers Union Building
+    P.O. Box 2900
+    DAMASCUS
+  tel: "+963 93 3228377"
+  fax: "+963 11 23739503"
+  email: bisher.mouhanna@syriatel.com.sy
+- country_or_area: Syrian Arab Republic
+  company_name: Syrian Telecommunications Establishment (STE)
+  address: |-
+    Directorate General
+    H.Q. Building
+    Fayez Mansour St. Mazzeh Autostrade
+    P.O. Box 35108
+    DAMASCUS
+  tel: "+963 11 2240300"
+  fax: "+963 11 2242000/+963 11 6120000"
+  email: ste-gm@net.sy
+- country_or_area: Tajikistan
+  company_name: Tajiktelecom - Joint Stock Company (JSC)
+  address: |-
+    2a, Dzerzhinsky Street
+    DUSHANBE 734025
+  tel: "+992 372 212284"
+  fax: "+992 372 212953"
+  email: sour@netrt.org
+- country_or_area: Tanzania
+  company_name: Tanpostal DarEsSalaam (Tanzania PTC)
+  ob_issue_number: '514'
+- country_or_area: Tanzania
+  company_name: Tanzania Telecommunications Company Limited (TTCL)
+  ob_issue_number: '716'
+- country_or_area: Thailand
+  company_name: CAT Telecom Public Company Limited
+  ob_issue_number: '825'
+- country_or_area: Thailand
+  company_name: TOT Corporation Public Company
+  ob_issue_number: '825'
+- country_or_area: The Former Yugoslav Rep. of Macedonia
+  company_name: AD “Makedonski Telekomunikacii”
+  address: |-
+    Orce Nikolov bb
+    1000 SKOPJE
+  tel: "+389 2 311 9356"
+  fax: "+389 2 316 2412"
+  email: frosina.gecevakocova@mt.com.mk
+  ob_issue_number: '846'
+- country_or_area: The Former Yugoslav Rep. of Macedonia
+  company_name: Cosmofon Mobile Telecommunications Services AD
+  address: |-
+    Kuzman Josifovski Pitu, 15
+    1000 SKOPJE
+  tel: "+389 2 244 100"
+  fax: "+389 2 244 1122"
+  email: nikola.ljusev@cosmofon.com.mk
+  ob_issue_number: '846'
+- country_or_area: The Former Yugoslav Rep. of Macedonia
+  company_name: Mobimak AD
+  address: Orce Nikolov bb 1000 SKOPJE
+  tel: "+389 2 313 1131"
+  fax: "+389 2 309 4056"
+  email: kontakt@mobimak.com.mk
+  ob_issue_number: '846'
+- country_or_area: Togo
+  company_name: TOGO TELECOM
+  address: |-
+    Avenue Nicolas Grunitzky
+    Boîte postale 333
+    LOMÉ
+  tel: "+228 221 4401"
+  fax: "+228 221 0373"
+  email: wbarque@togotel.net.tg
+- country_or_area: Togo
+  company_name: Atlantique Telecom Togo
+- country_or_area: Togo
+  company_name: Togo Cellulaire
+- country_or_area: Tonga
+  company_name: Tonga Communications Corporation
+  ob_issue_number: '739'
+- country_or_area: Trinidad and Tobago
+  company_name: Telecommunications Services of Trinidad and Tobago Limited (TSTT)
+  address: |-
+    P.O. Box 3
+    1, Edward Street
+    PORT-OF-SPAIN
+  tel: "+1 868 625 4431 / +1 868 625 4432"
+  fax: "+1 868 627 9550"
+  ob_issue_number: '873'
+- country_or_area: Tunisia
+  company_name: Orascom Telecom Tunisie (Tunisiana)
+  address: |-
+    11 rue 8607
+    La Charguia I
+    2035 TUNIS CARTHAGE
+  tel: "+216 22 121010"
+  fax: "+216 22 121409"
+  email: hager.lamine@tunisiana.com
+- country_or_area: Tunisia
+  company_name: Tunisie Télécom
+  address: |-
+    Cité Ennassim, Avenue du Japon, Montplaisir
+    1073 TUNIS
+  tel: "+216 71 800612 / +216 71 105767"
+  fax: "+216 71 900777 / +216 71 794718"
+  email: mohsen.nahdi@tunisietelecom.tn
+- country_or_area: Uganda
+  company_name: Celtel Uganda Limited
+  address: |-
+    Plot 40 Jinja Road
+    P.O Box 6771
+    KAMPALA
+  fax: "+256 414 235 084"
+- country_or_area: Uganda
+  company_name: MTN (U) Ltd
+- country_or_area: Uganda
+  company_name: Uganda Telecom
+- country_or_area: Uganda
+  company_name: Orange Uganda Ltd
+- country_or_area: Uganda
+  company_name: Warid Telecom Uganda
+- country_or_area: Ukraine
+  company_name: Daughter Enterprise of Ukrtelecom “UTEL”
+  address: |-
+    101 Volodymyrska Street
+    KYIV 01033
+  tel: "+380 44 230 4103"
+  url: www.utel.com.ua/english
+  ob_issue_number: '842'
+- country_or_area: Ukraine
+  company_name: JSC “Digital Cellular Communications of Ukraine” (DCC)
+  address: |-
+    1 Pintera Street
+    DONETSK 83120
+  fax: "+380 062 333 0501"
+  url: www.dcc.ua
+  ob_issue_number: '842'
+- country_or_area: Ukraine
+  company_name: JSC “Kyivstar GSM”
+  address: |-
+    51 Chervonozorianyi Boulevard
+    KYIV 03110
+  fax: "+380 44 270 3877"
+  url: www.kyivstar.net/site.php/en
+  ob_issue_number: '842'
+- country_or_area: Ukraine
+  company_name: JSC “Ucomline”
+  address: 83A Melnykova Street KYIV 01023
+  fax: "+380 44 230 8431"
+  ob_issue_number: '842'
+- country_or_area: Ukraine
+  company_name: JSC “Ukrainian Communications”
+  address: |-
+    33 Politekhnichna Street
+    KYIV 03056
+  fax: "+380 44 241 6799"
+  email: office@ukr-com.net
+  url: www.ukr-com.net
+  ob_issue_number: '842'
+- country_or_area: Ukraine
+  company_name: JSC “Ukrainian Mobile Communications” (UMC)
+  address: |-
+    15 Leipzigska Street
+    KYIV 01015
+  fax: "+380 44 227 7453 / +380 50 110 3896"
+  url: www.umc.ua/eng/splash.php
+  ob_issue_number: '842'
+- country_or_area: Ukraine
+  company_name: JSC “Ukrtelecom”
+  address: |-
+    18 Shevchenka Boulevard
+    KYIV 01030
+  fax: "+380 44 234 3957 / +380 44 246 4421"
+  url: www.ukrtelecom.ua
+  ob_issue_number: '842'
+- country_or_area: Ukraine
+  company_name: "“Golden Telecom” Ltd"
+  address: 19A Khreschatyk Street KYIV 01001
+  fax: "+380 44 490 0070"
+  url: www.goldentele.com
+  ob_issue_number: '842'
+- country_or_area: Ukraine
+  company_name: "“International Telecommunications” Ltd"
+  address: 66 Mala Arnautska Street ODESA 65023
+  fax: "+380 482 743 1106"
+  ob_issue_number: '842'
+- country_or_area: United Arab Emirates
+  company_name: Emirates Telecommunication Corporation - Etisalat
+  address: |-
+    Sheikh Zayed The First St
+    P.O. Box 3838
+    ABU DHABI
+  tel: "+971 2 618 4535"
+  fax: "+971 2 677 2930"
+  email: alamiri@etisalat.ae
+- country_or_area: United Arab Emirates
+  company_name: DU
+- country_or_area: United Arab Emirates
+  company_name: Thuraya Telecommunications Company
+  address: |-
+    PO Box 283333
+    DUBAI
+  tel: "+971 4 448 8860"
+  fax: "+971 4 448 8855"
+  email: j_nasser@thuraya.com
+- country_or_area: United Arab Emirates
+  company_name: Emirates Integrated Telecommunications Company PJSC
+  address: |-
+    P.O. Box 502666
+    DUBAI
+  tel: "+971 4 369 3792"
+  fax: "+971 4 360 4440"
+  email: rashid.alahmedi@du.ae
+- country_or_area: United Kingdom
+  company_name: 186K Limited (a Lattice Group Company)
+- country_or_area: United Kingdom
+  company_name: ACC Long Distance UK Ltd ACC
+- country_or_area: United Kingdom
+  company_name: Advanced Business Services Limited
+- country_or_area: United Kingdom
+  company_name: American Telemedia Limited
+- country_or_area: United Kingdom
+  company_name: AT&T Commmunications (UK) Ltd
+- country_or_area: United Kingdom
+  company_name: AXS Telecom UK Limited
+- country_or_area: United Kingdom
+  company_name: British Telecommunications Public Ltd. Co. (BT Plc)
+  address: |-
+    BT Centre
+    81 Newgate Street
+    LONDON EC1A 7AJ
+    United Kingdom
+  tel: "+44 20 7356 5000"
+  fax: "+44 20 7356 5520"
+  email: linda.j.matthews@bt.com
+- country_or_area: United Kingdom
+  company_name: Cable and Wireless Guernsey Limited
+- country_or_area: United Kingdom
+  company_name: CableTel (UK) Ltd
+- country_or_area: United Kingdom
+  company_name: Carrier One Limited
+- country_or_area: United Kingdom
+  company_name: Carrier Manager UK, Telecom New Zealand Limited
+- country_or_area: United Kingdom
+  company_name: Cherry Communications Inc.
+- country_or_area: United Kingdom
+  company_name: Cignal Global Communications UK Limited
+- country_or_area: United Kingdom
+  company_name: COLT Telecommunications
+- country_or_area: United Kingdom
+  company_name: Communicorp (UK) Ltd
+- country_or_area: United Kingdom
+  company_name: Concert Communications Company
+- country_or_area: United Kingdom
+  company_name: Convergence Ventures Ltd
+- country_or_area: United Kingdom
+  company_name: Data Marine Systems Ltd
+- country_or_area: United Kingdom
+  company_name: Easynet Group PPlc
+- country_or_area: United Kingdom
+  company_name: Energis Communications Ltd
+- country_or_area: United Kingdom
+  company_name: Esat Telecommunications Ltd
+- country_or_area: United Kingdom
+  company_name: Esprit Telecom UK Ltd
+- country_or_area: United Kingdom
+  company_name: Eurobell (Holdings) Plc
+- country_or_area: United Kingdom
+  company_name: Eutotunnel
+- country_or_area: United Kingdom
+  company_name: FaciliCom International (UK) Ltd
+- country_or_area: United Kingdom
+  company_name: Farland Services UK Ltd
+- country_or_area: United Kingdom
+  company_name: First Telecom plc
+- country_or_area: United Kingdom
+  company_name: Frontel Newco Ltd
+- country_or_area: United Kingdom
+  company_name: GC Pan European Crossing UK Limited
+- country_or_area: United Kingdom
+  company_name: Gentel London
+- country_or_area: United Kingdom
+  company_name: Global One Communications Holding Ltd
+- country_or_area: United Kingdom
+  company_name: GT UK Limited
+- country_or_area: United Kingdom
+  company_name: Hermes Europe Railtel B.V.
+- country_or_area: United Kingdom
+  company_name: Hitachi Telecom (USA) Inc.
+- country_or_area: United Kingdom
+  company_name: Hutchison 3G UK Ltd
+- country_or_area: United Kingdom
+  company_name: ICO Services Ltd
+- country_or_area: United Kingdom
+  company_name: Ibercom Limited
+- country_or_area: United Kingdom
+  company_name: IDT Global Ltd
+- country_or_area: United Kingdom
+  company_name: IFC Global (UK) Ltd
+- country_or_area: United Kingdom
+  company_name: Incom (UK) Ltd
+- country_or_area: United Kingdom
+  company_name: Inmarsat Ltd.
+  address: |-
+    99 City Road
+    LONDON EC1Y 1AX
+    United Kingdom
+  tel: "+44 207 728 1475"
+  fax: "+44 207 728 1778"
+  email: jonas_enerberg@inmarsat.com
+  url: www.inmarsat.com
+- country_or_area: United Kingdom
+  company_name: Inquam Telecom (Holdings) Limited
+- country_or_area: United Kingdom
+  company_name: International Telecom plc
+- country_or_area: United Kingdom
+  company_name: INTEROUTE
+- country_or_area: United Kingdom
+  company_name: ITG (UK) Ltd
+- country_or_area: United Kingdom
+  company_name: IXNET UK Ltd
+- country_or_area: United Kingdom
+  company_name: Izenkom Limited
+- country_or_area: United Kingdom
+  company_name: JT (Jersey) Limited
+  address: |-
+    No. 1 The Forum
+    Grenville Street
+    PO Box 53
+    ST. HELIER, Jersey JE4 8PB
+    United Kingdom
+  tel: "+44 1534 882 803"
+  fax: "+44 1534 882 339"
+  email: daragh.mcdermott@jerseytelecom.com
+- country_or_area: United Kingdom
+  company_name: KDD (Europe) Ltd
+- country_or_area: United Kingdom
+  company_name: KPN Telecom UK Ltd
+- country_or_area: United Kingdom
+  company_name: LCI Telecom UK Ltd
+- country_or_area: United Kingdom
+  company_name: Long Distance International
+- country_or_area: United Kingdom
+  company_name: Communications Ltd
+- country_or_area: United Kingdom
+  company_name: MCI Telecommunications Ltd
+- country_or_area: United Kingdom
+  company_name: MFS Communications Ltd
+- country_or_area: United Kingdom
+  company_name: MTU Inform Europe Ltd
+- country_or_area: United Kingdom
+  company_name: N.E.T.s
+- country_or_area: United Kingdom
+  company_name: NorSea Com A/S
+- country_or_area: United Kingdom
+  company_name: North American Gateway
+- country_or_area: United Kingdom
+  company_name: O2 (UK) Limited
+- country_or_area: United Kingdom
+  company_name: Orange Corporate Services Ltd
+  address: |-
+    800 Park Avenue, Aztec West
+    BRISTOL, Almondsbury BS32 4TR
+    United Kingdom
+  tel: "+44 7973 963 519"
+  fax: "+44 7973 987 883"
+  email: nick.sampson@orange-ftrgroup.com
+  url: www.orange.com
+- country_or_area: United Kingdom
+  company_name: Pacific Gateway Exchange (UK) Ltd
+- country_or_area: United Kingdom
+  company_name: PLDncompass
+- country_or_area: United Kingdom
+  company_name: Primetec (UK) Ltd
+- country_or_area: United Kingdom
+  company_name: PT-1 Communications
+- country_or_area: United Kingdom
+  company_name: Primus Telecommunications Ltd
+- country_or_area: United Kingdom
+  company_name: Racal Telecommunications Ltd
+- country_or_area: United Kingdom
+  company_name: RSL Communications Ltd
+- country_or_area: United Kingdom
+  company_name: ScottishPower Telecommunications Ltd
+- country_or_area: United Kingdom
+  company_name: Skylight Holdings INC.
+- country_or_area: United Kingdom
+  company_name: Sonic Telecommunications International Ltd
+- country_or_area: United Kingdom
+  company_name: Spacetel International Ltd
+- country_or_area: United Kingdom
+  company_name: STAR Europe Ltd
+- country_or_area: United Kingdom
+  company_name: Storm Telecommunications Limited
+- country_or_area: United Kingdom
+  company_name: Swisscom (UK) Ltd
+- country_or_area: United Kingdom
+  company_name: T-Mobile (UK) Limited
+- country_or_area: United Kingdom
+  company_name: Tele2 Communications Services Ltd
+- country_or_area: United Kingdom
+  company_name: TeleBermuda International (UK) Ltd
+- country_or_area: United Kingdom
+  company_name: Telecom (Ireland) Ltd
+- country_or_area: United Kingdom
+  company_name: Telecom One Limited
+- country_or_area: United Kingdom
+  company_name: Telecom New Zealand Limited
+- country_or_area: United Kingdom
+  company_name: Teleglobe International (UK) Ltd
+- country_or_area: United Kingdom
+  company_name: Telegroup UK Ltd
+- country_or_area: United Kingdom
+  company_name: Teleport (Northern Ireland Ltd)
+- country_or_area: United Kingdom
+  company_name: Teleport London International Limited
+- country_or_area: United Kingdom
+  company_name: Telesoft Limited
+- country_or_area: United Kingdom
+  company_name: TeleWest Communications plc
+- country_or_area: United Kingdom
+  company_name: Telia UK Limited
+- country_or_area: United Kingdom
+  company_name: Telsis Systems Ltd
+- country_or_area: United Kingdom
+  company_name: Telstra Global Ltd
+- country_or_area: United Kingdom
+  company_name: TGC UK Ltd
+- country_or_area: United Kingdom
+  company_name: The JNT Association
+- country_or_area: United Kingdom
+  company_name: The Phone Company Ltd
+- country_or_area: United Kingdom
+  company_name: TMI TeleMedia International Ltd
+- country_or_area: United Kingdom
+  company_name: Torch Communications Ltd
+- country_or_area: United Kingdom
+  company_name: TotalTel International, Inc.
+- country_or_area: United Kingdom
+  company_name: Unisource Holdings (UK)
+- country_or_area: United Kingdom
+  company_name: USA Global Link (UK) Ltd
+- country_or_area: United Kingdom
+  company_name: Vodafone Ltd
+- country_or_area: United Kingdom
+  company_name: Viatel UK Limited
+- country_or_area: United Kingdom
+  company_name: Videotron No2 Ltd
+- country_or_area: United Kingdom
+  company_name: VT Merlin Communications Limited
+- country_or_area: United Kingdom
+  company_name: WaveCrest Communications Ltd
+- country_or_area: United Kingdom
+  company_name: Worldcom UK Ltd
+- country_or_area: United Kingdom
+  company_name: World Online UK Limited (a Tiscali company)
+- country_or_area: United Kingdom
+  company_name: WorldPort Communications Inc.
+- country_or_area: United Kingdom
+  company_name: WorldxChange Communications Ltd
+- country_or_area: United States
+  company_name: AT&T EasyLink Services
+  ob_issue_number: '491'
+- country_or_area: United States
+  company_name: AT&T Wireless Services
+  ob_issue_number: '753'
+- country_or_area: United States
+  company_name: Esatel Communications, Inc. (Esatel)
+  ob_issue_number: '647'
+- country_or_area: United States
+  company_name: Frontier Communication Services, Inc. (FCS)
+  ob_issue_number: '647'
+- country_or_area: United States
+  company_name: L/Q Licensee, Inc. (LQL)
+  ob_issue_number: '647'
+- country_or_area: United States
+  company_name: MCI International/WUI, Inc.
+  ob_issue_number: '477'
+- country_or_area: United States
+  company_name: Mobile Communications Holdings, Inc.
+  ob_issue_number: '670'
+- country_or_area: United States
+  company_name: Publix Network Corporation (PUBLIX)
+  ob_issue_number: '669'
+- country_or_area: United States
+  company_name: TRT/FTC Communications, Inc. (TRT/FTC)
+  ob_issue_number: '478'
+- country_or_area: United States
+  company_name: TyCom (US) Inc.
+  ob_issue_number: '741'
+- country_or_area: United States
+  company_name: AT&T EasyLink Services
+  ob_issue_number: '491'
+- country_or_area: Uruguay
+  company_name: Administración Nacional de Telecomunicaciones (ANTEL)
+  address: |-
+    Asuntos Internacionales
+    Guatemala 1075, Nivel 9
+    Complejo Torre de las Comunicaciones
+    MONTEVIDEO 11800
+  tel: "+598 2 9288000"
+  fax: "+598 2 9288001"
+  email: gcuniolo@antel.com.uy
+  url: www.antel.com.uy
+- country_or_area: Vanuatu
+  company_name: Telecom Vanuatu Limited
+  ob_issue_number: '538'
+- country_or_area: Venezuela
+  company_name: Compañia Anónima Nacional Teléfonos de Venezuela (CANTV)
+  address: |-
+    Avenida Libertador
+    Centro Nacional de Telecomunicaciones
+    CARACAS, Distrito Capital
+  tel: "+58 212 500 2892 / +58 212 500 4318"
+  fax: "+58 212 500 3404"
+  url: www.cantv.com.ve
+  ob_issue_number: '894'
+- country_or_area: Venezuela
+  company_name: Convergia Venezuela S.A.
+  address: |-
+    Avenida Francisco de Miranda
+    Torre Delta PH-B Urb.
+    Altamira
+    CARACAS, Distrito Capital
+  tel: "+58 212 263 9933"
+  fax: "+58 212 740 2136"
+  url: www.convergia.com
+  ob_issue_number: '894'
+- country_or_area: Venezuela
+  company_name: Corporación Digitel, C.A.
+  address: |-
+    Avenida La Estancia, Centro Banaven
+    Cubo Negro, Torre C
+    Chuao
+    CARACAS, Distrito Capital
+  tel: "+58 212 950 5500"
+  fax: "+58 212 959 6910"
+  url: www.digitel.com.ve
+  ob_issue_number: '894'
+- country_or_area: Venezuela
+  company_name: Corporación Telemic, C.A. (Intercable)
+  address: |-
+    Avenida Los Leones con Avenida Caroni
+    Centro Empresarial Caracas, Piso 7
+    BARQUISIMETO, Estado Lara
+  tel: 0 500 468 3722
+  fax: "+58 251 256 5250"
+  url: www.inter.com.ve
+  ob_issue_number: '894'
+- country_or_area: Venezuela
+  company_name: CVG Telecom C.A.
+  address: |-
+    Avenida La Estancia
+    Torre Las Mercedes, Piso 9
+    Chuao
+    CARACAS, Distrito Capital
+  tel: "+58 212 950 1321"
+  fax: "+58 212 950 1323"
+  url: www.cvgtelecom.com.ve
+  ob_issue_number: '894'
+- country_or_area: Venezuela
+  company_name: Entel Venezuela, C.A.
+  address: |-
+    Calle 9, entre 4ta y 5ta Transversal
+    Zona Industrial
+    Edificio Entel, Piso 7
+    La Urbina
+    CARACAS, Distrito Capital
+  tel: "+58 212 225 0143"
+  fax: "+58 212 225 0111"
+  url: www.123.com.ve
+  ob_issue_number: '894'
+- country_or_area: Venezuela
+  company_name: LD Telecom Comunicaciones, C.A.
+  address: |-
+    Avenida Francisco de Miranda
+    Edificio Parque Cristal
+    Torre Este, Piso 1, Oficina 1-8
+    Los Palos Grandes
+    CARACAS, Distrito Capital
+  tel: "+58 212 278 2020 / +58 212 278 2007"
+  fax: "+58 212 286 9918"
+  url: www.solollama.com
+  ob_issue_number: '894'
+- country_or_area: Venezuela
+  company_name: Multiphone de Venezuela, C.A.
+  address: |-
+    Torre la California, Piso 4, Oficina 4-A
+    Colinas de la California
+    CARACAS, Distrito Capital
+  tel: "+58 212 210 5400"
+  fax: "+58 212 210 5438"
+  url: www.multiphone.net.ve
+  ob_issue_number: '894'
+- country_or_area: Venezuela
+  company_name: Soluciones Latincom, C.A.
+  address: |-
+    Avenida San Juan Bosco
+    Edificio San Juan, Piso 7, Oficina C
+    Altamira
+    CARACAS, Distrito Capital
+  tel: "+58 212 267 1612"
+  fax: "+58 212 265 2858"
+  ob_issue_number: '894'
+- country_or_area: Venezuela
+  company_name: TELCEL, C.A.
+  address: |-
+    Avenida Francisco de Miranda
+    Edificio Parque Cristal, Piso 14
+    Urb. Los Palos Grandes
+    CARACAS, Distrito Capital
+  tel: "+58 212 705 6575 / +58 212 705 6802"
+  fax: "+58 212 200 8279"
+  url: www.movistar.com.ve
+  ob_issue_number: '894'
+- country_or_area: Venezuela
+  company_name: Telecomunicaciones Corporativas Telecorp, C.A.
+  address: |-
+    Avenida Tamanaco
+    Torre Unión, Piso 2, Oficina 2-B
+    El Rosal
+    CARACAS, Distrito Capital
+  tel: "+58 212 953 2424 / +58 212 953 6362"
+  fax: "+58 212 953 3808"
+  url: www.telecorp.net.ve
+  ob_issue_number: '894'
+- country_or_area: Venezuela
+  company_name: Telecomunicaciones Movilnet, C.A.
+  address: |-
+    Centro Comercial El Recreo, Torre Sur, PH.
+    Avenida Venezuela
+    Bello Monte
+    CARACAS, Distrito Capital
+  tel: "+58 212 500 5176"
+  fax: "+58 212 500 3214"
+  url: www.movilnet.com.ve
+  ob_issue_number: '894'
+- country_or_area: Venezuela
+  company_name: Telecomunicaciones NGTV, S.A.
+  address: |-
+    Avenida Venezuela
+    Torre Mariana, Piso 4
+    El Rosal
+    CARACAS, Distrito Capital
+  tel: "+58 212 954 1308"
+  fax: "+58 212 952 2323"
+  url: www.ngt.com.ve
+  ob_issue_number: '894'
+- country_or_area: Venezuela
+  company_name: Veninfotel Comunicaciones (VITCOM), C.A.
+  address: |-
+    Calle 7
+    Edificio Insenica II, Piso 2
+    La Urbina
+    CARACAS, Distrito Capital
+  tel: "+58 212 710 0152"
+  fax: "+58 212 710 0254"
+  url: www.net-uno.net
+  ob_issue_number: '894'
+- country_or_area: Venezuela
+  company_name: VOX2VOX Venezuela, S.A. / Corporación Intercall, C.A.
+  address: |-
+    Avenida Abraham Lincoln
+    Torre La Previsora, Piso 14
+    CARACAS, Distrito Capital
+  tel: "+58 212 709 1903"
+  fax: "+58 212 709 1948"
+  url: www.intercall.com.ve
+  ob_issue_number: '894'
+- country_or_area: Viet Nam
+  company_name: EVN Telecom
+  address: |-
+    30A, Pham Hong Thai Street
+    Ba Dinh
+    HANOI 10000
+  tel: "+84 4 3210 0526"
+  fax: "+84 4 3715 1109"
+  email: ph@cnet.vn
+  url: www.cnet.vn
+- country_or_area: Viet Nam
+  company_name: FPT Telecom
+  address: |-
+    48, Van Bao, Kim Ma
+    Ba Dinh
+    HANOI 10000
+  tel: "+84 4 3760 1060"
+  fax: "+84 4 3822 3111"
+  email: web-info@fpt.vn
+  url: www.fpt.net
+- country_or_area: Viet Nam
+  company_name: Hanoi Telecom
+  address: |-
+    2, Chua Boc Street
+    HANOI 10000
+  tel: "+84 4 3572 9833"
+  fax: "+84 4 3572 9834"
+  email: hanoitelecom@hinet.net.vn
+  url: www.hinet.net.vn
+- country_or_area: Viet Nam
+  company_name: Saigon Posts and Telecommunications (SPT)
+  address: |-
+    45, Le Duan Street
+    Phuong Ben Nghe
+    District 1
+    HO CHI MINH
+  tel: "+84 8 3822 0119"
+  fax: "+84 8 3822 0120"
+  email: saigonpostel@saigonnet.vn
+  url: www.saigonpostel.com.vn
+- country_or_area: Viet Nam
+  company_name: Vietnam Maritime Communications and Electronics Company (VISHIPEL)
+  address: |-
+    2, Nguyen Thuong Hien Street
+    HAI PHONG
+  tel: "+84 3 3184 2073 / +84 3 3184 2075"
+  fax: "+84 3 3184 2979"
+  email: vishipel@hn.vnn.vn
+  url: www.vishipel.com.vn
+- country_or_area: Viet Nam
+  company_name: Vietnam Mobile Service Company (VMS)
+  address: |-
+    811A, Giai Phong Road
+    Hai Ba Trung District
+    HANOI 10000
+  tel: "+84 4 3864 9533"
+  fax: "+84 4 3864 9534"
+  url: www.mobifone.com.vn
+- country_or_area: Viet Nam
+  company_name: Vietnam Multimedia Corporation (VTC)
+  address: |-
+    Tang 2, Toa nha 46, Ngo 230
+    Lac Trung
+    Hai Ba Trung District
+    HANOI 10000
+  tel: "+84 1 3900 1530"
+  fax: "+84 4 3636 7728"
+  email: vtcvod@vtc.vn
+  url: www.vtc.com.vn
+- country_or_area: Viet Nam
+  company_name: Vietnam Posts and Telecommunications Group (VNPT)
+  address: |-
+    1, Dao Duy Anh Street
+    HANOI 10000
+  tel: "+84 4 3511 3859"
+  fax: "+84 4 3518 2808"
+  email: vnpt_website@vnpt.com.vn
+  url: www.vnpt.com.vn
+- country_or_area: Viet Nam
+  company_name: Vietnam Telecom International (VTI)
+  address: |-
+    97, Nguyen Chi Thanh Street
+    HANOI 10000
+  tel: "+84 4 3773 4077 / +84 4 3841 0013"
+  fax: "+84 4 3773 3859 / +84 4 3835 7393"
+  email: Phamdominhhuong@vti.com.vn
+  url: www.vnpt.com.vn
+- country_or_area: Viet Nam
+  company_name: Vietnam Telecom Service Company (GPC)
+  address: |-
+    Vinaphone
+    Road 1A, Nam Thanh Cong
+    Dong Da District
+    HANOI 10000
+  tel: "+84 4 3835 8814"
+  fax: "+84 4 3835 7502"
+  url: www.vinaphone.com.vn
+- country_or_area: Viet Nam
+  company_name: Viettel Corporation (Viettel)
+  address: |-
+    1, Giang Van Minh Street
+    Ba Dinh
+    HANOI 10000
+  tel: "+84 4 3255 6789"
+  fax: "+84 4 3299 6789"
+  email: gopy@viettel.com.vn
+  url: www.viettel.com.vn
+- country_or_area: Yemen
+  company_name: TeleYemen
+  address: |-
+    P.O. Box 168
+    SANA'A
+  tel: "+967 1 752862"
+  fax: "+967 1 7522209"
+  email: o.binshihab@y.net.ye
+  url: www.teleyemen.com.ye
+- country_or_area: Yemen
+  company_name: Public Telecom Corporation (PTC)
+  address: |-
+    Airport Road - Al Giraff
+    P.O. Box 17045
+    SANA'A
+  tel: "+967 1 331109"
+  fax: "+967 1 331150"
+  email: ptc@y.net.ye
+  url: www.ptc.gov.ye
+- country_or_area: Yemen
+  company_name: SabaFon
+  address: |-
+    SabaFon Blue Building
+    Zubairi Street
+    P.O. Box 18550
+    SANA'A
+  tel: "+967 71 111905"
+  fax: "+967 71 111901"
+  email: mohammed.al-nadish@sabafon.com.ye
+  url: www.sabafon.com
+- country_or_area: Zambia
+  company_name: CellZ
+- country_or_area: Zambia
+  company_name: MTN Zambia
+- country_or_area: Zambia
+  company_name: Celtel Zambia
+- country_or_area: Zambia
+  company_name: Zambia Telecommunications Company Limited (ZAMTEL)
+  address: "P.O. Box 71630\nNDOLA \nZambia"
+  tel: "+260 212 611333/ 212 612399"
+  fax: "+260 212 615855"
+  email: md@zamtel.zm
+  url: www.zamtel.zm
+- country_or_area: Zimbabwe
+  company_name: TelOne (Pvt) Ltd
+  address: |-
+    P.O. Box CY331 Causeway
+    HARARE
+  tel: "+263 4 797650"
+  email: caroline.sandura@telone.co.zw
+- country_or_area: Zimbabwe
+  company_name: Econet Wireless (Pvt) Ltd
+  address: |-
+    P.O. Box BE 1298 Belvedere
+    HARARE
+  tel: "+263 91 222500"
+  fax: "+263 4 486120"
+  email: czinhara@econet.co.zw
+- country_or_area: Zimbabwe
+  company_name: NetOne Cellular (Pvt) Ltd
+  address: |-
+    P.O. Box CY579
+    Causeway
+    HARARE
+  tel: "+263 4 775361 / 7"
+  fax: "+263 4 750610"
+  email: rkangai@netone.co.zw
+- country_or_area: Zimbabwe
+  company_name: Telecel Zimbabwe
+  address: "P.O. Box CY323 \nCauseway\nHARARE"
+  tel: "+263 4 748321 / 7"
+  fax: "+263 4 748328 / +263 4 780999"
+  email: info@telecelzim.co.zw

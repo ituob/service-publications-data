@@ -1,0 +1,2510 @@
+---
+metadata:
+  title:
+    en: DIALLING PROCEDURES (INTERNATIONAL PREFIX, NATIONAL (TRUNK) PREFIX AND NATIONAL
+      (SIGNIFICANT) NUMBER) (IN ACCORDANCE WITH ITU-T RECOMMENDATION E.164 (11/2010))
+    fr: PROCÉDURES DE NUMÉROTATION (PRÉFIXE INTERNATIONAL, PRÉFIXE (INTERURBAIN) NATIONAL
+      ET NUMÉRO NATIONAL (SIGNIFICATIF)) (SELON LA RECOMMANDATION UIT-T E.164 (11/2010))
+    es: PROCEDIMIENTOS DE MARCACIÓN (PREFIJO INTERNACIONAL, PREFIJO (INTERURBANO)
+      NACIONAL Y NÚMERO NACIONAL (SIGNIFICATIVO)) (SEGÚN LA RECOMENDACIÓN UIT-T E.164
+      (11/2010))
+  locale:
+    country_or_area:
+      en: Country/geographical area
+      fr: Pays/zone géographique
+      es: País/zona geográfica
+    country_code:
+      en: Country Code
+      fr: Indicatif de pays
+      es: Indicativo de país
+    international_prefix:
+      en: International Prefix
+      fr: Préfixe international
+      es: Prefijo internacional
+    national_prefix:
+      en: National Prefix
+      fr: Préfixe national
+      es: Prefijo nacional
+    national_sig_number:
+      en: National (Significant) Number
+      fr: Numéro national (significatif)
+      es: Número nacional (significativo)
+    utc_dst:
+      en: UTC/DST
+      fr: UTC/DST*
+      es: UTC/DST*
+    note:
+      en: Note
+      fr: Note
+      es: Nota
+data:
+- country_or_area:
+    en: Afghanistan
+    fr: Afghanistan
+    es: Afganistán
+  country_code: '93'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 9 digits
+  utc_dst: "+4.5"
+- country_or_area:
+    en: Albania
+    fr: Albanie
+    es: Albania
+  country_code: '355'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 3 to 9 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Algeria
+    fr: Algérie
+    es: Argelia
+  country_code: '213'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8, 9 digits
+  utc_dst: "+1"
+- country_or_area:
+    en: American Samoa
+    fr: Samoa
+    es: Samoa norteamericanas
+  country_code: '1'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: "(684)+7 digits"
+  utc_dst: "-11"
+- country_or_area:
+    en: Andorra
+    fr: Andorre
+    es: Andorra
+  country_code: '376'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 6, 8, 9 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Angola
+    fr: Angola
+    es: Angola
+  country_code: '244'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 9 digits
+  utc_dst: "+1"
+- country_or_area:
+    en: Anguilla
+    fr: Anguilla
+    es: Anguilla
+  country_code: '1'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: "(264)+7 digits"
+  utc_dst: "-4"
+- country_or_area:
+    en: Antigua and Barbuda
+    fr: Antigua-et-Barbuda
+    es: Antigua y Barbuda
+  country_code: '1'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: "(268)+7 digits"
+  utc_dst: "-4"
+- country_or_area:
+    en: Argentina
+    fr: Argentine
+    es: Argentina
+  country_code: '54'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 10 digits
+  utc_dst: "-3"
+- country_or_area:
+    en: Armenia
+    fr: Arménie
+    es: Armenia
+  country_code: '374'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8  digits
+  utc_dst: "+4; +5"
+- country_or_area:
+    en: Aruba
+    fr: Aruba
+    es: Aruba
+  country_code: '297'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 digits
+  utc_dst: "-4"
+- country_or_area:
+    en: Australia
+    fr: Australie
+    es: Australia
+  country_code: '61'
+  international_prefix: '0011'
+  national_prefix: '0'
+  national_sig_number: 5 to 15 digits
+  utc_dst: "+10; +11"
+  note:
+    en: Includes Cocos-Keeling Islands(UTC+6.30) and Christmas Island (UTC+7). Western
+      Australia (UTC+8).
+    fr: Y compris  Cocos-Keeling (Iles)(UTC+6.30) et Christmas (Ile)(UTC+7). Western
+      Australia (UTC+8).
+    es: Comprendidas Cocos-Keeling (Islas)(UTC+6.30) y Christmas (Isla)(UTC+7). Western
+      Australia (UTC+8).
+- country_or_area:
+    en: Australian External Territories
+    fr: Territoires ext. de l'Australie
+    es: Terriarios ext. de Australia
+  country_code: '672'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 6 digits
+  utc_dst: "+11.30"
+  note:
+    en: "Including Australia Antartic Territory Bases and Norfolk Island (UTC+11.30)(international
+      prefix for Norfolk \n\tIsland is '0101')."
+    fr: "Y compris les Bases du territoire australien de l'Antarctique et l'île Norfolk
+      (UTC+11.30)(le préfixe \n international de l'île Norfolk est «0101»)."
+    es: Comprendidas las Bases del terriario australiano del Antártico  y Norfolk
+      (Isla de) (UTC+11.30)(el prefijo internacional de Norfolk (Isla de) es «0101»).
+- country_or_area:
+    en: Austria
+    fr: Autriche
+    es: Austria
+  country_code: '43'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 4 to 13 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Azerbaijan
+    fr: Azerbaïdjan
+    es: Azerbaiyán
+  country_code: '994'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8 to 9 digits
+  utc_dst: "+4; +5"
+- country_or_area:
+    en: Bahamas
+    fr: Bahamas
+    es: Bahamas
+  country_code: '1'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: "(242)+7 digits"
+  utc_dst: "-5; -4"
+- country_or_area:
+    en: Bahrain
+    fr: Bahreïn
+    es: Bahrein
+  country_code: '973'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 digits
+  utc_dst: "+3"
+- country_or_area:
+    en: Bangladesh
+    fr: Bangladesh
+    es: Bangladesh
+  country_code: '880'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 6 to 10 digits
+  utc_dst: "+6"
+- country_or_area:
+    en: Barbados
+    fr: Barbade
+    es: Barbados
+  country_code: '1'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: "(246)+7 digits"
+  utc_dst: "-4"
+- country_or_area:
+    en: Belarus
+    fr: Bélarus
+    es: Belarús
+  country_code: '375'
+  international_prefix: '810'
+  national_prefix: '8'
+  national_sig_number: 9 to 10 digits
+  utc_dst: "+2; +3"
+- country_or_area:
+    en: Belgium
+    fr: Belgique
+    es: Bélgica
+  country_code: '32'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8 to 9 digits
+  utc_dst: "+1; +2"
+  note:
+    en: "The '0' is used on all domestic calls, including in the same city, but is
+      omitted when dialling  from other \n\tcountries."
+    fr: Le «0» est utilisé pour tous les appels nationaux, y compris les appels à
+      l'intérieur d'une même ville, mais doit être omis lorsqu'on appelle  depuis
+      un autre pays.
+    es: El «0» debe utilizarse en adas las llamadas nacionales, incluso dentro de
+      una misma ciudad, pero se omite en las llamadas  desde otros países.
+- country_or_area:
+    en: Belize
+    fr: Belize
+    es: Belice
+  country_code: '501'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 digits
+  utc_dst: "-6"
+- country_or_area:
+    en: Benin
+    fr: Bénin
+    es: Benin
+  country_code: '229'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 digits
+  utc_dst: "+1"
+- country_or_area:
+    en: Bermuda
+    fr: Bermudes
+    es: Bermudas
+  country_code: '1'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: "(441)+7 digits"
+  utc_dst: "-4; -3"
+- country_or_area:
+    en: Bhutan
+    fr: Bhoutan
+    es: Bhután
+  country_code: '975'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 to 8 digits
+  utc_dst: "+6"
+- country_or_area:
+    en: Bolivia (Plurinational State of)
+    fr: Bolivie (État Plurinational de)
+    es: Bolivia (Estado Plurinacional de)
+  country_code: '591'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8 digits
+  utc_dst: "-4"
+- country_or_area:
+    en: Bonaire, Sint Eustatius and Saba
+    fr: Bonaire, Saint Eustatius et Saba
+    es: Bonaire, San Eustatius y Saba
+  country_code: '599'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 7 digits
+  utc_dst: "-4"
+- country_or_area:
+    en: Bosnia and Herzegovina
+    fr: Bosnie-Herzégovine
+    es: Bosnia y Herzegovina
+  country_code: '387'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Botswana
+    fr: Botswana
+    es: Botswana
+  country_code: '267'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 to 8 digits
+  utc_dst: "+2"
+- country_or_area:
+    en: Brazil
+    fr: Brésil
+    es: Brasil
+  country_code: '55'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 10 digits
+  utc_dst: "-3; -2"
+  note:
+    en: Other states UTC-3 (no change).
+    fr: Autres états UTC-3 (inchangé).
+    es: Otras estados UTC-3 (sin cambio).
+- country_or_area:
+    en: British Virgin Islands
+    fr: Vierges britanniques (Iles)
+    es: Vírgenes británicas (Islas)
+  country_code: '1'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: "(284)+7 digits"
+  utc_dst: "-4"
+- country_or_area:
+    en: Brunei Darussalam
+    fr: Brunéi Darussalam
+    es: Brunei Darussalam
+  country_code: '673'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 digits
+  utc_dst: "+8"
+- country_or_area:
+    en: Bulgaria
+    fr: Bulgarie
+    es: Bulgaria
+  country_code: '359'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 7 to 9 digits
+  utc_dst: "+2; +3"
+  note:
+    en: "The '0' is used on all domestic calls, including in the same city, but is
+      omitted when dialling  from other \n\tcountries."
+    fr: Le «0» est utilisé pour tous les appels nationaux, y compris les appels à
+      l'intérieur d'une même ville, mais doit être omis lorsqu'on appelle  depuis
+      un autre pays.
+    es: El «0» debe utilizarse en adas las llamadas nacionales, incluso dentro de
+      una misma ciudad, pero se omite en las llamadas  desde otros países.
+- country_or_area:
+    en: Burkina Faso
+    fr: Burkina Faso
+    es: Burkina Faso
+  country_code: '226'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 digits
+  utc_dst: '0'
+- country_or_area:
+    en: Burundi
+    fr: Burundi
+    es: Burundi
+  country_code: '257'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 digits
+  utc_dst: "+2"
+- country_or_area:
+    en: Cambodia
+    fr: Cambodge
+    es: Camboya
+  country_code: '855'
+  international_prefix: 001; 007
+  national_prefix: '0'
+  national_sig_number: 8 digits
+  utc_dst: "+7"
+- country_or_area:
+    en: Cameroon
+    fr: Cameroun
+    es: Camerún
+  country_code: '237'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 digits
+  utc_dst: "+1"
+- country_or_area:
+    en: Canada
+    fr: Canada
+    es: Canadá
+  country_code: '1'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: 10 digits
+  utc_dst: "-5; -4"
+  note:
+    en: "Alberta UTC-7/DST-6; British Columbia UTC-8/DST-7; Manitoba UTC-6/DST-5;
+      New Brunswick, Nova Scotia \n\tUTC-4/DST-3;Newfoundland UTC-3.30/DST-2.30; Ontario,
+      Quebec UTC-5/DST-4."
+    fr: Alberta UTC-7/DST-6; British Columbia UTC-8/DST-7; Manitoba UTC-6/DST-5; New
+      Brunswick, Nova Scotia UTC-4/DST-3;Newfoundland UTC-3.30/DST-2.30; Ontario,
+      Quebec UTC-5/DST-4.
+    es: "Alberta UTC-7/DST-6; British Columbia UTC-8/DST-7; Maniaba UTC-6/DST-5; New
+      Brunswick, Nova Scotia \n UTC-4/DST-3;Newfoundland UTC-3.30/DST-2.30; Ontario,
+      Quebec UTC-5/DST-4."
+- country_or_area:
+    en: Cape Verde
+    fr: Cap-Vert
+    es: Cabo Verde
+  country_code: '238'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 digits
+  utc_dst: "-1"
+- country_or_area:
+    en: Cayman Islands
+    fr: Cayman (Iles)
+    es: Caimanes (Islas)
+  country_code: '1'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: "(345)+7 digits"
+  utc_dst: "-5"
+- country_or_area:
+    en: Central African Rep.
+    fr: Centrafricaine (Rép.)
+    es: Centroafricana (Rep.)
+  country_code: '236'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 digits
+  utc_dst: "+1"
+- country_or_area:
+    en: Chad
+    fr: Tchad
+    es: Chad
+  country_code: '235'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 digits
+  utc_dst: "+1"
+- country_or_area:
+    en: Chile
+    fr: Chili
+    es: Chile
+  country_code: '56'
+  international_prefix: 1YZ0
+  national_prefix: 1YZ
+  national_sig_number: 8 to 9 digits
+  utc_dst: "-4; -3"
+  note:
+    en: 'YZ : long-distance operator code.'
+    fr: 'YZ : code de l''opérateur longue distance.'
+    es: 'YZ : código de operador de larga distancia.'
+- country_or_area:
+    en: China
+    fr: Chine
+    es: China
+  country_code: '86'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 5 to 12 digits
+  utc_dst: "+8"
+- country_or_area:
+    en: Colombia
+    fr: Colombie
+    es: Colombia
+  country_code: '57'
+  international_prefix: '009; 007; 005'
+  national_prefix: '09; 07; 05'
+  national_sig_number: 8, 10 digits
+  utc_dst: "-5"
+  note:
+    en: "The length of the national (significant) number N(S)N is 8 digits for geographic
+      numbering and 10 digits for \n\tnon-geographic numbering (networks and services)"
+    fr: La longueur du numéro national (significatif) N(S)N est de 8  chiffres pour
+      la numérotation géographique et de 10 chiffres pour la numérotation non géographique
+      (réseaux et services).
+    es: La longitud del número nacional (significativo) N(S)N es de 8 cifras para
+      la numeración geográfica y de 10 cifras para la numeración no geográfica (redes
+      y servicios).
+- country_or_area:
+    en: Comoros
+    fr: Comores
+    es: Comoras
+  country_code: '269'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 digits
+  utc_dst: "+3"
+- country_or_area:
+    en: Congo
+    fr: Congo
+    es: Congo
+  country_code: '242'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 9 digits
+  utc_dst: "+1"
+- country_or_area:
+    en: Cook Islands
+    fr: Cook (Iles)
+    es: Cook (Islas)
+  country_code: '682'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 5 digits
+  utc_dst: "-10"
+- country_or_area:
+    en: Costa Rica
+    fr: Costa Rica
+    es: Costa Rica
+  country_code: '506'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 digits
+  utc_dst: "-6"
+- country_or_area:
+    en: Côte d'Ivoire
+    fr: Côte d'Ivoire
+    es: Côte d'Ivoire
+  country_code: '225'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 digits
+  utc_dst: '0'
+- country_or_area:
+    en: Croatia
+    fr: Croatie
+    es: Croacia
+  country_code: '385'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8  to 12 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Cuba
+    fr: Cuba
+    es: Cuba
+  country_code: '53'
+  international_prefix: '119'
+  national_prefix: '0'
+  national_sig_number: 6 to 8 digits
+  utc_dst: "-5; -4"
+- country_or_area:
+    en: Curaçao
+    fr: Curaçao
+    es: Curaçao
+  country_code: '599'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 7 to 8 digits
+  utc_dst: "-4"
+- country_or_area:
+    en: Cyprus
+    fr: Chypre
+    es: Chipre
+  country_code: '357'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8, 11 digits
+  utc_dst: "+2; +3"
+  note:
+    en: 11 digits for voice-mail services only.
+    fr: 11 chiffres uniquement pour la messagerie vocale.
+    es: 11 cifras para correo vocal únicamente.
+- country_or_area:
+    en: Czech Rep.
+    fr: Rép. tchèque
+    es: Rep. Checa
+  country_code: '420'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 4 to 12 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Dem. People's Rep. of Korea
+    fr: Rép. pop. dém. de Corée
+    es: Rep. Pop. Dem. de Corea
+  country_code: '850'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 6 to 17 digits
+  utc_dst: "+9"
+- country_or_area:
+    en: Dem. Rep. of the Congo
+    fr: Rép. dém. du Congo
+    es: Rep. Dem. del Congo
+  country_code: '243'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 5 to 9 digits
+  utc_dst: "+1"
+- country_or_area:
+    en: Denmark
+    fr: Danemark
+    es: Dinamarca
+  country_code: '45'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Diego Garcia
+    fr: Diego Garcia
+    es: Diego García
+  country_code: '246'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 digits
+  utc_dst: "+6"
+- country_or_area:
+    en: Djibouti
+    fr: Djibouti
+    es: Djibouti
+  country_code: '253'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 6 digits
+  utc_dst: "+3"
+- country_or_area:
+    en: Dominica
+    fr: Dominicaine (Rép.)
+    es: Dominicana (Rep.)
+  country_code: '1'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: "(767)+7 digits"
+  utc_dst: "-4"
+- country_or_area:
+    en: Dominican Rep.
+    fr: Dominique
+    es: Dominica
+  country_code: '1'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: "(809/829)+7 digits"
+  utc_dst: "-4"
+- country_or_area:
+    en: Ecuador
+    fr: Equateur
+    es: Ecuador
+  country_code: '593'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8 digits
+  utc_dst: "-5"
+- country_or_area:
+    en: Egypt
+    fr: Egypte
+    es: Egipa
+  country_code: '20'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 7 to 9 digits
+  utc_dst: "+2; +3"
+- country_or_area:
+    en: El Salvador
+    fr: El Salvador
+    es: El Salvador
+  country_code: '503'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7, 8, 11 digits
+  utc_dst: "-6"
+  note:
+    en: "The seven and eleven digit schemes are solely for numbers that do not entail
+      any  charge for the subscriber \n\tmaking the call (800) or for numbers that
+      involve a surcharge for subscriber A (900). All other numbers have a\n\t fixed
+      eight digit scheme."
+    fr: Le format de numérotation à sept ou à onze chiffres n'est valable que pour
+      certains numéros libre-appel qui commencent par 800, ou pour certains numéros
+      900 surtaxés pour l'abonné A. Dans tous les autres cas, le format de numérotation
+      est de huit chiffres.
+    es: Los esquemas de numeración de siete y once cifras están destinados únicamente
+      para números que no implican una tasa al abonado que hace la llamada 800 y para
+      números que implican una sobretasa al abonado A (900). Ados los demás números
+      tienen un esquema de numeración fijo de ocho cifras.
+- country_or_area:
+    en: Equatorial Guinea
+    fr: Guinée équatoriale
+    es: Guinea Ecuaarial
+  country_code: '240'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 9 digits
+  utc_dst: "+1"
+- country_or_area:
+    en: Eritrea
+    fr: Erythrée
+    es: Eritrea
+  country_code: '291'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 7 digits
+  utc_dst: "+3"
+- country_or_area:
+    en: Estonia
+    fr: Estonie
+    es: Esania
+  country_code: '372'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 to 10 digits
+  utc_dst: "+2; +3"
+- country_or_area:
+    en: Ethiopia
+    fr: Ethiopie
+    es: Etiopía
+  country_code: '251'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 9 digits
+  utc_dst: "+3"
+- country_or_area:
+    en: Falkland Islands (Malvinas)
+    fr: Falkland (Iles) (Malvinas)
+    es: Malvinas (Islas) (Falkland)
+  country_code: '500'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 5 digits
+  utc_dst: "-4; -3"
+- country_or_area:
+    en: Faroe Islands
+    fr: Féroé (Iles)
+    es: Feroe (Islas)
+  country_code: '298'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 6 digits
+  utc_dst: 0; +1
+- country_or_area:
+    en: Fiji
+    fr: Fidji
+    es: Fiji
+  country_code: '679'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 digits
+  utc_dst: "+12; +13"
+- country_or_area:
+    en: Finland
+    fr: Finlande
+    es: Finlandia
+  country_code: '358'
+  international_prefix: 00; 99X
+  national_prefix: '0'
+  national_sig_number: 5 to 12 digits
+  utc_dst: "+2; +3"
+- country_or_area:
+    en: France
+    fr: France
+    es: Francia
+  country_code: '33'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 9 digits
+  utc_dst: "+1; +2"
+  note:
+    en: "The '0' is used on all domestic calls, including in the same city, but is
+      omitted when dialling  from other \n\tcountries."
+    fr: Le «0» est utilisé pour tous les appels nationaux, y compris les appels à
+      l'intérieur d'une même ville, mais doit être omis lorsqu'on appelle  depuis
+      un autre pays.
+    es: El «0» debe utilizarse en adas las llamadas nacionales, incluso dentro de
+      una misma ciudad, pero se omite en las llamadas  desde otros países.
+- country_or_area:
+    en: French Departments and Territories in the Indian Ocean
+    fr: France de l'Océan indien
+    es: Departamenas y terriarios franceses del Océano Indico
+  country_code: '262'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 9 digits
+  utc_dst: "+3"
+- country_or_area:
+    en: French Guiana
+    fr: Guyane française
+    es: Guayana francesa
+  country_code: '594'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 9 digits
+  utc_dst: "-3"
+- country_or_area:
+    en: French Polynesia
+    fr: Polynésie française
+    es: Polinesia francesa
+  country_code: '689'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 6 digits
+  utc_dst: "-10"
+- country_or_area:
+    en: Gabon
+    fr: Gabon
+    es: Gabón
+  country_code: '241'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 6, 7 digits
+  utc_dst: "+1"
+- country_or_area:
+    en: Gambia
+    fr: Gambie
+    es: Gambia
+  country_code: '220'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 digits
+  utc_dst: '0'
+- country_or_area:
+    en: Georgia
+    fr: Géorgie
+    es: Georgia
+  country_code: '995'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 9 digits
+  utc_dst: "+4"
+- country_or_area:
+    en: Germany
+    fr: Allemagne
+    es: Alemania
+  country_code: '49'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 6 to 13 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Ghana
+    fr: Ghana
+    es: Ghana
+  country_code: '233'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 5 to 9 digits
+  utc_dst: '0'
+- country_or_area:
+    en: Gibraltar
+    fr: Gibraltar
+    es: Gibraltar
+  country_code: '350'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Global Mobile Satellite System (GMSS), shared code
+    fr: Service mobile mondial par satellite (GMSS), indicatif partagé
+    es: Sistema móvil mundial por satelite (GMSS), indicativo compartido
+  country_code: '881'
+- country_or_area:
+    en: Greece
+    fr: Grèce
+    es: Grecia
+  country_code: '30'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 10 digits
+  utc_dst: "+2; +3"
+  note:
+    en: "The '0' is used on all domestic calls, including in the same city, but is
+      omitted when dialling  from other \n\tcountries."
+    fr: Le «0» est utilisé pour tous les appels nationaux, y compris les appels à
+      l'intérieur d'une même ville, mais doit être omis lorsqu'on appelle  depuis
+      un autre pays.
+    es: El «0» debe utilizarse en adas las llamadas nacionales, incluso dentro de
+      una misma ciudad, pero se omite en las llamadas  desde otros países.
+- country_or_area:
+    en: Greenland
+    fr: Groenland
+    es: Groenlandia
+  country_code: '299'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 6 digits
+  utc_dst: "-3; -2"
+- country_or_area:
+    en: Grenada
+    fr: Grenade
+    es: Granada
+  country_code: '1'
+  international_prefix: '11'
+  national_prefix: '1'
+  national_sig_number: "(473)+7 digits"
+  utc_dst: "-4"
+- country_or_area:
+    en: Group of countries, shared code
+    fr: Groupe de pays, indicatif partagé
+    es: Grupo de países, indicativo compartido
+  country_code: '388'
+- country_or_area:
+    en: Guadeloupe
+    fr: Guadeloupe
+    es: Guadalupe
+  country_code: '590'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 9 digits
+  utc_dst: "-4"
+- country_or_area:
+    en: Guam
+    fr: Guam
+    es: Guam
+  country_code: '1'
+  international_prefix: '11'
+  national_prefix: '1'
+  national_sig_number: "(671)+7 digits"
+  utc_dst: "+10"
+- country_or_area:
+    en: Guatemala
+    fr: Guatemala
+    es: Guatemala
+  country_code: '502'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 digits
+  utc_dst: "-6"
+- country_or_area:
+    en: Guinea
+    fr: Guinée
+    es: Guinea
+  country_code: '224'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 digits
+  utc_dst: '0'
+- country_or_area:
+    en: Guinea-Bissau
+    fr: Guinée-Bissau
+    es: Guinea-Bissau
+  country_code: '245'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 digits
+  utc_dst: '0'
+- country_or_area:
+    en: Guyana
+    fr: Guyana
+    es: Guyana
+  country_code: '592'
+  international_prefix: '001'
+  national_prefix: "…"
+  national_sig_number: 7 digits
+  utc_dst: "-4"
+- country_or_area:
+    en: Haiti
+    fr: Haïti
+    es: Haití
+  country_code: '509'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 digits
+  utc_dst: "-5"
+- country_or_area:
+    en: Honduras
+    fr: Honduras
+    es: Honduras
+  country_code: '504'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 digits
+  utc_dst: "-6"
+- country_or_area:
+    en: Hong Kong, China
+    fr: Hong Kong, Chine
+    es: Hong Kong, China
+  country_code: '852'
+  international_prefix: '001'
+  national_prefix: "…"
+  national_sig_number: 4, 8 to 9 digits
+  utc_dst: "+8"
+- country_or_area:
+    en: Hungary
+    fr: Hongrie
+    es: Hungría
+  country_code: '36'
+  international_prefix: '00'
+  national_prefix: '06'
+  national_sig_number: 8 to 9 digits
+  utc_dst: "+1; +2"
+  note:
+    en: "Subscriber numbers on PSTN and analogue mobile network consist of 8 digits
+      and those on the mobile \n\tnetwork consist of 9 digits."
+    fr: Les numéros d'abonné au RTPC et au réseau mobile analogique comportent 8 chiffres,
+      ceux au réseau mobile 9 chiffres.
+    es: Los números de abonado en la RTPC y la red móvil analógica constan de 8 cifras
+      y los de la red móvil de 9 cifras.
+- country_or_area:
+    en: Iceland
+    fr: Islande
+    es: Islandia
+  country_code: '354'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7, 9 digits
+  utc_dst: '0'
+- country_or_area:
+    en: India
+    fr: Inde
+    es: India
+  country_code: '91'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 7 to 10 digits
+  utc_dst: "+5.30"
+- country_or_area:
+    en: Indonesia
+    fr: Indonésie
+    es: Indonesia
+  country_code: '62'
+  international_prefix: 001; 008
+  national_prefix: '0'
+  national_sig_number: 5 to 10 digits
+  utc_dst: "+7"
+  note:
+    en: "Western Indonesia including Sumatra, Java, Madura and Bali UTC+7; Central
+      Indonesia including \n\tKalimantan (Borneo), Sulawesi (Celebes) and Nusatengarra
+      (Lesser Sunda) UTC+8; Eastern Indonesia \n\tincluding Maluku (Moluccas) and
+      Irianjaya (Irian) UTC+9."
+    fr: Western Indonesia y compris Sumatra, Java, Madura et Bali UTC+7; Central Indonesia
+      y compris Kalimantan (Borneo), Sulawesi (Celebes) y Nusatengarra (Lesser Sunda)
+      UTC+8; Eastern Indonesia y compris Maluku (Moluccas) et Irianjaya (Irian) UTC+9.
+    es: Western Indonesia comprendido Sumatra, Java, Madura y Bali UTC+7; Central
+      Indonesia comprendido Kalimantan (Borneo), Sulawesi (Celebes) y Nusatengarra
+      (Lesser Sunda) UTC+8; Eastern Indonesia comprendido Maluku (Moluccas) y Irianjaya
+      (Irian) UTC+9.
+- country_or_area:
+    en: Inmarsat SNAC
+    fr: Inmarsat SNAC
+    es: Inmarsat SNAC
+  country_code: '870'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 9 digits
+- country_or_area:
+    en: International Freephone Service
+    fr: Libre-appel international
+    es: Llamada gratuita internacional
+  country_code: '800'
+  international_prefix: "…"
+  national_prefix: "…"
+  national_sig_number: 8 digits
+- country_or_area:
+    en: International Networks, shared code
+    fr: Réseaux internationaux, indicatif partagé
+    es: Redes internacionales, indicativo compartido
+  country_code: '882'
+- country_or_area:
+    en: International Networks, shared code
+    fr: Réseaux internationaux, indicatif partagé
+    es: Redes internacionales, indicativo compartido
+  country_code: '883'
+- country_or_area:
+    en: International Premium Rate Service (IPRS)
+    fr: Service kiosque international (IPRS)
+    es: Servicio internacional con recargo (IPRS)
+  country_code: '979'
+  international_prefix: "…"
+  national_prefix: "…"
+  national_sig_number: 9 digits
+- country_or_area:
+    en: International Shared Cost Service (ISCS)
+    fr: Service de coût partagé international (ISCS)
+    es: Servicio internacional de pago compartido (ISCS)
+  country_code: '808'
+  international_prefix: "…"
+  national_prefix: "…"
+  national_sig_number: 8 digits
+- country_or_area:
+    en: Iran (Islamic Republic of)
+    fr: Iran (République islamique d')
+    es: Irán (República Islámica del)
+  country_code: '98'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 6 to 10 digits
+  utc_dst: "+3.30; +4.30"
+- country_or_area:
+    en: Iraq
+    fr: Iraq
+    es: Iraq
+  country_code: '964'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8 to 10 digits
+  utc_dst: "+3"
+- country_or_area:
+    en: Ireland
+    fr: Irlande
+    es: Irlanda
+  country_code: '353'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 7 to 11 digits
+  utc_dst: 0; +1
+  note:
+    en: When dialling from Ireland to Northern Ireland, the area code used should
+      be  '048' instead of '0044 28'.
+    fr: En appelant d'Irlande du Nord depuis l'Irlande  l'indicatif interurbain a
+      être utilisé est «048» au lieu de «0044 28».
+    es: Para llamar de Irlanda a Irlanda del Norte, el indicativo interurbano utilizado
+      es  «048» en lugar de «0044 28».
+- country_or_area:
+    en: Israel
+    fr: Israël
+    es: Israel
+  country_code: '972'
+  international_prefix: 00; 012; 013; 014
+  national_prefix: '0'
+  national_sig_number: 8 to 9 digits
+  utc_dst: "+2; +3"
+- country_or_area:
+    en: Italy
+    fr: Italie
+    es: Italia
+  country_code: '39'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: up to 11 digits
+  utc_dst: "+1; +2"
+  note:
+    en: "When dialling from Italy to San Marino, the subscriber number must be prefixed
+      by '0549' instead of '00378'. \n\tWhen dialling from San Marino to Italy, the
+      complete national subscriber number must be used, without \n\tprefixing the
+      number by  '0039'."
+    fr: En appelant Saint-Marin depuis l'Italie, faire précéder le numéro d'abonné
+      du préfixe «0549» au lieu de «00378». En appelant l'Italie depuis Saint-Marin,
+      composer le numéro d'abonné national en entier sans le faire précéder du préfixe  «0039».
+    es: Para llamar de Italia a San Marino se debe marcar el prefijo «0549», en lugar
+      de «00378», antes del número de abonado. Para llamar de San Marino a Italia
+      se debe marcar el número de abonado nacional complea, sin precederlo del prefijo
+      «0039».
+- country_or_area:
+    en: Jamaica
+    fr: Jamaïque
+    es: Jamaica
+  country_code: '1'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: "(876)+7 digits"
+  utc_dst: "-5"
+- country_or_area:
+    en: Japan
+    fr: Japon
+    es: Japón
+  country_code: '81'
+  international_prefix: '010'
+  national_prefix: '0'
+  national_sig_number: 5 to 13 digits
+  utc_dst: "+9"
+- country_or_area:
+    en: Jordan
+    fr: Jordanie
+    es: Jordania
+  country_code: '962'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 5 to 9 digits
+  utc_dst: "+2; +3"
+- country_or_area:
+    en: Kazakhstan
+    fr: Kazakhstan
+    es: Kazajstán
+  country_code: '7'
+  international_prefix: '810'
+  national_prefix: '8'
+  national_sig_number: 10 digits
+  utc_dst: "+6"
+- country_or_area:
+    en: Kenya
+    fr: Kenya
+    es: Kenya
+  country_code: '254'
+  international_prefix: '000'
+  national_prefix: '0'
+  national_sig_number: 6 to 10 digits
+  utc_dst: "+3"
+  note:
+    en: "When dialling between Kenya, Tanzania and Uganda the national (significant)
+      number must be prefixed by \n\t005 for Kenya, by 006 for Uganda and by 007 for
+      Tanzania."
+    fr: En appelant le kenya, l'Ouganda et la Tanzanie faire précéder le numéro national
+      (significatif) du préfixe 005 pour le Kenya, du préfixe 006 pour l'Ouganda et
+      du préfixe 007 pour la Tanzanie.
+    es: Para llamar  Kenya, Tanzania y Uganda se debe marcar a Kenya el prefijo 005  ,
+      a Uganda el prefijo 006 y a Tanzania el prefijo 007 antes del número nacional
+      (significativo).
+- country_or_area:
+    en: Kiribati
+    fr: Kiribati
+    es: Kiribati
+  country_code: '686'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 5 digits
+  utc_dst: "+12"
+- country_or_area:
+    en: Korea (Rep. of)
+    fr: Corée (Rép. de)
+    es: Corea (Rep. de)
+  country_code: '82'
+  international_prefix: '1002'
+  national_prefix: 0; 082
+  national_sig_number: 8 to 11 digits
+  utc_dst: "+9"
+- country_or_area:
+    en: Kuwait
+    fr: Koweït
+    es: Kuwait
+  country_code: '965'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7, 8 digits
+  utc_dst: "+3"
+- country_or_area:
+    en: Kyrgyzstan
+    fr: Kirghizistan
+    es: Kirguistán
+  country_code: '996'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 9 digits
+  utc_dst: "+6"
+- country_or_area:
+    en: Lao P.D.R.
+    fr: Lao (R.d.p.)
+    es: Lao (R.D.P.)
+  country_code: '856'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8 to 10 digits
+  utc_dst: "+7"
+- country_or_area:
+    en: Latvia
+    fr: Lettonie
+    es: Letonia
+  country_code: '371'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7, 8 digits
+  utc_dst: "+2; +3"
+- country_or_area:
+    en: Lebanon
+    fr: Liban
+    es: Líbano
+  country_code: '961'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 7 to 8 digits
+  utc_dst: "+2; +3"
+- country_or_area:
+    en: Lesotho
+    fr: Lesotho
+    es: Lesotho
+  country_code: '266'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 digits
+  utc_dst: "+2"
+- country_or_area:
+    en: Liberia
+    fr: Libéria
+    es: Liberia
+  country_code: '231'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 to 8 digits
+  utc_dst: '0'
+- country_or_area:
+    en: Libya
+    fr: Libye
+    es: Libia
+  country_code: '218'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8 to 9 digits
+  utc_dst: "+2"
+- country_or_area:
+    en: Liechtenstein
+    fr: Liechtenstein
+    es: Liechtenstein
+  country_code: '423'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 to 9 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Lithuania
+    fr: Lituanie
+    es: Lituania
+  country_code: '370'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8 digits
+  utc_dst: "+2; +3"
+- country_or_area:
+    en: Luxembourg
+    fr: Luxembourg
+    es: Luxemburgo
+  country_code: '352'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 4 to 11 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Macao, China
+    fr: Macao, Chine
+    es: Macao, China
+  country_code: '853'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 to 8 digits
+  utc_dst: "+8"
+- country_or_area:
+    en: Madagascar
+    fr: Madagascar
+    es: Madagascar
+  country_code: '261'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 9 to 10  digits
+  utc_dst: "+3"
+- country_or_area:
+    en: Malawi
+    fr: Malaisie
+    es: Malasia
+  country_code: '265'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7, 8 digits
+  utc_dst: "+2"
+- country_or_area:
+    en: Malaysia
+    fr: Malawi
+    es: Malawi
+  country_code: '60'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 7 to 9 digits
+  utc_dst: "+8"
+  note:
+    en: "When dialling from Singapore to Malaysia, the area code and subscriber number
+      must be prefixed by '020' \n\tinstead of '00160'. When dialling from Malaysia
+      to Singapore, the subscriber number must be prefixed by '02'\n\t instead of
+      '0065'."
+    fr: En appelant la Malaisie depuis Singapour, faire précéder l'indicatif interurbain
+      et le numéro d'abonné du préfixe «020» au lieu de «00160». En appelant Singapour
+      depuis la Malaisie, faire précéder le numéro d'abonné du préfixe «02» au lieu
+      de «0065».
+    es: Para llamar de Singapur a Malasia se debe marcar el prefijo «020», en lugar
+      de «00160», antes del indicativo interurbano y el número de abonado. Para llamar
+      de Malasia a Singapur se debe marcar el prefijo «02», en lugar de «0065», antes
+      del número de abonado.
+- country_or_area:
+    en: Maldives
+    fr: Maldives
+    es: Maldivas
+  country_code: '960'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 digits
+  utc_dst: "+5"
+- country_or_area:
+    en: Mali
+    fr: Mali
+    es: Malí
+  country_code: '223'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 digits
+  utc_dst: '0'
+- country_or_area:
+    en: Malta
+    fr: Malte
+    es: Malta
+  country_code: '356'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Marshall Islands
+    fr: Marshall (Iles)
+    es: Marshall (Islas)
+  country_code: '692'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: 7 digits
+  utc_dst: "+12"
+- country_or_area:
+    en: Martinique
+    fr: Martinique
+    es: Martinica
+  country_code: '596'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 9 digits
+  utc_dst: "-4"
+- country_or_area:
+    en: Mauritania
+    fr: Mauritanie
+    es: Mauritania
+  country_code: '222'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 digits
+  utc_dst: '0'
+- country_or_area:
+    en: Mauritius
+    fr: Maurice
+    es: Mauricio
+  country_code: '230'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 digits
+  utc_dst: "+4"
+  note:
+    en: "Carrier pre-selection has been introduced in Mauritius since 1 January 2005.
+      \ The international prefix “00” \n\tmay be used only by those subscribers who
+      have pre-selected an International Long Distance (ILD) carrier.  \n\tFor subscribers
+      who have not pre-selected any carrier, their international calls made using
+      the prefix “00” are\n\t not allowed through.All subscribers may however select
+      the ILD carrier of their choice on a Call-by-Call \n\tbasis by using the carrier
+      prefix assigned to the selected carrier, by the ICTA (ILD Carrier Prefix: 020,
+      022, \n\t030, 033, 040, 050, 060, 070)."
+    fr: 'La présélection de l’opérateur est en place à Maurice depuis le 1er janvier
+      2005. Le préfixe international «00» ne peut être utilisé que par les abonnés
+      ayant présélectionné un opérateur international longue distance. Les abonnés
+      n’ayant pas présélectionné d’opérateur ne sont pas autorisés à effectuer d’appels
+      internationaux en utilisant le préfixe «00».Tous les abonnés peuvent cependant
+      sélectionner l’opérateur international longue distance (ILD) de leur choix,
+      pour chaque appel, en utilisant le préfixe d’opérateur attribué à l’opérateur
+      sélectionné par l’autorité chargée de l’ICTA (préfixe d’opérateur international
+      longue distance (ILD)): 020, 022, 030, 033, 040, 050, 060, 070).'
+    es: 'Desde el 10 de enero de 2005 se ha introducido en Mauricio el servicio de
+      preselección de operador. El prefijo internacional «00» puede ser usado sólo
+      por los abonados que hayan preseleccionado un operador de  larga distancia internacional
+      (ILD – International Long Distance). Se rechazarán las llamadas  internacionales
+      de los abonados que no hayan preseleccionado ningún operador y que utilicen
+      el prefijo «00».No obstante, ados los abonados podrán seleccionar el operador
+      de ILD que deseen sobre una base de llamadas individuales, empleando el prefijo
+      asignado por la ICTA al operador elegido (prefijos de operador de ILD: 020,
+      022, 030, 033, 040, 050, 060, 070).'
+- country_or_area:
+    en: Mexico
+    fr: Mexique
+    es: México
+  country_code: '52'
+  international_prefix: '00'
+  national_prefix: '01'
+  national_sig_number: 10 digits
+  utc_dst: "-6; -5"
+  note:
+    en: Baja California Norte UTC-8/DST-7; Baja California Sur, Chihuahua, Nayarit
+      UTC-7/DST-6.
+    fr: Baja California Norte UTC-8/DST-7; Baja California Sur, Chihuahua, Nayarit
+      UTC-7/DST-6.
+    es: Baja California Norte UTC-8/DST-7; Baja California Sur, Chihuahua, Nayarit
+      UTC-7/DST-6.
+- country_or_area:
+    en: Micronesia
+    fr: Micronésie
+    es: Micronesia
+  country_code: '691'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: 7 digits
+  utc_dst: "+11"
+- country_or_area:
+    en: Moldova (Republic of)
+    fr: Moldova (République de)
+    es: Moldova (República de)
+  country_code: '373'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8 digits
+  utc_dst: "+2; +3"
+- country_or_area:
+    en: Monaco
+    fr: Monaco
+    es: Mónaco
+  country_code: '377'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 5 to 9 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Mongolia
+    fr: Mongolie
+    es: Mongolia
+  country_code: '976'
+  international_prefix: '001'
+  national_prefix: '0'
+  national_sig_number: 7 to 8 digits
+  utc_dst: "+8"
+- country_or_area:
+    en: Montenegro
+    fr: Monténégro
+    es: Montenegro
+  country_code: '382'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 4 to 12 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Montserrat
+    fr: Montserrat
+    es: Montserrat
+  country_code: '1'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: "(664)+7 digits"
+  utc_dst: "-4"
+- country_or_area:
+    en: Morocco
+    fr: Maroc
+    es: Marruecos
+  country_code: '212'
+  international_prefix: '0'
+  national_prefix: '0'
+  national_sig_number: 9 digits
+  utc_dst: '0'
+  note:
+    en: "The '0' is used on all domestic calls, including in the same city, but is
+      omitted when dialling  from other \n\tcountries."
+    fr: Le «0» est utilisé pour tous les appels nationaux, y compris les appels à
+      l'intérieur d'une même ville, mais doit être omis lorsqu'on appelle  depuis
+      un autre pays.
+    es: El «0» debe utilizarse en adas las llamadas nacionales, incluso dentro de
+      una misma ciudad, pero se omite en las llamadas  desde otros países.
+- country_or_area:
+    en: Mozambique
+    fr: Mozambique
+    es: Mozambique
+  country_code: '258'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 to 9 digits
+  utc_dst: "+2"
+- country_or_area:
+    en: Myanmar
+    fr: Myanmar
+    es: Myanmar
+  country_code: '95'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 7 to 9 digits
+  utc_dst: "+6.30"
+- country_or_area:
+    en: Namibia
+    fr: Namibie
+    es: Namibia
+  country_code: '264'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 6 to 10 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Nauru
+    fr: Nauru
+    es: Nauru
+  country_code: '674'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 4, 7 digits
+  utc_dst: "+12"
+- country_or_area:
+    en: Nepal
+    fr: Népal
+    es: Nepal
+  country_code: '977'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8 to 9 digits
+  utc_dst: "+5.45"
+- country_or_area:
+    en: Netherlands
+    fr: Pays-Bas
+    es: Países Bajos
+  country_code: '31'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 9 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: New Caledonia
+    fr: Nouvelle-Calédonie
+    es: Nueva Caledonia
+  country_code: '687'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 6 digits
+  utc_dst: "+11"
+- country_or_area:
+    en: New Zealand
+    fr: Nouvelle-Zélande
+    es: Nueva Zelandia
+  country_code: '64'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 3 to 10 digits
+  utc_dst: "+12; +13"
+- country_or_area:
+    en: Nicaragua
+    fr: Nicaragua
+    es: Nicaragua
+  country_code: '505'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 digits
+  utc_dst: "-6"
+- country_or_area:
+    en: Niger
+    fr: Niger
+    es: Níger
+  country_code: '227'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 digits
+  utc_dst: "+1"
+- country_or_area:
+    en: Nigeria
+    fr: Nigéria
+    es: Nigeria
+  country_code: '234'
+  international_prefix: '009'
+  national_prefix: '0'
+  national_sig_number: 7 to 10 digits
+  utc_dst: "+1"
+- country_or_area:
+    en: Niue
+    fr: Niue
+    es: Niue
+  country_code: '683'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 4 digits
+  utc_dst: "-11"
+- country_or_area:
+    en: Northern Marianas
+    fr: Mariannes du Nord
+    es: Marianas del Norte
+  country_code: '1'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: "(670)+7 digits"
+  utc_dst: "+10"
+- country_or_area:
+    en: Norway
+    fr: Norvège
+    es: Noruega
+  country_code: '47'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 5, 8 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Oman
+    fr: Oman
+    es: Omán
+  country_code: '968'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 to 8 digits
+  utc_dst: "+4"
+- country_or_area:
+    en: Pakistan
+    fr: Pakistan
+    es: Pakistán
+  country_code: '92'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8 to 11 digits
+  utc_dst: "+5"
+- country_or_area:
+    en: Palau
+    fr: Palau
+    es: Palau
+  country_code: '680'
+  international_prefix: '011'
+  national_prefix: "…"
+  national_sig_number: 7 digits
+  utc_dst: "+9"
+- country_or_area:
+    en: Panama
+    fr: Panama
+    es: Panamá
+  country_code: '507'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7, 8 digits
+  utc_dst: "-5"
+  note:
+    en: Seven digits for the fixed network and eight digits for the mobile network.
+    fr: Sept chiffres pour le réseau fixe et huit chiffres pour le réseau mobile.
+    es: Siete cifras para la red fija y ocho cifras para la red móvil.
+- country_or_area:
+    en: Papua New Guinea
+    fr: Papouasie-Nouvelle-Guinée
+    es: Papua Nueva Guinea
+  country_code: '675'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 4 to 11 digits
+  utc_dst: "+10"
+- country_or_area:
+    en: Paraguay
+    fr: Paraguay
+    es: Paraguay
+  country_code: '595'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 5 to 9 digits
+  utc_dst: "-4; -3"
+- country_or_area:
+    en: Peru
+    fr: Pérou
+    es: Perú
+  country_code: '51'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8 to 11 digits
+  utc_dst: "-5"
+- country_or_area:
+    en: Philippines
+    fr: Philippines
+    es: Filipinas
+  country_code: '63'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8 to 10 digits
+  utc_dst: "+8"
+- country_or_area:
+    en: Poland
+    fr: Pologne
+    es: Polonia
+  country_code: '48'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 6 to 9 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Portugal
+    fr: Portugal
+    es: Portugal
+  country_code: '351'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 9, 11 digits
+  utc_dst: 0; +1
+- country_or_area:
+    en: Puerto Rico
+    fr: Puerto Rico
+    es: Puerto Rico
+  country_code: '1'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: "(787/939)+7 digits"
+  utc_dst: "-4"
+- country_or_area:
+    en: Qatar
+    fr: Qatar
+    es: Qatar
+  country_code: '974'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 3 to 8 digits
+  utc_dst: "+3"
+- country_or_area:
+    en: Romania
+    fr: Roumanie
+    es: Rumania
+  country_code: '40'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 9 digits
+  utc_dst: "+2; +3"
+- country_or_area:
+    en: Russian Federation
+    fr: Fédération de Russie
+    es: Federación de Rusia
+  country_code: '7'
+  international_prefix: '810'
+  national_prefix: '8'
+  national_sig_number: 10 digits
+  utc_dst: "+4"
+  note:
+    en: "Kaliningrad UTC +2/DST+3; Moscow, St. Petersburg, Astrakhan, Izhevsk, Samara
+      UTC+3/DST+4; Perm, \n\tNizhnevartovsk UTC+5/DST+6; Novosibirsk, Omsk UTC+6/DST+7;
+      Norilsk, Kyzyl UTC+7/DST+8; Bratsk, \n\tUlan-Ude UTC+8/DST+9; Chita, Yakutsk
+      UTC+9/DST+10; Khabarovsk, Vladivostok, Yuzhno-Sakhalinsk \n\tUTC+10/DST+11;
+      Magadan, Kamchatka UTC+11/DST+12."
+    fr: Kaliningrad UTC +2/DST+3; Moscow, St. Petersburg, Astrakhan, Izhevsk, Samara
+      UTC+3/DST+4; Perm, Nizhnevartovsk UTC+5/DST+6; Novosibirsk, Omsk UTC+6/DST+7;
+      Norilsk, Kyzyl UTC+7/DST+8; Bratsk, Ulan-Ude UTC+8/DST+9; Chita, Yakutsk UTC+9/DST+10;
+      Khabarovsk, Vladivostok, Yuzhno-Sakhalinsk UTC+10/DST+11; Magadan, Kamchatka
+      UTC+11/DST+12.
+    es: Kaliningrad UTC +2/DST+3; Moscow, St. Petersburg, Astrakhan, Izhevsk, Samara
+      UTC+3/DST+4; Perm, Nizhnevaravsk UTC+5/DST+6; Novosibirsk, Omsk UTC+6/DST+7;
+      Norilsk, Kyzyl UTC+7/DST+8; Bratsk, Ulan-Ude UTC+8DST+9; Chita, Yakutsk UTC+9/DST+10;
+      Khabarovsk, Vladivosak, Yuzhno-Sakhalinsk UTC+10/DST+11; Magadan, Kamchatka
+      UTC+11/DST+12.
+- country_or_area:
+    en: Rwanda
+    fr: Rwanda
+    es: Rwanda
+  country_code: '250'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 9 digits
+  utc_dst: "+2"
+- country_or_area:
+    en: Saint Helena, Ascension and Tristan da Cunha
+    fr: Sainte-Hélène, Ascension et Tristan da Cunha
+    es: Santa Elena, Ascension y Tristan da Cunha
+  country_code: '247'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 4 digits
+  utc_dst: '0'
+- country_or_area:
+    en: Saint Helena, Ascension and Tristan da Cunha
+    fr: Sainte-Hélène, Ascension et Tristan da Cunha
+    es: Santa Elena, Ascension y Tristan da Cunha
+  country_code: '290'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 4 digits
+  utc_dst: '0'
+  note:
+    en: "Country code 247 Ascension and country code 290 Saint Helena and Tristan
+      da Cunha. Numbers \n\t\tcommencing with the initial digit 8 will be assigned
+      to Tristan da Cunha, whilst national numbers \n\tcommencing with the initial
+      digits 1, 2, 3, 4, 5, 6, 7 and 9 will remain assigned to Saint Helena."
+    fr: Indicatif de pays 247 Ascension et indicatif de pays 290 Sainte Hélène et
+      Tristan da Cunha. Les numéros nationaux à quatre chiffres commençant par le
+      chiffre «8» seront attribués à Tristan da Cunha alors que les numéros nationaux
+      commençant par les chiffres «1, 2, 3, 4, 5, 6, 7 et 9» resteront attribués à
+      Sainte-
+    es: Indicativo de país 247 Ascensión y indicativo de país 290 Santa Elena y Tristán
+      da Cunha. Los números de cuatro cifras que comienzan por la cifra 8 se atribuirán
+      a Tristán da Cunha, mientras que aquéllos que empiezan por las cifras 1, 2,
+      3, 4, 5, 6, 7 y 9 seguirán siendo atribuidos a Santa Elena.
+- country_or_area:
+    en: Saint Kitts and Nevis
+    fr: Saint-Kitts-et-Nevis
+    es: San Kitts y Nevis
+  country_code: '1'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: "(869)+7 digits"
+  utc_dst: "-4"
+- country_or_area:
+    en: Saint Lucia
+    fr: Sainte-Lucie
+    es: Santa Lucía
+  country_code: '1'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: "(758)+7 digits"
+  utc_dst: "-4"
+- country_or_area:
+    en: Saint Pierre and Miquelon
+    fr: Saint-Pierre-et-Miquelon
+    es: San Pedro y Miquelón
+  country_code: '508'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 6 digits
+  utc_dst: "-3; -2"
+- country_or_area:
+    en: Saint Vincent and the Grenadines
+    fr: Saint-Vincent-et-Grenadines
+    es: San Vicente y las Granadinas
+  country_code: '1'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: "(784)+7 digits"
+  utc_dst: "-4"
+- country_or_area:
+    en: Samoa
+    fr: Samoa américaines
+    es: Samoa
+  country_code: '685'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 3 to 7 digits
+  utc_dst: "-11; -10"
+- country_or_area:
+    en: San Marino
+    fr: Saint-Marin
+    es: San Marino
+  country_code: '378'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 6 to 10 digits
+  utc_dst: "+1; +2"
+  note:
+    en: "When dialling from Italy to San Marino, the subscriber number must be prefixed
+      by '0549' instead of '00378'. \n\tWhen dialling from San Marino to Italy, the
+      complete national subscriber number must be used, without \n\tprefixing the
+      number by  '0039'."
+    fr: En appelant Saint-Marin depuis l'Italie, faire précéder le numéro d'abonné
+      du préfixe «0549» au lieu de «00378». En appelant l'Italie depuis Saint-Marin,
+      composer le numéro d'abonné national en entier sans le faire précéder du préfixe  «0039».
+    es: Para llamar de Italia a San Marino se debe marcar el prefijo «0549», en lugar
+      de «00378», antes del número de abonado. Para llamar de San Marino a Italia
+      se debe marcar el número de abonado nacional complea, sin precederlo del prefijo
+      «0039».
+- country_or_area:
+    en: Sao Tome and Principe
+    fr: Sao Tomé-et-Principe
+    es: Santo Tomé y Príncipe
+  country_code: '239'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 digits
+  utc_dst: '0'
+- country_or_area:
+    en: Saudi Arabia
+    fr: Arabie saoudite
+    es: Arabia Saudita
+  country_code: '966'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8 to 9 digits
+  utc_dst: "+3"
+- country_or_area:
+    en: Senegal
+    fr: Sénégal
+    es: Senegal
+  country_code: '221'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 9 digits
+  utc_dst: '0'
+- country_or_area:
+    en: Serbia
+    fr: Serbie
+    es: Serbia
+  country_code: '381'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 4 to 12 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Seychelles
+    fr: Seychelles
+    es: Seychelles
+  country_code: '248'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 digits
+  utc_dst: "+4"
+- country_or_area:
+    en: Sierra Leone
+    fr: Sierra Leone
+    es: Sierra Leona
+  country_code: '232'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8 digits
+  utc_dst: '0'
+- country_or_area:
+    en: Singapore
+    fr: Singapour
+    es: Singapur
+  country_code: '65'
+  international_prefix: '1008'
+  national_prefix: "…"
+  national_sig_number: 8 to 12 digits
+  utc_dst: "+8"
+  note:
+    en: "When dialling from Singapore to Malaysia, the area code and subscriber number
+      must be prefixed by '020' \n\tinstead of '00160'. When dialling from Malaysia
+      to Singapore, the subscriber number must be prefixed by '02'\n\t instead of
+      '0065'."
+    fr: En appelant la Malaisie depuis Singapour, faire précéder l'indicatif interurbain
+      et le numéro d'abonné du préfixe «020» au lieu de «00160». En appelant Singapour
+      depuis la Malaisie, faire précéder le numéro d'abonné du préfixe «02» au lieu
+      de «0065».
+    es: Para llamar de Singapur a Malasia se debe marcar el prefijo «020», en lugar
+      de «00160», antes del indicativo interurbano y el número de abonado. Para llamar
+      de Malasia a Singapur se debe marcar el prefijo «02», en lugar de «0065», antes
+      del número de abonado.
+- country_or_area:
+    en: Sint Maarten (Dutch part)
+    fr: Sint Maarten  (partie neérlandaise)
+    es: Sint Maarten  (parte neerlandesas)
+  country_code: '1'
+  international_prefix: 001; 008
+  national_prefix: '1'
+  national_sig_number: "(721) + 7 digits"
+  utc_dst: "-4"
+- country_or_area:
+    en: Slovakia
+    fr: Slovaquie
+    es: Eslovaquia
+  country_code: '421'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 4 to 9 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Slovenia
+    fr: Slovénie
+    es: Eslovenia
+  country_code: '386'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Solomon Islands
+    fr: Salomon (Iles)
+    es: Salomón (Islas)
+  country_code: '677'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 5 digits
+  utc_dst: "+11"
+- country_or_area:
+    en: Somalia
+    fr: Somalie
+    es: Somalia
+  country_code: '252'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 5 to 8 digits
+  utc_dst: "+3"
+- country_or_area:
+    en: South Africa
+    fr: Sudafricaine (Rép.)
+    es: Sudafricana (Rep.)
+  country_code: '27'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 9 digits
+  utc_dst: "+2"
+  note:
+    en: "The '0' is used on all domestic calls, including in the same city, but is
+      omitted when dialling  from other \n\tcountries."
+    fr: Le «0» est utilisé pour tous les appels nationaux, y compris les appels à
+      l'intérieur d'une même ville, mais doit être omis lorsqu'on appelle  depuis
+      un autre pays.
+    es: El «0» debe utilizarse en adas las llamadas nacionales, incluso dentro de
+      una misma ciudad, pero se omite en las llamadas  desde otros países.
+- country_or_area:
+    en: South Sudan
+    fr: Soudan du Sud
+    es: Sudán del Sur
+  country_code: '211'
+  international_prefix: '00'
+  national_prefix: '0'
+  utc_dst: "+3"
+- country_or_area:
+    en: Spain
+    fr: Espagne
+    es: España
+  country_code: '34'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 9 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Sri Lanka
+    fr: Sri Lanka
+    es: Sri Lanka
+  country_code: '94'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 9 digits
+  utc_dst: "+5.30"
+- country_or_area:
+    en: Sudan
+    fr: Soudan
+    es: Sudán
+  country_code: '249'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 9 digits
+  utc_dst: "+3"
+- country_or_area:
+    en: Suriname
+    fr: Suriname
+    es: Suriname
+  country_code: '597'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 6 to 7 digits
+  utc_dst: "-3"
+- country_or_area:
+    en: Swaziland
+    fr: Swaziland
+    es: Swazilandia
+  country_code: '268'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 to 8 digits
+  utc_dst: "+2"
+- country_or_area:
+    en: Sweden
+    fr: Suède
+    es: Suecia
+  country_code: '46'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 7 to 13 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Switzerland
+    fr: Suisse
+    es: Suiza
+  country_code: '41'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 4 to 12 digits
+  utc_dst: "+1; +2"
+  note:
+    en: "The '0' is used on all domestic calls, including in the same city, but is
+      omitted when dialling  from other \n\tcountries."
+    fr: Le «0» est utilisé pour tous les appels nationaux, y compris les appels à
+      l'intérieur d'une même ville, mais doit être omis lorsqu'on appelle  depuis
+      un autre pays.
+    es: El «0» debe utilizarse en adas las llamadas nacionales, incluso dentro de
+      una misma ciudad, pero se omite en las llamadas  desde otros países.
+- country_or_area:
+    en: Syrian Arab Republic
+    fr: République arabe syrienne
+    es: República Árabe Siria
+  country_code: '963'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8 to 10 digits
+  utc_dst: "+2; +3"
+- country_or_area:
+    en: Taiwan, China
+    fr: Taiwan, Chine
+    es: Taiwán, China
+  country_code: '886'
+  international_prefix: '002'
+  national_prefix: '0'
+  national_sig_number: 8 to 9 digits
+  utc_dst: "+8"
+- country_or_area:
+    en: Tajikistan
+    fr: Tadjikistan
+    es: Tayikistán
+  country_code: '992'
+  international_prefix: '810'
+  national_prefix: '8'
+  national_sig_number: 9 digits
+  utc_dst: "+5"
+- country_or_area:
+    en: Tanzania
+    fr: Tanzanie
+    es: Tanzanía
+  country_code: '255'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 9 digits
+  utc_dst: "+3"
+  note:
+    en: "When dialling between Kenya, Tanzania and Uganda the national (significant)
+      number must be prefixed by \n\t005 for Kenya, by 006 for Uganda and by 007 for
+      Tanzania."
+    fr: En appelant le kenya, l'Ouganda et la Tanzanie faire précéder le numéro national
+      (significatif) du préfixe 005 pour le Kenya, du préfixe 006 pour l'Ouganda et
+      du préfixe 007 pour la Tanzanie.
+    es: Para llamar  Kenya, Tanzania y Uganda se debe marcar a Kenya el prefijo 005  ,
+      a Uganda el prefijo 006 y a Tanzania el prefijo 007 antes del número nacional
+      (significativo).
+- country_or_area:
+    en: Telecommunications for Disaster Relief (TDR)
+    fr: Télécommunications pour les opérations de secours (TDR)
+    es: Telecomunicaciones de Socorro en caso de catástrofe(TDR)
+  country_code: '888'
+- country_or_area:
+    en: Thailand
+    fr: Thaïlande
+    es: Tailandia
+  country_code: '66'
+  international_prefix: '001'
+  national_prefix: '0'
+  national_sig_number: 8, 9 digits
+  utc_dst: "+7"
+  note:
+    en: "The '0' is used on all domestic calls, including in the same city, but is
+      omitted when dialling  from other \n\tcountries."
+    fr: Le «0» est utilisé pour tous les appels nationaux, y compris les appels à
+      l'intérieur d'une même ville, mais doit être omis lorsqu'on appelle  depuis
+      un autre pays.
+    es: El «0» debe utilizarse en adas las llamadas nacionales, incluso dentro de
+      una misma ciudad, pero se omite en las llamadas  desde otros países.
+- country_or_area:
+    en: The Former Yugoslav Republic of Macedonia
+    fr: L'ex-République yougoslave de Macédoine
+    es: La ex República Yugoslava de Macedonia
+  country_code: '389'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Timor-Leste
+    fr: Timor-Leste
+    es: Timor-Leste
+  country_code: '670'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 7 digits
+  utc_dst: "+9"
+- country_or_area:
+    en: Togo
+    fr: Togo
+    es: Togo
+  country_code: '228'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 digits
+  utc_dst: '0'
+- country_or_area:
+    en: Tokelau
+    fr: Tokélau
+    es: Tokelau
+  country_code: '690'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 4 digits
+  utc_dst: "-10"
+- country_or_area:
+    en: Tonga
+    fr: Tonga
+    es: Tonga
+  country_code: '676'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 5, 7 digits
+  utc_dst: "+13"
+- country_or_area:
+    en: Trial of a proposed new international service, shared code
+    fr: Essai d'un nouveau service international proposé, indicatif partagé
+    es: Ensayo de un nuevo servicio internacional, indicativo compartido
+  country_code: '991'
+- country_or_area:
+    en: Trinidad and Tobago
+    fr: Trinité-et-Tobago
+    es: Trinidad y Tobago
+  country_code: '1'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: "(868)+7 digits"
+  utc_dst: "-4"
+- country_or_area:
+    en: Tunisia
+    fr: Tunisie
+    es: Túnez
+  country_code: '216'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 8 digits
+  utc_dst: "+1"
+- country_or_area:
+    en: Turkey
+    fr: Turquie
+    es: Turquía
+  country_code: '90'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 10 digits
+  utc_dst: "+2; +3"
+- country_or_area:
+    en: Turkmenistan
+    fr: Turkménistan
+    es: Turkmenistán
+  country_code: '993'
+  international_prefix: '810'
+  national_prefix: '8'
+  national_sig_number: 8 digits
+  utc_dst: "+5"
+- country_or_area:
+    en: Turks and Caicos Islands
+    fr: Turks et Caicos (Iles)
+    es: Turquesas y Caicos (Islas)
+  country_code: '1'
+  international_prefix: '00'
+  national_prefix: '1'
+  national_sig_number: "(649)+7 digits"
+  utc_dst: "-5; -4"
+- country_or_area:
+    en: Tuvalu
+    fr: Tuvalu
+    es: Tuvalu
+  country_code: '688'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 5, 6 digits
+  utc_dst: "+12"
+- country_or_area:
+    en: Uganda
+    fr: Ouganda
+    es: Uganda
+  country_code: '256'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 9 digits
+  utc_dst: "+3"
+  note:
+    en: "When dialling between Kenya, Tanzania and Uganda the national (significant)
+      number must be prefixed by \n\t005 for Kenya, by 006 for Uganda and by 007 for
+      Tanzania."
+    fr: En appelant le kenya, l'Ouganda et la Tanzanie faire précéder le numéro national
+      (significatif) du préfixe 005 pour le Kenya, du préfixe 006 pour l'Ouganda et
+      du préfixe 007 pour la Tanzanie.
+    es: Para llamar  Kenya, Tanzania y Uganda se debe marcar a Kenya el prefijo 005  ,
+      a Uganda el prefijo 006 y a Tanzania el prefijo 007 antes del número nacional
+      (significativo).
+- country_or_area:
+    en: Ukraine
+    fr: Ukraine
+    es: Ucrania
+  country_code: '380'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 9 digits
+  utc_dst: "+2; +3"
+- country_or_area:
+    en: United Arab Emirates
+    fr: Emirats arabes unis
+    es: Emiraas Árabes Unidos
+  country_code: '971'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 8 to 9 digits
+  utc_dst: "+4"
+- country_or_area:
+    en: United Kingdom
+    fr: Royaume-Uni
+    es: Reino Unido
+  country_code: '44'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 7 to 10 digits
+  utc_dst: 0; +1
+- country_or_area:
+    en: United States
+    fr: Etats-Unis
+    es: Estados Unidos
+  country_code: '1'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: 10 digits
+  utc_dst: "-5; -4"
+  note:
+    en: "Eastern Time UTC-5/DST-4; Central Time UTC-6/DST-5; Mountain Time UTC-7;
+      Pacific Time UTC-8/DST-7; \n\tAlaska UTC-9/DST-8; Hawaiian UTC-10."
+    fr: Eastern Time UTC-5/DST-4; Central Time UTC-6/DST-5; Mountain Time UTC-7; Pacific
+      Time UTC-8/DST-7; Alaska UTC-9/DST-8; Hawaiian UTC-10.
+    es: Eastern Time UTC-5/DST-4; Central Time UTC-6/DST-5; Mountain Time UTC-7; Pacific
+      Time UTC-8/DST-7; Alaska UTC-9/DST-8; Hawaiian UTC-10.
+- country_or_area:
+    en: United States Virgin Islands
+    fr: Vierges américaines (Iles)
+    es: Vírgenes americanas (Islas)
+  country_code: '1'
+  international_prefix: '011'
+  national_prefix: '1'
+  national_sig_number: "(340)+7 digits"
+  utc_dst: "-4"
+- country_or_area:
+    en: Universal Personal Telecommunication (UPT)
+    fr: Télécommunications universelles personelles (UPT)
+    es: Telecomunicación personal universal (UPT)
+  country_code: '878'
+- country_or_area:
+    en: Uruguay
+    fr: Uruguay
+    es: Uruguay
+  country_code: '598'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 4 to 11 digits
+  utc_dst: "-3; -2"
+- country_or_area:
+    en: Uzbekistan
+    fr: Ouzbékistan
+    es: Uzbekistán
+  country_code: '998'
+  international_prefix: '810'
+  national_prefix: '8'
+  national_sig_number: 9 digits
+  utc_dst: "+5"
+- country_or_area:
+    en: Vanuatu
+    fr: Vanuatu
+    es: Vanuatu
+  country_code: '678'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 5, 7 digits
+  utc_dst: "+11"
+- country_or_area:
+    en: Vatican
+    fr: Vatican
+    es: Vaticano
+  country_code: '379'
+  international_prefix: "…"
+  note:
+    en: The country code listed is for future use (Vatican is currently using country
+      code '39').
+    fr: L'indicatif de pays mentionné est pour une utilisation ultérieure (le Vatican
+      utilise actuellement l'indicatif de pays «39»).
+    es: El indicativo de país mencionado se utilizará en el futuro (el Vaticano utiliza
+      ahora el indicativo de país «39»).
+- country_or_area:
+    en: Vatican
+    fr: Vatican
+    es: Vaticano
+  country_code: '39'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: up to 11 digits
+  utc_dst: "+1; +2"
+- country_or_area:
+    en: Venezuela (Bolivarian Republic of)
+    fr: Venezuela (République bolivarienne du)
+    es: Venezuela (República Bolivariana de)
+  country_code: '58'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 10 digits
+  utc_dst: "-4.30"
+- country_or_area:
+    en: Viet Nam
+    fr: Viet Nam
+    es: Viet Nam
+  country_code: '84'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 7 to 10 digits
+  utc_dst: "+7"
+- country_or_area:
+    en: Wallis and Futuna
+    fr: Wallis-et-Futuna
+    es: Wallis y Futuna
+  country_code: '681'
+  international_prefix: '00'
+  national_prefix: "…"
+  national_sig_number: 6 digits
+  utc_dst: "+12"
+- country_or_area:
+    en: Yemen
+    fr: Yémen
+    es: Yemen
+  country_code: '967'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 6 to 9 digits
+  utc_dst: "+3"
+- country_or_area:
+    en: Zambia
+    fr: Zambie
+    es: Zambia
+  country_code: '260'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 9 digits
+  utc_dst: "+2"
+- country_or_area:
+    en: Zimbabwe
+    fr: Zimbabwe
+    es: Zimbabwe
+  country_code: '263'
+  international_prefix: '00'
+  national_prefix: '0'
+  national_sig_number: 5 to 10 digits
+  utc_dst: "+2"
+- country_or_area:
+    en: Reserved
+    fr: Réservé
+    es: Reservado
+  country_code: '970'
+  note:
+    en: Reserved for the Palestinian Authority.
+    fr: Réservé pour l’Autorité palestinienne.
+    es: Reservado para la Auaridad Palestina.

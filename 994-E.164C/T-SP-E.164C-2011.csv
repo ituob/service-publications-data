@@ -1,0 +1,314 @@
+﻿METADATA,,,,,,,,,,
+title.en,"DIALLING PROCEDURES (INTERNATIONAL PREFIX, NATIONAL (TRUNK) PREFIX AND NATIONAL (SIGNIFICANT) NUMBER) (IN ACCORDANCE WITH ITU-T RECOMMENDATION E.164 (11/2010))",,,,,,,,,
+title.fr,"PROCÉDURES DE NUMÉROTATION (PRÉFIXE INTERNATIONAL, PRÉFIXE (INTERURBAIN) NATIONAL ET NUMÉRO NATIONAL (SIGNIFICATIF)) (SELON LA RECOMMANDATION UIT-T E.164 (11/2010))",,,,,,,,,
+title.es,"PROCEDIMIENTOS DE MARCACIÓN (PREFIJO INTERNACIONAL, PREFIJO (INTERURBANO) NACIONAL Y NÚMERO NACIONAL (SIGNIFICATIVO)) (SEGÚN LA RECOMENDACIÓN UIT-T E.164 (11/2010))",,,,,,,,,
+locale.country_or_area.en,Country/geographical area,,,,,,,,,
+locale.country_code.en,Country Code,,,,,,,,,
+locale.international_prefix.en,International Prefix,,,,,,,,,
+locale.national_prefix.en,National Prefix,,,,,,,,,
+locale.national_sig_number.en,National (Significant) Number,,,,,,,,,
+locale.utc_dst.en,UTC/DST,,,,,,,,,
+locale.note.en,Note,,,,,,,,,
+locale.country_or_area.fr,Pays/zone géographique,,,,,,,,,
+locale.country_code.fr,Indicatif de pays,,,,,,,,,
+locale.international_prefix.fr,Préfixe international,,,,,,,,,
+locale.national_prefix.fr,Préfixe national,,,,,,,,,
+locale.national_sig_number.fr,Numéro national (significatif),,,,,,,,,
+locale.utc_dst.fr,UTC/DST*,,,,,,,,,
+locale.note.fr,Note,,,,,,,,,
+locale.country_or_area.es,País/zona geográfica,,,,,,,,,
+locale.country_code.es,Indicativo de país,,,,,,,,,
+locale.international_prefix.es,Prefijo internacional,,,,,,,,,
+locale.national_prefix.es,Prefijo nacional,,,,,,,,,
+locale.national_sig_number.es,Número nacional (significativo),,,,,,,,,
+locale.utc_dst.es,UTC/DST*,,,,,,,,,
+locale.note.es,Nota,,,,,,,,,
+,,,,,,,,,,
+DATA,type=array,,,,,,,,,
+country_or_area.en,country_or_area.fr,country_or_area.es,country_code,international_prefix,national_prefix,national_sig_number,utc_dst,note.en,note.fr,note.es
+Afghanistan,Afghanistan,Afganistán,93,00,0,9 digits,+4.5,,,
+Albania,Albanie,Albania,355,00,0,3 to 9 digits,+1; +2,,,
+Algeria,Algérie,Argelia,213,00,0,"8, 9 digits",+1,,,
+American Samoa,Samoa,Samoa norteamericanas,1,011,1,(684)+7 digits,-11,,,
+Andorra,Andorre,Andorra,376,00,…,"6, 8, 9 digits",+1; +2,,,
+Angola,Angola,Angola,244,00,0,9 digits,+1,,,
+Anguilla,Anguilla,Anguilla,1,011,1,(264)+7 digits,-4,,,
+Antigua and Barbuda,Antigua-et-Barbuda,Antigua y Barbuda,1,011,1,(268)+7 digits,-4,,,
+Argentina,Argentine,Argentina,54,00,0,10 digits,-3,,,
+Armenia,Arménie,Armenia,374,00,0,8  digits,+4; +5,,,
+Aruba,Aruba,Aruba,297,00,…,7 digits,-4,,,
+Australia,Australie,Australia,61,0011,0,5 to 15 digits,+10; +11,Includes Cocos-Keeling Islands(UTC+6.30) and Christmas Island (UTC+7). Western Australia (UTC+8).,Y compris  Cocos-Keeling (Iles)(UTC+6.30) et Christmas (Ile)(UTC+7). Western Australia (UTC+8).,Comprendidas Cocos-Keeling (Islas)(UTC+6.30) y Christmas (Isla)(UTC+7). Western Australia (UTC+8).
+Australian External Territories,Territoires ext. de l'Australie,Terriarios ext. de Australia,672,00,0,6 digits,+11.30,"Including Australia Antartic Territory Bases and Norfolk Island (UTC+11.30)(international prefix for Norfolk 
+	Island is '0101').","Y compris les Bases du territoire australien de l'Antarctique et l'île Norfolk (UTC+11.30)(le préfixe 
+ international de l'île Norfolk est «0101»).
+",Comprendidas las Bases del terriario australiano del Antártico  y Norfolk (Isla de) (UTC+11.30)(el prefijo internacional de Norfolk (Isla de) es «0101»).
+Austria,Autriche,Austria,43,00,0,4 to 13 digits,+1; +2,,,
+Azerbaijan,Azerbaïdjan,Azerbaiyán,994,00,0,8 to 9 digits,+4; +5,,,
+Bahamas,Bahamas,Bahamas,1,011,1,(242)+7 digits,-5; -4,,,
+Bahrain,Bahreïn,Bahrein,973,00,…,8 digits,+3,,,
+Bangladesh,Bangladesh,Bangladesh,880,00,0,6 to 10 digits,+6,,,
+Barbados,Barbade,Barbados,1,011,1,(246)+7 digits,-4,,,
+Belarus,Bélarus,Belarús,375,810,8,9 to 10 digits,+2; +3,,,
+Belgium,Belgique,Bélgica,32,00,0,8 to 9 digits,+1; +2,"The '0' is used on all domestic calls, including in the same city, but is omitted when dialling  from other 
+	countries.","Le «0» est utilisé pour tous les appels nationaux, y compris les appels à l'intérieur d'une même ville, mais doit être omis lorsqu'on appelle  depuis un autre pays.","El «0» debe utilizarse en adas las llamadas nacionales, incluso dentro de una misma ciudad, pero se omite en las llamadas  desde otros países."
+Belize,Belize,Belice,501,00,…,7 digits,-6,,,
+Benin,Bénin,Benin,229,00,…,8 digits,+1,,,
+Bermuda,Bermudes,Bermudas,1,011,1,(441)+7 digits,-4; -3,,,
+Bhutan,Bhoutan,Bhután,975,00,…,7 to 8 digits,+6,,,
+Bolivia (Plurinational State of),Bolivie (État Plurinational de),Bolivia (Estado Plurinacional de),591,00,0,8 digits,-4,,,
+"Bonaire, Sint Eustatius and Saba","Bonaire, Saint Eustatius et Saba","Bonaire, San Eustatius y Saba",599,00,0,7 digits,-4,,,
+Bosnia and Herzegovina,Bosnie-Herzégovine,Bosnia y Herzegovina,387,00,0,8 digits,+1; +2,,,
+Botswana,Botswana,Botswana,267,00,…,7 to 8 digits,+2,,,
+Brazil,Brésil,Brasil,55,00,0,10 digits,-3; -2,Other states UTC-3 (no change).,Autres états UTC-3 (inchangé).,Otras estados UTC-3 (sin cambio).
+British Virgin Islands,Vierges britanniques (Iles),Vírgenes británicas (Islas),1,011,1,(284)+7 digits,-4,,,
+Brunei Darussalam,Brunéi Darussalam,Brunei Darussalam,673,00,…,7 digits,+8,,,
+Bulgaria,Bulgarie,Bulgaria,359,00,0,7 to 9 digits,+2; +3,"The '0' is used on all domestic calls, including in the same city, but is omitted when dialling  from other 
+	countries.","Le «0» est utilisé pour tous les appels nationaux, y compris les appels à l'intérieur d'une même ville, mais doit être omis lorsqu'on appelle  depuis un autre pays.","El «0» debe utilizarse en adas las llamadas nacionales, incluso dentro de una misma ciudad, pero se omite en las llamadas  desde otros países."
+Burkina Faso,Burkina Faso,Burkina Faso,226,00,…,8 digits,0,,,
+Burundi,Burundi,Burundi,257,00,…,8 digits,+2,,,
+Cambodia,Cambodge,Camboya,855,001; 007,0,8 digits,+7,,,
+Cameroon,Cameroun,Camerún,237,00,…,8 digits,+1,,,
+Canada,Canada,Canadá,1,011,1,10 digits,-5; -4,"Alberta UTC-7/DST-6; British Columbia UTC-8/DST-7; Manitoba UTC-6/DST-5; New Brunswick, Nova Scotia 
+	UTC-4/DST-3;Newfoundland UTC-3.30/DST-2.30; Ontario, Quebec UTC-5/DST-4.","Alberta UTC-7/DST-6; British Columbia UTC-8/DST-7; Manitoba UTC-6/DST-5; New Brunswick, Nova Scotia UTC-4/DST-3;Newfoundland UTC-3.30/DST-2.30; Ontario, Quebec UTC-5/DST-4.","Alberta UTC-7/DST-6; British Columbia UTC-8/DST-7; Maniaba UTC-6/DST-5; New Brunswick, Nova Scotia 
+ UTC-4/DST-3;Newfoundland UTC-3.30/DST-2.30; Ontario, Quebec UTC-5/DST-4.
+"
+Cape Verde,Cap-Vert,Cabo Verde,238,00,…,7 digits,-1,,,
+Cayman Islands,Cayman (Iles),Caimanes (Islas),1,011,1,(345)+7 digits,-5,,,
+Central African Rep.,Centrafricaine (Rép.),Centroafricana (Rep.),236,00,…,8 digits,+1,,,
+Chad,Tchad,Chad,235,00,…,8 digits,+1,,,
+Chile,Chili,Chile,56,1YZ0,1YZ,8 to 9 digits,-4; -3,YZ : long-distance operator code.,YZ : code de l'opérateur longue distance.,YZ : código de operador de larga distancia.
+China,Chine,China,86,00,0,5 to 12 digits,+8,,,
+Colombia,Colombie,Colombia,57,009; 007; 005,09; 07; 05,"8, 10 digits",-5,"The length of the national (significant) number N(S)N is 8 digits for geographic numbering and 10 digits for 
+	non-geographic numbering (networks and services)",La longueur du numéro national (significatif) N(S)N est de 8  chiffres pour la numérotation géographique et de 10 chiffres pour la numérotation non géographique (réseaux et services).,La longitud del número nacional (significativo) N(S)N es de 8 cifras para la numeración geográfica y de 10 cifras para la numeración no geográfica (redes y servicios).
+Comoros,Comores,Comoras,269,00,…,7 digits,+3,,,
+Congo,Congo,Congo,242,00,…,9 digits,+1,,,
+Cook Islands,Cook (Iles),Cook (Islas),682,00,…,5 digits,-10,,,
+Costa Rica,Costa Rica,Costa Rica,506,00,…,8 digits,-6,,,
+Côte d'Ivoire,Côte d'Ivoire,Côte d'Ivoire,225,00,…,8 digits,0,,,
+Croatia,Croatie,Croacia,385,00,0,8  to 12 digits,+1; +2,,,
+Cuba,Cuba,Cuba,53,119,0,6 to 8 digits,-5; -4,,,
+Curaçao,Curaçao,Curaçao,599,00,0,7 to 8 digits,-4,,,
+Cyprus,Chypre,Chipre,357,00,…,"8, 11 digits",+2; +3,11 digits for voice-mail services only.,11 chiffres uniquement pour la messagerie vocale.,11 cifras para correo vocal únicamente.
+Czech Rep.,Rép. tchèque,Rep. Checa,420,00,…,4 to 12 digits,+1; +2,,,
+Dem. People's Rep. of Korea,Rép. pop. dém. de Corée,Rep. Pop. Dem. de Corea,850,00,0,6 to 17 digits,+9,,,
+Dem. Rep. of the Congo,Rép. dém. du Congo,Rep. Dem. del Congo,243,00,0,5 to 9 digits,+1,,,
+Denmark,Danemark,Dinamarca,45,00,…,8 digits,+1; +2,,,
+Diego Garcia,Diego Garcia,Diego García,246,00,…,7 digits,+6,,,
+Djibouti,Djibouti,Djibouti,253,00,…,6 digits,+3,,,
+Dominica,Dominicaine (Rép.),Dominicana (Rep.),1,011,1,(767)+7 digits,-4,,,
+Dominican Rep.,Dominique,Dominica,1,011,1,(809/829)+7 digits,-4,,,
+Ecuador,Equateur,Ecuador,593,00,0,8 digits,-5,,,
+Egypt,Egypte,Egipa,20,00,0,7 to 9 digits,+2; +3,,,
+El Salvador,El Salvador,El Salvador,503,00,…,"7, 8, 11 digits",-6,"The seven and eleven digit schemes are solely for numbers that do not entail any  charge for the subscriber 
+	making the call (800) or for numbers that involve a surcharge for subscriber A (900). All other numbers have a
+	 fixed eight digit scheme.","Le format de numérotation à sept ou à onze chiffres n'est valable que pour certains numéros libre-appel qui commencent par 800, ou pour certains numéros 900 surtaxés pour l'abonné A. Dans tous les autres cas, le format de numérotation est de huit chiffres.",Los esquemas de numeración de siete y once cifras están destinados únicamente para números que no implican una tasa al abonado que hace la llamada 800 y para números que implican una sobretasa al abonado A (900). Ados los demás números tienen un esquema de numeración fijo de ocho cifras.
+Equatorial Guinea,Guinée équatoriale,Guinea Ecuaarial,240,00,…,9 digits,+1,,,
+Eritrea,Erythrée,Eritrea,291,00,0,7 digits,+3,,,
+Estonia,Estonie,Esania,372,00,…,7 to 10 digits,+2; +3,,,
+Ethiopia,Ethiopie,Etiopía,251,00,0,9 digits,+3,,,
+Falkland Islands (Malvinas),Falkland (Iles) (Malvinas),Malvinas (Islas) (Falkland),500,00,…,5 digits,-4; -3,,,
+Faroe Islands,Féroé (Iles),Feroe (Islas),298,00,…,6 digits,0; +1,,,
+Fiji,Fidji,Fiji,679,00,…,7 digits,+12; +13,,,
+Finland,Finlande,Finlandia,358,00; 99X,0,5 to 12 digits,+2; +3,,,
+France,France,Francia,33,00,0,9 digits,+1; +2,"The '0' is used on all domestic calls, including in the same city, but is omitted when dialling  from other 
+	countries.","Le «0» est utilisé pour tous les appels nationaux, y compris les appels à l'intérieur d'une même ville, mais doit être omis lorsqu'on appelle  depuis un autre pays.","El «0» debe utilizarse en adas las llamadas nacionales, incluso dentro de una misma ciudad, pero se omite en las llamadas  desde otros países."
+French Departments and Territories in the Indian Ocean,France de l'Océan indien,Departamenas y terriarios franceses del Océano Indico,262,00,…,9 digits,+3,,,
+French Guiana,Guyane française,Guayana francesa,594,00,…,9 digits,-3,,,
+French Polynesia,Polynésie française,Polinesia francesa,689,00,…,6 digits,-10,,,
+Gabon,Gabon,Gabón,241,00,…,"6, 7 digits",+1,,,
+Gambia,Gambie,Gambia,220,00,…,7 digits,0,,,
+Georgia,Géorgie,Georgia,995,00,0,9 digits,+4,,,
+Germany,Allemagne,Alemania,49,00,0,6 to 13 digits,+1; +2,,,
+Ghana,Ghana,Ghana,233,00,0,5 to 9 digits,0,,,
+Gibraltar,Gibraltar,Gibraltar,350,00,…,8 digits,+1; +2,,,
+"Global Mobile Satellite System (GMSS), shared code","Service mobile mondial par satellite (GMSS), indicatif partagé","Sistema móvil mundial por satelite (GMSS), indicativo compartido",881,,,,,,,
+Greece,Grèce,Grecia,30,00,0,10 digits,+2; +3,"The '0' is used on all domestic calls, including in the same city, but is omitted when dialling  from other 
+	countries.","Le «0» est utilisé pour tous les appels nationaux, y compris les appels à l'intérieur d'une même ville, mais doit être omis lorsqu'on appelle  depuis un autre pays.","El «0» debe utilizarse en adas las llamadas nacionales, incluso dentro de una misma ciudad, pero se omite en las llamadas  desde otros países."
+Greenland,Groenland,Groenlandia,299,00,…,6 digits,-3; -2,,,
+Grenada,Grenade,Granada,1,11,1,(473)+7 digits,-4,,,
+"Group of countries, shared code","Groupe de pays, indicatif partagé","Grupo de países, indicativo compartido",388,,,,,,,
+Guadeloupe,Guadeloupe,Guadalupe,590,00,…,9 digits,-4,,,
+Guam,Guam,Guam,1,11,1,(671)+7 digits,+10,,,
+Guatemala,Guatemala,Guatemala,502,00,…,8 digits,-6,,,
+Guinea,Guinée,Guinea,224,00,…,8 digits,0,,,
+Guinea-Bissau,Guinée-Bissau,Guinea-Bissau,245,00,…,7 digits,0,,,
+Guyana,Guyana,Guyana,592,001,…,7 digits,-4,,,
+Haiti,Haïti,Haití,509,00,…,8 digits,-5,,,
+Honduras,Honduras,Honduras,504,00,…,8 digits,-6,,,
+"Hong Kong, China","Hong Kong, Chine","Hong Kong, China",852,001,…,"4, 8 to 9 digits",+8,,,
+Hungary,Hongrie,Hungría,36,00,06,8 to 9 digits,+1; +2,"Subscriber numbers on PSTN and analogue mobile network consist of 8 digits and those on the mobile 
+	network consist of 9 digits.","Les numéros d'abonné au RTPC et au réseau mobile analogique comportent 8 chiffres, ceux au réseau mobile 9 chiffres.",Los números de abonado en la RTPC y la red móvil analógica constan de 8 cifras y los de la red móvil de 9 cifras.
+Iceland,Islande,Islandia,354,00,…,"7, 9 digits",0,,,
+India,Inde,India,91,00,0,7 to 10 digits,+5.30,,,
+Indonesia,Indonésie,Indonesia,62,001; 008,0,5 to 10 digits,+7,"Western Indonesia including Sumatra, Java, Madura and Bali UTC+7; Central Indonesia including 
+	Kalimantan (Borneo), Sulawesi (Celebes) and Nusatengarra (Lesser Sunda) UTC+8; Eastern Indonesia 
+	including Maluku (Moluccas) and Irianjaya (Irian) UTC+9.","Western Indonesia y compris Sumatra, Java, Madura et Bali UTC+7; Central Indonesia y compris Kalimantan (Borneo), Sulawesi (Celebes) y Nusatengarra (Lesser Sunda) UTC+8; Eastern Indonesia y compris Maluku (Moluccas) et Irianjaya (Irian) UTC+9.","Western Indonesia comprendido Sumatra, Java, Madura y Bali UTC+7; Central Indonesia comprendido Kalimantan (Borneo), Sulawesi (Celebes) y Nusatengarra (Lesser Sunda) UTC+8; Eastern Indonesia comprendido Maluku (Moluccas) y Irianjaya (Irian) UTC+9."
+Inmarsat SNAC,Inmarsat SNAC,Inmarsat SNAC,870,00,…,9 digits,,,,
+International Freephone Service,Libre-appel international,Llamada gratuita internacional,800,…,…,8 digits,,,,
+"International Networks, shared code","Réseaux internationaux, indicatif partagé","Redes internacionales, indicativo compartido",882,,,,,,,
+"International Networks, shared code","Réseaux internationaux, indicatif partagé","Redes internacionales, indicativo compartido",883,,,,,,,
+International Premium Rate Service (IPRS),Service kiosque international (IPRS),Servicio internacional con recargo (IPRS),979,…,…,9 digits,,,,
+International Shared Cost Service (ISCS),Service de coût partagé international (ISCS),Servicio internacional de pago compartido (ISCS),808,…,…,8 digits,,,,
+Iran (Islamic Republic of),Iran (République islamique d'),Irán (República Islámica del),98,00,0,6 to 10 digits,+3.30; +4.30,,,
+Iraq,Iraq,Iraq,964,00,0,8 to 10 digits,+3,,,
+Ireland,Irlande,Irlanda,353,00,0,7 to 11 digits,0; +1,"When dialling from Ireland to Northern Ireland, the area code used should be  '048' instead of '0044 28'.",En appelant d'Irlande du Nord depuis l'Irlande  l'indicatif interurbain a être utilisé est «048» au lieu de «0044 28».,"Para llamar de Irlanda a Irlanda del Norte, el indicativo interurbano utilizado es  «048» en lugar de «0044 28»."
+Israel,Israël,Israel,972,00; 012; 013; 014,0,8 to 9 digits,+2; +3,,,
+Italy,Italie,Italia,39,00,…,up to 11 digits,+1; +2,"When dialling from Italy to San Marino, the subscriber number must be prefixed by '0549' instead of '00378'. 
+	When dialling from San Marino to Italy, the complete national subscriber number must be used, without 
+	prefixing the number by  '0039'.","En appelant Saint-Marin depuis l'Italie, faire précéder le numéro d'abonné du préfixe «0549» au lieu de «00378». En appelant l'Italie depuis Saint-Marin, composer le numéro d'abonné national en entier sans le faire précéder du préfixe  «0039».","Para llamar de Italia a San Marino se debe marcar el prefijo «0549», en lugar de «00378», antes del número de abonado. Para llamar de San Marino a Italia se debe marcar el número de abonado nacional complea, sin precederlo del prefijo «0039»."
+Jamaica,Jamaïque,Jamaica,1,011,1,(876)+7 digits,-5,,,
+Japan,Japon,Japón,81,010,0,5 to 13 digits,+9,,,
+Jordan,Jordanie,Jordania,962,00,0,5 to 9 digits,+2; +3,,,
+Kazakhstan,Kazakhstan,Kazajstán,7,810,8,10 digits,+6,,,
+Kenya,Kenya,Kenya,254,000,0,6 to 10 digits,+3,"When dialling between Kenya, Tanzania and Uganda the national (significant) number must be prefixed by 
+	005 for Kenya, by 006 for Uganda and by 007 for Tanzania.","En appelant le kenya, l'Ouganda et la Tanzanie faire précéder le numéro national (significatif) du préfixe 005 pour le Kenya, du préfixe 006 pour l'Ouganda et du préfixe 007 pour la Tanzanie.","Para llamar  Kenya, Tanzania y Uganda se debe marcar a Kenya el prefijo 005  , a Uganda el prefijo 006 y a Tanzania el prefijo 007 antes del número nacional (significativo)."
+Kiribati,Kiribati,Kiribati,686,00,…,5 digits,+12,,,
+Korea (Rep. of),Corée (Rép. de),Corea (Rep. de),82,1002,0; 082,8 to 11 digits,+9,,,
+Kuwait,Koweït,Kuwait,965,00,…,"7, 8 digits",+3,,,
+Kyrgyzstan,Kirghizistan,Kirguistán,996,00,0,9 digits,+6,,,
+Lao P.D.R.,Lao (R.d.p.),Lao (R.D.P.),856,00,0,8 to 10 digits,+7,,,
+Latvia,Lettonie,Letonia,371,00,…,"7, 8 digits",+2; +3,,,
+Lebanon,Liban,Líbano,961,00,0,7 to 8 digits,+2; +3,,,
+Lesotho,Lesotho,Lesotho,266,00,…,8 digits,+2,,,
+Liberia,Libéria,Liberia,231,00,…,7 to 8 digits,0,,,
+Libya,Libye,Libia,218,00,0,8 to 9 digits,+2,,,
+Liechtenstein,Liechtenstein,Liechtenstein,423,00,…,7 to 9 digits,+1; +2,,,
+Lithuania,Lituanie,Lituania,370,00,0,8 digits,+2; +3,,,
+Luxembourg,Luxembourg,Luxemburgo,352,00,…,4 to 11 digits,+1; +2,,,
+"Macao, China","Macao, Chine","Macao, China",853,00,…,7 to 8 digits,+8,,,
+Madagascar,Madagascar,Madagascar,261,00,…,9 to 10  digits,+3,,,
+Malawi,Malaisie,Malasia,265,00,…,"7, 8 digits",+2,,,
+Malaysia,Malawi,Malawi,60,00,0,7 to 9 digits,+8,"When dialling from Singapore to Malaysia, the area code and subscriber number must be prefixed by '020' 
+	instead of '00160'. When dialling from Malaysia to Singapore, the subscriber number must be prefixed by '02'
+	 instead of '0065'.","En appelant la Malaisie depuis Singapour, faire précéder l'indicatif interurbain et le numéro d'abonné du préfixe «020» au lieu de «00160». En appelant Singapour depuis la Malaisie, faire précéder le numéro d'abonné du préfixe «02» au lieu de «0065».","Para llamar de Singapur a Malasia se debe marcar el prefijo «020», en lugar de «00160», antes del indicativo interurbano y el número de abonado. Para llamar de Malasia a Singapur se debe marcar el prefijo «02», en lugar de «0065», antes del número de abonado."
+Maldives,Maldives,Maldivas,960,00,…,7 digits,+5,,,
+Mali,Mali,Malí,223,00,…,8 digits,0,,,
+Malta,Malte,Malta,356,00,…,8 digits,+1; +2,,,
+Marshall Islands,Marshall (Iles),Marshall (Islas),692,011,1,7 digits,+12,,,
+Martinique,Martinique,Martinica,596,00,…,9 digits,-4,,,
+Mauritania,Mauritanie,Mauritania,222,00,…,7 digits,0,,,
+Mauritius,Maurice,Mauricio,230,00,…,7 digits,+4,"Carrier pre-selection has been introduced in Mauritius since 1 January 2005.  The international prefix “00” 
+	may be used only by those subscribers who have pre-selected an International Long Distance (ILD) carrier.  
+	For subscribers who have not pre-selected any carrier, their international calls made using the prefix “00” are
+	 not allowed through.All subscribers may however select the ILD carrier of their choice on a Call-by-Call 
+	basis by using the carrier prefix assigned to the selected carrier, by the ICTA (ILD Carrier Prefix: 020, 022, 
+	030, 033, 040, 050, 060, 070).","La présélection de l’opérateur est en place à Maurice depuis le 1er janvier 2005. Le préfixe international «00» ne peut être utilisé que par les abonnés ayant présélectionné un opérateur international longue distance. Les abonnés n’ayant pas présélectionné d’opérateur ne sont pas autorisés à effectuer d’appels internationaux en utilisant le préfixe «00».Tous les abonnés peuvent cependant sélectionner l’opérateur international longue distance (ILD) de leur choix, pour chaque appel, en utilisant le préfixe d’opérateur attribué à l’opérateur sélectionné par l’autorité chargée de l’ICTA (préfixe d’opérateur international longue distance (ILD)): 020, 022, 030, 033, 040, 050, 060, 070).","Desde el 10 de enero de 2005 se ha introducido en Mauricio el servicio de preselección de operador. El prefijo internacional «00» puede ser usado sólo por los abonados que hayan preseleccionado un operador de  larga distancia internacional (ILD – International Long Distance). Se rechazarán las llamadas  internacionales de los abonados que no hayan preseleccionado ningún operador y que utilicen el prefijo «00».No obstante, ados los abonados podrán seleccionar el operador de ILD que deseen sobre una base de llamadas individuales, empleando el prefijo asignado por la ICTA al operador elegido (prefijos de operador de ILD: 020, 022, 030, 033, 040, 050, 060, 070)."
+Mexico,Mexique,México,52,00,01,10 digits,-6; -5,"Baja California Norte UTC-8/DST-7; Baja California Sur, Chihuahua, Nayarit UTC-7/DST-6.","Baja California Norte UTC-8/DST-7; Baja California Sur, Chihuahua, Nayarit UTC-7/DST-6.","Baja California Norte UTC-8/DST-7; Baja California Sur, Chihuahua, Nayarit UTC-7/DST-6."
+Micronesia,Micronésie,Micronesia,691,011,1,7 digits,+11,,,
+Moldova (Republic of),Moldova (République de),Moldova (República de),373,00,0,8 digits,+2; +3,,,
+Monaco,Monaco,Mónaco,377,00,…,5 to 9 digits,+1; +2,,,
+Mongolia,Mongolie,Mongolia,976,001,0,7 to 8 digits,+8,,,
+Montenegro,Monténégro,Montenegro,382,00,0,4 to 12 digits,+1; +2,,,
+Montserrat,Montserrat,Montserrat,1,011,1,(664)+7 digits,-4,,,
+Morocco,Maroc,Marruecos,212,0,0,9 digits,0,"The '0' is used on all domestic calls, including in the same city, but is omitted when dialling  from other 
+	countries.","Le «0» est utilisé pour tous les appels nationaux, y compris les appels à l'intérieur d'une même ville, mais doit être omis lorsqu'on appelle  depuis un autre pays.","El «0» debe utilizarse en adas las llamadas nacionales, incluso dentro de una misma ciudad, pero se omite en las llamadas  desde otros países."
+Mozambique,Mozambique,Mozambique,258,00,…,8 to 9 digits,+2,,,
+Myanmar,Myanmar,Myanmar,95,00,0,7 to 9 digits,+6.30,,,
+Namibia,Namibie,Namibia,264,00,0,6 to 10 digits,+1; +2,,,
+Nauru,Nauru,Nauru,674,00,…,"4, 7 digits",+12,,,
+Nepal,Népal,Nepal,977,00,0,8 to 9 digits,+5.45,,,
+Netherlands,Pays-Bas,Países Bajos,31,00,0,9 digits,+1; +2,,,
+New Caledonia,Nouvelle-Calédonie,Nueva Caledonia,687,00,…,6 digits,+11,,,
+New Zealand,Nouvelle-Zélande,Nueva Zelandia,64,00,0,3 to 10 digits,+12; +13,,,
+Nicaragua,Nicaragua,Nicaragua,505,00,…,8 digits,-6,,,
+Niger,Niger,Níger,227,00,…,8 digits,+1,,,
+Nigeria,Nigéria,Nigeria,234,009,0,7 to 10 digits,+1,,,
+Niue,Niue,Niue,683,00,…,4 digits,-11,,,
+Northern Marianas,Mariannes du Nord,Marianas del Norte,1,011,1,(670)+7 digits,+10,,,
+Norway,Norvège,Noruega,47,00,…,"5, 8 digits",+1; +2,,,
+Oman,Oman,Omán,968,00,…,7 to 8 digits,+4,,,
+Pakistan,Pakistan,Pakistán,92,00,0,8 to 11 digits,+5,,,
+Palau,Palau,Palau,680,011,…,7 digits,+9,,,
+Panama,Panama,Panamá,507,00,…,"7, 8 digits",-5,Seven digits for the fixed network and eight digits for the mobile network.,Sept chiffres pour le réseau fixe et huit chiffres pour le réseau mobile.,Siete cifras para la red fija y ocho cifras para la red móvil.
+Papua New Guinea,Papouasie-Nouvelle-Guinée,Papua Nueva Guinea,675,00,…,4 to 11 digits,+10,,,
+Paraguay,Paraguay,Paraguay,595,00,0,5 to 9 digits,-4; -3,,,
+Peru,Pérou,Perú,51,00,0,8 to 11 digits,-5,,,
+Philippines,Philippines,Filipinas,63,00,0,8 to 10 digits,+8,,,
+Poland,Pologne,Polonia,48,00,0,6 to 9 digits,+1; +2,,,
+Portugal,Portugal,Portugal,351,00,…,"9, 11 digits",0; +1,,,
+Puerto Rico,Puerto Rico,Puerto Rico,1,011,1,(787/939)+7 digits,-4,,,
+Qatar,Qatar,Qatar,974,00,…,3 to 8 digits,+3,,,
+Romania,Roumanie,Rumania,40,00,0,9 digits,+2; +3,,,
+Russian Federation,Fédération de Russie,Federación de Rusia,7,810,8,10 digits,+4,"Kaliningrad UTC +2/DST+3; Moscow, St. Petersburg, Astrakhan, Izhevsk, Samara UTC+3/DST+4; Perm, 
+	Nizhnevartovsk UTC+5/DST+6; Novosibirsk, Omsk UTC+6/DST+7; Norilsk, Kyzyl UTC+7/DST+8; Bratsk, 
+	Ulan-Ude UTC+8/DST+9; Chita, Yakutsk UTC+9/DST+10; Khabarovsk, Vladivostok, Yuzhno-Sakhalinsk 
+	UTC+10/DST+11; Magadan, Kamchatka UTC+11/DST+12.","Kaliningrad UTC +2/DST+3; Moscow, St. Petersburg, Astrakhan, Izhevsk, Samara UTC+3/DST+4; Perm, Nizhnevartovsk UTC+5/DST+6; Novosibirsk, Omsk UTC+6/DST+7; Norilsk, Kyzyl UTC+7/DST+8; Bratsk, Ulan-Ude UTC+8/DST+9; Chita, Yakutsk UTC+9/DST+10; Khabarovsk, Vladivostok, Yuzhno-Sakhalinsk UTC+10/DST+11; Magadan, Kamchatka UTC+11/DST+12.","Kaliningrad UTC +2/DST+3; Moscow, St. Petersburg, Astrakhan, Izhevsk, Samara UTC+3/DST+4; Perm, Nizhnevaravsk UTC+5/DST+6; Novosibirsk, Omsk UTC+6/DST+7; Norilsk, Kyzyl UTC+7/DST+8; Bratsk, Ulan-Ude UTC+8DST+9; Chita, Yakutsk UTC+9/DST+10; Khabarovsk, Vladivosak, Yuzhno-Sakhalinsk UTC+10/DST+11; Magadan, Kamchatka UTC+11/DST+12."
+Rwanda,Rwanda,Rwanda,250,00,…,9 digits,+2,,,
+"Saint Helena, Ascension and Tristan da Cunha","Sainte-Hélène, Ascension et Tristan da Cunha","Santa Elena, Ascension y Tristan da Cunha",247,00,…,4 digits,0,,,
+"Saint Helena, Ascension and Tristan da Cunha","Sainte-Hélène, Ascension et Tristan da Cunha","Santa Elena, Ascension y Tristan da Cunha",290,00,…,4 digits,0,"Country code 247 Ascension and country code 290 Saint Helena and Tristan da Cunha. Numbers 
+		commencing with the initial digit 8 will be assigned to Tristan da Cunha, whilst national numbers 
+	commencing with the initial digits 1, 2, 3, 4, 5, 6, 7 and 9 will remain assigned to Saint Helena.","Indicatif de pays 247 Ascension et indicatif de pays 290 Sainte Hélène et Tristan da Cunha. Les numéros nationaux à quatre chiffres commençant par le chiffre «8» seront attribués à Tristan da Cunha alors que les numéros nationaux commençant par les chiffres «1, 2, 3, 4, 5, 6, 7 et 9» resteront attribués à Sainte-","Indicativo de país 247 Ascensión y indicativo de país 290 Santa Elena y Tristán da Cunha. Los números de cuatro cifras que comienzan por la cifra 8 se atribuirán a Tristán da Cunha, mientras que aquéllos que empiezan por las cifras 1, 2, 3, 4, 5, 6, 7 y 9 seguirán siendo atribuidos a Santa Elena."
+Saint Kitts and Nevis,Saint-Kitts-et-Nevis,San Kitts y Nevis,1,011,1,(869)+7 digits,-4,,,
+Saint Lucia,Sainte-Lucie,Santa Lucía,1,011,1,(758)+7 digits,-4,,,
+Saint Pierre and Miquelon,Saint-Pierre-et-Miquelon,San Pedro y Miquelón,508,00,…,6 digits,-3; -2,,,
+Saint Vincent and the Grenadines,Saint-Vincent-et-Grenadines,San Vicente y las Granadinas,1,011,1,(784)+7 digits,-4,,,
+Samoa,Samoa américaines,Samoa,685,00,…,3 to 7 digits,-11; -10,,,
+San Marino,Saint-Marin,San Marino,378,00,…,6 to 10 digits,+1; +2,"When dialling from Italy to San Marino, the subscriber number must be prefixed by '0549' instead of '00378'. 
+	When dialling from San Marino to Italy, the complete national subscriber number must be used, without 
+	prefixing the number by  '0039'.","En appelant Saint-Marin depuis l'Italie, faire précéder le numéro d'abonné du préfixe «0549» au lieu de «00378». En appelant l'Italie depuis Saint-Marin, composer le numéro d'abonné national en entier sans le faire précéder du préfixe  «0039».","Para llamar de Italia a San Marino se debe marcar el prefijo «0549», en lugar de «00378», antes del número de abonado. Para llamar de San Marino a Italia se debe marcar el número de abonado nacional complea, sin precederlo del prefijo «0039»."
+Sao Tome and Principe,Sao Tomé-et-Principe,Santo Tomé y Príncipe,239,00,…,7 digits,0,,,
+Saudi Arabia,Arabie saoudite,Arabia Saudita,966,00,0,8 to 9 digits,+3,,,
+Senegal,Sénégal,Senegal,221,00,…,9 digits,0,,,
+Serbia,Serbie,Serbia,381,00,0,4 to 12 digits,+1; +2,,,
+Seychelles,Seychelles,Seychelles,248,00,…,7 digits,+4,,,
+Sierra Leone,Sierra Leone,Sierra Leona,232,00,0,8 digits,0,,,
+Singapore,Singapour,Singapur,65,1008,…,8 to 12 digits,+8,"When dialling from Singapore to Malaysia, the area code and subscriber number must be prefixed by '020' 
+	instead of '00160'. When dialling from Malaysia to Singapore, the subscriber number must be prefixed by '02'
+	 instead of '0065'.","En appelant la Malaisie depuis Singapour, faire précéder l'indicatif interurbain et le numéro d'abonné du préfixe «020» au lieu de «00160». En appelant Singapour depuis la Malaisie, faire précéder le numéro d'abonné du préfixe «02» au lieu de «0065».","Para llamar de Singapur a Malasia se debe marcar el prefijo «020», en lugar de «00160», antes del indicativo interurbano y el número de abonado. Para llamar de Malasia a Singapur se debe marcar el prefijo «02», en lugar de «0065», antes del número de abonado."
+Sint Maarten (Dutch part),Sint Maarten  (partie neérlandaise),Sint Maarten  (parte neerlandesas),1,001; 008,1,(721) + 7 digits,-4,,,
+Slovakia,Slovaquie,Eslovaquia,421,00,0,4 to 9 digits,+1; +2,,,
+Slovenia,Slovénie,Eslovenia,386,00,0,8 digits,+1; +2,,,
+Solomon Islands,Salomon (Iles),Salomón (Islas),677,00,…,5 digits,+11,,,
+Somalia,Somalie,Somalia,252,00,…,5 to 8 digits,+3,,,
+South Africa,Sudafricaine (Rép.),Sudafricana (Rep.),27,00,0,9 digits,+2,"The '0' is used on all domestic calls, including in the same city, but is omitted when dialling  from other 
+	countries.","Le «0» est utilisé pour tous les appels nationaux, y compris les appels à l'intérieur d'une même ville, mais doit être omis lorsqu'on appelle  depuis un autre pays.","El «0» debe utilizarse en adas las llamadas nacionales, incluso dentro de una misma ciudad, pero se omite en las llamadas  desde otros países."
+South Sudan,Soudan du Sud,Sudán del Sur,211,00,0,,+3,,,
+Spain,Espagne,España,34,00,…,9 digits,+1; +2,,,
+Sri Lanka,Sri Lanka,Sri Lanka,94,00,0,9 digits,+5.30,,,
+Sudan,Soudan,Sudán,249,00,0,9 digits,+3,,,
+Suriname,Suriname,Suriname,597,00,0,6 to 7 digits,-3,,,
+Swaziland,Swaziland,Swazilandia,268,00,…,7 to 8 digits,+2,,,
+Sweden,Suède,Suecia,46,00,0,7 to 13 digits,+1; +2,,,
+Switzerland,Suisse,Suiza,41,00,0,4 to 12 digits,+1; +2,"The '0' is used on all domestic calls, including in the same city, but is omitted when dialling  from other 
+	countries.","Le «0» est utilisé pour tous les appels nationaux, y compris les appels à l'intérieur d'une même ville, mais doit être omis lorsqu'on appelle  depuis un autre pays.","El «0» debe utilizarse en adas las llamadas nacionales, incluso dentro de una misma ciudad, pero se omite en las llamadas  desde otros países."
+Syrian Arab Republic,République arabe syrienne,República Árabe Siria,963,00,0,8 to 10 digits,+2; +3,,,
+"Taiwan, China","Taiwan, Chine","Taiwán, China",886,002,0,8 to 9 digits,+8,,,
+Tajikistan,Tadjikistan,Tayikistán,992,810,8,9 digits,+5,,,
+Tanzania,Tanzanie,Tanzanía,255,00,0,9 digits,+3,"When dialling between Kenya, Tanzania and Uganda the national (significant) number must be prefixed by 
+	005 for Kenya, by 006 for Uganda and by 007 for Tanzania.","En appelant le kenya, l'Ouganda et la Tanzanie faire précéder le numéro national (significatif) du préfixe 005 pour le Kenya, du préfixe 006 pour l'Ouganda et du préfixe 007 pour la Tanzanie.","Para llamar  Kenya, Tanzania y Uganda se debe marcar a Kenya el prefijo 005  , a Uganda el prefijo 006 y a Tanzania el prefijo 007 antes del número nacional (significativo)."
+Telecommunications for Disaster Relief (TDR),Télécommunications pour les opérations de secours (TDR),Telecomunicaciones de Socorro en caso de catástrofe(TDR),888,,,,,,,
+Thailand,Thaïlande,Tailandia,66,001,0,"8, 9 digits",+7,"The '0' is used on all domestic calls, including in the same city, but is omitted when dialling  from other 
+	countries.","Le «0» est utilisé pour tous les appels nationaux, y compris les appels à l'intérieur d'une même ville, mais doit être omis lorsqu'on appelle  depuis un autre pays.","El «0» debe utilizarse en adas las llamadas nacionales, incluso dentro de una misma ciudad, pero se omite en las llamadas  desde otros países."
+The Former Yugoslav Republic of Macedonia,L'ex-République yougoslave de Macédoine,La ex República Yugoslava de Macedonia,389,00,0,8 digits,+1; +2,,,
+Timor-Leste,Timor-Leste,Timor-Leste,670,00,…,7 digits,+9,,,
+Togo,Togo,Togo,228,00,…,8 digits,0,,,
+Tokelau,Tokélau,Tokelau,690,00,…,4 digits,-10,,,
+Tonga,Tonga,Tonga,676,00,…,"5, 7 digits",+13,,,
+"Trial of a proposed new international service, shared code","Essai d'un nouveau service international proposé, indicatif partagé","Ensayo de un nuevo servicio internacional, indicativo compartido",991,,,,,,,
+Trinidad and Tobago,Trinité-et-Tobago,Trinidad y Tobago,1,011,1,(868)+7 digits,-4,,,
+Tunisia,Tunisie,Túnez,216,00,…,8 digits,+1,,,
+Turkey,Turquie,Turquía,90,00,0,10 digits,+2; +3,,,
+Turkmenistan,Turkménistan,Turkmenistán,993,810,8,8 digits,+5,,,
+Turks and Caicos Islands,Turks et Caicos (Iles),Turquesas y Caicos (Islas),1,00,1,(649)+7 digits,-5; -4,,,
+Tuvalu,Tuvalu,Tuvalu,688,00,…,"5, 6 digits",+12,,,
+Uganda,Ouganda,Uganda,256,00,0,9 digits,+3,"When dialling between Kenya, Tanzania and Uganda the national (significant) number must be prefixed by 
+	005 for Kenya, by 006 for Uganda and by 007 for Tanzania.","En appelant le kenya, l'Ouganda et la Tanzanie faire précéder le numéro national (significatif) du préfixe 005 pour le Kenya, du préfixe 006 pour l'Ouganda et du préfixe 007 pour la Tanzanie.","Para llamar  Kenya, Tanzania y Uganda se debe marcar a Kenya el prefijo 005  , a Uganda el prefijo 006 y a Tanzania el prefijo 007 antes del número nacional (significativo)."
+Ukraine,Ukraine,Ucrania,380,00,0,9 digits,+2; +3,,,
+United Arab Emirates,Emirats arabes unis,Emiraas Árabes Unidos,971,00,0,8 to 9 digits,+4,,,
+United Kingdom,Royaume-Uni,Reino Unido,44,00,0,7 to 10 digits,0; +1,,,
+United States,Etats-Unis,Estados Unidos,1,011,1,10 digits,-5; -4,"Eastern Time UTC-5/DST-4; Central Time UTC-6/DST-5; Mountain Time UTC-7; Pacific Time UTC-8/DST-7; 
+	Alaska UTC-9/DST-8; Hawaiian UTC-10.",Eastern Time UTC-5/DST-4; Central Time UTC-6/DST-5; Mountain Time UTC-7; Pacific Time UTC-8/DST-7; Alaska UTC-9/DST-8; Hawaiian UTC-10.,Eastern Time UTC-5/DST-4; Central Time UTC-6/DST-5; Mountain Time UTC-7; Pacific Time UTC-8/DST-7; Alaska UTC-9/DST-8; Hawaiian UTC-10.
+United States Virgin Islands,Vierges américaines (Iles),Vírgenes americanas (Islas),1,011,1,(340)+7 digits,-4,,,
+Universal Personal Telecommunication (UPT),Télécommunications universelles personelles (UPT),Telecomunicación personal universal (UPT),878,,,,,,,
+Uruguay,Uruguay,Uruguay,598,00,0,4 to 11 digits,-3; -2,,,
+Uzbekistan,Ouzbékistan,Uzbekistán,998,810,8,9 digits,+5,,,
+Vanuatu,Vanuatu,Vanuatu,678,00,…,"5, 7 digits",+11,,,
+Vatican,Vatican,Vaticano,379,…,,,,The country code listed is for future use (Vatican is currently using country code '39').,L'indicatif de pays mentionné est pour une utilisation ultérieure (le Vatican utilise actuellement l'indicatif de pays «39»).,El indicativo de país mencionado se utilizará en el futuro (el Vaticano utiliza ahora el indicativo de país «39»).
+Vatican,Vatican,Vaticano,39,00,…,up to 11 digits,+1; +2,,,
+Venezuela (Bolivarian Republic of),Venezuela (République bolivarienne du),Venezuela (República Bolivariana de),58,00,0,10 digits,-4.30,,,
+Viet Nam,Viet Nam,Viet Nam,84,00,0,7 to 10 digits,+7,,,
+Wallis and Futuna,Wallis-et-Futuna,Wallis y Futuna,681,00,…,6 digits,+12,,,
+Yemen,Yémen,Yemen,967,00,0,6 to 9 digits,+3,,,
+Zambia,Zambie,Zambia,260,00,0,9 digits,+2,,,
+Zimbabwe,Zimbabwe,Zimbabwe,263,00,0,5 to 10 digits,+2,,,
+Reserved,Réservé,Reservado,970,,,,,Reserved for the Palestinian Authority.,Réservé pour l’Autorité palestinienne.,Reservado para la Auaridad Palestina.

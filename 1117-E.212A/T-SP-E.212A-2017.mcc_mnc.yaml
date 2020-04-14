@@ -1,0 +1,231 @@
+---
+metadata:
+  title:
+    en: Associated with shared mobile country code 901, the following two-digit mobile
+      network codes (MNC) have been reserved for or assigned to the international
+      mobile networks
+    fr: 'Associés à l’indicatif de pays du mobile (MCC) 901 attribué en partage, les
+      codes de réseau mobile (MNC) à deux chiffres ci-après, ont été réservés pour
+      les réseaux du système mobile ou attribués à ces réseaux:'
+    es: Asociados con el indicativo de país para el servicio movíl (MCC) 901 compartido,
+      los siguientes indicativos de red para el sevicio movíl (MNC) de dos cifras
+      han sido reservados para las redes del sistema movíl internacional o asignados
+      a las mismas
+    ru: 'Следующий двузначный код сети подвижной связи (MNC), связанный с общим кодом
+      страны в системе подвижной связи 901, зарезервирован для международных сетей
+      подвижной связи или присвоен международным сетям подвижной связи:'
+    zh: 配合共用的移动国家代码901，以下两位移动网络代码（MNC）以留用或指配给国际移动网络：
+    ar: جرى حجز أو تخصيص رمز الشبكة المتنقلة (MNC) التالي المكون من رقمين والمرتبط
+      بالرمز الدليلي القُطري المشترك 901 للشبكات المتنقلة الدولية
+  locale:
+    network:
+      en: Network
+      fr: Réseau
+      es: Red
+      ru: Сеть
+      zh: 网络
+      ar: الشبكة
+    mcc_mnc:
+      en: Mobile Country code (MCC) and Mobile Network code (MNC)
+      fr: Indicatif de pays du mobile (MCC) et Code de réseau mobile (MNC
+      es: Indicativo de país para el servicio movíl (MCC) e Indicativo de red para
+        el servicio movíl (MNC)
+      ru: Код страны в системе подвижной связи (MCC) и код сети подвижной связи (MNC)
+      zh: 移动国家代码（MCC）和 移动网络代码（MNC）
+      ar: "الرمز الدليلي القُطري للاتصالات المتنقلة (MCC) \nوالرمز الدليلي للشبكة
+        المتنقلة (MNC)"
+    status:
+      en: Status
+      fr: Situation
+      es: Situación
+      ru: Статус
+      zh: 状态
+      ar: الوضع
+    assigned:
+      en: Assigned
+      fr: Attribué
+      es: Asignado
+      ru: Присвоен
+      zh: 已指配
+      ar: مخصص
+data:
+  901 03:
+    mcc_mnc: 901 03
+    network: Iridium Communications Inc
+    status: assigned
+  901 05:
+    mcc_mnc: 901 05
+    network: Thuraya RMSS Network
+    status: assigned
+  901 06:
+    mcc_mnc: 901 06
+    network: Thuraya Satellite Telecommunications Company
+    status: assigned
+  901 11:
+    mcc_mnc: 901 11
+    network: Inmarsat Ltd.
+    status: assigned
+  901 12:
+    mcc_mnc: 901 12
+    network: Maritime Communications Partner AS (MCP network)
+    status: assigned
+  901 13:
+    mcc_mnc: 901 13
+    network: BebbiCell AG
+    status: assigned
+    former_name: Global Networks Switzerland AG
+  901 14:
+    mcc_mnc: 901 14
+    network: AeroMobile AS
+    status: assigned
+  901 15:
+    mcc_mnc: 901 15
+    network: OnAir N.V. (Formerly SITA on behalf of Onair)
+    status: assigned
+  901 16:
+    mcc_mnc: 901 16
+    network: Jasper Technologies Inc.
+    status: assigned
+    former_name: Jasper Wireless, Inc
+  901 17:
+    mcc_mnc: 901 17
+    network: Jersey Telecom
+    status: assigned
+  901 18:
+    mcc_mnc: 901 18
+    network: Cingular Wireless
+    status: assigned
+  901 19:
+    mcc_mnc: 901 19
+    network: Vodafone Malta (Vodafone Group)
+    status: assigned
+  901 20:
+    mcc_mnc: 901 20
+    network: Intermatica
+    status: assigned
+  901 21:
+    mcc_mnc: 901 21
+    network: Wins Limited
+    status: assigned
+    former_name: Seanet Maritime Communications AB
+  901 22:
+    mcc_mnc: 901 22
+    network: MediaLincc Ltd
+    status: assigned
+  901 24:
+    mcc_mnc: 901 24
+    network: Voxbone SA
+    status: assigned
+  901 26:
+    mcc_mnc: 901 26
+    network: Telecom Italia
+    status: assigned
+  901 27:
+    mcc_mnc: 901 27
+    network: Monaco Telecom
+    status: assigned
+  901 28:
+    mcc_mnc: 901 28
+    network: Vodafone Group
+    status: assigned
+  901 29:
+    mcc_mnc: 901 29
+    network: Telenor Connexion AB
+    status: assigned
+  901 31:
+    mcc_mnc: 901 31
+    network: Orange
+    status: assigned
+    former_name: France Telecom Orange
+  901 32:
+    mcc_mnc: 901 32
+    network: MegaFon
+    status: assigned
+  901 33:
+    mcc_mnc: 901 33
+    network: Smart Communications , Inc
+    status: assigned
+  901 34:
+    mcc_mnc: 901 34
+    network: Tyntec Limited
+    status: assigned
+  901 35:
+    mcc_mnc: 901 35
+    network: Globecomm Network Services
+    status: assigned
+  901 36:
+    mcc_mnc: 901 36
+    network: Azerfon LLC
+    status: assigned
+  901 37:
+    mcc_mnc: 901 37
+    network: TRANSATEL
+    status: assigned
+  901 38:
+    mcc_mnc: 901 38
+    network: Multiregional TransitTelecom (MTT)
+    status: assigned
+  901 39:
+    mcc_mnc: 901 39
+    network: MTX Connect Ltd
+    status: assigned
+  901 40:
+    mcc_mnc: 901 40
+    network: Deutsche Telekom AG
+    status: assigned
+  901 41:
+    mcc_mnc: 901 41
+    network: BodyTrace Netherlands B.V.
+    status: assigned
+  901 42:
+    mcc_mnc: 901 42
+    network: DCN Hub ehf
+    status: assigned
+  901 43:
+    mcc_mnc: 901 43
+    network: EMnify GmbH
+    status: assigned
+  901 44:
+    mcc_mnc: 901 44
+    network: AT&T, Inc.
+    status: assigned
+  901 45:
+    mcc_mnc: 901 45
+    network: Advanced Wireless Network Company Limited
+    status: assigned
+  901 46:
+    mcc_mnc: 901 46
+    network: Telecom26 AG
+    status: assigned
+  901 47:
+    mcc_mnc: 901 47
+    network: Ooredoo
+    status: assigned
+  901 48:
+    mcc_mnc: 901 48
+    network: Com4 Sweden AB
+    status: assigned
+  901 49:
+    mcc_mnc: 901 49
+    network: Zain Kuwait
+    status: assigned
+  901 50:
+    mcc_mnc: 901 50
+    network: Sawatch Limited/EchoStar Mobile Limited
+    status: assigned
+  901 51:
+    mcc_mnc: 901 51
+    network: VisionNG
+    status: assigned
+  901 52:
+    mcc_mnc: 901 52
+    network: Manx Telecom Trading Ltd.
+    status: assigned
+  901 53:
+    mcc_mnc: 901 53
+    network: Deutsche Telekom AG
+    status: assigned
+  901 88:
+    mcc_mnc: 901 88
+    network: UN Office for the Coordination of Humanitarian Affairs (OCHA)
+    status: assigned

@@ -1,0 +1,2066 @@
+---
+metadata:
+  title:
+    en: List of Mobile Country or Geographical Area Codes
+    fr: LISTE DES INDICATIFS DE PAYS OU DE ZONES GÉOGRAPHIQUES DU MOBILE
+    es: LISTA DE INDICATIVOS DE PAÍS O ZONA GEOGRÁFICA PARA EL SERVICIO MOVÍL
+    ru: СПИСОК КОДОВ СТРАНЫ ИЛИ ГЕОГРАФИЧЕСКОЙ ЗОНЫ ДЛЯ ПОДВИЖНОЙ СВЯЗИ
+    zh: 移动国家或地理区域代码列表
+    ar: قائمة بالرموز الدليلة القُطرية أو الخاصة بالمناطق الجغرافية للاتصالات المتنقلة
+  locale:
+    country_or_area:
+      en: Country or Geographical Area
+      fr: Pays ou zone géographique
+      es: País o zona geográfica
+      ru: Страна или географическая зона
+      zh: 国家或地理区域
+      ar: البلد أو المنطقة الجغرافية
+    code:
+      en: Code
+      fr: Indicatif
+      es: Indicativo
+      ru: Код
+      zh: 代码
+      ar: الرمز
+    note:
+      en: Note
+      fr: Note
+      es: Nota
+      ru: Примечание
+      zh: 注
+      ar: ملاحظات
+data:
+- code: 0XX
+  country_or_area:
+    en: Reserved
+    fr: Réservé
+    es: Reservado
+    ru: Зарезервирован
+    zh: 预留
+    ar: محجوز
+  note:
+    en: Mobile Country or Geographical Area Codes (MCCs) that begin with the digits
+      0, 1 and 8 are reserved for future use.
+    fr: Les indicatifs de pays ou de zones géographiques du mobile qui commencent
+      par les chiffres 0, 1 et 8 ont été réservés pour une utilisation ultérieure.
+    es: Los indicativos de país o zona geográfica para el servicio movíl que empiezan
+      por las cifras 0, 1 y 8 están reservados para utilización futura.
+    ru: Коды страны или географической зоны для подвижной связи (MCC), которые начинаются
+      с цифр 0, 1 и 8, зарезервированы для будущего использования.
+    zh: 以0、1和8开头的移动国家或地理区域代码（MCC）留未来使用。
+    ar: الرموز الدليلية للبلدان أو للمناطق الجغرافية من أجل الاتصالات المتنقلة (MCC)
+      التي تبدأ بالأرقام 0 و1 و8 محجوزة للاستعمال في المستقبل
+- code: 1XX
+  country_or_area:
+    en: Reserved
+    fr: Réservé
+    es: Reservado
+    ru: Зарезервирован
+    zh: 预留
+    ar: محجوز
+  note:
+    en: Mobile Country or Geographical Area Codes (MCCs) that begin with the digits
+      0, 1 and 8 are reserved for future use.
+    fr: Les indicatifs de pays ou de zones géographiques du mobile qui commencent
+      par les chiffres 0, 1 et 8 ont été réservés pour une utilisation ultérieure.
+    es: Los indicativos de país o zona geográfica para el servicio movíl que empiezan
+      por las cifras 0, 1 y 8 están reservados para utilización futura.
+    ru: Коды страны или географической зоны для подвижной связи (MCC), которые начинаются
+      с цифр 0, 1 и 8, зарезервированы для будущего использования.
+    zh: 以0、1和8开头的移动国家或地理区域代码（MCC）留未来使用。
+    ar: الرموز الدليلية للبلدان أو للمناطق الجغرافية من أجل الاتصالات المتنقلة (MCC)
+      التي تبدأ بالأرقام 0 و1 و8 محجوزة للاستعمال في المستقبل
+- code: '202'
+  country_or_area:
+    en: Greece
+    fr: Grèce
+    es: Grecia
+    ru: Греция
+    zh: 希腊
+    ar: اليونان
+- code: '204'
+  country_or_area:
+    en: Netherlands (Kingdom of the)
+    fr: Pays-Bas (Royaume des)
+    es: Países Bajos (Reino de los)
+    ru: Нидерланды (Королевство)
+    zh: 荷兰（王国）
+    ar: مملكة هولندا
+- code: '206'
+  country_or_area:
+    en: Belgium
+    fr: Belgique
+    es: Bélgica
+    ru: Бельгия
+    zh: 比利时
+    ar: بلجيكا
+- code: '208'
+  country_or_area:
+    en: France
+    fr: France
+    es: Francia
+    ru: Франция
+    zh: 法国
+    ar: فرنسا
+- code: '212'
+  country_or_area:
+    en: Monaco (Principality of)
+    fr: Monaco (Principauté de)
+    es: Mónaco (Principado de)
+    ru: Монако (Княжество)
+    zh: 摩纳哥（公国）
+    ar: إمارة موناكو
+- code: '213'
+  country_or_area:
+    en: Andorra (Principality of)
+    fr: Andorre (Principauté d')
+    es: Andorra (Principado de)
+    ru: Андорра (Княжество)
+    zh: 安道尔（公国）
+    ar: إمارة أندورا
+- code: '214'
+  country_or_area:
+    en: Spain
+    fr: Espagne
+    es: España
+    ru: Испания
+    zh: 西班牙
+    ar: إسبانيا
+- code: '216'
+  country_or_area:
+    en: Hungary
+    fr: Hongrie
+    es: Hungría
+    ru: Венгрия
+    zh: 匈牙利
+    ar: هنغاريا
+- code: '218'
+  country_or_area:
+    en: Bosnia and Herzegovina
+    fr: Bosnie-Herzégovine
+    es: Bosnia y Herzegovina
+    ru: Босния и Герцеговина
+    zh: 波斯尼亚与黑塞哥维那
+    ar: البوسنة والهرسك
+- code: '219'
+  country_or_area:
+    en: Croatia (Republic of)
+    fr: Croatie (République de)
+    es: Croacia (República de)
+    ru: Хорватия (Республика)
+    zh: 克罗地亚（共和国）
+    ar: جمهورية كرواتيا
+- code: '220'
+  country_or_area:
+    en: Serbia (Republic of)
+    fr: Serbie (République de)
+    es: Serbia (República de)
+    ru: Сербия (Республика)
+    zh: 塞尔维亚 (共和国)
+    ar: جمهورية صربيا
+- code: '221'
+  country_or_area:
+    en: Kosovo*
+    fr: Kosovo*
+    es: Kosovo*
+    ru: Косово*
+    zh: 科索沃*
+    ar: كوسوفو*
+  note:
+    en: This designation is without prejudice to positions on status, and is in line
+      with UNSCR 1244 and the ICJ Opinion on the Kosovo declaration of independence.
+    fr: Cette désignation est sans préjudice des positions sur le statut et est conforme
+      à la Résolution 1244 du Conseil de sécurité des Nations Unies ainsi qu'à l'avis
+      de la CIJ sur la déclaration d'indépendance du Kosovo.
+    es: Esta designación es sin perjuicio de las posiciones sobre la situación, y
+      corresponde a UNSCR 1244 y la opinión ICJ sobre la declaración de independencia
+      de Kosovo.
+    ru: Данное обозначение не влияет на позиции, занимаемые в вопросе о статусе, и
+      согласуется с резолюцией 1244 Совета Безопасности ООН и заключением Международного
+      Суда по вопросу о провозглашении независимости Косово.
+    zh: 该显示不考虑状态情况，并符合有关科索沃独立宣言的UNSCR 1244和ICJ议定书。
+    ar: لا تخل هذه التسمية بالمواقف بشأن الوضع وتتماشى مع القرار 1244 الصادر عن مجلس
+      الأمن للأمم المتحدة ورأي محكمة العدل الدولية حول إعلان استقلال كوسوفو.
+- code: '222'
+  country_or_area:
+    en: Italy
+    fr: Italie
+    es: Italia
+    ru: Италия
+    zh: 意大利
+    ar: إيطاليا
+- code: '225'
+  country_or_area:
+    en: Vatican City State
+    fr: Cité du Vatican (Etat de la)
+    es: Ciudad del Vaticano (Estado de la)
+    ru: Государство-город Ватикан
+    zh: 梵蒂冈城国
+    ar: دولة مدينة الفاتيكان
+- code: '226'
+  country_or_area:
+    en: Romania
+    fr: Roumanie
+    es: Rumania
+    ru: Румыния
+    zh: 罗马尼亚
+    ar: رومانيا
+- code: '228'
+  country_or_area:
+    en: Switzerland (Confederation of)
+    fr: Suisse (Confédération)
+    es: Suiza (Confederación)
+    ru: Швейцарская Конфедерация
+    zh: 瑞士（联邦）
+    ar: الاتحاد السويسري
+- code: '230'
+  country_or_area:
+    en: Czech Republic
+    fr: République tchèque
+    es: República Checa
+    ru: Чешская Республика
+    zh: 捷克共和国
+    ar: الجمهورية التشيكية
+- code: '231'
+  country_or_area:
+    en: Slovak Republic
+    fr: République slovaque
+    es: República Eslovaca
+    ru: Словацкая Республика
+    zh: 斯洛伐克共和国
+    ar: الجمهورية السلوفاكية
+- code: '232'
+  country_or_area:
+    en: Austria
+    fr: Autriche
+    es: Austria
+    ru: Австрия
+    zh: 奥地利
+    ar: النمسا
+- code: '234'
+  country_or_area:
+    en: United Kingdom of Great Britain and Northern Ireland
+    fr: Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+    es: Reino Unido de Gran Bretaña e Irlanda del Norte
+    ru: Соединенное Королевство Великобритании и Северной Ирландии
+    zh: 大不列颠及北爱尔兰联合王国
+    ar: المملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية
+- code: '235'
+  country_or_area:
+    en: United Kingdom of Great Britain and Northern Ireland
+    fr: Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+    es: Reino Unido de Gran Bretaña e Irlanda del Norte
+    ru: Соединенное Королевство Великобритании и Северной Ирландии
+    zh: 大不列颠及北爱尔兰联合王国
+    ar: المملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية
+- code: '238'
+  country_or_area:
+    en: Denmark
+    fr: Danemark
+    es: Dinamarca
+    ru: Дания
+    zh: 丹麦
+    ar: الدانمارك
+- code: '240'
+  country_or_area:
+    en: Sweden
+    fr: Suède
+    es: Suecia
+    ru: Швеция
+    zh: 瑞典
+    ar: السويد
+- code: '242'
+  country_or_area:
+    en: Norway
+    fr: Norvège
+    es: Noruega
+    ru: Норвегия
+    zh: 挪威
+    ar: النرويج
+- code: '244'
+  country_or_area:
+    en: Finland
+    fr: Finlande
+    es: Finlandia
+    ru: Финляндия
+    zh: 芬兰
+    ar: فنلندا
+- code: '246'
+  country_or_area:
+    en: Lithuania (Republic of)
+    fr: Lituanie (République de)
+    es: Lituania (República de)
+    ru: Литовская Республика
+    zh: 立陶宛（共和国）
+    ar: جمهورية ليتوانيا
+- code: '247'
+  country_or_area:
+    en: Latvia (Republic of)
+    fr: Lettonie (République de)
+    es: Letonia (República de)
+    ru: Латвийская Республика
+    zh: 拉脱维亚（共和国）
+    ar: جمهورية لاتفيا
+- code: '248'
+  country_or_area:
+    en: Estonia (Republic of)
+    fr: Estonie (République d')
+    es: Estonia (República de)
+    ru: Эстонская Республика
+    zh: 爱沙尼亚（共和国）
+    ar: جمهورية إستونيا
+- code: '250'
+  country_or_area:
+    en: Russian Federation
+    fr: Russie (Fédération de)
+    es: Rusia (Federación de)
+    ru: Российская Федерация
+    zh: 俄罗斯联邦
+    ar: الاتحاد الروسي
+- code: '255'
+  country_or_area:
+    en: Ukraine
+    fr: Ukraine
+    es: Ucrania
+    ru: Украина
+    zh: 乌克兰
+    ar: أوكرانيا
+- code: '257'
+  country_or_area:
+    en: Belarus (Republic of)
+    fr: Bélarus (République du)
+    es: Belarús (República de)
+    ru: Беларусь (Республика)
+    zh: 白俄罗斯（共和国）
+    ar: جمهورية بيلاروس
+- code: '259'
+  country_or_area:
+    en: Moldova (Republic of)
+    fr: Moldova (République de)
+    es: Moldova (República de)
+    ru: Молдова (Республика)
+    zh: 摩尔多瓦（共和国）
+    ar: جمهورية مولدوفا
+- code: '260'
+  country_or_area:
+    en: Poland (Republic of)
+    fr: Pologne (République de)
+    es: Polonia (República de)
+    ru: Польша (Республика)
+    zh: 波兰（共和国）
+    ar: جمهورية بولندا
+- code: '262'
+  country_or_area:
+    en: Germany (Federal Republic of)
+    fr: Allemagne (République fédérale d')
+    es: Alemania (República Federal de)
+    ru: Германия (Федеративная Республика)
+    zh: 德意志（联邦共和国）
+    ar: جمهورية ألمانيا الاتحادية
+- code: '266'
+  country_or_area:
+    en: Gibraltar
+    fr: Gibraltar
+    es: Gibraltar
+    ru: Гибралтар
+    zh: 直布罗陀
+    ar: جبل طارق
+- code: '268'
+  country_or_area:
+    en: Portugal
+    fr: Portugal
+    es: Portugal
+    ru: Португалия
+    zh: 葡萄牙
+    ar: البرتغال
+- code: '270'
+  country_or_area:
+    en: Luxembourg
+    fr: Luxembourg
+    es: Luxemburgo
+    ru: Люксембург
+    zh: 卢森堡
+    ar: لكسمبرغ
+- code: '272'
+  country_or_area:
+    en: Ireland
+    fr: Irlande
+    es: Irlanda
+    ru: Ирландия
+    zh: 爱尔兰
+    ar: أيرلندا
+- code: '274'
+  country_or_area:
+    en: Iceland
+    fr: Islande
+    es: Islandia
+    ru: Исландия
+    zh: 冰岛
+    ar: أيسلندا
+- code: '276'
+  country_or_area:
+    en: Albania (Republic of)
+    fr: Albanie (République d')
+    es: Albania (República de)
+    ru: Албания (Республика)
+    zh: 阿尔巴尼亚（共和国）
+    ar: جمهورية ألبانيا
+- code: '278'
+  country_or_area:
+    en: Malta
+    fr: Malte
+    es: Malta
+    ru: Мальта
+    zh: 马耳他
+    ar: مالطة
+- code: '280'
+  country_or_area:
+    en: Cyprus (Republic of)
+    fr: Chypre (République de)
+    es: Chipre (República de)
+    ru: Кипр (Республика)
+    zh: 塞浦路斯（共和国）
+    ar: جمهورية قبرص
+- code: '282'
+  country_or_area:
+    en: Georgia
+    fr: Géorgie
+    es: Georgia
+    ru: Грузия
+    zh: 格鲁吉亚
+    ar: جورجيا
+- code: '283'
+  country_or_area:
+    en: Armenia (Republic of)
+    fr: Arménie (République d')
+    es: Armenia (República de)
+    ru: Армения (Республика)
+    zh: 亚美尼亚（共和国）
+    ar: جمهورية أرمينيا
+- code: '284'
+  country_or_area:
+    en: Bulgaria (Republic of)
+    fr: Bulgarie (République de)
+    es: Bulgaria (República de)
+    ru: Болгария (Республика)
+    zh: 保加利亚（共和国）
+    ar: جمهورية بلغاريا
+- code: '286'
+  country_or_area:
+    en: Turkey
+    fr: Turquie
+    es: Turquía
+    ru: Турция
+    zh: 土耳其
+    ar: تركيا
+- code: '288'
+  country_or_area:
+    en: Faroe Islands
+    fr: Féroé (Iles)
+    es: Feroe (Islas)
+    ru: Фарерские острова
+    zh: 法罗群岛
+    ar: جزر فارو
+- code: '290'
+  country_or_area:
+    en: Greenland (Denmark)
+    fr: Groenland (Danemark)
+    es: Groenlandia (Dinamarca)
+    ru: Гренландия (Дания)
+    zh: 格陵兰 (丹麦)
+    ar: غرينلاند (الدانمارك)
+- code: '292'
+  country_or_area:
+    en: San Marino (Republic of)
+    fr: Saint-Marin (République de)
+    es: San Marino (República de)
+    ru: Сан-Марино (Республика)
+    zh: 圣马力诺（共和国）
+    ar: جمهورية سان مارينو
+- code: '293'
+  country_or_area:
+    en: Slovenia (Republic of)
+    fr: Slovénie (République de)
+    es: Eslovenia (República de)
+    ru: Словения (Республика)
+    zh: 斯洛文尼亚（共和国）
+    ar: جمهورية سلوفينيا
+- code: '294'
+  country_or_area:
+    en: The Former Yugoslav Republic of Macedonia
+    fr: L'ex-République yougoslave de Macédoine
+    es: La ex República Yugoslava de Macedonia
+    ru: Бывшая югославская Республика Македония
+    zh: 前南斯拉夫马其顿共和国
+    ar: جمهورية مقدونيا اليوغوسلافية السابقة
+- code: '295'
+  country_or_area:
+    en: Liechtenstein (Principality of)
+    fr: Liechtenstein (Principauté de)
+    es: Liechtenstein (Principado de)
+    ru: Лихтенштейн (Княжество)
+    zh: 列支敦士登（公国）
+    ar: إمارة ليختنشتاين
+- code: '297'
+  country_or_area:
+    en: Montenegro
+    fr: Monténégro
+    es: Montenegro
+    ru: Черногория
+    zh: 黑山
+    ar: الجبل الأسود
+- code: '302'
+  country_or_area:
+    en: Canada
+    fr: Canada
+    es: Canadá
+    ru: Канада
+    zh: 加拿大
+    ar: كندا
+- code: '308'
+  country_or_area:
+    en: Saint Pierre and Miquelon (Collectivité territoriale de la République française)
+    fr: Saint-Pierre-et-Miquelon (Collectivité territoriale de la République française)
+    es: San Pedro y Miquelón (Collectivité territoriale de la République française)
+    ru: Сен-Пьер и Микелон (территориальное сообщество Французской Республики)
+    zh: 圣皮埃尔和密克隆（法国共和国属地）
+    ar: سان بيير وميكيلون (تجمع إقليمي للجمهورية الفرنسية)
+- code: '310'
+  country_or_area:
+    en: United States of America
+    fr: Etats-Unis d'Amérique
+    es: Estados Unidos de América
+    ru: Соединенные Штаты Америки
+    zh: 美利坚合众国
+    ar: الولايات المتحدة الأمريكية
+- code: '311'
+  country_or_area:
+    en: United States of America
+    fr: Etats-Unis d'Amérique
+    es: Estados Unidos de América
+    ru: Соединенные Штаты Америки
+    zh: 美利坚合众国
+    ar: الولايات المتحدة الأمريكية
+- code: '312'
+  country_or_area:
+    en: United States of America
+    fr: Etats-Unis d'Amérique
+    es: Estados Unidos de América
+    ru: Соединенные Штаты Америки
+    zh: 美利坚合众国
+    ar: الولايات المتحدة الأمريكية
+- code: '313'
+  country_or_area:
+    en: United States of America
+    fr: Etats-Unis d'Amérique
+    es: Estados Unidos de América
+    ru: Соединенные Штаты Америки
+    zh: 美利坚合众国
+    ar: الولايات المتحدة الأمريكية
+- code: '314'
+  country_or_area:
+    en: United States of America
+    fr: Etats-Unis d'Amérique
+    es: Estados Unidos de América
+    ru: Соединенные Штаты Америки
+    zh: 美利坚合众国
+    ar: الولايات المتحدة الأمريكية
+- code: '315'
+  country_or_area:
+    en: United States of America
+    fr: Etats-Unis d'Amérique
+    es: Estados Unidos de América
+    ru: Соединенные Штаты Америки
+    zh: 美利坚合众国
+    ar: الولايات المتحدة الأمريكية
+- code: '316'
+  country_or_area:
+    en: United States of America
+    fr: Etats-Unis d'Amérique
+    es: Estados Unidos de América
+    ru: Соединенные Штаты Америки
+    zh: 美利坚合众国
+    ar: الولايات المتحدة الأمريكية
+- code: '330'
+  country_or_area:
+    en: Puerto Rico
+    fr: Puerto Rico
+    es: Puerto Rico
+    ru: Пуэрто-Рико
+    zh: 波多黎各
+    ar: بورتوريكو
+- code: '332'
+  country_or_area:
+    en: United States Virgin Islands
+    fr: Vierges américaines (Iles)
+    es: Vírgenes de los Estados Unidos (Islas)
+    ru: Американские Виргинские острова
+    zh: 美属 维京群岛
+    ar: الجزر العذراء الأمريكية
+- code: '334'
+  country_or_area:
+    en: Mexico
+    fr: Mexique
+    es: México
+    ru: Мексика
+    zh: 墨西哥
+    ar: المكسيك
+- code: '338'
+  country_or_area:
+    en: Jamaica
+    fr: Jamaïque
+    es: Jamaica
+    ru: Ямайка
+    zh: 牙买加
+    ar: جامايكا
+- code: '340'
+  country_or_area:
+    en: Guadeloupe (French Department of)
+    fr: Guadeloupe (Département français de la)
+    es: Guadalupe (Departamento francés de la)
+    ru: Гваделупа (департамент Франции)
+    zh: 瓜德罗普岛（法国一省）
+    ar: مقاطعة غوادلوب الفرنسية
+- code: '340'
+  country_or_area:
+    en: Martinique (French Department of)
+    fr: Martinique (Département français de la)
+    es: Martinica (Departamento francés de la)
+    ru: Мартиника (департамент Франции)
+    zh: 马提尼克（法国一省）
+    ar: مقاطعة المارتينيك الفرنسية
+- code: '342'
+  country_or_area:
+    en: Barbados
+    fr: Barbade
+    es: Barbados
+    ru: Барбадос
+    zh: 巴巴多斯
+    ar: بربادوس
+- code: '344'
+  country_or_area:
+    en: Antigua and Barbuda
+    fr: Antigua-et-Barbuda
+    es: Antigua y Barbuda
+    ru: Антигуа и Барбуда
+    zh: 安提瓜和巴布达
+    ar: أنتيغوا وبربودا
+- code: '346'
+  country_or_area:
+    en: Cayman Islands
+    fr: Caïmanes (Iles)
+    es: Caimán (Islas)
+    ru: Каймановы острова
+    zh: 开曼群岛
+    ar: جزر كايمان
+- code: '348'
+  country_or_area:
+    en: British Virgin Islands
+    fr: Vierges britanniques (Iles)
+    es: Vírgenes Británicas (Islas)
+    ru: Британские Виргинские острова
+    zh: 英属维京群岛
+    ar: الجزر العذراء البريطانية
+- code: '350'
+  country_or_area:
+    en: Bermuda
+    fr: Bermudes
+    es: Bermudas
+    ru: Бермудские острова
+    zh: 百慕大
+    ar: برمودا
+- code: '352'
+  country_or_area:
+    en: Grenada
+    fr: Grenade
+    es: Granada
+    ru: Гренада
+    zh: 格林纳达
+    ar: غرينادا
+- code: '354'
+  country_or_area:
+    en: Montserrat
+    fr: Montserrat
+    es: Montserrat
+    ru: Монтсеррат
+    zh: 蒙特色拉群岛
+    ar: مونتسيرات
+- code: '356'
+  country_or_area:
+    en: Saint Kitts and Nevis
+    fr: Saint-Kitts-et-Nevis
+    es: Saint Kitts y Nevis
+    ru: Сент-Китс и Невис
+    zh: 圣基茨和尼维斯
+    ar: سانت كيتس ونيفيس
+- code: '358'
+  country_or_area:
+    en: Saint Lucia
+    fr: Sainte-Lucie
+    es: Santa Lucía
+    ru: Сент-Люсия
+    zh: 圣卢西亚
+    ar: سانت لوسيا
+- code: '360'
+  country_or_area:
+    en: Saint Vincent and the Grenadines
+    fr: Saint-Vincent-et-les Grenadines
+    es: San Vicente y las Granadinas
+    ru: Сент-Винсент и Гренадины
+    zh: 圣文森特和格林纳丁斯
+    ar: سانت فنسنت وغرينادين
+- code: '362'
+  country_or_area:
+    en: Curaçao
+    fr: Bonaire, Saint-Eustache et Saba
+    es: Bonaire, San Eustaquio y Saba
+    ru: Кюрасао
+    zh: 库拉索到
+    ar: كوراساو
+- code: '362'
+  country_or_area:
+    en: Sint Maarten (Dutch part)
+    fr: Curaçao
+    es: Curaçao
+    ru: Синт-Мартен (голландская часть)
+    zh: 圣马丁到（荷兰一部分）
+    ar: سانت مارتن (الجزء الهولندي)
+- code: '362'
+  country_or_area:
+    en: Bonaire, Sint Eustatius and Saba
+    fr: Saint-Martin (partie néerlandaise)
+    es: San Martín (parte neerlandesa)
+    ru: Бонэйр, Синт-Эстатиус и Саба
+    zh: 波内赫、圣尤斯特歇斯和萨巴
+    ar: جزر بونير وسان يوستاتيوس وسابا
+- code: '363'
+  country_or_area:
+    en: Aruba
+    fr: Aruba
+    es: Aruba
+    ru: Аруба
+    zh: 阿鲁巴
+    ar: آروبا
+- code: '364'
+  country_or_area:
+    en: Bahamas (Commonwealth of the)
+    fr: Bahamas (Commonwealth des)
+    es: Bahamas (Commonwealth de las)
+    ru: Содружество Багамских Островов
+    zh: 巴哈马（联邦）
+    ar: كومنولث البهاما
+- code: '365'
+  country_or_area:
+    en: Anguilla
+    fr: Anguilla
+    es: Anguila
+    ru: Ангилья
+    zh: 安圭拉岛
+    ar: أنغويلا
+- code: '366'
+  country_or_area:
+    en: Dominica (Commonwealth of)
+    fr: Dominique (Commonwealth de la)
+    es: Dominica (Commonwealth de)
+    ru: Содружество Доминики
+    zh: 多米尼克国
+    ar: كومنولث دومينيكا
+- code: '368'
+  country_or_area:
+    en: Cuba
+    fr: Cuba
+    es: Cuba
+    ru: Куба
+    zh: 古巴
+    ar: كوبا
+- code: '370'
+  country_or_area:
+    en: Dominican Republic
+    fr: Dominicaine (République)
+    es: Dominicana (República)
+    ru: Доминиканская Республика
+    zh: 多米尼加共和国
+    ar: الجمهورية الدومينيكية
+- code: '372'
+  country_or_area:
+    en: Haiti (Republic of)
+    fr: Haïti (République d')
+    es: Haití (República de)
+    ru: Гаити (Республика)
+    zh: 海地（共和国）
+    ar: جمهورية هايتي
+- code: '374'
+  country_or_area:
+    en: Trinidad and Tobago
+    fr: Trinité-et-Tobago
+    es: Trinidad y Tabago
+    ru: Тринидад и Тобаго
+    zh: 特立尼达和多巴哥
+    ar: ترينيداد وتوباغو
+- code: '376'
+  country_or_area:
+    en: Turks and Caicos Islands
+    fr: Turks-et-Caïcos (Iles)
+    es: Turcas y Caicos (Islas)
+    ru: Острова Теркс и Кайкос
+    zh: 特克斯和凯科斯群岛
+    ar: جزر تركس وكايكوس
+- code: '400'
+  country_or_area:
+    en: Azerbaijan (Republic of)
+    fr: Azerbaïdjan (République d')
+    es: Azerbaiyán (República de)
+    ru: Азербайджанская Республика
+    zh: 阿塞拜疆（共和国）
+    ar: جمهورية أذربيجان
+- code: '401'
+  country_or_area:
+    en: Kazakhstan (Republic of)
+    fr: Kazakhstan (République du)
+    es: Kazajstán (República de)
+    ru: Казахстан (Республика)
+    zh: 哈萨克斯坦（共和国）
+    ar: جمهورية كازاخستان
+- code: '402'
+  country_or_area:
+    en: Bhutan (Kingdom of)
+    fr: Bhoutan (Royaume du)
+    es: Bhután (Reino de)
+    ru: Бутан (Королевство)
+    zh: 不丹（王国）
+    ar: مملكة بوتان
+- code: '404'
+  country_or_area:
+    en: India (Republic of)
+    fr: Inde (République de l')
+    es: India (República de la)
+    ru: Индия (Республика)
+    zh: 印度（共和国）
+    ar: جمهورية الهند
+- code: '405'
+  country_or_area:
+    en: India (Republic of)
+    fr: Inde (République de l')
+    es: India (República de la)
+    ru: Индия (Республика)
+    zh: 印度（共和国）
+    ar: جمهورية الهند
+- code: '406'
+  country_or_area:
+    en: India (Republic of)
+    fr: Inde (République de l')
+    es: India (República de la)
+    ru: Индия (Республика)
+    zh: 印度（共和国）
+    ar: جمهورية الهند
+- code: '410'
+  country_or_area:
+    en: Pakistan (Islamic Republic of)
+    fr: Pakistan (République islamique du)
+    es: Pakistán (República Islámica del)
+    ru: Пакистан (Исламская Республика)
+    zh: 巴基斯坦（伊斯兰共和国）
+    ar: جمهورية باكستان الإسلامية
+- code: '412'
+  country_or_area:
+    en: Afghanistan
+    fr: Afghanistan
+    es: Afganistán
+    ru: Афганистан
+    zh: 阿富汗
+    ar: أفغانستان
+- code: '413'
+  country_or_area:
+    en: Sri Lanka (Democratic Socialist Republic of)
+    fr: Sri Lanka (République socialiste démocratique de)
+    es: Sri Lanka (República Socialista Democrática de)
+    ru: Шри-Ланка (Демократическая Социалистическая Республика)
+    zh: 斯里兰卡（民主社会主义共和国）
+    ar: جمهورية سري لانكا الاشتراكية الديمقراطية
+- code: '414'
+  country_or_area:
+    en: Myanmar (the Republic of the Union of)
+    fr: Myanmar (République de l'Union du)
+    es: Myanmar (República de la Unión de)
+    ru: Республика Союза Мьянма
+    zh: 缅甸 （联邦共和国）
+    ar: اتحاد ميانمار
+- code: '415'
+  country_or_area:
+    en: Lebanon
+    fr: Liban
+    es: Líbano
+    ru: Ливан
+    zh: 黎巴嫩
+    ar: لبنان
+- code: '416'
+  country_or_area:
+    en: Jordan (Hashemite Kingdom of)
+    fr: Jordanie (Royaume hachémite de)
+    es: Jordania (Reino Hachemita de)
+    ru: Иорданское Хашимитское Королевство
+    zh: 约旦（哈希姆王国）
+    ar: المملكة الأردنية الهاشمية
+- code: '417'
+  country_or_area:
+    en: Syrian Arab Republic
+    fr: République arabe syrienne
+    es: República Árabe Siria
+    ru: Сирийская Арабская Республика
+    zh: 阿拉伯叙利亚共和国
+    ar: الجمهورية العربية السورية
+- code: '418'
+  country_or_area:
+    en: Iraq (Republic of)
+    fr: Iraq (République d')
+    es: Iraq (República del)
+    ru: Ирак (Республика)
+    zh: 伊拉克（共和国）
+    ar: الجمهورية العراقية
+- code: '419'
+  country_or_area:
+    en: Kuwait (State of)
+    fr: Koweït (Etat du)
+    es: Kuwait (Estado de)
+    ru: Кувейт (Государство)
+    zh: 科威特（国）
+    ar: دولة الكويت
+- code: '420'
+  country_or_area:
+    en: Saudi Arabia (Kingdom of)
+    fr: Arabie saoudite (Royaume d')
+    es: Arabia Saudita (Reino de)
+    ru: Саудовская Аравия (Королевство)
+    zh: 沙特阿拉伯（王国）
+    ar: المملكة العربية السعودية
+- code: '421'
+  country_or_area:
+    en: Yemen (Republic of)
+    fr: Yémen (République du)
+    es: Yemen (República del)
+    ru: Йеменская Республика
+    zh: 也门（共和国）
+    ar: الجمهورية اليمنية
+- code: '422'
+  country_or_area:
+    en: Oman (Sultanate of)
+    fr: Oman (Sultanat d')
+    es: Omán (Sultanía de)
+    ru: Оман (Султанат)
+    zh: 阿曼（苏丹国）
+    ar: سلطنة عُمان
+- code: '424'
+  country_or_area:
+    en: United Arab Emirates
+    fr: Emirats arabes unis
+    es: Emiratos Árabes Unidos
+    ru: Объединенные Арабские Эмираты
+    zh: 阿拉伯联合酋长国
+    ar: الإمارات العربية المتحدة
+- code: '425'
+  country_or_area:
+    en: Israel (State of)
+    fr: Israël (Etat d')
+    es: Israel (Estado de)
+    ru: Израиль (Государство)
+    zh: 以色列（国）
+    ar: دولة إسرائيل
+- code: '426'
+  country_or_area:
+    en: Bahrain (Kingdom of)
+    fr: Bahreïn (Royaume de)
+    es: Bahrein (Reino de)
+    ru: Бахрейн (Королевство)
+    zh: 巴林（王国）
+    ar: مملكة البحرين
+- code: '427'
+  country_or_area:
+    en: Qatar (State of)
+    fr: Qatar (Etat du)
+    es: Qatar (Estado de)
+    ru: Катар (Государство)
+    zh: 卡塔尔（国）
+    ar: دولة قطر
+- code: '428'
+  country_or_area:
+    en: Mongolia
+    fr: Mongolie
+    es: Mongolia
+    ru: Монголия
+    zh: 蒙古
+    ar: منغوليا
+- code: '429'
+  country_or_area:
+    en: Nepal (Federal Democratic Republic of)
+    fr: Népal (République fédérale démocratique du)
+    es: Nepal (República Democrática Federal de)
+    ru: Непал (Федеративная Демократическая Республика)
+    zh: 尼泊尔
+    ar: جمهورية نيبال الاتحادية الديمقراطية
+- code: '430'
+  country_or_area:
+    en: United Arab Emirates
+    fr: Emirats arabes unis
+    es: Emiratos Árabes Unidos
+    ru: Объединенные Арабские Эмираты
+    zh: 阿拉伯联合酋长国
+    ar: الإمارات العربية المتحدة
+  note:
+    en: 'Dubai: 431; Abu Dhabi: 430.'
+    fr: 'Dubai: 431; Abu Dhabi: 430.'
+    es: 'Dubai: 431; Abu Dhabi: 430.'
+    ru: 'Дубай: 431; Абу-Даби: 430.'
+    zh: 迪拜：431；阿布扎比：430。
+    ar: 'دبي: 431؛ أبو ظبي: 430.'
+- code: '431'
+  country_or_area:
+    en: United Arab Emirates
+    fr: Emirats arabes unis
+    es: Emiratos Árabes Unidos
+    ru: Объединенные Арабские Эмираты
+    zh: 阿拉伯联合酋长国
+    ar: الإمارات العربية المتحدة
+  note:
+    en: 'Dubai: 431; Abu Dhabi: 430.'
+    fr: 'Dubai: 431; Abu Dhabi: 430.'
+    es: 'Dubai: 431; Abu Dhabi: 430.'
+    ru: 'Дубай: 431; Абу-Даби: 430.'
+    zh: 迪拜：431；阿布扎比：430。
+    ar: 'دبي: 431؛ أبو ظبي: 430.'
+- code: '432'
+  country_or_area:
+    en: Iran (Islamic Republic of)
+    fr: Iran (République islamique d')
+    es: Irán (República Islámica del)
+    ru: Иран (Исламская Республика)
+    zh: 伊朗（伊斯兰共和国）
+    ar: جمهورية إيران الإسلامية
+- code: '434'
+  country_or_area:
+    en: Uzbekistan (Republic of)
+    fr: Ouzbékistan (République d')
+    es: Uzbekistán (República de)
+    ru: Узбекистан (Республика)
+    zh: 乌兹别克斯坦（共和国）
+    ar: جمهورية أوزبكستان
+- code: '436'
+  country_or_area:
+    en: Tajikistan (Republic of)
+    fr: Tadjikistan (République du)
+    es: Tayikistán (República de)
+    ru: Таджикистан (Республика)
+    zh: 塔吉克斯坦（共和国）
+    ar: جمهورية طاجيكستان
+- code: '437'
+  country_or_area:
+    en: Kyrgyz Republic
+    fr: République kirghize
+    es: República Kirguisa
+    ru: Кыргызская Республика
+    zh: 吉尔吉斯共和国
+    ar: جمهورية قيرغيزستان
+- code: '438'
+  country_or_area:
+    en: Turkmenistan
+    fr: Turkménistan
+    es: Turkmenistán
+    ru: Туркменистан
+    zh: 土库曼斯坦
+    ar: تركمانستان
+- code: '440'
+  country_or_area:
+    en: Japan
+    fr: Japon
+    es: Japón
+    ru: Япония
+    zh: 日本
+    ar: اليابان
+- code: '441'
+  country_or_area:
+    en: Japan
+    fr: Japon
+    es: Japón
+    ru: Япония
+    zh: 日本
+    ar: اليابان
+- code: '450'
+  country_or_area:
+    en: Korea (Republic of)
+    fr: Corée (République de)
+    es: Corea (República de)
+    ru: Корея (Республика)
+    zh: 大韩民国
+    ar: جمهورية كوريا
+- code: '452'
+  country_or_area:
+    en: Viet Nam (Socialist Republic of)
+    fr: Viet Nam (République socialiste du)
+    es: Viet Nam (República Socialista de)
+    ru: Вьетнам (Социалистическая Республика)
+    zh: 越南（社会主义共和国）
+    ar: جمهورية فيتنام الاشتراكية
+- code: '454'
+  country_or_area:
+    en: Hong Kong, China
+    fr: Hong Kong, Chine
+    es: Hong Kong, China
+    ru: Гонконг, Китай
+    zh: 中国香港
+    ar: هونغ كونغ، الصين
+- code: '455'
+  country_or_area:
+    en: Macao, China
+    fr: Macao, Chine
+    es: Macao, China
+    ru: Макао, Китай
+    zh: 中国澳门
+    ar: ماكاو، الصين
+- code: '456'
+  country_or_area:
+    en: Cambodia (Kingdom of)
+    fr: Cambodge (Royaume du)
+    es: Camboya (Reino de)
+    ru: Камбоджа (Королевство)
+    zh: 柬埔寨（王国）
+    ar: مملكة كمبوديا
+- code: '457'
+  country_or_area:
+    en: Lao People's Democratic Republic
+    fr: Lao (République démocratique populaire)
+    es: Lao (República Democrática Popular)
+    ru: Лаосская Народно-Демократическая Республика
+    zh: 老挝（人民民主共和国）
+    ar: جمهورية لاو الديمقراطية الشعبية
+- code: '460'
+  country_or_area:
+    en: China (People's Republic of)
+    fr: Chine (République populaire de)
+    es: China (República Popular de)
+    ru: Китайская Народная Республика
+    zh: 中华人民共和国
+    ar: جمهورية الصين الشعبية
+- code: '461'
+  country_or_area:
+    en: China (People's Republic of)
+    fr: Chine (République populaire de)
+    es: China (República Popular de)
+    ru: Китайская Народная Республика
+    zh: 中华人民共和国
+    ar: جمهورية الصين الشعبية
+- code: '466'
+  country_or_area:
+    en: Taiwan, China
+    fr: Taiwan, Chine
+    es: Taiwán, China
+    ru: Тайвань, Китай
+    zh: 中国台湾
+    ar: تايوان، الصين
+- code: '467'
+  country_or_area:
+    en: Democratic People's Republic of Korea
+    fr: République populaire démocratique de Corée
+    es: República Popular Democrática de Corea
+    ru: Корейская Народно-Демократическая Республика
+    zh: 朝鲜民主主义人民共和国
+    ar: جمهورية كوريا الشعبية الديمقراطية
+- code: '470'
+  country_or_area:
+    en: Bangladesh (People's Republic of)
+    fr: Bangladesh (République populaire du)
+    es: Bangladesh (República Popular de)
+    ru: Бангладеш (Народная Республика)
+    zh: 孟加拉（人民共和国）
+    ar: جمهورية بنغلاديش الشعبية
+- code: '472'
+  country_or_area:
+    en: Maldives (Republic of)
+    fr: Maldives (République des)
+    es: Maldivas (República de)
+    ru: Мальдивская Республика
+    zh: 马尔代夫（共和国）
+    ar: جمهورية ملديف
+- code: '502'
+  country_or_area:
+    en: Malaysia
+    fr: Malaisie
+    es: Malasia
+    ru: Малайзия
+    zh: 马来西亚
+    ar: ماليزيا
+- code: '505'
+  country_or_area:
+    en: Australia
+    fr: Australie
+    es: Australia
+    ru: Австралия
+    zh: 澳大利亚
+    ar: أستراليا
+- code: '510'
+  country_or_area:
+    en: Indonesia (Republic of)
+    fr: Indonésie (République d')
+    es: Indonesia (República de)
+    ru: Индонезия (Республика)
+    zh: 印度尼西亚（共和国）
+    ar: جمهورية إندونيسيا
+- code: '514'
+  country_or_area:
+    en: Timor-Leste (Democratic Republic of)
+    fr: Timor-Leste (République démocratique du)
+    es: Timor-Leste (República Democrática de)
+    ru: Тимор-Лешти (Демократическая Республика)
+    zh: 东帝汶（民主共和国）
+    ar: جمهورية تيمور لستي الديمقراطية
+- code: '515'
+  country_or_area:
+    en: Philippines (Republic of the)
+    fr: Philippines (République des)
+    es: Filipinas (República de)
+    ru: Филиппины (Республика)
+    zh: 菲律宾（共和国）
+    ar: جمهورية الفلبين
+- code: '520'
+  country_or_area:
+    en: Thailand
+    fr: Thaïlande
+    es: Tailandia
+    ru: Таиланд
+    zh: 泰国
+    ar: تايلاند
+- code: '525'
+  country_or_area:
+    en: Singapore (Republic of)
+    fr: Singapour (République de)
+    es: Singapur (República de)
+    ru: Сингапур (Республика)
+    zh: 新加坡（共和国）
+    ar: جمهورية سنغافورة
+- code: '528'
+  country_or_area:
+    en: Brunei Darussalam
+    fr: Brunéi Darussalam
+    es: Brunei Darussalam
+    ru: Бруней-Даруссалам
+    zh: 文莱达鲁萨兰国
+    ar: بروني دار السلام
+- code: '530'
+  country_or_area:
+    en: New Zealand
+    fr: Nouvelle-Zélande
+    es: Nueva Zelandia
+    ru: Новая Зеландия
+    zh: 新西兰
+    ar: نيوزيلندا
+- code: '536'
+  country_or_area:
+    en: Nauru (Republic of)
+    fr: Nauru (République de)
+    es: Nauru (República de)
+    ru: Науру (Республика)
+    zh: 瑙鲁（共和国）
+    ar: جمهورية ناورو
+- code: '537'
+  country_or_area:
+    en: Papua New Guinea
+    fr: Papouasie-Nouvelle-Guinée
+    es: Papua Nueva Guinea
+    ru: Папуа-Новая Гвинея
+    zh: 巴布亚新几内亚
+    ar: بابوا - غينيا الجديدة
+- code: '539'
+  country_or_area:
+    en: Tonga (Kingdom of)
+    fr: Tonga (Royaume des)
+    es: Tonga (Reino de)
+    ru: Тонга (Королевство)
+    zh: 汤加（王国）
+    ar: مملكة تونغا
+- code: '540'
+  country_or_area:
+    en: Solomon Islands
+    fr: Salomon (Iles)
+    es: Salomón (Islas)
+    ru: Соломоновы Острова
+    zh: 所罗门群岛
+    ar: جزر سليمان
+- code: '541'
+  country_or_area:
+    en: Vanuatu (Republic of)
+    fr: Vanuatu (République de)
+    es: Vanuatu (República de)
+    ru: Вануату (Республика)
+    zh: 瓦努阿图（共和国）
+    ar: جمهورية فانواتو
+- code: '542'
+  country_or_area:
+    en: Fiji (Republic of)
+    fr: Fidji (République de)
+    es: Fiji (República de)
+    ru: Фиджи (Республика)
+    zh: 斐济（共和国）
+    ar: جمهورية فيجي
+- code: '543'
+  country_or_area:
+    en: Wallis and Futuna (Territoire français d'outre-mer)
+    fr: Wallis-et-Futuna (Territoire français d'outre-mer)
+    es: Wallis y Futuna (Territoire français d'outre-mer)
+    ru: Уоллис и Футуна (французская заморская территория)
+    zh: 瓦利斯和富图纳（法国海外领地）
+    ar: جزر واليس وفوتونا (إقليم فرنسي فيما وراء البحار)
+- code: '544'
+  country_or_area:
+    en: American Samoa
+    fr: Samoa américaines
+    es: Samoa Americana
+    ru: Американское Самоа
+    zh: 美属萨摩亚
+    ar: ساموا الأمريكية
+- code: '545'
+  country_or_area:
+    en: Kiribati (Republic of)
+    fr: Kiribati (République de)
+    es: Kiribati (República de)
+    ru: Кирибати (Республика)
+    zh: 基里巴斯（共和国）
+    ar: جمهورية كيريباتي
+- code: '546'
+  country_or_area:
+    en: New Caledonia (Territoire français d'outre-mer)
+    fr: Nouvelle-Calédonie (Territoire français d'outre-mer)
+    es: Nueva Caledonia (Territoire français d'outre-mer)
+    ru: Новая Каледония (французская заморская территория)
+    zh: 新喀里多尼亞（法国海外领地）
+    ar: كاليدونيا الجديدة (إقليم فرنسي فيما وراء البحار)
+- code: '547'
+  country_or_area:
+    en: French Polynesia (Territoire français d'outre-mer)
+    fr: Polynésie française (Territoire français d'outre-mer)
+    es: Polinesia francesa (Territoire français d'outre-mer)
+    ru: Французская Полинезия (французская заморская территория)
+    zh: 法属波利尼西亚（法国海外领地）
+    ar: بولينيزيا الفرنسية (إقليم فرنسي فيما وراء البحار)
+- code: '548'
+  country_or_area:
+    en: Cook Islands
+    fr: Cook (Iles)
+    es: Cook (Islas)
+    ru: Острова Кука
+    zh: 库克群岛
+    ar: جزر كوك
+- code: '549'
+  country_or_area:
+    en: Samoa (Independent State of)
+    fr: Samoa (Etat indépendant du)
+    es: Samoa (Estado Independiente de)
+    ru: Самоа (Независимое Государство)
+    zh: 萨摩亚（独立国）
+    ar: دولة ساموا المستقلة
+- code: '550'
+  country_or_area:
+    en: Micronesia (Federated States of)
+    fr: Micronésie (Etats fédérés de)
+    es: Micronesia (Estados federados de)
+    ru: Федеративные Штаты Микронезии
+    zh: 密克罗尼西亚（联邦）
+    ar: ولايات ميكرونيزيا الموحدة
+- code: '551'
+  country_or_area:
+    en: Marshall Islands (Republic of the)
+    fr: Marshall (République des Iles)
+    es: Marshall (República de las Islas)
+    ru: Маршалловы Острова (Республика)
+    zh: 马绍尔群岛（共和国）
+    ar: جمهورية جزر مارشال
+- code: '552'
+  country_or_area:
+    en: Palau (Republic of)
+    fr: Palaos (République des)
+    es: Palau (República de)
+    ru: Палау (Республика)
+    zh: 帕劳（共和国）
+    ar: جمهورية بالاو
+- code: '553'
+  country_or_area:
+    en: Tuvalu
+    fr: Tuvalu
+    es: Tuvalu
+    ru: Тувалу
+    zh: 图瓦卢
+    ar: توفالو
+- code: '554'
+  country_or_area:
+    en: Tokelau
+    fr: Tokélau
+    es: Tokelau
+    ru: Токелау
+    zh: 托克劳
+    ar: توكيلاو
+- code: '555'
+  country_or_area:
+    en: Niue
+    fr: Niue
+    es: Niue
+    ru: Ниуэ
+    zh: 纽埃到
+    ar: نيوي
+- code: '602'
+  country_or_area:
+    en: Egypt (Arab Republic of)
+    fr: Egypte (République arabe d')
+    es: Egipto (República Árabe de)
+    ru: Египет (Арабская Республика)
+    zh: "（阿拉伯）埃及（共和国）"
+    ar: جمهورية مصر العربية
+- code: '603'
+  country_or_area:
+    en: Algeria (People's Democratic Republic of)
+    fr: Algérie (République algérienne démocratique et populaire)
+    es: Argelia (República Argelina Democrática y Popular)
+    ru: Алжирская Народная Демократическая Республика
+    zh: 阿尔及利亚（人民民主共和国）
+    ar: الجمهورية الجزائرية الديمقراطية الشعبية
+- code: '604'
+  country_or_area:
+    en: Morocco (Kingdom of)
+    fr: Maroc (Royaume du)
+    es: Marruecos (Reino de)
+    ru: Марокко (Королевство)
+    zh: 摩洛哥（王国）
+    ar: المملكة المغربية
+- code: '605'
+  country_or_area:
+    en: Tunisia
+    fr: Tunisie
+    es: Túnez
+    ru: Тунис
+    zh: 突尼斯
+    ar: تونس
+- code: '606'
+  country_or_area:
+    en: Libya
+    fr: Libye
+    es: Libia
+    ru: Ливия
+    zh: 利比亚
+    ar: ليبيا
+- code: '607'
+  country_or_area:
+    en: Gambia (Republic of the)
+    fr: Gambie (République de)
+    es: Gambia (República de)
+    ru: Гамбия (Республика)
+    zh: 冈比亚（共和国）
+    ar: جمهورية غامبيا
+- code: '608'
+  country_or_area:
+    en: Senegal (Republic of)
+    fr: Sénégal (République du)
+    es: Senegal (República del)
+    ru: Сенегал (Республика)
+    zh: 塞内加尔（共和国）
+    ar: جمهورية السنغال
+- code: '609'
+  country_or_area:
+    en: Mauritania (Islamic Republic of)
+    fr: Mauritanie (République islamique de)
+    es: Mauritania (República Islámica de)
+    ru: Мавритания (Исламская Республика)
+    zh: 毛里塔尼亚（伊斯兰共和国）
+    ar: جمهورية موريتانيا الإسلامية
+- code: '610'
+  country_or_area:
+    en: Mali (Republic of)
+    fr: Mali (République du)
+    es: Malí (República de)
+    ru: Мали (Республика)
+    zh: 马里（共和国）
+    ar: جمهورية مالي
+- code: '611'
+  country_or_area:
+    en: Guinea (Republic of)
+    fr: Guinée (République de)
+    es: Guinea (República de)
+    ru: Гвинейская Республика
+    zh: 几内亚（共和国）
+    ar: جمهورية غينيا
+- code: '612'
+  country_or_area:
+    en: Côte d'Ivoire (Republic of)
+    fr: Côte d'Ivoire (République de)
+    es: Côte d'Ivoire (República de)
+    ru: Кот-д’Ивуар (Республика)
+    zh: 科特迪瓦（共和国）
+    ar: جمهورية كوت ديفوار
+- code: '613'
+  country_or_area:
+    en: Burkina Faso
+    fr: Burkina Faso
+    es: Burkina Faso
+    ru: Буркина-Фасо
+    zh: 布基纳法索
+    ar: بوركينا فاصو
+- code: '614'
+  country_or_area:
+    en: Niger (Republic of the)
+    fr: Niger (République du)
+    es: Níger (República del)
+    ru: Нигер (Республика)
+    zh: 尼日尔（共和国）
+    ar: جمهورية النيجر
+- code: '615'
+  country_or_area:
+    en: Togolese Republic
+    fr: Togolaise (République)
+    es: Togolesa (República)
+    ru: Тоголезская Республика
+    zh: 多哥共和国
+    ar: جمهورية توغو
+- code: '616'
+  country_or_area:
+    en: Benin (Republic of)
+    fr: Bénin (République du)
+    es: Benin (República de)
+    ru: Бенин (Республика)
+    zh: 贝宁（共和国）
+    ar: جمهورية بنن
+- code: '617'
+  country_or_area:
+    en: Mauritius (Republic of)
+    fr: Maurice (République de)
+    es: Mauricio (República de)
+    ru: Маврикий (Республика)
+    zh: 毛里求斯（共和国）
+    ar: جمهورية موريشيوس
+- code: '618'
+  country_or_area:
+    en: Liberia (Republic of)
+    fr: Libéria (République du)
+    es: Liberia (República de)
+    ru: Либерия (Республика)
+    zh: 利比里亚（共和国）
+    ar: جمهورية ليبيريا
+- code: '619'
+  country_or_area:
+    en: Sierra Leone
+    fr: Sierra Leone
+    es: Sierra Leona
+    ru: Сьерра-Леоне
+    zh: 塞拉利昂
+    ar: سيراليون
+- code: '620'
+  country_or_area:
+    en: Ghana
+    fr: Ghana
+    es: Ghana
+    ru: Гана
+    zh: 加纳
+    ar: غانا
+- code: '621'
+  country_or_area:
+    en: Nigeria (Federal Republic of)
+    fr: Nigéria (République fédérale du)
+    es: Nigeria (República Federal de)
+    ru: Нигерия (Федеративная Республика)
+    zh: 尼日利亚（联邦共和国）
+    ar: جمهورية نيجيريا الاتحادية
+- code: '622'
+  country_or_area:
+    en: Chad (Republic of)
+    fr: Tchad (République du)
+    es: Chad (República del)
+    ru: Чад (Республика)
+    zh: 乍得（共和国）
+    ar: جمهورية تشاد
+- code: '623'
+  country_or_area:
+    en: Central African Republic
+    fr: Centrafricaine (République)
+    es: Centroafricana (República)
+    ru: Центральноафриканская Республика
+    zh: 中非共和国
+    ar: جمهورية إفريقيا الوسطى
+- code: '624'
+  country_or_area:
+    en: Cameroon (Republic of)
+    fr: Cameroun (République du)
+    es: Camerún (República de)
+    ru: Камерун (Республика)
+    zh: 喀麦隆（共和国）
+    ar: جمهورية الكاميرون
+- code: '625'
+  country_or_area:
+    en: Cabo Verde (Republic of)
+    fr: Cabo Verde (République de)
+    es: Cabo Verde (República de)
+    ru: Кабо-Верде (Республика)
+    zh: 佛得角 （共和国）
+    ar: جمهورية كابو فيردي
+- code: '626'
+  country_or_area:
+    en: Sao Tome and Principe (Democratic Republic of)
+    fr: Sao Tomé-et-Principe (République démocratique de)
+    es: Santo Tomé y Príncipe (República Democrática de)
+    ru: Сан-Томе и Принсипи (Демократическая Республика)
+    zh: 圣多美和普林西比（民主共和国）
+    ar: جمهورية سان تومي وبرينسيبي الديمقراطية
+- code: '627'
+  country_or_area:
+    en: Equatorial Guinea (Republic of)
+    fr: Guinée équatoriale (République de)
+    es: Guinea Ecuatorial (República de)
+    ru: Экваториальная Гвинея (Республика)
+    zh: 赤道几内亚（共和国）
+    ar: جمهورية غينيا الاستوائية
+- code: '628'
+  country_or_area:
+    en: Gabonese Republic
+    fr: Gabonaise (République)
+    es: Gabonesa (República)
+    ru: Габонская Республика
+    zh: 加蓬共和国
+    ar: الجمهورية الغابونية
+- code: '629'
+  country_or_area:
+    en: Congo (Republic of the)
+    fr: Congo (République du)
+    es: Congo (República del)
+    ru: Конго (Республика)
+    zh: 刚果（共和国）
+    ar: جمهورية الكونغو
+- code: '630'
+  country_or_area:
+    en: Democratic Republic of the Congo
+    fr: République démocratique du Congo
+    es: República Democrática del Congo
+    ru: Демократическая Республика Конго
+    zh: 刚果民主共和国
+    ar: جمهورية الكونغو الديمقراطية
+- code: '631'
+  country_or_area:
+    en: Angola (Republic of)
+    fr: Angola (République d')
+    es: Angola (República de)
+    ru: Ангола (Республика)
+    zh: 安哥拉（共和国）
+    ar: جمهورية أنغولا
+- code: '632'
+  country_or_area:
+    en: Guinea-Bissau (Republic of)
+    fr: Guinée-Bissau (République de)
+    es: Guinea-Bissau (República de)
+    ru: Гвинея-Бисау (Республика)
+    zh: 几内亚比绍（共和国）
+    ar: جمهورية غينيا - بيساو
+- code: '633'
+  country_or_area:
+    en: Seychelles (Republic of)
+    fr: Seychelles (République des)
+    es: Seychelles (República de)
+    ru: Сейшельские Острова (Республика)
+    zh: 塞舌尔（共和国）
+    ar: جمهورية سيشيل
+- code: '634'
+  country_or_area:
+    en: Sudan (Republic of the)
+    fr: Soudan (République du)
+    es: Sudán (República del)
+    ru: Судан (Республика)
+    zh: 苏丹（共和国）
+    ar: جمهورية السودان
+- code: '635'
+  country_or_area:
+    en: Rwanda (Republic of)
+    fr: Rwanda (République du)
+    es: Rwanda (República de)
+    ru: Руандийская Республика
+    zh: 卢旺达（共和国）
+    ar: جمهورية رواندا
+- code: '636'
+  country_or_area:
+    en: Ethiopia (Federal Democratic Republic of)
+    fr: Ethiopie (République fédérale démocratique d')
+    es: Etiopía (República Democrática Federal de)
+    ru: Эфиопия (Федеративная Демократическая Республика)
+    zh: 埃塞俄比亚（联邦民主共和国）
+    ar: جمهورية إثيوبيا الاتحادية الديمقراطية
+- code: '637'
+  country_or_area:
+    en: Somalia (Federal Republic of)
+    fr: Somalie (République fédérale de)
+    es: Somalia (República Federal de)
+    ru: Сомали (Федеративная Республика)
+    zh: 索马里 （共和国）
+    ar: جمهورية الصومال الاتحادية
+- code: '638'
+  country_or_area:
+    en: Djibouti (Republic of)
+    fr: Djibouti (République de)
+    es: Djibouti (República de)
+    ru: Джибути (Республика)
+    zh: 吉布提（共和国）
+    ar: جمهورية جيبوتي
+- code: '639'
+  country_or_area:
+    en: Kenya (Republic of)
+    fr: Kenya (République du)
+    es: Kenya (República de)
+    ru: Кения (Республика)
+    zh: 肯尼亚（共和国）
+    ar: جمهورية كينيا
+- code: '640'
+  country_or_area:
+    en: Tanzania (United Republic of)
+    fr: Tanzanie (République-Unie de)
+    es: Tanzanía (República Unida de)
+    ru: Танзания (Объединенная Республика)
+    zh: 坦桑尼亚（联合共和国）
+    ar: جمهورية تنزانيا المتحدة
+- code: '641'
+  country_or_area:
+    en: Uganda (Republic of)
+    fr: Ouganda (République de l')
+    es: Uganda (República de)
+    ru: Уганда (Республика)
+    zh: 乌干达（共和国）
+    ar: جمهورية أوغندا
+- code: '642'
+  country_or_area:
+    en: Burundi (Republic of)
+    fr: Burundi (République du)
+    es: Burundi (República de)
+    ru: Бурунди (Республика)
+    zh: 布隆迪（共和国）
+    ar: جمهورية بوروندي
+- code: '643'
+  country_or_area:
+    en: Mozambique (Republic of)
+    fr: Mozambique (République du)
+    es: Mozambique (República de)
+    ru: Мозамбик (Республика)
+    zh: 莫桑比克（共和国）
+    ar: جمهورية موزامبيق
+- code: '645'
+  country_or_area:
+    en: Zambia (Republic of)
+    fr: Zambie (République de)
+    es: Zambia (República de)
+    ru: Замбия (Республика)
+    zh: 赞比亚（共和国）
+    ar: جمهورية زامبيا
+- code: '646'
+  country_or_area:
+    en: Madagascar (Republic of)
+    fr: Madagascar (République de)
+    es: Madagascar (República de)
+    ru: Мадагаскар (Республика)
+    zh: 马达加斯加（共和国）
+    ar: جمهورية مدغشقر
+- code: '647'
+  country_or_area:
+    en: French Departments and Territories in the Indian Ocean
+    fr: France de l'Océan indien
+    es: Departamentos y territorios franceses del Océano Indico
+    ru: Французские департаменты и территории в Индийском океане
+    zh: 法属印度洋各省和领地
+    ar: المقاطعات والأراضي الفرنسية في المحيط الهندي
+- code: '648'
+  country_or_area:
+    en: Zimbabwe (Republic of)
+    fr: Zimbabwe (République du)
+    es: Zimbabwe (República de)
+    ru: Зимбабве (Республика)
+    zh: 津巴布韦（共和国）
+    ar: جمهورية زيمبابوي
+- code: '649'
+  country_or_area:
+    en: Namibia (Republic of)
+    fr: Namibie (République de)
+    es: Namibia (República de)
+    ru: Намибия (Республика)
+    zh: 纳米比亚（共和国）
+    ar: جمهورية ناميبيا
+- code: '650'
+  country_or_area:
+    en: Malawi
+    fr: Malawi
+    es: Malawi
+    ru: Малави
+    zh: 马拉维
+    ar: ملاوي
+- code: '651'
+  country_or_area:
+    en: Lesotho (Kingdom of)
+    fr: Lesotho (Royaume du)
+    es: Lesotho (Reino de)
+    ru: Лесото (Королевство)
+    zh: 莱索托（王国）
+    ar: مملكة ليسوتو
+- code: '652'
+  country_or_area:
+    en: Botswana (Republic of)
+    fr: Botswana (République du)
+    es: Botswana (República de)
+    ru: Ботсвана (Республика)
+    zh: 博茨瓦纳（共和国）
+    ar: جمهورية بوتسوانا
+- code: '653'
+  country_or_area:
+    en: Swaziland (Kingdom of)
+    fr: Swaziland (Royaume du)
+    es: Swazilandia (Reino de)
+    ru: Свазиленд (Королевство)
+    zh: 斯威士兰（王国）
+    ar: مملكة سوازيلاند
+- code: '654'
+  country_or_area:
+    en: Comoros (Union of the)
+    fr: Comores (Union des)
+    es: Comoras (Unión de las)
+    ru: Союз Коморских Островов
+    zh: 科摩罗（联盟）
+    ar: اتحاد جزر القمر
+- code: '655'
+  country_or_area:
+    en: South Africa (Republic of)
+    fr: Sudafricaine (République)
+    es: Sudafricana (República)
+    ru: Южно-Африканская Республика
+    zh: 南非（共和国）
+    ar: جمهورية جنوب إفريقيا
+- code: '657'
+  country_or_area:
+    en: Eritrea
+    fr: Erythrée
+    es: Eritrea
+    ru: Эритрея
+    zh: 厄立特里亚
+    ar: إريتريا
+- code: '658'
+  country_or_area:
+    en: Saint Helena, Ascension and Tristan da Cunha
+    fr: Sainte-Hélène, Ascension et Tristan da Cunha
+    es: Santa Elena, Ascension y Tristan da Cunha
+    ru: Острова Св. Елены, Вознесения и Тристан-да-Кунья
+    zh: 圣赫勒拿、阿森松和特里斯坦-达库尼亚
+    ar: سانت هيلانة وأسانسيون وتريستان دا كونيا
+- code: '659'
+  country_or_area:
+    en: South Sudan (Republic of)
+    fr: Soudan du Sud (République du)
+    es: Sudán del Sur (República de)
+    ru: Южный Судан (Республика)
+    zh: 南苏丹共和国
+    ar: جمهورية جنوب السودان
+- code: '702'
+  country_or_area:
+    en: Belize
+    fr: Belize
+    es: Belice
+    ru: Белиз
+    zh: 伯利兹
+    ar: بليز
+- code: '704'
+  country_or_area:
+    en: Guatemala (Republic of)
+    fr: Guatemala (République du)
+    es: Guatemala (República de)
+    ru: Гватемала (Республика)
+    zh: 危地马拉（共和国）
+    ar: جمهورية غواتيمالا
+- code: '706'
+  country_or_area:
+    en: El Salvador (Republic of)
+    fr: El Salvador (République d')
+    es: El Salvador (República de)
+    ru: Эль-Сальвадор (Республика)
+    zh: 萨尔瓦多（共和国）
+    ar: جمهورية السلفادور
+- code: '708'
+  country_or_area:
+    en: Honduras (Republic of)
+    fr: Honduras (République du)
+    es: Honduras (República de)
+    ru: Гондурас (Республика)
+    zh: 洪都拉斯（共和国）
+    ar: جمهورية هندوراس
+- code: '710'
+  country_or_area:
+    en: Nicaragua
+    fr: Nicaragua
+    es: Nicaragua
+    ru: Никарагуа
+    zh: 尼加拉瓜
+    ar: نيكاراغوا
+- code: '712'
+  country_or_area:
+    en: Costa Rica
+    fr: Costa Rica
+    es: Costa Rica
+    ru: Коста-Рика
+    zh: 哥斯达黎加
+    ar: كوستاريكا
+- code: '714'
+  country_or_area:
+    en: Panama (Republic of)
+    fr: Panama (République du)
+    es: Panamá (República de)
+    ru: Панама (Республика)
+    zh: 巴拿马（共和国）
+    ar: جمهورية بنما
+- code: '716'
+  country_or_area:
+    en: Peru
+    fr: Pérou
+    es: Perú
+    ru: Перу
+    zh: 秘鲁
+    ar: بيرو
+- code: '722'
+  country_or_area:
+    en: Argentine Republic
+    fr: Argentine (République)
+    es: Argentina (República)
+    ru: Аргентинская Республика
+    zh: 阿根廷共和国
+    ar: جمهورية الأرجنتين
+- code: '724'
+  country_or_area:
+    en: Brazil (Federative Republic of)
+    fr: Brésil (République fédérative du)
+    es: Brasil (República Federativa del)
+    ru: Бразилия (Федеративная Республика)
+    zh: 巴西（联邦共和国）
+    ar: جمهورية البرازيل الاتحادية
+- code: '730'
+  country_or_area:
+    en: Chile
+    fr: Chili
+    es: Chile
+    ru: Чили
+    zh: 智利
+    ar: شيلي
+- code: '732'
+  country_or_area:
+    en: Colombia (Republic of)
+    fr: Colombie (République de)
+    es: Colombia (República de)
+    ru: Колумбия (Республика)
+    zh: 哥伦比亚（共和国）
+    ar: جمهورية كولومبيا
+- code: '734'
+  country_or_area:
+    en: Venezuela (Bolivarian Republic of)
+    fr: Venezuela (République bolivarienne du)
+    es: Venezuela (República Bolivariana de)
+    ru: Венесуэла (Боливарианская Республика)
+    zh: 委内瑞拉（玻利瓦尔共和国）
+    ar: جمهورية فنزويلا البوليفارية
+- code: '736'
+  country_or_area:
+    en: Bolivia (Plurinational State of)
+    fr: Bolivie (État plurinational de)
+    es: Bolivia (Estado Plurinacional de)
+    ru: Боливия (Многонациональное Государство)
+    zh: 玻利维亚（多民族国）
+    ar: دولة بوليفيا المتعددة القوميات
+- code: '738'
+  country_or_area:
+    en: Guyana
+    fr: Guyana
+    es: Guyana
+    ru: Гайана
+    zh: 圭亚那
+    ar: غُيانا
+- code: '740'
+  country_or_area:
+    en: Ecuador
+    fr: Equateur
+    es: Ecuador
+    ru: Эквадор
+    zh: 厄瓜多尔
+    ar: إكوادور
+- code: '742'
+  country_or_area:
+    en: French Guiana (French Department of)
+    fr: Guyane française (Département français de la)
+    es: Guayana francesa (Departamento francés de la)
+    ru: Французская Гвиана (департамент Франции)
+    zh: 法属圭亚那（法国一省）
+    ar: مقاطعة غويانا الفرنسية
+- code: '744'
+  country_or_area:
+    en: Paraguay (Republic of)
+    fr: Paraguay (République du)
+    es: Paraguay (República del)
+    ru: Парагвай (Республика)
+    zh: 巴拉圭（共和国）
+    ar: جمهورية باراغواي
+- code: '746'
+  country_or_area:
+    en: Suriname (Republic of)
+    fr: Suriname (République du)
+    es: Suriname (República de)
+    ru: Суринам (Республика)
+    zh: 苏里南（共和国）
+    ar: جمهورية سورينام
+- code: '748'
+  country_or_area:
+    en: Uruguay (Eastern Republic of)
+    fr: Uruguay (République orientale de l')
+    es: Uruguay (República Oriental del)
+    ru: Уругвай (Восточная Республика)
+    zh: 乌拉圭（东岸共和国）
+    ar: جمهورية أوروغواي الشرقية
+- code: '750'
+  country_or_area:
+    en: Falkland Islands (Malvinas)
+    fr: Falkland (Iles) (Malvinas)
+    es: Malvinas (Islas) (Falkland)
+    ru: Фолклендские (Мальвинские) острова
+    zh: 福克兰群岛（马尔维纳斯）
+    ar: جزر فوكلاند (مالفيناس)
+- code: 8XX
+  country_or_area:
+    en: Reserved
+    fr: Réservé
+    es: Reservado
+    ru: Зарезервирован
+    zh: 预留
+    ar: محجوز
+  note:
+    en: Mobile Country or Geographical Area Codes (MCCs) that begin with the digits
+      0, 1 and 8 are reserved for future use.
+    fr: Les indicatifs de pays ou de zones géographiques du mobile qui commencent
+      par les chiffres 0, 1 et 8 ont été réservés pour une utilisation ultérieure.
+    es: Los indicativos de país o zona geográfica para el servicio movíl que empiezan
+      por las cifras 0, 1 y 8 están reservados para utilización futura.
+    ru: Коды страны или географической зоны для подвижной связи (MCC), которые начинаются
+      с цифр 0, 1 и 8, зарезервированы для будущего использования.
+    zh: 以0、1和8开头的移动国家或地理区域代码（MCC）留未来使用。
+    ar: الرموز الدليلية للبلدان أو للمناطق الجغرافية من أجل الاتصالات المتنقلة (MCC)
+      التي تبدأ بالأرقام 0 و1 و8 محجوزة للاستعمال في المستقبل.
+- code: '901'
+  country_or_area:
+    en: International Mobile, shared code
+    fr: Mobile international, indicatif partagé
+    es: Móvil internacional, indicativo compartido
+    ru: Международная подвижная связь, общий код
+    zh: 国际移动共享代码
+    ar: خدمة متنقلة دولية، رمز مشترك
+  note:
+    en: Associated with shared mobile country code 901, the following two-digit mobile
+      network codes (MNC) have been reserved for or assigned to the international
+      mobile networks.
+    fr: 'Associés à l’indicatif de pays du mobile (MCC) 901 attribué en partage, les
+      codes de réseau mobile (MNC) à deux chiffres ci-après, ont été réservés pour
+      les réseaux du système mobile ou attribués à ces réseaux:'
+    es: 'Asociados con el indicativo de país para el servicio movíl (MCC) 901 compartido,
+      los siguientes indicativos de red para el sevicio movíl (MNC) de dos cifras
+      han sido reservados para las redes del sistema movíl internacional o asignados
+      a las mismas:'
+    ru: 'Следующий двузначный код сети подвижной связи (MNC), связанный с общим кодом
+      страны в системе подвижной связи 901, зарезервирован для международных сетей
+      подвижной связи или присвоен международным сетям подвижной связи:'
+    zh: 配合共用的移动国家代码901，以下两位移动网络代码（MNC）以留用或指配给国际移动网络：
+    ar: 'جرى حجز أو تخصيص رمز الشبكة المتنقلة (MNC) التالي المكون من رقمين والمرتبط
+      بالرمز الدليلي القُطري المشترك 901 للشبكات المتنقلة الدولية:'

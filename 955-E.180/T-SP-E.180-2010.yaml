@@ -1,0 +1,2441 @@
+---
+metadata:
+  title:
+    en: Various tones used in national networks
+    fr: DIFFÉRENTES TONALITÉS RENCONTRÉES DANS LES RÉSEAUX NATIONAUX
+    es: DIFERENTES TONOS UTILIZADOS EN LAS REDES NACIONALES
+  locale:
+    country_or_area:
+      en: Country
+      fr: PAYS
+      es: PAÍS
+    tone:
+      en: Tone
+      fr: TONALITÉ
+      es: TONO
+    frequency_in_hz:
+      en: FREQUENCY in Hz
+      fr: FRÉQUENCE en Hz
+      es: FRECUENCIA en Hz
+    cadence_in_s:
+      en: CADENCE in seconds
+      fr: CADENCE en secondes
+      es: CADENCIA en segundos
+    dial_tone:
+      en: 'Dial Tone: A tone advising that the exchange is ready to receive call information
+        and inviting the user to start sending call information.'
+      fr: 'Tonalité de numérotation: Tonalité signifiant que le commutateur est prêt
+        à recevoir l''information d''appel et invitant l''usager à commencer à envoyer
+        cette information.'
+      es: 'Tono de invitación a marcar: Indicación audible en forma de tonalidad de
+        que la central está preparada para recibir la información de llamada y que
+        invita al usuario a que comience a enviar dicha información.'
+    ringing_tone:
+      en: 'Ringing Tone: A tone advising the caller that a connection has been made
+        and that a calling signal is being applied to a telephone number or service
+        point.'
+      fr: 'Tonalité de retour d''appel: Tonalité transmise au demandeur pour l''informer
+        qu''une connexion a été établie et qu''un signal d''appel est en cours d''application
+        au numéro de téléphone ou au point de service distant.'
+      es: 'Tono de llamada: Indicación audible en forma de tonalidad enviada al que
+        llama para informarle de que se ha establecido una conexión y que se está
+        aplicando una señal de llamada al número telefónico o punto de servicio distantes.'
+    busy_tone:
+      en: 'Busy Tone: A tone advising the caller that the telephone number is busy.'
+      fr: 'Tonalité d''occupation: Tonalité transmise au demandeur pour l''informer
+        que le numéro de téléphone distant est occupé.'
+      es: 'Tono de ocupado: Indicación audible en forma de tonalidad enviada al que
+        llama para informarle de que el número telefónico distante está ocupado.'
+    congestion_tone:
+      en: 'Congestion Tone: A tone advising the caller that the groups of lines or
+        switching equipment necessary for the setting-up of the required call or for
+        the use of a specific service are temporarily engaged.'
+      fr: 'Tonalité d''encombrement: Tonalité transmise au demandeur pour l''informer
+        que les faisceaux de circuits ou les équipements de commutation nécessaires
+        à l''établissement de la communication demandée ou à l''utilisation d''un
+        service déterminé sont temporairement occupés.'
+      es: 'Tono de congestión: Indicación audible en forma de tonalidad enviada al
+        que llama para informarle de que los haces de circuitos o equipos de conmutación
+        necesarios para el establecimiento de la comunicación solicitada o para la
+        utilización de un servicio específico están ocupados temporalmente.'
+    special_information_tone:
+      en: 'Special Information Tone: A tone advising the caller that the called number
+        cannot be reached for reasons other than "subscriber busy" or "congestion".
+        The tone may also be used in conjunction with recorded announcements to signify
+        that what the caller is about to hear is a recording. It should always be
+        used to precede all call failure announcements.'
+      fr: 'Tonalité spéciale d''information: Tonalité transmise au demandeur pour
+        l''informer que le numéro demandé ne peut être atteint pour des raisons autres
+        que l''occupation ou l''encombrement. La tonalité peut aussi être utilisée
+        conjointement avec des annonces enregistrées avisant le demandeur que ce qu''il
+        va entendre est un enregistrement. Elle doit toujours précéder l''annonce
+        de l''échec de l''aboutissement d''un appel.'
+      es: 'Tono especial de información: Indicación audible en forma de tonalidad
+        enviada al que llama para informarle de que el número solicitado no puede
+        obtenerse por una causa distinta de las de «abonado ocupado» o «congestión».
+        Este tono puede utilizarse también conjuntamente con anuncios grabados para
+        indicar al que llama que las palabras que va a oír constituyen una grabación.
+        Debe utilizarse siempre para introducir todos los anuncios de fallos de la
+        llamada.'
+    call_waiting_tone:
+      en: 'Call Waiting Tone: A tone advising the user of the call waiting supplementary
+        service who is engaged on a call that someone is attempting to call his number.'
+      fr: 'Tonalité d''appel en attente: Tonalité transmise à l''utilisateur du service
+        supplémentaire d''appel en instance qui est engagé dans une conversation,
+        pour l''avertir que quelqu''un tente d''atteindre son numéro.'
+      es: 'Tono de indicación de llamada en espera: Indicación audible en forma de
+        tonalidad enviada a un usuario del servicio suplementario de indicación de
+        llamada en espera que está ocupado en una comunicación, para informarle de
+        que alguien está tratando de llamar a su número.'
+    pay_tone:
+      en: 'Pay Tone: A tone advising users of a payphone that a payment is required.'
+      fr: 'Tonalité de paiement: Tonalité transmise à l''utilisateur d''un publiphone
+        pour l''avertir qu''il doit procéder à un paiement.'
+      es: 'Tono de pago: Indicación audible en forma de tonalidad enviada al usuario
+        de un teléfono de previo pago para informarle de que es necesario efectuar
+        un pago.'
+data:
+  Albania (Republic of):
+    country_or_area:
+      en: Albania (Republic of)
+      fr: Albanie (République d')
+      es: Albania (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 0.2 off 0.2 on 1.4 off
+    tone_type: call_waiting
+  Algeria (People's Democratic Republic of):
+    country_or_area:
+      en: Algeria (People's Democratic Republic of)
+      fr: Algérie (République algérienne démocratique et populaire)
+      es: Argelia (República Argelina Democrática y Popular)
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: '425'
+    cadence_in_s: 1.5 on 3.5 off
+    tone_type: ringing
+  Andorra (Principality of):
+    country_or_area:
+      en: Andorra (Principality of)
+      fr: Andorre (Principauté d')
+      es: Andorra (Principado de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.175 on 0.175 off 0.175 on 3.5 off
+    tone_type: call_waiting
+  Angola (Republic of):
+    country_or_area:
+      en: Angola (Republic of)
+      fr: Angola (République d')
+      es: Angola (República de)
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: '400'
+    cadence_in_s: 1.0 on 5.0 off
+    tone_type: waiting
+  Anguilla:
+    country_or_area:
+      en: Anguilla
+      fr: Anguilla
+      es: Anguilla
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 1x(0.5 on 10.0 off 0.5 on)
+    tone_type: waiting
+  Antigua and Barbuda:
+    country_or_area:
+      en: Antigua and Barbuda
+      fr: Antigua-et-Barbuda
+      es: Antigua y Barbuda
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '480'
+    cadence_in_s: 1x(0.6 on 10.0 off)
+    tone_type: call_waiting
+  Argentine Republic:
+    country_or_area:
+      en: Argentine Republic
+      fr: Argentine (République)
+      es: Argentina (República)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.3 on 10.0 off
+    tone_type: call_waiting
+  Aruba:
+    country_or_area:
+      en: Aruba
+      fr: Aruba
+      es: Aruba
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 0.2 off 0.2 on 4.4 off
+    tone_type: call_waiting
+  Ascension:
+    country_or_area:
+      en: Ascension
+      fr: Ascension
+      es: Ascensión
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '1400'
+    cadence_in_s: 1x(0.384 on)
+    tone_type: call_waiting
+  Australia:
+    country_or_area:
+      en: Australia
+      fr: Australie
+      es: Australia
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 0.2 off 0.2 on 4.4 off
+    tone_type: call_waiting
+  Austria:
+    country_or_area:
+      en: Austria
+      fr: Autriche
+      es: Austria
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: '420'
+    cadence_in_s: 0.04 on 1.95 off
+    tone_type: waiting
+  Bahamas (Commonwealth of the):
+    country_or_area:
+      en: Bahamas (Commonwealth of the)
+      fr: Bahamas (Commonwealth des)
+      es: Bahamas (Commonwealth de las)
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: 480//620
+    cadence_in_s: 2.0 on 4.0 off
+    tone_type: ringing
+  Bahrain (Kingdom of):
+    country_or_area:
+      en: Bahrain (Kingdom of)
+      fr: Bahreïn (Royaume de)
+      es: Bahrein (Reino de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 0.6 off 0.2 on 5.0 off
+    tone_type: call_waiting
+  Bangladesh (People's Republic of):
+    country_or_area:
+      en: Bangladesh (People's Republic of)
+      fr: Bangladesh (République populaire du)
+      es: Bangladesh (República Popular de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '450'
+    cadence_in_s: 3.0 on 10.0 off
+    tone_type: call_waiting
+  Barbados:
+    country_or_area:
+      en: Barbados
+      fr: Barbade
+      es: Barbados
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 2x(0.3 on 10.0 off)
+    tone_type: call_waiting
+  Belarus (Republic of):
+    country_or_area:
+      en: Belarus (Republic of)
+      fr: Bélarus (République du)
+      es: Belarús (República de)
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.8 on 3.2 off
+    tone_type: ringing
+  Belgium:
+    country_or_area:
+      en: Belgium
+      fr: Belgique
+      es: Bélgica
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '1400'
+    cadence_in_s: 0.175 on 0.175 off 0.175 on 3.50 off
+    tone_type: call_waiting
+  Benin (Republic of):
+    country_or_area:
+      en: Benin (Republic of)
+      fr: Bénin (République du)
+      es: Benin (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '440'
+    cadence_in_s: continuous
+    tone_type: call_waiting
+  Bermuda:
+    country_or_area:
+      en: Bermuda
+      fr: Bermudes
+      es: Bermudas
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente
+      es: Tono de indicación de llamada en espera
+    frequency_in_hz: '440'
+    notes:
+      en: Two bursts, ten seconds apart.
+    tone_type: call_waiting
+  Bhutan (Kingdom of):
+    country_or_area:
+      en: Bhutan (Kingdom of)
+      fr: Bhoutan (Royaume du)
+      es: Bhután (Reino de)
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: '400'
+    cadence_in_s: 0.5 on 0.25 off
+    tone_type: waiting
+  Bosnia and Herzegovina:
+    country_or_area:
+      en: Bosnia and Herzegovina
+      fr: Bosnie-Herzégovine
+      es: Bosnia y Herzegovina
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.3 on 10.0 off
+    tone_type: call_waiting
+  Botswana (Republic of):
+    country_or_area:
+      en: Botswana (Republic of)
+      fr: Botswana (République du)
+      es: Botswana (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 0.6 off 0.2 on
+    tone_type: call_waiting
+  Brazil (Federative Republic of):
+    country_or_area:
+      en: Brazil (Federative Republic of)
+      fr: Brésil (République fédérative du)
+      es: Brasil (República Federativa del)
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.05 on 1.0 off
+    tone_type: waiting
+  British Virgin Islands:
+    country_or_area:
+      en: British Virgin Islands
+      fr: Vierges britanniques (Iles)
+      es: Vírgenes británicas (Islas)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 1x(0.5 on 10.0 off 0.5 on)
+    tone_type: call_waiting
+  Brunei Darussalam:
+    country_or_area:
+      en: Brunei Darussalam
+      fr: Brunéi Darussalam
+      es: Brunei Darussalam
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: 400x24
+    cadence_in_s: 0.5 on 0.25 off
+    tone_type: call_waiting
+  Bulgaria (Republic of):
+    country_or_area:
+      en: Bulgaria (Republic of)
+      fr: Bulgarie (République de)
+      es: Bulgaria (República de)
+    tone_desc:
+      en: Call waiting tone III
+      fr: Tonalité d'appel en attente - III
+      es: Tono de indicación de llamada en espera - III
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 0.6 off
+    tone_type: call_waiting
+  Burkina Faso:
+    country_or_area:
+      en: Burkina Faso
+      fr: Burkina Faso
+      es: Burkina Faso
+    tone_desc:
+      en: Special information tone
+      fr: Tonalité spéciale d'information -
+      es: Tono especial de información -
+    frequency_in_hz: 900/1380/1860
+    cadence_in_s: 0.35 on 0.30 on 0.35 on 1.0 off
+    tone_type: special_information
+  Burundi (Republic of):
+    country_or_area:
+      en: Burundi (Republic of)
+      fr: Burundi (République du)
+      es: Burundi (República de)
+    tone_desc:
+      en: Special information tone
+      fr: Tonalité spéciale d'information -
+      es: Tono especial de información -
+    frequency_in_hz: 950/1400/1800
+    cadence_in_s: 3x0.33 on 1.0 off
+    tone_type: special_information
+  Cambodia (Kingdom of):
+    country_or_area:
+      en: Cambodia (Kingdom of)
+      fr: Cambodge (Royaume du)
+      es: Camboya (Reino de)
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.4 on 0.2 off 0.4 on 2.0 off
+    tone_type: ringing
+  Cameroon (Republic of):
+    country_or_area:
+      en: Cameroon (Republic of)
+      fr: Cameroun (République du)
+      es: Camerún (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 0.2 on 0.6 off 0.2 on
+    tone_type: call_waiting
+  Canada:
+    country_or_area:
+      en: Canada
+      fr: Canada
+      es: Canadá
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 2x(0.3 on 10.0 off)
+    tone_type: call_waiting
+  Cayman Islands:
+    country_or_area:
+      en: Cayman Islands
+      fr: Cayman (Iles)
+      es: Caimanes (Islas)
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: '425'
+    cadence_in_s: 1.0 on 4.0 off
+    tone_type: ringing
+  Central African Republic:
+    country_or_area:
+      en: Central African Republic
+      fr: Centrafricaine (République)
+      es: Centroafricana (República)
+    tone_desc:
+      en: Special information tone
+      fr: Tonalité spéciale d'information -
+      es: Tono especial de información -
+    frequency_in_hz: 950/1400/1800
+    cadence_in_s: 3x0.33 on 2x0.30 off
+    tone_type: special_information
+  Chad (Republic of):
+    country_or_area:
+      en: Chad (Republic of)
+      fr: Tchad (République du)
+      es: Chad (República del)
+    tone_desc:
+      en: Special information tone
+      fr: Tonalité spéciale d'information -
+      es: Tono especial de información -
+    frequency_in_hz: 950/1400/1800
+    cadence_in_s: "(3x0.33 on 2x0.03 off) 1.0 off"
+    tone_type: special_information
+  'Channel Islands: Guernsey':
+    country_or_area:
+      en: 'Channel Islands: Guernsey'
+      fr: 'Iles anglo-normandes: Guernesey'
+      es: 'Islas anglo-normandas: Guernsey'
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '400'
+    cadence_in_s: 8x(0.1 on 4.9 off)
+    tone_type: call_waiting
+  'Channel Islands: Jersey':
+    country_or_area:
+      en: 'Channel Islands: Jersey'
+      fr: 'Iles anglo-normandes: Jersey'
+      es: 'Islas anglo-normandas: Jersey'
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: '400'
+    cadence_in_s: 0.1 on 2.5 off 0.1 on
+    tone_type: waiting
+  Chile:
+    country_or_area:
+      en: Chile
+      fr: Chili
+      es: Chile
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: 900+1300
+    cadence_in_s: 0.5 on 0.5 off
+    tone_type: waiting
+  China (People's Republic of):
+    country_or_area:
+      en: China (People's Republic of)
+      fr: Chine (République populaire de)
+      es: China (República Popular de)
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: '450'
+    cadence_in_s: 0.4 on 4.0 off
+    tone_type: waiting
+  Colombia (Republic of):
+    country_or_area:
+      en: Colombia (Republic of)
+      fr: Colombie (République de)
+      es: Colombia (República de)
+    tone_desc:
+      en: Special information tone
+      fr: Tonalité spéciale d'information -
+      es: Tono especial de información -
+    frequency_in_hz: 950/1400/1800
+    cadence_in_s: 3x0.333 on 1.0 off
+    tone_type: special_information
+  Comoros (Union of the):
+    country_or_area:
+      en: Comoros (Union of the)
+      fr: Comores (Union des)
+      es: Comoras (Unión de las)
+    tone_desc:
+      en: Special information tone
+      fr: Tonalité spéciale d'information -
+      es: Tono especial de información -
+    frequency_in_hz: 950/1400/1800
+    cadence_in_s: 3x0.33 on 1.0 off
+    tone_type: special_information
+  Cook Islands:
+    country_or_area:
+      en: Cook Islands
+      fr: Cook (Iles)
+      es: Cook (Islas)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: 400+450
+    cadence_in_s: 0.5 on
+    tone_type: call_waiting
+  Costa Rica:
+    country_or_area:
+      en: Costa Rica
+      fr: Costa Rica
+      es: Costa Rica
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '450'
+    cadence_in_s: 0.15 on 0.15 off 0.15 on 8.0 off
+    tone_type: call_waiting
+  Côte d'Ivoire (Republic of):
+    country_or_area:
+      en: Côte d'Ivoire (Republic of)
+      fr: Côte d'Ivoire (République de)
+      es: Côte d'Ivoire (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente
+      es: Tono de indicación de llamada en espera
+    frequency_in_hz: '425'
+    notes:
+      en: Two bursts, ten seconds apart.
+    tone_type: call_waiting
+  Croatia (Republic of):
+    country_or_area:
+      en: Croatia (Republic of)
+      fr: Croatie (République de)
+      es: Croacia (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.3 on 8.0 off
+    tone_type: call_waiting
+  Cuba:
+    country_or_area:
+      en: Cuba
+      fr: Cuba
+      es: Cuba
+    tone_desc:
+      en: Call waiting tone II
+      fr: Tonalité d'appel en attente - II
+      es: Tono de indicación de llamada en espera - II
+    frequency_in_hz: '400'
+    cadence_in_s: 0.5 on 0.5 off
+    tone_type: call_waiting
+  Cyprus (Republic of):
+    country_or_area:
+      en: Cyprus (Republic of)
+      fr: Chypre (République de)
+      es: Chipre (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.1 on 0.1 off 0.1 on 5.0 off
+    tone_type: call_waiting
+  Czech Republic:
+    country_or_area:
+      en: Czech Republic
+      fr: République tchèque
+      es: República Checa
+    tone_desc:
+      en: Caller waiting tone
+      fr: Tonalité de demandeur en attente -
+      es: Tono de indicación de llamada en espera para el llamante -
+    frequency_in_hz: '425'
+    cadence_in_s: 1.00 on 0.17 off 0.33 on 3.50 off
+    tone_type: caller_waiting
+  Democratic Republic of the Congo:
+    country_or_area:
+      en: Democratic Republic of the Congo
+      fr: République démocratique du Congo
+      es: República Democrática del Congo
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: '450'
+    cadence_in_s: 2.0 on 4.0 off
+    tone_type: ringing
+  Denmark:
+    country_or_area:
+      en: Denmark
+      fr: Danemark
+      es: Dinamarca
+    tone_desc:
+      en: Call waiting tone II
+      fr: Tonalité d'appel en attente - II
+      es: Tono de indicación de llamada en espera - II
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 0.6 off 0.2 on 3.0 off 0.2 on 0.6 off 0.2 on
+    notes:
+      en: For PLMN/GSM.
+    tone_type: call_waiting
+  Diego Garcia:
+    country_or_area:
+      en: Diego Garcia
+      fr: Diego Garcia
+      es: Diego Garcia
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tonalité de retour d'appel -
+    frequency_in_hz: 440/480
+    cadence_in_s: 1.0 on 3.0 off
+    tone_type: ringing
+  Djibouti (Republic of):
+    country_or_area:
+      en: Djibouti (Republic of)
+      fr: Djibouti (République de)
+      es: Djibouti (República de)
+    tone_desc:
+      en: Route tone
+      fr: Tonalité d'acheminement -
+      es: Tono de encaminamiento -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.05 on 0.05 off
+    tone_type: route
+  Dominica (Commonwealth of):
+    country_or_area:
+      en: Dominica (Commonwealth of)
+      fr: Dominique (Commonwealth de la)
+      es: Dominica (Commonwealth de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tonalité d'appel en attente -
+    frequency_in_hz: '440'
+    cadence_in_s: 1x(0.5 on 10.0 off 0.5 on)
+    tone_type: call_waiting
+  Dominican Republic:
+    country_or_area:
+      en: Dominican Republic
+      fr: Dominicaine (République)
+      es: Dominicana (República)
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: 400//450
+    cadence_in_s: 0.4 on 0.2 off 0.4 on 2.2 off
+    tone_type: ringing
+  Ecuador:
+    country_or_area:
+      en: Ecuador
+      fr: Equateur
+      es: Ecuador
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 0.6 off
+    tone_type: call_waiting
+  Egypt (Arab Republic of):
+    country_or_area:
+      en: Egypt (Arab Republic of)
+      fr: Egypte (République arabe d')
+      es: Egipto (República Arabe de)
+    tone_desc:
+      en: Special information tone
+      fr: Tonalité spéciale d'information -
+      es: Tono especial de información -
+    frequency_in_hz: 950/1400/1800
+    cadence_in_s: 0.33 on 0.33 off 0.33 on 0.33 off 0.33 on 0.33 off
+    tone_type: special_information
+  El Salvador (Republic of):
+    country_or_area:
+      en: El Salvador (Republic of)
+      fr: El Salvador (République d')
+      es: El Salvador (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.35 on 15.0 off
+    tone_type: call_waiting
+  Estonia (Republic of):
+    country_or_area:
+      en: Estonia (Republic of)
+      fr: Estonie (République d')
+      es: Estonia (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: 950/1400/1800
+    cadence_in_s: 3x0.33 on 0.3 off
+    tone_type: call_waiting
+  Ethiopia (Federal Democratic Republic of):
+    country_or_area:
+      en: Ethiopia (Federal Democratic Republic of)
+      fr: Ethiopie (République fédérale démocratique d')
+      es: Etiopía (República Democrática Federal de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 0.6 off
+    tone_type: call_waiting
+  Falkland Islands (Malvinas):
+    country_or_area:
+      en: Falkland Islands (Malvinas)
+      fr: Falkland (Iles) (Malvinas)
+      es: Malvinas (Islas) (Falkland)
+    tone_desc:
+      en: Warning tone (operator intervening)
+      fr: Tonalité d'avertissement - intervention d’opératrice
+      es: Tono de aviso - intervención de la operadora
+    frequency_in_hz: '1000'
+    cadence_in_s: 0.1 on 0.1 off
+    tone_type: warning
+  Faroe Islands:
+    country_or_area:
+      en: Faroe Islands
+      fr: Féroé (Iles)
+      es: Feroe (Islas)
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: '425'
+    cadence_in_s: 1.0 on 4.0 off
+    tone_type: ringing
+  Fiji (Republic of):
+    country_or_area:
+      en: Fiji (Republic of)
+      fr: Fidji (République de)
+      es: Fiji (República de)
+    tone_desc:
+      en: Warning tone
+      fr: Tonalité d'avertissement -
+      es: Tono de aviso -
+    frequency_in_hz: '1400'
+    cadence_in_s: 0.5 on 12.0 off
+    tone_type: warning
+  Finland:
+    country_or_area:
+      en: Finland
+      fr: Finlande
+      es: Finlandia
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.15 on 0.15 off 0.15 on 8.0 off
+    tone_type: call_waiting
+  France:
+    country_or_area:
+      en: France
+      fr: France
+      es: Francia
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 0.3 on 10.0 off
+    tone_type: call_waiting
+  French Departments and Territories in the Indian Ocean:
+    country_or_area:
+      en: French Departments and Territories in the Indian Ocean
+      fr: France de l'Océan indien
+      es: Departamentos y territorios franceses del Océano Indico
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 0.3 on 10.0 off
+    tone_type: call_waiting
+  French Guiana (French Department of):
+    country_or_area:
+      en: French Guiana (French Department of)
+      fr: Guyane française (Département français de la)
+      es: Guayana francesa (Departamento francés de la)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 0.3 on 10.0 off
+    tone_type: call_waiting
+  French Polynesia (Territoire français d'outre-mer):
+    country_or_area:
+      en: French Polynesia (Territoire français d'outre-mer)
+      fr: Polynésie française (Territoire français d'outre-mer)
+      es: Polinesia francesa (Territoire français d'outre-mer)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 1.7 on 3.3 off
+    tone_type: call_waiting
+  Gabonese Republic:
+    country_or_area:
+      en: Gabonese Republic
+      fr: Gabonaise (République)
+      es: Gabonesa (República)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '1800'
+    cadence_in_s: 0.5 on 2.5 off
+    tone_type: call_waiting
+  Gambia (Republic of the):
+    country_or_area:
+      en: Gambia (Republic of the)
+      fr: Gambie (République de)
+      es: Gambia (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '950'
+    cadence_in_s: 0.330 on 0.030 off
+    tone_type: call_waiting
+  Georgia:
+    country_or_area:
+      en: Georgia
+      fr: Géorgie
+      es: Georgia
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.125 on
+    tone_type: call_waiting
+  Germany (Federal Republic of):
+    country_or_area:
+      en: Germany (Federal Republic of)
+      fr: Allemagne (République fédérale d')
+      es: Alemania (República Federal de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente
+      es: Tono de indicación de llamada en espera
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 0.2 off 0.2 on 5.0 off
+    notes:
+      en: This tone is used within the supplementary service 'Call Waiting' the duration
+        is 30 seconds.
+    tone_type: call_waiting
+  Ghana:
+    country_or_area:
+      en: Ghana
+      fr: Ghana
+      es: Ghana
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: '400'
+    cadence_in_s: 0.5 on 0.3 on 0.2 off 0.3 on 0.2 off 3.0 off
+    tone_type: waiting
+  Gibraltar:
+    country_or_area:
+      en: Gibraltar
+      fr: Gibraltar
+      es: Gibraltar
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: '400'
+    cadence_in_s: 0.1 on 3.0 off
+    tone_type: waiting
+  Greece:
+    country_or_area:
+      en: Greece
+      fr: Grèce
+      es: Grecia
+    tone_desc:
+      en: Call waiting tone
+      fr: Tono de indicación de llamada en espera -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.3 on 10.0 off 0.3 on 10.0 off
+    tone_type: call_waiting
+  Greenland (Denmark):
+    country_or_area:
+      en: Greenland (Denmark)
+      fr: Groenland (Danemark)
+      es: Groenlandia (Dinamarca)
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: 445//425
+    cadence_in_s: 1.0 on 4.0 off
+    tone_type: ringing
+  Grenada:
+    country_or_area:
+      en: Grenada
+      fr: Grenade
+      es: Granada
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: 440+480
+    cadence_in_s: 2.0 on 4.0 off
+    tone_type: ringing
+  Guadeloupe (French Department of):
+    country_or_area:
+      en: Guadeloupe (French Department of)
+      fr: Guadeloupe (Département français de la)
+      es: Guadalupe (Departamento francés de la)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 0.3 on 10.0 off
+    tone_type: call_waiting
+  Guinea (Republic of):
+    country_or_area:
+      en: Guinea (Republic of)
+      fr: Guinée (République de)
+      es: Guinea (República de)
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: '450'
+    cadence_in_s: 0.4 on 0.2 off
+    tone_type: ringing
+  Guyana:
+    country_or_area:
+      en: Guyana
+      fr: Guyana
+      es: Guyana
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: '480'
+    cadence_in_s: 0.5 on 18.0 off
+    tone_type: waiting
+  Honduras (Republic of):
+    country_or_area:
+      en: Honduras (Republic of)
+      fr: Honduras (République du)
+      es: Honduras (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 0.5 on 0.5 off 2.0 on 4.0 off
+    tone_type: call_waiting
+  Hong Kong, China:
+    country_or_area:
+      en: Hong Kong, China
+      fr: Hong Kong, Chine
+      es: Hong Kong, China
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: 440+480
+    cadence_in_s: 0.4 on 0.2 off 0.4 on 3.0 off
+    tone_type: ringing
+  Hungary (Republic of):
+    country_or_area:
+      en: Hungary (Republic of)
+      fr: Hongrie (République de)
+      es: Hungría (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.04 on 1.96 off
+    tone_type: call_waiting
+  Iceland:
+    country_or_area:
+      en: Iceland
+      fr: Islande
+      es: Islandia
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 4x(0.2 on 0.2 off 0.2 on 3.6 off 0.2 on 0.2 off 0.2 on)
+    tone_type: waiting
+  India (Republic of):
+    country_or_area:
+      en: India (Republic of)
+      fr: Inde (République de l')
+      es: India (República de la)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '400'
+    cadence_in_s: 0.2 on 0.1 off 0.2 on 7.5 off
+    tone_type: call_waiting
+  Indonesia (Republic of):
+    country_or_area:
+      en: Indonesia (Republic of)
+      fr: Indonésie (République d')
+      es: Indonesia (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.15 on 0.15 off 0.15 on 10.0 off
+    tone_type: call_waiting
+  Iran (Islamic Republic of):
+    country_or_area:
+      en: Iran (Islamic Republic of)
+      fr: Iran (République islamique d')
+      es: Irán (República Islámica del)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 0.2 off 0.2 on 10.0 off
+    tone_type: call_waiting
+  Iraq (Republic of):
+    country_or_area:
+      en: Iraq (Republic of)
+      fr: Iraq (République d')
+      es: Iraq (República del)
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: '400'
+    cadence_in_s: continuous
+    tone_type: ringing
+  Ireland:
+    country_or_area:
+      en: Ireland
+      fr: Irlande
+      es: Irlanda
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.18 on 0.20 off 0.20 on 4.50 off
+    tone_type: call_waiting
+  Israel (State of):
+    country_or_area:
+      en: Israel (State of)
+      fr: Israël (Etat d')
+      es: Israel (Estado de)
+    tone_desc:
+      en: Caller waiting tone
+      fr: Tonalité de demandeur en attente -
+      es: Tono de indicación de llamada en espera para el llamante -
+    frequency_in_hz: '400'
+    cadence_in_s: 2x(0.1 on 0.1 off) 0.6 on 3.0 off
+    tone_type: caller_waiting
+  Italy:
+    country_or_area:
+      en: Italy
+      fr: Italie
+      es: Italia
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente
+      es: Tono de indicación de llamada en espera
+    frequency_in_hz: '425'
+    cadence_in_s: 0.40 on 0.10 off 0.25 on 0.10 off 0.15 on
+    notes:
+      en: This tone bursts every 15 seconds.
+    tone_type: call_waiting
+  Jamaica:
+    country_or_area:
+      en: Jamaica
+      fr: Jamaïque
+      es: Jamaica
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 0.25 on 0.25 off
+    tone_type: call_waiting
+  Japan:
+    country_or_area:
+      en: Japan
+      fr: Japon
+      es: Japón
+    tone_desc:
+      en: Call waiting tone VI
+      fr: Tonalité d'appel en attente - VI
+      es: Tono de indicación de llamada en espera - VI
+    frequency_in_hz: 400x16/400
+    cadence_in_s: 0.5 on 0.0~4.0 off 0.05 on 0.45 off 0.05 on 0.45 off 0.05 on 0.45
+      off 0.05 on 2.45 off
+    tone_type: call_waiting
+  Jordan (Hashemite Kingdom of):
+    country_or_area:
+      en: Jordan (Hashemite Kingdom of)
+      fr: Jordanie (Royaume hachémite de)
+      es: Jordania (Reino Hachemita de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: 420x40
+    cadence_in_s: 0.15 on 0.15 off
+    tone_type: call_waiting
+  Kenya (Republic of):
+    country_or_area:
+      en: Kenya (Republic of)
+      fr: Kenya (République du)
+      es: Kenya (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: continuous
+    tone_type: call_waiting
+  Kiribati (Republic of):
+    country_or_area:
+      en: Kiribati (Republic of)
+      fr: Kiribati (République de)
+      es: Kiribati (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.1 on 0.2 off 0.1 on 4.7 off
+    tone_type: call_waiting
+  Korea (Republic of):
+    country_or_area:
+      en: Korea (Republic of)
+      fr: Corée (République de)
+      es: Corea (República de)
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: 350+440
+    cadence_in_s: 0.25 on 0.25 off 0.25 on 3.25 off
+    tone_type: waiting
+  Kuwait (State of):
+    country_or_area:
+      en: Kuwait (State of)
+      fr: Koweït (Etat du)
+      es: Kuwait (Estado de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 1.0 on 4.0 off
+    tone_type: call_waiting
+  Kyrgyz Republic:
+    country_or_area:
+      en: Kyrgyz Republic
+      fr: République kirghize
+      es: República Kirguisa
+    tone_desc:
+      en: Caller waiting tone
+      fr: Tonalité de demandeur en attente -
+      es: Tono de indicación de llamada en espera para el llamante -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 5.0 off
+    tone_type: caller_waiting
+  Lao People's Democratic Republic:
+    country_or_area:
+      en: Lao People's Democratic Republic
+      fr: Lao (République démocratique populaire)
+      es: Lao (República Democrática Popular)
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.4 on 0.4 off
+    tone_type: waiting
+  Latvia (Republic of):
+    country_or_area:
+      en: Latvia (Republic of)
+      fr: Lettonie (République de)
+      es: Letonia (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 5.0 off
+    tone_type: call_waiting
+  Lebanon:
+    country_or_area:
+      en: Lebanon
+      fr: Liban
+      es: Líbano
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 0.6 off
+    tone_type: call_waiting
+  Lesotho (Kingdom of):
+    country_or_area:
+      en: Lesotho (Kingdom of)
+      fr: Lesotho (Royaume du)
+      es: Lesotho (Reino de)
+    tone_desc:
+      en: Call waiting tone II
+      fr: Tonalité d'appel en attente - II
+      es: Tono de indicación de llamada en espera - II
+    frequency_in_hz: '425'
+    cadence_in_s: 0.15 on 0.15 off
+    tone_type: call_waiting
+  Liberia (Republic of):
+    country_or_area:
+      en: Liberia (Republic of)
+      fr: Libéria (République du)
+      es: Liberia (República de)
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: 425//450
+    cadence_in_s: 1.0 on 4.0 off
+    tone_type: ringing
+  Liechtenstein (Principality of):
+    country_or_area:
+      en: Liechtenstein (Principality of)
+      fr: Liechtenstein (Principauté de)
+      es: Liechtenstein (Principado de)
+    tone_desc:
+      en: Call waiting tone III
+      fr: Tonalité d'appel en attente - III
+      es: Tono de indicación de llamada en espera - III
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 0.2 off 0.2 on 4.0 off
+    tone_type: call_waiting
+  Lithuania (Republic of):
+    country_or_area:
+      en: Lithuania (Republic of)
+      fr: Lituanie (République de)
+      es: Lituania (República de)
+    tone_desc:
+      en: Call waiting tone II
+      fr: Tonalité d'appel en attente - II
+      es: Tono de indicación de llamada en espera - II
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 5.0 off
+    tone_type: call_waiting
+  Luxembourg:
+    country_or_area:
+      en: Luxembourg
+      fr: Luxembourg
+      es: Luxemburgo
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: continuous
+    tone_type: call_waiting
+  Macao, China:
+    country_or_area:
+      en: Macao, China
+      fr: Macao, Chine
+      es: Macao, China
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 0.6 off
+    tone_type: call_waiting
+  Madagascar (Republic of):
+    country_or_area:
+      en: Madagascar (Republic of)
+      fr: Madagascar (République de)
+      es: Madagascar (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 0.1 on 1.9 off
+    tone_type: call_waiting
+  Malawi:
+    country_or_area:
+      en: Malawi
+      fr: Malawi
+      es: Malawi
+    tone_desc:
+      en: Special information tone
+      fr: Tonalité spéciale d'information -
+      es: Tonalité spéciale d'information -
+    frequency_in_hz: 950/1400/1800
+    cadence_in_s: 3x0.3 on 1.0 off
+    tone_type: special_information
+  Malaysia:
+    country_or_area:
+      en: Malaysia
+      fr: Malaisie
+      es: Malasia
+    tone_desc:
+      en: Ringing tone II
+      fr: Tonalité de retour d'appel - II
+      es: Tono de llamada - II
+    frequency_in_hz: '425'
+    cadence_in_s: 1.0 on 3.0 off 1.0 on 5.0 off
+    tone_type: ringing
+  Maldives (Republic of):
+    country_or_area:
+      en: Maldives (Republic of)
+      fr: Maldives (République des)
+      es: Maldivas (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '400'
+    cadence_in_s: 0.2 on 0.6 off 0.2 on  4.0 off
+    tone_type: call_waiting
+  Mali (Republic of):
+    country_or_area:
+      en: Mali (Republic of)
+      fr: Mali (République du)
+      es: Malí (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.3 on 10.0 off
+    tone_type: call_waiting
+  Malta:
+    country_or_area:
+      en: Malta
+      fr: Malte
+      es: Malta
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '1400'
+    cadence_in_s: 0.34 on 1.5 off
+    tone_type: call_waiting
+  Martinique (French Department of):
+    country_or_area:
+      en: Martinique (French Department of)
+      fr: Martinique (Département français de la)
+      es: Martinica (Departamento francés de la)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 0.3 on 10.0 off
+    tone_type: call_waiting
+  Mauritania (Islamic Republic of):
+    country_or_area:
+      en: Mauritania (Islamic Republic of)
+      fr: Mauritanie (République islamique de)
+      es: Mauritania (República Islámica de)
+    tone_desc:
+      en: Route tone
+      fr: Tonalité d'acheminement -
+      es: Tonalité d'acheminement -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.05 on 0.05 off
+    tone_type: route
+  Mauritius (Republic of):
+    country_or_area:
+      en: Mauritius (Republic of)
+      fr: Maurice (République de)
+      es: Mauricio (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 1.0 on 3.0 off
+    tone_type: call_waiting
+  Mayotte:
+    country_or_area:
+      en: Mayotte
+      fr: Mayotte
+      es: Mayotte
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 0.3 on 10.0 off
+    tone_type: call_waiting
+  Mexico:
+    country_or_area:
+      en: Mexico
+      fr: Mexique
+      es: México
+    tone_desc:
+      en: Warning tone (operator intervening)
+      fr: Tonalité d'avertissement - intervention d’opératrice
+      es: Tono de aviso - intervención de la operadora
+    frequency_in_hz: '425'
+    cadence_in_s: 0.5 on 0.17 off 0.17 on 0.17 off
+    tone_type: warning
+  Moldova (Republic of):
+    country_or_area:
+      en: Moldova (Republic of)
+      fr: Moldova (République de)
+      es: Moldova (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 5.0 off
+    tone_type: call_waiting
+  Monaco (Principality of):
+    country_or_area:
+      en: Monaco (Principality of)
+      fr: Monaco (Principauté de)
+      es: Mónaco (Principado de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 0.3 on 10.0 off
+    tone_type: call_waiting
+  Montserrat:
+    country_or_area:
+      en: Montserrat
+      fr: Montserrat
+      es: Montserrat
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 1x(0.5 on 10.0 off 0.5 on)
+    tone_type: waiting
+  Morocco (Kingdom of):
+    country_or_area:
+      en: Morocco (Kingdom of)
+      fr: Maroc (Royaume du)
+      es: Marruecos (Reino de)
+    tone_desc:
+      en: Ringing tone III
+      fr: Tonalité de retour d'appel - III
+      es: Tono de llamada - III
+    frequency_in_hz: '425'
+    cadence_in_s: 2.0 on 2.0 off
+    tone_type: ringing
+  Mozambique (Republic of):
+    country_or_area:
+      en: Mozambique (Republic of)
+      fr: Mozambique (République du)
+      es: Mozambique (República de)
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: '400'
+    cadence_in_s: 1.0 on 5.0 off
+    tone_type: ringing
+  Myanmar (Union of):
+    country_or_area:
+      en: Myanmar (Union of)
+      fr: Myanmar (Union de)
+      es: Myanmar (Unión de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '400'
+    cadence_in_s: 0.3 on 10.0 off
+    tone_type: call_waiting
+  Namibia (Republic of):
+    country_or_area:
+      en: Namibia (Republic of)
+      fr: Namibie (République de)
+      es: Namibia (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: 400x33
+    cadence_in_s: continuous
+    tone_type: call_waiting
+  Nauru (Republic of):
+    country_or_area:
+      en: Nauru (Republic of)
+      fr: Nauru (République de)
+      es: Nauru (República de)
+    tone_desc:
+      en: Ringing tone (pabx)
+      fr: Tonalité de retour d'appel - pabx
+      es: Tono de llamada - pabx
+    frequency_in_hz: 425x25
+    cadence_in_s: 0.4 on 0.2 off 0.4 on 2.0 off
+    pabx: 'TRUE'
+    tone_type: ringing
+  Nepal (Federal Democratic Republic of):
+    country_or_area:
+      en: Nepal (Federal Democratic Republic of)
+      fr: Népal (République fédérale démocratique du)
+      es: Nepal (República Democrática Federal de)
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: '425'
+    cadence_in_s: 1.1 on 3.1 off
+    tone_type: ringing
+  Netherlands (Kingdom of the):
+    country_or_area:
+      en: Netherlands (Kingdom of the)
+      fr: Pays-Bas (Royaume des)
+      es: Países Bajos (Reino de los)
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.5 on 9.5 off
+    tone_type: waiting
+  New Caledonia (Territoire français d'outre-mer):
+    country_or_area:
+      en: New Caledonia (Territoire français d'outre-mer)
+      fr: Nouvelle-Calédonie (Territoire français d'outre-mer)
+      es: Nueva Caledonia (Territoire français d'outre-mer)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 4x(0.5 on 0.5 off 0.5 on)
+    tone_type: call_waiting
+  New Zealand:
+    country_or_area:
+      en: New Zealand
+      fr: Nouvelle-Zélande
+      es: Nueva Zelandia
+    tone_desc:
+      en: Call waiting tone III
+      fr: Tonalité d'appel en attente - III
+      es: Tono de indicación de llamada en espera - III
+    frequency_in_hz: '400'
+    cadence_in_s: 3x(0.1 on 0.1 off 0.1 on 0.1 off 0.1 on 3.0 off)
+    tone_type: call_waiting
+  Niger (Republic of the):
+    country_or_area:
+      en: Niger (Republic of the)
+      fr: Niger (République du)
+      es: Níger (República del)
+    tone_desc:
+      en: Route tone
+      fr: Tonalité d'acheminement -
+      es: Tono de encaminamiento -
+    frequency_in_hz: '440'
+    cadence_in_s: 0.05 on 0.05 off
+    tone_type: route
+  Nigeria (Federal Republic of):
+    country_or_area:
+      en: Nigeria (Federal Republic of)
+      fr: Nigéria (République fédérale du)
+      es: Nigeria (República Federal de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '400'
+    cadence_in_s: 0.2 on 0.2 off
+    tone_type: call_waiting
+  Norway:
+    country_or_area:
+      en: Norway
+      fr: Norvège
+      es: Noruega
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 0.6 off 0.2 on 10.0 off
+    tone_type: call_waiting
+  Oman (Sultanate of):
+    country_or_area:
+      en: Oman (Sultanate of)
+      fr: Oman (Sultanat d')
+      es: Omán (Sultanía de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tono de indicación de llamada en espera -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.3 on 1.0 off
+    tone_type: call_waiting
+  Pakistan (Islamic Republic of):
+    country_or_area:
+      en: Pakistan (Islamic Republic of)
+      fr: Pakistan (République islamique du)
+      es: Pakistán (República Islámica del)
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: '400'
+    cadence_in_s: 1.0 on 2.0 off
+    tone_type: ringing
+  Panama (Republic of):
+    country_or_area:
+      en: Panama (Republic of)
+      fr: Panama (République du)
+      es: Panamá (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.18 on 0.18 off 0.18 on
+    tone_type: call_waiting
+  Papua New Guinea:
+    country_or_area:
+      en: Papua New Guinea
+      fr: Papouasie-Nouvelle-Guinée
+      es: Papua Nueva Guinea
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.04 on 10.0 off 0.04 on 20.0 off 0.04 on 20.0 off
+    tone_type: waiting
+  Paraguay (Republic of):
+    country_or_area:
+      en: Paraguay (Republic of)
+      fr: Paraguay (République du)
+      es: Paraguay (República del)
+    tone_desc:
+      en: Caller waiting tone
+      fr: Tonalité de demandeur en attente -
+      es: Tono de indicación de llamada en espera para el llamante -
+    frequency_in_hz: 950/950/1400
+    cadence_in_s: 0.65 on 0.325 off 0.325 on 1.3 off 2.6 on
+    tone_type: caller_waiting
+  Peru:
+    country_or_area:
+      en: Peru
+      fr: Pérou
+      es: Perú
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.175 on 0.175 off 0.175 on 3.5 off
+    tone_type: call_waiting
+  Philippines (Republic of the):
+    country_or_area:
+      en: Philippines (Republic of the)
+      fr: Philippines (République des)
+      es: Filipinas (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tono de indicación de llamada en espera -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 0.3 on 10.0 off
+    tone_type: call_waiting
+  Poland (Republic of):
+    country_or_area:
+      en: Poland (Republic of)
+      fr: Pologne (République de)
+      es: Polonia (República de)
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.15 on 0.15 off 0.15 on 4.0 off
+    tone_type: waiting
+  Portugal:
+    country_or_area:
+      en: Portugal
+      fr: Portugal
+      es: Portugal
+    tone_desc:
+      en: Call waiting tone VI
+      fr: Tonalité d'appel en attente - VI
+      es: Tono de indicación de llamada en espera - VI
+    frequency_in_hz: '425'
+    cadence_in_s: 1.0 on 1.0 off 1.0 on 5.0 off
+    tone_type: call_waiting
+  Puerto Rico:
+    country_or_area:
+      en: Puerto Rico
+      fr: Puerto Rico
+      es: Puerto Rico
+    tone_desc:
+      en: Payphone recognition tone
+      fr: Tonalité d'identification de publiphone
+      es: Tono de identificación de teléfono de previo pago -
+    frequency_in_hz: 1100+1750/750+1450
+    cadence_in_s: 0.2 on 0.2 off 0.2 on 2.0 off
+    tone_type: payphone_recognition
+  Qatar (State of):
+    country_or_area:
+      en: Qatar (State of)
+      fr: Qatar (Etat du)
+      es: Qatar (Estado de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '400'
+    cadence_in_s: 0.3 on 10.0 off
+    tone_type: call_waiting
+  Romania:
+    country_or_area:
+      en: Romania
+      fr: Roumanie
+      es: Rumania
+    tone_desc:
+      en: Ringing tone II
+      fr: Tonalité de retour d'appel - II
+      es: Tono de llamada - II
+    frequency_in_hz: '450'
+    cadence_in_s: 1.5 on 4.5 off
+    tone_type: ringing
+  Russian Federation:
+    country_or_area:
+      en: Russian Federation
+      fr: Russie (Fédération de)
+      es: Rusia (Federación de)
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: 950/1400/1800
+    cadence_in_s: 3x0.333 on 1.0 off
+    tone_type: waiting
+  Rwanda (Republic of):
+    country_or_area:
+      en: Rwanda (Republic of)
+      fr: Rwanda (République du)
+      es: Rwanda (República de)
+    tone_desc:
+      en: Special information tone
+      fr: Tonalité spéciale d'information -
+      es: Tonalité spéciale d'information -
+    frequency_in_hz: 950/1400/1800
+    cadence_in_s: 3x0.33 on 1.0 off
+    tone_type: special_information
+  Saint Helena:
+    country_or_area:
+      en: Saint Helena
+      fr: Sainte-Hélène
+      es: Santa Elena
+    tone_desc:
+      en: Ringing tone
+      fr: Tono de llamada -
+      es: Tono de llamada -
+    frequency_in_hz: 400+450
+    cadence_in_s: 0.4 on 0.2 off
+    tone_type: ringing
+  Saint Kitts and Nevis:
+    country_or_area:
+      en: Saint Kitts and Nevis
+      fr: Saint-Kitts-et-Nevis
+      es: San Kitts y Nevis
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 1x(0.5 on 10.0 off 0.5 on)
+    tone_type: waiting
+  Saint Lucia:
+    country_or_area:
+      en: Saint Lucia
+      fr: Sainte-Lucie
+      es: Santa Lucía
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 0.2 off 0.2 on 4.0 off
+    tone_type: call_waiting
+  Saint Pierre and Miquelon (Collectivité territoriale de la République française):
+    country_or_area:
+      en: Saint Pierre and Miquelon (Collectivité territoriale de la République française)
+      fr: Saint-Pierre-et-Miquelon (Collectivité territoriale de la République française)
+      es: San Pedro y Miquelón (Collectivité territoriale de la République française)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 0.3 on 10.0 off
+    tone_type: call_waiting
+  Saint Vincent and the Grenadines:
+    country_or_area:
+      en: Saint Vincent and the Grenadines
+      fr: Saint-Vincent-et-Grenadines
+      es: San Vicente y las Granadinas
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente
+      es: Tono de indicación de llamada en espera
+    frequency_in_hz: '400'
+    cadence_in_s: 0.1 on
+    notes:
+      en: 0.1 second of call waiting indication superimposed on speech every 2 to
+        5 seconds.
+    tone_type: call_waiting
+  Samoa (Independent State of):
+    country_or_area:
+      en: Samoa (Independent State of)
+      fr: Samoa (Etat indépendant du)
+      es: Samoa  (Estado Independiente de)
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: 425x25
+    cadence_in_s: 0.4 on 0.2 off
+    tone_type: ringing
+  San Marino (Republic of):
+    country_or_area:
+      en: San Marino (Republic of)
+      fr: Saint-Marin (République de)
+      es: San Marino (República de)
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: '425'
+    cadence_in_s: 1.0 on 4.0 off
+    tone_type: ringing
+  Sao Tome and Principe (Democratic Republic of):
+    country_or_area:
+      en: Sao Tome and Principe (Democratic Republic of)
+      fr: Sao Tomé-et-Principe (République démocratique de)
+      es: Santo Tomé y Príncipe (República Democrática de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 1.0 off
+    tone_type: call_waiting
+  Saudi Arabia (Kingdom of):
+    country_or_area:
+      en: Saudi Arabia (Kingdom of)
+      fr: Arabie saoudite (Royaume d')
+      es: Arabia Saudita (Reino de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.15 on 0.2 off 0.15 on 10.0 off
+    tone_type: call_waiting
+  Senegal (Republic of):
+    country_or_area:
+      en: Senegal (Republic of)
+      fr: Sénégal (République du)
+      es: Senegal (República del)
+    tone_desc:
+      en: Special information tone
+      fr: Tonalité spéciale d'information -
+      es: Tonalité spéciale d'information -
+    frequency_in_hz: 900/1380/1860
+    cadence_in_s: 0.35 on 0.30 on 0.35 on
+    tone_type: special_information
+  Serbia (Republic of):
+    country_or_area:
+      en: Serbia (Republic of)
+      fr: Serbie (République de)
+      es: Serbia (República de)
+    tone_desc:
+      en: Special information tone
+      fr: Tonalité spéciale d'information -
+      es: Tono especial de información -
+    frequency_in_hz: 950/1400/1800
+    cadence_in_s: 3x0.333 on 1.0 off
+    tone_type: special_information
+  Seychelles (Republic of):
+    country_or_area:
+      en: Seychelles (Republic of)
+      fr: Seychelles (République des)
+      es: Seychelles (República de)
+    tone_desc:
+      en: Route tone
+      fr: Tonalité d'acheminement -
+      es: Tono de encaminamiento -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.5 on 0.5 off
+    tone_type: route
+  Sierra Leone:
+    country_or_area:
+      en: Sierra Leone
+      fr: Sierra Leone
+      es: Sierra Leone
+    tone_desc:
+      en: Waiting tone
+      fr: Tono de espera -
+      es: Tono de espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 1x(1.0 on)
+    tone_type: waiting
+  Singapore (Republic of):
+    country_or_area:
+      en: Singapore (Republic of)
+      fr: Singapour (République de)
+      es: Singapur (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.3 on 0.2 off 0.3 on 3.2 off
+    tone_type: call_waiting
+  Slovak Republic:
+    country_or_area:
+      en: Slovak Republic
+      fr: République slovaque
+      es: República Eslovaca
+    tone_desc:
+      en: Caller waiting tone
+      fr: Tonalité de demandeur en attente -
+      es: Tono de indicación de llamada en espera para el llamante -
+    frequency_in_hz: '425'
+    cadence_in_s: 1.00 on 0.17 off 0.33 on 3.50 off
+    tone_type: caller_waiting
+  Slovenia (Republic of):
+    country_or_area:
+      en: Slovenia (Republic of)
+      fr: Slovénie (République de)
+      es: Eslovenia (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.3 on 10.0 off
+    tone_type: call_waiting
+  Solomon Islands:
+    country_or_area:
+      en: Solomon Islands
+      fr: Salomon (Iles)
+      es: Salomón (Islas)
+    tone_desc:
+      en: Waiting tone
+      fr: Tono de espera -
+      es: Tono de espera -
+    frequency_in_hz: 400+450/400
+    cadence_in_s: 0.5 on 0.5 off
+    tone_type: waiting
+  South Africa (Republic of):
+    country_or_area:
+      en: South Africa (Republic of)
+      fr: Sudafricaine (République)
+      es: Sudafricana (República)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: 400x33
+    cadence_in_s: 0.4 on 4.0 off
+    tone_type: call_waiting
+  Spain:
+    country_or_area:
+      en: Spain
+      fr: Espagne
+      es: España
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.175 on 0.175 off 0.175 on 3.5 off
+    tone_type: call_waiting
+  Sri Lanka (Democratic Socialist Republic of):
+    country_or_area:
+      en: Sri Lanka (Democratic Socialist Republic of)
+      fr: Sri Lanka (République socialiste démocratique de)
+      es: Sri Lanka (República Socialista Democrática de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tonalité d'appel en attente -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.5 on 2.5 off
+    tone_type: call_waiting
+  Sudan (Republic of the):
+    country_or_area:
+      en: Sudan (Republic of the)
+      fr: Soudan (République du)
+      es: Sudán (República del)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tono de indicación de llamada en espera -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.15 on 0.15 off 0.15 on 4.0 off
+    tone_type: call_waiting
+  Suriname (Republic of):
+    country_or_area:
+      en: Suriname (Republic of)
+      fr: Suriname (République du)
+      es: Suriname (República de)
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: '425'
+    cadence_in_s: 1.0 on 1.0 off
+    tone_type: ringing
+  Swaziland (Kingdom of):
+    country_or_area:
+      en: Swaziland (Kingdom of)
+      fr: Swaziland (Royaume du)
+      es: Swazilandia (Reino de)
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: '400'
+    cadence_in_s: 0.4 on 0.2 off 0.4 on 4.0 off
+    tone_type: ringing
+  Sweden:
+    country_or_area:
+      en: Sweden
+      fr: Suède
+      es: Suecia
+    tone_desc:
+      en: Call waiting tone II
+      fr: Tonalité d'appel en attente - II
+      es: Tono de indicación de llamada en espera - II
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 0.6 off 0.2 on 3.0 off 0.2 on 0.6 off 0.2 on
+    notes:
+      en: For PLMN/GSM.
+    tone_type: call_waiting
+  Switzerland (Confederation of):
+    country_or_area:
+      en: Switzerland (Confederation of)
+      fr: Suisse (Confédération)
+      es: Suiza (Confederación)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 0.2 off 0.2 on 4.0 off
+    tone_type: call_waiting
+  Syrian Arab Republic:
+    country_or_area:
+      en: Syrian Arab Republic
+      fr: République arabe syrienne
+      es: République arabe syrienne
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '450'
+    cadence_in_s: 0.1 on 0.2 off 0.1 on 9.5 off
+    tone_type: call_waiting
+  Tajikistan (Republic of):
+    country_or_area:
+      en: Tajikistan (Republic of)
+      fr: Tadjikistan (République du)
+      es: Tayikistán (República de)
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: '25'
+    cadence_in_s: 0.8 on 3.2 off
+    tone_type: ringing
+  Tanzania (United Republic of):
+    country_or_area:
+      en: Tanzania (United Republic of)
+      fr: Tanzanie (République-Unie de)
+      es: Tanzanía (República Unida de)
+    tone_desc:
+      en: Call waiting tone II
+      fr: Tonalité d'appel en attente - II
+      es: Tono de indicación de llamada en espera - II
+    frequency_in_hz: '400'
+    cadence_in_s: 0.4 on 0.2 off
+    tone_type: call_waiting
+  Thailand:
+    country_or_area:
+      en: Thailand
+      fr: Thaïlande
+      es: Tailandia
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '400'
+    cadence_in_s: 1.0 on 10.0 off 1.0 on
+    tone_type: call_waiting
+  The Former Yugoslav Republic of Macedonia:
+    country_or_area:
+      en: The Former Yugoslav Republic of Macedonia
+      fr: L'ex-République yougoslave de Macédoine
+      es: La ex República Yugoslava de Macedonia
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.3 on 8.0~10.0 off
+    tone_type: call_waiting
+  Tokelau:
+    country_or_area:
+      en: Tokelau
+      fr: Tokélau
+      es: Tokelau
+    tone_desc:
+      en: Special information tone
+      fr: Tono especial de información -
+      es: Tono especial de información -
+    frequency_in_hz: '400'
+    cadence_in_s: 3x(0.075 on 0.1 off)
+    tone_type: special_information
+  Trinidad and Tobago:
+    country_or_area:
+      en: Trinidad and Tobago
+      fr: Trinité-et-Tobago
+      es: Trinidad y Tobago
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 0.3 on 10.0 off
+    tone_type: waiting
+  Tunisia:
+    country_or_area:
+      en: Tunisia
+      fr: Tunisie
+      es: Túnez
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 0.6 off
+    tone_type: call_waiting
+  Turkey:
+    country_or_area:
+      en: Turkey
+      fr: Turquie
+      es: Turquía
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '450'
+    cadence_in_s: 0.2 on 0.6 off 0.2 on 8.0 off
+    tone_type: call_waiting
+  Turkmenistan:
+    country_or_area:
+      en: Turkmenistan
+      fr: Turkménistan
+      es: Turkmenistán
+    tone_desc:
+      en: Route tone
+      fr: Tonalité d'acheminement -
+      es: Tono de encaminamiento -
+    frequency_in_hz: '25'
+    cadence_in_s: 0.4 on 0.4 off
+    tone_type: route
+  Turks and Caicos Islands:
+    country_or_area:
+      en: Turks and Caicos Islands
+      fr: Turks et Caicos (Iles)
+      es: Turquesas y Caicos (Islas)
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 1x(0.5 on 10.0 off 0.5 on)
+    tone_type: waiting
+  Tuvalu:
+    country_or_area:
+      en: Tuvalu
+      fr: Tuvalu
+      es: Tuvalu
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.3 on (every 10.0 sec.)
+    tone_type: call_waiting
+  Uganda (Republic of):
+    country_or_area:
+      en: Uganda (Republic of)
+      fr: Ouganda (République de l')
+      es: Uganda (República de)
+    tone_desc:
+      en: Call waiting tone II
+      fr: Tonalité d'appel en attente - II
+      es: Tono de indicación de llamada en espera - II
+    frequency_in_hz: 450//440
+    cadence_in_s: 0.5 on 0.5 off + continuous
+    tone_type: call_waiting
+  United Arab Emirates:
+    country_or_area:
+      en: United Arab Emirates
+      fr: Emirats arabes unis
+      es: Emiratos Árabes Unidos
+    tone_desc:
+      en: Ringing tone
+      fr: Tono de llamada -
+      es: Tono de llamada -
+    frequency_in_hz: 400+450//425
+    cadence_in_s: 0.4 on 0.2 off 0.4 on 2.0 off
+    tone_type: ringing
+  United Kingdom of Great Britain and Northern Ireland:
+    country_or_area:
+      en: United Kingdom of Great Britain and Northern Ireland
+      fr: Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+      es: Reino Unido de Gran Bretaña e Irlanda del Norte
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: 400+450//400x25//400x16 2/3
+    cadence_in_s: 0.4 on 0.2 off 0.4 on 2.0 off
+    tone_type: ringing
+  United States of America:
+    country_or_area:
+      en: United States of America
+      fr: Etats-Unis d'Amérique
+      es: Estados Unidos de América
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '440'
+    cadence_in_s: 2x(0.3 on 10.0 off)
+    tone_type: call_waiting
+  Uruguay (Eastern Republic of):
+    country_or_area:
+      en: Uruguay (Eastern Republic of)
+      fr: Uruguay (République orientale de l')
+      es: Uruguay (République orientale de l')
+    tone_desc:
+      en: Waiting tone
+      fr: Tonalité d'attente -
+      es: Tono de espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.2 on 0.2 off 0.2 on 4.4 off
+    tone_type: waiting
+  Vanuatu (Republic of):
+    country_or_area:
+      en: Vanuatu (Republic of)
+      fr: Vanuatu (République de)
+      es: Vanuatu (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.3 on 10.0 off
+    tone_type: call_waiting
+  Venezuela (Bolivarian Republic of):
+    country_or_area:
+      en: Venezuela (Bolivarian Republic of)
+      fr: Venezuela (République bolivarienne du)
+      es: Venezuela (República Bolivariana de)
+    tone_desc:
+      en: Caller waiting tone
+      fr: Tonalité de demandeur en attente -
+      es: Tono de indicación de llamada en espera para el llamante
+    frequency_in_hz: '425'
+    cadence_in_s: 1.0 on 4.0 off
+    tone_type: caller_waiting
+  Wallis and Futuna (Territoire français d'outre-mer):
+    country_or_area:
+      en: Wallis and Futuna (Territoire français d'outre-mer)
+      fr: Wallis-et-Futuna (Territoire français d'outre-mer)
+      es: Wallis y Futuna (Territoire français d'outre-mer)
+    tone_desc:
+      en: Special information tone
+      fr: Tonalité spéciale d'information -
+      es: Tono especial de información -
+    frequency_in_hz: 950/1400/1800
+    cadence_in_s: "(3x0.3 on 2x0.03 off) 1.0 off"
+    tone_type: special_information
+  Yemen (Republic of):
+    country_or_area:
+      en: Yemen (Republic of)
+      fr: Yémen (République du)
+      es: Yemen (República del)
+    tone_desc:
+      en: Ringing tone
+      fr: Tonalité de retour d'appel -
+      es: Tono de llamada -
+    frequency_in_hz: '425'
+    cadence_in_s: 1.0 on 4.0 off
+    tone_type: ringing
+  Zambia (Republic of):
+    country_or_area:
+      en: Zambia (Republic of)
+      fr: Zambie (République de)
+      es: Zambia (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: '425'
+    cadence_in_s: 0.1 on 4.9 off
+    tone_type: call_waiting
+  Zimbabwe (Republic of):
+    country_or_area:
+      en: Zimbabwe (Republic of)
+      fr: Zimbabwe (République du)
+      es: Zimbabwe (República de)
+    tone_desc:
+      en: Call waiting tone
+      fr: Tonalité d'appel en attente -
+      es: Tono de indicación de llamada en espera -
+    frequency_in_hz: 523//659
+    cadence_in_s: 1.5 on 1.5 off
+    tone_type: call_waiting

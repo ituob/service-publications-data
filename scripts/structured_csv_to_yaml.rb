@@ -158,7 +158,6 @@ module CsvToStructuredHash
         v = v.strip unless v.nil?
         row_values[i] = cast_type(v, h[:type])
       end
-      pp row_values
 
       k = row_values[0]
       d = Hash[header_names[0..-1].zip(row_values[0..-1])]

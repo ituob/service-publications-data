@@ -1,0 +1,1292 @@
+---
+metadata:
+  title:
+    en: List of Country or Geographical Area Codes for Non-standard Facilities in
+      Telematic Services
+    fr: LISTE DES INDICATIFS DE PAYS OU DE ZONE GÉOGRAPHIQUE POUR LES FACILITÉS NON
+      NORMALISÉES DANS LES SERVICES DE TÉLÉMATIQUE
+    es: LISTA DE INDICATIVOS DE PAÍS O DE ZONA GEOGRÁFICA PARA FACILIDADES NO NORMALIZADAS
+      DE LOS SERVICIOS TELEMÁTICOS
+  code_bit:
+    en: Code Bit (b8 to b1)
+    fr: Code Bit (b8 to b1)
+    es: Código Bit (b8 to b1)
+  country_or_area:
+    en: Country or geographical area
+    fr: Pays ou zone géographique
+    es: País o zona geográfica
+  notes:
+    en: NOTE
+    fr: NOTE
+    es: NOTA
+data:
+  code_bit:
+    '00000000':
+      code_bit: '00000000'
+      country_or_area:
+        en: Japan
+        fr: Japon
+        es: Japón
+    '00000001':
+      code_bit: '00000001'
+      country_or_area:
+        en: Albania
+        fr: Albanie
+        es: Albania
+    '00000010':
+      code_bit: '00000010'
+      country_or_area:
+        en: Algeria
+        fr: Algérie
+        es: Argelia
+    '00000011':
+      code_bit: '00000011'
+      country_or_area:
+        en: American Samoa
+        fr: Samoa américaines
+        es: Samoa norteamericanas
+    '00000100':
+      code_bit: '00000100'
+      country_or_area:
+        en: Germany
+        fr: Allemagne
+        es: Alemania
+    '00000101':
+      code_bit: '00000101'
+      country_or_area:
+        en: Anguilla
+        fr: Anguilla
+        es: Anguilla
+    '00000110':
+      code_bit: '00000110'
+      country_or_area:
+        en: Antigua and Barbuda
+        fr: Antigua-et-Barbuda
+        es: Antigua y Barbuda
+    '00000111':
+      code_bit: '00000111'
+      country_or_area:
+        en: Argentina
+        fr: Argentine
+        es: Argentina
+    '00001000':
+      code_bit: '00001000'
+      country_or_area:
+        en: Ascension (see Saint Helena)
+        fr: Ascension (voir Sainte-Hélène)
+        es: Ascensión (véase Santa Elena)
+    '00001001':
+      code_bit: '00001001'
+      country_or_area:
+        en: Australia
+        fr: Australie
+        es: Australia
+    '00001010':
+      code_bit: '00001010'
+      country_or_area:
+        en: Austria
+        fr: Autriche
+        es: Austria
+    '00001011':
+      code_bit: '00001011'
+      country_or_area:
+        en: Bahamas
+        fr: Bahamas
+        es: Bahamas
+    '00001100':
+      code_bit: '00001100'
+      country_or_area:
+        en: Bahrain
+        fr: Bahreïn
+        es: Bahrein
+    '00001101':
+      code_bit: '00001101'
+      country_or_area:
+        en: Bangladesh
+        fr: Bangladesh
+        es: Bangladesh
+    '00001110':
+      code_bit: '00001110'
+      country_or_area:
+        en: Barbados
+        fr: Barbade
+        es: Barbados
+    '00001111':
+      code_bit: '00001111'
+      country_or_area:
+        en: Belgium
+        fr: Belgique
+        es: Bélgica
+    '00010000':
+      code_bit: '00010000'
+      country_or_area:
+        en: Belize
+        fr: Belize
+        es: Belice
+    '00010001':
+      code_bit: '00010001'
+      country_or_area:
+        en: Benin
+        fr: Bénin
+        es: Benin
+    '00010010':
+      code_bit: '00010010'
+      country_or_area:
+        en: Bermuda
+        fr: Bermudes
+        es: Bermudas
+    '00010011':
+      code_bit: '00010011'
+      country_or_area:
+        en: Bhutan
+        fr: Bhoutan
+        es: Bhután
+    '00010100':
+      code_bit: '00010100'
+      country_or_area:
+        en: Bolivia
+        fr: Bolivie
+        es: Bolivia
+    '00010101':
+      code_bit: '00010101'
+      country_or_area:
+        en: Botswana
+        fr: Botswana
+        es: Botswana
+    '00010110':
+      code_bit: '00010110'
+      country_or_area:
+        en: Brazil
+        fr: Brésil
+        es: Brasil
+    '00010111':
+      code_bit: '00010111'
+      country_or_area:
+        en: British Antarctic Territory
+        fr: Territoire britannique de l'Antarctique
+        es: Territorio británico del Antártico
+    '00011000':
+      code_bit: '00011000'
+      country_or_area:
+        en: British Indian Ocean Territory (Diego Garcia)
+        fr: Territoire britannique de l'océan Indien (Diego Garcia)
+        es: Territorio británico del Océano Índico (Diego Garcia)
+    '00011001':
+      code_bit: '00011001'
+      country_or_area:
+        en: British Virgin Islands
+        fr: Vierges britanniques (Iles)
+        es: Vírgenes británicas (Islas)
+    '00011010':
+      code_bit: '00011010'
+      country_or_area:
+        en: Brunei Darussalam
+        fr: Brunéi Darussalam
+        es: Brunei Darussalam
+    '00011011':
+      code_bit: '00011011'
+      country_or_area:
+        en: Bulgaria
+        fr: Bulgarie
+        es: Bulgaria
+    '00011100':
+      code_bit: '00011100'
+      country_or_area:
+        en: Myanmar
+        fr: Myanmar
+        es: Myanmar
+    '00011101':
+      code_bit: '00011101'
+      country_or_area:
+        en: Burundi
+        fr: Burundi
+        es: Burundi
+    '00011110':
+      code_bit: '00011110'
+      country_or_area:
+        en: Belarus
+        fr: Bélarus
+        es: Belarús
+    '00011111':
+      code_bit: '00011111'
+      country_or_area:
+        en: Cameroon
+        fr: Cameroun
+        es: Camerún
+    '00100000':
+      code_bit: '00100000'
+      country_or_area:
+        en: Canada
+        fr: Canada
+        es: Canadá
+    '00100001':
+      code_bit: '00100001'
+      country_or_area:
+        en: Cape Verde
+        fr: Cap-Vert
+        es: Cabo Verde
+    '00100010':
+      code_bit: '00100010'
+      country_or_area:
+        en: Cayman Islands
+        fr: Cayman (Iles)
+        es: Caimanes (Islas)
+    '00100011':
+      code_bit: '00100011'
+      country_or_area:
+        en: Central African Rep.
+        fr: Centrafricaine (Rép.)
+        es: Centroafricana (Rep.)
+    '00100100':
+      code_bit: '00100100'
+      country_or_area:
+        en: Chad
+        fr: Tchad
+        es: Chad
+    '00100101':
+      code_bit: '00100101'
+      country_or_area:
+        en: Chile
+        fr: Chili
+        es: Chile
+    '00100110':
+      code_bit: '00100110'
+      country_or_area:
+        en: China
+        fr: Chine
+        es: China
+    '00100111':
+      code_bit: '00100111'
+      country_or_area:
+        en: Colombia
+        fr: Colombie
+        es: Colombia
+    '00101000':
+      code_bit: '00101000'
+      country_or_area:
+        en: Comoros
+        fr: Comores
+        es: Comoras
+    '00101001':
+      code_bit: '00101001'
+      country_or_area:
+        en: Congo
+        fr: Congo
+        es: Congo
+    '00101010':
+      code_bit: '00101010'
+      country_or_area:
+        en: Cook Islands
+        fr: Cook (Iles)
+        es: Cook (Islas)
+    '00101011':
+      code_bit: '00101011'
+      country_or_area:
+        en: Costa Rica
+        fr: Costa Rica
+        es: Costa Rica
+    '00101100':
+      code_bit: '00101100'
+      country_or_area:
+        en: Cuba
+        fr: Cuba
+        es: Cuba
+    '00101101':
+      code_bit: '00101101'
+      country_or_area:
+        en: Cyprus
+        fr: Chypre
+        es: Chipre
+    '00101110':
+      code_bit: '00101110'
+      country_or_area:
+        en: Czech Rep.
+        fr: Rép. tchèque
+        es: Rep. Checa
+    '00101111':
+      code_bit: '00101111'
+      country_or_area:
+        en: Cambodia
+        fr: Cambodge
+        es: Camboya
+    '00110000':
+      code_bit: '00110000'
+      country_or_area:
+        en: Dem. People's Rep. of Korea
+        fr: Rép. pop. dém. de Corée
+        es: Rep. Pop. Dem. de Corea
+    '00110001':
+      code_bit: '00110001'
+      country_or_area:
+        en: Denmark
+        fr: Danemark
+        es: Dinamarca
+    '00110010':
+      code_bit: '00110010'
+      country_or_area:
+        en: Djibouti
+        fr: Djibouti
+        es: Djibouti
+    '00110011':
+      code_bit: '00110011'
+      country_or_area:
+        en: Dominican Rep.
+        fr: Dominicaine (Rép.)
+        es: Dominicana (Rep.)
+    '00110100':
+      code_bit: '00110100'
+      country_or_area:
+        en: Dominica
+        fr: Dominique
+        es: Dominica
+    '00110101':
+      code_bit: '00110101'
+      country_or_area:
+        en: Ecuador
+        fr: Equateur
+        es: Ecuador
+    '00110110':
+      code_bit: '00110110'
+      country_or_area:
+        en: Egypt
+        fr: Egypte
+        es: Egipto
+    '00110111':
+      code_bit: '00110111'
+      country_or_area:
+        en: El Salvador
+        fr: El Salvador
+        es: El Salvador
+    '00111000':
+      code_bit: '00111000'
+      country_or_area:
+        en: Equatorial Guinea
+        fr: Guinée équatoriale
+        es: Guinea Ecuatorial
+    '00111001':
+      code_bit: '00111001'
+      country_or_area:
+        en: Ethiopia
+        fr: Ethiopie
+        es: Etiopía
+    '00111010':
+      code_bit: '00111010'
+      country_or_area:
+        en: Falkland Islands (Malvinas)
+        fr: Falkland (Iles) (Malvinas)
+        es: Malvinas (Islas) (Falkland)
+    '00111011':
+      code_bit: '00111011'
+      country_or_area:
+        en: Fiji
+        fr: Fidji
+        es: Fiji
+    '00111100':
+      code_bit: '00111100'
+      country_or_area:
+        en: Finland
+        fr: Finlande
+        es: Finlandia
+    '00111101':
+      code_bit: '00111101'
+      country_or_area:
+        en: France
+        fr: France
+        es: Francia
+    '00111110':
+      code_bit: '00111110'
+      country_or_area:
+        en: French Polynesia
+        fr: Polynésie française
+        es: Polinesia francesa
+    '00111111':
+      code_bit: '00111111'
+      country_or_area:
+        en: "(Available)"
+        fr: "(Disponible)"
+        es: "(Disponible)"
+    '01000000':
+      code_bit: '01000000'
+      country_or_area:
+        en: Gabon
+        fr: Gabon
+        es: Gabón
+    '01000001':
+      code_bit: '01000001'
+      country_or_area:
+        en: Gambia
+        fr: Gambie
+        es: Gambia
+    '01000010':
+      code_bit: '01000010'
+      country_or_area:
+        en: Germany
+        fr: Allemagne
+        es: Alemania
+    '01000011':
+      code_bit: '01000011'
+      country_or_area:
+        en: Angola
+        fr: Angola
+        es: Angola
+    '01000100':
+      code_bit: '01000100'
+      country_or_area:
+        en: Ghana
+        fr: Ghana
+        es: Ghana
+    '01000101':
+      code_bit: '01000101'
+      country_or_area:
+        en: Gibraltar
+        fr: Gibraltar
+        es: Gibraltar
+    '01000110':
+      code_bit: '01000110'
+      country_or_area:
+        en: Greece
+        fr: Grèce
+        es: Grecia
+    '01000111':
+      code_bit: '01000111'
+      country_or_area:
+        en: Grenada
+        fr: Grenade
+        es: Granada
+    '01001000':
+      code_bit: '01001000'
+      country_or_area:
+        en: Guam
+        fr: Guam
+        es: Guam
+    '01001001':
+      code_bit: '01001001'
+      country_or_area:
+        en: Guatemala
+        fr: Guatemala
+        es: Guatemala
+    '01001010':
+      code_bit: '01001010'
+      country_or_area:
+        en: Guernsey
+        fr: Guernesey
+        es: Guernsey
+    '01001011':
+      code_bit: '01001011'
+      country_or_area:
+        en: Guinea
+        fr: Guinée
+        es: Guinea
+    '01001100':
+      code_bit: '01001100'
+      country_or_area:
+        en: Guinea-Bissau
+        fr: Guinée-Bissau
+        es: Guinea-Bissau
+    '01001101':
+      code_bit: '01001101'
+      country_or_area:
+        en: Guyana
+        fr: Guyana
+        es: Guyana
+    '01001110':
+      code_bit: '01001110'
+      country_or_area:
+        en: Haiti
+        fr: Haïti
+        es: Haití
+    '01001111':
+      code_bit: '01001111'
+      country_or_area:
+        en: Honduras
+        fr: Honduras
+        es: Honduras
+    '01010000':
+      code_bit: '01010000'
+      country_or_area:
+        en: Hong Kong, China
+        fr: Hong Kong, Chine
+        es: Hong Kong, China
+    '01010001':
+      code_bit: '01010001'
+      country_or_area:
+        en: Hungary
+        fr: Hongrie
+        es: Hungría (República de)
+    '01010010':
+      code_bit: '01010010'
+      country_or_area:
+        en: Iceland
+        fr: Islande
+        es: Islandia
+    '01010011':
+      code_bit: '01010011'
+      country_or_area:
+        en: India
+        fr: Inde
+        es: India
+    '01010100':
+      code_bit: '01010100'
+      country_or_area:
+        en: Indonesia
+        fr: Indonésie
+        es: Indonesia
+    '01010101':
+      code_bit: '01010101'
+      country_or_area:
+        en: Iran (Islamic Republic of)
+        fr: Iran (République islamique d’)
+        es: Irán (República Islámica del)
+    '01010110':
+      code_bit: '01010110'
+      country_or_area:
+        en: Iraq
+        fr: Iraq
+        es: Iraq
+    '01010111':
+      code_bit: '01010111'
+      country_or_area:
+        en: Ireland
+        fr: Irlande
+        es: Irlanda
+    '01011000':
+      code_bit: '01011000'
+      country_or_area:
+        en: Israel
+        fr: Israël
+        es: Israel
+    '01011001':
+      code_bit: '01011001'
+      country_or_area:
+        en: Italy
+        fr: Italie
+        es: Italia
+    '01011010':
+      code_bit: '01011010'
+      country_or_area:
+        en: Côte d'Ivoire
+        fr: Côte d'Ivoire
+        es: Côte d'Ivoire
+    '01011011':
+      code_bit: '01011011'
+      country_or_area:
+        en: Jamaica
+        fr: Jamaïque
+        es: Jamaica
+    '01011100':
+      code_bit: '01011100'
+      country_or_area:
+        en: Afghanistan
+        fr: Afghanistan
+        es: Afganistán
+    '01011101':
+      code_bit: '01011101'
+      country_or_area:
+        en: Jersey
+        fr: Jersey
+        es: Jersey
+    '01011110':
+      code_bit: '01011110'
+      country_or_area:
+        en: Jordan
+        fr: Jordanie
+        es: Jordania
+    '01011111':
+      code_bit: '01011111'
+      country_or_area:
+        en: Kenya
+        fr: Kenya
+        es: Kenya
+    '01100000':
+      code_bit: '01100000'
+      country_or_area:
+        en: Kiribati
+        fr: Kiribati
+        es: Kiribati
+    '01100001':
+      code_bit: '01100001'
+      country_or_area:
+        en: Korea (Rep. of)
+        fr: Corée (Rép. de)
+        es: Corea (Rep. de)
+    '01100010':
+      code_bit: '01100010'
+      country_or_area:
+        en: Kuwait
+        fr: Koweït
+        es: Kuwait
+    '01100011':
+      code_bit: '01100011'
+      country_or_area:
+        en: Lao P.D.R.
+        fr: Lao (R.d.p.)
+        es: Lao (R.D.P.)
+    '01100100':
+      code_bit: '01100100'
+      country_or_area:
+        en: Lebanon
+        fr: Liban
+        es: Líbano
+    '01100101':
+      code_bit: '01100101'
+      country_or_area:
+        en: Lesotho
+        fr: Lesotho
+        es: Lesotho
+    '01100110':
+      code_bit: '01100110'
+      country_or_area:
+        en: Liberia
+        fr: Libéria
+        es: Liberia
+    '01100111':
+      code_bit: '01100111'
+      country_or_area:
+        en: Libya
+        fr: Libye
+        es: Libia
+    '01101000':
+      code_bit: '01101000'
+      country_or_area:
+        en: Liechtenstein
+        fr: Liechtenstein
+        es: Liechtenstein
+    '01101001':
+      code_bit: '01101001'
+      country_or_area:
+        en: Luxembourg
+        fr: Luxembourg
+        es: Luxemburgo
+    '01101010':
+      code_bit: '01101010'
+      country_or_area:
+        en: Macao, China
+        fr: Macao, Chine
+        es: Macao, China
+    '01101011':
+      code_bit: '01101011'
+      country_or_area:
+        en: Madagascar
+        fr: Madagascar
+        es: Madagascar
+    '01101100':
+      code_bit: '01101100'
+      country_or_area:
+        en: Malaysia
+        fr: Malaisie
+        es: Malasia
+    '01101101':
+      code_bit: '01101101'
+      country_or_area:
+        en: Malawi
+        fr: Malawi
+        es: Malawi
+    '01101110':
+      code_bit: '01101110'
+      country_or_area:
+        en: Maldives
+        fr: Maldives
+        es: Maldivas
+    '01101111':
+      code_bit: '01101111'
+      country_or_area:
+        en: Mali
+        fr: Mali
+        es: Malí
+    '01110000':
+      code_bit: '01110000'
+      country_or_area:
+        en: Malta
+        fr: Malte
+        es: Malta
+    '01110001':
+      code_bit: '01110001'
+      country_or_area:
+        en: Mauritania
+        fr: Mauritanie
+        es: Mauritania
+    '01110010':
+      code_bit: '01110010'
+      country_or_area:
+        en: Mauritius
+        fr: Maurice
+        es: Mauricio
+    '01110011':
+      code_bit: '01110011'
+      country_or_area:
+        en: Mexico
+        fr: Mexique
+        es: México
+    '01110100':
+      code_bit: '01110100'
+      country_or_area:
+        en: Monaco
+        fr: Monaco
+        es: Mónaco
+    '01110101':
+      code_bit: '01110101'
+      country_or_area:
+        en: Mongolia
+        fr: Mongolie
+        es: Mongolia
+    '01110110':
+      code_bit: '01110110'
+      country_or_area:
+        en: Montserrat
+        fr: Montserrat
+        es: Montserrat
+    '01110111':
+      code_bit: '01110111'
+      country_or_area:
+        en: Morocco
+        fr: Maroc
+        es: Marruecos
+    '01111000':
+      code_bit: '01111000'
+      country_or_area:
+        en: Mozambique
+        fr: Mozambique
+        es: Mozambique
+    '01111001':
+      code_bit: '01111001'
+      country_or_area:
+        en: Nauru
+        fr: Nauru
+        es: Nauru
+    '01111010':
+      code_bit: '01111010'
+      country_or_area:
+        en: Nepal
+        fr: Népal
+        es: Nepal
+    '01111011':
+      code_bit: '01111011'
+      country_or_area:
+        en: Netherlands
+        fr: Pays-Bas
+        es: Países Bajos
+    '01111100':
+      code_bit: '01111100'
+      country_or_area:
+        en: Curaçao
+        fr: Curaçao
+        es: Curaçao
+    '01111101':
+      code_bit: '01111101'
+      country_or_area:
+        en: New Caledonia
+        fr: Nouvelle-Calédonie
+        es: Nueva Caledonia
+    '01111110':
+      code_bit: '01111110'
+      country_or_area:
+        en: New Zealand
+        fr: Nouvelle-Zélande
+        es: Nueva Zelandia
+    '01111111':
+      code_bit: '01111111'
+      country_or_area:
+        en: Nicaragua
+        fr: Nicaragua
+        es: Nicaragua
+    '10000000':
+      code_bit: '10000000'
+      country_or_area:
+        en: Niger
+        fr: Niger
+        es: Níger
+    '10000001':
+      code_bit: '10000001'
+      country_or_area:
+        en: Nigeria
+        fr: Nigéria
+        es: Nigeria
+    '10000010':
+      code_bit: '10000010'
+      country_or_area:
+        en: Norway
+        fr: Norvège
+        es: Noruega
+    '10000011':
+      code_bit: '10000011'
+      country_or_area:
+        en: Oman
+        fr: Oman
+        es: Omán
+    '10000100':
+      code_bit: '10000100'
+      country_or_area:
+        en: Pakistan
+        fr: Pakistan
+        es: Pakistán
+    '10000101':
+      code_bit: '10000101'
+      country_or_area:
+        en: Panama
+        fr: Panama
+        es: Panamá
+    '10000110':
+      code_bit: '10000110'
+      country_or_area:
+        en: Papua New Guinea
+        fr: Papouasie-Nouvelle-Guinée
+        es: Papua Nueva Guinea
+    '10000111':
+      code_bit: '10000111'
+      country_or_area:
+        en: Paraguay
+        fr: Paraguay
+        es: Paraguay
+    '10001000':
+      code_bit: '10001000'
+      country_or_area:
+        en: Peru
+        fr: Pérou
+        es: Perú
+    '10001001':
+      code_bit: '10001001'
+      country_or_area:
+        en: Philippines
+        fr: Philippines
+        es: Filipinas
+    '10001010':
+      code_bit: '10001010'
+      country_or_area:
+        en: Poland
+        fr: Pologne
+        es: Polonia
+    '10001011':
+      code_bit: '10001011'
+      country_or_area:
+        en: Portugal
+        fr: Portugal
+        es: Portugal
+    '10001100':
+      code_bit: '10001100'
+      country_or_area:
+        en: Puerto Rico
+        fr: Puerto Rico
+        es: Puerto Rico
+    '10001101':
+      code_bit: '10001101'
+      country_or_area:
+        en: Qatar
+        fr: Qatar
+        es: Qatar
+    '10001110':
+      code_bit: '10001110'
+      country_or_area:
+        en: Romania
+        fr: Roumanie
+        es: Rumania
+    '10001111':
+      code_bit: '10001111'
+      country_or_area:
+        en: Rwanda
+        fr: Rwanda
+        es: Rwanda
+    '10010000':
+      code_bit: '10010000'
+      country_or_area:
+        en: Saint Kitts and Nevis
+        fr: Saint-Kitts-et-Nevis
+        es: San Kitts y Nevis
+    '10010001':
+      code_bit: '10010001'
+      country_or_area:
+        en: Saint Croix
+        fr: Sainte-Croix
+        es: Santa Cruz
+    '10010010':
+      code_bit: '10010010'
+      country_or_area:
+        en: Saint Helena, Ascension and Tristan da Cuhna
+        fr: Sainte-Hélène, Ascension et Tristan da Cuhna
+        es: Santa Elena, Ascensión y Tristan da Cunha
+    '10010011':
+      code_bit: '10010011'
+      country_or_area:
+        en: Saint Lucia
+        fr: Sainte-Lucie
+        es: Santa Lucía
+    '10010100':
+      code_bit: '10010100'
+      country_or_area:
+        en: San Marino
+        fr: Saint-Marin
+        es: San Marino
+    '10010101':
+      code_bit: '10010101'
+      country_or_area:
+        en: Saint Thomas
+        fr: Saint-Thomas
+        es: Santo Tomás
+    '10010110':
+      code_bit: '10010110'
+      country_or_area:
+        en: Sao Tome and Principe
+        fr: Sao Tomé-et-Principe
+        es: Santo Tomé y Príncipe
+    '10010111':
+      code_bit: '10010111'
+      country_or_area:
+        en: Saint Vincent and the Grenadines
+        fr: Saint-Vincent-et-Grenadines
+        es: San Vicente y las Granadinas
+    '10011000':
+      code_bit: '10011000'
+      country_or_area:
+        en: Saudi Arabia
+        fr: Arabie saoudite
+        es: Arabia Saudita
+    '10011001':
+      code_bit: '10011001'
+      country_or_area:
+        en: Senegal
+        fr: Sénégal
+        es: Senegal
+    '10011010':
+      code_bit: '10011010'
+      country_or_area:
+        en: Seychelles
+        fr: Seychelles
+        es: Seychelles
+    '10011011':
+      code_bit: '10011011'
+      country_or_area:
+        en: Sierra Leone
+        fr: Sierra Leone
+        es: Sierra Leona
+    '10011100':
+      code_bit: '10011100'
+      country_or_area:
+        en: Singapore
+        fr: Singapour
+        es: Singapur
+    '10011101':
+      code_bit: '10011101'
+      country_or_area:
+        en: Solomon Islands
+        fr: Salomon (Iles)
+        es: Salomón (Islas)
+    '10011110':
+      code_bit: '10011110'
+      country_or_area:
+        en: Somalia
+        fr: Somalie
+        es: Somalia
+    '10011111':
+      code_bit: '10011111'
+      country_or_area:
+        en: South Africa
+        fr: Sudafricaine (Rép.)
+        es: Sudafricana (Rep.)
+    '10100000':
+      code_bit: '10100000'
+      country_or_area:
+        en: Spain
+        fr: Espagne
+        es: España
+    '10100001':
+      code_bit: '10100001'
+      country_or_area:
+        en: Sri Lanka
+        fr: Sri Lanka
+        es: Sri Lanka
+    '10100010':
+      code_bit: '10100010'
+      country_or_area:
+        en: Sudan
+        fr: Soudan
+        es: Sudán
+    '10100011':
+      code_bit: '10100011'
+      country_or_area:
+        en: Suriname
+        fr: Suriname
+        es: Suriname
+    '10100100':
+      code_bit: '10100100'
+      country_or_area:
+        en: Swaziland
+        fr: Swaziland
+        es: Swazilandia
+    '10100101':
+      code_bit: '10100101'
+      country_or_area:
+        en: Sweden
+        fr: Suède
+        es: Suecia
+    '10100110':
+      code_bit: '10100110'
+      country_or_area:
+        en: Switzerland
+        fr: Suisse
+        es: Suiza
+    '10100111':
+      code_bit: '10100111'
+      country_or_area:
+        en: Syrian Arab Republic
+        fr: République arabe syrienne
+        es: República Árabe Siria
+    '10101000':
+      code_bit: '10101000'
+      country_or_area:
+        en: Tanzania
+        fr: Tanzanie
+        es: Tanzanía
+    '10101001':
+      code_bit: '10101001'
+      country_or_area:
+        en: Thailand
+        fr: Thaïlande
+        es: Tailandia
+    '10101010':
+      code_bit: '10101010'
+      country_or_area:
+        en: Togo
+        fr: Togo
+        es: Togo
+    '10101011':
+      code_bit: '10101011'
+      country_or_area:
+        en: Tonga
+        fr: Tonga
+        es: Tonga
+    '10101100':
+      code_bit: '10101100'
+      country_or_area:
+        en: Trinidad and Tobago
+        fr: Trinité-et-Tobago
+        es: Trinidad y Tabago
+    '10101101':
+      code_bit: '10101101'
+      country_or_area:
+        en: Tunisia
+        fr: Tunisie
+        es: Túnez
+    '10101110':
+      code_bit: '10101110'
+      country_or_area:
+        en: Turkey
+        fr: Turquie
+        es: Turquía
+    '10101111':
+      code_bit: '10101111'
+      country_or_area:
+        en: Turks and Caicos Islands
+        fr: Turks et Caicos (Iles)
+        es: Turquesas y Caicos (Islas)
+    '10110000':
+      code_bit: '10110000'
+      country_or_area:
+        en: Tuvalu
+        fr: Tuvalu
+        es: Tuvalu
+    '10110001':
+      code_bit: '10110001'
+      country_or_area:
+        en: Uganda
+        fr: Ouganda
+        es: Uganda
+    '10110010':
+      code_bit: '10110010'
+      country_or_area:
+        en: Ukraine
+        fr: Ukraine
+        es: Ucrania
+    '10110011':
+      code_bit: '10110011'
+      country_or_area:
+        en: United Arab Emirates
+        fr: Emirats arabes unis
+        es: Emiratos Árabes Unidos
+    '10110100':
+      code_bit: '10110100'
+      country_or_area:
+        en: United Kingdom
+        fr: Royaume-Uni
+        es: Reino Unido
+    '10110101':
+      code_bit: '10110101'
+      country_or_area:
+        en: United States
+        fr: Etats-Unis
+        es: Estados Unidos
+    '10110110':
+      code_bit: '10110110'
+      country_or_area:
+        en: Burkina Faso
+        fr: Burkina Faso
+        es: Burkina Faso
+    '10110111':
+      code_bit: '10110111'
+      country_or_area:
+        en: Uruguay
+        fr: Uruguay
+        es: Uruguay
+    '10111000':
+      code_bit: '10111000'
+      country_or_area:
+        en: Russian Federation
+        fr: Fédération de Russie
+        es: Federación de Rusia
+    '10111001':
+      code_bit: '10111001'
+      country_or_area:
+        en: Vanuatu
+        fr: Vanuatu
+        es: Vanuatu
+    '10111010':
+      code_bit: '10111010'
+      country_or_area:
+        en: Vatican
+        fr: Vatican
+        es: Vaticano
+    '10111011':
+      code_bit: '10111011'
+      country_or_area:
+        en: Venezuela
+        fr: Venezuela
+        es: Venezuela
+    '10111100':
+      code_bit: '10111100'
+      country_or_area:
+        en: Viet Nam
+        fr: Viet Nam
+        es: Viet Nam
+    '10111101':
+      code_bit: '10111101'
+      country_or_area:
+        en: Wallis and Futuna
+        fr: Wallis-et-Futuna
+        es: Wallis y Futuna
+    '10111110':
+      code_bit: '10111110'
+      country_or_area:
+        en: Samoa
+        fr: Samoa
+        es: Samoa
+    '10111111':
+      code_bit: '10111111'
+      country_or_area:
+        en: Yemen
+        fr: Yémen
+        es: Yemen
+    '11000000':
+      code_bit: '11000000'
+      country_or_area:
+        en: Yemen
+        fr: Yémen
+        es: Yemen
+    '11000001':
+      code_bit: '11000001'
+      country_or_area:
+        en: Serbia
+        fr: Serbie
+        es: Serbia
+    '11000010':
+      code_bit: '11000010'
+      country_or_area:
+        en: Dem. Rep. of the Congo
+        fr: Rép. dém. du Congo
+        es: Rep. Dem. del Congo
+    '11000011':
+      code_bit: '11000011'
+      country_or_area:
+        en: Zambia
+        fr: Zambie
+        es: Zambia
+    '11000100':
+      code_bit: '11000100'
+      country_or_area:
+        en: Zimbabwe
+        fr: Zimbabwe
+        es: Zimbabwe
+    '11000101':
+      code_bit: '11000101'
+      country_or_area:
+        en: Slovakia
+        fr: Slovaquie
+        es: Eslovaquia
+    '11000110':
+      code_bit: '11000110'
+      country_or_area:
+        en: Slovenia
+        fr: Slovénie
+        es: Eslovenia
+    '11000111':
+      code_bit: '11000111'
+      country_or_area:
+        en: Lithuania
+        fr: Lituanie
+        es: Lituania
+    '11001000':
+      code_bit: '11001000'
+      country_or_area:
+        en: Montenegro
+        fr: Monténégro
+        es: Montenegro
+    '11001001':
+      code_bit: '11001001'
+      country_or_area:
+        en: "(Available)"
+        fr: "(Disponible)"
+        es: "(Disponible)"
+    '11001010':
+      code_bit: '11001010'
+      country_or_area:
+        en: "(Available)"
+        fr: "(Disponible)"
+        es: "(Disponible)"
+    '11001011':
+      code_bit: '11001011'
+      country_or_area:
+        en: "(Available)"
+        fr: "(Disponible)"
+        es: "(Disponible)"
+    '11001100':
+      code_bit: '11001100'
+      country_or_area:
+        en: "(Available)"
+        fr: "(Disponible)"
+        es: "(Disponible)"
+    '11001101':
+      code_bit: '11001101'
+      country_or_area:
+        en: "(Available)"
+        fr: "(Disponible)"
+        es: "(Disponible)"
+    '11001110':
+      code_bit: '11001110'
+      country_or_area:
+        en: "(Available)"
+        fr: "(Disponible)"
+        es: "(Disponible)"
+    '11001111':
+      code_bit: '11001111'
+      country_or_area:
+        en: "(Available)"
+        fr: "(Disponible)"
+        es: "(Disponible)"
+    '11111111':
+      code_bit: '11111111'
+      country_or_area:
+        en: Escape code to extension list (currently empty). See NOTE 1.
+        fr: Code d'échappement vers la liste complémentaire (actuellement vide). Voir
+          la NOTE 1.
+        es: Código de escape de la lista de extensiones (actualmente vacía). Véase
+          NOTA 1.
+      notes:
+        en: Once all the possible codes in the present List have been allocated, the
+          escape code permits the implementation of a second List of Country or Geographical
+          Area Codes for Non standard Facilities in Telematic Services by using an
+          extension byte
+        fr: Lorsque tous les codes possibles figurant dans la présente Liste auront
+          été attribués, le code d'échappement permettra d'utiliser une deuxième liste
+          d'indicatifs de pays ou de zone géographique pour les facilités non normalisées
+          dans les services de télématique, en utilisant un octet d'extension.
+        es: Una vez asignados todos los posibles códigos de la presente Lista, el
+          código de escape permite aplicar una segunda Lista de indicativos de país
+          o de zona geográfica a facilidades no normalizadas de los servicios telemáticos,
+          gracias a un bit de extensión.

@@ -1,0 +1,2795 @@
+---
+metadata:
+  title:
+    en: List of Issuer Identifier Numbers for the international Telecommunication
+      charge card (In accordance with Recommendation ITU-T E.118)
+    fr: Liste des numéros identificateurs d'entités émettrices pour les cartes internationales
+      de facturation des télécommunications (selon la Recommandation UIT-T E.118)
+    es: Lista de números de identificación de expedidor de la tarjeta con cargo a
+      cuenta para telecomunicaciones internacionales (según la Recomendación UIT-T
+      E.118)
+    ru: Список идентификационных номеров эмитентов ‎международной карты для расчетов
+      за электросвязь ‎‎(согласно Рекомендации МСЭ-Т E.118)‎
+    zh: 国际电信计账卡的颁发者标识号码列表（根据ITU-T E.118建议书）
+    ar: قائمة بأرقام تعرّف جهة الإصدار لبطاقة رسوم الاتصالات الدولية (وفقاً للتوصية
+      ITU T E.118)
+  locale:
+    country_or_area:
+      en: Country/Geographical area
+      fr: Pays/zone géographique
+      es: País/zona geográfica
+      ru: Страна/географическая зона
+      zh: 国家/地理区域
+      ar: البلد/ المنطقة الجغرافية
+    company_name:
+      en: Company Name
+      fr: Nom de la compagnie
+      es: Empresa
+      ru: Название компании
+      zh: 公司名称
+      ar: اسم الشركة
+    company_address:
+      en: Company Address
+      fr: adresse
+      es: Dirección
+      ru: адрес компании
+      zh: 公司地址
+      ar: عنوان الشركة
+    issue_id_number:
+      en: Issuer Identifier Number
+      fr: Numéro identificateur d'entité émettrice
+      es: Núm. Identificador de expedidor
+      ru: Идентификационный номер эмитента
+      zh: 发行人识别码
+      ar: "رقم تعرّف \nجهة الإصدار"
+    contact:
+      en: Contact
+      fr: Contact
+      es: Contacto
+      ru: Для контактов
+      zh: 联系信息
+      ar: جهة الاتصال
+data:
+  Afghanistan:
+    country_or_area:
+      en: Afghanistan
+    company_name: Afghan Wireless Communication Company (AWCC)
+    company_address_1: Darulaman Road, Near Hajari Najari Bus Station
+    company_address_2: KABUL
+    issue_id_number: 89 93 01
+    contact: AWCC
+    contact_address_1: Darulaman Road, Near Hajari Najari Bus Station
+    contact_address_2: KABUL
+    tel:
+    - "+93 70 111 40 27"
+    email:
+    - aliullah.sarwari@afghan-wireless.com
+  Albania:
+    country_or_area:
+      en: Albania
+    company_name: Plus Communications Sh.a
+    company_address_1: Rr. Ibrahim Rugova, Pallati i ri pranë Gardës së Republikës,
+      Kati II
+    company_address_2: TIRANA
+    issue_id_number: 89 355 04
+    contact: Matilda Shehu
+    contact_address_1: Rr. Ibrahim Rugova, Pallati i ri pranë Gardës së Republikës,
+      Kati II
+    contact_address_2: TIRANA
+    tel:
+    - "+355 4238 2512"
+    fax:
+    - "+355 4238 2538"
+    email:
+    - andrzej.czerczak@plus.al
+    - arben.margilaj@plus.al
+  Algeria:
+    country_or_area:
+      en: Algeria
+    company_name: ATM Mobilis (Algérie Telecom spa)
+    company_address_1: Route Nationale 5, Cinq Maisons Mohammadia
+    company_address_2: EL HARRACH - ALGER
+    issue_id_number: 89 213 01
+    contact: Lounis Belharrat
+    contact_address_1: 4 Boulevard Belkacem Krim
+    contact_address_2: 16000 ALGER
+    tel:
+    - "+213 21 711220"
+    fax:
+    - "+213 21 713240"
+  Andorra:
+    country_or_area:
+      en: Andorra
+    company_name: Servei de Telecomunicacions d'Andorra
+    company_address_1: Av. Meritxell 112
+    company_address_2: ANDORRA LA VELLA
+    issue_id_number: 89 376 03
+    contact: Ricard Rodrigo
+    contact_address_1: 112 Av. Meritxell
+    contact_address_2: ANDORRA LA VELLA
+    tel:
+    - "+376 821021"
+    fax:
+    - "+376 860600"
+  Angola:
+    country_or_area:
+      en: Angola
+    company_name: Unitel sarl
+    company_address_1: Rua Marechal Broz Tito 77-79
+    company_address_2: LUANDA
+    issue_id_number: 89 244 02
+    contact: Dr. Eng. Amilcar Frederico Safeca
+    contact_address_1: Rua Marechal Broz Tito 77-79, PO Box 3305
+    contact_address_2: LUANDA
+    tel:
+    - "+244 92 319 9100"
+    fax:
+    - "+244 22 244 7783"
+    email:
+    - unitel@unitel.co.ao
+  Anguilla:
+    country_or_area:
+      en: Anguilla
+    company_name: Cable and Wireless (W.I.) Ltd.
+    company_address_1: PO Box 77
+    company_address_2: THE VALLEY
+    issue_id_number: 89 1 010
+    contact: Kennedy W. Hodge
+    contact_address_1: PO Box 77
+    contact_address_2: THE VALLEY
+    tel:
+    - "+1 264 497 3100"
+    fax:
+    - "+1 264 497 2501"
+  Antigua and Barbuda:
+    country_or_area:
+      en: Antigua and Barbuda
+    company_name: Antigua Public Utilities Authority (APUA)
+    company_address_1: Utility Drive, Cassada Gardens,
+    company_address_2: St. John’s
+    issue_id_number: 89 1 130
+    contact: Crispin Thomas
+    contact_address_1: Utility Drive, Cassada Gardens,
+    contact_address_2: St. John’s
+    tel:
+    - "+1268 480 7758"
+    fax:
+    - "+1268 480 7476"
+    email:
+    - apuaroaming@apua.ag
+  Argentina:
+    country_or_area:
+      en: Argentina
+    company_name: Telefónica de Argentina S.A.
+    company_address_1: Av. de Mayo 701, Piso 23
+    company_address_2: 1083 BUENOS AIRES
+    issue_id_number: 89 54 54
+    contact: Eduardo Aníbal Gabelloni
+    contact_address_1: Bartolomé Mitre 760 - Piso 3
+    contact_address_2: 1036 BUENOS AIRES
+    tel:
+    - "+54 11 4328 7741"
+    fax:
+    - "+54 11 4326 2821"
+  Armenia:
+    country_or_area:
+      en: Armenia
+    company_name: MTS Armenia CJSC
+    company_address_1: 4/1 Argishti street
+    company_address_2: YEREVAN
+    issue_id_number: 89 374 05
+    contact: Ralph Yirikyan
+    contact_address_1: 4/1 Argishti street
+    contact_address_2: YEREVAN
+    tel:
+    - "+374 60 771 111"
+    fax:
+    - "+374 93 298 021"
+    email:
+    - ryirikyan@mts.am
+  Aruba:
+    country_or_area:
+      en: Aruba
+    company_name: SETAR, Servicio di Telecomunicacion di Aruba
+    company_address_1: Seroe Blanco, Hendrikstraat 20-22
+    company_address_2: ORANJESTAD
+    issue_id_number: 89 297 86
+    contact: Jacobo Robert
+    contact_address_1: Seroe Blanco, PO Box 13
+    contact_address_2: ORANJESTAD
+    tel:
+    - "+297 583 7734"
+    fax:
+    - "+297 583 2977"
+  Australia:
+    country_or_area:
+      en: Australia
+    company_name: Pivotel Group Pty Limited
+    company_address_1: 75 Nerang Street
+    company_address_2: SOUTHPORT QLD 4215
+    issue_id_number: 89 61 88
+    contact: Robert Sakker
+    contact_address_1: 75 Nerang Street
+    contact_address_2: SOUTHPORT QLD 4215S
+    tel:
+    - "+61 414 207 050"
+    fax:
+    - "+61 294 739 650"
+    email:
+    - robert.sakker@pivotel.com.au
+  Australian External Territories:
+    country_or_area:
+      en: Australian External Territories
+    company_name: Norfolk Telecom
+    company_address_1: P.O. Box 469, New Cascade Road
+    company_address_2: NORFOLK ISLAND 2899
+    issue_id_number: 89 672 10
+    contact: Michael Donohoe
+    contact_address_1: Norfolk Telecom, P.O. Box 95,
+    contact_address_2: 9 New Cascade Road, NORFOLK ISLAND 2899
+    tel:
+    - "+672 3 22468"
+    fax:
+    - "+672 3 22499"
+    email:
+    - mick@telecom.gov.nf
+  Austria:
+    country_or_area:
+      en: Austria
+    company_name: NXP Semiconductors Austria GmbH
+    company_address_1: Mikronweg 1
+    company_address_2: 8101 GRATKORN
+    issue_id_number: 89 43 51
+    contact: Clemens Orthacker
+    contact_address_1: Mikronweg 1
+    contact_address_2: 8101 GRATKORN
+    tel:
+    - "+43 664 9634729"
+    fax:
+    - "+43 3124 299 124"
+    email:
+    - clemens.orthacker@nxp.com
+  Azerbaijan:
+    country_or_area:
+      en: Azerbaijan
+    company_name: '"Nakhtel" LLC'
+    company_address_1: 1, Ataturk str.,
+    company_address_2: NAKHCHIVAN, Az7000
+    issue_id_number: 89 994 06
+    contact: Nazim Jafarly
+    contact_address_1: 1, Ataturk str.,
+    contact_address_2: NAKHCHIVAN, Az7000
+    tel:
+    - "+994 36 5452024"
+    email:
+    - rytn@nakhchivan.az
+  Bahamas:
+    country_or_area:
+      en: Bahamas
+    company_name: Bahamas Telecommunications Company Ltd.
+    company_address_1: John F. Kennedy Drive, PO Box N-3048
+    company_address_2: NASSAU
+    issue_id_number: 89 1 282
+    contact: Carol Creary
+    contact_address_1: PO Box N-3048
+    contact_address_2: NASSAU
+    tel:
+    - "+1 242 322 3379"
+    fax:
+    - "+1 242 326 0880"
+  Bahrain:
+    country_or_area:
+      en: Bahrain
+    company_name: Zain Bahrain
+    company_address_1: PO Box 266
+    company_address_2: MANAMA
+    issue_id_number: 89 973 02
+    contact: Ismael Fikree
+    contact_address_1: PO Box 266
+    contact_address_2: MANAMA
+    tel:
+    - "+973 360 30013"
+    fax:
+    - "+973 360 31996"
+    email:
+    - I.fikree@mtc.com.bh
+  Barbados:
+    country_or_area:
+      en: Barbados
+    company_name: Barbados Telephone Company Ltd. (BARTEL)
+    company_address_1: PO Box 272
+    company_address_2: BRIDGETOWN
+    issue_id_number: 89 1 012
+    contact: Marketing Manager
+    contact_address_1: PO Box 272
+    contact_address_2: BRIDGETOWN
+    tel:
+    - "+1 246 429 5050"
+    fax:
+    - "+1 246 436 5036"
+  Belarus:
+    country_or_area:
+      en: Belarus
+    company_name: Belarusian Telecommunication Network (ZAO BeST)
+    company_address_1: 117 Nezavisimosti Avenue
+    company_address_2: MINSK 220600
+    issue_id_number: 89 375 03
+    contact: Michail Demtchenko
+    contact_address_1: 117 Nezavisimosti Avenue
+    contact_address_2: MINSK 220600
+    tel:
+    - "+375 17 290 3575"
+    fax:
+    - "+375 17 290 3575"
+    email:
+    - michail.demtchenko@best.by
+  Belgium:
+    country_or_area:
+      en: Belgium
+    company_name: Voxbone SA
+    company_address_1: Claus Building, Avenue Louise 489
+    company_address_2: B-1050 BRUXELLES
+    issue_id_number: 89 32 08
+    contact: Katarzyna Golos-Terrasi
+    contact_address_1: Claus Building, Avenue Louise 489
+    contact_address_2: B-1050 BRUXELLES
+    tel:
+    - "+32 2 808 00 61"
+    fax:
+    - "+32 2 808 00 01"
+    email:
+    - bel@ic.voxbone.com
+  Belize:
+    country_or_area:
+      en: Belize
+    company_name: Intelco
+    company_address_1: 13.5 miles, Northern Highway Boom Cutoff
+    company_address_2: LADYVILLE
+    issue_id_number: 89 501 68
+    contact: Ivan TESUCUM
+    contact_address_1: P.O. Box 2484
+    contact_address_2: BELIZE CITY
+    tel:
+    - "+501 225 4128"
+    fax:
+    - "+501 225 4130"
+    email:
+    - itesucum@intelco.bz
+  Benin:
+    country_or_area:
+      en: Benin
+    company_name: Glomobile Benin Ltd
+    company_address_1: COTONOU
+    issue_id_number: 89 229 05
+  Bermuda:
+    country_or_area:
+      en: Bermuda
+    company_name: Bermuda Digital Communications Ltd
+    company_address_1: 22 Reid Street, Suite 3
+    company_address_2: HAMILTON HM 11
+    issue_id_number: 89 1 351
+    contact: Liam McKittrick
+    contact_address_1: 22 Reid Street, Suite 3
+    contact_address_2: HAMILTON HM 11
+    tel:
+    - "+1 441 777 0701"
+    fax:
+    - "+1 441 296 4011"
+    email:
+    - lmckittrick@cellone.bm
+  Bhutan:
+    country_or_area:
+      en: Bhutan
+    company_name: Tashi Infocomm Ltd
+    company_address_1: Norzin Lam, P.O. Box 176
+    company_address_2: THIMPHU
+    issue_id_number: 89 975 77
+    contact: Ganga R. Sharma
+    contact_address_1: Norzin Lam, P.O. Box 176
+    contact_address_2: THIMPHU
+    tel:
+    - "+975 2 335 476"
+    fax:
+    - "+975 2 324 440"
+    email:
+    - tashicell@gmail.com
+    - info@tashicell.com
+  Bolivia (Plurinational State of):
+    country_or_area:
+      en: Bolivia (Plurinational State of)
+    company_name: Empresa Nacional de Telecomunicaciones (ENTEL)
+    company_address_1: Federico Zuazo 1771
+    company_address_2: LA PAZ
+    issue_id_number: 89 591 02
+    contact: Waldo Pantoja
+    contact_address_1: Federico Zuazo 1771
+    contact_address_2: LA PAZ
+    tel:
+    - "+591 2 212 2005"
+    fax:
+    - "+591 2 239 1789"
+    email:
+    - wpantoja@entelsa.entelnet.bo
+  Bonaire, Sint Eustatius and Saba:
+    country_or_area:
+      en: Bonaire, Sint Eustatius and Saba
+    company_name: Telbo
+    company_address_1: Kaya Lib. Simon
+    company_address_2: 'BOLIVAR #8'
+    issue_id_number: 89 599 78
+    contact: Edsel Winklaar
+    contact_address_1: P.O. Box 94
+    contact_address_2: BONAIRE
+    tel:
+    - "+599 717 7111"
+    fax:
+    - "+599 717 5007"
+    email:
+    - telbo@telbonet.an
+  Bosnia and Herzegovina:
+    country_or_area:
+      en: Bosnia and Herzegovina
+    company_name: Telekomunicaje RS, a.d. Banjaluka
+    company_address_1: Kralja Petra I, Karadjordjevica 93
+    company_address_2: 78 000 BANJA LUKA
+    issue_id_number: 89 387 05
+    contact: Predrag Culibrk
+    contact_address_1: Kralja Petra I, Karadjordjevica 93
+    contact_address_2: 78 000 BANJA LUKA
+    tel:
+    - "+387 51 240 101"
+    fax:
+    - "+387 51 211 150"
+    email:
+    - ts.office@mtel.ba
+  Botswana:
+    country_or_area:
+      en: Botswana
+    company_name: Botswana Telecommunications Corporation (Ltd)
+    company_address_1: PO Box 700
+    company_address_2: GABORONE
+    issue_id_number: 89 267 04
+    contact: Anthony Masunga
+    contact_address_1: PO Box 700, Main Mall
+    contact_address_2: GABORONE
+    tel:
+    - "+267 395 8304"
+    fax:
+    - "+267 391 3355"
+    email:
+    - anthonym@btc.bw
+  Brazil:
+    country_or_area:
+      en: Brazil
+    company_name: IDT Brasil Telecomunicaçôes Ltda
+    company_address_1: Rua Diogo Moreira 132
+    company_address_2: 14 AND CJ 1404
+    issue_id_number: 89 55 26
+    contact: Eliseu Carnizello
+    contact_address_1: Rua Diogo Moreira 132
+    contact_address_2: 14 AND CJ 1404
+    tel:
+    - "+55 11 3995 1111"
+    fax:
+    - "+55 11 3095 9145"
+  British Virgin Islands:
+    country_or_area:
+      en: British Virgin Islands
+    company_name: Caribbean Cellular Telephone d.b.a. CCT Boatphone
+    company_address_1: PO BOX 267
+    company_address_2: ROAD TOWN, TORTOLA
+    issue_id_number: 89 1 348
+    contact: Robert Lyons
+    contact_address_1: P.O. Box 267
+    contact_address_2: ROAD TOWN, TORTOLA
+    tel:
+    - "+1 284 494 3825"
+    fax:
+    - "+1 284 494 4933"
+    email:
+    - rlyons@bvicellular.com
+  Bulgaria:
+    country_or_area:
+      en: Bulgaria
+    company_name: Cosmo Bulgaria Mobile Ltd.
+    company_address_1: 7, V. Levski Street
+    company_address_2: 1000 SOFIA
+    issue_id_number: 89 359 05
+    contact: General Manager
+    contact_address_1: SOFIA
+  Burkina Faso:
+    country_or_area:
+      en: Burkina Faso
+    company_name: Telecel Faso
+    company_address_1: BP 11059
+    company_address_2: OUGADOUGOU 08
+    issue_id_number: 89 226 03
+    contact: Alex Kande
+    contact_address_1: BP 11059
+    contact_address_2: OUAGADOUGOU 08
+    tel:
+    - "+226 7021 2496"
+    fax:
+    - "+226 5030 0889"
+  Burundi:
+    country_or_area:
+      en: Burundi
+    company_name: Lacell SU
+    company_address_1: The White Stone, Boulevard de l'Uprona
+    company_address_2: P.O. Box 3150, BUJUMBURA
+    issue_id_number: 89 257 07
+    contact: Bhupendra Bhandari
+    contact_address_1: The White Stone, Boulevard de l'Uprona
+    contact_address_2: P.O. Box 3150, BUJUMBURA
+    tel:
+    - "+257 2225 8621"
+    fax:
+    - "+257 2225 8620"
+    email:
+    - bhupendra.bhandari@lacellsu.com
+  Cabo Verde:
+    country_or_area:
+      en: Cabo Verde
+    company_name: UNITEL T+ TELECOMUNICAÇÕES, SOCIEDADE UNIPESSOAL, SA
+    company_address_1: Avenida Cidade de Lisboa, Edifício BAI Center, 4º e 6º Pisos,
+      Chã de Areia
+    company_address_2: CP 346-A PRAIA
+    issue_id_number: 89 238 02
+    contact: Paula Carioca
+    contact_address_1: Avenida Cidade de Lisboa, Edifício BAI Center, 4º e 6º Pisos,
+      Chã de Areia
+    contact_address_2: CP 346-A PRAIA
+    tel:
+    - "+238 330 3030"
+    fax:
+    - "+238 261 9606"
+    email:
+    - paula.carioca@uniteltmais.cv
+  Cambodia:
+    country_or_area:
+      en: Cambodia
+    company_name: CAMGSM
+    company_address_1: 33 Sihanouk Boulevard
+    company_address_2: PHNOM PENH
+    issue_id_number: 89 855 01
+    contact: Iain Williams
+    contact_address_1: 33 Sihanouk Boulevard
+    contact_address_2: PHNOM PENH
+    tel:
+    - "+855 18 813984"
+    fax:
+    - "+855 23 426415"
+  Canada:
+    country_or_area:
+      en: Canada
+    company_name: Northwestel Inc.
+    company_address_1: PO Bag 790 Yellowknife
+    company_address_2: NWT XIA 2R3
+    issue_id_number: 89 1 930
+    contact: Harry de Windt
+    contact_address_1: PO Bag 790 Yellowknife
+    contact_address_2: NWT XIA 2R3
+    tel:
+    - "+1 403 920 3507"
+    fax:
+    - "+1 403 920 2407"
+  Cayman Islands:
+    country_or_area:
+      en: Cayman Islands
+    company_name: Cable and Wireless (C.I.) Ltd.
+    company_address_1: PO Box 293 GT
+    company_address_2: GRAND CAYMAN
+    issue_id_number: 89 1 015
+    contact: Brian Lundie
+    contact_address_1: PO Box 293
+    contact_address_2: GRAND CAYMAN
+    tel:
+    - "+1 345 949 7800"
+    fax:
+    - "+1 345 949 5472"
+  Chad:
+    country_or_area:
+      en: Chad
+    company_name: Tchad Mobile - Libertis
+    company_address_1: BP 5742
+    company_address_2: N'DJAMENA
+    issue_id_number: 89 235 02
+    contact: Sameh Mangoury
+    contact_address_1: Avenue Charles de Gaulle, BP 5742
+    contact_address_2: N'DJAMENA
+    tel:
+    - "+235 6850 9999"
+    fax:
+    - "+235 2252 0139"
+  China:
+    country_or_area:
+      en: China
+    company_name: China Telecom
+    company_address_1: 33 Er Long Road
+    company_address_2: BEIJING 100032
+    issue_id_number: 89 86 00
+    contact: Directorate General
+    contact_address_1: 13 West Chang-An Ave.
+    contact_address_2: BEIJING 100804
+    tel:
+    - "+86 10 6601 7911"
+    fax:
+    - "+86 10 6601 1250"
+  Colombia:
+    country_or_area:
+      en: Colombia
+    company_name: Colombia Telecomunicaciones SA ESP (Movistar)
+    company_address_1: 'Transversal 60 # 114A - 55'
+    company_address_2: BOGOTÁ D.C.
+    issue_id_number: 89 57 123
+    contact: Fabián Andrés Hernández Ramirez, Representante Legal
+    contact_address_1: 'Transversal 60 # 114A - 55'
+    contact_address_2: BOGOTÁ D.C.
+    tel:
+    - "+57 1 7050000"
+    email:
+    - natalia.guerra@telefonica.com
+    - diana.arias@telefonica.com
+    - emilio.santofimio@telefonica.com
+  Comoros:
+    country_or_area:
+      en: Comoros
+    company_name: Société nationale des télécommunications (Comores Telecom)
+    company_address_1: BP 5000
+    company_address_2: MORONI
+    issue_id_number: 89 269 01
+    contact: Mgomri Oumara
+    contact_address_1: BP 5000
+    contact_address_2: MORONI
+    tel:
+    - "+269 774 4300"
+    fax:
+    - "+269 773 1079"
+    email:
+    - mgomrio@snpt.km
+  Congo:
+    country_or_area:
+      en: Congo
+    company_name: Celtel Congo S.A.
+    company_address_1: 79 Avenue Bayardelle
+    company_address_2: BRAZZAVILLE
+    issue_id_number: 89 242 01
+    contact: Noely Randrianjakanavalona
+    contact_address_1: 79 Avenue Bayardelle
+    contact_address_2: BRAZZAVILLE
+    tel:
+    - "+242 22 281 5006"
+    fax:
+    - "+242 22 281 0581"
+  Costa Rica:
+    country_or_area:
+      en: Costa Rica
+    company_name: Instituto Costarricense de Electricidad - ICE
+    company_address_1: PO Box 10032
+    company_address_2: 1000 SAN JOSE
+    issue_id_number: 89 506 01
+    tel:
+    - "+506 2220 7422"
+    fax:
+    - "+506 2220 1555"
+  Côte d'Ivoire:
+    country_or_area:
+      en: Côte d'Ivoire
+    company_name: Atlantique Telecom Côte d'Ivoire
+    company_address_1: BP 01
+    company_address_2: ABIDJAN 2347
+    issue_id_number: 89 225 02
+    contact: Simon Gohi Bi
+    contact_address_1: BP 01
+    contact_address_2: ABIDJAN 2347
+    tel:
+    - "+225 2025 0101"
+    fax:
+    - "+225 2025 0103"
+    email:
+    - simon.gohi@moov.com
+  Croatia:
+    country_or_area:
+      en: Croatia
+    company_name: Hrvatski Telekom d.d.
+    company_address_1: Roberta Frangesa Mihanovica 9
+    company_address_2: HR-10110 ZAGREB
+    issue_id_number: 89 385 98
+    contact: Ivica Ivanusevic
+    contact_address_1: Roberta Frangesa Mihanovica 9
+    contact_address_2: HR-10110 ZAGREB
+    tel:
+    - "+385 1 498 4098"
+    fax:
+    - "+385 1 498 2411"
+  Cuba:
+    country_or_area:
+      en: Cuba
+    company_name: Empresa de Telecomunicaciones Celulares del Caribe S.A. (C-COM)
+    company_address_1: 5ta y 5ta B, Playa
+    company_address_2: LA HABANA 10300
+    issue_id_number: 89 53 01
+    contact: Waldo Reboredo
+    contact_address_1: Calle 8, No. 511 Apto 1, entre 5ta y 5ta B
+    contact_address_2: PLAYA CIUDAD DE LA HABANA
+    tel:
+    - "+53 7 241640"
+    fax:
+    - "+53 7 241640"
+  Curaçao:
+    country_or_area:
+      en: Curaçao
+    company_name: Curacao Telecom
+    company_address_1: Schottegatweg Oost 19
+    company_address_2: CURACAO
+    issue_id_number: 89 599 96
+    contact: Johannes  C. Lute
+    contact_address_1: Schottegatweg Oost 19
+    contact_address_2: CURACAO
+    tel:
+    - "+599 9 736 1056"
+    fax:
+    - "+599 9 736 1057"
+    email:
+    - hlute@curacaotelecom.com
+  Cyprus:
+    country_or_area:
+      en: Cyprus
+    company_name: MTX Connect Ltd
+    company_address_1: 'Georgiou Gennadiou, 10 Agathangelos Court #403'
+    company_address_2: LIMASSOL 3041
+    issue_id_number: 89 883 05
+    contact: Ilya Balashov
+    contact_address_1: 'Georgiou Gennadiou, 10 Agathangelos Court #403'
+    contact_address_2: LIMASSOL 3041
+    tel:
+    - "+357 22 030 076"
+    email:
+    - ilya.balashov@mtxc.eu
+  Czech Rep:
+    country_or_area:
+      en: Czech Rep.
+    company_name: Správa Zeleznicni Dopravni Cesty, s.o.
+    company_address_1: Dlazdená 1003/7
+    company_address_2: CZ - 11000 PRAHA 1
+    issue_id_number: 89 420 98
+    contact: Marek Rosa
+    contact_address_1: Dlazdená 1003/7
+    contact_address_2: CZ - 11000 PRAHA 1
+    tel:
+    - "+420 972 235 742"
+    fax:
+    - "+420 222 335 389"
+    email:
+    - rosa@szdc.cz
+  Dem:
+    " People's Rep":
+      " of Korea":
+        country_or_area:
+          en: Dem. People's Rep. of Korea
+        company_name: North East Asia Telephone and Telecommunications Co. Ltd.
+        company_address_1: Namsang-dong
+        company_address_2: RASON CITY
+        issue_id_number: 89 850 01
+        contact: Werner Boehm
+        contact_address_1: c/o Teltech Group, Landstrasser Haupstrasse 71/2
+        contact_address_2: A-1030 WIEN
+        contact_address_3: "(Austria)"
+        tel:
+        - "+43 664 342 8100"
+        fax:
+        - "+43 1 7172 8110"
+    " Rep":
+      " of the Congo":
+        country_or_area:
+          en: Dem. Rep. of the Congo
+        company_name: Sait Telecom
+        company_address_1: BP 8149, BD. Du 30 juin
+        company_address_2: KINSHASA 1
+        issue_id_number: 89 243 89
+        contact: Paul Mputu Boleilanga
+        contact_address_1: BD. Du 30 juin, BP 8149
+        contact_address_2: KINSHASA 1
+        tel:
+        - "+243 880 3765"
+        fax:
+        - "+870 762 264988"
+        email:
+        - francois.leyder@prophost.eunet.be
+  Denmark:
+    country_or_area:
+      en: Denmark
+    company_name: Hi3G Denmark ApS
+    company_address_1: Dampfaergevej 28
+    company_address_2: KOBENHAVN O
+    issue_id_number: 89 45 06
+    contact: Christian Jorgensen
+    contact_address_1: Dampfaergevej 28
+    contact_address_2: DK - 2100 KOBENHAVN O
+    tel:
+    - "+45 1524 5420"
+    fax:
+    - "+45 3527 5599"
+    email:
+    - christian.joergensen@3.dk
+  Dominica:
+    country_or_area:
+      en: Dominica
+    company_name: Telecommunications of Dominica Ltd.
+    company_address_1: PO Box 6
+    company_address_2: ROSEAU
+    issue_id_number: 89 1 016
+    contact: H.W. Jacob
+    contact_address_1: PO Box 6, Hanover Street
+    contact_address_2: ROSEAU
+    tel:
+    - "+1 767 448 1010"
+    fax:
+    - "+1 767 448 1181"
+  Dominican Rep:
+    country_or_area:
+      en: Dominican Rep.
+    company_name: Verizon Dominicana
+    company_address_1: PO Box 1377
+    company_address_2: SANTO DOMINGO
+    issue_id_number: 89 1 650
+    contact: Naney de Nuñez
+    contact_address_1: Ave. 27 de Febrero 247
+    contact_address_2: STO. DOMINGO
+    tel:
+    - "+1 809 562 4592"
+    fax:
+    - "+1 809 533 2036"
+  Ecuador:
+    country_or_area:
+      en: Ecuador
+    company_name: Consorcio Ecuatoriano de Telecomunicaciones S.A. (Conecel)
+    company_address_1: Avda. Francisco de Orellana y Alberto Borges
+    company_address_2: GUAYAQUIL
+    issue_id_number: 89 593 01
+    contact: Carlos Zenteno de los Santos
+    contact_address_1: Avda. Francisco de Orellana y Alberto Borges
+    contact_address_2: GUAYAQUIL
+    tel:
+    - "+593 4 269 3693"
+    fax:
+    - "+593 4 263 3611"
+  Egypt:
+    country_or_area:
+      en: Egypt
+    company_name: Vodafone Egypt Telecommunications S.A.E.
+    company_address_1: 17 Port Said Street, Maadi El-Sarayat
+    company_address_2: CAIRO
+    issue_id_number: 89 20 02
+    contact: Ian Crawford
+    contact_address_1: 17 Port Said Street, Maadi El Sarayat
+    contact_address_2: CAIRO
+    tel:
+    - "+20 2 3351 7471"
+    fax:
+    - "+20 2 3350 4957"
+  Equatorial Guinea:
+    country_or_area:
+      en: Equatorial Guinea
+    company_name: Guinea Ecuatorial de Telecomunicaciones Sociedad Anónima (GETESA)
+    company_address_1: Calle_Rey Bonkoro No 27, Apartado 494
+    company_address_2: MALABO
+    issue_id_number: 89 240 01
+    contact: Emmanuel Lys
+    contact_address_1: Calle_Rey Bonkoro No 27
+    contact_address_2: MALABO
+    tel:
+    - "+240 333 094 052"
+    fax:
+    - "+240 333 094 000"
+    email:
+    - roaming@getesa.gq
+  Eritrea:
+    country_or_area:
+      en: Eritrea
+    company_name: Eritrea Telecommunication Services Corporation (EriTel)
+    company_address_1: Semaetat Str. No 11, PO Box 234
+    company_address_2: ASMARA
+    issue_id_number: 89 291 01
+    contact: Tesfaselassie Berhane
+    contact_address_1: Semaetat Str.No 11, PO Box 234
+    contact_address_2: ASMARA
+    tel:
+    - "+291 1 117 547"
+    fax:
+    - "+291 1 120 938"
+  Estonia:
+    country_or_area:
+      en: Estonia
+    company_name: Top Connect OÜ
+    company_address_1: Väike-Paala 1,
+    company_address_2: TALLINN, 11415
+    issue_id_number: 89 372 04
+    contact: Vladislav Sobolev
+    contact_address_1: Väike-Paala 1
+    contact_address_2: 11415 TALLINN
+    tel:
+    - "+372 606 25005"
+    fax:
+    - "+372 606 2501"
+    email:
+    - info@topconnect.com
+  Ethiopia:
+    country_or_area:
+      en: Ethiopia
+    company_name: Ethiopian Telecommunications Corporation (ETC)
+    company_address_1: Unity Square, Churchill Road, P.O. Box 1047
+    company_address_2: ADDIS ABABA
+    issue_id_number: 89 251 01
+    contact: "-"
+    contact_address_1: Ethiopian Telecommunications Agency
+    contact_address_2: Debrezeit Road, ADDIS ABABA
+    fax:
+    - "+251 11 465 5763"
+    email:
+    - tele.agency@ethionet.et
+  Falkland Islands (Malvinas):
+    country_or_area:
+      en: Falkland Islands (Malvinas)
+    company_name: Cable and Wireless Falkland Islands
+    company_address_1: Steward House
+    company_address_2: PORT STANLEY
+    issue_id_number: 89 500 01
+    contact: Chris Harris
+    contact_address_1: PO Box 20884, Steward House
+    contact_address_2: PORT STANLEY
+    tel:
+    - "+500 20884"
+    fax:
+    - "+500 20885"
+    email:
+    - chris.harris@cwfi.co.fk
+  Faroe Islands:
+    country_or_area:
+      en: Faroe Islands
+    company_name: Kall P/F
+    company_address_1: Odinshaedd 2, PO Box 3299
+    company_address_2: FO-110 TORSHAVN
+    issue_id_number: 89 298 02
+    contact: Dan Olsen
+    contact_address_1: Odinshaedd 2, PO Box 3299
+    contact_address_2: FO-110 TORSHAVN
+    tel:
+    - "+298 202020"
+    fax:
+    - "+298 202021"
+    email:
+    - dao@kall.fo
+  Fiji:
+    country_or_area:
+      en: Fiji
+    company_name: Digicel (Fiji) Ltd
+    company_address_1: Private Mial Bag
+    company_address_2: NADI AIRPORT
+    issue_id_number: 89 679 02
+    contact: John Cross
+    contact_address_1: Head Legal and Regulatory
+    contact_address_2: NADI AIRPORT
+    tel:
+    - "+679 990 6657"
+    email:
+    - john.cross@digicelgroup.com
+  Finland:
+    country_or_area:
+      en: Finland
+    company_name: Suomen Virveverkko Oy
+    company_address_1: P.O. Box 357
+    company_address_2: 02151 ESPOO
+    issue_id_number: 89 358 12
+    contact: Antti Kauppinen
+    contact_address_1: P.O. Box 357
+    contact_address_2: 02151 ESPOO
+    tel:
+    - "+358 294 440 500"
+    - "+358 40 8668 582"
+    fax:
+    - "+358 294 440 501"
+    - "+358 207 400 606"
+    email:
+    - antti.kauppinen@erillisverkot.fi
+  France:
+    country_or_area:
+      en: France
+    company_name: Orange
+    company_address_1: 40-48 avenue de la République
+    company_address_2: 92320 CHATILLON
+    issue_id_number: 89 883 01
+    contact: Philippe Fouquart
+    contact_address_1: 40-48 avenue de la République
+    contact_address_2: 92320 CHATILLON
+    tel:
+    - "+33 1 57 39 58 13"
+    email:
+    - philippe.fouquart@orange.com
+  French Polynesia:
+    country_or_area:
+      en: French Polynesia
+    company_name: Pacific Mobile Telecom
+    company_address_1: BP 335
+    company_address_2: 98713 PAPETEE
+    issue_id_number: 89 689 15
+    contact: Bruce Rudy
+    contact_address_1: BP 335
+    contact_address_2: 98713 PAPETEE
+    tel:
+    - "+689 24 23 20"
+    fax:
+    - "+689 50 42 51"
+    email:
+    - brudy@pmtgrp.com
+  Gabon:
+    country_or_area:
+      en: Gabon
+    company_name: Celtel Gabon S.A.
+    company_address_1: BP 9259
+    company_address_2: LIBREVILLE R.P.
+    issue_id_number: 89 241 03
+    contact: Colin Campell
+    contact_address_1: BP 9259
+    contact_address_2: LIBREVILLE R.P.
+    tel:
+    - "+241 746574"
+    fax:
+    - "+241 745286"
+  Gambia:
+    country_or_area:
+      en: Gambia
+    company_name: Qcell Limited
+    company_address_1: Qcell House, Kairaba Avenue
+    company_address_2: PO Box 3469, SEREKUNDA
+    issue_id_number: 89 220 04
+    contact: Qcell Limited
+    contact_address_1: Qcell House, Kairaba Avenue
+    contact_address_2: PO Box 3469, SEREKUNDA
+    tel:
+    - "+220 333 3111"
+    email:
+    - isatou.jallow@qcell.gm
+  Georgia:
+    country_or_area:
+      en: Georgia
+    company_name: Geocell LLC
+    company_address_1: 3 Gotua Str. Right Side of the River Mtkvari,
+    company_address_2: TBILISI, 0160
+    issue_id_number: 89 995 01
+    contact: David Svanidze
+    contact_address_1: 3 Gotua Str. Right Side of the River Mtkvari,
+    contact_address_2: TBILISI, 0160
+    tel:
+    - "+995 32 277 01 00"
+    fax:
+    - "+995 32 277 01 29"
+    email:
+    - cno@geocell.ge
+    - core@geocell.ge
+  Germany:
+    country_or_area:
+      en: Germany
+    company_name: EMnify GmbH
+    company_address_1: Friedrich-Bergius-Ring 15
+    company_address_2: 97076 WUERZBURG
+    issue_id_number: 89 883 03
+    contact: Alexander Schebler
+    contact_address_1: Friedrich-Bergius-Ring 15
+    contact_address_2: 97076 WUERZBURG
+    tel:
+    - "+49 931 4973 9270"
+    email:
+    - alexander.schebler@emnify.com
+  Ghana:
+    country_or_area:
+      en: Ghana
+    company_name: ACG Telesystems Ghana Ltd.
+    company_address_1: 7th Avenue Ext. North Ridge, Private Mail Bag
+    company_address_2: ACCRA NORTH
+    issue_id_number: 89 233 09
+    contact: Project Director
+    contact_address_1: Private Mail Bag
+    contact_address_2: ACCRA-NORTH
+    tel:
+    - "+233 21 232234"
+    fax:
+    - "+233 21 232309"
+  Gibraltar:
+    country_or_area:
+      en: Gibraltar
+    company_name: Eazi Telecom Ltd (trading as “Limba”)
+    company_address_1: 48 Royal Ocean Plaza, 16 Glacis Road,
+    company_address_2: PO BOX 1108, GIBRALTAR, GX11 1AA
+    issue_id_number: 89 350 09
+    contact: Jessica Canepa
+    contact_address_1: Suite 48, Royal Ocean Plaza, 16 Glacis Road
+    contact_address_2: Gibraltar GX11 1AA
+    tel:
+    - "+350 219 000 00"
+    email:
+    - jventura@limbatelecom.com
+  Greece:
+    country_or_area:
+      en: Greece
+    company_name: WIND Hellas
+    company_address_1: 66 Kifissias Avenue
+    company_address_2: 151 25 MAROUSSI
+    issue_id_number: 89 30 10
+    contact: Vassilios Gkatsos
+    contact_address_1: 66 Kifissias Avenue
+    contact_address_2: 151 25 MAROUSSI
+    tel:
+    - "+30 2106158000"
+    fax:
+    - "+30 2105100001"
+    email:
+    - v.gkatsos@wind.gr
+  Greenland:
+    country_or_area:
+      en: Greenland
+    company_name: TELE Greenland A/S
+    company_address_1: Postboks 1002, Farip Aqqutaa 8
+    company_address_2: DK-3900 NUUK
+    issue_id_number: 89 299 01
+    contact: Tom Andersen
+    contact_address_1: Postboks 1002
+    contact_address_2: DK-3900 NUUK
+    tel:
+    - "+299 386325"
+    email:
+    - tba@telepost.gl
+  Grenada:
+    country_or_area:
+      en: Grenada
+    company_name: Grenada Telecommunications Ltd. (GRENTEL)
+    company_address_1: PO Box 119
+    company_address_2: ST. GEORGE'S
+    issue_id_number: 89 1 017
+    contact: C.R. Roberts
+    contact_address_1: PO Box 119, The Carenge
+    contact_address_2: ST. GEORGE's
+    tel:
+    - "+1 473 440 1000"
+    fax:
+    - "+1 473 440 4100"
+  Guadeloupe:
+    country_or_area:
+      en: Guadeloupe
+    company_name: Saint Martin et Saint Barthelemy Telcell Sarl
+    company_address_1: 30 Spring Hills
+    company_address_2: 97150 MAIGOT, SAINT MARTIN
+    issue_id_number: 89 590 03
+    contact: Philippe Verdier
+    contact_address_1: B.P. 4278
+    contact_address_2: 97160 SAINT MARTIN
+    tel:
+    - "+599 545 5583"
+    fax:
+    - "+599 545 2179"
+  Guam:
+    country_or_area:
+      en: Guam
+    company_name: Docomo Pacific, Inc.
+    company_address_1: 890 S. Marine Corps Dr.
+    company_address_2: TAMUNING, GU USA 96913
+    issue_id_number: 89 1 377
+    contact: James W. Hofman
+    contact_address_1: 890 S. Marine Corps Dr.
+    contact_address_2: TAMUNING, GU USA 96913
+    tel:
+    - "+1 671 688 2355"
+    fax:
+    - "+1 671 649 7247"
+    email:
+    - jhofman@docomopacific.com
+  Guinea:
+    country_or_area:
+      en: Guinea
+    company_name: Orange Guinée
+    company_address_1: Boulevard du Commerce, BP 4549
+    company_address_2: CONAKRY
+    issue_id_number: 89 224 01
+    contact: Ba Brelotte
+    contact_address_1: Boulevard du Commerce, BP 4549
+    contact_address_2: CONAKRY
+    fax:
+    - "+224 3045 1334"
+    email:
+    - boaaziz@yahoo.fr
+  Guinea-Bissau:
+    country_or_area:
+      en: Guinea-Bissau
+    company_name: Guiné Telecom - Companhia de Telecomunicaçôes de GuinéBissau
+    company_address_1: Av'Amilcar Cabral 15
+    company_address_2: BISSAU
+    issue_id_number: 89 245 09
+    contact: Isidoro Lopes Rodrigues
+    contact_address_1: Apartado 100-1011
+    contact_address_2: BISSAU CODEX
+    tel:
+    - "+245 320 1414"
+    fax:
+    - "+245 321 1300"
+  Guyana:
+    country_or_area:
+      en: Guyana
+    company_name: Guyana Telephone and Telegraph Company Ltd. (GT&T)
+    company_address_1: 79 Brickdam
+    company_address_2: GEORGETOWN
+    issue_id_number: 89 592 02
+    contact: Gerard de Freitas
+    contact_address_1: 79 Brickdam
+    contact_address_2: GEORGETOWN
+    tel:
+    - "+592 225 6382"
+    fax:
+    - "+592 225 4092"
+    email:
+    - gerryd@gtt.co.gy
+  Hong Kong, China:
+    country_or_area:
+      en: Hong Kong, China
+    company_name: PCCW-HKT Telephone Limited and Hong Kong Telecommunications (HKT)
+      Limited
+    company_address_1: 39/F., PCCW Tower, Taikoo Place, 979 King's Road,
+    company_address_2: Quarry Bay, Hong Kong
+    issue_id_number: 89 852 80
+    contact: Philip Ho
+    contact_address_1: 17/F., PCCW Tower, Taikoo Place, 979 King's Road,
+    contact_address_2: Quarry Bay, Hong Kong
+    tel:
+    - "+852 2888 2836"
+    fax:
+    - "+852 2504 5937"
+    email:
+    - philip.kw.ho@pccw.com
+  Hungary:
+    country_or_area:
+      en: Hungary
+    company_name: MVM NET Ltd
+    company_address_1: Róbert Károly krt 59.
+    company_address_2: H-1134 BUDAPEST
+    issue_id_number: 89 36 32
+    contact: Rajmund Mehringer
+    contact_address_1: MVM NET Ltd
+    contact_address_2: H-1255 BUDAPEST 15., Pf.:17
+    tel:
+    - "+36 1 304 3348"
+    fax:
+    - "+36 1 202 0891"
+    email:
+    - mehringer.rajmund@mvmnet.hu
+  Iceland:
+    country_or_area:
+      en: Iceland
+    company_name: IMC Island ehf
+    company_address_1: Armuli 7B
+    company_address_2: 108 REYKJAVIK
+    issue_id_number: 89 354 04
+    contact: Jim Blaisdell
+    contact_address_1: 801 Roeder Rd., Suite 800
+    contact_address_2: SILVER SPRING, MD 20910. USA
+    contact_address_3: "(United States)"
+    tel:
+    - "+1 301 960 0060"
+    fax:
+    - "+1 301 562 0397"
+    email:
+    - jblaisdell@worldcell.com
+  India:
+    country_or_area:
+      en: India
+    company_name: Mahanagar Telephone Nigam Ltd
+    company_address_1: 124 Connaught Circus
+    company_address_2: 110001 NEW DELHI
+    issue_id_number: 89 91 68
+    contact: Narinder Sharma
+    contact_address_1: 124 Connaught Circus
+    contact_address_2: 110001 NEW DELHI
+    tel:
+    - "+91 11 2371 9020"
+    fax:
+    - "+91 11 2331 4243"
+  Indonesia:
+    country_or_area:
+      en: Indonesia
+    company_name: PT Satelit Palapa Indonesia (PT Satelindo)
+    company_address_1: Jalan HR. Rasuna Said Kav X6 No. 8
+    company_address_2: JAKARTA 12940
+    issue_id_number: 89 62 01
+    contact: S. Gunawan
+    contact_address_1: Mulia Center Suite No. 1201
+    contact_address_2: JAKARTA SELATAN
+    tel:
+    - "+62 21 522 9322"
+    fax:
+    - "+62 21 522 9320"
+  Iran (Islamic Republic of):
+    country_or_area:
+      en: Iran (Islamic Republic of)
+    company_name: Kish free-zone organisation (KFZO), Payem Kish
+    company_address_1: Sanaei Square
+    company_address_2: KISH ISLAND
+    issue_id_number: 89 98 14
+    contact: Mohammad Mehdi Tabatabaei
+    contact_address_1: Sanaei Square
+    contact_address_2: KISH ISLAND
+    tel:
+    - "+98 764 442 3912"
+    fax:
+    - "+98 764 442 4156"
+    email:
+    - tabatabaei.kazemabad@yahoo.com
+  Iraq:
+    country_or_area:
+      en: Iraq
+    company_name: Korek Telecom
+    company_address_1: 45 Kurdistan Street, Pirmam
+    company_address_2: ERBIL
+    issue_id_number: 89 964 40
+    contact: Loukman A. Ameen
+    contact_address_1: 45 Kurdistan Street, Pirmam
+    contact_address_2: ERBIL
+    tel:
+    - "+964 750 445 0120"
+    fax:
+    - "+964 750 446 0022"
+    email:
+    - loukman@korektel.com
+  Ireland:
+    country_or_area:
+      en: Ireland
+    company_name: CARPHONE WAREHOUSE IRELAND MOBILE LIMITED
+    company_address_1: 3rd Floor, Omni Park Shopping Centre, Santry
+    company_address_2: DUBLIN 9
+    issue_id_number: 89 353 16
+    contact: Joe Sloan
+    contact_address_1: 3rd Floor, Omni Park Shopping Centre, Santry
+    contact_address_2: DUBLIN 9
+    tel:
+    - "+353 872 740 776"
+    email:
+    - sloanj@cpwplc.com
+  Israel:
+    country_or_area:
+      en: Israel
+    company_name: Pelephone Communications Ltd
+    company_address_1: 33 Yitzhak Rabin Road
+    company_address_2: GIVATAIM 61620
+    issue_id_number: 89 972 50
+    contact: Sharon Mishal
+    contact_address_1: 33 Yitzhak Rabin Road
+    contact_address_2: GIVATAIM 61620
+    tel:
+    - "+972 3 572 8742"
+    fax:
+    - "+972 3 572 8092"
+    email:
+    - sharonmi@pelephone.co.il
+  Italy:
+    country_or_area:
+      en: Italy
+    company_name: Wind Tre S.p.A.
+    company_address_1: Via Leonardo Da Vinci 1, 20090 Trezzano S/N,
+    company_address_2: MILANO
+    issue_id_number: 89 39 99
+    contact: Regulatory Affairs Director
+    contact_address_1: Wind Tre S.p.A., Via Cesare Giulio Viola 48
+    contact_address_2: '00148 ROMA'
+    tel:
+    - "+39 06 8311 3816"
+    fax:
+    - "+39 06 8311 3983"
+    email:
+    - AffariRegolamentari@pec.windtre.it
+  Jamaica:
+    country_or_area:
+      en: Jamaica
+    company_name: Cable and Wireless Jamaica Ltd
+    company_address_1: 47, Half Way Tree Road
+    company_address_2: KINGSTON 5
+    issue_id_number: 89 1 582
+    contact: William W. Bertram
+    contact_address_1: 47 Half Way Tree Road
+    contact_address_2: KINGSTON 5
+    tel:
+    - "+1 876 926 9631"
+    fax:
+    - "+1 876 929 9530"
+  Japan:
+    country_or_area:
+      en: Japan
+    company_name: Wireless City Planning Inc.
+    company_address_1: 1-9-1, Higashi-Shimbashi, Minato-ku
+    company_address_2: 105-7303 TOKYO
+    issue_id_number: 89 81 71
+    contact: Technology Management Department
+    contact_address_1: 1-9-1, Higashi-Shimbashi, Minato-ku
+    contact_address_2: 105-7303 TOKYO
+    tel:
+    - "+81 3 6889 0820"
+    fax:
+    - "+81 3 6215 5180"
+    email:
+    - SBMGRP-RPPS@g.softbank.co.jp
+  Jordan:
+    country_or_area:
+      en: Jordan
+    company_name: Petra Jordanian Mobile Telecommunications Company - Orange
+    company_address_1: PO Box 1689, Jabal Amman
+    company_address_2: 11118-AMMAN
+    issue_id_number: 89 962 77
+    contact: Dr. Ibrahim Harb
+    contact_address_1: PO Box 1689, Jabal Amman
+    contact_address_2: 11118-AMMAN
+    tel:
+    - "+962 6 460 64 44"
+    fax:
+    - "+962 6 460 63 30"
+    email:
+    - ibrahim.nasser@orange.com
+  Kazakhstan:
+    country_or_area:
+      en: Kazakhstan
+    company_name: Kar-Tel Ltd
+    company_address_1: Azerbaeva Street, Building 58
+    company_address_2: ALMATY 180099
+    issue_id_number: 89 997 01
+    contact: Sabri Fedai
+    contact_address_1: Azerbaeva Street, Building 58
+    contact_address_2: ALMATY 180099
+    tel:
+    - "+7 7272 641711"
+    fax:
+    - "+7 7272 532911"
+  Kenya:
+    country_or_area:
+      en: Kenya
+    company_name: Jamii Telecommunications Limited
+    company_address_1: ADGroup Centre, Kunde Road, Off Korosho Road, Valley Arcade,
+    company_address_2: P.O. Box 47419, 00100 NAIROBI
+    issue_id_number: 89 254 10
+    contact: John Kamau
+    contact_address_1: Jamii Telecommunications Limited, P.O. Box 47419
+    contact_address_2: 00100 NAIROBI
+    tel:
+    - "+254 711054109"
+    email:
+    - kamau@jtl.co.ke
+  Korea (Rep:
+    " of)":
+      country_or_area:
+        en: Korea (Rep. of)
+      company_name: KT Corporation
+      company_address_1: 90 Buljeong-ro, Bundang-gu,
+      company_address_2: Seongnam-si, Gyeonggi-do, 13606
+      issue_id_number: 89 82 30
+      contact: JongJin Yun
+      contact_address_1: 178, Sejong-daero, Jomgno-gu,
+      contact_address_2: SEOUL, 03154
+      tel:
+      - "+82 10 6750 6705"
+      fax:
+      - "+82 303 0993 3844"
+      email:
+      - jj.yun@kt.com
+  Kuwait:
+    country_or_area:
+      en: Kuwait
+    company_name: Zain (ex-Mobile Telecommunications Company)
+    company_address_1: PO Box 22244
+    company_address_2: 13083 SAFAT
+    issue_id_number: 89 965 9
+    contact: Hamad Al-Sabah
+    contact_address_1: PO Box 22244
+    contact_address_2: SAFAT 13083
+    tel:
+    - "+965 2484 2000"
+    fax:
+    - "+965 2483 7500"
+  Kyrgyzstan:
+    country_or_area:
+      en: Kyrgyzstan
+    company_name: Bitel Ltd
+    company_address_1: 2 Lva Tolstoy Street
+    company_address_2: 720005 BISHKEK
+    issue_id_number: 89 996 01
+    contact: Director General
+    contact_address_1: 2 Lva Tolstoy Street
+    contact_address_2: BISHKEK 720005
+    tel:
+    - "+996 312 620025"
+    fax:
+    - "+996 312 620022"
+  Lao P:
+    D:
+      R:
+        country_or_area:
+          en: Lao P.D.R.
+        company_name: Millicom Lao Company Ltd
+        company_address_1: Lane-Xang Business Centre, P.O.Box 4693
+        company_address_2: VIENTIANE
+        issue_id_number: 89 856 08
+        contact: Ronny Melander
+        contact_address_1: Lane Xang Business Centre, P.O.Box 4693
+        contact_address_2: VIENTIANE
+        tel:
+        - "+856 21 213 570"
+        fax:
+        - "+856 21 213 572"
+        email:
+        - rome@bigpond.com.kh
+  Latvia:
+    country_or_area:
+      en: Latvia
+    company_name: Latvian Mobile Telephone Co. Ltd.
+    company_address_1: PO Box 116, 29 Unijas Street
+    company_address_2: RIGA, LV-1039
+    issue_id_number: 89 371 01
+    contact: Juris Binde
+    contact_address_1: PO Box 116
+    contact_address_2: LV-1084 RIGA
+    tel:
+    - "+371 2 569183"
+    fax:
+    - "+371 9 341000"
+  Lebanon:
+    country_or_area:
+      en: Lebanon
+    company_name: Ogero Telecom
+    company_address_1: Bir Hassan, P.O. Box 11-1226
+    company_address_2: BEYROUTH 1107 2070
+    issue_id_number: 89 961 05
+    contact: Ministry of Telecommunications
+    contact_address_1: Square Ryad El-Solh, Bank's street
+    contact_address_2: BEYROUTH
+    tel:
+    - "+961 3 876 436"
+    fax:
+    - "+961 1 979 375"
+    email:
+    - zbouharb@ogero.gov.lb
+  Lesotho:
+    country_or_area:
+      en: Lesotho
+    company_name: Tele-Com Mobile
+    company_address_1: PO Box 1037
+    company_address_2: MASERU 100
+    issue_id_number: 89 266 11
+    contact: Adri Van Der Veer
+    contact_address_1: PO Box 1037
+    contact_address_2: MASERU
+    tel:
+    - "+266 22 211 100"
+    fax:
+    - "+266 22 310 183"
+    email:
+    - vduesa@tcl.ca.ls
+  Liberia:
+    country_or_area:
+      en: Liberia
+    company_name: Orange Liberia
+    company_address_1: Haile Selassie Avenue, Capitol Bye Pass
+    company_address_2: MONROVIA
+    issue_id_number: 89 231 34
+    contact: William F. Saamoi, Jr.
+    contact_address_1: Haile Selassie Avenue, Capitol Bye Pass
+    contact_address_2: MONROVIA
+    tel:
+    - "+231 777 777 002/ 777 000 107"
+    email:
+    - william.saamoijr@orange.com
+  Libya:
+    country_or_area:
+      en: Libya
+    company_name: Libyana Mobile Phone
+    company_address_1: P.O. Box 91612
+    company_address_2: TRIPOLI
+    issue_id_number: 89 218 00
+    contact: Abdul Nasir Al-Tubuly
+    contact_address_1: P.O. Box 91612
+    contact_address_2: TRIPOLI
+    tel:
+    - "+218 21 3350 831"
+    fax:
+    - "+218 21 3350 947"
+    email:
+    - nasir@lttnet.net
+  Liechtenstein:
+    country_or_area:
+      en: Liechtenstein
+    company_name: SORACOM LI, LTD.
+    company_address_1: Vorarlberger Strasse 7
+    company_address_2: FL-9486 SCHAANWALD
+    issue_id_number: 89 423 10
+    contact: Manfred Schnetzer
+    contact_address_1: Vorarlberger Strasse 7
+    contact_address_2: FL-9486 SCHAANWALD
+    tel:
+    - "+423 231 1288"
+    email:
+    - schnetzer@wirtschaftskanzlei.com
+  Lithuania:
+    country_or_area:
+      en: Lithuania
+    company_name: UAB “Tele2”
+    company_address_1: Upés g. 23,
+    company_address_2: LT-08128 VILNIUS
+    issue_id_number: 89 370 03
+    contact: Evaldas Stankevicius
+    contact_address_1: Upés g. 23,
+    contact_address_2: LT-08128 VILNIUS
+    tel:
+    - "+370 5 236 6300"
+    fax:
+    - "+370 5 236 6302"
+    email:
+    - tele2@tele2.lt
+  Luxembourg:
+    country_or_area:
+      en: Luxembourg
+    company_name: Voxmobile
+    company_address_1: 8 Z.A.i. Bourmicht
+    company_address_2: L-8070 BERTRANGE
+    issue_id_number: 89 352 99
+    contact: Jean-Claude Bintz
+    contact_address_1: 8 Z.A.i. Bourmicht
+    contact_address_2: L-8070 BERTRANGE
+    tel:
+    - "+352 27 888 241"
+    fax:
+    - "+352 27 888 130"
+    email:
+    - jean-claude.bintz@voxmobile.lu
+  Macao, China:
+    country_or_area:
+      en: Macao, China
+    company_name: Hutchison – Telefone (Macau), Limitada
+    company_address_1: Avenida Xian Xing Hai, Centro Golden Dragon, 8 andar,
+    company_address_2: Macau
+    issue_id_number: 89 853 03
+    contact: Ho Wai Ming
+    contact_address_1: Avenida Xian Xing Hai, Centro Golden Dragon, 8 andar,
+    contact_address_2: Macau
+    tel:
+    - "+853 8893 3339"
+    fax:
+    - "+853 2878 2288"
+    email:
+    - wmho@htmac.com
+  Madagascar:
+    country_or_area:
+      en: Madagascar
+    company_name: Orange Madagascar
+    company_address_1: Rue Docteur Raseta Joseph, BP 7754
+    company_address_2: Andraharo, ANTANANARIVO 101
+    issue_id_number: 89 261 02
+    contact: Patrice Pezat
+    contact_address_1: rue Docteur Raseta Joseph, Andraharo
+    contact_address_2: 101 ANTANANARIVO
+    tel:
+    - "+261 20 226 0953"
+    fax:
+    - "+261 20 226 0955"
+  Malawi:
+    country_or_area:
+      en: Malawi
+    company_name: Celtel Malawi Ltd.
+    company_address_1: PO Box 1235
+    company_address_2: BLANTYRE
+    issue_id_number: 89 265 02
+    contact: Mats Bergström
+    contact_address_1: BLANTYRE
+    contact_address_2: "+265 1 644022"
+    tel:
+    - "+265 1 644775"
+    fax:
+    - 'E-mail:'
+    email:
+    - Asma Md. Isa
+  Malaysia:
+    country_or_area:
+      en: Malaysia
+    company_name: TT dotCom Sdn. Bhd.
+    company_address_1: Level 4, No. 14, Jalan Majistret U1/26, HICOM Glenmarie Industrial
+      Park,
+    company_address_2: 40150 SHAH ALAM SELANGOR
+    issue_id_number: 89 60 88
+    contact: Afzal Abdul Rahim
+    contact_address_1: Level 4, No. 14, Jalan Majistret U1/26, HICOM Glenmarie Industrial
+      Park,
+    contact_address_2: 40150 SHAH ALAM SELANGOR
+    tel:
+    - "+60 3 5032 6000"
+    fax:
+    - "+60 3 5032 6401"
+    email:
+    - afzal@time.com.my
+  Maldives:
+    country_or_area:
+      en: Maldives
+    company_name: Dhivehi Raajjey Ge Gulhun Private Ltd. (DHIRAAGU)
+    company_address_1: PO Box 2082, 19 Medhuziyaaraiy Magu
+    company_address_2: MALE' 20-03
+    issue_id_number: 89 960 01
+    contact: General Manager
+    contact_address_1: MALE'
+    tel:
+    - "+960 332 2802"
+    fax:
+    - "+960 332 2800"
+  Mali:
+    country_or_area:
+      en: Mali
+    company_name: Ikatel
+    company_address_1: Immeuble Sonavie, B.P. E3991
+    company_address_2: ACI 2000 - BAMAKO
+    issue_id_number: 89 223 02
+    contact: Mamadou Diaouné
+    contact_address_1: Immeuble Sonavie, B.P. E3991
+    contact_address_2: ACI 2000 - BAMAKO
+    tel:
+    - "+223 6629 9915"
+    fax:
+    - "+223 2023 0835"
+    email:
+    - mamadou.diaoune@ikatel.net
+  Malta:
+    country_or_area:
+      en: Malta
+    company_name: Melita Ltd.
+    company_address_1: Gasan Centre, Mriehel Bypass
+    company_address_2: MRIEHEL BKR 3000
+    issue_id_number: 89 356 77
+    contact: Alistair Castillo
+    contact_address_1: Gasan Centre, Mriehel Bypass
+    contact_address_2: MRIEHEL BKR 3000
+    tel:
+    - "+356 2727 3502"
+    email:
+    - alistair.castillo@melitaltd.com
+  Marshall Islands:
+    country_or_area:
+      en: Marshall Islands
+    company_name: Marshall Islands National Telecommunications Authority
+    company_address_1: P.O Box 1169
+    company_address_2: Majuro
+    issue_id_number: 89 692 01
+    contact: Ayapa Apuahe
+    contact_address_1: P.O Box 1169
+    contact_address_2: Majuro
+    tel:
+    - "+692 625 3852"
+    fax:
+    - "+692 625 3952"
+    email:
+    - apuahe@ntamar.net
+  Mauritania:
+    country_or_area:
+      en: Mauritania
+    company_name: La Mauritano - Tunisienne de Télécommunications (MATTEL)
+    company_address_1: BP 668
+    company_address_2: NOUAKCHOTT
+    issue_id_number: 89 222 03
+    contact: Omar Mseddi
+    contact_address_1: BP 668
+    contact_address_2: NOUAKCHOTT
+    tel:
+    - "+222 529 5354"
+    fax:
+    - "+222 529 8103"
+  Mauritius:
+    country_or_area:
+      en: Mauritius
+    company_name: Mahanagar Telephone (Mauritius) Ltd
+    company_address_1: MTLM Square, No 63 Cyber City
+    company_address_2: EBENE
+    issue_id_number: 89 230 03
+    contact: Sanjay Garg
+    contact_address_1: MTLM Square, No 63 Cyber City
+    contact_address_2: EBENE
+    tel:
+    - "+230 294 3333"
+    fax:
+    - "+230 427 8092"
+    email:
+    - ceo@mtmltd.net
+  Mexico:
+    country_or_area:
+      en: Mexico
+    company_name: PEGASO COMUNICACIONES Y SISTEMAS, S.A. DE C.V.
+    company_address_1: Paseo de los Tamarindos 400-4, piso 24
+    company_address_2: MEXICO 6177, D.E. 05120
+    issue_id_number: 89 52 03
+    contact: Vicente Seoane
+    contact_address_1: Col. Bosques de las Lomas
+    contact_address_2: MEXICO 6177, D.E. 05120
+    tel:
+    - "+52 81 8177 3027"
+    fax:
+    - "+52 55 5806 9080"
+    email:
+    - vseoane@telefonicamoviles.com
+  Micronesia:
+    country_or_area:
+      en: Micronesia
+    company_name: FSM Telecommunication Corporation
+    company_address_1: PO Box 1210
+    company_address_2: KOLONIA, POHNPEI, FM 96941
+    issue_id_number: 89 691 01
+    contact: Takuro Akinaga
+    contact_address_1: PO Box 1210
+    contact_address_2: PALIKIR, POHNPEI
+    tel:
+    - "+691 3202740"
+    fax:
+    - "+691 3202745"
+    email:
+    - takinaga@telecom.fm
+  Moldova (Republic of):
+    country_or_area:
+      en: Moldova (Republic of)
+    company_name: I.M. Eventis Mobile s.r.l.
+    company_address_1: Str. Sadoveanu M.2 Off 5 mum.
+    company_address_2: MD-2044 CHISINAU
+    issue_id_number: 89 373 04
+    contact: Oleg Primak
+    contact_address_1: b.125 off.5, 31 August Str.
+    contact_address_2: CHISINAU MD-2012
+    tel:
+    - "+373 2223 4845"
+    fax:
+    - "+373 2223 4851"
+    email:
+    - o.primak@eventismobile.md
+  Mongolia:
+    country_or_area:
+      en: Mongolia
+    company_name: G-Mobile Corporation
+    company_address_1: Baga-Toiruu 3/9, P.O Box 2783
+    company_address_2: ULAANBAATAR 15160
+    issue_id_number: 89 976 06
+    contact: Khaliun Jamsran
+    contact_address_1: Baga-Toiruu 3/9, P.O Box 2783
+    contact_address_2: ULAANBAATAR 15160
+    tel:
+    - "+976 93 119803"
+    fax:
+    - "+976 11 311195"
+    email:
+    - khaliunaa@g-mobile.mn
+  Montenegro:
+    country_or_area:
+      en: Montenegro
+    company_name: MTEL d.o.o. Podgorica
+    company_address_1: Kralja Nikole 27 A
+    company_address_2: 81000 PODGORICA
+    issue_id_number: 89 382 03
+    contact: Vladimir Lucic
+    contact_address_1: Kralja Nikole 27 A
+    contact_address_2: 81000 PODGORICA
+    tel:
+    - "+382 78 100 508"
+    fax:
+    - "+382 20 633 846"
+    email:
+    - vladimir.lucic@mtel.me
+  Montserrat:
+    country_or_area:
+      en: Montserrat
+    company_name: Cable and Wireless (W.I.) Ltd.
+    company_address_1: Houston Street, PO Box 219
+    company_address_2: PLYMOUTH
+    issue_id_number: 89 1 019
+    contact: Commercial Manager
+    contact_address_1: PO Box 219, Church Road
+    contact_address_2: PLYMOUTH
+    tel:
+    - "+1 664 491 2112"
+    fax:
+    - "+1 664 491 3599"
+  Mozambique:
+    country_or_area:
+      en: Mozambique
+    company_name: VM Sarl
+    company_address_1: 25 Av. De Settembro, No. 1230
+    company_address_2: 420 MAPUTO
+    issue_id_number: 89 258 04
+    contact: Jean Pierre Snijders
+    contact_address_1: Private Bag X9904
+    contact_address_2: SANDTON 2193
+    contact_address_3: "(South Africa)"
+    tel:
+    - "+27 82 994 2160"
+    fax:
+    - "+27 11 848 8008"
+    email:
+    - snijdejp@vodacom.co.za
+  Namibia:
+    country_or_area:
+      en: Namibia
+    company_name: Mobile Telephone Networks Business Solutions (Namibia) (Pty) Ltd
+    company_address_1: Corner of Haddy and Church Street, Windhoek West,
+    company_address_2: PO Box 86472 Eros, WINDHOEK
+    issue_id_number: 89 264 33
+    contact: Melvin Angula
+    contact_address_1: Corner of Haddy and Church Street, Windhoek West,
+    contact_address_2: PO Box 86472 Eros, WINDHOEK
+    tel:
+    - "+264 84 000 8000"
+    email:
+    - melvin.angula@mtn.com
+  Nepal:
+    country_or_area:
+      en: Nepal
+    company_name: Spice Nepal Private Ltd.
+    company_address_1: Ekantakuna Jawalakhel
+    company_address_2: LALITPUR-4
+    issue_id_number: 89 977 02
+    contact: Damir Karassayev
+    contact_address_1: Ekantakuna Jawalakhel
+    contact_address_2: LALITPUR-4
+    tel:
+    - "+977 1 555 5431"
+    fax:
+    - "+977 1 555 4538"
+    email:
+    - snpl@mall.com.np
+  Netherlands:
+    country_or_area:
+      en: Netherlands
+    company_name: AGMS Nederland B.V.
+    company_address_1: Wilhelmina van Pruisenweg, 104
+    company_address_2: 2595 AN – GRAVENHAGE
+    issue_id_number: 89 31 89
+    contact: Jimmy Kassis
+    contact_address_1: AGMS Nederland B.V., 1025 Lenox Park Blvd. NE, Suite C864,
+    contact_address_2: ATLANTA, GA, 30319
+    contact_address_3: "(United States)"
+    tel:
+    - "+1 404 499 5916"
+    email:
+    - Jimmy.Kassis@att.com
+  New Caledonia:
+    country_or_area:
+      en: New Caledonia
+    company_name: Office des Postes et des Télécommunications (OPT)
+    company_address_1: 2 Rue Paul Monchovet, Port Plaisance
+    company_address_2: 98841 NOUMEA CEDEX
+    issue_id_number: 89 687 01
+    contact: Bernard Idoux
+    contact_address_1: 2, rue Monchovet
+    contact_address_2: 98841 NOUMEA Cedex
+    tel:
+    - "+687 268247"
+    fax:
+    - "+687 289090"
+  New Zealand:
+    country_or_area:
+      en: New Zealand
+    company_name: NZ Communications Ltd
+    company_address_1: 131 Khyber Pass Road
+    company_address_2: GRAFTON, AUCKLAND 1150
+    issue_id_number: 89 64 24
+    contact: Nick Read
+    contact_address_1: P.O. Box 8355, Symonds Street
+    contact_address_2: AUCKLAND
+    tel:
+    - "+64 9 919 7011"
+    fax:
+    - "+64 9 919 7001"
+    email:
+    - nickread@nzcomms.co.nz
+  Niger:
+    country_or_area:
+      en: Niger
+    company_name: Celtel Niger S.A.
+    company_address_1: Rue du Grand Hôtel
+    company_address_2: NIAMEY
+    issue_id_number: 89 227 02
+    contact: Emmanuel M. Kolade
+    contact_address_1: Rue du Grand Hôtel
+    contact_address_2: NIAMEY
+    tel:
+    - "+227 2073 3838"
+    fax:
+    - "+227 2073 2304"
+    email:
+    - kolade.m@msi-cellular.com
+  Northern Marianas:
+    country_or_area:
+      en: Northern Marianas
+    company_name: PTI
+    company_address_1: PO Box 500306 CK
+    company_address_2: SAIPAN, MP 96950
+    issue_id_number: 89 1 025
+    contact: Hans Mickelson
+    contact_address_1: PO Box 500306 CK
+    contact_address_2: SAIPAN, MP 96950
+    tel:
+    - "+1 670 682 2830"
+    fax:
+    - "+1 670 235 2877"
+    email:
+    - hans.mickelson@ptihq.com
+  Norway:
+    country_or_area:
+      en: Norway
+    company_name: AeroMobile AS
+    company_address_1: 93 B Bestumeien
+    company_address_2: '0283 OSLA'
+    issue_id_number: 89 882 99
+    contact: Kevin Rogers
+    contact_address_1: 3 Pegasus Place, Gatwick Road,
+    contact_address_2: Crawley, West Sussex, RH10 9AY
+    contact_address_3: "(United Kingdom)"
+    tel:
+    - "+44 (0) 1293 530 982"
+    fax:
+    - "+44 (0) 1293 562 472"
+    email:
+    - krogers@aeromobile.net
+  Oman:
+    country_or_area:
+      en: Oman
+    company_name: Oman Mobile Telecommunication Company LLC
+    company_address_1: PO Box 694
+    company_address_2: PC 130 AL-AZAIBA
+    issue_id_number: 89 968 00
+    contact: Managing Director
+    contact_address_1: PO Box 694
+    contact_address_2: PC 130 AL-AZAIBA
+    tel:
+    - "+968 24 632852"
+    fax:
+    - "+968 24 484055"
+  Pakistan:
+    country_or_area:
+      en: Pakistan
+    company_name: Jazz
+    company_address_1: Jazz Digital HQ, Kohistan Road,
+    company_address_2: F-8 Markaz, ISLAMABAD
+    issue_id_number: 89 92 07
+    contact: Syed Naser Ali Hamdani
+    contact_address_1: Jazz Digital HQ, Kohistan Road,
+    contact_address_2: F-8 Markaz, ISLAMABAD
+    tel:
+    - "+92 301 2092432"
+    email:
+    - naser.hamdani@jazz.com.pk
+  Palau:
+    country_or_area:
+      en: Palau
+    company_name: Palau Mobile Corporation
+    company_address_1: P.O. Box 8084
+    company_address_2: KOROR STATE, Palau PW96940
+    issue_id_number: 89 680 80
+    contact: Mark Yu Cheng Lin
+    contact_address_1: P.O. Box 8084
+    contact_address_2: KOROR STATE, Palau PW96940
+    tel:
+    - "+680 488 1903"
+    fax:
+    - "+680 488 0607"
+    email:
+    - marklin@viamedia.com.tw
+  Panama:
+    country_or_area:
+      en: Panama
+    company_name: Cable & Wireless Panama S.A.
+    company_address_1: Via España, Plaza Internacional, Torre C
+    company_address_2: PANAMA 9A
+    issue_id_number: 89 507 01
+    contact: Marta de Bermúdez
+    contact_address_1: Apartado 659
+    contact_address_2: 9A PANAMA
+    tel:
+    - "+507 269 3305"
+    fax:
+    - "+507 265 1680"
+  Papua New Guinea:
+    country_or_area:
+      en: Papua New Guinea
+    company_name: Digicel (PNG) Ltd
+    company_address_1: PO Box 1618
+    company_address_2: PORT MORESBY
+    issue_id_number: 89 675 03
+    contact: Phil Dunglinson
+    contact_address_1: PO Box 1618
+    contact_address_2: PORT MORESBY
+    tel:
+    - "+675 323 9300"
+    fax:
+    - "+675 323 9301"
+    email:
+    - phil.dunglinson@digicelgroup.com
+  Paraguay:
+    country_or_area:
+      en: Paraguay
+    company_name: Núcleo S.A.
+    company_address_1: Máximo Lira No 522, Casi General Genes Villa
+    company_address_2: Morra, ASUNCION
+    issue_id_number: 89 595 05
+    contact: Sr. Mario Ardissone
+    contact_address_1: Máximo Lira No 522, Casi General Genes Villa
+    contact_address_2: Morra, ASUNCION
+    tel:
+    - "+595 212 199 066"
+    fax:
+    - "+595 212 199 018"
+    email:
+    - mardisso@personal.com.py
+  Peru:
+    country_or_area:
+      en: Peru
+    company_name: Telefónica del Peru S.A.
+    company_address_1: Av. Benavides 661, Piso 12
+    company_address_2: LIMA, 18
+    issue_id_number: 89 51 51
+    contact: Juan Piédrola
+    contact_address_1: Av. Arequipa 1115
+    contact_address_2: Sta. Beatriz LIMA 14
+    tel:
+    - "+51 1 224 9555"
+    fax:
+    - "+51 1 224 4610"
+  Philippines:
+    country_or_area:
+      en: Philippines
+    company_name: Philippine Long Distance Telephone Company (PLDT)
+    company_address_1: Ramon Cojuangco Bldg.
+    company_address_2: MAKATI METRO MANILA
+    issue_id_number: 89 63 63
+    contact: George N. Lim
+    contact_address_1: Ayala Avenue
+    contact_address_2: MAKATI METRO MANILA
+    tel:
+    - "+63 2 817 5131"
+    fax:
+    - "+63 2 810 4365"
+  Poland:
+    country_or_area:
+      en: Poland
+    company_name: Teleena Poland Ltd
+    company_address_1: Al. Jana Pawla II 26/1019
+    company_address_2: PL- 00 133 WARSZAWA
+    issue_id_number: 89 48 19
+    contact: Timo Smit
+    contact_address_1: Teleena Holding BV, Krijtwal 29
+    contact_address_2: 3432ZT NIEUWEGEIN
+    contact_address_3: "(Netherlands)"
+    tel:
+    - "+31 63 818 1818"
+    email:
+    - timo@teleena.com
+  Portugal:
+    country_or_area:
+      en: Portugal
+    company_name: MEO - Serviços de Comunicações e Multimédia, S.A.
+    company_address_1: Avenida Fontes Pereira de Melo, nº 40
+    company_address_2: 1069-300 LISBOA
+    issue_id_number: 89 351 80
+    contact: Pedro Gonçalves
+    contact_address_1: Avenida Fontes Pereira de Melo, nº 40
+    contact_address_2: 1069-300 LISBOA
+    tel:
+    - "+351 21 500 78 07"
+    fax:
+    - "+351 21 500 78 47"
+    email:
+    - pedro.v.goncalves@telecom.pt
+  Puerto Rico:
+    country_or_area:
+      en: Puerto Rico
+    company_name: Telefónica Larga Distancia, Inc. (TLDI)
+    company_address_1: PO Box 70325
+    company_address_2: SAN JUAN, PR 00936-8325
+    issue_id_number: 89 1 853
+    contact: María D. Pizzarro-Figueroa, Esq.
+    contact_address_1: GPO Box 70325
+    contact_address_2: SAN JUAN, PR 00936-8325
+    tel:
+    - "+1 787 273 5630"
+    fax:
+    - "+1 787 749 5880"
+  Qatar:
+    country_or_area:
+      en: Qatar
+    company_name: Qatar Telecom Q.S.C.
+    company_address_1: PO Box 217, New Headquarters Tower West Bay
+    company_address_2: DOHA
+    issue_id_number: 89 974 00
+    contact: Abdulwahed Fakhroo
+    contact_address_1: PO Box 217
+    contact_address_2: DOHA
+    tel:
+    - "+974 4440 0789"
+    fax:
+    - "+974 4483 0630"
+    email:
+    - wfakhroo@qtel.com.qa
+  Romania:
+    country_or_area:
+      en: Romania
+    company_name: 2K TELECOM S.R.L.
+    company_address_1: Sos. Pipera-Tunari nr. 1/VI, Twin Towers, Corp 1, Et. 8, Voluntari,
+    company_address_2: Jud. Ilfov, 077190
+    issue_id_number: 89 40 15
+    contact: Cristescu Andreea Catalina
+    contact_address_1: Sos. Pipera-Tunari nr. 1/VI, Twin Towers, Corp 1, Et. 8, Voluntari,
+    contact_address_2: Jud. Ilfov, 077190
+    tel:
+    - "+40 21 344 84 00"
+    fax:
+    - "+40 21 344 84 02"
+    email:
+    - andreea.cristescu@2ktelecom.ro
+  Rwanda:
+    country_or_area:
+      en: Rwanda
+    company_name: Olleh Rwanda Networks (ORN)
+    company_address_1: Kigali Olleh Campus (KOC),KG 9 Ave 17, Nyarutarama,
+    company_address_2: P.O. BOX 5440 KIGALI
+    issue_id_number: 89 250 17
+    contact: Jun Ho Jeong
+    contact_address_1: Kigali Olleh Campus (KOC),KG 9 Ave 17, Nyarutarama,
+    contact_address_2: P.O. BOX 5440 KIGALI
+    tel:
+    - "+250 783 026 091"
+    email:
+    - junho.jeong@orn.rw
+  Saint Kitts and Nevis:
+    country_or_area:
+      en: Saint Kitts and Nevis
+    company_name: Cable & Wireless St. Kitts and Nevis Ltd.
+    company_address_1: PO Box 86, Cayon Street
+    company_address_2: Baseterre, ST. KITTS
+    issue_id_number: 89 1 020
+    contact: Reg Ross
+    contact_address_1: PO Box 86
+    contact_address_2: BASSETERRE
+    tel:
+    - "+1 869 465 1000"
+    fax:
+    - "+1 869 465 1112"
+  Saint Lucia:
+    country_or_area:
+      en: Saint Lucia
+    company_name: Cable and Wireless (St. Lucia) Ltd.
+    company_address_1: PO Box 111, Bridge Street
+    company_address_2: CASTRIES
+    issue_id_number: 89 1 021
+    contact: Keats Compton
+    contact_address_1: PO Box 111, Bridge Street
+    contact_address_2: CASTRIES
+    tel:
+    - "+1 758 452 3301"
+    fax:
+    - "+1 758 452 5313"
+  Saint Pierre and Miquelon:
+    country_or_area:
+      en: Saint Pierre and Miquelon
+    company_name: SPM Telecom
+    company_address_1: BP 4224, Place du Général de Gaulle
+    company_address_2: 97500 Saint-Pierre-et-Miquelon
+    issue_id_number: 89 508 01
+    contact: Véronique James
+    tel:
+    - "+590 381781"
+    fax:
+    - "+590 383365"
+  Saint Vincent and the Grenadines:
+    country_or_area:
+      en: Saint Vincent and the Grenadines
+    company_name: Cable and Wireless (W.I.) Ltd.
+    company_address_1: PO Box 103, Halifax Street
+    company_address_2: KINGSTOWN
+    issue_id_number: 89 1 022
+    contact: Richard Neverson
+    contact_address_1: PO Box 103
+    contact_address_2: HALIFAX St.
+    tel:
+    - "+1 784 457 1901"
+    fax:
+    - "+1 784 457 2255"
+  Samoa:
+    country_or_area:
+      en: Samoa
+    company_name: SamoaTel
+    company_address_1: Private Bag
+    company_address_2: APIA
+    issue_id_number: 89 685 02
+    contact: Mark Yeoman
+    contact_address_1: Private Bag
+    contact_address_2: APIA
+    tel:
+    - "+685 67700"
+    fax:
+    - "+685 24000"
+    email:
+    - mark.yeoman@samoatel.ws
+  Sao Tome and Principe:
+    country_or_area:
+      en: Sao Tome and Principe
+    company_name: Companhia Santomese de Telecomunicações, SARL (CST)
+    company_address_1: 12 Av. de Julho
+    company_address_2: SAO TOME
+    issue_id_number: 89 239 12
+    contact: "-"
+    tel:
+    - "+239 222 2226"
+    fax:
+    - "+239 222 1324"
+  Serbia:
+    country_or_area:
+      en: Serbia
+    company_name: Vip mobile d.o.o.
+    company_address_1: Milutina Milankovica 1z
+    company_address_2: 11070 BELGRADE
+    issue_id_number: 89 381 05
+    contact: Marko Jovic
+    contact_address_1: Milutina Milankovica 1z
+    contact_address_2: 11070 BELGRADE
+    tel:
+    - "+381 60 000 4011"
+    fax:
+    - "+381 11 225 3002"
+    email:
+    - m.jovic@vipmobile.rs
+  Seychelles:
+    country_or_area:
+      en: Seychelles
+    company_name: Cable and wireless (Seychelles) Ltd
+    company_address_1: P.O. Box 4
+    company_address_2: VICTORIA, MAHÉ
+    issue_id_number: 89 248 01
+    contact: Martin Laurence
+    contact_address_1: P.O. Box 4
+    contact_address_2: VICTORIA, MAHÉ
+    tel:
+    - "+248 4284104"
+    fax:
+    - "+248 4322777"
+    email:
+    - Martin.Laurence@cwseychelles.com
+  Sierra Leone:
+    country_or_area:
+      en: Sierra Leone
+    company_name: Datatel Network GSM (SL) Ltd
+    company_address_1: 13 Lamina Sankoh Street
+    company_address_2: FREETOWN
+    issue_id_number: 89 232 40
+    contact: Christian Ogoo
+    contact_address_1: 13 Lamina Sankoh Street
+    contact_address_2: FREETOWN
+    tel:
+    - "+232 40 22 22 22"
+    email:
+    - christian@datatelsl.net
+  Singapore:
+    country_or_area:
+      en: Singapore
+    company_name: TPG Telecom Pte Ltd
+    company_address_1: '150 Beach Road, #07-05/08, Gateway West'
+    company_address_2: SINGAPORE 189720
+    issue_id_number: 89 65 10
+    contact: Wayne Springer
+    contact_address_1: '150 Beach Road, #07-05/08, Gateway West'
+    contact_address_2: SINGAPORE 189720
+    tel:
+    - "+65 6817 9070"
+    email:
+    - wayne.springer@tpgtelecom.com.au
+  Slovakia:
+    country_or_area:
+      en: Slovakia
+    company_name: Slovak Telekom, a.s.
+    company_address_1: 28 Bajkalská
+    company_address_2: 817 62 BRATISLAVA
+    issue_id_number: 89 421 03
+    contact: Sebastian Schumann
+    contact_address_1: 28 Bajkalská
+    contact_address_2: 817 62 BRATISLAVA
+    tel:
+    - "+421 258823332"
+    fax:
+    - "+421 253418164"
+    email:
+    - sebastian.schumann@t-com.sk
+  Slovenia:
+    country_or_area:
+      en: Slovenia
+    company_name: Telemach d.o.o.
+    company_address_1: Cesta Ljubljanske brigade 21
+    company_address_2: SI-1000 LJUBLJANA
+    issue_id_number: 89 386 70
+    contact: Adrian Josip Jezina
+    contact_address_1: Cesta Ljubljanske brigade 21
+    contact_address_2: SI-1000 LJUBLJANA
+    tel:
+    - "+386 59188670"
+    email:
+    - adrian.jezina@telemach.si
+  Somalia:
+    country_or_area:
+      en: Somalia
+    company_name: NABAADTELCOM
+    company_address_1: Km4
+    company_address_2: MOGADISHU
+    issue_id_number: 89 252 85
+    contact: Duwane Alaafi
+    contact_address_1: Km4
+    contact_address_2: MOGADISHU
+    tel:
+    - "+252 85 100 200"
+    fax:
+    - "+252 85 100 200"
+    email:
+    - nabaadtelecom@gmail.com
+  South Africa:
+    country_or_area:
+      en: South Africa
+    company_name: Mobile Telephone Networks (MTN) Pty Ltd
+    company_address_1: Pin Mill Farm, 164 Kattain Street, Private Bag X9955
+    company_address_2: SANDTON 2146
+    issue_id_number: 89 27 01
+    contact: Karel Pienaar
+    contact_address_1: PO Box 782508
+    contact_address_2: SANDTON 2146
+    tel:
+    - "+27 11 445 6000"
+    fax:
+    - "+27 11 444 4930"
+  South Sudan:
+    country_or_area:
+      en: South Sudan
+    company_name: Network of the World Ltd (NOW)
+    company_address_1: No. 30 May Avenue
+    company_address_2: JUBA
+    issue_id_number: 89 249 05
+    contact: Amine Mardam Bey
+    contact_address_1: 157 Marfaa, 3rd Floor
+    contact_address_2: SAAD ZAGHLOUL Str.
+    email:
+    - amardambey@mdc.com
+  Spain:
+    country_or_area:
+      en: Spain
+    company_name: Vizzavi España, S.L.
+    company_address_1: Avenida de Europa 1
+    company_address_2: 28108 ALCOBENDAS
+    issue_id_number: 89 34 57
+    contact: Sra. Luisa Belda Cuesta
+    contact_address_1: Avenida de Europa 1
+    contact_address_2: 28108 ALCOBENDAS
+    tel:
+    - "+34 918 253 333"
+    email:
+    - maria-luisa.belda@vodafone.com
+  Sri Lanka:
+    country_or_area:
+      en: Sri Lanka
+    company_name: Bharti Airtel Lanka
+    company_address_1: 86, Maligawatta Road
+    company_address_2: COLOMBO 10
+    issue_id_number: 89 94 05
+    contact: Rakesh Kumar
+    contact_address_1: 86, Maligawatta Road
+    contact_address_2: COLOMBO 10
+    tel:
+    - "+94 71 884 1215"
+    fax:
+    - "+94 11 533 5555"
+    email:
+    - rk.goel@airtel.in
+  Sudan:
+    country_or_area:
+      en: Sudan
+    company_name: MTN Sudan
+    company_address_1: MTN Complex, Ext. of Omac St., Blk 64/2
+    company_address_2: Al-Juraif west, KHARTOUM
+    issue_id_number: 89 249 99
+    contact: Abdullah Zawiah Prior
+    contact_address_1: MTN Complex, Ext. of Omac St., Blk 64/2
+    contact_address_2: Al-Juraif west, KHARTOUM
+    tel:
+    - "+249 92 290 1020"
+    fax:
+    - "+249 15 530 0944"
+    email:
+    - azawiah@mtn.sd
+  Sweden:
+    country_or_area:
+      en: Sweden
+    company_name: Com4 Sweden AB
+    company_address_1: c/o Adv. firman Lindberg & Saxon AB, Cardellgatan 1,
+    company_address_2: SE-114 36 STOCKHOLM
+    issue_id_number: 89 883 04
+    contact: Henning Solberg
+    contact_address_1: c/o Adv. firman Lindberg & Saxon AB, Cardellgatan 1,
+    contact_address_2: 114 36 STOCKHOLM
+    tel:
+    - "+47 94049404"
+    fax:
+    - "+47 94049405"
+    email:
+    - hso@com4.se
+  Switzerland:
+    country_or_area:
+      en: Switzerland
+    company_name: Telecom26 AG
+    company_address_1: Bahnhofstrasse 10
+    company_address_2: 6300 ZUG
+    issue_id_number: 89 883 06
+    contact: Mike Ashdown
+    contact_address_1: Bahnhofstrasse 10
+    contact_address_2: 6300 ZUG
+    tel:
+    - "+41 43 500 42 44"
+    email:
+    - mashdown@telecom26.ch
+  Tanzania:
+    country_or_area:
+      en: Tanzania
+    company_name: Celtel Tanzania Ltd.
+    company_address_1: PO Box 9623, Mwinyi Road, Kinondoni District
+    company_address_2: DAR-ES-SALAAM
+    issue_id_number: 89 255 05
+    contact: Ian Cowley
+    contact_address_1: PO Box 7647
+    contact_address_2: DAR-ES-SALAAM
+    tel:
+    - "+255 22 212 6666"
+    fax:
+    - "+255 22 212 6664"
+    email:
+    - cowleyian@yahoo.com
+  Thailand:
+    country_or_area:
+      en: Thailand
+    company_name: Wireless Communications Services
+    company_address_1: SM Tower 28 Floor, 979 Paholyothin Road
+    company_address_2: BANGKOK 10400
+    issue_id_number: 89 66 10
+    contact: Robert Scoble
+    contact_address_1: SM Tower 28 Floor, 979 Paholyothin Road
+    contact_address_2: BANGKOK 10400
+    tel:
+    - "+66 2 298 0070"
+    fax:
+    - "+66 2 298 0805"
+  The Former Yugoslav Republic of Macedonia:
+    country_or_area:
+      en: The Former Yugoslav Republic of Macedonia
+    company_name: Makedonski telekomunikacii A.D.
+    company_address_1: ul. Orce Nikolov b.b.
+    company_address_2: 1000 SKOPJE
+    issue_id_number: 89 389 01
+    contact: Aleksandar Cestakovski
+    contact_address_1: Orce Nikolov bb
+    contact_address_2: 1000 SKOPJE
+    tel:
+    - "+389 2 314 1000"
+    fax:
+    - "+389 2 322 4277"
+  Tonga:
+    country_or_area:
+      en: Tonga
+    company_name: Tonga Communications Corporation Ltd. (TCC)
+    company_address_1: Private Bag 4
+    company_address_2: NUKU'ALOFA
+    issue_id_number: 89 676 01
+    contact: Michael W. Skinner
+    contact_address_1: Fongoloa
+    contact_address_2: NUKU'ALOFA
+    tel:
+    - "+676 26700"
+    fax:
+    - "+676 26701"
+    email:
+    - michael.skinner@tcc.to
+  Trinidad and Tobago:
+    country_or_area:
+      en: Trinidad and Tobago
+    company_name: Telecommunications Services of Trinidad and Tobago Ltd.(TSTT)
+    company_address_1: PO Box 917, 54 Federick St.
+    company_address_2: PORT OF SPAIN
+    issue_id_number: 89 1 023
+    contact: Martin Young
+    contact_address_1: TSTT, 1 Edward St.
+    contact_address_2: PORT OF SPAIN
+    tel:
+    - "+1 868 623 2837"
+    fax:
+    - "+1 868 623 2759"
+    email:
+    - myoung@tstt.co.tt
+  Turkey:
+    country_or_area:
+      en: Turkey
+    company_name: Telsim
+    company_address_1: Turgut Ozal Bulvan
+    company_address_2: Aydilikevler, ANKARA
+    issue_id_number: 89 90 02
+    contact: Halil Yalvin
+    contact_address_1: Turgut Ozal Bulvan
+    contact_address_2: Aydilikevler, ANKARA
+    tel:
+    - "+90 312 313 2902"
+    fax:
+    - "+90 312 313 2940"
+  Turks and Caicos Islands:
+    country_or_area:
+      en: Turks and Caicos Islands
+    company_name: Cable and Wireless (W.I.) Ltd.
+    company_address_1: PO Box 78, Providenciales
+    company_address_2: GRAND TURK
+    issue_id_number: 89 1 024
+    contact: I.M. Robinson
+    contact_address_1: PO Box 78
+    contact_address_2: PROVIDENCIALES
+    tel:
+    - "+1 649 946 4499"
+    fax:
+    - "+1 649 946 4777"
+  Ukraine:
+    country_or_area:
+      en: Ukraine
+    company_name: '"Kyivstar" PJSC'
+    company_address_1: 53 Degtyarivska St.
+    company_address_2: KYIV, 03113
+    issue_id_number: 89 380 03
+    contact: Alexey Logvinenko
+    contact_address_1: 53 Degtyarivska St.
+    contact_address_2: KYIV, 03113
+    tel:
+    - "+380 67 220 75 59"
+    email:
+    - Alexey.Logvinenko@kyivstar.net
+  United Arab Emirates:
+    country_or_area:
+      en: United Arab Emirates
+    company_name: The Emirates Telecommunications Corporations Ltd.
+    company_address_1: PO Box 3838
+    company_address_2: ABU DHABI
+    issue_id_number: 89 971 1
+    contact: Ali Amiri
+    contact_address_1: PO Box 3838
+    contact_address_2: ABU DHABI
+    tel:
+    - "+971 2 632 2380"
+    fax:
+    - "+971 2 677 2930"
+    email:
+    - mopsho@emirates.net.ae
+  United Kingdom:
+    country_or_area:
+      en: United Kingdom
+    company_name: Vodafone Group Services Ltd
+    company_address_1: Vodafone HQ, The Connection
+    company_address_2: NEWBURY, BERKSHIRE RG14 2FN
+    issue_id_number: 89 882 39
+    contact: Richard Gumbrell
+    contact_address_1: Vodafone HQ, The Connection
+    contact_address_2: NEWBURY, BERKSHIRE RG14 2FN
+    tel:
+    - "+44 7748 776 552"
+    email:
+    - richard.gumbrell@vodafone.com
+  United States:
+    country_or_area:
+      en: United States
+    company_name: Iridium LLC
+    company_address_1: 1575 Eye Street
+    company_address_2: WASHINGTON DC 20006
+    issue_id_number: 89 881 6
+    contact: Kathryn A. Martin
+    contact_address_1: Suite 500, 1575 Eye Street
+    contact_address_2: NW WASHINGTON DC 20006
+    tel:
+    - "+1 202 408 3800"
+    fax:
+    - "+1 202 408 3801"
+  United States Virgin Islands:
+    country_or_area:
+      en: United States Virgin Islands
+    company_name: AT&T of the Virgin Islands
+    company_address_1: PO Box 3768, Vet. Drive Stat.
+    company_address_2: CHARLOTTE AMALIE, VI 00803
+    issue_id_number: 89 1 284
+    contact: José A. Nieves
+    contact_address_1: PO Box 3746
+    contact_address_2: SAN JUAN, PR 00904
+    tel:
+    - "+1 340 729 3774"
+    fax:
+    - "+1 340 722 9007"
+  Uruguay:
+    country_or_area:
+      en: Uruguay
+    company_name: Ancel
+    company_address_1: C.P. 11800, Guatemala 1075
+    company_address_2: MONTEVIDEO
+    issue_id_number: 89 598 01
+    contact: Ing. Marcolo Erlich
+    contact_address_1: Guatemala 1075, Nivel 20
+    contact_address_2: MONTEVIDEO
+    tel:
+    - "+598 2 986 300"
+    fax:
+    - "+598 2 928 6366"
+    email:
+    - erlich@ancel.com.uy
+  Uzbekistan:
+    country_or_area:
+      en: Uzbekistan
+    company_name: Daewoo Central Paging Company
+    company_address_1: Furkat Street, Bld No 1, 6th floor
+    company_address_2: TASHKENT 700027
+    issue_id_number: 89 998 04
+    contact: Dong Joo Kim
+    contact_address_1: Furkat Street, Bld No.1, 6th Floor
+    contact_address_2: TASHKENT 700027
+    tel:
+    - "+998 71 240 6754"
+    fax:
+    - "+998 71 240 6678"
+  Vanuatu:
+    country_or_area:
+      en: Vanuatu
+    company_name: Digicel Vanuatu
+    company_address_1: Ellouk Hill
+    company_address_2: PORT VILA PMB 2903
+    issue_id_number: 89 678 05
+    contact: John Delves
+    contact_address_1: PMB 2903, Ellouk Hill
+    contact_address_2: PORT VILA
+    tel:
+    - "+678 555 5000"
+    fax:
+    - "+678 27865"
+    email:
+    - john.delves@digicelgroup.com
+  Venezuela (Bolivarian Republic of):
+    country_or_area:
+      en: Venezuela (Bolivarian Republic of)
+    company_name: Telecommunications Movilnet C.A.
+    company_address_1: Av. Libertador, Edificio CANTV NEA. Piso 7, CANTV-Movilnet
+    company_address_2: CARACAS 1050
+    issue_id_number: 89 58 06
+    contact: Aivil Silva
+    contact_address_1: Av. Libertador, Edificio CANTV NEA. Piso 7, CANTV-Movilnet
+    contact_address_2: CARACAS 1050
+    tel:
+    - "+58 212 5004255"
+    email:
+    - asilva08@cantv.com.ve
+  Viet Nam:
+    country_or_area:
+      en: Viet Nam
+    company_name: Vietnam Telecom Service Company (GPC)
+    company_address_1: Road 1A, Nam Thanh Cong
+    company_address_2: HANOI
+    issue_id_number: 89 84 02
+    contact: Luu Van Luan
+    contact_address_1: Road 1A, Nam Thanh Cong
+    contact_address_2: HANOI
+    tel:
+    - "+84 4 3835 7501"
+    fax:
+    - "+84 4 3835 7502"
+  Zambia:
+    country_or_area:
+      en: Zambia
+    company_name: Zambia Telecommunications Company Ltd (ZAMTEL)
+    company_address_1: PO Box 71630
+    company_address_2: NDOLA
+    issue_id_number: 89 260 03
+    contact: Agnes Chitula
+    contact_address_1: PO Box 71630
+    contact_address_2: NDOLA
+    tel:
+    - "+260 212 617 499"
+    fax:
+    - "+260 212 613 055"

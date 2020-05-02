@@ -84,9 +84,9 @@ module CsvToStructuredHash
 
     case type
     when "boolean"
-      if value == "true"
+      if value.downcase == "true"
         true
-      elsif value == "false"
+      elsif value.downcase == "false"
         false
       end
     when "integer"

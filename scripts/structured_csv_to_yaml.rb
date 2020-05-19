@@ -211,7 +211,8 @@ module CsvToStructuredHash
 
     {
       "metadata" => parse_metadata(metadata_section[:rows]),
-      "data" => parse_data(data_section[:rows], data_section[:meta])
+      "data" => parse_data(data_section[:rows], data_section[:meta]),
+      "meta" => data_section[:meta]
     }
   end
 
@@ -241,14 +242,43 @@ module CsvToStructuredHash
   end
 end
 
-csvfile = ARGV.pop
-raise "first argument must be a .csv file!" unless csvfile =~ /\.csv$/
+csv_files = Array.new
+output_data = Hash.new
+output_metadata = Hash.new
 
-outfile = csvfile.gsub(/csv$/, "yaml")
+if ARGV.length > 0
+  ARGV.each do|fname|
+    raise "argument must be a .csv file: #{fname}" unless fname =~ /\.csv$/
+    csv_files.push(fname)
+  end
 
-IO.write(
-  outfile,
-  CsvToStructuredHash.convert(csvfile).to_yaml
-)
+  else
+    raise "please specify at least one .csv file"
+end
+
+first_csv = csv_files[0]
+
+outfile_data = "data.yaml"
+outfile_metadata = "meta.yaml"
+
+csv_files.each do|fname|
+  parsed_csv = CsvToStructuredHash.convert(fname)
+  name_wo_ext = File.basename(fname, ".csv")
+
+  output_data[name_wo_ext] = parsed_csv["data"]
+
+  if parsed_csv["meta"][:type]
+    output_metadata[name_wo_ext] = {"type" => parsed_csv["meta"][:type]}
+  else
+    output_metadata[name_wo_ext] = Hash.new
+  end
+
+  output_metadata[name_wo_ext] = output_metadata[name_wo_ext].merge(parsed_csv["metadata"])
+
+
+end
+
+IO.write(outfile_data, output_data.to_yaml)
+IO.write(outfile_metadata, output_metadata.to_yaml)
 
 # pp CsvToStructuredHash.convert(filename)

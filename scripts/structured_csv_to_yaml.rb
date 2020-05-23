@@ -260,6 +260,7 @@ first_csv = csv_files[0]
 
 outfile_data = "data.yaml"
 outfile_metadata = "meta.yaml"
+default_type = "index"
 
 csv_files.each do|fname|
   parsed_csv = CsvToStructuredHash.convert(fname)
@@ -270,13 +271,53 @@ csv_files.each do|fname|
   if parsed_csv["meta"][:type]
     output_metadata[name_wo_ext] = {"type" => parsed_csv["meta"][:type]}
   else
-    output_metadata[name_wo_ext] = Hash.new
+    output_metadata[name_wo_ext] = {"type" => default_type}
   end
 
   output_metadata[name_wo_ext] = output_metadata[name_wo_ext].merge(parsed_csv["metadata"])
 
+end
+
+# fix hierarchy due issue #42
+#_output_metadata = Hash.new
+_output_metadata = Hash.new.merge(output_metadata)
+_output_metadata["datasets"] = Hash.new
+#_title = String.new
+
+output_metadata.each do |key, val|
+
+  if not _output_metadata["title"] and output_metadata[key]["title"]
+    _output_metadata["title"] = output_metadata[key]["title"]
+    output_metadata[key].delete("title")
+  end
+
+  if output_metadata[key]["locale"]
+
+    fields = Array.new
+    output_metadata[key]["locale"].each do |k, v|
+      fields.push({
+        "id" => k,
+        "required" => true,
+        "label" => v,
+        "type" => "text"
+      })
+    end
+
+    if not _output_metadata["datasets"][key]
+      _output_metadata["datasets"][key] = Hash.new
+    end
+
+    _output_metadata["datasets"][key]["item"] = {
+        "type" => "object",
+        "fields" => fields
+    }
+    _output_metadata.delete(key)
+
+  end
 
 end
+
+output_metadata = _output_metadata 
 
 IO.write(outfile_data, output_data.to_yaml)
 IO.write(outfile_metadata, output_metadata.to_yaml)

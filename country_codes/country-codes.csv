@@ -1,0 +1,249 @@
+﻿METADATA,,,,,,
+title.en,ITU Country names mapping to ISO 3166-3 country codes,,,,,
+title.fr,ITU Country names mapping to ISO 3166-3 country codes,,,,,
+title.es,ITU Country names mapping to ISO 3166-3 country codes,,,,,
+title.ru,ITU Country names mapping to ISO 3166-3 country codes,,,,,
+title.zh,ITU Country names mapping to ISO 3166-3 country codes,,,,,
+title.ar,ITU Country names mapping to ISO 3166-3 country codes,,,,,
+locale.country_or_area.en,Country or area,,,,,
+locale.country_or_area.fr,Pays ou zone,,,,,
+locale.country_or_area.es,País o zona,,,,,
+locale.country_or_area.ru,Страна или зона,,,,,
+locale.country_or_area.zh,国家或区域,,,,,
+locale.country_or_area.ar,البلد أو المنطقة ,,,,,
+,,,,,,
+DATA,,,,,,
+iso_code,country_or_area.en,country_or_area.fr,country_or_area.es,country_or_area.zh,country_or_area.ru,country_or_area.ar
+ABW,Aruba,Aruba,Aruba,Аруба ,阿鲁巴岛,آروبا
+AFG,Afghanistan,Afghanistan,Afganistán,Афганистан ,阿富汗,أفغانستان
+AGO,Angola (Republic of),Angola (République d'),Angola (República de),Ангола (Республика),安哥拉（共和国）,جمهورية أنغولا
+AIA,Anguilla,Anguilla,Anguila,Ангилья ,安圭拉岛,أنغويلا 
+ALB,Albania (Republic of),Albanie (République d'),Albania (República de),Албания (Республика),阿尔巴尼亚（共和国）,جمهورية ألبانيا
+AND,Andorra (Principality of),Andorre (Principauté d'),Andorra (Principado de),Андорра (Княжество),安道尔（公国）,إمارة أندورا
+ARE,United Arab Emirates,Emirats arabes unis,Emiratos Árabes Unidos,Объединенные Арабские Эмираты ,阿拉伯联合酋长国,الإمارات العربية المتحدة
+ARG,Argentine Republic,Argentine (République),Argentina (República),Аргентинская Республика,阿根廷共和国,جمهورية الأرجنتين
+ARM,Armenia (Republic of),Arménie (République d'),Armenia (República de),Армения (Республика),亚美尼亚（共和国）,جمهورية أرمينيا
+ASM,American Samoa,Samoa américaines,Samoa Norteamericana,Американское Самоа ,美属萨摩亚,ساموا الأمريكية
+ATG,Antigua and Barbuda,Antigua-et-Barbuda,Antigua y Barbuda,Антигуа и Барбуда ,安提瓜和巴布达,أنتيغوا وبربودا
+AUS,Australia,Australie,Australia,Австралия ,澳大利亚,أستراليا
+AUT,Austria,Autriche,Austria,Австрия ,奥地利,النمسا
+AZE,Azerbaijan (Republic of),Azerbaïdjan (République d'),Azerbaiyán (República de),Азербайджан (Республика),阿塞拜疆（共和国）,جمهورية أذربيجان
+BDI,Burundi (Republic of),Burundi (République du),Burundi (República de),Бурунди (Республика),布隆迪（共和国）,جمهورية بوروندي
+BEL,Belgium,Belgique,Bélgica,Бельгия,比利时,بلجيكا
+BEN,Benin (Republic of),Bénin (République du),Benin (República de),Бенин (Республика),贝宁（共和国）,جمهورية بنن
+BES,"Bonaire, Sint Eustatius and Saba","Bonaire, Saint-Eustache et Saba","Bonaire, San Eustaquio y Saba","Бонэйр, Синт-Эстатиус и Саба",博内尔岛、圣尤斯特歇斯岛和萨巴岛,جزر بونير وسان يوستايتوس وسابا
+BFA,Burkina Faso,Burkina Faso,Burkina Faso,Буркина-Фасо,布基纳法索,بوركينا فاصو
+BGD,Bangladesh (People's Republic of),Bangladesh (République populaire du),Bangladesh (República Popular de),Бангладеш (Народная Республика),孟加拉（人民共和国）,جمهورية بنغلاديش الشعبية
+BGR,Bulgaria (Republic of),Bulgarie (République de),Bulgaria (República de),Болгария (Республика),保加利亚（共和国）,جمهورية بلغاريا
+BHR,Bahrain (Kingdom of),Bahreïn (Royaume de),Bahrein (Reino de),Бахрейн (Королевство),巴林（王国）,مملكة البحرين
+BHS,Bahamas (Commonwealth of the),Bahamas (Commonwealth des),Bahamas (Commonwealth de las),Багамские Острова (Содружество),巴哈马国,كومنولث البهاما
+BIH,Bosnia and Herzegovina,Bosnie-Herzégovine,Bosnia y Herzegovina,Босния и Герцеговина ,波斯尼亚与黑塞哥维那,البوسنة والهرسك
+BLR,Belarus (Republic of),Bélarus (République du),Belarús (República de),Беларусь (Республика),白俄罗斯（共和国）,جمهورية بيلاروس
+BLZ,Belize,Belize,Belice,Белиз,伯利兹,بليز
+BMU,Bermuda,Bermudes,Bermudas,Бермудские острова ,百慕大,برمودا
+BOL,Bolivia (Plurinational State of),Bolivie (État plurinational de),Bolivia (Estado Plurinacional de),Боливия (Многонациональное Государство),玻利维亚（多民族国）,دولة بوليفيا المتعددة القوميات
+BRA,Brazil (Federative Republic of),Brésil (République fédérative du),Brasil (República Federativa del),Бразилия (Федеративная Республика),巴西（联邦共和国）,جمهورية البرازيل الاتحادية
+BRB,Barbados,Barbade,Barbados,Барбадос,巴巴多斯,بربادوس
+BRN,Brunei Darussalam,Brunéi Darussalam,Brunei Darussalam,Бруней-Даруссалам ,文莱达鲁萨兰国,بروني دار السلام
+BTN,Bhutan (Kingdom of),Bhoutan (Royaume du),Bhután (Reino de),Бутан (Королевство),不丹（王国）,مملكة بوتان
+BWA,Botswana (Republic of),Botswana (République du),Botswana (República de),Ботсвана (Республика),博茨瓦纳（共和国）,جمهورية بوتسوانا
+CAF,Central African Republic,Centrafricaine (République),Centroafricana (República),Центральноафриканская Республика,中非共和国,جمهورية إفريقيا الوسطى
+CAN,Canada,Canada,Canadá,Канада,加拿大,كندا
+CHE,Switzerland (Confederation of),Suisse (Confédération),Suiza (Confederación),Швейцария (Конфедерация),瑞士（联邦）,الاتحاد السويسري
+CHL,Chile,Chili,Chile,Чили,智利,شيلي
+CHN,China (People's Republic of),Chine (République populaire de),China (República Popular de),Китайская Народная Республика ,中华人民共和国,جمهورية الصين الشعبية
+CIV,Côte d'Ivoire (Republic of),Côte d'Ivoire (République de),Côte d'Ivoire (República de),Кот-д'Ивуар (Республика),科特迪瓦（共和国）,جمهورية كوت ديفوار
+CMR,Cameroon (Republic of),Cameroun (République du),Camerún (República de),Камерун (Республика),喀麦隆（共和国）,جمهورية الكاميرون
+COD,Democratic Republic of the Congo,République démocratique du Congo,República Democrática del Congo,Демократическая Республика Конго,刚果民主共和国,جمهورية الكونغو الديمقراطية
+COG,Congo (Republic of the),Congo (République du),Congo (República del),Конго (Республика),刚果（共和国）,جمهورية الكونغو
+COK,Cook Islands,Cook (Iles),Cook (Islas),Острова Кука,库克群岛,جزر كوك
+COL,Colombia (Republic of),Colombie (République de),Colombia (República de),Колумбия (Республика),哥伦比亚（共和国）,جمهورية كولومبيا
+COM,Comoros (Union of the),Comores (Union des),Comoras (Unión de las),Коморские Острова (Союз) ,科摩罗（联盟）,اتحاد جزر القمر
+CPV,Cabo Verde (Republic of),Cabo Verde (République de),Cabo Verde (República de),Кабо-Верде (Республика),佛得角（共和国）,جمهورية كابو فيردي
+CRI,Costa Rica,Costa Rica,Costa Rica,Коста-Рика,哥斯达黎加,كوستاريكا
+CUB,Cuba,Cuba,Cuba,Куба,古巴,كوبا
+CUW,Curaçao,Curaçao,Curaçao,Кюрасао ,库拉索岛,كوراساو
+CYM,Cayman Islands,Caïmanes (Iles),Caimán (Islas),Каймановы острова ,开曼群岛,جزر كايمان
+CYP,Cyprus (Republic of),Chypre (République de),Chipre (República de),Кипр (Республика),塞浦路斯（共和国）,جمهورية قبرص
+CZE,Czech Republic,République tchèque,República Checa,Чешская Республика,捷克共和国,الجمهورية التشيكية
+DEU,Germany (Federal Republic of),Allemagne (République fédérale d'),Alemania (República Federal de),Германия (Федеративная Республика),德国（联邦共和国）,جمهورية ألمانيا الاتحادية
+DJI,Djibouti (Republic of),Djibouti (République de),Djibouti (República de),Джибути (Республика),吉布提（共和国）,جمهورية جيبوتي
+DMA,Dominica (Commonwealth of),Dominique (Commonwealth de la),Dominica (Commonwealth de),Доминика (Содружество),多米尼克国,كومنولث دومينيكا
+DNK,Denmark,Danemark,Dinamarca,Дания,丹麦,الدانمارك
+DOM,Dominican Republic,Dominicaine (République),Dominicana (República),Доминиканская Республика,多米尼加共和国,الجمهورية الدومينيكية
+DZA,Algeria (People's Democratic Republic of),Algérie (République algérienne démocratique et populaire),Argelia (República Argelina Democrática y Popular),Алжир (Народная Демократическая Республика),阿尔及利亚 （民主人民共和国）,جمهورية الجزائر الديمقراطية الشعبية
+ECU,Ecuador,Equateur,Ecuador,Эквадор ,厄瓜多尔,إكوادور
+EGY,Egypt (Arab Republic of),Egypte (République arabe d'),Egipto (República Arabe de),Египет (Арабская Республика),阿拉伯埃及共和国,جمهورية مصر العربية
+ERI,Eritrea,Erythrée,Eritrea,Эритрея,厄立特里亚,إريتريا
+ESP,Spain,Espagne,España,Испания,西班牙,إسبانيا
+EST,Estonia (Republic of),Estonie (République d'),Estonia (República de),Эстония (Республика),爱沙尼亚（共和国）,جمهورية إستونيا
+ETH,Ethiopia (Federal Democratic Republic of),Ethiopie (République fédérale démocratique d'),Etiopía (República Democrática Federal de),Эфиопия (Федеративная Демократическая Республика),埃塞俄比亚（联邦民主共和国）,جمهورية إثيوبيا الاتحادية الديمقراطية
+FIN,Finland,Finlande,Finlandia,Финляндия ,芬兰,فنلندا
+FJI,Fiji (Republic of),Fidji (République de),Fiji (República de),Фиджи (Республика),斐济（共和国）,جمهورية فيجي
+FLK,Falkland Islands (Malvinas),Falkland (Iles) (Malvinas),Malvinas (Islas) (Falkland),Фолклендские (Мальвинские) острова ,福克兰群岛（马尔维纳斯群岛）,جزر فوكلاند (مالفيناس)
+FRA,France,France,Francia,Франция,法国,فرنسا
+FRO,Faroe Islands,Féroé (Iles),Feroe (Islas),Фарерские острова,法罗群岛,جزر فارويه
+FSM,Micronesia (Federated States of),Micronésie (Etats fédérés de),Micronesia (Estados federados de),Микронезия (Федеративные Штаты),密克罗尼西亚 （联邦）,ولايات ميكرونيزيا الموحدة
+GAB,Gabonese Republic,Gabonaise (République),Gabonesa (República),Габонская Республика,加蓬共和国,الجمهورية الغابونية
+GBR,United Kingdom of Great Britain and Northern Ireland,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,Reino Unido de Gran Bretaña e Irlanda del Norte,Соединенное Королевство Великобритании и Северной Ирландии ,大不列颠及北爱尔兰联合王国,المملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية
+GEO,Georgia,Géorgie,Georgia,Грузия,格鲁吉亚,جورجيا
+GHA,Ghana,Ghana,Ghana,Гана,加纳,غانا
+GIB,Gibraltar,Gibraltar,Gibraltar,Гибралтар ,直布罗陀,جبل طارق
+GIN,Guinea (Republic of),Guinée (République de),Guinea (República de),Гвинея (Республика),几内亚（共和国）,جمهورية غينيا
+GLP,Guadeloupe (French Department of),Guadeloupe (Département français de la),Guadalupe (Departamento francés de la),Гваделупа (Департамент Франции),法属瓜德罗普省,مقاطعة غوادلوب الفرنسية
+GMB,Gambia (Republic of the),Gambie (République de),Gambia (República de),Гамбия (Республика),冈比亚（共和国）,جمهورية غامبيا
+GNB,Guinea-Bissau (Republic of),Guinée-Bissau (République de),Guinea-Bissau (República de),Гвинея-Бисау (Республика),几内亚比绍（共和国）,جمهورية غينيا - بيساو
+GNQ,Equatorial Guinea (Republic of),Guinée équatoriale (République de),Guinea Ecuatorial (República de),Экваториальная Гвинея (Республика),赤道几内亚（共和国）,جمهورية غينيا الاستوائية
+GRC,Greece,Grèce,Grecia,Греция,希腊,اليونان
+GRD,Grenada,Grenade,Granada,Гренада,格林纳达,غرينادا
+GRL,Greenland (Denmark),Groenland (Danemark),Groenlandia (Dinamarca),Гренландия (Дания),格陵兰（丹麦）,غرينلاند (الدانمارك)
+GTM,Guatemala (Republic of),Guatemala (République du),Guatemala (República de),Гватемала (Республика),危地马拉（共和国）,جمهورية غواتيمالا
+GUF,French Guiana (French Department of),Guyane française (Département français de la),Guayana francesa (Departamento francés de la),Французская Гвиана (Департамент Франции),法属圭亚那,مقاطعة غويانا الفرنسية
+GUM,Guam,Guam,Guam,Гуам,关岛,غوام
+GUY,Guyana,Guyana,Guyana,Гайана,圭亚那,غُيانا
+HKG,"Hong Kong, China","Hong Kong, Chine","Hong Kong, China","Гонконг, Китай ",中国香港,"هونغ كونغ، الصين"
+HND,Honduras (Republic of),Honduras (République du),Honduras (República de),Гондурас (Республика),洪都拉斯（共和国）,جمهورية هندوراس
+HRV,Croatia (Republic of),Croatie (République de),Croacia (República de),Хорватия (Республика),克罗地亚（共和国）,جمهورية كرواتيا
+HTI,Haiti (Republic of),Haïti (République d'),Haití (República de),Гаити (Республика),海地（共和国）,جمهورية هايتي
+HUN,Hungary,Hongrie,Hungría,Венгрия ,匈牙利,هنغاريا
+IDN,Indonesia (Republic of),Indonésie (République d'),Indonesia (República de),Индонезия (Республика),印度尼西亚（共和国）,جمهورية إندونيسيا
+IND,India (Republic of),Inde (République de l'),India (República de la),Индия (Республика),印度（共和国）,جمهورية الهند
+IOT,Diego Garcia,Diego Garcia,Diego García,Диего-Гарсия ,迪戈加西亚岛,ديغو غارسيا
+IRL,Ireland,Irlande,Irlanda,Ирландия ,爱尔兰,أيرلندا
+IRN,Iran (Islamic Republic of),Iran (République islamique d'),Irán (República Islámica del),Иран (Исламская Республика),伊朗（伊斯兰共和国）,جمهورية إيران الإسلامية
+IRQ,Iraq (Republic of),Iraq (République d'),Iraq (República del),Ирак (Республика),伊拉克（共和国）,الجمهورية العراقية
+ISL,Iceland,Islande,Islandia,Исландия ,冰岛,أيسلندا
+ISR,Israel (State of),Israël (Etat d'),Israel (Estado de),Израиль (Государство),以色列（国）,دولة إسرائيل
+ITA,Italy,Cité du Vatican (Etat de la),Ciudad del Vaticano (Estado de la),Италия,意大利,إيطاليا
+JAM,Jamaica,Jamaïque,Jamaica,Ямайка,牙买加,جامايكا
+JEY,Channel Islands: Jersey,Channel Islands: Jersey,Channel Islands: Jersey,Channel Islands: Jersey,Channel Islands: Jersey,Channel Islands: Jersey
+JOR,Jordan (Hashemite Kingdom of),Jordanie (Royaume hachémite de),Jordania (Reino Hachemita de),Иордания (Хашимитское Королевство),约旦（哈希姆王国）,المملكة الأردنية الهاشمية
+JPN,Japan,Japon,Japón,Япония,日本,اليابان
+KAZ,Kazakhstan (Republic of),Kazakhstan (République du),Kazajstán (República de),Казахстан (Республика),哈萨克斯坦（共和国）,جمهورية كازاخستان
+KEN,Kenya (Republic of),Kenya (République du),Kenya (República de),Кения (Республика),肯尼亚（共和国）,جمهورية كينيا
+KGZ,Kyrgyz Republic,République kirghize,República Kirguisa,Кыргызская Республика,吉尔吉斯共和国,جمهورية قيرغيزستان
+KHM,Cambodia (Kingdom of),Cambodge (Royaume du),Camboya (Reino de),Камбоджа (Королевство),柬埔寨（王国）,مملكة كمبوديا
+KIR,Kiribati (Republic of),Kiribati (République de),Kiribati (República de),Кирибати (Республика),基里巴斯（共和国）,جمهورية كيريباتي
+KNA,Saint Kitts and Nevis,Saint-Kitts-et-Nevis,San Kitts y Nieves,Сент-Китс и Невис ,圣基茨和尼维斯,سانت كيتس ونيفيس
+KOR,Korea (Republic of),Corée (République de),Corea (República de),Корея (Республика),大韩民国,جمهورية كوريا
+KWT,Kuwait (State of),Koweït (Etat du),Kuwait (Estado de),Кувейт (Государство),科威特（国）,دولة الكويت
+LAO,Lao People's Democratic Republic,Lao (République démocratique populaire),Lao (República Democrática Popular),Лаосская Народно-Демократическая Республика ,老挝（人民民主共和国）,جمهورية لاو الديمقراطية الشعبية
+LBN,Lebanon,Liban,Líbano,Ливан,黎巴嫩,لبنان
+LBR,Liberia (Republic of),Libéria (République du),Liberia (República de),Либерия (Республика),利比里亚（共和国）,جمهورية ليبيريا
+LBY,Libya,Libye,Libia,Ливия,利比亚,ليبيا
+LCA,Saint Lucia,Sainte-Lucie,Santa Lucía,Сент-Люсия,圣卢西亚,سانت لوسيا
+LIE,Liechtenstein (Principality of),Liechtenstein (Principauté de),Liechtenstein (Principado de),Лихтенштейн (Княжество),列支敦士登（公国）,إمارة ليختنشتاين
+LKA,Sri Lanka (Democratic Socialist Republic of),Sri Lanka (République socialiste démocratique de),Sri Lanka (República Socialista Democrática de),Шри-Ланка (Демократическая Социалистическая  Республика),斯里兰卡（民主社会主义共和国）,جمهورية سري لانكا الاشتراكية الديمقراطية
+LSO,Lesotho (Kingdom of),Lesotho (Royaume du),Lesotho (Reino de),Лесото (Королевство),莱索托（王国）,مملكة ليسوتو
+LTU,Lithuania (Republic of),Lituanie (République de),Lituania (República de),Литва (Республика),立陶宛（共和国）,جمهورية ليتوانيا
+LUX,Luxembourg,Luxembourg,Luxemburgo,Люксембург ,卢森堡,لكسمبرغ
+LVA,Latvia (Republic of),Lettonie (République de),Letonia (República de),Латвия (Республика),拉脱维亚（共和国）,جمهورية لاتفيا
+MAC,"Macao, China","Macao, Chine","Macao, China","Макао, Китай",中国澳门,"ماكاو، الصين"
+MAR,Morocco (Kingdom of),Maroc (Royaume du),Marruecos (Reino de),Марокко (Королевство),摩洛哥（王国）,المملكة المغربية
+MCO,Monaco (Principality of),Monaco (Principauté de),Mónaco (Principado de),Монако (Княжество),摩纳哥（公国）,إمارة موناكو
+MDA,Moldova (Republic of),Moldova (République de),Moldova (República de),Молдова (Республика),摩尔多瓦（共和国）,جمهورية مولدوفا
+MDG,Madagascar (Republic of),Madagascar (République de),Madagascar (República de),Мадагаскар (Республика),马达加斯加（共和国）,جمهورية مدغشقر
+MDV,Maldives (Republic of),Maldives (République des),Maldivas (República de),Мальдивская Республика,马尔代夫（共和国）,جمهورية ملديف
+MEX,Mexico,Mexique,México,Мексика ,墨西哥,المكسيك
+MKD,The Former Yugoslav Republic of Macedonia,L'ex-République yougoslave de Macédoine,La ex República Yugoslava de Macedonia,бывшая югославская Республика Македония ,前南斯拉夫马其顿共和国,جمهورية مقدونيا اليوغوسلافية السابقة
+MLH,Marshall Islands (Republic of the),Marshall (République des Iles),Marshall (República de las Islas),Маршалловы Острова (Республика),马绍尔群岛 （共和国）,جمهورية جزر مارشال
+MLI,Mali (Republic of),Mali (République du),Malí (República de),Мали (Республика),马里（共和国）,جمهورية مالي
+MLT,Malta,Malte,Malta,Мальта,马耳他,مالطة
+MMR,Myanmar (the Republic of the Union of),Myanmar (République de l'Union du),Myanmar (República de la Unión de),Республика Союза Мьянма ,缅甸（联邦共和国）,جمهورية اتحاد ميانمار 
+MNE,Montenegro,Monténégro,Montenegro,Черногория ,黑山,الجبل الأسود
+MNG,Mongolia,Mongolie,Mongolia,Монголия,蒙古,منغوليا
+MNP,Northern Mariana Islands (Commonwealth of the),Mariannes du Nord (Iles) (Commonwealth des),Marianas del Norte (Islas) (Commonwealth de las),Северные Марианские острова (Содружество),北马里亚纳群岛（联邦共和国）,كومنولث جزر ماريانا الشمالية
+MOZ,Mozambique (Republic of),Mozambique (République du),Mozambique (República de),Мозамбик (Республика),莫桑比克（共和国）,جمهورية موزامبيق
+MRT,Mauritania (Islamic Republic of),Mauritanie (République islamique de),Mauritania (República Islámica de),Мавритания (Исламская Республика),毛里塔尼亚（伊斯兰共和国）,جمهورية موريتانيا الإسلامية
+MSR,Montserrat,Montserrat,Montserrat,Монтсеррат ,蒙特塞拉特岛,مونسيرات
+MTQ,Martinique (French Department of),Martinique (Département français de la),Martinica (Departamento francés de la),Мартиника (Департамент Франции),法属马提尼克,مقاطعة المارتينيك الفرنسية
+MUS,Mauritius (Republic of),Maurice (République de),Mauricio (República de),Маврикий (Республика),毛里求斯（共和国）,جمهورية موريشيوس
+MWI,Malawi,Malawi,Malawi,Малави,马拉维,ملاوي
+MYS,Malaysia,Malaisie,Malasia,Малайзия,马来西亚,ماليزيا
+NAM,Namibia (Republic of),Namibie (République de),Namibia (República de),Намибия (Республика),纳米比亚（共和国）,جمهورية ناميبيا
+NCL,New Caledonia (Territoire français d'outre-mer),Nouvelle-Calédonie (Territoire français d'outre-mer),Nueva Caledonia (Territoire français d'outre-mer),Новая Каледония (Французские заморские территории),新喀里多尼亚（法国海外领地）,كاليدونيا الجديدة (إقليم فرنسي فيما وراء البحار)
+NER,Niger (Republic of the),Niger (République du),Níger (República del),Нигер (Республика),尼日尔（共和国）,جمهورية النيجر
+NGA,Nigeria (Federal Republic of),Nigéria (République fédérale du),Nigeria (República Federal de),Нигерия (Федеративная Республика),尼日利亚 （联邦共和国）,جمهورية نيجيريا الاتحادية
+NIC,Nicaragua,Nicaragua,Nicaragua,Никарагуа,尼加拉瓜,نيكاراغوا
+NIU,Niue,Niue,Niue,Ниуэ,纽埃岛,نيوي
+NLD,Netherlands (Kingdom of the),Pays-Bas (Royaume des),Países Bajos (Reino de los),Нидерланды (Королевство),荷兰（王国）,مملكة هولندا
+NOR,Norway,Norvège,Noruega,Норвегия ,挪威,النرويج
+NPL,Nepal (Federal Democratic Republic of),Népal (République fédérale démocratique du),Nepal (República Democrática Federal de),Непал (Федеративная Демократическая Республика),尼泊尔,جمهورية نيبال الاتحادية الديمقراطية
+NRU,Nauru (Republic of),Nauru (République de),Nauru (República de),Науру (Республика),瑙鲁（共和国）,جمهورية ناورو
+NZL,New Zealand,Nouvelle-Zélande,Nueva Zelandia,Новая Зеландия ,新西兰,نيوزيلندا
+OMN,Oman (Sultanate of),Oman (Sultanat d'),Omán (Sultanía de),Оман (Султанат),阿曼（苏丹国）,سلطنة عُمان
+PAK,Pakistan (Islamic Republic of),Pakistan (République islamique du),Pakistán (República Islámica del),Пакистан (Исламская Республика),巴基斯坦（伊斯兰共和国）,جمهورية باكستان الإسلامية
+PAN,Panama (Republic of),Panama (République du),Panamá (República de),Панама (Республика),巴拿马（共和国）,جمهورية بنما
+PER,Peru,Pérou,Perú,Перу,秘鲁,بيرو
+PHL,Philippines (Republic of the),Philippines (République des),Filipinas (República de),Филиппины (Республика),菲律宾（共和国）,جمهورية الفلبين
+PLW,Palau (Republic of),Palaos (République des),Palau (República de),Палау (Республика),帕劳（共和国）,جمهورية بالاو
+PNG,Papua New Guinea,Papouasie-Nouvelle-Guinée,Papua Nueva Guinea,Папуа-Новая Гвинея ,巴布亚新几内亚,بابوا - غينيا الجديدة
+POL,Poland (Republic of),Pologne (République de),Polonia (República de),Польша (Республика),波兰（共和国）,جمهورية بولندا
+PRI,Puerto Rico,Puerto Rico,Puerto Rico,Пуэрто-Рико,波多黎各,بورتوريكو
+PRK,Democratic People's Republic of Korea,République populaire démocratique de Corée,República Popular Democrática de Corea,Корейская Народно-Демократическая Республика ,朝鲜民主主义人民共和国,جمهورية كوريا الشعبية الديمقراطية
+PRT,Portugal,Portugal,Portugal,Португалия ,葡萄牙,البرتغال
+PRY,Paraguay (Republic of),Paraguay (République du),Paraguay (República del),Парагвай (Республика),巴拉圭（共和国）,جمهورية باراغواي
+PYF,French Polynesia (Territoire français d'outre-mer),Polynésie française (Territoire français d'outre-mer),Polinesia francesa (Territoire français d'outre-mer),Французская Полинезия (Французские заморские территории),法属波利尼西亚,بولينيزيا الفرنسية (إقليم فرنسي فيما وراء البحار)
+QAT,Qatar (State of),Qatar (Etat du),Qatar (Estado de),Катар (Государство),卡塔尔（国）,دولة قطر
+REU,French Departments and Territories in the Indian Ocean,France de l'Océan indien,Departamentos y territorios franceses del Océano Indico,Французские департаменты и территории в Индийском океане,印度洋法属海外省和领地,المقاطعات والأراضي الفرنسية في المحيط الهندي
+ROU,Romania,Roumanie,Rumania,Румыния ,罗马尼亚,رومانيا
+RUS,Russian Federation,Russie (Fédération de),Rusia (Federación de),Российская Федерация ,俄罗斯联邦,الاتحاد الروسي
+RWA,Rwanda (Republic of),Rwanda (République du),Rwanda (República de),Руанда (Республика),卢旺达（共和国）,جمهورية رواندا
+SAU,Saudi Arabia (Kingdom of),Arabie saoudite (Royaume d'),Arabia Saudita (Reino de),Саудовская Аравия (Королевство),沙特阿拉伯（王国）,المملكة العربية السعودية
+SDN,Sudan (Republic of the),Soudan (République du),Sudán (República del),Судан (Республика),苏丹（共和国）,جمهورية السودان
+SEN,Senegal (Republic of),Sénégal (République du),Senegal (República del),Сенегал (Республика),塞内加尔（共和国）,جمهورية السنغال
+SGP,Singapore (Republic of),Singapour (République de),Singapur (República de),Сингапур (Республика),新加坡（共和国）,جمهورية سنغافورة
+SHN,"Saint Helena, Ascension and Tristan da Cunha","Sainte-Hélène, Ascension et Tristan da Cunha","Santa Elena, Ascension y Tristan da Cunha","Острова Св. Елены, Вознесения и Тристан-да-Кунья",圣赫勒拿、阿森松和特里斯坦-达库尼亚,سانت هيلانة وأسانسيون وتريستان دا كونها
+SLB,Solomon Islands,Salomon (Iles),Salomón (Islas),Соломоновы Острова,所罗门群岛,جزر سليمان
+SLE,Sierra Leone,Sierra Leone,Sierra Leona,Сьерра-Леоне,塞拉利昂,سيراليون
+SLV,El Salvador (Republic of),El Salvador (République d'),El Salvador (República de),Эль-Сальвадор (Республика),萨尔瓦多（共和国）,جمهورية السلفادور
+SMR,San Marino (Republic of),Saint-Marin (République de),San Marino (República de),Сан-Марино Республика),圣马力诺（共和国）,جمهورية سان مارينو
+SOM,Somalia (Federal Republic of),Somalie (République fédérale de),Somalia (República Federal de),Сомали (Федеративная Республика),索马里（联邦共和国）,جمهورية الصومال الاتحادية
+SPM,Saint Pierre and Miquelon (Collectivité territoriale de la République française),Saint-Pierre-et-Miquelon (Collectivité territoriale de la République française),San Pedro y Miquelón (Collectivité territoriale de la République française),Сен-Пьер и Микелон (территориальная единица Французской Республики)  ,圣皮埃尔岛和密克隆岛（法属领土）,سان بيير وميكيلون (أراض جماعية للجمهورية الفرنسية)
+SRB,Serbia (Republic of),Serbie (République de),Serbia (República de),Сербия (Республика),塞尔维亚（共和国）,جمهورية صربيا
+SSD,South Sudan (Republic of),Soudan du Sud (République du),Sudán del Sur (República de),Южный Судан (Республика),南苏丹（共和国）,جنوب السودان (جمهورية)
+STP,Sao Tome and Principe (Democratic Republic of),Sao Tomé-et-Principe (République démocratique de),Santo Tomé y Príncipe (República Democrática de),Сан-Томе и Принсипи (Демократическая Республика),圣多美和普林西比（民主共和国）,جمهورية سان تومي وبرينسيبي الديمقراطية
+SUR,Suriname (Republic of),Suriname (République du),Suriname (República de),Суринам (Республика),苏里南（共和国）,جمهورية سورينام
+SVK,Slovak Republic,République slovaque,República Eslovaca,Словацкая Республика,斯洛伐克共和国,الجمهورية السلوفاكية
+SVN,Slovenia (Republic of),Slovénie (République de),Eslovenia (República de),Словения (Республика),斯洛文尼亚（共和国）,جمهورية سلوفينيا
+SWE,Sweden,Suède,Suecia,Швеция,瑞典,السويد
+SWZ,Swaziland (Kingdom of),Swaziland (Royaume du),Swazilandia (Reino de),Свазиленд (Королевство),斯威士兰（王国）,مملكة سوازيلاند
+SXM,Sint Maarten (Dutch part),Saint-Martin (partie néerlandaise),San Martín (parte neerlandesa),Синт-Мартен (Нидерланды) ,圣马丁岛（荷属部分）,سينت مارتن (الجزء الهولندي)
+SYC,Seychelles (Republic of),Seychelles (République des),Seychelles (República de),Сейшельские Острова (Республика),塞舌尔（共和国）,جمهورية سيشيل
+SYR,Syrian Arab Republic,République arabe syrienne,República Árabe Siria,Сирийская Арабская Республика,阿拉伯叙利亚共和国,الجمهورية العربية السورية
+TCA,Turks and Caicos Islands,Turks-et-Caïcos (Iles),Turcas y Caicos (Islas),Острова Тёркс и Кайкос ,特克斯和凯科斯群岛,جزر تركس وكايكوس
+TCD,Chad (Republic of),Tchad (République du),Chad (República del),Чад (Республика),乍得（共和国）,جمهورية تشاد
+TGO,Togolese Republic,Togolaise (République),Togolesa (República),Тоголезская Республика,多哥共和国,جمهورية توغو
+THA,Thailand,Thaïlande,Tailandia,Таиланд,泰国,تايلاند
+TJK,Tajikistan (Republic of),Tadjikistan (République du),Tayikistán (República de),Таджикистан (Республика),塔吉克斯坦（共和国）,جمهورية طاجيكستان
+TKL,Tokelau,Tokélau,Tokelau,Токелау,托克劳,توكيلاو
+TKM,Turkmenistan,Turkménistan,Turkmenistán,Туркменистан,土库曼斯坦,تركمانستان
+TLS,Timor-Leste (Democratic Republic of),Timor-Leste (République démocratique du),Timor-Leste (República Democrática de),Тимор-Лешти (Демократическая Республика),东帝汶（民主共和国）,جمهورية تيمور لستي الديمقراطية
+TON,Tonga (Kingdom of),Tonga (Royaume des),Tonga (Reino de),Тонга (Королевство),汤加（王国）,مملكة تونغا
+TTO,Trinidad and Tobago,Trinité-et-Tobago,Trinidad y Tabago,Тринидад и Тобаго ,特立尼达和多巴哥,ترينيداد وتوباغو
+TUN,Tunisia,Tunisie,Túnez,Тунис,突尼斯,تونس
+TUR,Turkey,Turquie,Turquía,Турция,土耳其,تركيا
+TUV,Tuvalu,Tuvalu,Tuvalu,Тувалу,图瓦卢,توفالو
+TWN,"Taiwan, China","Taiwan, Chine","Taiwán, China","Тайвань, Китай ",中国台湾,"تايوان، الصين"
+TZA,Tanzania (United Republic of),Tanzanie (République-Unie de),Tanzanía (República Unida de),Танзания (Объединенная Республика),坦桑尼亚（联合共和国）,جمهورية تنزانيا المتحدة
+UGA,Uganda (Republic of),Ouganda (République de l'),Uganda (República de),Уганда (Республика),乌干达（共和国）,جمهورية أوغندا
+UKR,Ukraine,Ukraine,Ucrania,Украина ,乌克兰,أوكرانيا
+URY,Uruguay (Eastern Republic of),Uruguay (République orientale de l'),Uruguay (República Oriental del),Уругвай (Восточная Республика),乌拉圭（东岸共和国）,جمهورية أوروغواي الشرقية
+USA,United States of America,Etats-Unis d'Amérique,Estados Unidos de América,Соединенные Штаты Америки ,美利坚合众国,الولايات المتحدة الامريكية 
+UZB,Uzbekistan (Republic of),Ouzbékistan (République d'),Uzbekistán (República de),Узбекистан (Республика),乌兹别克斯坦（共和国）,جمهورية أوزبكستان
+VAT,Vatican City State,Cité du Vatican (Etat de la),Ciudad del Vaticano (Estado de la),Государство-город Ватикан ,梵蒂冈城国,دولة مدينة الفاتيكان
+VCT,Saint Vincent and the Grenadines,Saint-Vincent-et-les Grenadines,San Vicente y las Granadinas,Сент-Винсент и Гренадины ,圣文森特和格林纳丁斯,سانت فنسنت وغرينادين
+VEN,Venezuela (Bolivarian Republic of),Venezuela (République bolivarienne du),Venezuela (República Bolivariana de),Венесуэла (Боливарианская Республика),委内瑞拉（玻利瓦尔共和国）,جمهورية فنزويلا البوليفارية
+VGB,British Virgin Islands,Vierges Britanniques (Îles),Vírgenes Británicas (Islas),Британские Виргинские острова ,英属维京群岛,الجزر العذراء البريطانية
+VIR,United States Virgin Islands,Vierges britanniques (Iles),Vírgenes de los Estados Unidos (Islas),Виргинские острова (США) ,美属维京群岛,جزر فرجن التابعة للولايات المتحدة
+VNM,Viet Nam (Socialist Republic of),Viet Nam (République socialiste du),Viet Nam (República Socialista de),Вьетнам (Социалистическая Республика),越南（社会主义共和国）,جمهورية فيتنام الاشتراكية
+VUT,Vanuatu (Republic of),Vanuatu (République de),Vanuatu (República de),Вануату (Республика),瓦努阿图 （共和国）,جمهورية فانواتو
+WLF,Wallis and Futuna (Territoire français d'outre-mer),Wallis-et-Futuna (Territoire français d'outre-mer),Wallis y Futuna (Territoire français d'outre-mer),Уоллис и Футуна (Французские заморские территории),瓦利斯和富图纳群岛（法国海外领地）,جزر واليس وفوتونا (إقليم فرنسي فيما وراء البحار)
+WSM,Samoa (Independent State of),Samoa (Etat indépendant du),Samoa (Estado Independiente de),Самоа (Независимое Государство) ,萨摩亚（独立国）,دولة ساموا المستقلة
+XAE,Australian External Territories,Territoires extérieurs de l'Australie,Territorios exteriores de Australia,Внешние территории Австралии,澳大利亚境外领土,الأراضي الأسترالية الخارجية
+XKX,Kosovo*,Kosovo*,Kosovo*,Косово*,科索沃*,كوسوفو*
+YEM,Yemen (Republic of),Yémen (République du),Yemen (República del),Йемен (Республика),也门（共和国）,الجمهورية اليمنية
+ZAF,South Africa (Republic of),Sudafricaine (République),Sudafricana (República),Южно-Африканская Республика,南非（共和国）,جمهورية جنوب إفريقيا
+ZMB,Zambia (Republic of),Zambie (République de),Zambia (República de),Замбия (Республика),赞比亚（共和国）,جمهورية زامبيا
+ZWE,Zimbabwe (Republic of),Zimbabwe (République du),Zimbabwe (República de),Зимбабве (Республика),津巴布韦（共和国）,جمهورية زيمبابوي
+,,,,,,

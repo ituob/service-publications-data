@@ -1,0 +1,2106 @@
+---
+metadata:
+  title:
+    en: ITU Country names mapping to ISO 3166-3 country codes
+    fr: ITU Country names mapping to ISO 3166-3 country codes
+    es: ITU Country names mapping to ISO 3166-3 country codes
+    ru: ITU Country names mapping to ISO 3166-3 country codes
+    zh: ITU Country names mapping to ISO 3166-3 country codes
+    ar: ITU Country names mapping to ISO 3166-3 country codes
+  locale:
+    country_or_area:
+      en: Country or area
+      fr: Pays ou zone
+      es: País o zona
+      ru: Страна или зона
+      zh: 国家或区域
+      ar: البلد أو المنطقة
+data:
+  ABW:
+    iso_code: ABW
+    country_or_area:
+      en: Aruba
+      fr: Aruba
+      es: Aruba
+      zh: Аруба
+      ru: 阿鲁巴岛
+      ar: آروبا
+  AFG:
+    iso_code: AFG
+    country_or_area:
+      en: Afghanistan
+      fr: Afghanistan
+      es: Afganistán
+      zh: Афганистан
+      ru: 阿富汗
+      ar: أفغانستان
+  AGO:
+    iso_code: AGO
+    country_or_area:
+      en: Angola (Republic of)
+      fr: Angola (République d')
+      es: Angola (República de)
+      zh: Ангола (Республика)
+      ru: 安哥拉（共和国）
+      ar: جمهورية أنغولا
+  AIA:
+    iso_code: AIA
+    country_or_area:
+      en: Anguilla
+      fr: Anguilla
+      es: Anguila
+      zh: Ангилья
+      ru: 安圭拉岛
+      ar: أنغويلا
+  ALB:
+    iso_code: ALB
+    country_or_area:
+      en: Albania (Republic of)
+      fr: Albanie (République d')
+      es: Albania (República de)
+      zh: Албания (Республика)
+      ru: 阿尔巴尼亚（共和国）
+      ar: جمهورية ألبانيا
+  AND:
+    iso_code: AND
+    country_or_area:
+      en: Andorra (Principality of)
+      fr: Andorre (Principauté d')
+      es: Andorra (Principado de)
+      zh: Андорра (Княжество)
+      ru: 安道尔（公国）
+      ar: إمارة أندورا
+  ARE:
+    iso_code: ARE
+    country_or_area:
+      en: United Arab Emirates
+      fr: Emirats arabes unis
+      es: Emiratos Árabes Unidos
+      zh: Объединенные Арабские Эмираты
+      ru: 阿拉伯联合酋长国
+      ar: الإمارات العربية المتحدة
+  ARG:
+    iso_code: ARG
+    country_or_area:
+      en: Argentine Republic
+      fr: Argentine (République)
+      es: Argentina (República)
+      zh: Аргентинская Республика
+      ru: 阿根廷共和国
+      ar: جمهورية الأرجنتين
+  ARM:
+    iso_code: ARM
+    country_or_area:
+      en: Armenia (Republic of)
+      fr: Arménie (République d')
+      es: Armenia (República de)
+      zh: Армения (Республика)
+      ru: 亚美尼亚（共和国）
+      ar: جمهورية أرمينيا
+  ASM:
+    iso_code: ASM
+    country_or_area:
+      en: American Samoa
+      fr: Samoa américaines
+      es: Samoa Norteamericana
+      zh: Американское Самоа
+      ru: 美属萨摩亚
+      ar: ساموا الأمريكية
+  ATG:
+    iso_code: ATG
+    country_or_area:
+      en: Antigua and Barbuda
+      fr: Antigua-et-Barbuda
+      es: Antigua y Barbuda
+      zh: Антигуа и Барбуда
+      ru: 安提瓜和巴布达
+      ar: أنتيغوا وبربودا
+  AUS:
+    iso_code: AUS
+    country_or_area:
+      en: Australia
+      fr: Australie
+      es: Australia
+      zh: Австралия
+      ru: 澳大利亚
+      ar: أستراليا
+  AUT:
+    iso_code: AUT
+    country_or_area:
+      en: Austria
+      fr: Autriche
+      es: Austria
+      zh: Австрия
+      ru: 奥地利
+      ar: النمسا
+  AZE:
+    iso_code: AZE
+    country_or_area:
+      en: Azerbaijan (Republic of)
+      fr: Azerbaïdjan (République d')
+      es: Azerbaiyán (República de)
+      zh: Азербайджан (Республика)
+      ru: 阿塞拜疆（共和国）
+      ar: جمهورية أذربيجان
+  BDI:
+    iso_code: BDI
+    country_or_area:
+      en: Burundi (Republic of)
+      fr: Burundi (République du)
+      es: Burundi (República de)
+      zh: Бурунди (Республика)
+      ru: 布隆迪（共和国）
+      ar: جمهورية بوروندي
+  BEL:
+    iso_code: BEL
+    country_or_area:
+      en: Belgium
+      fr: Belgique
+      es: Bélgica
+      zh: Бельгия
+      ru: 比利时
+      ar: بلجيكا
+  BEN:
+    iso_code: BEN
+    country_or_area:
+      en: Benin (Republic of)
+      fr: Bénin (République du)
+      es: Benin (República de)
+      zh: Бенин (Республика)
+      ru: 贝宁（共和国）
+      ar: جمهورية بنن
+  BES:
+    iso_code: BES
+    country_or_area:
+      en: Bonaire, Sint Eustatius and Saba
+      fr: Bonaire, Saint-Eustache et Saba
+      es: Bonaire, San Eustaquio y Saba
+      zh: Бонэйр, Синт-Эстатиус и Саба
+      ru: 博内尔岛、圣尤斯特歇斯岛和萨巴岛
+      ar: جزر بونير وسان يوستايتوس وسابا
+  BFA:
+    iso_code: BFA
+    country_or_area:
+      en: Burkina Faso
+      fr: Burkina Faso
+      es: Burkina Faso
+      zh: Буркина-Фасо
+      ru: 布基纳法索
+      ar: بوركينا فاصو
+  BGD:
+    iso_code: BGD
+    country_or_area:
+      en: Bangladesh (People's Republic of)
+      fr: Bangladesh (République populaire du)
+      es: Bangladesh (República Popular de)
+      zh: Бангладеш (Народная Республика)
+      ru: 孟加拉（人民共和国）
+      ar: جمهورية بنغلاديش الشعبية
+  BGR:
+    iso_code: BGR
+    country_or_area:
+      en: Bulgaria (Republic of)
+      fr: Bulgarie (République de)
+      es: Bulgaria (República de)
+      zh: Болгария (Республика)
+      ru: 保加利亚（共和国）
+      ar: جمهورية بلغاريا
+  BHR:
+    iso_code: BHR
+    country_or_area:
+      en: Bahrain (Kingdom of)
+      fr: Bahreïn (Royaume de)
+      es: Bahrein (Reino de)
+      zh: Бахрейн (Королевство)
+      ru: 巴林（王国）
+      ar: مملكة البحرين
+  BHS:
+    iso_code: BHS
+    country_or_area:
+      en: Bahamas (Commonwealth of the)
+      fr: Bahamas (Commonwealth des)
+      es: Bahamas (Commonwealth de las)
+      zh: Багамские Острова (Содружество)
+      ru: 巴哈马国
+      ar: كومنولث البهاما
+  BIH:
+    iso_code: BIH
+    country_or_area:
+      en: Bosnia and Herzegovina
+      fr: Bosnie-Herzégovine
+      es: Bosnia y Herzegovina
+      zh: Босния и Герцеговина
+      ru: 波斯尼亚与黑塞哥维那
+      ar: البوسنة والهرسك
+  BLR:
+    iso_code: BLR
+    country_or_area:
+      en: Belarus (Republic of)
+      fr: Bélarus (République du)
+      es: Belarús (República de)
+      zh: Беларусь (Республика)
+      ru: 白俄罗斯（共和国）
+      ar: جمهورية بيلاروس
+  BLZ:
+    iso_code: BLZ
+    country_or_area:
+      en: Belize
+      fr: Belize
+      es: Belice
+      zh: Белиз
+      ru: 伯利兹
+      ar: بليز
+  BMU:
+    iso_code: BMU
+    country_or_area:
+      en: Bermuda
+      fr: Bermudes
+      es: Bermudas
+      zh: Бермудские острова
+      ru: 百慕大
+      ar: برمودا
+  BOL:
+    iso_code: BOL
+    country_or_area:
+      en: Bolivia (Plurinational State of)
+      fr: Bolivie (État plurinational de)
+      es: Bolivia (Estado Plurinacional de)
+      zh: Боливия (Многонациональное Государство)
+      ru: 玻利维亚（多民族国）
+      ar: دولة بوليفيا المتعددة القوميات
+  BRA:
+    iso_code: BRA
+    country_or_area:
+      en: Brazil (Federative Republic of)
+      fr: Brésil (République fédérative du)
+      es: Brasil (República Federativa del)
+      zh: Бразилия (Федеративная Республика)
+      ru: 巴西（联邦共和国）
+      ar: جمهورية البرازيل الاتحادية
+  BRB:
+    iso_code: BRB
+    country_or_area:
+      en: Barbados
+      fr: Barbade
+      es: Barbados
+      zh: Барбадос
+      ru: 巴巴多斯
+      ar: بربادوس
+  BRN:
+    iso_code: BRN
+    country_or_area:
+      en: Brunei Darussalam
+      fr: Brunéi Darussalam
+      es: Brunei Darussalam
+      zh: Бруней-Даруссалам
+      ru: 文莱达鲁萨兰国
+      ar: بروني دار السلام
+  BTN:
+    iso_code: BTN
+    country_or_area:
+      en: Bhutan (Kingdom of)
+      fr: Bhoutan (Royaume du)
+      es: Bhután (Reino de)
+      zh: Бутан (Королевство)
+      ru: 不丹（王国）
+      ar: مملكة بوتان
+  BWA:
+    iso_code: BWA
+    country_or_area:
+      en: Botswana (Republic of)
+      fr: Botswana (République du)
+      es: Botswana (República de)
+      zh: Ботсвана (Республика)
+      ru: 博茨瓦纳（共和国）
+      ar: جمهورية بوتسوانا
+  CAF:
+    iso_code: CAF
+    country_or_area:
+      en: Central African Republic
+      fr: Centrafricaine (République)
+      es: Centroafricana (República)
+      zh: Центральноафриканская Республика
+      ru: 中非共和国
+      ar: جمهورية إفريقيا الوسطى
+  CAN:
+    iso_code: CAN
+    country_or_area:
+      en: Canada
+      fr: Canada
+      es: Canadá
+      zh: Канада
+      ru: 加拿大
+      ar: كندا
+  CHE:
+    iso_code: CHE
+    country_or_area:
+      en: Switzerland (Confederation of)
+      fr: Suisse (Confédération)
+      es: Suiza (Confederación)
+      zh: Швейцария (Конфедерация)
+      ru: 瑞士（联邦）
+      ar: الاتحاد السويسري
+  CHL:
+    iso_code: CHL
+    country_or_area:
+      en: Chile
+      fr: Chili
+      es: Chile
+      zh: Чили
+      ru: 智利
+      ar: شيلي
+  CHN:
+    iso_code: CHN
+    country_or_area:
+      en: China (People's Republic of)
+      fr: Chine (République populaire de)
+      es: China (República Popular de)
+      zh: Китайская Народная Республика
+      ru: 中华人民共和国
+      ar: جمهورية الصين الشعبية
+  CIV:
+    iso_code: CIV
+    country_or_area:
+      en: Côte d'Ivoire (Republic of)
+      fr: Côte d'Ivoire (République de)
+      es: Côte d'Ivoire (República de)
+      zh: Кот-д'Ивуар (Республика)
+      ru: 科特迪瓦（共和国）
+      ar: جمهورية كوت ديفوار
+  CMR:
+    iso_code: CMR
+    country_or_area:
+      en: Cameroon (Republic of)
+      fr: Cameroun (République du)
+      es: Camerún (República de)
+      zh: Камерун (Республика)
+      ru: 喀麦隆（共和国）
+      ar: جمهورية الكاميرون
+  COD:
+    iso_code: COD
+    country_or_area:
+      en: Democratic Republic of the Congo
+      fr: République démocratique du Congo
+      es: República Democrática del Congo
+      zh: Демократическая Республика Конго
+      ru: 刚果民主共和国
+      ar: جمهورية الكونغو الديمقراطية
+  COG:
+    iso_code: COG
+    country_or_area:
+      en: Congo (Republic of the)
+      fr: Congo (République du)
+      es: Congo (República del)
+      zh: Конго (Республика)
+      ru: 刚果（共和国）
+      ar: جمهورية الكونغو
+  COK:
+    iso_code: COK
+    country_or_area:
+      en: Cook Islands
+      fr: Cook (Iles)
+      es: Cook (Islas)
+      zh: Острова Кука
+      ru: 库克群岛
+      ar: جزر كوك
+  COL:
+    iso_code: COL
+    country_or_area:
+      en: Colombia (Republic of)
+      fr: Colombie (République de)
+      es: Colombia (República de)
+      zh: Колумбия (Республика)
+      ru: 哥伦比亚（共和国）
+      ar: جمهورية كولومبيا
+  COM:
+    iso_code: COM
+    country_or_area:
+      en: Comoros (Union of the)
+      fr: Comores (Union des)
+      es: Comoras (Unión de las)
+      zh: Коморские Острова (Союз)
+      ru: 科摩罗（联盟）
+      ar: اتحاد جزر القمر
+  CPV:
+    iso_code: CPV
+    country_or_area:
+      en: Cabo Verde (Republic of)
+      fr: Cabo Verde (République de)
+      es: Cabo Verde (República de)
+      zh: Кабо-Верде (Республика)
+      ru: 佛得角（共和国）
+      ar: جمهورية كابو فيردي
+  CRI:
+    iso_code: CRI
+    country_or_area:
+      en: Costa Rica
+      fr: Costa Rica
+      es: Costa Rica
+      zh: Коста-Рика
+      ru: 哥斯达黎加
+      ar: كوستاريكا
+  CUB:
+    iso_code: CUB
+    country_or_area:
+      en: Cuba
+      fr: Cuba
+      es: Cuba
+      zh: Куба
+      ru: 古巴
+      ar: كوبا
+  CUW:
+    iso_code: CUW
+    country_or_area:
+      en: Curaçao
+      fr: Curaçao
+      es: Curaçao
+      zh: Кюрасао
+      ru: 库拉索岛
+      ar: كوراساو
+  CYM:
+    iso_code: CYM
+    country_or_area:
+      en: Cayman Islands
+      fr: Caïmanes (Iles)
+      es: Caimán (Islas)
+      zh: Каймановы острова
+      ru: 开曼群岛
+      ar: جزر كايمان
+  CYP:
+    iso_code: CYP
+    country_or_area:
+      en: Cyprus (Republic of)
+      fr: Chypre (République de)
+      es: Chipre (República de)
+      zh: Кипр (Республика)
+      ru: 塞浦路斯（共和国）
+      ar: جمهورية قبرص
+  CZE:
+    iso_code: CZE
+    country_or_area:
+      en: Czech Republic
+      fr: République tchèque
+      es: República Checa
+      zh: Чешская Республика
+      ru: 捷克共和国
+      ar: الجمهورية التشيكية
+  DEU:
+    iso_code: DEU
+    country_or_area:
+      en: Germany (Federal Republic of)
+      fr: Allemagne (République fédérale d')
+      es: Alemania (República Federal de)
+      zh: Германия (Федеративная Республика)
+      ru: 德国（联邦共和国）
+      ar: جمهورية ألمانيا الاتحادية
+  DJI:
+    iso_code: DJI
+    country_or_area:
+      en: Djibouti (Republic of)
+      fr: Djibouti (République de)
+      es: Djibouti (República de)
+      zh: Джибути (Республика)
+      ru: 吉布提（共和国）
+      ar: جمهورية جيبوتي
+  DMA:
+    iso_code: DMA
+    country_or_area:
+      en: Dominica (Commonwealth of)
+      fr: Dominique (Commonwealth de la)
+      es: Dominica (Commonwealth de)
+      zh: Доминика (Содружество)
+      ru: 多米尼克国
+      ar: كومنولث دومينيكا
+  DNK:
+    iso_code: DNK
+    country_or_area:
+      en: Denmark
+      fr: Danemark
+      es: Dinamarca
+      zh: Дания
+      ru: 丹麦
+      ar: الدانمارك
+  DOM:
+    iso_code: DOM
+    country_or_area:
+      en: Dominican Republic
+      fr: Dominicaine (République)
+      es: Dominicana (República)
+      zh: Доминиканская Республика
+      ru: 多米尼加共和国
+      ar: الجمهورية الدومينيكية
+  DZA:
+    iso_code: DZA
+    country_or_area:
+      en: Algeria (People's Democratic Republic of)
+      fr: Algérie (République algérienne démocratique et populaire)
+      es: Argelia (República Argelina Democrática y Popular)
+      zh: Алжир (Народная Демократическая Республика)
+      ru: 阿尔及利亚 （民主人民共和国）
+      ar: جمهورية الجزائر الديمقراطية الشعبية
+  ECU:
+    iso_code: ECU
+    country_or_area:
+      en: Ecuador
+      fr: Equateur
+      es: Ecuador
+      zh: Эквадор
+      ru: 厄瓜多尔
+      ar: إكوادور
+  EGY:
+    iso_code: EGY
+    country_or_area:
+      en: Egypt (Arab Republic of)
+      fr: Egypte (République arabe d')
+      es: Egipto (República Arabe de)
+      zh: Египет (Арабская Республика)
+      ru: 阿拉伯埃及共和国
+      ar: جمهورية مصر العربية
+  ERI:
+    iso_code: ERI
+    country_or_area:
+      en: Eritrea
+      fr: Erythrée
+      es: Eritrea
+      zh: Эритрея
+      ru: 厄立特里亚
+      ar: إريتريا
+  ESP:
+    iso_code: ESP
+    country_or_area:
+      en: Spain
+      fr: Espagne
+      es: España
+      zh: Испания
+      ru: 西班牙
+      ar: إسبانيا
+  EST:
+    iso_code: EST
+    country_or_area:
+      en: Estonia (Republic of)
+      fr: Estonie (République d')
+      es: Estonia (República de)
+      zh: Эстония (Республика)
+      ru: 爱沙尼亚（共和国）
+      ar: جمهورية إستونيا
+  ETH:
+    iso_code: ETH
+    country_or_area:
+      en: Ethiopia (Federal Democratic Republic of)
+      fr: Ethiopie (République fédérale démocratique d')
+      es: Etiopía (República Democrática Federal de)
+      zh: Эфиопия (Федеративная Демократическая Республика)
+      ru: 埃塞俄比亚（联邦民主共和国）
+      ar: جمهورية إثيوبيا الاتحادية الديمقراطية
+  FIN:
+    iso_code: FIN
+    country_or_area:
+      en: Finland
+      fr: Finlande
+      es: Finlandia
+      zh: Финляндия
+      ru: 芬兰
+      ar: فنلندا
+  FJI:
+    iso_code: FJI
+    country_or_area:
+      en: Fiji (Republic of)
+      fr: Fidji (République de)
+      es: Fiji (República de)
+      zh: Фиджи (Республика)
+      ru: 斐济（共和国）
+      ar: جمهورية فيجي
+  FLK:
+    iso_code: FLK
+    country_or_area:
+      en: Falkland Islands (Malvinas)
+      fr: Falkland (Iles) (Malvinas)
+      es: Malvinas (Islas) (Falkland)
+      zh: Фолклендские (Мальвинские) острова
+      ru: 福克兰群岛（马尔维纳斯群岛）
+      ar: جزر فوكلاند (مالفيناس)
+  FRA:
+    iso_code: FRA
+    country_or_area:
+      en: France
+      fr: France
+      es: Francia
+      zh: Франция
+      ru: 法国
+      ar: فرنسا
+  FRO:
+    iso_code: FRO
+    country_or_area:
+      en: Faroe Islands
+      fr: Féroé (Iles)
+      es: Feroe (Islas)
+      zh: Фарерские острова
+      ru: 法罗群岛
+      ar: جزر فارويه
+  FSM:
+    iso_code: FSM
+    country_or_area:
+      en: Micronesia (Federated States of)
+      fr: Micronésie (Etats fédérés de)
+      es: Micronesia (Estados federados de)
+      zh: Микронезия (Федеративные Штаты)
+      ru: 密克罗尼西亚 （联邦）
+      ar: ولايات ميكرونيزيا الموحدة
+  GAB:
+    iso_code: GAB
+    country_or_area:
+      en: Gabonese Republic
+      fr: Gabonaise (République)
+      es: Gabonesa (República)
+      zh: Габонская Республика
+      ru: 加蓬共和国
+      ar: الجمهورية الغابونية
+  GBR:
+    iso_code: GBR
+    country_or_area:
+      en: United Kingdom of Great Britain and Northern Ireland
+      fr: Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+      es: Reino Unido de Gran Bretaña e Irlanda del Norte
+      zh: Соединенное Королевство Великобритании и Северной Ирландии
+      ru: 大不列颠及北爱尔兰联合王国
+      ar: المملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية
+  GEO:
+    iso_code: GEO
+    country_or_area:
+      en: Georgia
+      fr: Géorgie
+      es: Georgia
+      zh: Грузия
+      ru: 格鲁吉亚
+      ar: جورجيا
+  GHA:
+    iso_code: GHA
+    country_or_area:
+      en: Ghana
+      fr: Ghana
+      es: Ghana
+      zh: Гана
+      ru: 加纳
+      ar: غانا
+  GIB:
+    iso_code: GIB
+    country_or_area:
+      en: Gibraltar
+      fr: Gibraltar
+      es: Gibraltar
+      zh: Гибралтар
+      ru: 直布罗陀
+      ar: جبل طارق
+  GIN:
+    iso_code: GIN
+    country_or_area:
+      en: Guinea (Republic of)
+      fr: Guinée (République de)
+      es: Guinea (República de)
+      zh: Гвинея (Республика)
+      ru: 几内亚（共和国）
+      ar: جمهورية غينيا
+  GLP:
+    iso_code: GLP
+    country_or_area:
+      en: Guadeloupe (French Department of)
+      fr: Guadeloupe (Département français de la)
+      es: Guadalupe (Departamento francés de la)
+      zh: Гваделупа (Департамент Франции)
+      ru: 法属瓜德罗普省
+      ar: مقاطعة غوادلوب الفرنسية
+  GMB:
+    iso_code: GMB
+    country_or_area:
+      en: Gambia (Republic of the)
+      fr: Gambie (République de)
+      es: Gambia (República de)
+      zh: Гамбия (Республика)
+      ru: 冈比亚（共和国）
+      ar: جمهورية غامبيا
+  GNB:
+    iso_code: GNB
+    country_or_area:
+      en: Guinea-Bissau (Republic of)
+      fr: Guinée-Bissau (République de)
+      es: Guinea-Bissau (República de)
+      zh: Гвинея-Бисау (Республика)
+      ru: 几内亚比绍（共和国）
+      ar: جمهورية غينيا - بيساو
+  GNQ:
+    iso_code: GNQ
+    country_or_area:
+      en: Equatorial Guinea (Republic of)
+      fr: Guinée équatoriale (République de)
+      es: Guinea Ecuatorial (República de)
+      zh: Экваториальная Гвинея (Республика)
+      ru: 赤道几内亚（共和国）
+      ar: جمهورية غينيا الاستوائية
+  GRC:
+    iso_code: GRC
+    country_or_area:
+      en: Greece
+      fr: Grèce
+      es: Grecia
+      zh: Греция
+      ru: 希腊
+      ar: اليونان
+  GRD:
+    iso_code: GRD
+    country_or_area:
+      en: Grenada
+      fr: Grenade
+      es: Granada
+      zh: Гренада
+      ru: 格林纳达
+      ar: غرينادا
+  GRL:
+    iso_code: GRL
+    country_or_area:
+      en: Greenland (Denmark)
+      fr: Groenland (Danemark)
+      es: Groenlandia (Dinamarca)
+      zh: Гренландия (Дания)
+      ru: 格陵兰（丹麦）
+      ar: غرينلاند (الدانمارك)
+  GTM:
+    iso_code: GTM
+    country_or_area:
+      en: Guatemala (Republic of)
+      fr: Guatemala (République du)
+      es: Guatemala (República de)
+      zh: Гватемала (Республика)
+      ru: 危地马拉（共和国）
+      ar: جمهورية غواتيمالا
+  GUF:
+    iso_code: GUF
+    country_or_area:
+      en: French Guiana (French Department of)
+      fr: Guyane française (Département français de la)
+      es: Guayana francesa (Departamento francés de la)
+      zh: Французская Гвиана (Департамент Франции)
+      ru: 法属圭亚那
+      ar: مقاطعة غويانا الفرنسية
+  GUM:
+    iso_code: GUM
+    country_or_area:
+      en: Guam
+      fr: Guam
+      es: Guam
+      zh: Гуам
+      ru: 关岛
+      ar: غوام
+  GUY:
+    iso_code: GUY
+    country_or_area:
+      en: Guyana
+      fr: Guyana
+      es: Guyana
+      zh: Гайана
+      ru: 圭亚那
+      ar: غُيانا
+  HKG:
+    iso_code: HKG
+    country_or_area:
+      en: Hong Kong, China
+      fr: Hong Kong, Chine
+      es: Hong Kong, China
+      zh: Гонконг, Китай
+      ru: 中国香港
+      ar: هونغ كونغ، الصين
+  HND:
+    iso_code: HND
+    country_or_area:
+      en: Honduras (Republic of)
+      fr: Honduras (République du)
+      es: Honduras (República de)
+      zh: Гондурас (Республика)
+      ru: 洪都拉斯（共和国）
+      ar: جمهورية هندوراس
+  HRV:
+    iso_code: HRV
+    country_or_area:
+      en: Croatia (Republic of)
+      fr: Croatie (République de)
+      es: Croacia (República de)
+      zh: Хорватия (Республика)
+      ru: 克罗地亚（共和国）
+      ar: جمهورية كرواتيا
+  HTI:
+    iso_code: HTI
+    country_or_area:
+      en: Haiti (Republic of)
+      fr: Haïti (République d')
+      es: Haití (República de)
+      zh: Гаити (Республика)
+      ru: 海地（共和国）
+      ar: جمهورية هايتي
+  HUN:
+    iso_code: HUN
+    country_or_area:
+      en: Hungary
+      fr: Hongrie
+      es: Hungría
+      zh: Венгрия
+      ru: 匈牙利
+      ar: هنغاريا
+  IDN:
+    iso_code: IDN
+    country_or_area:
+      en: Indonesia (Republic of)
+      fr: Indonésie (République d')
+      es: Indonesia (República de)
+      zh: Индонезия (Республика)
+      ru: 印度尼西亚（共和国）
+      ar: جمهورية إندونيسيا
+  IND:
+    iso_code: IND
+    country_or_area:
+      en: India (Republic of)
+      fr: Inde (République de l')
+      es: India (República de la)
+      zh: Индия (Республика)
+      ru: 印度（共和国）
+      ar: جمهورية الهند
+  IOT:
+    iso_code: IOT
+    country_or_area:
+      en: Diego Garcia
+      fr: Diego Garcia
+      es: Diego García
+      zh: Диего-Гарсия
+      ru: 迪戈加西亚岛
+      ar: ديغو غارسيا
+  IRL:
+    iso_code: IRL
+    country_or_area:
+      en: Ireland
+      fr: Irlande
+      es: Irlanda
+      zh: Ирландия
+      ru: 爱尔兰
+      ar: أيرلندا
+  IRN:
+    iso_code: IRN
+    country_or_area:
+      en: Iran (Islamic Republic of)
+      fr: Iran (République islamique d')
+      es: Irán (República Islámica del)
+      zh: Иран (Исламская Республика)
+      ru: 伊朗（伊斯兰共和国）
+      ar: جمهورية إيران الإسلامية
+  IRQ:
+    iso_code: IRQ
+    country_or_area:
+      en: Iraq (Republic of)
+      fr: Iraq (République d')
+      es: Iraq (República del)
+      zh: Ирак (Республика)
+      ru: 伊拉克（共和国）
+      ar: الجمهورية العراقية
+  ISL:
+    iso_code: ISL
+    country_or_area:
+      en: Iceland
+      fr: Islande
+      es: Islandia
+      zh: Исландия
+      ru: 冰岛
+      ar: أيسلندا
+  ISR:
+    iso_code: ISR
+    country_or_area:
+      en: Israel (State of)
+      fr: Israël (Etat d')
+      es: Israel (Estado de)
+      zh: Израиль (Государство)
+      ru: 以色列（国）
+      ar: دولة إسرائيل
+  ITA:
+    iso_code: ITA
+    country_or_area:
+      en: Italy
+      fr: Cité du Vatican (Etat de la)
+      es: Ciudad del Vaticano (Estado de la)
+      zh: Италия
+      ru: 意大利
+      ar: إيطاليا
+  JAM:
+    iso_code: JAM
+    country_or_area:
+      en: Jamaica
+      fr: Jamaïque
+      es: Jamaica
+      zh: Ямайка
+      ru: 牙买加
+      ar: جامايكا
+  JEY:
+    iso_code: JEY
+    country_or_area:
+      en: 'Channel Islands: Jersey'
+      fr: 'Channel Islands: Jersey'
+      es: 'Channel Islands: Jersey'
+      zh: 'Channel Islands: Jersey'
+      ru: 'Channel Islands: Jersey'
+      ar: 'Channel Islands: Jersey'
+  JOR:
+    iso_code: JOR
+    country_or_area:
+      en: Jordan (Hashemite Kingdom of)
+      fr: Jordanie (Royaume hachémite de)
+      es: Jordania (Reino Hachemita de)
+      zh: Иордания (Хашимитское Королевство)
+      ru: 约旦（哈希姆王国）
+      ar: المملكة الأردنية الهاشمية
+  JPN:
+    iso_code: JPN
+    country_or_area:
+      en: Japan
+      fr: Japon
+      es: Japón
+      zh: Япония
+      ru: 日本
+      ar: اليابان
+  KAZ:
+    iso_code: KAZ
+    country_or_area:
+      en: Kazakhstan (Republic of)
+      fr: Kazakhstan (République du)
+      es: Kazajstán (República de)
+      zh: Казахстан (Республика)
+      ru: 哈萨克斯坦（共和国）
+      ar: جمهورية كازاخستان
+  KEN:
+    iso_code: KEN
+    country_or_area:
+      en: Kenya (Republic of)
+      fr: Kenya (République du)
+      es: Kenya (República de)
+      zh: Кения (Республика)
+      ru: 肯尼亚（共和国）
+      ar: جمهورية كينيا
+  KGZ:
+    iso_code: KGZ
+    country_or_area:
+      en: Kyrgyz Republic
+      fr: République kirghize
+      es: República Kirguisa
+      zh: Кыргызская Республика
+      ru: 吉尔吉斯共和国
+      ar: جمهورية قيرغيزستان
+  KHM:
+    iso_code: KHM
+    country_or_area:
+      en: Cambodia (Kingdom of)
+      fr: Cambodge (Royaume du)
+      es: Camboya (Reino de)
+      zh: Камбоджа (Королевство)
+      ru: 柬埔寨（王国）
+      ar: مملكة كمبوديا
+  KIR:
+    iso_code: KIR
+    country_or_area:
+      en: Kiribati (Republic of)
+      fr: Kiribati (République de)
+      es: Kiribati (República de)
+      zh: Кирибати (Республика)
+      ru: 基里巴斯（共和国）
+      ar: جمهورية كيريباتي
+  KNA:
+    iso_code: KNA
+    country_or_area:
+      en: Saint Kitts and Nevis
+      fr: Saint-Kitts-et-Nevis
+      es: San Kitts y Nieves
+      zh: Сент-Китс и Невис
+      ru: 圣基茨和尼维斯
+      ar: سانت كيتس ونيفيس
+  KOR:
+    iso_code: KOR
+    country_or_area:
+      en: Korea (Republic of)
+      fr: Corée (République de)
+      es: Corea (República de)
+      zh: Корея (Республика)
+      ru: 大韩民国
+      ar: جمهورية كوريا
+  KWT:
+    iso_code: KWT
+    country_or_area:
+      en: Kuwait (State of)
+      fr: Koweït (Etat du)
+      es: Kuwait (Estado de)
+      zh: Кувейт (Государство)
+      ru: 科威特（国）
+      ar: دولة الكويت
+  LAO:
+    iso_code: LAO
+    country_or_area:
+      en: Lao People's Democratic Republic
+      fr: Lao (République démocratique populaire)
+      es: Lao (República Democrática Popular)
+      zh: Лаосская Народно-Демократическая Республика
+      ru: 老挝（人民民主共和国）
+      ar: جمهورية لاو الديمقراطية الشعبية
+  LBN:
+    iso_code: LBN
+    country_or_area:
+      en: Lebanon
+      fr: Liban
+      es: Líbano
+      zh: Ливан
+      ru: 黎巴嫩
+      ar: لبنان
+  LBR:
+    iso_code: LBR
+    country_or_area:
+      en: Liberia (Republic of)
+      fr: Libéria (République du)
+      es: Liberia (República de)
+      zh: Либерия (Республика)
+      ru: 利比里亚（共和国）
+      ar: جمهورية ليبيريا
+  LBY:
+    iso_code: LBY
+    country_or_area:
+      en: Libya
+      fr: Libye
+      es: Libia
+      zh: Ливия
+      ru: 利比亚
+      ar: ليبيا
+  LCA:
+    iso_code: LCA
+    country_or_area:
+      en: Saint Lucia
+      fr: Sainte-Lucie
+      es: Santa Lucía
+      zh: Сент-Люсия
+      ru: 圣卢西亚
+      ar: سانت لوسيا
+  LIE:
+    iso_code: LIE
+    country_or_area:
+      en: Liechtenstein (Principality of)
+      fr: Liechtenstein (Principauté de)
+      es: Liechtenstein (Principado de)
+      zh: Лихтенштейн (Княжество)
+      ru: 列支敦士登（公国）
+      ar: إمارة ليختنشتاين
+  LKA:
+    iso_code: LKA
+    country_or_area:
+      en: Sri Lanka (Democratic Socialist Republic of)
+      fr: Sri Lanka (République socialiste démocratique de)
+      es: Sri Lanka (República Socialista Democrática de)
+      zh: Шри-Ланка (Демократическая Социалистическая  Республика)
+      ru: 斯里兰卡（民主社会主义共和国）
+      ar: جمهورية سري لانكا الاشتراكية الديمقراطية
+  LSO:
+    iso_code: LSO
+    country_or_area:
+      en: Lesotho (Kingdom of)
+      fr: Lesotho (Royaume du)
+      es: Lesotho (Reino de)
+      zh: Лесото (Королевство)
+      ru: 莱索托（王国）
+      ar: مملكة ليسوتو
+  LTU:
+    iso_code: LTU
+    country_or_area:
+      en: Lithuania (Republic of)
+      fr: Lituanie (République de)
+      es: Lituania (República de)
+      zh: Литва (Республика)
+      ru: 立陶宛（共和国）
+      ar: جمهورية ليتوانيا
+  LUX:
+    iso_code: LUX
+    country_or_area:
+      en: Luxembourg
+      fr: Luxembourg
+      es: Luxemburgo
+      zh: Люксембург
+      ru: 卢森堡
+      ar: لكسمبرغ
+  LVA:
+    iso_code: LVA
+    country_or_area:
+      en: Latvia (Republic of)
+      fr: Lettonie (République de)
+      es: Letonia (República de)
+      zh: Латвия (Республика)
+      ru: 拉脱维亚（共和国）
+      ar: جمهورية لاتفيا
+  MAC:
+    iso_code: MAC
+    country_or_area:
+      en: Macao, China
+      fr: Macao, Chine
+      es: Macao, China
+      zh: Макао, Китай
+      ru: 中国澳门
+      ar: ماكاو، الصين
+  MAR:
+    iso_code: MAR
+    country_or_area:
+      en: Morocco (Kingdom of)
+      fr: Maroc (Royaume du)
+      es: Marruecos (Reino de)
+      zh: Марокко (Королевство)
+      ru: 摩洛哥（王国）
+      ar: المملكة المغربية
+  MCO:
+    iso_code: MCO
+    country_or_area:
+      en: Monaco (Principality of)
+      fr: Monaco (Principauté de)
+      es: Mónaco (Principado de)
+      zh: Монако (Княжество)
+      ru: 摩纳哥（公国）
+      ar: إمارة موناكو
+  MDA:
+    iso_code: MDA
+    country_or_area:
+      en: Moldova (Republic of)
+      fr: Moldova (République de)
+      es: Moldova (República de)
+      zh: Молдова (Республика)
+      ru: 摩尔多瓦（共和国）
+      ar: جمهورية مولدوفا
+  MDG:
+    iso_code: MDG
+    country_or_area:
+      en: Madagascar (Republic of)
+      fr: Madagascar (République de)
+      es: Madagascar (República de)
+      zh: Мадагаскар (Республика)
+      ru: 马达加斯加（共和国）
+      ar: جمهورية مدغشقر
+  MDV:
+    iso_code: MDV
+    country_or_area:
+      en: Maldives (Republic of)
+      fr: Maldives (République des)
+      es: Maldivas (República de)
+      zh: Мальдивская Республика
+      ru: 马尔代夫（共和国）
+      ar: جمهورية ملديف
+  MEX:
+    iso_code: MEX
+    country_or_area:
+      en: Mexico
+      fr: Mexique
+      es: México
+      zh: Мексика
+      ru: 墨西哥
+      ar: المكسيك
+  MKD:
+    iso_code: MKD
+    country_or_area:
+      en: The Former Yugoslav Republic of Macedonia
+      fr: L'ex-République yougoslave de Macédoine
+      es: La ex República Yugoslava de Macedonia
+      zh: бывшая югославская Республика Македония
+      ru: 前南斯拉夫马其顿共和国
+      ar: جمهورية مقدونيا اليوغوسلافية السابقة
+  MLH:
+    iso_code: MLH
+    country_or_area:
+      en: Marshall Islands (Republic of the)
+      fr: Marshall (République des Iles)
+      es: Marshall (República de las Islas)
+      zh: Маршалловы Острова (Республика)
+      ru: 马绍尔群岛 （共和国）
+      ar: جمهورية جزر مارشال
+  MLI:
+    iso_code: MLI
+    country_or_area:
+      en: Mali (Republic of)
+      fr: Mali (République du)
+      es: Malí (República de)
+      zh: Мали (Республика)
+      ru: 马里（共和国）
+      ar: جمهورية مالي
+  MLT:
+    iso_code: MLT
+    country_or_area:
+      en: Malta
+      fr: Malte
+      es: Malta
+      zh: Мальта
+      ru: 马耳他
+      ar: مالطة
+  MMR:
+    iso_code: MMR
+    country_or_area:
+      en: Myanmar (the Republic of the Union of)
+      fr: Myanmar (République de l'Union du)
+      es: Myanmar (República de la Unión de)
+      zh: Республика Союза Мьянма
+      ru: 缅甸（联邦共和国）
+      ar: جمهورية اتحاد ميانمار
+  MNE:
+    iso_code: MNE
+    country_or_area:
+      en: Montenegro
+      fr: Monténégro
+      es: Montenegro
+      zh: Черногория
+      ru: 黑山
+      ar: الجبل الأسود
+  MNG:
+    iso_code: MNG
+    country_or_area:
+      en: Mongolia
+      fr: Mongolie
+      es: Mongolia
+      zh: Монголия
+      ru: 蒙古
+      ar: منغوليا
+  MNP:
+    iso_code: MNP
+    country_or_area:
+      en: Northern Mariana Islands (Commonwealth of the)
+      fr: Mariannes du Nord (Iles) (Commonwealth des)
+      es: Marianas del Norte (Islas) (Commonwealth de las)
+      zh: Северные Марианские острова (Содружество)
+      ru: 北马里亚纳群岛（联邦共和国）
+      ar: كومنولث جزر ماريانا الشمالية
+  MOZ:
+    iso_code: MOZ
+    country_or_area:
+      en: Mozambique (Republic of)
+      fr: Mozambique (République du)
+      es: Mozambique (República de)
+      zh: Мозамбик (Республика)
+      ru: 莫桑比克（共和国）
+      ar: جمهورية موزامبيق
+  MRT:
+    iso_code: MRT
+    country_or_area:
+      en: Mauritania (Islamic Republic of)
+      fr: Mauritanie (République islamique de)
+      es: Mauritania (República Islámica de)
+      zh: Мавритания (Исламская Республика)
+      ru: 毛里塔尼亚（伊斯兰共和国）
+      ar: جمهورية موريتانيا الإسلامية
+  MSR:
+    iso_code: MSR
+    country_or_area:
+      en: Montserrat
+      fr: Montserrat
+      es: Montserrat
+      zh: Монтсеррат
+      ru: 蒙特塞拉特岛
+      ar: مونسيرات
+  MTQ:
+    iso_code: MTQ
+    country_or_area:
+      en: Martinique (French Department of)
+      fr: Martinique (Département français de la)
+      es: Martinica (Departamento francés de la)
+      zh: Мартиника (Департамент Франции)
+      ru: 法属马提尼克
+      ar: مقاطعة المارتينيك الفرنسية
+  MUS:
+    iso_code: MUS
+    country_or_area:
+      en: Mauritius (Republic of)
+      fr: Maurice (République de)
+      es: Mauricio (República de)
+      zh: Маврикий (Республика)
+      ru: 毛里求斯（共和国）
+      ar: جمهورية موريشيوس
+  MWI:
+    iso_code: MWI
+    country_or_area:
+      en: Malawi
+      fr: Malawi
+      es: Malawi
+      zh: Малави
+      ru: 马拉维
+      ar: ملاوي
+  MYS:
+    iso_code: MYS
+    country_or_area:
+      en: Malaysia
+      fr: Malaisie
+      es: Malasia
+      zh: Малайзия
+      ru: 马来西亚
+      ar: ماليزيا
+  NAM:
+    iso_code: NAM
+    country_or_area:
+      en: Namibia (Republic of)
+      fr: Namibie (République de)
+      es: Namibia (República de)
+      zh: Намибия (Республика)
+      ru: 纳米比亚（共和国）
+      ar: جمهورية ناميبيا
+  NCL:
+    iso_code: NCL
+    country_or_area:
+      en: New Caledonia (Territoire français d'outre-mer)
+      fr: Nouvelle-Calédonie (Territoire français d'outre-mer)
+      es: Nueva Caledonia (Territoire français d'outre-mer)
+      zh: Новая Каледония (Французские заморские территории)
+      ru: 新喀里多尼亚（法国海外领地）
+      ar: كاليدونيا الجديدة (إقليم فرنسي فيما وراء البحار)
+  NER:
+    iso_code: NER
+    country_or_area:
+      en: Niger (Republic of the)
+      fr: Niger (République du)
+      es: Níger (República del)
+      zh: Нигер (Республика)
+      ru: 尼日尔（共和国）
+      ar: جمهورية النيجر
+  NGA:
+    iso_code: NGA
+    country_or_area:
+      en: Nigeria (Federal Republic of)
+      fr: Nigéria (République fédérale du)
+      es: Nigeria (República Federal de)
+      zh: Нигерия (Федеративная Республика)
+      ru: 尼日利亚 （联邦共和国）
+      ar: جمهورية نيجيريا الاتحادية
+  NIC:
+    iso_code: NIC
+    country_or_area:
+      en: Nicaragua
+      fr: Nicaragua
+      es: Nicaragua
+      zh: Никарагуа
+      ru: 尼加拉瓜
+      ar: نيكاراغوا
+  NIU:
+    iso_code: NIU
+    country_or_area:
+      en: Niue
+      fr: Niue
+      es: Niue
+      zh: Ниуэ
+      ru: 纽埃岛
+      ar: نيوي
+  NLD:
+    iso_code: NLD
+    country_or_area:
+      en: Netherlands (Kingdom of the)
+      fr: Pays-Bas (Royaume des)
+      es: Países Bajos (Reino de los)
+      zh: Нидерланды (Королевство)
+      ru: 荷兰（王国）
+      ar: مملكة هولندا
+  NOR:
+    iso_code: NOR
+    country_or_area:
+      en: Norway
+      fr: Norvège
+      es: Noruega
+      zh: Норвегия
+      ru: 挪威
+      ar: النرويج
+  NPL:
+    iso_code: NPL
+    country_or_area:
+      en: Nepal (Federal Democratic Republic of)
+      fr: Népal (République fédérale démocratique du)
+      es: Nepal (República Democrática Federal de)
+      zh: Непал (Федеративная Демократическая Республика)
+      ru: 尼泊尔
+      ar: جمهورية نيبال الاتحادية الديمقراطية
+  NRU:
+    iso_code: NRU
+    country_or_area:
+      en: Nauru (Republic of)
+      fr: Nauru (République de)
+      es: Nauru (República de)
+      zh: Науру (Республика)
+      ru: 瑙鲁（共和国）
+      ar: جمهورية ناورو
+  NZL:
+    iso_code: NZL
+    country_or_area:
+      en: New Zealand
+      fr: Nouvelle-Zélande
+      es: Nueva Zelandia
+      zh: Новая Зеландия
+      ru: 新西兰
+      ar: نيوزيلندا
+  OMN:
+    iso_code: OMN
+    country_or_area:
+      en: Oman (Sultanate of)
+      fr: Oman (Sultanat d')
+      es: Omán (Sultanía de)
+      zh: Оман (Султанат)
+      ru: 阿曼（苏丹国）
+      ar: سلطنة عُمان
+  PAK:
+    iso_code: PAK
+    country_or_area:
+      en: Pakistan (Islamic Republic of)
+      fr: Pakistan (République islamique du)
+      es: Pakistán (República Islámica del)
+      zh: Пакистан (Исламская Республика)
+      ru: 巴基斯坦（伊斯兰共和国）
+      ar: جمهورية باكستان الإسلامية
+  PAN:
+    iso_code: PAN
+    country_or_area:
+      en: Panama (Republic of)
+      fr: Panama (République du)
+      es: Panamá (República de)
+      zh: Панама (Республика)
+      ru: 巴拿马（共和国）
+      ar: جمهورية بنما
+  PER:
+    iso_code: PER
+    country_or_area:
+      en: Peru
+      fr: Pérou
+      es: Perú
+      zh: Перу
+      ru: 秘鲁
+      ar: بيرو
+  PHL:
+    iso_code: PHL
+    country_or_area:
+      en: Philippines (Republic of the)
+      fr: Philippines (République des)
+      es: Filipinas (República de)
+      zh: Филиппины (Республика)
+      ru: 菲律宾（共和国）
+      ar: جمهورية الفلبين
+  PLW:
+    iso_code: PLW
+    country_or_area:
+      en: Palau (Republic of)
+      fr: Palaos (République des)
+      es: Palau (República de)
+      zh: Палау (Республика)
+      ru: 帕劳（共和国）
+      ar: جمهورية بالاو
+  PNG:
+    iso_code: PNG
+    country_or_area:
+      en: Papua New Guinea
+      fr: Papouasie-Nouvelle-Guinée
+      es: Papua Nueva Guinea
+      zh: Папуа-Новая Гвинея
+      ru: 巴布亚新几内亚
+      ar: بابوا - غينيا الجديدة
+  POL:
+    iso_code: POL
+    country_or_area:
+      en: Poland (Republic of)
+      fr: Pologne (République de)
+      es: Polonia (República de)
+      zh: Польша (Республика)
+      ru: 波兰（共和国）
+      ar: جمهورية بولندا
+  PRI:
+    iso_code: PRI
+    country_or_area:
+      en: Puerto Rico
+      fr: Puerto Rico
+      es: Puerto Rico
+      zh: Пуэрто-Рико
+      ru: 波多黎各
+      ar: بورتوريكو
+  PRK:
+    iso_code: PRK
+    country_or_area:
+      en: Democratic People's Republic of Korea
+      fr: République populaire démocratique de Corée
+      es: República Popular Democrática de Corea
+      zh: Корейская Народно-Демократическая Республика
+      ru: 朝鲜民主主义人民共和国
+      ar: جمهورية كوريا الشعبية الديمقراطية
+  PRT:
+    iso_code: PRT
+    country_or_area:
+      en: Portugal
+      fr: Portugal
+      es: Portugal
+      zh: Португалия
+      ru: 葡萄牙
+      ar: البرتغال
+  PRY:
+    iso_code: PRY
+    country_or_area:
+      en: Paraguay (Republic of)
+      fr: Paraguay (République du)
+      es: Paraguay (República del)
+      zh: Парагвай (Республика)
+      ru: 巴拉圭（共和国）
+      ar: جمهورية باراغواي
+  PYF:
+    iso_code: PYF
+    country_or_area:
+      en: French Polynesia (Territoire français d'outre-mer)
+      fr: Polynésie française (Territoire français d'outre-mer)
+      es: Polinesia francesa (Territoire français d'outre-mer)
+      zh: Французская Полинезия (Французские заморские территории)
+      ru: 法属波利尼西亚
+      ar: بولينيزيا الفرنسية (إقليم فرنسي فيما وراء البحار)
+  QAT:
+    iso_code: QAT
+    country_or_area:
+      en: Qatar (State of)
+      fr: Qatar (Etat du)
+      es: Qatar (Estado de)
+      zh: Катар (Государство)
+      ru: 卡塔尔（国）
+      ar: دولة قطر
+  REU:
+    iso_code: REU
+    country_or_area:
+      en: French Departments and Territories in the Indian Ocean
+      fr: France de l'Océan indien
+      es: Departamentos y territorios franceses del Océano Indico
+      zh: Французские департаменты и территории в Индийском океане
+      ru: 印度洋法属海外省和领地
+      ar: المقاطعات والأراضي الفرنسية في المحيط الهندي
+  ROU:
+    iso_code: ROU
+    country_or_area:
+      en: Romania
+      fr: Roumanie
+      es: Rumania
+      zh: Румыния
+      ru: 罗马尼亚
+      ar: رومانيا
+  RUS:
+    iso_code: RUS
+    country_or_area:
+      en: Russian Federation
+      fr: Russie (Fédération de)
+      es: Rusia (Federación de)
+      zh: Российская Федерация
+      ru: 俄罗斯联邦
+      ar: الاتحاد الروسي
+  RWA:
+    iso_code: RWA
+    country_or_area:
+      en: Rwanda (Republic of)
+      fr: Rwanda (République du)
+      es: Rwanda (República de)
+      zh: Руанда (Республика)
+      ru: 卢旺达（共和国）
+      ar: جمهورية رواندا
+  SAU:
+    iso_code: SAU
+    country_or_area:
+      en: Saudi Arabia (Kingdom of)
+      fr: Arabie saoudite (Royaume d')
+      es: Arabia Saudita (Reino de)
+      zh: Саудовская Аравия (Королевство)
+      ru: 沙特阿拉伯（王国）
+      ar: المملكة العربية السعودية
+  SDN:
+    iso_code: SDN
+    country_or_area:
+      en: Sudan (Republic of the)
+      fr: Soudan (République du)
+      es: Sudán (República del)
+      zh: Судан (Республика)
+      ru: 苏丹（共和国）
+      ar: جمهورية السودان
+  SEN:
+    iso_code: SEN
+    country_or_area:
+      en: Senegal (Republic of)
+      fr: Sénégal (République du)
+      es: Senegal (República del)
+      zh: Сенегал (Республика)
+      ru: 塞内加尔（共和国）
+      ar: جمهورية السنغال
+  SGP:
+    iso_code: SGP
+    country_or_area:
+      en: Singapore (Republic of)
+      fr: Singapour (République de)
+      es: Singapur (República de)
+      zh: Сингапур (Республика)
+      ru: 新加坡（共和国）
+      ar: جمهورية سنغافورة
+  SHN:
+    iso_code: SHN
+    country_or_area:
+      en: Saint Helena, Ascension and Tristan da Cunha
+      fr: Sainte-Hélène, Ascension et Tristan da Cunha
+      es: Santa Elena, Ascension y Tristan da Cunha
+      zh: Острова Св. Елены, Вознесения и Тристан-да-Кунья
+      ru: 圣赫勒拿、阿森松和特里斯坦-达库尼亚
+      ar: سانت هيلانة وأسانسيون وتريستان دا كونها
+  SLB:
+    iso_code: SLB
+    country_or_area:
+      en: Solomon Islands
+      fr: Salomon (Iles)
+      es: Salomón (Islas)
+      zh: Соломоновы Острова
+      ru: 所罗门群岛
+      ar: جزر سليمان
+  SLE:
+    iso_code: SLE
+    country_or_area:
+      en: Sierra Leone
+      fr: Sierra Leone
+      es: Sierra Leona
+      zh: Сьерра-Леоне
+      ru: 塞拉利昂
+      ar: سيراليون
+  SLV:
+    iso_code: SLV
+    country_or_area:
+      en: El Salvador (Republic of)
+      fr: El Salvador (République d')
+      es: El Salvador (República de)
+      zh: Эль-Сальвадор (Республика)
+      ru: 萨尔瓦多（共和国）
+      ar: جمهورية السلفادور
+  SMR:
+    iso_code: SMR
+    country_or_area:
+      en: San Marino (Republic of)
+      fr: Saint-Marin (République de)
+      es: San Marino (República de)
+      zh: Сан-Марино Республика)
+      ru: 圣马力诺（共和国）
+      ar: جمهورية سان مارينو
+  SOM:
+    iso_code: SOM
+    country_or_area:
+      en: Somalia (Federal Republic of)
+      fr: Somalie (République fédérale de)
+      es: Somalia (República Federal de)
+      zh: Сомали (Федеративная Республика)
+      ru: 索马里（联邦共和国）
+      ar: جمهورية الصومال الاتحادية
+  SPM:
+    iso_code: SPM
+    country_or_area:
+      en: Saint Pierre and Miquelon (Collectivité territoriale de la République française)
+      fr: Saint-Pierre-et-Miquelon (Collectivité territoriale de la République française)
+      es: San Pedro y Miquelón (Collectivité territoriale de la République française)
+      zh: Сен-Пьер и Микелон (территориальная единица Французской Республики)
+      ru: 圣皮埃尔岛和密克隆岛（法属领土）
+      ar: سان بيير وميكيلون (أراض جماعية للجمهورية الفرنسية)
+  SRB:
+    iso_code: SRB
+    country_or_area:
+      en: Serbia (Republic of)
+      fr: Serbie (République de)
+      es: Serbia (República de)
+      zh: Сербия (Республика)
+      ru: 塞尔维亚（共和国）
+      ar: جمهورية صربيا
+  SSD:
+    iso_code: SSD
+    country_or_area:
+      en: South Sudan (Republic of)
+      fr: Soudan du Sud (République du)
+      es: Sudán del Sur (República de)
+      zh: Южный Судан (Республика)
+      ru: 南苏丹（共和国）
+      ar: جنوب السودان (جمهورية)
+  STP:
+    iso_code: STP
+    country_or_area:
+      en: Sao Tome and Principe (Democratic Republic of)
+      fr: Sao Tomé-et-Principe (République démocratique de)
+      es: Santo Tomé y Príncipe (República Democrática de)
+      zh: Сан-Томе и Принсипи (Демократическая Республика)
+      ru: 圣多美和普林西比（民主共和国）
+      ar: جمهورية سان تومي وبرينسيبي الديمقراطية
+  SUR:
+    iso_code: SUR
+    country_or_area:
+      en: Suriname (Republic of)
+      fr: Suriname (République du)
+      es: Suriname (República de)
+      zh: Суринам (Республика)
+      ru: 苏里南（共和国）
+      ar: جمهورية سورينام
+  SVK:
+    iso_code: SVK
+    country_or_area:
+      en: Slovak Republic
+      fr: République slovaque
+      es: República Eslovaca
+      zh: Словацкая Республика
+      ru: 斯洛伐克共和国
+      ar: الجمهورية السلوفاكية
+  SVN:
+    iso_code: SVN
+    country_or_area:
+      en: Slovenia (Republic of)
+      fr: Slovénie (République de)
+      es: Eslovenia (República de)
+      zh: Словения (Республика)
+      ru: 斯洛文尼亚（共和国）
+      ar: جمهورية سلوفينيا
+  SWE:
+    iso_code: SWE
+    country_or_area:
+      en: Sweden
+      fr: Suède
+      es: Suecia
+      zh: Швеция
+      ru: 瑞典
+      ar: السويد
+  SWZ:
+    iso_code: SWZ
+    country_or_area:
+      en: Swaziland (Kingdom of)
+      fr: Swaziland (Royaume du)
+      es: Swazilandia (Reino de)
+      zh: Свазиленд (Королевство)
+      ru: 斯威士兰（王国）
+      ar: مملكة سوازيلاند
+  SXM:
+    iso_code: SXM
+    country_or_area:
+      en: Sint Maarten (Dutch part)
+      fr: Saint-Martin (partie néerlandaise)
+      es: San Martín (parte neerlandesa)
+      zh: Синт-Мартен (Нидерланды)
+      ru: 圣马丁岛（荷属部分）
+      ar: سينت مارتن (الجزء الهولندي)
+  SYC:
+    iso_code: SYC
+    country_or_area:
+      en: Seychelles (Republic of)
+      fr: Seychelles (République des)
+      es: Seychelles (República de)
+      zh: Сейшельские Острова (Республика)
+      ru: 塞舌尔（共和国）
+      ar: جمهورية سيشيل
+  SYR:
+    iso_code: SYR
+    country_or_area:
+      en: Syrian Arab Republic
+      fr: République arabe syrienne
+      es: República Árabe Siria
+      zh: Сирийская Арабская Республика
+      ru: 阿拉伯叙利亚共和国
+      ar: الجمهورية العربية السورية
+  TCA:
+    iso_code: TCA
+    country_or_area:
+      en: Turks and Caicos Islands
+      fr: Turks-et-Caïcos (Iles)
+      es: Turcas y Caicos (Islas)
+      zh: Острова Тёркс и Кайкос
+      ru: 特克斯和凯科斯群岛
+      ar: جزر تركس وكايكوس
+  TCD:
+    iso_code: TCD
+    country_or_area:
+      en: Chad (Republic of)
+      fr: Tchad (République du)
+      es: Chad (República del)
+      zh: Чад (Республика)
+      ru: 乍得（共和国）
+      ar: جمهورية تشاد
+  TGO:
+    iso_code: TGO
+    country_or_area:
+      en: Togolese Republic
+      fr: Togolaise (République)
+      es: Togolesa (República)
+      zh: Тоголезская Республика
+      ru: 多哥共和国
+      ar: جمهورية توغو
+  THA:
+    iso_code: THA
+    country_or_area:
+      en: Thailand
+      fr: Thaïlande
+      es: Tailandia
+      zh: Таиланд
+      ru: 泰国
+      ar: تايلاند
+  TJK:
+    iso_code: TJK
+    country_or_area:
+      en: Tajikistan (Republic of)
+      fr: Tadjikistan (République du)
+      es: Tayikistán (República de)
+      zh: Таджикистан (Республика)
+      ru: 塔吉克斯坦（共和国）
+      ar: جمهورية طاجيكستان
+  TKL:
+    iso_code: TKL
+    country_or_area:
+      en: Tokelau
+      fr: Tokélau
+      es: Tokelau
+      zh: Токелау
+      ru: 托克劳
+      ar: توكيلاو
+  TKM:
+    iso_code: TKM
+    country_or_area:
+      en: Turkmenistan
+      fr: Turkménistan
+      es: Turkmenistán
+      zh: Туркменистан
+      ru: 土库曼斯坦
+      ar: تركمانستان
+  TLS:
+    iso_code: TLS
+    country_or_area:
+      en: Timor-Leste (Democratic Republic of)
+      fr: Timor-Leste (République démocratique du)
+      es: Timor-Leste (República Democrática de)
+      zh: Тимор-Лешти (Демократическая Республика)
+      ru: 东帝汶（民主共和国）
+      ar: جمهورية تيمور لستي الديمقراطية
+  TON:
+    iso_code: TON
+    country_or_area:
+      en: Tonga (Kingdom of)
+      fr: Tonga (Royaume des)
+      es: Tonga (Reino de)
+      zh: Тонга (Королевство)
+      ru: 汤加（王国）
+      ar: مملكة تونغا
+  TTO:
+    iso_code: TTO
+    country_or_area:
+      en: Trinidad and Tobago
+      fr: Trinité-et-Tobago
+      es: Trinidad y Tabago
+      zh: Тринидад и Тобаго
+      ru: 特立尼达和多巴哥
+      ar: ترينيداد وتوباغو
+  TUN:
+    iso_code: TUN
+    country_or_area:
+      en: Tunisia
+      fr: Tunisie
+      es: Túnez
+      zh: Тунис
+      ru: 突尼斯
+      ar: تونس
+  TUR:
+    iso_code: TUR
+    country_or_area:
+      en: Turkey
+      fr: Turquie
+      es: Turquía
+      zh: Турция
+      ru: 土耳其
+      ar: تركيا
+  TUV:
+    iso_code: TUV
+    country_or_area:
+      en: Tuvalu
+      fr: Tuvalu
+      es: Tuvalu
+      zh: Тувалу
+      ru: 图瓦卢
+      ar: توفالو
+  TWN:
+    iso_code: TWN
+    country_or_area:
+      en: Taiwan, China
+      fr: Taiwan, Chine
+      es: Taiwán, China
+      zh: Тайвань, Китай
+      ru: 中国台湾
+      ar: تايوان، الصين
+  TZA:
+    iso_code: TZA
+    country_or_area:
+      en: Tanzania (United Republic of)
+      fr: Tanzanie (République-Unie de)
+      es: Tanzanía (República Unida de)
+      zh: Танзания (Объединенная Республика)
+      ru: 坦桑尼亚（联合共和国）
+      ar: جمهورية تنزانيا المتحدة
+  UGA:
+    iso_code: UGA
+    country_or_area:
+      en: Uganda (Republic of)
+      fr: Ouganda (République de l')
+      es: Uganda (República de)
+      zh: Уганда (Республика)
+      ru: 乌干达（共和国）
+      ar: جمهورية أوغندا
+  UKR:
+    iso_code: UKR
+    country_or_area:
+      en: Ukraine
+      fr: Ukraine
+      es: Ucrania
+      zh: Украина
+      ru: 乌克兰
+      ar: أوكرانيا
+  URY:
+    iso_code: URY
+    country_or_area:
+      en: Uruguay (Eastern Republic of)
+      fr: Uruguay (République orientale de l')
+      es: Uruguay (República Oriental del)
+      zh: Уругвай (Восточная Республика)
+      ru: 乌拉圭（东岸共和国）
+      ar: جمهورية أوروغواي الشرقية
+  USA:
+    iso_code: USA
+    country_or_area:
+      en: United States of America
+      fr: Etats-Unis d'Amérique
+      es: Estados Unidos de América
+      zh: Соединенные Штаты Америки
+      ru: 美利坚合众国
+      ar: الولايات المتحدة الامريكية
+  UZB:
+    iso_code: UZB
+    country_or_area:
+      en: Uzbekistan (Republic of)
+      fr: Ouzbékistan (République d')
+      es: Uzbekistán (República de)
+      zh: Узбекистан (Республика)
+      ru: 乌兹别克斯坦（共和国）
+      ar: جمهورية أوزبكستان
+  VAT:
+    iso_code: VAT
+    country_or_area:
+      en: Vatican City State
+      fr: Cité du Vatican (Etat de la)
+      es: Ciudad del Vaticano (Estado de la)
+      zh: Государство-город Ватикан
+      ru: 梵蒂冈城国
+      ar: دولة مدينة الفاتيكان
+  VCT:
+    iso_code: VCT
+    country_or_area:
+      en: Saint Vincent and the Grenadines
+      fr: Saint-Vincent-et-les Grenadines
+      es: San Vicente y las Granadinas
+      zh: Сент-Винсент и Гренадины
+      ru: 圣文森特和格林纳丁斯
+      ar: سانت فنسنت وغرينادين
+  VEN:
+    iso_code: VEN
+    country_or_area:
+      en: Venezuela (Bolivarian Republic of)
+      fr: Venezuela (République bolivarienne du)
+      es: Venezuela (República Bolivariana de)
+      zh: Венесуэла (Боливарианская Республика)
+      ru: 委内瑞拉（玻利瓦尔共和国）
+      ar: جمهورية فنزويلا البوليفارية
+  VGB:
+    iso_code: VGB
+    country_or_area:
+      en: British Virgin Islands
+      fr: Vierges Britanniques (Îles)
+      es: Vírgenes Británicas (Islas)
+      zh: Британские Виргинские острова
+      ru: 英属维京群岛
+      ar: الجزر العذراء البريطانية
+  VIR:
+    iso_code: VIR
+    country_or_area:
+      en: United States Virgin Islands
+      fr: Vierges britanniques (Iles)
+      es: Vírgenes de los Estados Unidos (Islas)
+      zh: Виргинские острова (США)
+      ru: 美属维京群岛
+      ar: جزر فرجن التابعة للولايات المتحدة
+  VNM:
+    iso_code: VNM
+    country_or_area:
+      en: Viet Nam (Socialist Republic of)
+      fr: Viet Nam (République socialiste du)
+      es: Viet Nam (República Socialista de)
+      zh: Вьетнам (Социалистическая Республика)
+      ru: 越南（社会主义共和国）
+      ar: جمهورية فيتنام الاشتراكية
+  VUT:
+    iso_code: VUT
+    country_or_area:
+      en: Vanuatu (Republic of)
+      fr: Vanuatu (République de)
+      es: Vanuatu (República de)
+      zh: Вануату (Республика)
+      ru: 瓦努阿图 （共和国）
+      ar: جمهورية فانواتو
+  WLF:
+    iso_code: WLF
+    country_or_area:
+      en: Wallis and Futuna (Territoire français d'outre-mer)
+      fr: Wallis-et-Futuna (Territoire français d'outre-mer)
+      es: Wallis y Futuna (Territoire français d'outre-mer)
+      zh: Уоллис и Футуна (Французские заморские территории)
+      ru: 瓦利斯和富图纳群岛（法国海外领地）
+      ar: جزر واليس وفوتونا (إقليم فرنسي فيما وراء البحار)
+  WSM:
+    iso_code: WSM
+    country_or_area:
+      en: Samoa (Independent State of)
+      fr: Samoa (Etat indépendant du)
+      es: Samoa (Estado Independiente de)
+      zh: Самоа (Независимое Государство)
+      ru: 萨摩亚（独立国）
+      ar: دولة ساموا المستقلة
+  XAE:
+    iso_code: XAE
+    country_or_area:
+      en: Australian External Territories
+      fr: Territoires extérieurs de l'Australie
+      es: Territorios exteriores de Australia
+      zh: Внешние территории Австралии
+      ru: 澳大利亚境外领土
+      ar: الأراضي الأسترالية الخارجية
+  XKX:
+    iso_code: XKX
+    country_or_area:
+      en: Kosovo*
+      fr: Kosovo*
+      es: Kosovo*
+      zh: Косово*
+      ru: 科索沃*
+      ar: كوسوفو*
+  YEM:
+    iso_code: YEM
+    country_or_area:
+      en: Yemen (Republic of)
+      fr: Yémen (République du)
+      es: Yemen (República del)
+      zh: Йемен (Республика)
+      ru: 也门（共和国）
+      ar: الجمهورية اليمنية
+  ZAF:
+    iso_code: ZAF
+    country_or_area:
+      en: South Africa (Republic of)
+      fr: Sudafricaine (République)
+      es: Sudafricana (República)
+      zh: Южно-Африканская Республика
+      ru: 南非（共和国）
+      ar: جمهورية جنوب إفريقيا
+  ZMB:
+    iso_code: ZMB
+    country_or_area:
+      en: Zambia (Republic of)
+      fr: Zambie (République de)
+      es: Zambia (República de)
+      zh: Замбия (Республика)
+      ru: 赞比亚（共和国）
+      ar: جمهورية زامبيا
+  ZWE:
+    iso_code: ZWE
+    country_or_area:
+      en: Zimbabwe (Republic of)
+      fr: Zimbabwe (République du)
+      es: Zimbabwe (República de)
+      zh: Зимбабве (Республика)
+      ru: 津巴布韦（共和国）
+      ar: جمهورية زيمبابوي

@@ -1,6 +1,6 @@
 = FORME DES INDICATIFS D'APPEL ASSIGNÉS PAR CHAQUE ADMINISTRATION À SES STATIONS D'AMATEUR ET À SES STATIONS EXPÉRIMENTALES 
 :bureau: T
-:docnumber: 
+:docnumber: 1154
 :series: ÉTAT DES RADIOCOMMUNICATIONS ENTRE STATIONS D'AMATEUR DE PAYS DIFFÉRENTS
 :series1: (Conformément à la disposition facultative No 25.1 du Règlement des radiocommunications) 
 :series2: ET

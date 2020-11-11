@@ -1,6 +1,6 @@
 = Groupes d'expressions de codes à cinq lettres à l'usage du service public international des télégrammes
 :bureau: T
-:docnumber:
+:docnumber: 669
 :series: GROUPES D'EXPRESSIONS DE CODES À CINQ LETTRES À L'USAGE DU SERVICE PUBLIC INTERNATIONAL DES TÉLÉGRAMMES
 :series1: (Selon la Recommandation UIT-T F.1 (03/98)
 :published-date: 1998-06-01

@@ -1,6 +1,6 @@
 = LISTE DES INDICATIFS DE PAYS OU ZONES GÉOGRAPHIQUES POUR TRANSMISSION DE DONNÉES
 :bureau: T
-:docnumber: 
+:docnumber: 976
 :published-date: 2011-03-15
 // :annex-title-fr: Annexe au Bulletin d'exploitation de l'UIT
 // :annex-id: N° 976

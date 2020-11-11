@@ -1,6 +1,6 @@
 = Grupos de códigos de cinco letras para uso del servicio público internacional de telegramas
 :bureau: T
-:docnumber:
+:docnumber: 669
 :series: GRUPOS DE CÓDIGOS DE CINCO LETRAS PARA USO DEL SERVICIO PÚBLICO INTERNACIONAL DE TELEGRAMAS
 :series1: (Según la Recomendación UIT-T F.1 (03/98))
 :published-date: 1998-06-01

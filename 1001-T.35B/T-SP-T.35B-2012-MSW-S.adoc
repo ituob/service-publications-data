@@ -3,7 +3,7 @@
 // :annex-title-es: Anexo al Boletín de Explotación de la UIT
 // :annex-id: N.^o^ 1001
 :bureau: T
-:docnumber: 
+:docnumber: 1001
 :published-date: 2012-04-01
 :status: published
 :doctype: recommendation-annex

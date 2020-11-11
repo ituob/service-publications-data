@@ -1,7 +1,7 @@
 = DIFERENTES TONOS UTILIZADOS EN LAS REDES NACIONALES (SEGÚN LA RECOMENDACIÓN UIT-T E.180 (03/1998))
 :bureau: T
 :language: es
-:docnumber: 
+:docnumber: 955
 :published-date: 2010-05-01
 :status: published
 :doctype: recommendation-annex

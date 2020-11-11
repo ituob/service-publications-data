@@ -1,6 +1,6 @@
 = FORM OF CALL SIGNS ASSIGNED BY EACH ADMINISTRATION TO ITS AMATEUR AND EXPERIMENTAL STATIONS 
 :bureau: T
-:docnumber: 
+:docnumber: 1154
 :series: STATUS OF RADIOCOMMUNICATIONS BETWEEN AMATEUR STATIONS OF DIFFERENT COUNTRIES
 :series1: (In accordance with optional provision No. 25.1 of the Radio Regulations) 
 :series2: AND

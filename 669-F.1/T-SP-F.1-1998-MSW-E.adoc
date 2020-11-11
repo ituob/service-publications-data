@@ -1,6 +1,6 @@
 = Five-letter Code Groups for the use of the International Public Telegram Service
 :bureau: T
-:docnumber:
+:docnumber: 669
 :series: FIVE LETTER CODE GROUPS* *FOR THE USE OF THE INTERNATIONAL PUBLIC TELEGRAM SERVICE
 :series1: (According to ITU-T Recommendation F.1 (03/98))
 :published-date: 1998-06-01

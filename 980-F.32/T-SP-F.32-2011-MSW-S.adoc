@@ -1,6 +1,6 @@
 = List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) - Spanish
 :bureau: T
-:docnumber: 980-15.V.2011
+:docnumber: 980
 :title: LISTA DE INDICADORES DE DESTINO DE TELEGRAMAS
 :published-date: 2011-05-15
 :status: draft

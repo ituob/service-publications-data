@@ -1,6 +1,6 @@
 = SERVICE RESTRICTIONS (Recapitulatory list of service restrictions in force relating to telecommunications operation)
 :bureau: T
-:docnumber: 1000-15.III.2012
+:docnumber: 1000
 :title: SERVICE RESTRICTIONS
 :published-date: 2012-03-15
 :doctype: service-publication

@@ -1,6 +1,6 @@
 = 各主管部门为其业余电台和实验电台分配的 呼号的构成
 :bureau: T
-:docnumber: 
+:docnumber: 1154
 :series: 不同国家业余电台之间的无线电通信状况（依据
 :series1: 《无线电规则》第25.1款可选规定）
 :series2: 以及

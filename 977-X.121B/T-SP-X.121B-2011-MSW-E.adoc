@@ -5,7 +5,7 @@
 :title: 
 :published-date: 2011-04-01
 :status: published
-:doctype: recommendation-annex
+:doctype: service-publication
 // :annextitle: Annex to ITU Operational Bulletin
 :annexid: No. 977
 :docfile: T-SP-X.121B-2011-MSW-E.adoc

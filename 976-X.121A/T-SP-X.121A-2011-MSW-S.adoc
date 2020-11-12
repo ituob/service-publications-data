@@ -5,7 +5,7 @@
 // :annex-title-fr: Anexo al Boletín de Explotación de la UIT
 // :annex-id: N.° 976
 :status: published
-:doctype: recommendation-annex
+:doctype: service-publication
 :keywords: 
 :imagesdir: images
 :docfile: T-SP-X.121A-2011-MSW-S.adoc

@@ -5,7 +5,7 @@
 // :annex-title: Annex to ITU Operational Bulletin
 // :annex-id: No. 1001
 :status: published
-:doctype: recommendation-annex
+:doctype: service-publication
 :keywords: 
 :imagesdir: images
 :docfile: T-SP-T.35B-2012-MSW-E.adoc

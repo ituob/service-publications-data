@@ -5,7 +5,7 @@
 // :annex-title-fr: Annexe au Bulletin d'exploitation de l'UIT
 // :annex-id: N° 976
 :status: published
-:doctype: recommendation-annex
+:doctype: service-publication
 :keywords: 
 :imagesdir: images
 :docfile: T-SP-X.121A-2011-MSW-F.adoc

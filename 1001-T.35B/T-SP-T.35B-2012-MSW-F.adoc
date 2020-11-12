@@ -5,7 +5,7 @@
 // :annex-id: N^o^ 1001
 :published-date: 2012-04-01
 :status: published
-:doctype: recommendation-annex
+:doctype: service-publication
 :keywords: 
 :imagesdir: images
 :docfile: T-SP-T.35B-2012-MSW-F.adoc

@@ -6,7 +6,7 @@
 :title: 
 :published-date: 2011-02-15
 :status: published
-:doctype: recommendation-annex
+:doctype: service-publication
 :annexid: No. 974
 :docfile: T-SP-F.400-2011-MSW-E.adoc
 :language: en

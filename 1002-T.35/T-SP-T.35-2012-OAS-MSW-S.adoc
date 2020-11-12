@@ -5,7 +5,7 @@
 :docnumber: 1002
 :published-date: 2012-04-15
 :status: published
-:doctype: recommendation-annex
+:doctype: service-publication
 :annextitle-es: Anexo al Boletín de Explotación de la UIT
 :annexid: N.° 1002
 :keywords: 

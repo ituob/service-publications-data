@@ -3,7 +3,7 @@
 :docnumber: 
 :published-date: 2010-05-01
 :status: published
-:doctype: recommendation-annex
+:doctype: service-publication
 :annextitle: Annex to ITU Operational Bulletin
 :annexid: No. 955
 :keywords: 

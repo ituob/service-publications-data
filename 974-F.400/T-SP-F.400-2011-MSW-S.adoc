@@ -6,7 +6,7 @@ F.400 y X.400)
 :title: 
 :published-date: 2011-02-15
 :status: published
-:doctype: recommendation-annex
+:doctype: service-publication
 :annextitle-es: Anexo al Boletín de Explotación de la UIT
 :annexid: N.° 974
 :docfile: T-SP-F.400-2011-MSW-S.adoc

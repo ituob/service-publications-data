@@ -5,7 +5,7 @@
 :series1: (Selon la Recommandation UIT-T F.1 (03/98)
 :published-date: 1998-06-01
 :status: published
-:doctype: recommendation
+:doctype: service-publication
 :keywords:
 :imagesdir: images
 :docfile: T-SP-F.1-1998-MSW-F.adoc

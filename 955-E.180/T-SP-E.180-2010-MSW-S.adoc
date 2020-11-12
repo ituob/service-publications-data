@@ -4,7 +4,7 @@
 :docnumber: 
 :published-date: 2010-05-01
 :status: published
-:doctype: recommendation-annex
+:doctype: service-publication
 :annextitle-es: Anexo al Boletín de Explotación de la UIT
 :annexid: No. 955
 :keywords: 

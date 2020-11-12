@@ -6,7 +6,7 @@
 :title: 
 :published-date: 2011-04-01
 :status: published
-:doctype: recommendation-annex
+:doctype: service-publication
 :annexid: No. 977
 :docfile: T-SP-X.121B-2011-MSW-F.adoc
 :language: fr

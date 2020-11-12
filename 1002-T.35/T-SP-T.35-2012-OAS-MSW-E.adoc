@@ -5,7 +5,7 @@
 :docnumber: 
 :published-date: 2012-04-15
 :status: published
-:doctype: recommendation-annex
+:doctype: service-publication
 :annextitle: Annex to ITU Operational Bulletin
 :annexid: No. 1002
 :keywords: 

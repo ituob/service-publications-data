@@ -6,7 +6,7 @@
 :series2: AND
 :published-date: 2018-08-15
 :status: published
-:doctype: recommendation-status
+:doctype: service-publication
 :keywords: 
 :imagesdir: images
 :docfile: T-SP-RR.25.1-2018-MSW-E.adoc

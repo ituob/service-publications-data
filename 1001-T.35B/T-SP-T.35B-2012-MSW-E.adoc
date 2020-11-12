@@ -1,6 +1,6 @@
 = List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes
 :bureau: T
-:docnumber: 
+:docnumber:  1001
 :published-date: 2012-04-01
 // :annex-title: Annex to ITU Operational Bulletin
 // :annex-id: No. 1001

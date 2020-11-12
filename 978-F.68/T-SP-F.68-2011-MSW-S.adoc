@@ -1,6 +1,6 @@
 = Lista de Códigos Télex de Destino (CTD) y Códigos de Identificación de Red Télex (CIRT)
 :bureau: T
-:docnumber: 978-15.IV.2011
+:docnumber: 978
 :title: LISTA DE CÓDIGOS TÉLEX DE DESTINO (CTD) Y CÓDIGOS DE IDENTIFICACIÓN DE RED TÉLEX (CIRT)
 :complements: F.69 (06/1994), F.68 (11/1988)
 :published-date: 2011-04-15

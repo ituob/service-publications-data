@@ -1,6 +1,6 @@
 = LIST OF DATA COUNTRY OR GEOGRAPHICAL AREA CODES
 :bureau: T
-:docnumber: 
+:docnumber: 976
 :published-date: 2011-03-15
 // :annex-title: Annex to ITU Operational Bulletin
 // :annex-id: No. 976

@@ -1,6 +1,6 @@
 = LISTA DE INDICATIVOS DE PAÍS O ZONA GEOGRÁFICA PARA DATOS
 :bureau: T
-:docnumber: 
+:docnumber: 976
 :published-date: 2011-03-15
 // :annex-title-fr: Anexo al Boletín de Explotación de la UIT
 // :annex-id: N.° 976

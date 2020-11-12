@@ -1,6 +1,6 @@
 = LISTA DE CÓDIGOS DE IDENTIFICACIÓN DE RED DE DATOS (CIRD)
 :bureau: T
-:docnumber: 
+:docnumber: 977
 // :annextitle-es: Anexo al Boletín de Explotación de la UIT
 :series: SEGÚN LA RECOMENDACIÓN UIT-T X.121 (10/2000)
 :title: 

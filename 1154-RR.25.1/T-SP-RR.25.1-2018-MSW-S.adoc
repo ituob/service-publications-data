@@ -1,6 +1,6 @@
 = FORMA DE LOS DISTINTIVOS DE LLAMADA ASIGNADOS POR CADA ADMINISTRACIÓN A SUS ESTACIONES DE AFICIONADO Y A SUS ESTACIONES EXPERIMENTALES
 :bureau: T
-:docnumber: 
+:docnumber: 1154
 :series: ESTADO DE LAS RADIOCOMUNICACIONES ENTRE ESTACIONES DE AFICIONADO DE PAÍSES DISTINTOS
 :series1: (De conformidad con la disposición facultativa N.o 25.1 del Reglamento de Radiocomunicaciones)
 :series2: Y

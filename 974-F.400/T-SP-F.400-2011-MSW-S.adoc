@@ -1,6 +1,6 @@
 = LISTA DE NOMBRES DE DOMINIO DE GESTIÓN DE ADMINISTRACIÓN (DGAD)
 :bureau: T
-:docnumber: 
+:docnumber: 974
 :series: (De conformidad con las Recomendaciones UIT-T de las series
 F.400 y X.400)
 :title: 

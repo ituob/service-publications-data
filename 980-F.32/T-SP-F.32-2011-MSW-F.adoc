@@ -1,6 +1,6 @@
 = List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) - French
 :bureau: T
-:docnumber: 980-15.V.2011
+:docnumber: 980
 :title: LISTE  DES  INDICATEURS DE DESTINATION DES TÉLÉGRAMMES
 :published-date: 2011-05-15
 :status: draft

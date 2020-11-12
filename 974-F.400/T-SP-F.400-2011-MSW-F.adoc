@@ -1,6 +1,6 @@
 = LISTE DES NOMS DE DOMAINES DE GESTION D'ADMINISTRATION (DGAD)
 :bureau: T
-:docnumber: 
+:docnumber: 974
 :series: (In accordance with ITU-T F.400 and X.400 series Recommendations)
 :title: 
 :published-date: 2011-02-15

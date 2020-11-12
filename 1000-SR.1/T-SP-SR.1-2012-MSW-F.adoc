@@ -1,6 +1,6 @@
 = RESTRICTIONS DE SERVICE (Liste récapitulative des restrictions de service en vigueur relatives à l’exploitation des télécommunications)
 :bureau: T
-:docnumber: 1000-15.III.2012
+:docnumber: 1000
 :title: RESTRICTIONS DE SERVICE
 :published-date: 2012-03-15
 :doctype: service-publication

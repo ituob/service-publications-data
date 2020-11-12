@@ -1,6 +1,6 @@
 = LIST OF NAMES OF ADMINISTRATION MANAGEMENT DOMAINS (ADMD)
 :bureau: T
-:docnumber: 
+:docnumber: 974
 // :annextitle: LIST OF NAMES OF ADMINISTRATION MANAGEMENT DOMAINS (ADMD)
 :series: (In accordance with ITU-T F.400 and X.400 series Recommendations)
 :title: 

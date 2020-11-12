@@ -1,6 +1,6 @@
 = Liste des autorités nationales, chargées de l’attribution des codes du prestataire terminal UIT-T T.35
 :bureau: T
-:docnumber: 
+:docnumber: 1001
 // :annex-title-fr: Annexe au Bulletin d'exploitation de l'UIT
 // :annex-id: N^o^ 1001
 :published-date: 2012-04-01

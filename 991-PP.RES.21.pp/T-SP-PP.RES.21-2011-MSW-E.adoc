@@ -1,6 +1,6 @@
 = Call-Back and alternative calling procedures (Resolution 21 Revision PP-2006)
 :bureau: T
-:docnumber: 991-1.XI.2011
+:docnumber: 991
 :title: CALL-BACK AND ALTERNATIVE CALLING PROCEDURES
 :published-date: 2011-11-01
 :status: draft

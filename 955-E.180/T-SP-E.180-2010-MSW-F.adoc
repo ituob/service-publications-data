@@ -1,7 +1,7 @@
 = DIFFÉRENTES TONALITÉS RENCONTRÉES DANS LES RÉSEAUX NATIONAUX (SELON LA RECOMMANDATION UIT-T E.180 (03/1998))
 :bureau: T
 :language: fr
-:docnumber: 
+:docnumber: 955
 :published-date: 2010-05-01
 :status: published
 :doctype: service-publication

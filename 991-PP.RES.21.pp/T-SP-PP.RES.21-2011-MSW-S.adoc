@@ -1,6 +1,6 @@
 = Comunicaciones por intermediario (Call-Back) y procedimientos alternativos de llamada (Resolución 21 Revisión PP-2006)
 :bureau: T
-:docnumber: 991-1.XI.2011
+:docnumber: 991
 :title: COMUNICACIONES POR INTERMEDIARO (CALL-BACK) Y PROCEDIMIENTOS ALTERNATIVOS DE LLAMADA
 :published-date: 2011-11-01
 :status: draft

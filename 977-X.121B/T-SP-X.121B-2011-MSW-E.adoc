@@ -1,6 +1,6 @@
 = LIST OF DATA NETWORK IDENTIFICATION CODES (DNIC)
 :bureau: T
-:docnumber: 
+:docnumber: 977
 :series: ACCORDING TO ITU-T RECOMMENDATION X.121 (10/2000)
 :title: 
 :published-date: 2011-04-01

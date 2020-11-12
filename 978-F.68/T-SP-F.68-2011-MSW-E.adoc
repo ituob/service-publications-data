@@ -1,6 +1,6 @@
 = List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC)
 :bureau: T
-:docnumber: 978-15.IV.2011
+:docnumber: 978
 :title: LIST OF TELEX DESTINATION CODES (TDC) AND TELEX NETWORK IDENTIFICATION CODES (TNIC)
 :complements: F.69 (06/1994), F.68 (11/1988)
 :published-date: 2011-04-15

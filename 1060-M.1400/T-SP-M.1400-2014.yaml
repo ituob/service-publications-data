@@ -20,86 +20,118 @@ metadata:
     ar: 'ملاحظة: يمكن استعمال هذه المعلومات عند ملء سجل الطبقة 2 على غرار ما هو موضح
       في البنود 3.8 و3.13 و3.20 من التوصية ITU-T M.1400.'
   locale:
-    country_or_area:
-      en: Country or area
-      fr: Pays ou zone
-      es: País o zona
-      ru: Страна или зона
-      zh: 国家或区域
-      ar: البلد أو المنطقة
-    iso_code:
-      en: ISO code
-      fr: code ISO
-      es: código ISO
-      ru: код ИСО
-      zh: ISO代码
-      ar: رمز ISO
-    company_name:
-      en: Company Name
-      fr: Nom de la société
-      es: Nombre de la empresa
-      ru: Название
-      zh: 企业名称
-      ar: اسم الشركة
-    address_line_1:
-      en: Address Line 1
-      fr: Adresse
-      es: Dirección
-      ru: адрес компании
-      zh: 地址
-      ar: العنوان
-    address_line_2:
-      en: Address Line 2
-      fr: Adresse
-      es: Dirección
-      ru: адрес компании
-      zh: 地址
-      ar: العنوان
-    address_line_3:
-      en: Address Line 3
-      fr: Adresse
-      es: Dirección
-      ru: адрес компании
-      zh: 地址
-      ar: العنوان
-    carrier_code:
-      en: Company Code (carrier code)
-      fr: Code de la société
-      es: Código de la empresa
-      ru: Код компании (код оператора связи)
-      zh: 企业代码（运营商代码）
-      ar: رمز الشركة (رمز المشغل)
-    contact:
-      en: Contact
-      fr: Contact
-      es: Contacto
-      ru: Для контактов
-      zh: 联系方式
-      ar: جهة الاتصال
-    tel:
-      en: Tel
-      fr: Tel
-      es: Tel
-      ru: Тел.
-      zh: Tel
-      ar: Tel
-    fax:
-      en: Fax
-      fr: Fax
-      es: Fax
-      ru: Факс
-      zh: Fax
-      ar: Fax
-    email:
-      en: E-mail
-      fr: E-mail
-      es: E-mail
-      ru: Эл. Почта
-      zh: E-mail
-      ar: E-mail
+    - id: country_or_area
+      type: text
+      required: true
+      label:
+        en: Country or area
+        fr: Pays ou zone
+        es: País o zona
+        ru: Страна или зона
+        zh: 国家或区域
+        ar: البلد أو المنطقة
+    - id: iso_code
+      type: text
+      required: true
+        label:
+          en: ISO code
+          fr: code ISO
+          es: código ISO
+          ru: код ИСО
+          zh: ISO代码
+          ar: رمز ISO
+    - id: company_name
+      type: text
+      required: true
+      label:
+        en: Company Name
+        fr: Nom de la société
+        es: Nombre de la empresa
+        ru: Название
+        zh: 企业名称
+        ar: اسم الشركة
+    - id: address_line_1
+      type: text
+      required: true
+      label:
+        en: Address Line 1
+        fr: Adresse
+        es: Dirección
+        ru: адрес компании
+        zh: 地址
+        ar: العنوان
+    - id: address_line_2
+      type: text
+      required: true
+      label:
+        en: Address Line 2
+        fr: Adresse
+        es: Dirección
+        ru: адрес компании
+        zh: 地址
+        ar: العنوان
+    - id: address_line_3
+      type: text
+      required: true
+      label:
+        en: Address Line 3
+        fr: Adresse
+        es: Dirección
+        ru: адрес компании
+        zh: 地址
+        ar: العنوان
+    - id: carrier_code
+      type: text
+      required: true
+      label:
+        en: Company Code (carrier code)
+        fr: Code de la société
+        es: Código de la empresa
+        ru: Код компании (код оператора связи)
+        zh: 企业代码（运营商代码）
+        ar: رمز الشركة (رمز المشغل)
+    - id: contact
+      type: text
+      required: true
+      label:
+        en: Contact
+        fr: Contact
+        es: Contacto
+        ru: Для контактов
+        zh: 联系方式
+        ar: جهة الاتصال
+    - id: contact
+      type: text
+      required: true
+      label:
+        en: Tel
+        fr: Tel
+        es: Tel
+        ru: Тел.
+        zh: Tel
+        ar: Tel
+    - id: fax
+      type: text
+      required: true
+      label:
+        en: Fax
+        fr: Fax
+        es: Fax
+        ru: Факс
+        zh: Fax
+        ar: Fax
+    - id: email
+      type: text
+      required: true
+      label:
+        en: E-mail
+        fr: E-mail
+        es: E-mail
+        ru: Эл. Почта
+        zh: E-mail
+        ar: E-mail
 data:
   AFG:
-    iso_code: AFG
     country_or_area:
       en: Afghanistan
       fr: Afghanistan
@@ -115,7 +147,6 @@ data:
     tel: "+93 79 999 9996"
     email: samir.satchu@roshan.af
   ALB:
-    iso_code: ALB
     country_or_area:
       en: Albania (Republic of)
       fr: Albanie (République d')
@@ -131,7 +162,6 @@ data:
     tel: "+355 42 28406"
     fax: "+355 42 32200"
   DZA:
-    iso_code: DZA
     country_or_area:
       en: Algeria (People's Democratic Republic of)
       fr: Algérie (République algérienne démocratique et populaire)
@@ -147,7 +177,6 @@ data:
     tel: "+213 21 823838"
     fax: "+213 21 823839"
   AND:
-    iso_code: AND
     country_or_area:
       en: Andorra (Principality of)
       fr: Andorre (Principauté d')
@@ -163,7 +192,6 @@ data:
     tel: "+376 821021"
     fax: "+376 860600"
   AGO:
-    iso_code: AGO
     country_or_area:
       en: Angola (Republic of)
       fr: Angola (République d')
@@ -180,7 +208,6 @@ data:
     fax: "+244 22 244 0130"
     email: feliciano.antonio@movicel.net
   AIA:
-    iso_code: AIA
     country_or_area:
       en: Anguilla
       fr: Anguilla
@@ -196,7 +223,6 @@ data:
     tel: "+1 264 497 2650"
     fax: "+1 264 497 3390"
   ATG:
-    iso_code: ATG
     country_or_area:
       en: Antigua and Barbuda
       fr: Antigua-et-Barbuda
@@ -212,7 +238,6 @@ data:
     tel: "+1 268 462 0810"
     fax: "+1 268 462 0843"
   ARG:
-    iso_code: ARG
     country_or_area:
       en: Argentine Republic
       fr: Argentine (République)
@@ -229,7 +254,6 @@ data:
     fax: "+54 11 4382 7509"
     email: harman@tlda.com.ar
   ARM:
-    iso_code: ARM
     country_or_area:
       en: Armenia (Republic of)
       fr: Arménie (République d')
@@ -244,7 +268,6 @@ data:
     tel: "+374 10 568 777"
     fax: "+374 10 569 222"
   ABW:
-    iso_code: ABW
     country_or_area:
       en: Aruba
       fr: Aruba
@@ -260,7 +283,6 @@ data:
     tel: "+297 583 0950"
     fax: "+297 583 2977"
   AUS:
-    iso_code: AUS
     country_or_area:
       en: Australia
       fr: Australie
@@ -276,7 +298,6 @@ data:
     tel: "+61 2 9775 7608"
     fax: "+61 2 9775 7780"
   AUT:
-    iso_code: AUT
     country_or_area:
       en: Austria
       fr: Autriche
@@ -293,7 +314,6 @@ data:
     fax: "+43 2682 704 3314"
     email: w.eder@wellcom.at
   AZE:
-    iso_code: AZE
     country_or_area:
       en: Azerbaijan (Republic of)
       fr: Azerbaïdjan (République d')
@@ -310,7 +330,6 @@ data:
     fax: "+994 12 498 4285"
     email: behm@bakinter.net
   BHS:
-    iso_code: BHS
     country_or_area:
       en: Bahamas (Commonwealth of the)
       fr: Bahamas (Commonwealth des)
@@ -325,7 +344,6 @@ data:
     tel: "+1 242 323 4911"
     fax: "+1 242 326 0880"
   BHR:
-    iso_code: BHR
     country_or_area:
       en: Bahrain (Kingdom of)
       fr: Bahreïn (Royaume de)
@@ -342,7 +360,6 @@ data:
     fax: "+973 17 532116"
     email: mi2@btc.com.bh
   BGD:
-    iso_code: BGD
     country_or_area:
       en: Bangladesh (People's Republic of)
       fr: Bangladesh (République populaire du)
@@ -357,7 +374,6 @@ data:
     tel: "+880 2 831500"
     fax: "+880 2 832577"
   BRB:
-    iso_code: BRB
     country_or_area:
       en: Barbados
       fr: Barbade
@@ -373,7 +389,6 @@ data:
     tel: "+1 246 292 6000"
     fax: "+1 246 427 5808"
   BLR:
-    iso_code: BLR
     country_or_area:
       en: Belarus (Republic of)
       fr: Bélarus (République du)
@@ -389,7 +404,6 @@ data:
     tel: "+375 17 222 2685"
     fax: "+375 17 227 4422"
   BEL:
-    iso_code: BEL
     country_or_area:
       en: Belgium
       fr: Belgique
@@ -406,7 +420,6 @@ data:
     fax: "+32 2 721 3332"
     email: barry.inskip@worldxchange.com
   BLZ:
-    iso_code: BLZ
     country_or_area:
       en: Belize
       fr: Belize
@@ -423,7 +436,6 @@ data:
     fax: "+501 22 54014"
     email: eyoung@geminicom.net
   BEN:
-    iso_code: BEN
     country_or_area:
       en: Benin (Republic of)
       fr: Bénin (République du)
@@ -439,7 +451,6 @@ data:
     tel: "+229 2131 2045"
     fax: "+229 2131 3843"
   BMU:
-    iso_code: BMU
     country_or_area:
       en: Bermuda
       fr: Bermudes
@@ -455,7 +466,6 @@ data:
     tel: "+1 441 297 7101"
     fax: "+1 441 295 4964"
   BTN:
-    iso_code: BTN
     country_or_area:
       en: Bhutan (Kingdom of)
       fr: Bhoutan (Royaume du)
@@ -472,7 +482,6 @@ data:
     fax: "+975 2 324312"
     email: thinley@telecom.net.bt
   BOL:
-    iso_code: BOL
     country_or_area:
       en: Bolivia (Plurinational State of)
       fr: Bolivie (État Plurinational de)
@@ -488,7 +497,6 @@ data:
     tel: "+591 2812 2090"
     fax: "+591 2812 2339"
   BIH:
-    iso_code: BIH
     country_or_area:
       en: Bosnia and Herzegovina
       fr: Bosnie-Herzégovine
@@ -505,7 +513,6 @@ data:
     fax: "+387 51 217 975"
     email: lj.mihajlovic@telekomsrpske.com
   BWA:
-    iso_code: BWA
     country_or_area:
       en: Botswana (Republic of)
       fr: Botswana (République du)
@@ -521,7 +528,6 @@ data:
     tel: "+267 395 2232"
     fax: "+267 391 4823"
   BRA:
-    iso_code: BRA
     country_or_area:
       en: Brazil (Federative Republic of)
       fr: Brésil (République fédérative du)
@@ -538,7 +544,6 @@ data:
     fax: "+55 21 2121 3247"
     email: dalmo@embratel.com.br
   VGB:
-    iso_code: VGB
     country_or_area:
       en: British Virgin Islands
       fr: Vierges britanniques (Iles)
@@ -554,7 +559,6 @@ data:
     tel: "+1 284 494 4444"
     fax: "+1 284 494 2100"
   BRN:
-    iso_code: BRN
     country_or_area:
       en: Brunei Darussalam
       fr: Brunéi Darussalam
@@ -570,7 +574,6 @@ data:
     tel: "+673 2 382382"
     fax: "+673 2 381585"
   BGR:
-    iso_code: BGR
     country_or_area:
       en: Bulgaria (Republic of)
       fr: Bulgarie (République de)
@@ -586,7 +589,6 @@ data:
     tel: "+359 2 889330"
     fax: "+359 2 805640"
   BFA:
-    iso_code: BFA
     country_or_area:
       en: Burkina Faso
       fr: Burkina Faso
@@ -603,7 +605,6 @@ data:
     fax: "+226 50 310331"
     email: sanfo.moussa@onatel.bf
   BDI:
-    iso_code: BDI
     country_or_area:
       en: Burundi (Republic of)
       fr: Burundi (République du)
@@ -620,7 +621,6 @@ data:
     fax: "+257 22 22 69 17"
     email: dgonatel@onatel.bi
   CPV:
-    iso_code: CPV
     country_or_area:
       en: Cabo Verde (Republic of)
       fr: Cabo Verde (République du)
@@ -637,7 +637,6 @@ data:
     fax: "+238 261 3725"
     email: gcacvt@cvtelecom.cv
   KHM:
-    iso_code: KHM
     country_or_area:
       en: Cambodia (Kingdom of)
       fr: Cambodge (Royaume du)
@@ -653,7 +652,6 @@ data:
     tel: "+855 23 426818"
     fax: "+855 23 426011"
   CMR:
-    iso_code: CMR
     country_or_area:
       en: Cameroon (Republic of)
       fr: Cameroun (République du)
@@ -669,7 +667,6 @@ data:
     tel: "+237 2223 4065"
     fax: "+237 2223 0303"
   CAN:
-    iso_code: CAN
     country_or_area:
       en: Canada
       fr: Canada
@@ -686,7 +683,6 @@ data:
     fax: "+1 450 799 0808"
     email: ithiago@guevremont.com
   CYM:
-    iso_code: CYM
     country_or_area:
       en: Cayman Islands
       fr: Cayman (Iles)
@@ -702,7 +698,6 @@ data:
     tel: "+1 345 914 0345"
     fax: "+1 345 949 7070"
   CAF:
-    iso_code: CAF
     country_or_area:
       en: Central African Republic
       fr: Centrafricaine (République)
@@ -718,7 +713,6 @@ data:
     tel: "+236 21 616793"
     fax: "+236 21 615048"
   TCD:
-    iso_code: TCD
     country_or_area:
       en: Chad (Republic of)
       fr: Tchad (République du)
@@ -733,7 +727,6 @@ data:
     tel: "+235 2251 5782"
     fax: "+235 2251 5066"
   JEY:
-    iso_code: JEY
     country_or_area:
       en: 'Channel Islands: Jersey'
       fr: 'Iles anglo-normandes: Jersey'
@@ -749,7 +742,6 @@ data:
     tel: "+44 1534 882273"
     fax: "+44 1534 882243"
   CHL:
-    iso_code: CHL
     country_or_area:
       en: Chile
       fr: Chili
@@ -765,7 +757,6 @@ data:
     tel: "+56 2 330 9601"
     fax: "+56 2 330 9700"
   CHN:
-    iso_code: CHN
     country_or_area:
       en: China (People's Republic of)
       fr: Chine (République populaire de)
@@ -781,7 +772,6 @@ data:
     tel: "+86 10 8391 3115"
     fax: "+86 10 8391 3140"
   COL:
-    iso_code: COL
     country_or_area:
       en: Colombia (Republic of)
       fr: Colombie (République de)
@@ -798,7 +788,6 @@ data:
     fax: "+57 4 314020"
     email: aceballos@orbitel.com
   COM:
-    iso_code: COM
     country_or_area:
       en: Comoros (Union of the)
       fr: Comores (Union des)
@@ -813,7 +802,6 @@ data:
     tel: "+269 773 0610"
     fax: "+269 773 1079"
   COG:
-    iso_code: COG
     country_or_area:
       en: Congo (Republic of the)
       fr: Congo (République du)
@@ -828,7 +816,6 @@ data:
     tel: "+242 283 1371"
     fax: "+242 283 7546"
   COK:
-    iso_code: COK
     country_or_area:
       en: Cook Islands
       fr: Cook (Iles)
@@ -843,7 +830,6 @@ data:
     tel: "+682 29470"
     fax: "+682 20990"
   CRI:
-    iso_code: CRI
     country_or_area:
       en: Costa Rica
       fr: Costa Rica
@@ -859,7 +845,6 @@ data:
     tel: "+506 2287 0378"
     fax: "+506 2287 0379"
   CIV:
-    iso_code: CIV
     country_or_area:
       en: Côte d'Ivoire (Republic of)
       fr: Côte d'Ivoire (République de)
@@ -875,7 +860,6 @@ data:
     tel: "+225 2034 4805"
     fax: "+225 2021 2828"
   HRV:
-    iso_code: HRV
     country_or_area:
       en: Croatia (Republic of)
       fr: Croatie (République de)
@@ -892,7 +876,6 @@ data:
     fax: "+385 1 469 1109"
     email: s.corkovic@vipnet.hr
   CUB:
-    iso_code: CUB
     country_or_area:
       en: Cuba
       fr: Cuba
@@ -909,7 +892,6 @@ data:
     fax: "+53 7 241737"
     email: cubacel@cubacel.com
   CUW:
-    iso_code: CUW
     country_or_area:
       en: Curaçao
       fr: Curaçao
@@ -926,7 +908,6 @@ data:
     fax: "+599 9 737 4156"
     email: carrierservices@uts.an
   CYP:
-    iso_code: CYP
     country_or_area:
       en: Cyprus (Republic of)
       fr: Chypre (République de)
@@ -943,7 +924,6 @@ data:
     fax: "+357 2 270 1766"
     email: houtris.gl@cyta.cytanet.com.cy
   CZE:
-    iso_code: CZE
     country_or_area:
       en: Czech Republic
       fr: République tchèque
@@ -960,7 +940,6 @@ data:
     fax: "+420 2 7146 9808"
     email: jindrich.trpisovsky@ct.cz
   PRK:
-    iso_code: PRK
     country_or_area:
       en: Democratic People's Republic of Korea
       fr: République populaire démocratique de Corée
@@ -975,7 +954,6 @@ data:
     tel: "+850 2 381 3180"
     fax: "+850 2 381 4418"
   COD:
-    iso_code: COD
     country_or_area:
       en: Democratic Republic of the Congo
       fr: République démocratique du Congo
@@ -990,7 +968,6 @@ data:
     tel: "+243 12 20115"
     fax: "+243 12 21885"
   TLS:
-    iso_code: TLS
     country_or_area:
       en: Democratic Republic of Timor-Leste
       fr: République démocratique du Timor-Leste
@@ -1004,7 +981,6 @@ data:
     address_line_3: Maxeland 2
     carrier_code: TT
   DNK:
-    iso_code: DNK
     country_or_area:
       en: Denmark
       fr: Danemark
@@ -1020,7 +996,6 @@ data:
     tel: "+45 3525 4770"
     fax: "+45 7026 2301"
   IOT:
-    iso_code: IOT
     country_or_area:
       en: Diego Garcia
       fr: Diego Garcia
@@ -1038,7 +1013,6 @@ data:
     fax: "+246 370 9398"
     email: manager@cwnetdg.io
   DJI:
-    iso_code: DJI
     country_or_area:
       en: Djibouti (Republic of)
       fr: Djibouti (République de)
@@ -1054,7 +1028,6 @@ data:
     tel: "+253 21 353 338"
     fax: "+253 21 350 109"
   DMA:
-    iso_code: DMA
     country_or_area:
       en: Dominica (Commonwealth of)
       fr: Dominique (Commonwealth de la)
@@ -1070,7 +1043,6 @@ data:
     tel: "+1 767 448 1010"
     fax: "+1 767 448 1181"
   DOM:
-    iso_code: DOM
     country_or_area:
       en: Dominican Republic
       fr: Dominicaine (République)
@@ -1085,7 +1057,6 @@ data:
     tel: "+1 809 220 2607"
     fax: "+1 809 566 7821"
   ECU:
-    iso_code: ECU
     country_or_area:
       en: Ecuador
       fr: Equateur
@@ -1102,7 +1073,6 @@ data:
     fax: "+593 7 840022"
     email: etapadtt@etapa.com.ec
   EGY:
-    iso_code: EGY
     country_or_area:
       en: Egypt (Arab Republic of)
       fr: Egypte (République arabe d')
@@ -1119,7 +1089,6 @@ data:
     fax: "+20 2 2529 2050"
     email: mahmoud.elmogy@vodafone.com.eg
   SLV:
-    iso_code: SLV
     country_or_area:
       en: El Salvador (Republic of)
       fr: El Salvador (République d')
@@ -1136,7 +1105,6 @@ data:
     fax: "+503 2280 9002"
     email: max@telemovil.com
   GNQ:
-    iso_code: GNQ
     country_or_area:
       en: Equatorial Guinea (Republic of)
       fr: Guinée équatoriale (République de)
@@ -1152,7 +1120,6 @@ data:
     tel: "+240 3330 93316"
     fax: "+240 3330 94000"
   ERI:
-    iso_code: ERI
     country_or_area:
       en: Eritrea
       fr: Erythrée
@@ -1168,7 +1135,6 @@ data:
     tel: "+291 1 117547"
     fax: "+291 1 120938"
   EST:
-    iso_code: EST
     country_or_area:
       en: Estonia (Republic of)
       fr: Estonie (République d')
@@ -1185,7 +1151,6 @@ data:
     fax: "+372 640 2551"
     email: toivo.liblik@elion.ee
   ETH:
-    iso_code: ETH
     country_or_area:
       en: Ethiopia (Federal Democratic Republic of)
       fr: Ethiopie (République fédérale démocratique d')
@@ -1202,7 +1167,6 @@ data:
     fax: "+251 11 151 5777"
     email: a.abate@telecom.net.et
   FLK:
-    iso_code: FLK
     country_or_area:
       en: Falkland Islands (Malvinas)
       fr: Falkland (Iles) (Malvinas)
@@ -1218,7 +1182,6 @@ data:
     tel: "+500 20801"
     fax: "+500 22207"
   FRO:
-    iso_code: FRO
     country_or_area:
       en: Faroe Islands
       fr: Féroé (Iles)
@@ -1234,7 +1197,6 @@ data:
     tel: "+298 202071"
     fax: "+298 202021"
   FJI:
-    iso_code: FJI
     country_or_area:
       en: Fiji (Republic of)
       fr: Fidji (République de)
@@ -1250,7 +1212,6 @@ data:
     tel: "+679 321 0318"
     fax: "+679 330 3210"
   FIN:
-    iso_code: FIN
     country_or_area:
       en: Finland
       fr: Finlande
@@ -1267,7 +1228,6 @@ data:
     fax: "+358 19 453 530"
     email: zlobin.arkady@kolumbus.fi
   FRA:
-    iso_code: FRA
     country_or_area:
       en: France
       fr: France
@@ -1283,7 +1243,6 @@ data:
     tel: "+33 1 55 49 38 38"
     fax: "+33 1 55 49 38 39"
   REU:
-    iso_code: REU
     country_or_area:
       en: French Departments and Territories in the Indian Ocean
       fr: France de l'Océan indien
@@ -1300,7 +1259,6 @@ data:
     tel: "+33 1 55 49 38 38"
     fax: "+33 1 55 49 38 39"
   GUF:
-    iso_code: GUF
     country_or_area:
       en: French Guiana (French Department of)
       fr: Guyane française (Département français de la)
@@ -1313,7 +1271,6 @@ data:
     contact: Claire Paponneau
     fax: "+33 1 43 42 55 20"
   PYF:
-    iso_code: PYF
     country_or_area:
       en: French Polynesia (Territoire français d'outre-mer)
       fr: Polynésie française (Territoire français d'outre-mer)
@@ -1329,7 +1286,6 @@ data:
     tel: "+689 415404"
     fax: "+689 433495"
   GAB:
-    iso_code: GAB
     country_or_area:
       en: Gabonese Republic
       fr: Gabonaise (République)
@@ -1345,7 +1301,6 @@ data:
     tel: "+241 787156"
     fax: "+241 747168"
   GMB:
-    iso_code: GMB
     country_or_area:
       en: Gambia (Republic of the)
       fr: Gambie (République de)
@@ -1361,7 +1316,6 @@ data:
     tel: "+220 422 9511"
     fax: "+220 420 1973"
   GEO:
-    iso_code: GEO
     country_or_area:
       en: Georgia
       fr: Géorgie
@@ -1376,7 +1330,6 @@ data:
     tel: "+995 32 294900"
     fax: "+995 32 934540"
   DEU:
-    iso_code: DEU
     country_or_area:
       en: Germany (Federal Republic of)
       fr: Allemagne (République fédérale d')
@@ -1393,7 +1346,6 @@ data:
     fax: "+49 5361 8911 109"
     email: hans-juergen.dargel@wobcom.de
   GHA:
-    iso_code: GHA
     country_or_area:
       en: Ghana
       fr: Ghana
@@ -1410,7 +1362,6 @@ data:
     fax: "+233 21 231974"
     email: scancom@africaonline.com.gh
   GIB:
-    iso_code: GIB
     country_or_area:
       en: Gibraltar
       fr: Gibraltar
@@ -1427,7 +1378,6 @@ data:
     fax: "+350 2007 1673"
     email: dwayne.lara@gibtele.com
   GRC:
-    iso_code: GRC
     country_or_area:
       en: Greece
       fr: Grèce
@@ -1443,7 +1393,6 @@ data:
     tel: "+30 21 0611 7660"
     fax: "+30 21 0611 7833"
   GRL:
-    iso_code: GRL
     country_or_area:
       en: Greenland (Denmark)
       fr: Groenland (Danemark)
@@ -1458,7 +1407,6 @@ data:
     tel: "+299 34 12 55"
     fax: "+299 32 22 55"
   GRD:
-    iso_code: GRD
     country_or_area:
       en: Grenada
       fr: Grenade
@@ -1474,7 +1422,6 @@ data:
     tel: "+1 473 441 2207"
     fax: "+1 473 444 4848"
   GLP:
-    iso_code: GLP
     country_or_area:
       en: Guadeloupe (French Department of)
       fr: Guadeloupe (Département français de la)
@@ -1491,7 +1438,6 @@ data:
     tel: "+33 1 55 49 38 38"
     fax: "+33 1 55 49 38 39"
   GUM:
-    iso_code: GUM
     country_or_area:
       en: Guam
       fr: Guam
@@ -1506,7 +1452,6 @@ data:
     carrier_code: WUI
     tel: "+1 800 777 5555"
   GTM:
-    iso_code: GTM
     country_or_area:
       en: Guatemala (Republic of)
       fr: Guatemala (République du)
@@ -1521,7 +1466,6 @@ data:
     tel: "+502 2232 9098"
     fax: "+502 2232 5798"
   GIN:
-    iso_code: GIN
     country_or_area:
       en: Guinea (Republic of)
       fr: Guinée (République de)
@@ -1537,7 +1481,6 @@ data:
     tel: "+224 6477 4170"
     email: fdavilmar@hotmail.com
   GNB:
-    iso_code: GNB
     country_or_area:
       en: Guinea-Bissau (Republic of)
       fr: Guinée-Bissau (République de)
@@ -1552,7 +1495,6 @@ data:
     tel: "+245 321 2914"
     fax: "+245 321 1300"
   GUY:
-    iso_code: GUY
     country_or_area:
       en: Guyana
       fr: Guyana
@@ -1569,7 +1511,6 @@ data:
     fax: "+592 226 8940"
     email: eabrams@gtt.co.gy
   HTI:
-    iso_code: HTI
     country_or_area:
       en: Haiti (Republic of)
       fr: Haïti (République d')
@@ -1586,7 +1527,6 @@ data:
     fax: "+509 2256 7758"
     email: donald.connor@digicelgroup.com
   HND:
-    iso_code: HND
     country_or_area:
       en: Honduras (Republic of)
       fr: Honduras (République du)
@@ -1603,7 +1543,6 @@ data:
     fax: "+504 2238 5614"
     email: avalenzuela@hondutelnet.hn
   HKG:
-    iso_code: HKG
     country_or_area:
       en: Hong Kong, China
       fr: Hong Kong, Chine
@@ -1619,7 +1558,6 @@ data:
     tel: "+852 2112 2672"
     fax: "+852 2112 2680"
   HUN:
-    iso_code: HUN
     country_or_area:
       en: Hungary
       fr: Hongrie
@@ -1636,7 +1574,6 @@ data:
     fax: "+36 29 410 000"
     email: pasztor.erno@monortel.hu
   ISL:
-    iso_code: ISL
     country_or_area:
       en: Iceland
       fr: Islande
@@ -1651,7 +1588,6 @@ data:
     tel: "+354 550 6000"
     fax: "+354 550 6009"
   IND:
-    iso_code: IND
     country_or_area:
       en: India (Republic of)
       fr: Inde (République de l')
@@ -1667,7 +1603,6 @@ data:
     tel: "+91 22 2262 4087"
     fax: "+91 22 2262 3616"
   IDN:
-    iso_code: IDN
     country_or_area:
       en: Indonesia (Republic of)
       fr: Indonésie (République d')
@@ -1683,7 +1618,6 @@ data:
     tel: "+62 22 452 7252"
     fax: "+62 22 720 3247"
   IRN:
-    iso_code: IRN
     country_or_area:
       en: Iran (Islamic Republic of)
       fr: Iran (République islamique d')
@@ -1700,7 +1634,6 @@ data:
     fax: "+98 21 8841 6151"
     email: agafzali@irantelecom.ir
   IRQ:
-    iso_code: IRQ
     country_or_area:
       en: Iraq (Republic of)
       fr: Iraq (République d')
@@ -1715,7 +1648,6 @@ data:
     tel: "+964 1 718 0400"
     fax: "+964 1 718 2125"
   IRL:
-    iso_code: IRL
     country_or_area:
       en: Ireland
       fr: Irlande
@@ -1732,7 +1664,6 @@ data:
     fax: "+353 87 5235 2155"
     email: colm.fleming@vodafone.com
   ISR:
-    iso_code: ISR
     country_or_area:
       en: Israel (State of)
       fr: Israël (Etat d')
@@ -1749,7 +1680,6 @@ data:
     fax: "+972 3 925 7362"
     email: michael@bezeqint.co.il
   ITA:
-    iso_code: ITA
     country_or_area:
       en: Italy
       fr: Italie
@@ -1766,7 +1696,6 @@ data:
     fax: "+39 02 4832 93602"
     email: pasquale.durante@it.worldonline.com
   JAM:
-    iso_code: JAM
     country_or_area:
       en: Jamaica
       fr: Jamaïque
@@ -1782,7 +1711,6 @@ data:
     tel: "+1 876 967 9859"
     fax: "+1 876 922 0258"
   JPN:
-    iso_code: JPN
     country_or_area:
       en: Japan
       fr: Japon
@@ -1799,7 +1727,6 @@ data:
     fax: "+81 3 5359 1192"
     email: hyamada@yamato.ntt.jp
   JOR:
-    iso_code: JOR
     country_or_area:
       en: Jordan (Hashemite Kingdom of)
       fr: Jordanie (Royaume hachémite de)
@@ -1816,7 +1743,6 @@ data:
     fax: "+962 6 465 9666"
     email: adahdah@jtc.com.jo
   KAZ:
-    iso_code: KAZ
     country_or_area:
       en: Kazakhstan (Republic of)
       fr: Kazakhstan (République du)
@@ -1833,7 +1759,6 @@ data:
     fax: "+7 7272 587910"
     email: info@satelcom.kz
   KEN:
-    iso_code: KEN
     country_or_area:
       en: Kenya (Republic of)
       fr: Kenya (République du)
@@ -1850,7 +1775,6 @@ data:
     fax: "+254 20 251 071"
     email: mdtelkom@telkom.co.ke
   KIR:
-    iso_code: KIR
     country_or_area:
       en: Kiribati (Republic of)
       fr: Kiribati (République de)
@@ -1866,7 +1790,6 @@ data:
     tel: "+686 21446"
     fax: "+686 21424"
   KOR:
-    iso_code: KOR
     country_or_area:
       en: Korea (Republic of)
       fr: Corée (République de)
@@ -1882,7 +1805,6 @@ data:
     tel: "+82 2 528 5607"
     fax: "+82 2 528 5604"
   KWT:
-    iso_code: KWT
     country_or_area:
       en: Kuwait (State of)
       fr: Koweït (Etat du)
@@ -1898,7 +1820,6 @@ data:
     tel: "+965 2484 4343"
     fax: "+965 2484 3232"
   KGZ:
-    iso_code: KGZ
     country_or_area:
       en: Kyrgyz Republic
       fr: République kirghize
@@ -1914,7 +1835,6 @@ data:
     tel: "+996 312 621616"
     fax: "+996 312 286345"
   LAO:
-    iso_code: LAO
     country_or_area:
       en: Lao People's Democratic Republic
       fr: Lao (République démocratique populaire)
@@ -1931,7 +1851,6 @@ data:
     fax: "+856 21 215479"
     email: atipr@laotel.com
   LVA:
-    iso_code: LVA
     country_or_area:
       en: Latvia (Republic of)
       fr: Lettonie (République de)
@@ -1948,7 +1867,6 @@ data:
     fax: "+371 6704 3256"
     email: ilana@unistars.lv
   LBN:
-    iso_code: LBN
     country_or_area:
       en: Lebanon
       fr: Liban
@@ -1964,7 +1882,6 @@ data:
     tel: "+961 1 888150"
     fax: "+961 1 888600"
   LSO:
-    iso_code: LSO
     country_or_area:
       en: Lesotho (Kingdom of)
       fr: Lesotho (Royaume du)
@@ -1980,7 +1897,6 @@ data:
     tel: "+266 22 211100"
     fax: "+266 22 310183"
   LBR:
-    iso_code: LBR
     country_or_area:
       en: Liberia (Republic of)
       fr: Libéria (République du)
@@ -1995,7 +1911,6 @@ data:
     tel: "+231 2022 6001"
     fax: "+231 2022 6000"
   LBY:
-    iso_code: LBY
     country_or_area:
       en: Libya
       fr: Libye
@@ -2010,7 +1925,6 @@ data:
     tel: "+218 21 360 4101"
     fax: "+218 21 360 4102"
   LIE:
-    iso_code: LIE
     country_or_area:
       en: Liechtenstein (Principality of)
       fr: Liechtenstein (Principauté de)
@@ -2027,7 +1941,6 @@ data:
     fax: "+423 235 5663"
     email: frank.boller@telecom.li
   LTU:
-    iso_code: LTU
     country_or_area:
       en: Lithuania (Republic of)
       fr: Lituanie (République de)
@@ -2043,7 +1956,6 @@ data:
     tel: "+370 5 222 0896"
     fax: "+370 5 223 1313"
   LUX:
-    iso_code: LUX
     country_or_area:
       en: Luxembourg
       fr: Luxembourg
@@ -2060,7 +1972,6 @@ data:
     fax: "+352 20 300 222"
     email: mstorck@voipgate.com
   MAC:
-    iso_code: MAC
     country_or_area:
       en: Macao, China
       fr: Macao, Chine
@@ -2077,7 +1988,6 @@ data:
     fax: "+853 28 581400"
     email: xeque@macau.ctm.net
   MDG:
-    iso_code: MDG
     country_or_area:
       en: Madagascar (Republic of)
       fr: Madagascar (République de)
@@ -2093,7 +2003,6 @@ data:
     tel: "+261 20 22  24803"
     fax: "+261 20 22 42354"
   MWI:
-    iso_code: MWI
     country_or_area:
       en: Malawi
       fr: Malawi
@@ -2109,7 +2018,6 @@ data:
     tel: "+265 1 620000"
     fax: "+265 1 671460"
   MYS:
-    iso_code: MYS
     country_or_area:
       en: Malaysia
       fr: Malaisie
@@ -2125,7 +2033,6 @@ data:
     tel: "+60 3 467 3114"
     fax: "+60 3 466 9007"
   MDV:
-    iso_code: MDV
     country_or_area:
       en: Maldives (Republic of)
       fr: Maldives (République des)
@@ -2141,7 +2048,6 @@ data:
     tel: "+960 331 1246"
     fax: "+960 332 2800"
   MLI:
-    iso_code: MLI
     country_or_area:
       en: Mali (Republic of)
       fr: Mali (République du)
@@ -2157,7 +2063,6 @@ data:
     tel: "+223 2022 7202"
     fax: "+223 2021 3022"
   MLT:
-    iso_code: MLT
     country_or_area:
       en: Malta
       fr: Malte
@@ -2174,7 +2079,6 @@ data:
     fax: "+356 21 486 876"
     email: joseph.muscat@vodafone.com
   MTQ:
-    iso_code: MTQ
     country_or_area:
       en: Martinique (French Department of)
       fr: Martinique (Département français de la)
@@ -2190,7 +2094,6 @@ data:
     tel: "+596 596 50 23 15"
     fax: "+596 596 50 51 88"
   MRT:
-    iso_code: MRT
     country_or_area:
       en: Mauritania (Islamic Republic of)
       fr: Mauritanie (République islamique de)
@@ -2206,7 +2109,6 @@ data:
     tel: "+222 4525 8213"
     fax: "+222 4525 1700"
   MUS:
-    iso_code: MUS
     country_or_area:
       en: Mauritius (Republic of)
       fr: Maurice (République de)
@@ -2221,7 +2123,6 @@ data:
     tel: "+230 208 3829"
     fax: "+230 208 1070"
   MEX:
-    iso_code: MEX
     country_or_area:
       en: Mexico
       fr: Mexique
@@ -2238,7 +2139,6 @@ data:
     fax: "+52 55 5516 6574"
     email: uniten@compuserve.com.mx
   FSM:
-    iso_code: FSM
     country_or_area:
       en: Micronesia (Federated States of)
       fr: Micronésie (Etats fédérés de)
@@ -2254,7 +2154,6 @@ data:
     tel: "+691 320 1741"
     fax: "+691 320 2745"
   MDA:
-    iso_code: MDA
     country_or_area:
       en: Moldova (Republic of)
       fr: Moldova (République de)
@@ -2271,7 +2170,6 @@ data:
     fax: "+373 22 570 157"
     email: gursachi@moldtelecom.md
   MCO:
-    iso_code: MCO
     country_or_area:
       en: Monaco (Principality of)
       fr: Monaco (Principauté de)
@@ -2287,7 +2185,6 @@ data:
     tel: "+377 93 156101"
     fax: "+377 93 150014"
   MNG:
-    iso_code: MNG
     country_or_area:
       en: Mongolia
       fr: Mongolie
@@ -2303,7 +2200,6 @@ data:
     tel: "+976 11 323010"
     fax: "+976 11 323010"
   MNE:
-    iso_code: MNE
     country_or_area:
       en: Montenegro
       fr: Monténégro
@@ -2320,7 +2216,6 @@ data:
     fax: "+382 20 225 752"
     email: zoltan.pinkola@telekom-cg.com
   MSR:
-    iso_code: MSR
     country_or_area:
       en: Montserrat
       fr: Montserrat
@@ -2336,7 +2231,6 @@ data:
     tel: "+1 664 491 7140"
     fax: "+1 664 491 8019"
   MAR:
-    iso_code: MAR
     country_or_area:
       en: Morocco (Kingdom of)
       fr: Maroc (Royaume du)
@@ -2353,7 +2247,6 @@ data:
     fax: "+212 53 777 5256"
     email: hmadou@iam.net.ma
   MOZ:
-    iso_code: MOZ
     country_or_area:
       en: Mozambique (Republic of)
       fr: Mozambique (République du)
@@ -2368,7 +2261,6 @@ data:
     tel: "+258 21 431921"
     fax: "+258 21 431944"
   MMR:
-    iso_code: MMR
     country_or_area:
       en: Myanmar (Union of)
       fr: Myanmar (Union de)
@@ -2383,7 +2275,6 @@ data:
     tel: "+95 1 297722"
     fax: "+95 1 251911"
   NAM:
-    iso_code: NAM
     country_or_area:
       en: Namibia (Republic of)
       fr: Namibie (République de)
@@ -2399,7 +2290,6 @@ data:
     tel: "+264 61 201 2444"
     fax: "+264 61 201 2603"
   NRU:
-    iso_code: NRU
     country_or_area:
       en: Nauru (Republic of)
       fr: Nauru (République de)
@@ -2415,7 +2305,6 @@ data:
     tel: "+674 444 3324"
     fax: "+674 444 3111"
   NPL:
-    iso_code: NPL
     country_or_area:
       en: Nepal (Federal Democratic Republic of)
       fr: Népal (République fédérale démocratique du)
@@ -2430,7 +2319,6 @@ data:
     tel: "+977 1 422 2424"
     fax: "+977 1 422 6280"
   NLD:
-    iso_code: NLD
     country_or_area:
       en: Netherlands (Kingdom of the)
       fr: Pays-Bas (Royaume des)
@@ -2446,7 +2334,6 @@ data:
     tel: "+31 70 343 4976"
     fax: "+31 70 343 4939"
   NCL:
-    iso_code: NCL
     country_or_area:
       en: New Caledonia (Territoire français d'outre-mer)
       fr: Nouvelle-Calédonie (Territoire français d'outre-mer)
@@ -2463,7 +2350,6 @@ data:
     fax: "+687 289090"
     email: telecom@opt.nc
   NZL:
-    iso_code: NZL
     country_or_area:
       en: New Zealand
       fr: Nouvelle-Zélande
@@ -2477,7 +2363,6 @@ data:
     carrier_code: WAXSNZ
     contact: Paul Clarkin
   NIC:
-    iso_code: NIC
     country_or_area:
       en: Nicaragua
       fr: Nicaragua
@@ -2493,7 +2378,6 @@ data:
     tel: "+505 2225 1812"
     fax: "+505 2278 1128"
   NER:
-    iso_code: NER
     country_or_area:
       en: Niger (Republic of the)
       fr: Niger (République du)
@@ -2509,7 +2393,6 @@ data:
     tel: "+227 2072 2857"
     fax: "+227 2072 2478"
   NGA:
-    iso_code: NGA
     country_or_area:
       en: Nigeria (Federal Republic of)
       fr: Nigéria (République fédérale du)
@@ -2525,7 +2408,6 @@ data:
     tel: "+234 1 263 7066"
     fax: "+234 1 619853"
   NOR:
-    iso_code: NOR
     country_or_area:
       en: Norway
       fr: Norvège
@@ -2541,7 +2423,6 @@ data:
     tel: "+47 2277 7634"
     fax: "+47 2277 8901"
   OMN:
-    iso_code: OMN
     country_or_area:
       en: Oman (Sultanate of)
       fr: Oman (Sultanat d')
@@ -2558,7 +2439,6 @@ data:
     fax: "+968 24 484931"
     email: abdulrahim.bahlani@omantel.om
   PAK:
-    iso_code: PAK
     country_or_area:
       en: Pakistan (Islamic Republic of)
       fr: Pakistan (République islamique du)
@@ -2573,7 +2453,6 @@ data:
     tel: "+92 51 250645"
     fax: "+92 51 858074"
   PAN:
-    iso_code: PAN
     country_or_area:
       en: Panama (Republic of)
       fr: Panama (République du)
@@ -2588,7 +2467,6 @@ data:
     tel: "+507 269 7111"
     fax: "+507 264 5743"
   PNG:
-    iso_code: PNG
     country_or_area:
       en: Papua New Guinea
       fr: Papouasie-Nouvelle-Guinée
@@ -2604,7 +2482,6 @@ data:
     tel: "+675 327 4000"
     fax: "+675 325 0665"
   PRY:
-    iso_code: PRY
     country_or_area:
       en: Paraguay (Republic of)
       fr: Paraguay (République du)
@@ -2620,7 +2497,6 @@ data:
     tel: "+595 21 203800"
     fax: "+595 21 203888"
   PER:
-    iso_code: PER
     country_or_area:
       en: Peru
       fr: Pérou
@@ -2636,7 +2512,6 @@ data:
     tel: "+51 1 222 4814"
     fax: "+51 1 422 0587"
   PHL:
-    iso_code: PHL
     country_or_area:
       en: Philippines (Republic of the)
       fr: Philippines (République des)
@@ -2652,7 +2527,6 @@ data:
     tel: "+63 2 811 0211"
     fax: "+63 2 892 4844"
   POL:
-    iso_code: POL
     country_or_area:
       en: Poland (Republic of)
       fr: Pologne (République de)
@@ -2669,7 +2543,6 @@ data:
     fax: "+48 22 699 2134"
     email: janusz.czerwinski@telekomunikacja.pl
   PRT:
-    iso_code: PRT
     country_or_area:
       en: Portugal
       fr: Portugal
@@ -2685,7 +2558,6 @@ data:
     tel: "+351 21 500 2000"
     fax: "+351 21 350 4728"
   QAT:
-    iso_code: QAT
     country_or_area:
       en: Qatar (State of)
       fr: Qatar (Etat du)
@@ -2702,7 +2574,6 @@ data:
     fax: "+974 4483 0630"
     email: wfakhroo@qtel.com.qa
   ROU:
-    iso_code: ROU
     country_or_area:
       en: Romania
       fr: Roumanie
@@ -2719,7 +2590,6 @@ data:
     fax: "+40 31 710 7343"
     email: giri@wvg-tele.com
   RUS:
-    iso_code: RUS
     country_or_area:
       en: Russian Federation
       fr: Russie (Fédération de)
@@ -2735,7 +2605,6 @@ data:
     tel: "+7 495 292 7127"
     fax: "+7 495 924 7062"
   RWA:
-    iso_code: RWA
     country_or_area:
       en: Rwanda (Republic of)
       fr: Rwanda (République du)
@@ -2751,7 +2620,6 @@ data:
     tel: "+250 2525 76777"
     fax: "+250 2525 74460"
   SHN:
-    iso_code: SHN
     country_or_area:
       en: Saint Helena, Ascension and Tristan da Cunha
       fr: Sainte-Hélène, Ascension et Tristan da Cunha
@@ -2767,7 +2635,6 @@ data:
     tel: "+290 2211"
     fax: "+290 2213"
   KNA:
-    iso_code: KNA
     country_or_area:
       en: Saint Kitts and Nevis (Federation of)
       fr: Saint-Kitts-et-Nevis (Fédération de)
@@ -2783,7 +2650,6 @@ data:
     tel: "+1 869 465 1909"
     fax: "+1 869 465 1111"
   LCA:
-    iso_code: LCA
     country_or_area:
       en: Saint Lucia
       fr: Sainte-Lucie
@@ -2799,7 +2665,6 @@ data:
     tel: "+1 758 453 9443"
     fax: "+1 758 453 9707"
   SPM:
-    iso_code: SPM
     country_or_area:
       en: Saint Pierre and Miquelon (Collectivité territoriale de la République française)
       fr: Saint-Pierre-et-Miquelon (Collectivité territoriale de la République française)
@@ -2814,7 +2679,6 @@ data:
     contact: Charles Landry
     tel: "+508 41 48 59"
   VCT:
-    iso_code: VCT
     country_or_area:
       en: Saint Vincent and the Grenadines
       fr: Saint-Vincent-et-Grenadines
@@ -2830,7 +2694,6 @@ data:
     tel: "+1 784 457 1099"
     fax: "+1 784 457 2777"
   WSM:
-    iso_code: WSM
     country_or_area:
       en: Samoa (Independent State of)
       fr: Samoa (Etat indépendant du)
@@ -2846,7 +2709,6 @@ data:
     tel: "+685 23456"
     fax: "+685 20310"
   SMR:
-    iso_code: SMR
     country_or_area:
       en: San Marino (Republic of)
       fr: Saint-Marin (République de)
@@ -2863,7 +2725,6 @@ data:
     fax: "+378 0549 888825"
     email: info@telenet.sm
   STP:
-    iso_code: STP
     country_or_area:
       en: Sao Tome and Principe (Democratic Republic of)
       fr: Sao Tomé-et-Principe (République démocratique de)
@@ -2879,7 +2740,6 @@ data:
     tel: "+239 222 2226"
     fax: "+239 222 2500"
   SAU:
-    iso_code: SAU
     country_or_area:
       en: Saudi Arabia (Kingdom of)
       fr: Arabie saoudite (Royaume d')
@@ -2895,7 +2755,6 @@ data:
     tel: "+966 1 452 7218"
     fax: "+966 1 454 7204"
   SEN:
-    iso_code: SEN
     country_or_area:
       en: Senegal (Republic of)
       fr: Sénégal (République du)
@@ -2911,7 +2770,6 @@ data:
     tel: "+221 33 839 1118"
     fax: "+221 33 822 1492"
   SRB:
-    iso_code: SRB
     country_or_area:
       en: Serbia (Republic of)
       fr: Serbie (République de)
@@ -2926,7 +2784,6 @@ data:
     tel: "+381 11 3341 433"
     fax: "+381 11 3341 635"
   SYC:
-    iso_code: SYC
     country_or_area:
       en: Seychelles (Republic of)
       fr: Seychelles (République des)
@@ -2943,7 +2800,6 @@ data:
     fax: "+248 432 1444"
     email: milton.durup@cws.cwplc.com
   SLE:
-    iso_code: SLE
     country_or_area:
       en: Sierra Leone
       fr: Sierra Leone
@@ -2959,7 +2815,6 @@ data:
     tel: "+232 22 222804"
     fax: "+232 22 224439"
   SGP:
-    iso_code: SGP
     country_or_area:
       en: Singapore (Republic of)
       fr: Singapour (République de)
@@ -2976,7 +2831,6 @@ data:
     fax: "+65 6736 6048"
     email: cannicel@starhub.com.sg
   SVK:
-    iso_code: SVK
     country_or_area:
       en: Slovak Republic
       fr: République slovaque
@@ -2993,7 +2847,6 @@ data:
     fax: "+421 2 5058 5509"
     email: zt@zsr.sk
   SVN:
-    iso_code: SVN
     country_or_area:
       en: Slovenia (Republic of)
       fr: Slovénie (République de)
@@ -3010,7 +2863,6 @@ data:
     fax: "+386 1 433 0293"
     email: marko.kocila@lj-kabel.si
   SLB:
-    iso_code: SLB
     country_or_area:
       en: Solomon Islands
       fr: Salomon (Iles)
@@ -3026,7 +2878,6 @@ data:
     tel: "+677 30494"
     fax: "+677 30697"
   SOM:
-    iso_code: SOM
     country_or_area:
       en: Somalia (Federal Republic of)
       fr: Somalie (République fédérale de)
@@ -3041,7 +2892,6 @@ data:
     carrier_code: MPT
     tel: "+252 20058"
   ZAF:
-    iso_code: ZAF
     country_or_area:
       en: South Africa (Republic of)
       fr: Sudafricaine (République)
@@ -3058,7 +2908,6 @@ data:
     fax: "+27 11 663 5941"
     email: robinsga@vodacom.co.za
   ESP:
-    iso_code: ESP
     country_or_area:
       en: Spain
       fr: Espagne
@@ -3075,7 +2924,6 @@ data:
     fax: "+34 9144 49167"
     email: iozcarriz@alkhaid.es
   LKA:
-    iso_code: LKA
     country_or_area:
       en: Sri Lanka (Democratic Socialist Republic of)
       fr: Sri Lanka (République socialiste démocratique de)
@@ -3092,7 +2940,6 @@ data:
     fax: "+94 11 471 0001"
     email: mahinda@suntel.lk
   SDN:
-    iso_code: SDN
     country_or_area:
       en: Sudan (Republic of the)
       fr: Soudan (République du)
@@ -3109,7 +2956,6 @@ data:
     fax: "+249 12 379 0578"
     email: i.alhassan@sdn-mobitel.com
   SUR:
-    iso_code: SUR
     country_or_area:
       en: Suriname (Republic of)
       fr: Suriname (République du)
@@ -3126,7 +2972,6 @@ data:
     fax: "+597 425898"
     email: secriz@sr.net
   SWZ:
-    iso_code: SWZ
     country_or_area:
       en: Swaziland (Kingdom of)
       fr: Swaziland (Royaume du)
@@ -3142,7 +2987,6 @@ data:
     tel: "+268 2404 3131"
     fax: "+268 2404 3130"
   SWE:
-    iso_code: SWE
     country_or_area:
       en: Sweden
       fr: Suède
@@ -3157,7 +3001,6 @@ data:
     fax: "+46 8 713 4790"
     email: inger.forsell@teliacarrier.com
   CHE:
-    iso_code: CHE
     country_or_area:
       en: Switzerland (Confederation of)
       fr: Suisse (Confédération)
@@ -3174,7 +3017,6 @@ data:
     fax: "+41 44 839 3295"
     email: heico.vanwingerden@unisource-ucs.com
   SYR:
-    iso_code: SYR
     country_or_area:
       en: Syrian Arab Republic
       fr: République arabe syrienne
@@ -3190,7 +3032,6 @@ data:
     tel: "+963 11 221 2200"
     fax: "+963 11 612 2000"
   TJK:
-    iso_code: TJK
     country_or_area:
       en: Tajikistan (Republic of)
       fr: Tadjikistan (République du)
@@ -3206,7 +3047,6 @@ data:
     tel: "+992 37 223 4444"
     fax: "+992 37 221 0404"
   TZA:
-    iso_code: TZA
     country_or_area:
       en: Tanzania (United Republic of)
       fr: Tanzanie (République-Unie de)
@@ -3222,7 +3062,6 @@ data:
     tel: "+255 24 526 1111"
     fax: "+255 24 223 4850"
   THA:
-    iso_code: THA
     country_or_area:
       en: Thailand
       fr: Thaïlande
@@ -3239,7 +3078,6 @@ data:
     fax: "+66 2 574 4794"
     email: wtanwade@adm.cat.or.th
   MKD:
-    iso_code: MKD
     country_or_area:
       en: The Former Yugoslav Republic of Macedonia
       fr: L'ex-République yougoslave de Macédoine
@@ -3254,7 +3092,6 @@ data:
     tel: "+389 2 211 9356"
     fax: "+389 2 216 2412"
   TGO:
-    iso_code: TGO
     country_or_area:
       en: Togolese Republic
       fr: Togolaise (République)
@@ -3269,7 +3106,6 @@ data:
     tel: "+228 225 0620"
     fax: "+228 225 6633"
   TON:
-    iso_code: TON
     country_or_area:
       en: Tonga (Kingdom of)
       fr: Tonga (Royaume des)
@@ -3283,7 +3119,6 @@ data:
     contact: B.S. Kautoke
     fax: "+676 24800"
   TTO:
-    iso_code: TTO
     country_or_area:
       en: Trinidad and Tobago
       fr: Trinité-et-Tobago
@@ -3300,7 +3135,6 @@ data:
     fax: "+1 868 623 3224"
     email: campbell@tstt.net.tt
   TUN:
-    iso_code: TUN
     country_or_area:
       en: Tunisia
       fr: Tunisie
@@ -3316,7 +3150,6 @@ data:
     tel: "+216 7180 1717"
     fax: "+216 7180 0777"
   TUR:
-    iso_code: TUR
     country_or_area:
       en: Turkey
       fr: Turquie
@@ -3333,7 +3166,6 @@ data:
     fax: "+90 312 313 2940"
     email: halil.yalcin@telekom.gov.tr
   TKM:
-    iso_code: TKM
     country_or_area:
       en: Turkmenistan
       fr: Turkménistan
@@ -3348,7 +3180,6 @@ data:
     tel: "+993 12 290472"
     fax: "+993 12 510240"
   TCA:
-    iso_code: TCA
     country_or_area:
       en: Turks and Caicos Islands
       fr: Turks et Caicos (Iles)
@@ -3364,7 +3195,6 @@ data:
     tel: "+1 649 946 1345"
     fax: "+1 649 946 2300"
   TUV:
-    iso_code: TUV
     country_or_area:
       en: Tuvalu
       fr: Tuvalu
@@ -3380,7 +3210,6 @@ data:
     tel: "+688 20001"
     fax: "+688 20002"
   UGA:
-    iso_code: UGA
     country_or_area:
       en: Uganda (Republic of)
       fr: Ouganda (République de l')
@@ -3395,7 +3224,6 @@ data:
     tel: "+256 41 425 8855"
     fax: "+256 41 424 5907"
   UKR:
-    iso_code: UKR
     country_or_area:
       en: Ukraine
       fr: Ukraine
@@ -3412,7 +3240,6 @@ data:
     fax: "+380 44 287 1171"
     email: vk@voip.com.ua
   ARE:
-    iso_code: ARE
     country_or_area:
       en: United Arab Emirates
       fr: Emirats arabes unis
@@ -3429,7 +3256,6 @@ data:
     fax: "+971 2 677 2930"
     email: mopsho@emirates.net.ae
   GBR:
-    iso_code: GBR
     country_or_area:
       en: United Kingdom of Great Britain and Northern Ireland
       fr: Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
@@ -3446,7 +3272,6 @@ data:
     fax: "+44 20 3291 2131"
     email: kmj@zimon.co.uk
   USA:
-    iso_code: USA
     country_or_area:
       en: United States of America
       fr: Etats-Unis d'Amérique
@@ -3459,7 +3284,6 @@ data:
     address_line_2: 'URL: https://www.neca.org/cms400min/NECA_Templates/Code_Administration.aspx'
     carrier_code: "******"
   URY:
-    iso_code: URY
     country_or_area:
       en: Uruguay (Eastern Republic of)
       fr: Uruguay (République orientale de l')
@@ -3475,7 +3299,6 @@ data:
     tel: "+598 2 400 9415"
     fax: "+598 2 408 3844"
   UZB:
-    iso_code: UZB
     country_or_area:
       en: Uzbekistan (Republic of)
       fr: Ouzbékistan (République d')
@@ -3490,7 +3313,6 @@ data:
     tel: "+998 71 233 6503"
     fax: "+998 71 244 2603"
   VUT:
-    iso_code: VUT
     country_or_area:
       en: Vanuatu (Republic of)
       fr: Vanuatu (République de)
@@ -3506,7 +3328,6 @@ data:
     tel: "+678 23000"
     fax: "+678 23499"
   VEN:
-    iso_code: VEN
     country_or_area:
       en: Venezuela (Bolivarian Republic of)
       fr: Venezuela (République bolivarienne du)
@@ -3521,7 +3342,6 @@ data:
     tel: "+58 212 500 3589"
     fax: "+58 212 500 3488"
   VNM:
-    iso_code: VNM
     country_or_area:
       en: Viet Nam (Socialist Republic of)
       fr: Viet Nam (République socialiste du)
@@ -3538,7 +3358,6 @@ data:
     fax: "+84 4 3825 5851"
     email: ptnguyen@vol.vnn.vn
   WLF:
-    iso_code: WLF
     country_or_area:
       en: Wallis and Futuna (Territoire français d'outre-mer)
       fr: Wallis-et-Futuna (Territoire français d'outre-mer)
@@ -3554,7 +3373,6 @@ data:
     tel: "+681 722436"
     fax: "+681 722255"
   YEM:
-    iso_code: YEM
     country_or_area:
       en: Yemen (Republic of)
       fr: Yémen (République du)
@@ -3570,7 +3388,6 @@ data:
     tel: "+967 1 270886"
     fax: "+967 1 280330"
   ZMB:
-    iso_code: ZMB
     country_or_area:
       en: Zambia (Republic of)
       fr: Zambie (République de)
@@ -3585,7 +3402,6 @@ data:
     tel: "+260 212 611 333"
     fax: "+260 212 615 855"
   ZWE:
-    iso_code: ZWE
     country_or_area:
       en: Zimbabwe (Republic of)
       fr: Zimbabwe (République du)

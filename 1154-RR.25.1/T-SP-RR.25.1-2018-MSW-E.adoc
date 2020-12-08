@@ -1,9 +1,9 @@
-= FORM OF CALL SIGNS ASSIGNED BY EACH ADMINISTRATION TO ITS AMATEUR AND EXPERIMENTAL STATIONS
-:bureau: T
+= Form of Call Signs Assigned by Each Administration to its Amateur and Experimental Stations
+:bureau: R
 :docnumber: 1154
-:series: STATUS OF RADIOCOMMUNICATIONS BETWEEN AMATEUR STATIONS OF DIFFERENT COUNTRIES
+:series: Status of Radiocommunications between Amateur Stations of Different Countries
 :series1: (In accordance with optional provision No. 25.1 of the Radio Regulations)
-:series2: AND
+:series2: and
 :published-date: 2018-08-15
 :status: published
 :doctype: service-publication
@@ -30,34 +30,27 @@ This Annex will be updated by numbered series of amendments published in the ITU
 
 Administrations are requested to check the accuracy of the information published herein and to inform the Union of any discrepancies. Changes to the information provided should be notified to the Bureau as soon as possible.
 
-International Telecommunication Union
-
-The Director of the Radiocommunication Bureau
-
-Place des Nations
-
-1211 GENEVA 20
-
-Switzerland
-
-Tel: + 41 22 730 5800
-
-Fax: + 41 22 730 5785
-
-E-mail: brmail@itu.int
+[align=left]
+International Telecommunication Union +
+The Director of the Radiocommunication Bureau +
+Place des Nations +
+1211 GENEVA 20 +
+Switzerland +
+Tel: + 41 22 730 5800 +
+Fax: + 41 22 730 5785 +
+E-mail: mailto:brmail@itu.int[]
 
 
 NOTE: Nothing in the manner of presentation of information in this Annex or in the arrangement of data implies endorsement or acceptance by ITU in matters affecting the status and boundaries of States and territories.
 
 
-== RADIOCOMMUNICATIONS BETWEEN AMATEUR STATIONS (RR 25.1)
+== Radiocommunications between Amateur Stations (RR 25.1)
 
 [%unnumbered]
 |===
-.2+^.^| Administration of the country or geographical area 2+^.^| BETWEEN STATIONS OF DIFFERENT COUNTRIES .2+^.^| Remarks and restrictions imposed ^.^a| Form of call signs
-^.^| Permitted ^.^| Forbidden ^.^| Pages
-
-^.^| 1 ^.^| 2 ^.^| 3 ^.^| 4 ^.^| 5
+.2+^.^h| Administration of the country or geographical area 2+^.^h| BETWEEN STATIONS OF DIFFERENT COUNTRIES .2+^.^h| Remarks and restrictions imposed ^.^h| Form of call signs
+^.^h| Permitted ^.^h| Forbidden ^.^h| Pages
+^.^h| 1 ^.^h| 2 ^.^h| 3 ^.^h| 4 ^.^h| 5
 
 | Afghanistan ^.^| x | | {blank}footnote:table1[This administration has not explicitly given its position. In terms of the consultation procedure, it is assumed that this administration has no objections to radiocommunications between amateur stations of its country and stations of other countries (see Circular Letter CR/430 of 14 May 2018).] |
 | Alaska (State of) ^.^| x | | {blank}footnote:table1[] ^.^| 43
@@ -325,7 +318,7 @@ NOTE: Nothing in the manner of presentation of information in this Annex or in t
 
 
 
-== FORM OF CALL SIGNS ASSIGNED BY EACH ADMINISTRATION TO ITS AMATEUR AND EXPERIMENTAL STATIONS
+== Form of Call Signs Assigned by Each Administration to its Amateur and Experimental Stations
 
 
 === Algeria (People's Democratic Republic of)
@@ -340,53 +333,55 @@ Amateur stations:: AY, AZ, LU, LW followed by a digit (0-9) and by 2 or 3 letter
 
 Letters indicating the provinces:: A-B and C - Federal Capital
 +
+--
 D-E - Province of Buenos Aires
-+
+
 F - Province of Santa Fé
-+
+
 GA–GOZ - Province of Chaco
-+
+
 GP–GZZ - Province of Formosa
-+
+
 H - Province of Córdoba
-+
+
 I - Province of Misiones
-+
+
 J - Province of Entre Ríos
-+
+
 K - Province of Tucumán
-+
+
 L - Province of Corrientes
-+
+
 M - Province of Mendoza
-+
+
 N - Province of Santiago del Estero
-+
+
 O - Province of Salta
-+
+
 P - Province of San Juan
-+
+
 Q - Province of San Luis
-+
+
 R - Province of Catamarca
-+
+
 S - Province of La Rioja
-+
+
 T - Province of Jujuy
-+
+
 U - Province of La Pampa
-+
+
 V - Province of Rio Negro
-+
+
 W - Province of Chubut
-+
+
 XA–XOZ - Province of Santa Cruz
-+
+
 XP–XZZ - Province of Tierra del Fuego, Antarctic and Islands of South Atlantic
-+
+
 Y - Neuquén
-+
+
 Z - Antarctic
+--
 
 NOTE: The beginners have to use the prefix AZ.
 
@@ -406,24 +401,23 @@ Amateur stations:: P43 or P49 followed by a group of not more than 3 letters
 Amateur stations:: VK, AX {blank}footnote:australia[For occasions of special national or state/local significance.] or VI {blank}footnote:australia[]
 followed by a digit (indicating the state or territory in which the station is situated) and by 2, 3 or 4 letters.
 +
+--
 For call signs with suffixes of 3 or 4 letters, the first letter indicates the licence category.
-+
+
 "Advanced" amateur stations are indicated by call signs with suffixes of 2 letters and suffixes of 3 letters where the first letter is A, B, C, D, E, F, G, I, J, K, S, T, U, W, X, Y or Z.
-+
+
 "Standard" amateur stations are indicated by call signs with suffixes of 3 letters where the first letter is H, L, M, N, P or V.
-+
+
 "Foundation" amateur stations are indicated by call signs with suffixes of 4 letters where the first letter is F.
+--
 
 Experimental stations:: AX followed by a digit (2-9) and by 3 letters, the first one indicating the state or territory in which the station is situated.
 
 [%unnumbered]
 |===
 .2+^.^a| Station 10+^.^a| State or territory
-
 ^.^a| Australian Capital Territory ^.^a| New South Wales ^.^a| Victoria ^.^a| Queensland ^.^a| South Australia ^.^a| Western Australia ^.^a| Tasmania ^.^a| Northern Territory ^.^a| Australian External Territories ^.^a| Antarctic
-
 | Amateur ^.^| 1 ^.^| 2 ^.^| 3 ^.^| 4 ^.^| 5 ^.^| 6 ^.^| 7 ^.^| 8 ^.^| 9 ^.^| –
-
 | Experimental ^.^| A ^.^| N ^.^| V ^.^| Q ^.^| S ^.^| W ^.^| T ^.^| D ^.^| – ^.^| –
 |===
 
@@ -435,26 +429,27 @@ Experimental stations:: OE followed by a digit (2-9, indicating the province in 
 
 Digits indicating the provinces or areas:: 1 - Vienna (amateur stations only)
 +
+--
 2 - Salzburg
-+
-3 - Vienna (experimental stations only) and Lower Austria
-+
-4 - Burgenland
-+
-5 - Upper Austria
-+
-6 - Styria
-+
-7 - Tyrol
-+
-8 - Carinthia
-+
-9 - Vorarlberg
-+
-0 - extraterritorial
-+
-» - on board ships or on board aircraft
 
+3 - Vienna (experimental stations only) and Lower Austria
+
+4 - Burgenland
+
+5 - Upper Austria
+
+6 - Styria
+
+7 - Tyrol
+
+8 - Carinthia
+
+9 - Vorarlberg
+
+0 - extraterritorial
+
+» - on board ships or on board aircraft
+--
 
 === Bahamas (Commonwealth of the)
 
@@ -473,49 +468,54 @@ Amateur stations:: A9 followed by a digit (0 to 9) followed by 2, 3 or 4 charact
 
 === Barbados
 
-Amateur stations:: 8P6AA-8P6ZZ {blank}footnote:[For national radio amateurs.]
-+
+Amateur stations:: 8P6AA-8P6ZZ {blank}footnote:[For national radio amateurs.] +
 8P9AA-8P9ZZ {blank}footnote:[For foreign radio amateurs, visitors and short-term licence holders.]
 
 === Belarus (Republic of)
 
 Amateur stations:: EU, EV, or EW, followed by a digit (1-4, 6-8 indicating the city or region (oblast) where the station is located) and one, two or three letters.
 
-Numbers indicating city or region:: 1) City of Minsk
+Numbers indicating city or region:: 1 - City of Minsk
 +
-2) Minsk Region
-+
-3) Brest Region
-+
-4) Grodno Region
-+
-5) Vitebsk Region
-+
-6) Mogilev Region
-+
-7) Gomel Region
+--
+2 - Minsk Region
+
+3 - Brest Region
+
+4 - Grodno Region
+
+5 - Vitebsk Region
+
+6 - Mogilev Region
+
+7 - Gomel Region
+--
 
 Call sign containing:: 4 characters – class A (operator with CEPT licence, HAREC certificate)
 +
+--
 5 characters – class A and class B (operator with CEPT licence, HAREC certificate)
-+
+
 6 characters – class C (operator with novice licence, ARNEC certificate)
-+
+
 5 characters – the fourth symbol is W, X, Z for club stations
+--
 
 Experimental stations:: EU1A00R-EU8Z99R (except EU5A00R–EU5Z99R) –  repeaters
 +
+--
 EU1A00B-EU8Z99B (except EU5A00B–EU5Z99B) –  radiobeacons
-+
+
 EU10S-EU89S –  satellites
-+
+
 EV0AA-EV9ZZ –  for stations operating in radio contests
-+
+
 EV10ISS-EV89ISS –  for expeditions to space-based facilities
-+
+
 EV0ANA-EV0ANZ –  for stations operating in the Antartic
-+
+
 EV0A-EV9999Z –  for stations operating on days of special national and international events
+--
 
 EU5, EV5, EW5 followed by one letter – only for participants in international SW and USW radio communication competitions (up to one year).
 
@@ -526,7 +526,7 @@ NOTE: Foreign radio amateurs with a licence must use EW followed by slash (/) an
 
 [%unnumbered]
 |===
-2+^.^h| Amateur stations
+2+^.^| Amateur stations
 a| ON0AA-ON0ZZ +
  ON0AAA-ON0ZZZ
 | Automatic stations
@@ -589,12 +589,9 @@ Amateur stations:: TY followed by a digit (1-9) and by 2 letters
 
 === Bhutan (Kingdom of)
 
-Amateur stations:: A50AA-A50ZZ {blank}footnote:[For amateur clubs and stations.]
-+
-A51AA-A51ZZ {blank}footnote:[For national radio amateurs. ]
-+
+Amateur stations:: A50AA-A50ZZ {blank}footnote:[For amateur clubs and stations.] +
+A51AA-A51ZZ {blank}footnote:[For national radio amateurs. ] +
 A52AA-A52ZZ {blank}footnote:[For visiting radio amateurs.]
-
 
 === Bolivia (Plurinational State of)
 
@@ -602,21 +599,23 @@ Amateur stations:: CP1AA-CP9ZZ
 
 Digits indicating the departments:: 1 - La Paz
 +
+--
 2 - Chuquisaca
-+
+
 3 - Oruro
-+
+
 4 - Potosí
-+
+
 5 - Cochabamba
-+
+
 6 - Santa Cruz
-+
+
 7 - Tarija
-+
+
 8 - Beni
-+
+
 9 - Pando
+--
 
 The call sign may be followed by the letters "M", "MA", "MF", "MM", "S" or "C" in the following cases:
 
@@ -637,10 +636,11 @@ C:: for stations operating on a temporary basis.
 
 Amateur stations:: PJ4AA-PJ4ZZZ –  Bonaire
 +
+--
 PJ5AA-PJ5ZZZ –  S. Eustatius
-+
-PJ6AA-PJ6ZZZ –  Saba
 
+PJ6AA-PJ6ZZZ –  Saba
+--
 
 === Botswana (Republic of)
 
@@ -695,20 +695,20 @@ Amateur stations:: A22AA-A22ZZ
 2+| {blank}footnote:amateur-stations[] ZW7AA-ZW7ZZ 3+| ZW7AAA-ZW7YZZ
 .2+| Rio Grande do Sul | PY3AA-PY3ZZ 2+| PY3AAA-PY3YZZ 2+| PU3AAA-PU3YZZ
 2+| {blank}footnote:amateur-stations[] ZY3AA-ZY3ZZ 3+| ZY3AAA-ZY3YZZ
-.2+h| Rondônia h| PW8AA-PW8ZZ 2+h| PW8AAA-PW8YZZ h| PU8DAA-PU8FZZ
-2+| {blank}footnote:amateur-stations[] ZZ8NA-ZZ8SZ 2+| ZZ8NAA-ZZ8SZZ
-.2+| Roraima | PV8AA-PV8ZZ 2+| PV8AAA-PV8YZZ | PU8TAA-PU8VZZ
-2+| {blank}footnote:amateur-stations[] ZZ8TA-ZZ8ZZ 2+| ZZ8AAA-ZZ8YZZ
-.2+| Santa Catarina | PP5AA-PP5ZZ 2+| PP5AAA-PP5YZZ | PU5AAA-PU5LZZ
-2+| {blank}footnote:amateur-stations[] ZZ5AA-ZZ5ZZ 2+| ZZ5AAA-ZZ5YZZ
-.2+| São Paulo | PY2AA-PY2ZZ 2+| PY2AAA-PY2YZZ | PU2KAA-PU2YZZ
-2+| {blank}footnote:amateur-stations[] ZY2AA-ZY2ZZ 2+| ZY2AAA-ZY2YZZ
-.2+| Sergipe | PP6AA-PP6ZZ 2+| PP6AAA-PP6YZZ | PU6AAA-PU6IZZ
-2+| {blank}footnote:amateur-stations[] ZZ6AA-ZZ6ZZ 2+| ZZ6AAA-ZZ6YZZ
-.2+| Tocantins | PQ2AA-PQ2ZZ 2+| PQ2AAA-PQ2YZZ | PU2IAA-PU2JZZ
-2+| {blank}footnote:amateur-stations[] ZX2AA-ZX2ZZ 2+| ZX2AAA-ZX2YZZ
-.2+| Islas Marítimas | PY0AA-PY0ZZ 2+| PY0AAA-PY0ZZZ | PU0AAA-PU0ZZZ
-2+| {blank}footnote:amateur-stations[] ZY0AA-ZY0ZZ 2+| ZY0AAA-ZY0ZZZ
+.2+| Rondônia | PW8AA-PW8ZZ 2+| PW8AAA-PW8YZZ 2+| PU8DAA-PU8FZZ
+2+| {blank}footnote:amateur-stations[] ZZ8NA-ZZ8SZ 3+| ZZ8NAA-ZZ8SZZ
+.2+| Roraima | PV8AA-PV8ZZ 2+| PV8AAA-PV8YZZ 2+| PU8TAA-PU8VZZ
+2+| {blank}footnote:amateur-stations[] ZZ8TA-ZZ8ZZ 3+| ZZ8AAA-ZZ8YZZ
+.2+| Santa Catarina | PP5AA-PP5ZZ 2+| PP5AAA-PP5YZZ 2+| PU5AAA-PU5LZZ
+2+| {blank}footnote:amateur-stations[] ZZ5AA-ZZ5ZZ 3+| ZZ5AAA-ZZ5YZZ
+.2+| São Paulo | PY2AA-PY2ZZ 2+| PY2AAA-PY2YZZ 2+| PU2KAA-PU2YZZ
+2+| {blank}footnote:amateur-stations[] ZY2AA-ZY2ZZ 3+| ZY2AAA-ZY2YZZ
+.2+| Sergipe | PP6AA-PP6ZZ 2+| PP6AAA-PP6YZZ 2+| PU6AAA-PU6IZZ
+2+| {blank}footnote:amateur-stations[] ZZ6AA-ZZ6ZZ 3+| ZZ6AAA-ZZ6YZZ
+.2+| Tocantins | PQ2AA-PQ2ZZ 2+| PQ2AAA-PQ2YZZ 2+| PU2IAA-PU2JZZ
+2+| {blank}footnote:amateur-stations[] ZX2AA-ZX2ZZ 3+| ZX2AAA-ZX2YZZ
+.2+| Islas Marítimas | PY0AA-PY0ZZ 2+| PY0AAA-PY0ZZZ 2+| PU0AAA-PU0ZZZ
+2+| {blank}footnote:amateur-stations[] ZY0AA-ZY0ZZ 3+| ZY0AAA-ZY0ZZZ
 
 |===
 
@@ -744,33 +744,35 @@ Amateur stations:: TJ1 followed by 2 letters
 
 Amateur stations:: VE1, VA1 followed by 1, 2 or 3 letters – Provinces of Nova Scotia and New Brunswick
 +
+--
 VE2, VA2 followed by 1, 2 or 3 letters – Province of Quebec
-+
+
 VE3, VA3 followed by 1, 2 or 3 letters – Province of Ontario
-+
+
 VE4, VA4 followed by 1, 2 or 3 letters – Province of Manitoba
-+
+
 VE5, VA5 followed by 1, 2 or 3 letters – Province of Saskatchewan
-+
+
 VE6, VA6 followed by 1, 2 or 3 letters – Province of Alberta
-+
+
 VE7, VA7 followed by 1, 2 or 3 letters – Province of British Columbia
-+
+
 VE8 followed by 1, 2 or 3 letters – Northwest Territories (excluding Nunavut)
-+
+
 VE9 followed by 1, 2 or 3 letters – Province of New Brunswick
-+
+
 VE0 {blank}footnote:[VE0 is intended for use when the amateur radio station is operated from a vessel that makes international voyages.] followed by 1, 2 or 3 letters – Amateur station on board a ship
-+
+
 VO1 followed by 1, 2 or 3 letters – Province of Newfoundland (excluding Labrador)
-+
+
 VO2 followed by 1, 2 or 3 letters – Labrador
-+
+
 VY0 followed by 1, 2 or 3 letters – Nunavut Territory
-+
+
 VY1 followed by 1, 2 or 3 letters – Yukon Territory
-+
+
 VY2 followed by 1, 2 or 3 letters – Province of Prince Edward Island
+--
 
 Experimental stations:: VX9 followed by 2 or 3 letters  –  Canada (all provinces and territories)
 
@@ -787,14 +789,15 @@ Amateur stations and experimental stations:: TT8 followed by 2 letters, the firs
 
 Amateur stations:: CE or XQ followed by a digit (indicating the zone in which the station is situated) and by 2 or 3 letters
 +
+--
 CE1-CE8 followed by 2 or 3 letters –  Mainland Chile
-+
-CE9 followed by 2 or 3 letters –  Antarctic
-+
-CE0Y followed by 2 or 3 letters –  Easter Island
-+
-CE0Z followed by 2 letters –  Juan Fernández and San Félix Islands
 
+CE9 followed by 2 or 3 letters –  Antarctic
+
+CE0Y followed by 2 or 3 letters –  Easter Island
+
+CE0Z followed by 2 letters –  Juan Fernández and San Félix Islands
+--
 
 === Colombia (Republic of)
 
@@ -802,24 +805,25 @@ Amateur stations:: HJ or HK followed by a digit (0-9, indicating the zone to whi
 
 Digits indicating the zones:: 0 – Insular Colombian Territory and mobile maritime service
 +
+--
 1 – Departments of Atlántico, Bolívar, Córdoba and Sucre
-+
-2 – Departments of Guajira, Magdalena, Cesar and North of Santander
-+
-3 – Departments of Cundinamarca, Meta and Vichada
-+
-4 – Departments of Antioquia and Chocó
-+
-5 – Departments of Cauca and Valle del Cauca
-+
-6 – Departments of Caldas, Tolima, Risaralda, Quindío and Huila
-+
-7 – Departments of Santander, Boyacá, Arauca and Casanare
-+
-8 – Departments of Nariño, Caquetá and Putumayo
-+
-9 – Departments of Amazonas, Vaupés, Guainía and Guaviare
 
+2 – Departments of Guajira, Magdalena, Cesar and North of Santander
+
+3 – Departments of Cundinamarca, Meta and Vichada
+
+4 – Departments of Antioquia and Chocó
+
+5 – Departments of Cauca and Valle del Cauca
+
+6 – Departments of Caldas, Tolima, Risaralda, Quindío and Huila
+
+7 – Departments of Santander, Boyacá, Arauca and Casanare
+
+8 – Departments of Nariño, Caquetá and Putumayo
+
+9 – Departments of Amazonas, Vaupés, Guainía and Guaviare
+--
 
 NOTE: 5J or 5K followed by a digit (0-9) and by 1, 2 or 3 letters is authorised on a temporary basis to amateur stations operating during contests or special events.
 
@@ -857,19 +861,21 @@ Amateur stations:: T4, CL, CM or CO followed by a digit (indicating the province
 
 Digits indicating the provinces or zones:: 1 – Province of Pinar del Río
 +
+--
 2 – Province of Havana City
-+
+
 3 – Province of Havana
-+
+
 4 – Municipality of Isla de la Juventud
-+
+
 5 – Province of Matanzas
-+
+
 6 – Provinces of Villa Clara, Cienfuegos and Sancti Spíritus
-+
+
 7 – Provinces of Ciego de Ávila and Camagüey
-+
+
 8 – Provinces of Santiago de Cuba, Granma, Holguín, Las Tunas and Guantánamo
+--
 
 === Curaçao
 
@@ -883,15 +889,19 @@ NOTE: Foreign amateurs will use the call sign assigned to them by their administ
 
 === Czech Republic
 
-Amateur stations:: OK0-OK8 followed by 1, 2 or 3 letters OL0-OL9 followed by 1, 2 or 3 letters
+Amateur stations:: OK0-OK8 followed by 1, 2 or 3 letters
 +
+--
+OL0-OL9 followed by 1, 2 or 3 letters
+
 OK8 followed by 2 or 3 letters for foreigners transmitting from territory of the Czech Republic
-+
+
 OK0 followed by 2 or 3 letters exceptionally for extraordinary purposes
-+
+
 OL0-OL9 followed by 1 letter for purposes of international amateur contests only
-+
+
 OL0-OL9 followed by 2 or 3 letters for extraordinary purposes and for period of persistence of such purposes only
+--
 
 Experimental stations:: OK9 followed by 2 or 3 letters
 
@@ -909,8 +919,7 @@ Experimental stations:: OK9 followed by 2 or 3 letters
 
 === Djibouti (Republic of)
 
-Amateur stations:: J28AA-J28ZZ {blank}footnote:[For amateur stations operating on a permanent basis.]
-+
+Amateur stations:: J28AA-J28ZZ {blank}footnote:[For amateur stations operating on a permanent basis.] +
 J20AA-J20ZZ {blank}footnote:[For amateur stations operating on a temporary basis.]
 
 NOTE: For special events the radio amateurs will use J20 followed by a group of 3 letters.
@@ -925,22 +934,23 @@ Amateur stations:: HI followed by a digit (indicating the zone in which the stat
 
 Digits indicating the zones:: 1 – Beata Island
 +
+--
 2 – Saona Island
-+
-3 – Central Cibao Region
-+
-4 – Northwest Line Region
-+
-5 – Southwest Region
-+
-6 – South Central Region
-+
-7 – East Region
-+
-8 – South Region
-+
-9 – Northwest Region
 
+3 – Central Cibao Region
+
+4 – Northwest Line Region
+
+5 – Southwest Region
+
+6 – South Central Region
+
+7 – East Region
+
+8 – South Region
+
+9 – Northwest Region
+--
 
 === Ecuador
 
@@ -950,19 +960,21 @@ The beginners have to use the letter N after the digit indicating the province
 
 Digits indicating the provinces:: 1 – Provinces of Carchi, Imbabura and Pichincha
 +
+--
 2 – Provinces of Guayas (Coast) and Los Ríos
-+
+
 3 – Provinces of El Oro (Coast) and Loja
-+
+
 4 – Provinces of Manabí (Coast) and Esmeraldas (Coast)
-+
+
 5 – Provinces of Chimborazo, Cañar and Azuay
-+
+
 6 – Provinces of Cotopaxi, Tungurahua and Bolívar
-+
+
 7 – Provinces of Napo, Pastaza, Morona Santiago, Zamora and Sucumbios
-+
+
 8 – Province of the Galápagos (Islands)
+--
 
 Experimental stations:: HD9 followed by 3 letters
 
@@ -980,21 +992,23 @@ Amateur stations:: YS followed by a digit (1-9, indicating the zone in which the
 
 Digits indicating the zones:: 1 – Department of San Salvador
 +
+--
 2 – Department of Santa Ana
-+
+
 3 – Department of San Miguel
-+
+
 4 – Department of La Libertad
-+
+
 5 – Departments of La Paz, Cuscatlán and Chalatenango
-+
+
 6 – Departments of Usulután, San Vicente and Cabañas
-+
+
 7 – Department of Sonsonate
-+
+
 8 – Department of Ahuachapán
-+
+
 9 – Departments of Morazán and La Unión
+--
 
 Experimental stations:: HU9 followed by 2 letters
 
@@ -1006,23 +1020,25 @@ Amateur stations:: ES followed by a digit (0-9, indicating the district in which
 
 Digits indicating the districts:: 0 – Administrative districts of Hiiumaa, Saaremaa and all small islands of Väinamere
 +
+--
 1 – Tallinn
-+
+
 2 – Administrative district of Harjumaa
-+
+
 3 – Administrative districts of Lääne, Rapla and Järvamaa
-+
+
 4 – Administrative districts of Lääne-Virumaa and Ida-Virumaa
-+
+
 5 – Administrative districts of Jõgeva and Tartumaa
-+
+
 6 – Administrative districts of Põlva, Valga and Võrumaa
-+
+
 7 – Administrative district of Viljandimaa
-+
+
 8 – Administrative district of Pärnumaa
-+
+
 9 – Extraterritorial (for official using by Estonian Amateur Radio Union)
+--
 
 When amateur stations operate as portable or mobile stations, their call signs are followed by a stroke (/) and the letters "MM", "AM", "M" or "P" in the following cases:
 
@@ -1039,8 +1055,7 @@ Foreign radio amateurs during their visit in Estonia must use ES followed by a d
 
 === Ethiopia (Federal Democratic Republic of)
 
-Amateur stations:: ET3AA-ET3ZZ
-+
+Amateur stations:: ET3AA-ET3ZZ +
 9E3AA-9F3ZZ
 
 === Fiji (Republic of)
@@ -1158,21 +1173,23 @@ Amateur stations and experimental stations:: SV {blank}footnote:[Class 1.] or SW
 
 Digits indicating the regions:: 1 – Sterea Hellas
 +
+--
 2 – Central and Western Macedonia
-+
+
 3 – Peloponnese
-+
+
 4 – Thessaly
-+
+
 5 – Dodecanese Prefecture
-+
+
 6 – Epirus
-+
+
 7 – Eastern Macedonia and Thrace
-+
+
 8 – All the islands (except those belonging to Cretian Prefectures and to Dodecanese Prefecture)
-+
+
 9 – Cretian Prefectures and their islands
+--
 
 [NOTE]
 ====
@@ -1189,15 +1206,17 @@ Amateur stations:: TG followed by a digit (4-9, indicating the department in whi
 
 Digits indicating the departments:: 4 – Sololá, Chimaltenango, Suchitepéquez, Escuintla and Santa Rosa
 +
+--
 5 – Huehuetenango, Quiché and Totonicapán
-+
+
 6 – Zacapa, Chiquimula and Jutiapa
-+
+
 7 – Petén, Alta Verapaz and Izabal
-+
+
 8 – San Marcos, Quetzaltenango and Retalhuleu
-+
+
 9 – Guatemala, Jalapa, El Progreso, Baja Verapaz and Sacatepéquez
+--
 
 Experimental stations:: TD9A-TD9Z
 
@@ -1218,10 +1237,11 @@ Amateur stations:: J52UAB-J52UAI
 
 Amateur stations and experimental stations:: 8R1AAA-8R1ZZZ –  Demerara
 +
+--
 8R2AAA-8R2ZZZ –  Berbice
-+
-8R3AAA-8R3ZZZ –  Essequibo
 
+8R3AAA-8R3ZZZ –  Essequibo
+--
 
 === Haiti (Republic of)
 
@@ -1276,10 +1296,11 @@ Experimental stations:: VU4 followed by 2 letters
 
 Amateur stations:: YB or YE followed by a digit (0-9) and by 1 {blank}footnote:indonesia1[The 1 letter suffix is not for personal call sign use, but only for organizational stations with special event activities.], 2 or 3 letters  –  Advanced licence
 +
+--
 YC or YF followed by a digit (0-9) and by 1 {blank}footnote:indonesia1[], 2 or 3 letters  –  General licence
-+
-YD, YG or YH followed by a digit (0-9) and by 1 {blank}footnote:indonesia1[], 2 or 3 letters  –  Novice licence
 
+YD, YG or YH followed by a digit (0-9) and by 1 {blank}footnote:indonesia1[], 2 or 3 letters  –  Novice licence
+--
 
 === Iran (Islamic Republic of)
 
@@ -1297,79 +1318,81 @@ Amateur stations:: EI followed by a digit (2-9) and a group of not more than 3 l
 
 Amateur stations:: 4X1 followed by 2 or 3 letters
 +
+--
 4X4 followed by 2 or 3 letters
-+
-4X6 followed by 2 or 3 letters
-+
-4X8 followed by 2 or 3 letters
-+
-4Z1 followed by 2 or 3 letters
-+
-4Z4 followed by 2 or 3 letters
-+
-4Z5 followed by 2 or 3 letters
-+
-4Z7 followed by 2 or 3 letters
-+
-4Z9 followed by 2 or 3 letters
 
+4X6 followed by 2 or 3 letters
+
+4X8 followed by 2 or 3 letters
+
+4Z1 followed by 2 or 3 letters
+
+4Z4 followed by 2 or 3 letters
+
+4Z5 followed by 2 or 3 letters
+
+4Z7 followed by 2 or 3 letters
+
+4Z9 followed by 2 or 3 letters
+--
 
 === Italy
 
 Amateur stations:: I0 or IK0 followed by 2 or 3 letters – Lazio and Umbria
 +
-I1 or IK1 followed by 2 or 3 letters – Liguria, Piemonte and the Province of Novara
-+
-I2 or IK2 followed by 2 or 3 letters – Lombardia and the Province of Mantova
-+
-I3 or IK3 followed by 2 or 3 letters – Veneto and the Province of Rovigo
-+
-I4 or IK4 followed by 2 or 3 letters – Emilia-Romagna and the Province of Piacenza
-+
-I5 or IK5 followed by 2 or 3 letters – Toscana
-+
-I6 or IK6 followed by 2 or 3 letters – Marche and Abruzzi
-+
-I7 or IK7 followed by 2 or 3 letters – Puglie and the Province of Matera
-+
-I8 or IK8 followed by 2 or 3 letters – Campania, Molise, Calabria and the Province of Potenza
-+
-IA5 followed by 2 or 3 letters – "Toscane" Islands (Capraia, Cerboli, Elba, Formica di Burano, Formiche di Grosseto, Giannutri, Giglio, Gorgona, Montecristo, Pianosa, Scoglio d'Affrica)
-+
-IB0 followed by 2 or 3 letters – "Ponziane" Islands (Palmarola, Ponza, Scoglio della Botte, Santo Stefano, Ventotene, Zanone)
-+
-IC8 followed by 2 or 3 letters – "Napoletane" Islands (Capri, Ischia, Li Galli, Procida, Vivara)
-+
-ID9 followed by 2 or 3 letters – "Eolie" Islands (Alicudi, Basiluzzo, Dino, Filicudi, Formiche, Lipari, Lisca Bianca, Panarea, Salina, San Pietro a Canna, Stromboli, Strombolicchio, Vulcano)
-+
-IE9 followed by 2 or 3 letters – Island of Ustica
-+
-IF9 followed by 2 or 3 letters – "Egadi" Islands (Asinelli, Favignana, La Formica, Levanzo, Maraone, Marettimo, Stagnone)
-+
-IG9 followed by 2 or 3 letters – "Pelagie" Islands (Lampedusa, Lampione, Linosa)
-+
-IH9 followed by 2 or 3 letters – Island of Pantelleria
-+
-IJ7 followed by 2 or 3 letters – Archipelago of "Cheradi"
-+
-IL7 followed by 2 or 3 letters – "Tremiti" Islands (Caprara, Pianosa, San Domino, San Nicola)
-+
-IM0 followed by 2 or 3 letters – "Sardegna" Islands (Asinara, Bisce, Budelli, Carbonara, Caprera, Cavoli, Corcelli, Cretaccio, Foradada, Il Catalano, Il Toro, Il Vitello, La Maddalena, La Vacca, Mal di Ventre, Molara, Mortorio, Nibani, Ogliastra, Pan di Zucchero, Piana, Quirra, Razzoli, Rossa, Ruglia, S. Antioco, S. Pietro, S. Macario, S. Maria, Serpentara, Soffi, Spargi, Su Giudeu, Tavolara)
-+
-IN3 followed by 2 or 3 letters – Trentino-Alto Adige
-+
-IP1 followed by 2 or 3 letters – "Liguria" Islands
-+
-IS0 followed by 2 or 3 letters – Sardegna
-+
-IT9 followed by 2 or 3 letters – Sicilia
-+
-IV3 followed by 2 or 3 letters – Friuli and Venezia Giulia
-+
-IW0 followed by 2 or 3 letters – Special licences
-+
-IX1 followed by 2 or 3 letters – Aosta Valley
+--
+I1 or IK1 followed by 2 or 3 letters - Liguria, Piemonte and the Province of Novara
 
+I2 or IK2 followed by 2 or 3 letters - Lombardia and the Province of Mantova
+
+I3 or IK3 followed by 2 or 3 letters - Veneto and the Province of Rovigo
+
+I4 or IK4 followed by 2 or 3 letters - Emilia-Romagna and the Province of Piacenza
+
+I5 or IK5 followed by 2 or 3 letters – Toscana
+
+I6 or IK6 followed by 2 or 3 letters – Marche and Abruzzi
+
+I7 or IK7 followed by 2 or 3 letters – Puglie and the Province of Matera
+
+I8 or IK8 followed by 2 or 3 letters – Campania, Molise, Calabria and the Province of Potenza
+
+IA5 followed by 2 or 3 letters – "Toscane" Islands (Capraia, Cerboli, Elba, Formica di Burano, Formiche di Grosseto, Giannutri, Giglio, Gorgona, Montecristo, Pianosa, Scoglio d'Affrica)
+
+IB0 followed by 2 or 3 letters – "Ponziane" Islands (Palmarola, Ponza, Scoglio della Botte, Santo Stefano, Ventotene, Zanone)
+
+IC8 followed by 2 or 3 letters – "Napoletane" Islands (Capri, Ischia, Li Galli, Procida, Vivara)
+
+ID9 followed by 2 or 3 letters – "Eolie" Islands (Alicudi, Basiluzzo, Dino, Filicudi, Formiche, Lipari, Lisca Bianca, Panarea, Salina, San Pietro a Canna, Stromboli, Strombolicchio, Vulcano)
+
+IE9 followed by 2 or 3 letters – Island of Ustica
+
+IF9 followed by 2 or 3 letters – "Egadi" Islands (Asinelli, Favignana, La Formica, Levanzo, Maraone, Marettimo, Stagnone)
+
+IG9 followed by 2 or 3 letters – "Pelagie" Islands (Lampedusa, Lampione, Linosa)
+
+IH9 followed by 2 or 3 letters – Island of Pantelleria
+
+IJ7 followed by 2 or 3 letters – Archipelago of "Cheradi"
+
+IL7 followed by 2 or 3 letters – "Tremiti" Islands (Caprara, Pianosa, San Domino, San Nicola)
+
+IM0 followed by 2 or 3 letters – "Sardegna" Islands (Asinara, Bisce, Budelli, Carbonara, Caprera, Cavoli, Corcelli, Cretaccio, Foradada, Il Catalano, Il Toro, Il Vitello, La Maddalena, La Vacca, Mal di Ventre, Molara, Mortorio, Nibani, Ogliastra, Pan di Zucchero, Piana, Quirra, Razzoli, Rossa, Ruglia, S. Antioco, S. Pietro, S. Macario, S. Maria, Serpentara, Soffi, Spargi, Su Giudeu, Tavolara)
+
+IN3 followed by 2 or 3 letters – Trentino-Alto Adige
+
+IP1 followed by 2 or 3 letters – "Liguria" Islands
+
+IS0 followed by 2 or 3 letters – Sardegna
+
+IT9 followed by 2 or 3 letters – Sicilia
+
+IV3 followed by 2 or 3 letters – Friuli and Venezia Giulia
+
+IW0 followed by 2 or 3 letters – Special licences
+
+IX1 followed by 2 or 3 letters – Aosta Valley
+--
 
 === Jamaica
 
@@ -1380,44 +1403,41 @@ NOTE: Foreign amateurs will use the call sign assigned to them by their administ
 
 === Japan
 
-Amateur stations:: JA _n_ AA-JA _n_ ZZ (_n_ = 0-9)
+Amateur stations:: JA__n__AA-JA__n__ZZ (_n_ = 0-9)
 +
+--
 JR6AA-JR6NZ
-+
-JR _n_ VA-JR _n_ WZ (_n_ = 0-9)
-+
+
+JR__n__VA-JR__n__WZ (_n_ = 0-9)
+
 JR6YA-JR6YZ
-+
-J _xn_ AAA-J _xn_ QQZ (_x_ = A, E-S) (_n_ = 0-9)
-+
-J _xn_ QUA-J _xn_ ZZZ (_x_ = A, E-S) (_n_ = 0-9)
-+
+
+J__xn__AAA-J__xn__QQZ (_x_ = A, E-S) (_n_ = 0-9)
+
+J__xn__QUA-J__xn__ZZZ (_x_ = A, E-S) (_n_ = 0-9)
+
 JD1AAA-JD1QQZ
-+
+
 JD1QUA-JD1ZZZ
-+
-7J _n_ AAA-7J _n_ BZZ (_n_ = 0, 4, 5, 7-9)
-+
-7J _n_ AAA-7J _n_ CZZ (_n_ = 2, 3, 6)
-+
+
+7J__n__AAA-7J__n__BZZ (_n_ = 0, 4, 5, 7-9)
+
+7J__n__AAA-7J__n__CZZ (_n_ = 2, 3, 6)
+
 7J1AAA-7J1DZZ
-+
-7J _n_ YAA-7J _n_ YMZ (_n_ = 0-5, 7-9)
-+
+
+7J__n__YAA-7J__n__YMZ (_n_ = 0-5, 7-9)
+
 7J6YAA-7J6YQZ
-+
-7 _xn_ AAA-7 _xn_ QQZ (_x_ = K-N) (_n_ = 1-4)
-+
-7 _xn_ QUA-7 _xn_ ZZZ (_x_ = K-N) (_n_ = 1-4)
-+
-8 _xn_ AAA-8 _xn_ QZZ (_x_ = J, N) (_n_ = 0-9)
-+
-8 _xn_ QUA-8 _xn_ ZZZ (_x_ = J, N) (_n_ = 0-9)
 
+7__xn__AAA-7__xn__QQZ (_x_ = K-N) (_n_ = 1-4)
 
-Experimental stations:: J _xn_ A-J _xn_ Z (_x_ = B, G, J, O, S) (_n_ = 2-9)
-+
-J _xn_ AA-J _xn_ ZZ (_x_ = B, G, J, O, S) (_n_ = 2-9)
+7__xn__QUA-7__xn__ZZZ (_x_ = K-N) (_n_ = 1-4)
+
+8__xn__AAA-8__xn__QZZ (_x_ = J, N) (_n_ = 0-9)
+
+8__xn__QUA-8__xn__ZZZ (_x_ = J, N) (_n_ = 0-9)
+--
 
 === Jordan (Hashemite Kingdom of)
 
@@ -1437,14 +1457,12 @@ Experimental stations:: T3 followed by a digit (other than 0 or 1) and by a grou
 
 === Korea (Republic of)
 
-Amateur stations:: 1) HL1AA-HL9ZZ
-+
+Amateur stations:: 1 - HL1AA-HL9ZZ +
 HL1AAA-HL9ZZZ
 +
-2) HL0 followed by 2 or 3 letters (amateur group)
+2 - HL0 followed by 2 or 3 letters (amateur group)
 
-Experimental stations:: 6M2AA-6M2ZZ
-+
+Experimental stations:: 6M2AA-6M2ZZ +
 6N2AA-6N2ZZ
 
 NOTE: DS, DT, D7, D8, D9, 6K, 6L, 6M, 6N followed by a digit and by 2 or 3 letters are assigned on a temporary basis on special occasions.
@@ -1491,9 +1509,11 @@ Experimental stations:: 5A followed by a digit (other than 0 or 1) and by a grou
 
 Amateur stations:: HB0AAA-HB0XXX
 +
+--
 HB0YAA-HB0YZZ  –  Novice licence
-+
+
 HB0ZAA-HB0ZZZ
+--
 
 === Lithuania (Republic of)
 
@@ -1506,23 +1526,15 @@ NOTE: LY followed by 2 to 4 digits and by 1 letter is authorized only for the fo
 [%unnumbered]
 |===
 | LX0A-LX0ZZZZ | Repeaters, beacons, group stations
-
-| LX1A-LX1ZZZZ .3+| Individual stations operating with a HAREC certificate
-
+| LX1A-LX1ZZZZ .3+.^| Individual stations operating with a HAREC certificate
 | LX2A-LX2ZZZZ
 | LX3A-LX3ZZZZ
 | LX4A-LX4ZZZZ | Group stations
-
 | LX5A-LX5ZZZZ | Group stations, experimental stations
-
 | LX6A-LX6ZZZZ | Individual stations operated by beginners
-
 | LX7A-LX7ZZZZ | Individual stations operated during competitions
-
-| LX8A-LX8ZZZZ .2+| Group stations
-
+| LX8A-LX8ZZZZ .2+.^| Group stations
 | LX9A-LX9ZZZZ
-
 |===
 
 
@@ -1585,11 +1597,13 @@ Experimental stations:: 5T2 followed by 2 letters
 
 Amateur stations:: 3B6 followed by 2 letters –  Agalega
 +
+--
 3B7 followed by 2 letters –  S. Brandon
-+
+
 3B8 followed by 2 letters –  Mauritius
-+
+
 3B9 followed by 2 letters –  Rodrigues
+--
 
 NOTE: Foreign radio amateurs with visitor licence must use 3B8 followed by a stroke (/) and their own call sign.
 
@@ -1673,17 +1687,18 @@ NOTE: Authorized foreign radio amateurs will use ER followed by a stroke (/) and
 
 Amateur stations:: 3A2AA-3A2ZZ  –  Class 1  – General licence
 +
+--
 3A1AA-3A1ZZ  –  Class 2  – Licence restricted to bands 144-146 MHz and 430-440 MHz
-+
+
 3A2AAA-3A2ZZZ  –  Radio Club
+--
 
 Experimental stations:: 3A9A-3A9Z
 
 
 === Morocco (Kingdom of)
 
-Amateur stations:: CN2AA-CN2ZZ
-+
+Amateur stations:: CN2AA-CN2ZZ +
 CN8AA-CN8ZZ
 
 Experimental stations:: CN4AA-CN4ZZ
@@ -1694,16 +1709,17 @@ Amateur stations:: C9 followed by a digit (indicating the province in which the 
 
 Digits indicating the provinces:: 1 – Maputo
 +
+--
 2 – Gaza-Inhambane
-+
-3 – Sofala-Manica
-+
-4 – Zambezia-Nampula
-+
-5 – Tete-Niassa
-+
-6 – C. Delgado
 
+3 – Sofala-Manica
+
+4 – Zambezia-Nampula
+
+5 – Tete-Niassa
+
+6 – C. Delgado
+--
 
 === Myanmar (Union of)
 
@@ -1713,9 +1729,11 @@ Amateur stations and experimental stations:: XZ2AA-XZ2ZZ
 
 Amateur stations:: V50A-V50ZZZ – Restricted licence station
 +
+--
 V51A-V51ZZZ – Full licence station
-+
+
 V5 followed with existing call sign – Guest station
+--
 
 Experimental stations:: V59A-V59ZZZ
 
@@ -1744,37 +1762,37 @@ Experimental stations:: PI5 or PI9 followed by 2 or 3 letters
 a| ZL1AA-ZL4WZ +
  ZL1AAA-ZL4WZZ +
  ZL1AAAA-ZL4WZZZ
-| New Zealand
+.^| New Zealand
 a| ZK0A-ZK9ZZZZ +
  ZL0A-ZL0ZZZZ +
  ZL1A-ZL4W +
  ZM0A-ZM0ZZZZ +
  ZM1A-ZM9ZZZZ {blank}footnote:newZealand2[Amateurs will use the prefix ZM instead of ZL for contests and other special events.]
-| New Zealand special events
+.^| New Zealand special events
 a| ZL5AA-ZL5WZ +
  ZL5AAA-ZL5WZZ +
  ZL5AAAA-ZL5WZZZ
-| Antarctic
+.^| Antarctic
 | ZL5A-ZL5W | Antarctic special events
 a| ZL6AA-ZL6WZ +
  ZL6AAA-ZL6WZZ +
  ZL6AAAA-ZL6WZZZ
-| NZART {blank}footnote:newZealand1[New Zealand Association of Radio Transmitters (NZART).]
+.^| NZART {blank}footnote:newZealand1[New Zealand Association of Radio Transmitters (NZART).]
 | ZL6A-ZL6W | NZART{blank}footnote:newZealand1[] special events
 a| ZL7AA-ZL7WZ +
  ZL7AAA-ZL7WZZ +
  ZL7AAAA-ZL7WZZZ
-| Chatham Islands
+.^| Chatham Islands
 | ZL7A-ZL7W | Chatham Islands special events
 a| ZL8AA-ZL8WZ +
  ZL8AAA-ZL8WZZ +
  ZL8AAAA-ZL8WZZZ
-| Kermadec Islands
+.^| Kermadec Islands
 | ZL8A-ZL8W | Kermadec Islands special events
 a| ZL9AA-ZL9WZ +
  ZL9AAA-ZL9WZZ +
  ZL9AAAA-ZL9WZZZ
-| Auckland/Campbell Islands
+.^| Auckland/Campbell Islands
 | ZL9A-ZL9W | Auckland/Campbell Islands special events
 
 |===
@@ -1786,22 +1804,23 @@ Amateur stations:: YN followed by a digit (indicating the zone in which the stat
 
 Digits indicating the zones:: 1 – Managua
 +
+--
 2 – Granada
-+
-3 – León
-+
-4 – Zelaya
-+
-5 – Carazo and Rivas
-+
-6 – Chinandega
-+
-7 – Masaya
-+
-8 – Estelí, Madriz and Nueva Segovia
-+
-9 – Matagalpa, Jinotega, Boaco, Chontales and Río San Juan
 
+3 – León
+
+4 – Zelaya
+
+5 – Carazo and Rivas
+
+6 – Chinandega
+
+7 – Masaya
+
+8 – Estelí, Madriz and Nueva Segovia
+
+9 – Matagalpa, Jinotega, Boaco, Chontales and Río San Juan
+--
 
 === Niger (Republic of the)
 
@@ -1817,40 +1836,34 @@ Amateur stations:: 5N followed by a digit (indicating the zone in which the stat
 
 Digits indicating the zones:: 0 – Lagos State and Federal Capital Territory
 +
+--
 1 – Ogun, Oyo, Ondo and Ekiti States
-+
+
 2 – Osun, Kwara, Kogi and Niger States
-+
+
 3 – Edo, Delta, Bayelsa and Anambra States
-+
+
 4 – Enugu, Abia, Ebonyi and Rivers States
-+
+
 5 – Imo, Akwa lbom and Cross River States
-+
+
 6 – Benue, Plateau, Nassarawa and Taraba States
-+
+
 7 – Bauchi, Gombe, Adamawa and Borno States
-+
+
 8 – Jigawa, Kano, Yobe and Katsina States
-+
+
 9 – Zamfara, Sokoto, Kaduna and Kebbi States
+--
 
-Experimental stations:: 5N2XA-5N2ZZ
-+
-5N3EA-5N3EZ
-+
-5N4XA-5N4ZZ
-+
-5N5EA-5N5EZ
-+
-5N6XA-5N6ZZ
-+
-5N7EA-5N7EZ
-+
-5N8XA-5N8ZZ
-+
+Experimental stations:: 5N2XA-5N2ZZ +
+5N3EA-5N3EZ +
+5N4XA-5N4ZZ +
+5N5EA-5N5EZ +
+5N6XA-5N6ZZ +
+5N7EA-5N7EZ +
+5N8XA-5N8ZZ +
 5N9EA-5N9EZ
-
 
 === Niue
 
@@ -1858,18 +1871,12 @@ Amateur stations:: ZK2 followed by 2 letters
 
 === Norway
 
-Amateur stations:: JW0AAA-JW9ZZZ
-+
-JX0AAA-JX0ZZZ
-+
-LA0AAA-LA9ZZZ
-+
-LB0AAA-LB9ZZZ
-+
-LC0AAA-LC9ZZZ
-+
-LD0AAA-LD9ZZZ
-+
+Amateur stations:: JW0AAA-JW9ZZZ +
+JX0AAA-JX0ZZZ +
+LA0AAA-LA9ZZZ +
+LB0AAA-LB9ZZZ +
+LC0AAA-LC9ZZZ +
+LD0AAA-LD9ZZZ +
 3Y0AAA-3Y9ZZZ
 
 Experimental stations:: LF2AAA-LF9ZZZ
@@ -1889,15 +1896,17 @@ Amateur stations and experimental stations:: AP2-AP9 followed by a group of not 
 
 Amateur stations:: P29BAA-P29BZZ – Beacons
 +
+--
 P29CAA-P29CZZ –  Club stations
-+
+
 P29KAA-P29KZZ –  Combined licences
-+
+
 P29NAA-P29NZZ –  Novice licence
-+
+
 P29RAA-P29RZZ –  Repeaters
-+
+
 P29ZAA-P29ZZZ –  Limited licence
+--
 
 === Paraguay (Republic of)
 
@@ -1905,21 +1914,23 @@ Amateur stations:: ZP followed by a digit (1-9, indicating the zone in which the
 
 Digits indicating the zones:: 1 – Departments of Alto Paraguay and Boquerón
 +
+--
 2 – Department of Presidente Hayes
-+
+
 3 – Departments of Concepción and Amambay
-+
+
 4 – Departments of San Pedro and Canindeyú
-+
+
 5 – Asunción (Capital) – Municipio de Asunción
-+
+
 6 – Departments of Cordillera, Paraguari and Central
-+
+
 7 – Departments of Guairá, Caaguazú and Caazapá
-+
+
 8 – Departments of Misiones and Neembucú
-+
+
 9 – Departments of Itapúa and Alto Paraná
+--
 
 NOTE: The digit 0 is allocated to amateur stations during special occasions.
 
@@ -1929,23 +1940,25 @@ Amateur stations:: OA followed by a digit (0-9, indicating the zone in which the
 
 Digits indicating the zones:: 0 – Peruvian Antarctic
 +
+--
 1 – Tumbes, Piura, Lambayeque
-+
+
 2 – Cajamarca, La Libertad
-+
+
 3 – Huánuco, Ancash
-+
+
 4 – Lima, Pasco Junín
-+
+
 5 – Ica, Ayacucho, Apurímac, Huancavelica
-+
+
 6 – Arequipa, Moquegua, Tacna
-+
+
 7 – Cuzco, Puno, Madre de Dios
-+
+
 8 – Loreto, Ucayali
-+
+
 9 – Amazonas, San Martín
+--
 
 NOTE: The prefix 4T is assigned on a temporary basis.
 
@@ -1953,37 +1966,43 @@ NOTE: The prefix 4T is assigned on a temporary basis.
 
 Amateur stations:: DU {blank}footnote:[Class A radio amateurs have the option to change the prefix DU by 4D, 4E or 4F.] followed by a digit (1-9, indicating the district in which the station is situated) and by a group of not more than 3 letters – Class A, B or C
 +
+--
 DY followed by a digit (1-9, indicating the district in which the station is situated) and by a group of not more than 3 letters – Class D
-+
+
 DX or DZ followed by a digit (1-9, indicating the district in which the station is situated) and by a group of not more than 3 letters – Club stations
+--
 
 === Poland (Republic of)
 
 Amateur stations:: HF, SN, SO, SP, SQ or 3Z followed by a digit (1-9, indicating the province in which the station is situated) and by a group of not more than four characters, the last of which shall be a letter.
 +
+--
 SO followed by a digit (1-9, indicating the province in which the station is situated) and by a group of not more than four characters, the last of which shall be a letter - for foreign radio amateurs visiting Poland.
-+
+
 SR followed by a digit (1-9, indicating the province in which the station is situated) and by a group of not more than four characters, the last of which shall be a letter - for unattented (automatic) amateur stations (repeaters, beacons, digital stations).
-+
+
 HF, SN, SO, SP, SQ or 3Z followed by a digit (1-9, indicating the province in which the station is situated or 0) and by a group of characters (as requested) - for special event stations or operating during amateur contests and competitions (up to one year).
+--
 
 Digits indicating the provinces:: 1 – Province of Zachodniopomorskie
 +
+--
 2 – Provinces of Pomorskie and Kujawsko-Pomorskie
-+
+
 3 – Provinces of Wielkopolskie and Lubuskie
-+
+
 4 – Provinces of Warminsko-Mazurskie and Podlaskie
-+
+
 5 – Province of Mazowieckie
-+
+
 6 – Provinces of Dolnoslaskie and Opolskie
-+
+
 7 – Provinces of Lodzkie and Swietokrzyskie
-+
+
 8 – Provinces of Lubelskie and Podkarpackie
-+
+
 9 – Provinces of Slaskie and Malopolskie
+--
 
 === Portugal
 
@@ -2066,6 +2085,7 @@ NOTE: YP, YQ and YR followed by a digit and a group of not more than 3 letters a
 === Russian Federation
 
 [%unnumbered]
+[cols="<,<.^"]
 |===
 2+^.^| Amateur and experimental stations
 a| RA0AA – RZ9ZZ +
@@ -2107,8 +2127,7 @@ RA000AA – RZ999ZZ
 | Temporary use in special circumstances
 | R0A – R9Z +
 R00A – R99Z +
-R00AA – R99ZZ {blank}footnote:[With the exclusion of call signs in the series +
-R00SP - R99SP exclusively assigned to amateur stations of polar expeditions operating on the drift-ice of the Arctic Ocean.] | Stations participating in internal rounds of competitions
+R00AA – R99ZZ {blank}footnote:[With the exclusion of call signs in the series R00SP - R99SP exclusively assigned to amateur stations of polar expeditions operating on the drift-ice of the Arctic Ocean.] | Stations participating in internal rounds of competitions
 
 |===
 
@@ -2125,12 +2144,13 @@ Amateur stations:: 5W followed by a digit and 2 letters
 
 Amateur stations:: T72AA-T72ZZ {blank}footnote:[VHF and above VHF.]
 +
+--
 T77AA-T77ZZ {blank}footnote:sanMarino[All bands.]
-+
-Radio Club: T70A {blank}footnote:sanMarino[]
-+
-Temporary Radio Club: T71CE {blank}footnote:sanMarino[]
 
+Radio Club: T70A {blank}footnote:sanMarino[]
+
+Temporary Radio Club: T71CE {blank}footnote:sanMarino[]
+--
 
 === Sao Tome and Principe (Democratic Republic of)
 
@@ -2158,17 +2178,19 @@ Amateur stations:: 9L followed by a digit (0-8, indicating the area or the provi
 
 Digits indicating the areas or provinces:: 0 – Small craft and off-shore islands
 +
+--
 1 – Western area
-+
+
 2 – Northern province
-+
+
 3 – Southern province
-+
+
 4 – Eastern province
-+
+
 7 – Novice licence
-+
+
 8 – Class B licence (VHF/UHF)
+--
 
 NOTE: Foreign radio amateurs with temporary licence must use 9L followed by a stroke (/) and their own call sign.
 
@@ -2186,12 +2208,9 @@ Amateur stations:: PJ7AA-PJ7ZZZ
 
 === Slovak Republic
 
-Amateur stations:: OM0AA-OM8ZZZ
-+
-OM0A-OM9Z {blank}footnote:[For international amateur contests.]
-+
-OM9AA-OM9ZZ {blank}footnote:[For extraordinary purposes and for period of persistence of such purposes only.]
-+
+Amateur stations:: OM0AA-OM8ZZZ +
+OM0A-OM9Z {blank}footnote:[For international amateur contests.] +
+OM9AA-OM9ZZ {blank}footnote:[For extraordinary purposes and for period of persistence of such purposes only.] +
 OM9AAA-OM9SZZ {blank}footnote:[For foreigners transmitting from the Slovak Republic territory.]
 
 Experimental stations:: OM9TAA-OM9ZZZ
@@ -2211,23 +2230,25 @@ Amateur stations:: ZR {blank}footnote:[Full licence except VHF.], ZS {blank}foot
 
 Digits indicating the provinces:: 1 – Western Cape
 +
+--
 2 – Eastern Cape
-+
+
 3 – Northern Cape
-+
+
 4 – Free State
-+
+
 5 – Kwazulu-Natal
-+
+
 6 – Gauteng, North-West Province, Mpumalanga, Northern Province
-+
+
 7 – Sanae Antarctica
-+
+
 8 – Marion Island
-+
+
 9 – Namibia
-+
+
 0 – DIG repeaters and bulletins boards
+--
 
 Experimental stations:: ZT followed by a digit and 1, 2 or 3 letters
 
@@ -2243,9 +2264,11 @@ Temporary call signs:: Groups ED, EE and EF are used instead of EA, EB and EC; t
 
 Amateur stations:: 4S5 followed by 2 or 3 letters  –  Novice class B (VHF only)
 +
+--
 4S6 followed by 2 or 3 letters  –  Novice class A
-+
+
 4S7 followed by 2 or 3 letters  –  General/Advanced class
+--
 
 Experimental stations:: 4P3 followed by 2 letters
 
@@ -2288,23 +2311,25 @@ Amateur stations and experimental stations:: YK followed by a digit (indicating 
 
 Digits indicating the zones:: 1 – Southern Region
 +
+--
 2 – Northern Region
-+
+
 3 – Eastern Region
-+
+
 4 – Western Region
-+
+
 8 – Beacons
-+
+
 9 – Groups of foreign radio amateurs
-+
+
 0 – Club stations
+--
 
 [NOTE]
 ====
-i) Foreign individual radio amateurs will use YK followed by a stroke (/) and their home call sign.
+. Foreign individual radio amateurs will use YK followed by a stroke (/) and their home call sign.
 
-ii) Only for special events the radio amateurs will use 6C followed by a digit and by a group of not more than 3 letters.
+. Only for special events the radio amateurs will use 6C followed by a digit and by a group of not more than 3 letters.
 ====
 
 === Tanzania (United Republic of)
@@ -2319,27 +2344,29 @@ Amateur stations:: E2 or HS followed by a digit (indicating the area in which th
 
 Digits indicating the areas:: 0, 1 – Bangkok, Samut Prakan, Pathum Thani, Nonthaburi, Phra Nakhon Si Ayutthaya, Angthong, Saraburi, Lop Buri, Sing Buri, Chainat
 +
+--
 2 – Chon Buri, Rayong, Chanthaburi, Trat, Chachoengsao, Nakhon Nayok, Prachin Buri, Srakaew
-+
+
 3 – Nakhon Ratchasima, Chaiyaphum, Buriram, Surin, Sisaket, Ubon Ratchathani, Yasothon, Amnat Chareon
-+
+
 4 – Khon Kaen, Loei, Nong Khai, Udon Thani, Maha Sarakham, Kalasin, Sakon Nakhon, Mukdahan, Nakhon Phanom, Roi Et, Nong Bua Lum Phu
-+
+
 5 – Mae Hong Son, Chiang Mai, Lamphun, Lampang, Phrae, Uttaradit, Nan, Chiang Rai, Phayao
-+
+
 6 – Nakhon Sawan, Uthai Thani, Kamphaeng Phet, Tak, Phichit, Sukhothai, Phitsanulok, Phetchabun
-+
+
 7 – Ratchaburi, Samut Sokhon, Samut Songkhram, Nakhon Pathom, Suphan Buri, Kanchanaburi, Phetchaburi, Prachuap Khiri Khan
-+
+
 8 – Nakhon Si Thammarat, Krabi, Phangnga, Ranong, Surat Thani, Chumphon, Phuket
-+
+
 9 – Songkhla, Pattani, Yala, Narathiwat, Trang, Phatthalung, Satun
+--
 
 Experimental stations:: E22AAA-E22AZZ
 
 === Tonga (Kingdom of)
 
-Amateur stations:: A35followed by 2 letters
+Amateur stations:: A35 followed by 2 letters
 
 Experimental stations:: A35 followed by 3 letters, the first of which shall be the letter X
 
@@ -2380,41 +2407,14 @@ Experimental stations:: A62 followed by a group of not more than 3 letters
 === United Kingdom of Great Britain and Northern Ireland
 
 [%unnumbered]
+[cols="<.^,<.^"]
 |===
 2+^.^| Amateur and experimental stations
 ^.^| _Type of licence_ ^.^| _Form of call signs_
-.2+| Full/advanced/Club {blank}footnote:uk1[Where the licensee's main station address or a special contest station address is in the location listed below and operation is from that address, the call sign is amended by the insertion of a letter after the first character of the call signs indicated in the table above in accordance with the list as detailed below:
-
-None – England
-
-U – Guernsey
-
-D – Isle of Man
-
-J – Jersey
-
-I – Northern Ireland
-
-M – Scotland
-
-W – Wales] {blank}footnote:uk2[Where a club call sign is issued in the locations listed below, the call sign is amended by the insertion of a letter after the first character of the call signs indicated in the table above, in accordance with the list as detailed below:
-
-X – England
-
-P – Guernsey
-
-T – Isle of Man
-
-H – Jersey
-
-N – Northern Ireland
-
-S – Scotland
-
-C – Wales.]
+.2+| Full/advanced/Club footnoteblock:[uk1] footnoteblock:[uk2]
 | G followed by a digit (0-8) and by 2 or 3 letters
 | M followed by a digit (0, 1, 5) and by 3 letters
-| Intermediate {blank}footnote:uk3[Where the licensee's main station address is in the location listed under note 1) and operation is from that address, the call sign is amended by the substitution of the second character of the call signs indicated in the table above in accordance with the list as detailed under note 1), with the provision that there is no substitution in the case of location in England.]
+| Intermediate {blank}footnote:uk3[Where the licensee's main station address is in the location listed under <<uk1>>) and operation is from that address, the call sign is amended by the substitution of the second character of the call signs indicated in the table above in accordance with the list as detailed under <<uk1>>), with the provision that there is no substitution in the case of location in England.]
 | 2E followed by a digit (0, 1) and by 3 letters
 | Foundation {blank}footnote:uk1[] | M3 followed by 3 letters
 | Repeater stations | GB3 followed by 2 letters
@@ -2449,6 +2449,35 @@ a| VP8 followed by 3 letters  –  full licence VP8 followed by 4 letters  –  
 
 |===
 
+[[uk1]]
+[NOTE]
+--
+Where the licensee's main station address or a special contest station address is in the location listed below and operation is from that address, the call sign is amended by the insertion of a letter after the first character of the call signs indicated in the table above in accordance with the list as detailed below:
+
+[align=left]
+None – England +
+U – Guernsey +
+D – Isle of Man +
+J – Jersey +
+I – Northern Ireland +
+M – Scotland +
+W – Wales
+--
+
+[[uk2]]
+[NOTE]
+--
+Where a club call sign is issued in the locations listed below, the call sign is amended by the insertion of a letter after the first character of the call signs indicated in the table above, in accordance with the list as detailed below:
+
+[align=left]
+X – England +
+P – Guernsey +
+T – Isle of Man +
+H – Jersey +
+N – Northern Ireland +
+S – Scotland +
+C – Wales.
+--
 
 === United States of America
 
@@ -2489,10 +2518,11 @@ Experimental stations:: CV, CW or CX followed by a digit (1-9) and a group of no
 
 Amateur stations:: YJ8 followed by 2 letters (usually the initials of the licensed radio amateur)
 +
+--
 YJ8N {blank}footnote:[For amateur stations operated by beginners.] followed by 2 letters
-+
-YJ8V {blank}footnote:[For restricted licensees' amateur stations (VHF).] followed by 2 letters
 
+YJ8V {blank}footnote:[For restricted licensees' amateur stations (VHF).] followed by 2 letters
+--
 
 === Vatican City State
 
@@ -2516,7 +2546,7 @@ Amateur stations:: Z21AA-Z29ZZ
 
 <<<
 
-== AMENDMENTS
+== Amendments
 
 [%unnumbered]
 |===
@@ -2553,4 +2583,3 @@ Amateur stations:: Z21AA-Z29ZZ
 ^.^| 30 | |
 
 |===
-

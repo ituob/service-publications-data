@@ -1,0 +1,97 @@
+= SERVICE RESTRICTIONS (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+:bureau: T
+:docnumber: 1000
+:title: SERVICE RESTRICTIONS
+:published-date: 2012-03-15
+:doctype: service-publication
+:docfile: document.adoc
+:language: en
+:status: draft
+:mn-document-class: itu
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+
+
+== RECAPITULATORY LIST OF SERVICE RESTRICTIONS
+
+=== Note from the TSB
+
+. In pursuance of the provisions of Chapter VI of the Constitution of the International Telecommunication Union (Geneva, 1992) and the provisions of Article 7 of  the International Telecommunication Regulations (Melbourne, 1988), Administrations/ROAs should notify the ITU of their service restrictions, either temporarily or permanently, relating to the various international telecommunications services offered to the pubic, the suspension of services and the subsequent return to normal conditions, either generally or only for certain relations and/or for certain kinds of correspondence, outgoing, incoming or in transit. The TSB of the ITU shall immediately bring such information to the attention of all other Administrations/ROAs, using the more appropriate means of communication.
+
+. For many years, information concerning the Service Restrictions has been individually published in the ITU Operational Bulletins and then collected in a "Recapitulatory Table of Service Restrictions" which was published as Annex to the ITU Operational Bulletin.
+
+. This present Recapitulatory List of Service Restrictions replaces the "Recapitulatory Table of Service Restrictions" published in the Annex to the ITU Operational Bulletin No. 691 of 1 May 1999 and contains all subsequent communications published in the ITU Operational Bulletins up to No. 1000 of 15 March 2012.
+
+. Every effort has been made to ensure that the information contained in the present List is accurate. Administrations/ROAs are requested to check the information published therein and to inform the TSB of any changes that should be made for its updating (Fax: +41 22 730 5853; E-mail: tsbtson@itu.int).
+
+. Furthermore, the information contained in this Annex to the ITU Operational Bulletin No. 1000 is also available on the ITU web site: http://www.itu.int/itu-t/bulletin/annex.html
+
+. The designations employed and the presentation of material in this List do not imply the expression of any opinion whatsoever on the part of the ITU concerning the legal status of any country or geographical area, or of its authorities.
+
+
+[yaml2text,T-SP-SR.1-2012.yaml,file]
+----
+[%unnumbered,cols="1",options="header"]
+|===
+^.^|Country/geographical area
+
+{% for country in file.data %}
+{% assign geoarea = country[1].geographic_area %}
+{% assign restrictions = country[1].restrictions %}
+{% assign notes = country[1].notes.en %}
+
+a| *_{{ geoarea.fr }}_* +
+*_{{ geoarea.en }}_* +
+*_{{ geoarea.es }}_*
+
+{% if restrictions["telex_not_provided"] == true %}
+{{ file.metadata.locale.telex_not_provided.en }}
+{% endif %}
+
+{% if restrictions["telegram_not_provided"] == true %}
+{{ file.metadata.locale.telegram_not_provided.en }}
+{% endif %}
+
+{% if restrictions["no_messenger_dispatch"] == true %}
+{{ file.metadata.locale.no_messenger_dispatch.en }}
+{% endif %}
+
+{% for call in restrictions["no_collect_calls"] %}
+
+{% if call[1] == true %}
+
+{% case call[0] %}
+
+{% when "mobile" %} 
+{{ file.metadata.locale.no_collect_calls.mobile.en }}
+
+{% when "payphone" %}
+{{ file.metadata.locale.no_collect_calls.payphone.en }}
+
+{% when "audiotex" %}
+{{ file.metadata.locale.no_collect_calls.audiotex.en }}
+
+{% when "virtual" %}
+{{ file.metadata.locale.no_collect_calls.virtual.en }}
+
+{% when "virtual" %}
+{{ file.metadata.locale.no_collect_calls.virtual.en }}
+
+{% when "incoming" %}
+{{ file.metadata.locale.no_collect_calls.incoming.en }}
+
+{% when "outgoing" %}
+{{ file.metadata.locale.no_collect_calls.outgoing.en }}
+
+{% endcase %}
+
+{% endif %}
+
+{% endfor %}
+
+{{ notes }}
+
+{% endfor %}
+|===
+----

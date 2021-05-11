@@ -1,6 +1,8 @@
 #!/usr/bin/env ruby
 require 'csv'
 require 'yaml'
+require 'optparse'
+
 
 module CsvToStructuredHash
 
@@ -211,7 +213,8 @@ module CsvToStructuredHash
 
     {
       "metadata" => parse_metadata(metadata_section[:rows]),
-      "data" => parse_data(data_section[:rows], data_section[:meta])
+      "data" => parse_data(data_section[:rows], data_section[:meta]),
+      "meta" => data_section[:meta]
     }
   end
 
@@ -241,14 +244,103 @@ module CsvToStructuredHash
   end
 end
 
-csvfile = ARGV.pop
-raise "first argument must be a .csv file!" unless csvfile =~ /\.csv$/
 
-outfile = csvfile.gsub(/csv$/, "yaml")
+cli_options = {}
+OptionParser.new do |opts|
+  opts.banner = "Usage: ./structured_csv_to_yaml.rb [options]"
+  opts.on('-p [PUBLICATION_ID]', '--pub_id [PUBLICATION_ID]', "Specify the publication ID") do |v|
+    cli_options[:root_name] = v
+  end
+  opts.on("-c a.csv,b.csv,c.csv", "--csv a.csv,b.csv,c.csv", Array, "Specify one or more CSV files") do |list|
+    cli_options[:csv] = list    
+  end
+  opts.on('-h', '--help', 'Display this help') do 
+    puts opts
+    exit
+  end
+end.parse!
 
-IO.write(
-  outfile,
-  CsvToStructuredHash.convert(csvfile).to_yaml
-)
+if cli_options[:root_name]
+
+  outfile_annexes = "annexes.yaml"
+  default_type = "index"
+
+  annexes_root = cli_options[:root_name]
+  position_on = "????-??-??"
+
+  csv_files = Array.new
+  output_data = Hash.new
+  output_metadata = Hash.new
+
+  if cli_options[:csv]
+    cli_options[:csv].each do|fname|
+      puts "Argument must be a .csv file: #{fname}" unless fname =~ /\.csv$/
+      csv_files.push(fname)
+    end
+    else
+      puts "Please specify at least one .csv file"
+  end
+
+  first_csv = csv_files[0]
+
+  output_data[annexes_root] = Hash.new
+  output_data[annexes_root]["position_on"] = position_on
+  output_data[annexes_root]["datasets"] = Hash.new
+
+  csv_files.each do|fname|
+    parsed_csv = CsvToStructuredHash.convert(fname)
+    name_wo_ext = File.basename(fname, ".csv")
+
+    output_data[annexes_root]["datasets"][name_wo_ext] = {
+      "meta" => {
+        "schema" => {
+          "type" => "",
+          "item" => Hash.new
+        }
+      }
+    }
+
+    if parsed_csv["metadata"]["title"]
+      output_data[annexes_root]["datasets"][name_wo_ext]["meta"]["title"] = parsed_csv["metadata"]["title"]
+    end
+
+    if parsed_csv["metadata"]["locale"]
+      fields = Array.new
+      parsed_csv["metadata"]["locale"].each do |k, v|
+        
+        #text_type = "translated-text"
+        text_type = "text"
+
+        fields.push({
+          "id" => k,
+          "required" => true,
+          "label" => v,
+          "type" => text_type
+        })
+      end
+    end
+
+    if parsed_csv["metadata"][:type]
+      output_data[annexes_root]["datasets"][name_wo_ext]["meta"]["schema"] = {"type" => parsed_csv["metadata"][:type]}
+    else
+      output_data[annexes_root]["datasets"][name_wo_ext]["meta"]["schema"] = {"type" => default_type}
+    end
+
+    if fields
+      output_data[annexes_root]["datasets"][name_wo_ext]["meta"]["schema"]["item"] = fields
+    end
+    output_data[annexes_root]["datasets"][name_wo_ext]["contents"] = parsed_csv["data"]
+
+  end
+
+  IO.write(outfile_annexes, output_data.to_yaml)
+
+else
+  if ARGV.length == 0
+    puts "Please specify the publication ID and CSV files: --pub_id [PUBLICATION_ID] --csv a.csv,b.csv,c.csv"
+  else
+    puts "Please specify the publication ID: --pub_id [PUBLICATION_ID]"
+  end
+end
 
 # pp CsvToStructuredHash.convert(filename)

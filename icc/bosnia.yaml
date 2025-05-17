@@ -1,0 +1,582 @@
+---
+data:
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: Adria net d.o.o. Mostar
+  address_line_1: Dr. Ante Starčevića 46
+  address_line_2: 88000 Mostar
+  code: ADNISP
+  contact_person: 
+  tel: "+387 36 333 483"
+  fax: 
+  email: info@adrianet.eu
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: AKT.ONLINE d.o.o. Sarajevo
+  address_line_1: Fra Anđela Zvizdovića br. 1
+  address_line_2: 71000 Sarajevo
+  code: AKTBIH
+  contact_person: 
+  tel: "+387 33 296 621"
+  fax: "+387 33 296 622"
+  email: info@aktonline.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: Alfanet Informatika d.o.o. Prijedor
+  address_line_1: Majora Milana Tepića M1, lokal 5
+  address_line_2: 79101 Prijedor
+  code: ALFANE
+  contact_person: 
+  tel: "+387 52 212 000/+387 52 232 143"
+  fax: 
+  email: office@alfa-net.com; info@elektronika.rs.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: AMB-NET d.o.o. Živinice
+  address_line_1: Tupković bb
+  address_line_2: 75270 Živinice
+  code: A9M9B2
+  contact_person: 
+  tel: "+387 63 028 675"
+  fax: "+387 35 764 415"
+  email: ambnetdoo@gmail.com ; ambnetinternet@gmail.com
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: AVAX NET d.o.o. Lukavac
+  address_line_1: Kralja Tvrtka I bb
+  address_line_2: 75300 Lukavac
+  code: AVAXBH
+  contact_person: 
+  tel: "+387 80 020 231"
+  fax: "+387 35 553 696"
+  email: avaxba@yahoo.com
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: BH Telecom d.d. Sarajevo
+  address_line_1: Franca Lehara 7
+  address_line_2: 71000 Sarajevo
+  code: BHTBIH
+  contact_person: 
+  tel: "+387 33 232 651/+387 33 232 652"
+  fax: 
+  email: support@bih.net.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: Blicnet d.o.o. Banja Luka
+  address_line_1: Majke Jugovića br. 25
+  address_line_2: 78000 Banja Luka
+  code: BLICBH
+  contact_person: 
+  tel: "+387 51 921 000/+387 51 921 921"
+  fax: 
+  email: office@aneks.com
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: DASTO-SEMTEL d.o.o. Bijeljina
+  address_line_1: Račanska 98
+  address_line_2: 76300 Bijeljina
+  code: ZONABH
+  contact_person: 
+  tel: "+387 55 420 100"
+  fax: "+387 55 420 101"
+  email: info@zona.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: DINNET d.o.o. Gračanica
+  address_line_1: Zlatnih ljiljana bb
+  address_line_2: 75323 Gračanica
+  code: DINNET
+  contact_person: 
+  tel: "+387 35961700/+387 61660739"
+  fax: 
+  email: shop@dinnet.net
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: DOMOOPTIK d.o.o.
+  address_line_1: Tvornička br.3
+  address_line_2: 71000 Sarajevo
+  code: DOMBIH
+  contact_person: 
+  tel: "+ 387 33 943950"
+  fax: 
+  email: info@domooptik.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: DSL-ELEKTRONIKA d.o.o. Modriča
+  address_line_1: Cara Lazara bb
+  address_line_2: 74480 Modriča
+  code: DSLON
+  contact_person: 
+  tel: "+387 65 950 255/+387 53 813 005"
+  fax: 
+  email: info@dslon.ws
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: ELEKTRON GROUP d.o.o. Derventa
+  address_line_1: Derventski Lug 74
+  address_line_2: 74400 Derventa
+  code: BNET16
+  contact_person: 
+  tel: "+387 53 311 888"
+  fax: "+387 53 311 898"
+  email: electron@teol.net
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: ELIT M d.o.o. Bijeljina
+  address_line_1: Vidovdanska br. 48
+  address_line_2: 76300 Bijeljina
+  code: SCWLAN
+  contact_person: 
+  tel: "+387 55 215 255"
+  fax: 
+  email: office@scwlan.com
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: ELKATEL d.o.o. Tuzla
+  address_line_1: Fočanska br. 1N
+  address_line_2: 75000 Tuzla
+  code: ELKTEL
+  contact_person: 
+  tel: "+387 35 302 333"
+  fax: "+387 35 302 330"
+  email: elkatel@txtv.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: ELTA-MT d.o.o. Tuzla
+  address_line_1: Fočanska br. 1N
+  address_line_2: 75000 Tuzla
+  code: ELTAMT
+  contact_person: 
+  tel: "+387 35 302 333"
+  fax: 
+  email: elta-mt@elta-mt.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: EUROPRONET BOSNIA d.o.o. Sarajevo
+  address_line_1: Tvornička 37
+  address_line_2: 1210 Ilidža
+  code: EPNBIH
+  contact_person: 
+  tel: "+387 33 941 000/+387 33 213 200"
+  fax: 
+  email: office@europronet.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: FORMEA d.o.o. Visoko
+  address_line_1: Kralja Tvrtka bb
+  address_line_2: 71300 Visoko
+  code: FORMEA
+  contact_person: 
+  tel: "+387 32 739 217"
+  fax: 
+  email: prodaja@formea.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: HKB net d.o.o. Sarajevo
+  address_line_1: Džemala Bijedića 216
+  address_line_2: 71000 Sarajevo
+  code: HKBNET
+  contact_person: 
+  tel: "+387 33 844 404/+387 33 972 972"
+  fax: 
+  email: hs-hkb@hs-hkb.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: INTEGRA INŽENJERING d.o.o. Banja Luka
+  address_line_1: Trg Republike Srpske 8/XIII
+  address_line_2: 78000 Banja Luka
+  code: INTGRA
+  contact_person: 
+  tel: "+387 51 337 449"
+  fax: "+387 51 337 492"
+  email: integra@integralgrupa.com
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: ITS d.o.o. Široki Brijeg
+  address_line_1: Fra Didaka Buntića 72
+  address_line_2: 88220 Široki Brijeg
+  code: ITSF72
+  contact_person: 
+  tel: 
+  fax: "+387 39 704 249"
+  email: its@service-its.com
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: JetStream BH d.o.o.
+  address_line_1: Hiseta 15
+  address_line_2: 71000 Sarajevo
+  code: JETBIH
+  contact_person: 
+  tel: "+387 33 465 793"
+  fax: 
+  email: ws.jetstreamsubs@a1telekom.at
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: JP Elektroprivreda BiH d.d. Sarajevo
+  address_line_1: Vilsonovo šetalište 15
+  address_line_2: 71000 Sarajevo
+  code: JPEPBH
+  contact_person: 
+  tel: "+387 33 751 000/+387 33 751 008"
+  fax: 
+  email: www.elektroprivreda.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: JP HT d.d. Mostar
+  address_line_1: Kneza Branimira bb
+  address_line_2: 88000 Mostar
+  code: HTMBIH
+  contact_person: 
+  tel: "+387 36 395 555"
+  fax: "+387 36 395 279"
+  email: infoHT@hteronet.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: KAMER COMMERCE d.o.o. Sarajevo
+  address_line_1: Blažujski drum 14
+  address_line_2: 71210 Ilidža
+  code: PLUSBA
+  contact_person: 
+  tel: "+387 33 555 062"
+  fax: 
+  email: prodaja@plus.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: KATARINA d.o.o. Mostar
+  address_line_1: Dr. Ante Starčevića br.48
+  address_line_2: 88000 Mostar
+  code: KATISP
+  contact_person: 
+  tel: "+387 36 326 426"
+  fax: "+387 36 333 483"
+  email: katarina@katarina.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: KATV HS d.o.o. Sarajevo
+  address_line_1: Džemala Bijedića 216
+  address_line_2: 71000 Sarajevo
+  code: KATVHS
+  contact_person: 
+  tel: "+387 33 716 505/+387 33 716 377"
+  fax: 
+  email: hs-hkb@hs-hkb.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: KG-1 d.o.o. Goražde
+  address_line_1: Naselje Panorama bb
+  address_line_2: 73000 Goražde
+  code: C3N6A1
+  contact_person: 
+  tel: "+387 38 221 080/+387 38 240 130"
+  fax: 
+  email: kg1gorazde@gmail.com
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: K-NET d.o.o. Derventa
+  address_line_1: 1.maja br.46
+  address_line_2: 74400 Derventa
+  code: KNETBH
+  contact_person: 
+  tel: "+387 65 633 926/+387 53 333 815"
+  fax: 
+  email: k.netderventa@gmail.com
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: KTV E-G-E d.o.o. Doboj Jug
+  address_line_1: 203 brigade 305, Matuzići
+  address_line_2: 74203 Doboj-Jug
+  code: EGE123
+  contact_person: 
+  tel: "+387 63 285 024/+387 32 699 081"
+  fax: 
+  email: info@ktv-ege.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: Logosoft d.o.o. Sarajevo
+  address_line_1: Grbavička 4
+  address_line_2: 71000 Sarajevo
+  code: LGSFT1
+  contact_person: 
+  tel: "+387 33 931 900"
+  fax: "+387 33 931 901"
+  email: info@logosoft.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: M&H Company d.o.o. Sarajevo
+  address_line_1: Džemala Bijedića 216
+  address_line_2: 71000 Sarajevo
+  code: MHCOMP
+  contact_person: 
+  tel: "+387 33 716 505/+387 33 716 377"
+  fax: 
+  email: hs-hkb@hs-hkb.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: Media Sky d.o.o. Živinice
+  address_line_1: Druga Ulica 48
+  address_line_2: 75270 Živinice
+  code: MSKBIH
+  contact_person: 
+  tel: "+387 35 772 249"
+  fax: "+387 35 775 406"
+  email: mediasky@mediasky.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: MH ERS MP a.d. Trebinje, ZP Elektro Doboj a.d. Doboj
+  address_line_1: Nikole Pašića br.77
+  address_line_2: 74000 Doboj
+  code: ELEDOB
+  contact_person: 
+  tel: "+387 53 209 733"
+  fax: "+387 53 241 344"
+  email: info@elektrodoboj.net
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: MISS.NET d.o.o. Bihać
+  address_line_1: Sarajevska 24
+  address_line_2: 77000 Bihać
+  code: MISNET
+  contact_person: 
+  tel: "+387 37 961 000"
+  fax: "+387 37 961 503"
+  email: missnet@missnet.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: Neon Solucije d.o.o. Kalesija
+  address_line_1: Miljanovci bb
+  address_line_2: 75260 Kalesija
+  code: NEONBA
+  contact_person: 
+  tel: "+387 35 617 482"
+  fax: "+387 35 617 493"
+  email: info@neon.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: NET-FLET d.o.o. Bugojno
+  address_line_1: Bosanska 14
+  address_line_2: 70230 Bugojno
+  code: BNTFLT
+  contact_person: 
+  tel: "+387 30 961 150"
+  fax: 
+  email: info@net-flet.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: novotel d.o.o.
+  address_line_1: Džemala Bijedića br. 39
+  address_line_2: 71000 Sarajevo
+  code: NOVOBH
+  contact_person: 
+  tel: "+ 387 33 953 400"
+  fax: 
+  email: info@novotel.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: ORTAK d.o.o. Šipovo
+  address_line_1: Vojvode Radomira Putnika bb
+  address_line_2: 78364 Šipovo
+  code: 1ORTAK
+  contact_person: 
+  tel: "+387 50 360 410/+387 50 360 411"
+  fax: 
+  email: kancelarija@kdsortak.net
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: PRVI FORTIS PROJEKT d.o.o.
+  address_line_1: Hercegovačkog ustanka bb.
+  address_line_2: 88390 Neum
+  code: PFPBIH
+  contact_person: 
+  tel: "+387 36 807 167"
+  fax: 
+  email: prvifortisprojekt@gmail.com
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: SECTOR TECHNOLOGY d.o.o. Brčko distrikt BiH
+  address_line_1: Branislava Nušića br.19
+  address_line_2: 76100 Brčko
+  code: SECTOR
+  contact_person: 
+  tel: "+387 49 230 770"
+  fax: 
+  email: office@sector.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: SiOL d.o.o. Sarajevo
+  address_line_1: Fra Anđela Zvizdovića 1
+  address_line_2: 71000 Sarajevo
+  code: SIOLSA
+  contact_person: 
+  tel: "+387 33 881 118/+387 33 861 010"
+  fax: 
+  email: admir.kudic@sgl.ba; sreta.maric@telekom.si
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: SOFTNET d.o.o. Sarajevo
+  address_line_1: Fra Anđela Zvizdovića 1
+  address_line_2: 71000 Sarajevo
+  code: SNBH05
+  contact_person: 
+  tel: "+387 33 551 360"
+  fax: "+387 33 551 361"
+  email: info@softnet.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: Stokić d.o.o. Doboj
+  address_line_1: Velika Bukovica 34
+  address_line_2: 74213 Doboj
+  code: GOJA65
+  contact_person: 
+  tel: "+387 65 680 573/+387 53 286 145"
+  fax: 
+  email: stokicdoo@hotmail.com
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: TEAM:MEDIA d.o.o. Sarajevo
+  address_line_1: Igmanska bb, Krug UNIS-PRETIS
+  address_line_2: 71320 Vogošća
+  code: TEAMBH
+  contact_person: 
+  tel: "+387 33 257 241"
+  fax: 
+  email: info@team-media.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: TEAM CONSULTING d.o.o. Sarajevo
+  address_line_1: Tvornička 3
+  address_line_2: 71000 Sarajevo
+  code: TEAMAC
+  contact_person: 
+  tel: "+387 62 348 797/+387 33 922 474"
+  fax: 
+  email: info@team.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: TELEKLIK d.o.o. Banja Luka
+  address_line_1: Kralja Petra II Karađorđevića 39
+  address_line_2: 78000 Banja Luka
+  code: TLKNET
+  contact_person: 
+  tel: "+387 51 321 013/+387 51 321 008"
+  fax: 
+  email: info@teleklik.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: Telekom Srpske a.d. Banja Luka
+  address_line_1: Vuka Karadžića broj 2
+  address_line_2: 78000 Banja Luka
+  code: MTELBH
+  contact_person: 
+  tel: "+387 51 240 100"
+  fax: "+387 51 211 150"
+  email: ts.office@mtel.ba; korisnicka.podrska@mtel.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: Telemach BH d.o.o. Sarajevo
+  address_line_1: Džemala Bijedića 216
+  address_line_2: 71000 Sarajevo
+  code: TLMBIH
+  contact_person: 
+  tel: "+387 33 466 043"
+  fax: 
+  email: info@telemach.co.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: TELESKY d.o.o. Gradačac
+  address_line_1: 1. mart br. 14
+  address_line_2: 76250 Gradačac
+  code: TELE15
+  contact_person: 
+  tel: "+387 35 560 560"
+  fax: 
+  email: kontakt@telesky.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: TELINEA d.o.o. Bihać
+  address_line_1: Dr.Irfana Ljubijankića 148
+  address_line_2: 77000 Bihać
+  code: TELBIH
+  contact_person: 
+  tel: "+387 37 901 901/+387 37 689 530"
+  fax: 
+  email: info@telinea.com
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: Tel-Net d.o.o. Ključ
+  address_line_1: Branilaca BiH bb
+  address_line_2: 79280 Ključ
+  code: TLNAD1
+  contact_person: 
+  tel: "+387 37 662 088"
+  fax: 
+  email: doo.telnet@gmail.com
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: TEONET d.o.o. Tuzla
+  address_line_1: Armije BiH 15
+  address_line_2: 75000 Tuzla
+  code: T30C4K
+  contact_person: 
+  tel: "+387 65 388 389"
+  fax: 
+  email: teonet.doo@gmail.com
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: Terc Trade Company d.o.o. Prnjavor
+  address_line_1: Novaka Pivaševića 36
+  address_line_2: 78430 Prnjavor
+  code: TERCTT
+  contact_person: 
+  tel: "+387 51 640 040"
+  fax: 
+  email: terc@teol.net
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: TRION TEL d.o.o. Banja Luka
+  address_line_1: Vidovdanska broj 8
+  address_line_2: 78000 Banja Luka
+  code: 3ONBIH
+  contact_person: 
+  tel: "+387 51 491 700"
+  fax: 
+  email: info@triontel.net
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: TX TV d.o.o. Tuzla
+  address_line_1: Fočanska 1N
+  address_line_2: 75000 Tuzla
+  code: TXTVBH
+  contact_person: 
+  tel: "+387 35 302 333"
+  fax: "+387 35 302 330"
+  email: internet@txtv.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: Univerzitet u Sarajevu (UNSA) Univerzitetski Tele-Informatički Centar (UTIC)
+  address_line_1: Obala Kulina bana 7/II
+  address_line_2: 71000 Sarajevo
+  code: UTIC
+  contact_person: 
+  tel: "+387 33 560 240"
+  fax: "+387 33 213 773"
+  email: support@utic.net.ba
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: Wirac.Net d.o.o. Gračanica
+  address_line_1: Zlatnih ljiljana bb
+  address_line_2: 75320 Gračanica
+  code: WNETBH
+  contact_person: 
+  tel: "+387 35 707 035"
+  fax: "+387 35 708 296"
+  email: info@wirac.net
+- country_name: Bosnia and Herzegovina
+  country_code: BIH
+  organization: ZipZap d.o.o. Zenica
+  address_line_1: Londža 92
+  address_line_2: 72000 Zenica
+  code: ZIPZAP
+  contact_person: 
+  tel: "+387 32 200 860"
+  fax: "+387 32 200 861"
+  email: info@zipzap.ba

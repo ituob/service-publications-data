@@ -1,0 +1,22 @@
+---
+data:
+- country_name: Namibia (Republic of)
+  country_code: NAM
+  organization: Telecom Namibia Ltd.
+  address_line_1: PO Box 297
+  address_line_2: WINDHOEK 9000
+  code: NMB
+  contact_person: Mr Norman Bastiaans
+  tel: "+264 61 201 2444"
+  fax: "+264 61 201 2603"
+  email: 
+- country_name: Namibia (Republic of)
+  country_code: NAM
+  organization: Loc Eight Mobile (Pty) Ltd
+  address_line_1: Maerua Park
+  address_line_2: Centaurus Road, WINDHOEK
+  code: LOC801
+  contact_person: Mr Collin Nico Uirab
+  tel: "+264 813472309"
+  fax: 
+  email: collin@loc8it.com.na

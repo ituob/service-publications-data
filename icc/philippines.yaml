@@ -1,0 +1,142 @@
+---
+data:
+- country_name: Philippines (Republic of the)
+  country_code: PHL
+  organization: Capitol Wireless Inc. (CAPWIRE)
+  address_line_1: 6/F Dolmar Gold Tower, 107 Carlos Palanca Jr.
+  address_line_2: Legaspi Village, MAKATI CITY 1229
+  code: CWIMLA
+  contact_person: Maureen V Santiago
+  tel: "+63 2 818 6694"
+  fax: "+63 2 894 1142"
+  email: 
+- country_name: Philippines (Republic of the)
+  country_code: PHL
+  organization: Digital Telecommunications Phillipines, Inc.
+  address_line_1: 110 E Rodriguez JR Ave. Bagumbayan
+  address_line_2: 1110 QUEZON CITY
+  code: DGTL
+  contact_person: Btty William S Paminman
+  tel: "+63 2 635 6142"
+  fax: "+63 2 635 6142"
+  email: paminmanb@ditsi.com.ph
+- country_name: Philippines (Republic of the)
+  country_code: PHL
+  organization: Dito Telecommunity Corporation
+  address_line_1: 11/F Udenna Tower, Rizal Drive cor. 4th Avenue
+  address_line_2: Bonifacio Global City, Taguig City 1634
+  code: DITO
+  contact_person: Atty. Holy T. Ampaguey / Atty. Niño Martin Cruz
+  tel: "+63 2 82822888"
+  fax: 
+  email: holy.ampaguey@dito.ph; nino.cruz@dito.ph
+- country_name: Philippines (Republic of the)
+  country_code: PHL
+  organization: Eastern Telecommunications Philippines Inc.
+  address_line_1: Telecoms Plaza, 316 Sen. G. puyat Ave. Ext
+  address_line_2: Makati, METRO MANILA
+  code: ETPI
+  contact_person: Jose P. Roxas SVP EAD
+  tel: "+63 2 816 0001"
+  fax: "+63 2 816 4322"
+  email: 
+- country_name: Philippines (Republic of the)
+  country_code: PHL
+  organization: Easycall Communications Phils., Inc.
+  address_line_1: 418 Arayat Cor. Libertad Sts.
+  address_line_2: MANDALUYONG CITY, METRO MANILA
+  code: ECPI
+  contact_person: Edgardo T. Abalos
+  tel: "+63 2 533 5107"
+  fax: "+63 2 533 4390"
+  email: eta@easycall.net.ph
+- country_name: Philippines (Republic of the)
+  country_code: PHL
+  organization: Ermita Electronics Inc.
+  address_line_1: Unit 2503 - East tower Philippine Stock Exch.
+  address_line_2: PASIG CITY, METRO MANILA
+  code: ERMITA
+  contact_person: Roberto V. Carandang
+  tel: "+63 2 636 0303"
+  fax: "+63 2 634 6388"
+  email: roberto_carandang@yahoo.com
+- country_name: Philippines (Republic of the)
+  country_code: PHL
+  organization: Express Telecommunications Co. Inc. (Extelcom)
+  address_line_1: 11th Floor Octagon Bldg, San Miguel Avenue
+  address_line_2: Ortigas Center, PASIG CITY
+  code: P973
+  contact_person: Louie B. Sapiera
+  tel: "+63 2 634 0001"
+  fax: "+63 2 635 5428"
+  email: 
+- country_name: Philippines (Republic of the)
+  country_code: PHL
+  organization: Globe Telecom Inc. (GMCR)
+  address_line_1: Globe Telecom plaza, Pioneer Corner Madison
+  address_line_2: 1552 MANDALUYONG CITY
+  code: GLOBE
+  contact_person: Teresa V. Kong
+  tel: "+63 2 730 2808"
+  fax: "+63 2 739 3344"
+  email: kongtv@globetel.com.ph
+- country_name: Philippines (Republic of the)
+  country_code: PHL
+  organization: International Communications Corporation
+  address_line_1: 5/F Benpres Bldg, Meralco Corner
+  address_line_2: PASIG, METRO MANILA
+  code: ICC
+  contact_person: Sherry Ann Supelana
+  tel: "+63 2 633 3375"
+  fax: "+63 2 633 3382"
+  email: 
+- country_name: Philippines (Republic of the)
+  country_code: PHL
+  organization: Oceanic Wireless Network, Inc.
+  address_line_1: 3/F Electra Bldg, 115-117 Esteban St. Legaspi
+  address_line_2: MAKATI CITY
+  code: OWNI
+  contact_person: Eng. Ernesto O. Santos
+  tel: "+63 2 815 3753"
+  fax: "+63 2 815 3750"
+  email: 
+- country_name: Philippines (Republic of the)
+  country_code: PHL
+  organization: Philippine Communications Satellite Corporation
+  address_line_1: 11/F Telecoms Plaza Bldg, 316 Sen.Gil Puyat A
+  address_line_2: 1200 MAKATI CITY
+  code: PCSAT
+  contact_person: Benito A. Tolentino
+  tel: "+63 2 815 9610"
+  fax: "+63 2 817 4131"
+  email: pcsattpo@info.com.ph
+- country_name: Philippines (Republic of the)
+  country_code: PHL
+  organization: Philippine Global Communications Inc. (Philcom)
+  address_line_1: 8755 Paseo de Roxas
+  address_line_2: Makati, METRO MANILA 3117
+  code: PGCI
+  contact_person: Antonio A. Ong
+  tel: "+63 2 816 2851"
+  fax: "+63 2 818 9720"
+  email: 
+- country_name: Philippines (Republic of the)
+  country_code: PHL
+  organization: Philippine Long Distance Telephone Company
+  address_line_1: PO Box 2148, Ramon Cojuangco Bldg.
+  address_line_2: MAKATI CITY 0721
+  code: PLDT
+  contact_person: Alfredo B. Carrera
+  tel: "+63 2 817 4600"
+  fax: "+63 2 894 3521"
+  email: gnlim@pldt.com.ph
+- country_name: Philippines (Republic of the)
+  country_code: PHL
+  organization: Smart Communications Inc.
+  address_line_1: 11/F Rufino Pacific Towers, Ayala Ave.
+  address_line_2: MAKATI CITY
+  code: SMART
+  contact_person: Orlando B. Vea
+  tel: "+63 2 811 0211"
+  fax: "+63 2 892 4844"
+  email:

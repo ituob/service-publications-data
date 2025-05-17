@@ -1,0 +1,32 @@
+---
+data:
+- country_name: Palau
+  country_code: PLW
+  organization: Palau Communication and Electronics Company
+  address_line_1: PECI Building, P.O. Box 605
+  address_line_2: Malakal, Koror, Palau 96940
+  code: PCEC
+  contact_person: Mr Sebastian Masang
+  tel: "+680 488 2628"
+  fax: "+680 488 2733"
+  email: regulatory_b2b@palautelecoms.com
+- country_name: Palau
+  country_code: PLW
+  organization: Palau Mobile Communications Incorporated
+  address_line_1: PDC Building, P.O. Box 401461
+  address_line_2: Medalaii, Koror, Palau 96940
+  code: PMCI
+  contact_person: Mr Billy Takamine
+  tel: "+680 488 1189"
+  fax: 
+  email: info@pmci.pw
+- country_name: Palau
+  country_code: PLW
+  organization: Palau National Communications Corporation
+  address_line_1: PNCC Building, P.O. Box 99
+  address_line_2: One Airport Road, Koror, Palau 96940
+  code: PNCC
+  contact_person: Mr Myers Techitong
+  tel: "+680 488 9000"
+  fax: "+680 488 1888"
+  email: tmyers@pnccpalau.com

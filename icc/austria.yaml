@@ -1,0 +1,132 @@
+---
+data:
+- country_name: Austria
+  country_code: AUT
+  organization: CyberTron Austrian Digital Telekom GmbH
+  address_line_1: Davidgasse 94
+  address_line_2: A-1100 WIEN
+  code: CYBER
+  contact_person: Christian Forstner
+  tel: "+43 1 919 29"
+  fax: "+43 1 919 29 1209"
+  email: 
+- country_name: Austria
+  country_code: AUT
+  organization: Etel Austria AG
+  address_line_1: Technopark Thomas A., Edison Str. 1
+  address_line_2: A-7000 EISENSTADT
+  code: ETELAT
+  contact_person: Fritz Wildt
+  tel: "+43 2682 998 98 5423"
+  fax: 
+  email: wildt@etel.at
+- country_name: Austria
+  country_code: AUT
+  organization: European Telecom International AG
+  address_line_1: Floragasse 7
+  address_line_2: A-1040 WIEN
+  code: ET1007
+  contact_person: Markus Kollermann
+  tel: "+43 1 5060 1200"
+  fax: "+43 1 5060 1999 200"
+  email: mkollermann@europeantelecom.at
+- country_name: Austria
+  country_code: AUT
+  organization: FaciliCom International GmbH
+  address_line_1: Helligenstadter Lande 27c
+  address_line_2: A-1190 WIEN
+  code: FCI
+  contact_person: Ing. Franz Bader
+  tel: "+43 1 360 19 1120"
+  fax: "+43 1 360 19 2222"
+  email: franz.bader@eu.facilicom.com
+- country_name: Austria
+  country_code: AUT
+  organization: FiberEins TK GmbH
+  address_line_1: Castelligasse 1/15
+  address_line_2: 1050 WIEN
+  code: FIBER
+  contact_person: Mr Herbert Flatscher
+  tel: "+43 1 2810281"
+  fax: "+43 1 2810281-99"
+  email: flatscher@fibereins.at
+- country_name: Austria
+  country_code: AUT
+  organization: Max. Mobil Telekommunikation Service GmbH
+  address_line_1: Kelsenstrasse 5-7
+  address_line_2: A-1030 WIEN
+  code: MAX676
+  contact_person: Christian Walzel
+  tel: "+43 1 79585 6448"
+  fax: "+43 1 79585 6535"
+  email: christian.walzel@maxmobil.at
+- country_name: Austria
+  country_code: AUT
+  organization: MCN Millennium Communication Network
+  address_line_1: Handelskai 94-96
+  address_line_2: A-1200 WIEN
+  code: MCNAT
+  contact_person: Andreas Harti
+  tel: "+43 1 20700 1010"
+  fax: "+43 1 20700 1099"
+  email: andreas.hartl@mcn-tower.com
+- country_name: Austria
+  country_code: AUT
+  organization: Mobilkom Austria AG & Co. Kg.
+  address_line_1: Obere Donaustrasse 29
+  address_line_2: A-1020 WIEN
+  code: AUTMK
+  contact_person: Dr Werner Wiedermann
+  tel: "+43 1 33161 6000"
+  fax: "+43 1 33161 6009"
+  email: w.wiedermann@mobilkom.at
+- country_name: Austria
+  country_code: AUT
+  organization: RSLCom Austria AG
+  address_line_1: Technopark Eisenstadt
+  address_line_2: A-7000 EISENSTADT
+  code: RSLCOM
+  contact_person: Peter Ziegelwanger
+  tel: "+43 2682 716 5250"
+  fax: "+43 2682 716 5279"
+  email: pz@rslcom.at
+- country_name: Austria
+  country_code: AUT
+  organization: Tele2 UTA Telecommunication GmbH
+  address_line_1: Donau-City-Str. 11
+  address_line_2: A-1220 WIEN
+  code: UTA
+  contact_person: Werner Augustin
+  tel: "+43 1 9009 3426"
+  fax: "+43 1 9009 93426"
+  email: werner.augustin@uta.at
+- country_name: Austria
+  country_code: AUT
+  organization: Telekom Austria Aktiengesellschaft
+  address_line_1: Postgasse 8
+  address_line_2: A-1010 WIEN
+  code: AUTTA
+  contact_person: Martin Fröhlich
+  tel: "+43 59059 1 16002"
+  fax: "+43 59059 1 16009"
+  email: martin.froehlich@telekom.at
+- country_name: Austria
+  country_code: AUT
+  organization: Well.Com Data Highway Burgenland GmbH
+  address_line_1: Technologiezentrum
+  address_line_2: A-7000 EISENSTADT
+  code: WELLCO
+  contact_person: Wolfgang Eder
+  tel: "+43 2682 704 3345"
+  fax: "+43 2682 704 3314"
+  email: w.eder@wellcom.at
+- country_name: Austria
+  country_code: AUT
+  organization: yuutel GmbH
+  address_line_1: Leonard Bernsteinstrasse 10
+  address_line_2: 1220 WIEN
+  code: YUUTEL
+  contact_person: Mr Markus Scherer (CTO)
+  tel: "+43 12145130-0"
+  fax: 
+  email: solutions@yuutel.at

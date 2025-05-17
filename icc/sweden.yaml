@@ -1,0 +1,32 @@
+---
+data:
+- country_name: Sweden
+  country_code: SE
+  organization: Bahnhof AB
+  address_line_1: Sveavägen 41
+  address_line_2: SE-111 34 STOCKHOLM
+  code: BHOF01
+  contact_person: Philip Göransson
+  tel: "+46 71110137"
+  fax: 
+  email: philip.goransson@bahnhof.net
+- country_name: Sweden
+  country_code: SE
+  organization: Tele2 Sverige AB
+  address_line_1: P.O. Box 62
+  address_line_2: SE-164 94 KISTA
+  code: TELE2
+  contact_person: Carl-Johan Rydén
+  tel: "+46 8 562 000 60"
+  fax: 
+  email: carljohan.ryden@tele2.com
+- country_name: Sweden
+  country_code: SE
+  organization: Telia Company AB
+  address_line_1: Stjärntorget 1
+  address_line_2: SE-169 94 SOLNA
+  code: TELIA
+  contact_person: Sofia Donner
+  tel: "+46 8 504 550 00"
+  fax: 
+  email: sofia.donner@teliacompany.com
